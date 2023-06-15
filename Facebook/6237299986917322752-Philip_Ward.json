@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6237299986917322752/",
+    "participants": [
+        {
+            "name": "Philip Ward",
+            "title": "Act! Platform Manager at Swiftpage",
+            "url": "linkedin.com/in/philip-ward-b9aa1853",
+            "phone": null,
+            "email": "philipmward@hotmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-14T16:03:00.000Z",
+            "message": "Thank you for the interview today! :)\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-03T03:19:00.000Z",
+            "message": "Hey! Looking forward to Monday. Anything I should study ahead of time? Want to come to dinner with a bunch of nerds Friday?\n"
+        }
+    ]
+}

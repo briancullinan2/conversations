@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6235553374687809536/",
+    "participants": [
+        {
+            "name": "Mike Anderson",
+            "title": "IT",
+            "url": "linkedin.com/in/mikeandersonprofile",
+            "phone": null,
+            "email": "mikea8000@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-09T20:22:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

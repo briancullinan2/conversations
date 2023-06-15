@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6211332670421557248/",
+    "participants": [
+        {
+            "name": "John Bernard",
+            "title": "Executive Vice President at Infodat",
+            "url": "linkedin.com/in/john-bernard-57a14912",
+            "phone": null,
+            "email": "austinjohnb@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "You've arrived just in time! You must be a wizard!\n",
+            "time": "2017-12-05T00:18:00.000Z"
+        }
+    ]
+}

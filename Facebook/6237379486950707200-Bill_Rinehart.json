@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6237379486950707200/",
+    "participants": [
+        {
+            "name": "Bill Rinehart",
+            "title": "Founder, Chairman, CEO at DUFL",
+            "url": "linkedin.com/in/billrinehart",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-14T21:19:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

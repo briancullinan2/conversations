@@ -1,0 +1,27 @@
+{
+    "thread": "https://www.facebook.com/messages/archived/t/27706304",
+    "participants": [
+        {
+            "name": "Christopher James Hanks",
+            "description": "",
+            "url": "https://www.facebook.com/profile.php?id=27706304"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Christopher",
+            "time": "2005-10-04T21:49:00.000Z",
+            "message": "\nIf you have standard 4 port routers that have no specified input/output ports such as.http://games.dlink.com/products/?pid=370  Of course there are cheaper ones (that work just as good), but the ones best for such are generally d-link I have found.  If you connect each in a two hub pattern.  As well, I am not entirely sure in gaming networking, I just assume computer networking is the same.\n\nhub 1 >>>Hub2\nhub 1>>> hub 3\n\nhub 2>> hub 4\nhub 2>>hub 5\n\nGives you (5 hubs X 4 ports per) 20 ports minus 4.  So 16 ports for ever 5 hubs.  It's been like 2 years since I set up my last network, but I think that's right.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2005-10-05T00:15:00.000Z",
+            "message": "Brian\nIt sounds like that setup would work.  In the past i have just found that a D-Link with a WEP plugged in can kind of host 4 more routers plugged into the ports giving a total of 16 that is really the only configuration i have played around with and it will be a while before the club has more then 16 participating members.  Here is an example:\r\n\r\nWEP\r\n          |\r\n                 Hub0\r\n/             |             |               \\\r\nHub1   Hub2      Hub3        Hub4\r\n/ | | \\   / | | \\    /  |  |  \\      /   |   |   \\\r\n1234   5678   9 10 11 12 13 14 15 16\r\n\r\nI have always had luck with this setup so the daisy chaining hasn't started yet but i wonder if it would be possible to really expand on that.\n"
+        },
+        {
+            "from": "Christopher",
+            "time": "2005-10-05T00:15:00.000Z",
+            "message": "\nThe problem with that setup is it causes high latency.   Stress on Hub0.\r\n\r\nBecause 1-2-3-4 have to pass through not only hub1 but Hub0, as well as Hub4...meaning 3/4 of all transfers run through Hub0.  I mean if it works, then keep it I guess..but usually it's less efficient.  I know on computers it often freezes connections, and screws with port numbers.  Basically like when you work on light bulbs.  If you put them in parallel circuit all of the lights get equal power, if you put them in straight circuit the first gets more power than the lights following.\n\n"
+        }
+    ]
+}

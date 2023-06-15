@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6212253989887631360/",
+    "participants": [
+        {
+            "name": "David Wu",
+            "title": "Chief Technology Officer at Santa Clara County Office of Education",
+            "url": "linkedin.com/in/davidcwu",
+            "phone": null,
+            "email": "dwu@dwu.net"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-07T13:19:00.000Z"
+        }
+    ]
+}

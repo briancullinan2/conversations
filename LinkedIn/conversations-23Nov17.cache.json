@@ -1,0 +1,136 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "23Nov17",
+    "participants": "Lucy Luo | Recruiter at Akuna Capital > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Lucy Luo",
+        "url": "linkedin.com/in/lucy-luo-40958058",
+        "email": "luojin366@163.com",
+        "title": "Recruiter at Akuna Capital"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "We are hiring. I'd like to add you to my professional network on LinkedIn.\n\n- Lucy Luo",
+    "time": "2017-11-23T04:16:00.000Z",
+    "title": "Recruiter at Akuna Capital"
+  },
+  {
+    "type": "conversations",
+    "conversations": "23Nov17",
+    "participants": "Brian Cullinan | wizard > Anders Dale | Professor at UCSD",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Anders Dale",
+        "url": "linkedin.com/in/anders-dale-46369a16",
+        "email": "amdale@ucsd.edu",
+        "title": "Professor at UCSD"
+      }
+    ],
+    "message": "I realized I am a genius, how do I measure it to prove it?\n\n- Brian Cullinan",
+    "time": "2017-11-23T15:38:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "23Nov17",
+    "participants": "Brian Cullinan | wizard > Anders Dale | Professor at UCSD",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Anders Dale",
+        "url": "linkedin.com/in/anders-dale-46369a16",
+        "email": "amdale@ucsd.edu",
+        "title": "Professor at UCSD"
+      }
+    ],
+    "message": "You must be a genius! ;D",
+    "time": "2017-11-23T16:20:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "23Nov17",
+    "participants": "Brian Cullinan | wizard > Tejal (Riddhi) Wagadia | Senior Technical Recruiter - 480-291-8033",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Tejal (Riddhi) Wagadia",
+        "url": "linkedin.com/in/riddhiwagadia",
+        "title": "Senior Technical Recruiter - 480-291-8033"
+      }
+    ],
+    "message": "I would love that. Thank you for reaching out and being so direct. I just took another position though.",
+    "time": "2017-11-23T16:19:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "23Nov17",
+    "participants": "Brian Cullinan | wizard > Bob Edmonston | iOS Engineer at Intuit (Contract) - TurboTax Team at The Cydio Group",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Bob Edmonston",
+        "url": "linkedin.com/in/bedmonston",
+        "email": "bob@inzan.com",
+        "title": "iOS Engineer at Intuit (Contract) - TurboTax Team at The Cydio Group"
+      }
+    ],
+    "message": "You must be a genius :D",
+    "time": "2017-11-23T04:42:00.000Z",
+    "title": "wizard"
+  }
+]

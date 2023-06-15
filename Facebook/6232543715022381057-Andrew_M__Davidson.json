@@ -1,0 +1,59 @@
+{
+    "thread": "/messaging/thread/6232543715022381057/",
+    "participants": [
+        {
+            "name": "Andrew M. Davidson",
+            "title": "Senior Recruitment, Staffing and Direct Hire Consultant 480-263-3774",
+            "url": "linkedin.com/in/premierplacement",
+            "phone": "480 263-3774 (Mobile)",
+            "email": "andrewmarkdavidson@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-01T13:03:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Andrew M. Davidson",
+            "time": "2018-02-01T13:06:00.000Z",
+            "message": "For sure! Let me know if you need anything, feel free to send me a resume.\nAndrew@empowerstaffinggroup.com\n"
+        },
+        {
+            "from": "Andrew M. Davidson",
+            "time": "2017-03-16T18:26:00.000Z",
+            "message": "Nice work, Phil Ward is an awesome developer and great guy to work with.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-16T18:30:00.000Z",
+            "message": "Thank you. :D I really needed this and these guys are all pretty enlightened and level headed.\n"
+        },
+        {
+            "from": "Andrew M. Davidson",
+            "time": "2017-05-16T11:12:00.000Z",
+            "message": "How is it going at swiftpage?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-16T13:34:00.000Z",
+            "message": "Good so far. Kind of annoyed with writing unit tests in angular. Similar BS learning curve as with all test suites.\n"
+        },
+        {
+            "from": "Andrew M. Davidson",
+            "time": "2017-05-16T22:09:00.000Z",
+            "message": "Learning is good. Frustrating, but progress. How is Phil? Team is a good fit?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-17T16:16:00.000Z",
+            "message": "Phil is really kind. The team is great and really hard working.\n"
+        },
+        {
+            "from": "Andrew M. Davidson",
+            "time": "2017-05-17T19:30:00.000Z",
+            "message": "Awesome. Well enjoy and say hi to Phil for me.\n"
+        }
+    ]
+}

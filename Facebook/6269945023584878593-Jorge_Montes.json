@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6269945023584878593/",
+    "participants": [
+        {
+            "name": "Jorge Montes",
+            "title": ".NET Software Engineer at Blucora / TaxAct",
+            "url": "linkedin.com/in/jorge-montes-80021a1b",
+            "phone": "",
+            "email": "jmontes.isi@hotmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Jorge Montes",
+            "time": "2017-05-15T18:01:00.000Z",
+            "message": "Hi Brian, I am a senior software developer in the financial industry. I am currently obtaining certifications on the Microsoft technology stack. We share LinkedIn connections. I'd like to add you to my professional network on LinkedIn.\n-Jorge Montes\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-15T18:03:00.000Z",
+            "message": "What certifications are you going for?\n"
+        },
+        {
+            "from": "Jorge Montes",
+            "time": "2017-05-15T18:06:00.000Z",
+            "message": "Hi Brian, thanks for accepting the connection invite. I'm pursuing an MCSA, and will get the MTA for good measure :)\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-15T18:24:00.000Z",
+            "message": "Do companies still look at that kind of thing?\n"
+        },
+        {
+            "from": "Jorge Montes",
+            "time": "2017-05-15T19:15:00.000Z",
+            "message": "Were you thinking of getting some certs? I've only seen a few companies say they prefer them. My take on it is that in order to find work, the more experience you have, the less important the cert becomes. They become more important if you are trying to move into an architect role, or into management.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-15T19:44:00.000Z",
+            "message": "Yeah that makes sense. I really want to get a CISA.\n"
+        }
+    ]
+}

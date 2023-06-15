@@ -1,0 +1,63 @@
+{
+    "thread": "https://www.facebook.com/messages/t/rohwedernt",
+    "participants": [
+        {}
+    ],
+    "messages": [
+        {
+            "from": "Brian",
+            "message": "Brian\nSikuli can do OS automation. So you could write a selenium script that makes a call to the sikuli web service that starts the iOS test script to interact in between selenium commands.\n",
+            "time": "2018-01-21T00:26:00.000Z"
+        },
+        {
+            "from": "Nate",
+            "message": "\nOh sweet\nI'm gonna have to dive in deeper on that\n",
+            "time": "2018-01-21T00:26:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nYeah end to end integration testing. I am writing robots in selenium to automate checking accounts so I don't need an app for everything.\n",
+            "time": "2018-01-21T00:26:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nhttps://www.youtube.com/watch?v=721BGx9jyJU\nA Tour of Artificial Intelligence and Its Limitations by Aneesh Karve\nWant to learn Python Fundamentals for Data Scientists? 💻 🔬 Use discount code \"youtube\" at checkout [ https://intro2python4-18-17.eventbrite.com ] ~ For other...\nyoutube.com\n",
+            "time": "2018-04-29T16:54:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nStill working on QA automation?\n",
+            "time": "2017-09-28T00:00:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nI have an activity that would make you master of the webdriver universe.\n",
+            "time": "2017-09-28T21:09:00.000Z"
+        },
+        {
+            "from": "Nate",
+            "message": "\nHey man!\nI would love to do that\nI have transitioned to react dev at work but would be interested\n",
+            "time": "2017-09-29T18:37:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nI want to port this chromedriver to a JavaScript extension https://github.com/bayandin/chromedriver that guy copied it to GitHub because the dev repo is actually CVS 🤢 it is very formulaic, anything with SendCommand is a call to this chrome API https://chromedevtools.github.io/devtools-protocol/ so all that is missing from a regular extension (no standalone server) is this http protocol https://w3c.github.io/webdriver/webdriver-spec.html then any QA person could record and playback their code with no extra add-ons or configuration, just copy paste and play automation scripts.\n",
+            "time": "2017-09-30T16:25:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nNo extra browsers or pop-ups so it's easier to create test scripts, everything plays and clicks directly in the same window as your working in.\nIt could be used on a react app too. React is awesome.\n",
+            "time": "2017-09-30T16:25:00.000Z"
+        },
+        {
+            "from": "Nate",
+            "message": "\nWow, I’m not at a computer right now bc we’re out of town but I want to look into this as soon as I can. Sounds like it could be a god send for issues that sometimes make me want to run selenium headless\nReact is awesome I agree super powerful\nWe’re doing a drag and drop type editor like canva or publisher from the ground up right now\nHarnessing their drag and drop\nAnd redux is crucial for capturing and working with the state of items on the document\n",
+            "time": "2017-09-30T16:25:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nQ: What is blue and goes ding dong?\nA: An Avon lady at the North Pole!\n\n",
+            "time": "2017-11-12T06:06:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,783 @@
+[
+    {
+        "resourceName": "people/c5368780109595887680",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgxBM3c5Q1ppMVRyMD0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "4a81bd108da54840"
+                    }
+                },
+                "displayName": "Mr. and Mrs. Todd Stadler",
+                "familyName": "Stadler",
+                "givenName": "and Mrs.",
+                "middleName": "Todd",
+                "honorificPrefix": "Mr",
+                "displayNameLastFirst": "Stadler, Mr and Mrs. Todd"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "4a81bd108da54840"
+                    }
+                },
+                "value": "tmsmms@sbcglobal.net",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "4a81bd108da54840"
+                    }
+                },
+                "value": "+1-216-524-1852",
+                "canonicalForm": "+12165241852",
+                "type": "home",
+                "formattedType": "Home"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "4a81bd108da54840"
+                    }
+                },
+                "value": "(330) 607-3451",
+                "canonicalForm": "+13306073451",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "7 Mutual Connections",
+                "You and Todd both know James Jacob, Tim Bangert, and 5 others"
+            ],
+            [
+                "Todd can introduce you to 3 people at PNC",
+                "Todd worked at PNC"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Senior Internal Auditor",
+                "Company Name",
+                "PNC",
+                "Dates Employed",
+                "Feb 2016 – Present",
+                "Employment Duration",
+                "1 yr 9 mos",
+                "Location",
+                "Cleveland/Akron, Ohio Area"
+            ],
+            [
+                "Internal Auditor",
+                "Company Name",
+                "PNC Bank",
+                "Dates Employed",
+                "Jun 2015 – Present",
+                "Employment Duration",
+                "2 yrs 5 mos",
+                "Location",
+                "Cleveland/Akron, Ohio Area"
+            ],
+            [
+                "Assistant Auditor",
+                "Company Name",
+                "Auditor of State - Ohio",
+                "Dates Employed",
+                "Nov 2012 – Jun 2015",
+                "Employment Duration",
+                "2 yrs 8 mos",
+                "Location",
+                "Cleveland/Akron, Ohio Area",
+                "-Knowledge and understanding of governmental accounting principles and auditing procedures and practices.-Knowledge and understanding of the types of audit evidence and the appropriate use of each.-Perform and document tests of financial and compliance controls.-Perform and document tests of account balances.-Develop audit findings and prepare drafts to be included in audit reports."
+            ],
+            [
+                "Account Manager",
+                "Company Name",
+                "Coca-Cola Refreshments",
+                "Dates Employed",
+                "Dec 2007 – Nov 2012",
+                "Employment Duration",
+                "5 yrs",
+                "-Market-wide range of Coca-Cola products to convenient retail industry.-Execute and close all sales calls for assigned accounts.-Sell in incremental displays and equipment placements.-Sell in promotional programs and ensure customer compliance.-Inventory management.-Maintain point of sale.-Ensure account meets Company merchandising standards.-Able to determine product needs for each account.-Place and transmit appropriate order in conjunction with existing geographic sales routes"
+            ],
+            [
+                "Software Channel Executive",
+                "Company Name",
+                "Agilysys",
+                "Dates Employed",
+                "Jan 2006 – Dec 2006",
+                "Employment Duration",
+                "12 mos",
+                "-Promoted from inside sales team to outside sales team.-In charge of accounts nationwide.-Assist customers with purchase of Oracle.-Travel to customer sites.-Work with vendor to promote product to resellers."
+            ],
+            [
+                "Senior Sales Account Representative",
+                "Company Name",
+                "Agilysys",
+                "Dates Employed",
+                "Nov 2004 – Dec 2005",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "-Traveled to customer sites to train customers on vendor policies.-Worked with vendors reps to create presentation to fit customer’s needs.-Trained new team members on Oracle and Agilysys applications and procedures.-Agilysys Circle of Excellence Winner 2005."
+            ],
+            [
+                "Sales Account Representative",
+                "Company Name",
+                "Agilysys",
+                "Dates Employed",
+                "Oct 1999 – Nov 2004",
+                "Employment Duration",
+                "5 yrs 2 mos",
+                "-Act as a liaison between product vendor, outside sales representatives and product resellers.-Handle major accounts within assigned territories.-Full knowledge of product line, ability to quote pricing, and communicate with partners. -Work alongside members of inside sales team to close business deals in a timely manner.-Handle heavy incoming call volume to assist customer’s needs. -Track and place orders using vendor web pages and Excel.-Processed contracts for partner membership renewals and daily orders."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Baldwin-Wallace College",
+                "Degree Name",
+                "Bachelor of Arts (B.A.)",
+                "Field Of Study",
+                "Accounting and Finance",
+                "Grade",
+                "3.75",
+                "Dates attended or expected graduation",
+                "2011 – 2012"
+            ],
+            [
+                "Baldwin-Wallace College",
+                "Degree Name",
+                "Bachelor of Arts (B.A.)",
+                "Field Of Study",
+                "Accounting and Finance",
+                "Grade",
+                "3.75",
+                "Dates attended or expected graduation",
+                "2011 – 2012"
+            ],
+            [
+                "The Ohio State University",
+                "Dates attended or expected graduation",
+                "1991 – 1995",
+                "Activities and Societies:",
+                "Phi Kappa Psi"
+            ],
+            [
+                "The Ohio State University",
+                "Dates attended or expected graduation",
+                "1991 – 1995",
+                "Activities and Societies:",
+                "Phi Kappa Psi"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "PNC",
+                "123,685 followers"
+            ],
+            [
+                "Baldwin Wallace University",
+                "32,738 followers"
+            ],
+            [
+                "The Wall Street Journal",
+                "3,056,316 followers"
+            ],
+            [
+                "Baldwin Wallace MBA Association",
+                "1,428 members"
+            ],
+            [
+                "The Cleveland Professional 20/30 Club",
+                "5,751 members"
+            ],
+            [
+                "The Ohio State University",
+                "363,549 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (197)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "PNC",
+                "123,685 followers"
+            ],
+            [
+                "PNC",
+                "123,685 followers"
+            ],
+            [
+                "Baldwin Wallace University",
+                "32,738 followers"
+            ],
+            [
+                "Baldwin Wallace University",
+                "32,738 followers"
+            ],
+            [
+                "The Wall Street Journal",
+                "3,056,316 followers"
+            ],
+            [
+                "The Wall Street Journal",
+                "3,056,316 followers"
+            ],
+            [
+                "Baldwin Wallace MBA Association",
+                "1,428 members"
+            ],
+            [
+                "Baldwin Wallace MBA Association",
+                "1,428 members"
+            ],
+            [
+                "The Cleveland Professional 20/30 Club",
+                "5,751 members"
+            ],
+            [
+                "The Cleveland Professional 20/30 Club",
+                "5,751 members"
+            ],
+            [
+                "The Ohio State University",
+                "363,549 followers"
+            ],
+            [
+                "The Ohio State University",
+                "363,549 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Andrew Mogorovic",
+                "Sr. Technology Solutions Specialist at GEHealthCare",
+                "January 7, 2008, Andrew worked with Todd in different groups",
+                "Todd was an excellent co-worker and did his job extremely well. His ability to communicate with customers and partners was truley valuable and will be missed. He has a great work ethic and got along with everyone here. Thank YOU Todd!"
+            ],
+            [
+                "Andrew Mogorovic",
+                "Sr. Technology Solutions Specialist at GEHealthCare",
+                "January 7, 2008, Andrew worked with Todd in different groups"
+            ],
+            [
+                "Andrew Mogorovic",
+                "Sr. Technology Solutions Specialist at GEHealthCare",
+                "January 7, 2008, Andrew worked with Todd in different groups"
+            ],
+            [
+                "Andrew Mogorovic",
+                "Sr. Technology Solutions Specialist at GEHealthCare",
+                "January 7, 2008, Andrew worked with Todd in different groups"
+            ],
+            "Sr. Technology Solutions Specialist at GEHealthCare",
+            [
+                "Todd was an excellent co-worker and did his job extremely well. His ability to communicate with customers and partners was truley valuable and will be missed. He has a great work ethic and got along with everyone here. Thank YOU Todd!"
+            ],
+            [
+                "Todd was an excellent co-worker and did his job extremely well. His ability to communicate with customers and partners was truley valuable and will be missed. He has a great work ethic and got along with everyone here. Thank YOU Todd!"
+            ],
+            [
+                "Brandy Falcon",
+                "National Account Executive - Oracle Software/Hardware/Cloud Technologies",
+                "January 4, 2008, Brandy worked with Todd in different groups",
+                "I had the pleasure of working with Todd for 3 years, and I have seen many examples of Todd's talent and have long been impressed by his diligence and work ethic. Todd is able to successfully complete multiple tasks with favorable results despite deadline pressure."
+            ],
+            [
+                "Brandy Falcon",
+                "National Account Executive - Oracle Software/Hardware/Cloud Technologies",
+                "January 4, 2008, Brandy worked with Todd in different groups"
+            ],
+            [
+                "Brandy Falcon",
+                "National Account Executive - Oracle Software/Hardware/Cloud Technologies",
+                "January 4, 2008, Brandy worked with Todd in different groups"
+            ],
+            [
+                "Brandy Falcon",
+                "National Account Executive - Oracle Software/Hardware/Cloud Technologies",
+                "January 4, 2008, Brandy worked with Todd in different groups"
+            ],
+            "National Account Executive - Oracle Software/Hardware/Cloud Technologies",
+            [
+                "I had the pleasure of working with Todd for 3 years, and I have seen many examples of Todd's talent and have long been impressed by his diligence and work ethic. Todd is able to successfully complete multiple tasks with favorable results despite deadline pressure."
+            ],
+            [
+                "I had the pleasure of working with Todd for 3 years, and I have seen many examples of Todd's talent and have long been impressed by his diligence and work ethic. Todd is able to successfully complete multiple tasks with favorable results despite deadline pressure."
+            ],
+            [
+                "Jennifer Heffron",
+                "Helping companies create Strategic Partnerships with SAP technology",
+                "January 2, 2008, Jennifer worked with Todd but at different companies",
+                "Todd is very detail oriented and provided excellent customer support.  He is well regarded by all who worked with him."
+            ],
+            [
+                "Jennifer Heffron",
+                "Helping companies create Strategic Partnerships with SAP technology",
+                "January 2, 2008, Jennifer worked with Todd but at different companies"
+            ],
+            [
+                "Jennifer Heffron",
+                "Helping companies create Strategic Partnerships with SAP technology",
+                "January 2, 2008, Jennifer worked with Todd but at different companies"
+            ],
+            [
+                "Jennifer Heffron",
+                "Helping companies create Strategic Partnerships with SAP technology",
+                "January 2, 2008, Jennifer worked with Todd but at different companies"
+            ],
+            "Helping companies create Strategic Partnerships with SAP technology",
+            [
+                "Todd is very detail oriented and provided excellent customer support.  He is well regarded by all who worked with him."
+            ],
+            [
+                "Todd is very detail oriented and provided excellent customer support.  He is well regarded by all who worked with him."
+            ],
+            [
+                "Marsha Marin",
+                "IT Solutions Sales Professional in the  Software Industry",
+                "January 2, 2008, Marsha worked with Todd in different groups",
+                "I have worked with Todd Stadler for seven years. He was very good at knowing the latest changes for both the distribution and reseller side of the business. Although we worked in different areas, he was always willing to help out with his expertise.  He mentored several people on his team with much success.  He was always willing to go the extra step for his customers and coworkers."
+            ],
+            [
+                "Marsha Marin",
+                "IT Solutions Sales Professional in the  Software Industry",
+                "January 2, 2008, Marsha worked with Todd in different groups"
+            ],
+            [
+                "Marsha Marin",
+                "IT Solutions Sales Professional in the  Software Industry",
+                "January 2, 2008, Marsha worked with Todd in different groups"
+            ],
+            [
+                "Marsha Marin",
+                "IT Solutions Sales Professional in the  Software Industry",
+                "January 2, 2008, Marsha worked with Todd in different groups"
+            ],
+            "IT Solutions Sales Professional in the  Software Industry",
+            [
+                "I have worked with Todd Stadler for seven years. He was very good at knowing the latest changes for both the distribution and reseller side of the business. Although we worked in different areas, he was always willing to help out with his expertise.  He mentored several people on his team with much success.  He was always willing to go the extra step for his customers and coworkers."
+            ],
+            [
+                "I have worked with Todd Stadler for seven years. He was very good at knowing the latest changes for both the distribution and reseller side of the business. Although we worked in different areas, he was always willing to help out with his expertise.  He mentored several people on his team with much success.  He was always willing to go the extra step for his customers and coworkers."
+            ],
+            [
+                "Keith Jalbert",
+                "VP Commercial Sales",
+                "January 2, 2008, Keith was senior to Todd but didn’t manage directly",
+                "Todd was highly respected by the management team. He worked Canadian accounts with branches in the US diligently when asked. i recommend him without reservation."
+            ],
+            [
+                "Keith Jalbert",
+                "VP Commercial Sales",
+                "January 2, 2008, Keith was senior to Todd but didn’t manage directly"
+            ],
+            [
+                "Keith Jalbert",
+                "VP Commercial Sales",
+                "January 2, 2008, Keith was senior to Todd but didn’t manage directly"
+            ],
+            [
+                "Keith Jalbert",
+                "VP Commercial Sales",
+                "January 2, 2008, Keith was senior to Todd but didn’t manage directly"
+            ],
+            "VP Commercial Sales",
+            [
+                "Todd was highly respected by the management team. He worked Canadian accounts with branches in the US diligently when asked. i recommend him without reservation."
+            ],
+            [
+                "Todd was highly respected by the management team. He worked Canadian accounts with branches in the US diligently when asked. i recommend him without reservation."
+            ],
+            [
+                "Brent Lajaunie",
+                "Managing Partner",
+                "January 2, 2008, Brent was senior to Todd but didn’t manage directly",
+                "Todd was good to work with during my time at Agilysys.  He paid attention to detail, procesed tasks in a timely matter, and was a mentor for the rest of his team.  I would recommend him for a similar position."
+            ],
+            [
+                "Brent Lajaunie",
+                "Managing Partner",
+                "January 2, 2008, Brent was senior to Todd but didn’t manage directly"
+            ],
+            [
+                "Brent Lajaunie",
+                "Managing Partner",
+                "January 2, 2008, Brent was senior to Todd but didn’t manage directly"
+            ],
+            [
+                "Brent Lajaunie",
+                "Managing Partner",
+                "January 2, 2008, Brent was senior to Todd but didn’t manage directly"
+            ],
+            "Managing Partner",
+            [
+                "Todd was good to work with during my time at Agilysys.  He paid attention to detail, procesed tasks in a timely matter, and was a mentor for the rest of his team.  I would recommend him for a similar position."
+            ],
+            [
+                "Todd was good to work with during my time at Agilysys.  He paid attention to detail, procesed tasks in a timely matter, and was a mentor for the rest of his team.  I would recommend him for a similar position."
+            ],
+            [
+                "Jeff Coltrain",
+                "Gray-haired Oracle database guy",
+                "January 2, 2008, Jeff worked with Todd but at different companies",
+                "Todd was our account rep at Agilysys for several years. We are an Oracle reseller, Agilysys was our distributor, and Todd was our connection to Oracle. For licensing, pricing, financing, and “how do we structure the deal” questions, we went to Todd. He would either have the answer, find the answer, or direct us to someone who would have the answer. From speaking with others at Agilysys, I know Todd was also the guy they went to for answers. He was quick, creative, accurate, and reliable. He proactively provided information to help us conduct business, and was always that calm presence on the other end of the line."
+            ],
+            [
+                "Jeff Coltrain",
+                "Gray-haired Oracle database guy",
+                "January 2, 2008, Jeff worked with Todd but at different companies"
+            ],
+            [
+                "Jeff Coltrain",
+                "Gray-haired Oracle database guy",
+                "January 2, 2008, Jeff worked with Todd but at different companies"
+            ],
+            [
+                "Jeff Coltrain",
+                "Gray-haired Oracle database guy",
+                "January 2, 2008, Jeff worked with Todd but at different companies"
+            ],
+            "Gray-haired Oracle database guy",
+            [
+                "Todd was our account rep at Agilysys for several years. We are an Oracle reseller, Agilysys was our distributor, and Todd was our connection to Oracle. For licensing, pricing, financing, and “how do we structure the deal” questions, we went to Todd. He would either have the answer, find the answer, or direct us to someone who would have the answer. From speaking with others at Agilysys, I know Todd was also the guy they went to for answers. He was quick, creative, accurate, and reliable. He proactively provided information to help us conduct business, and was always that calm presence on the other end of the line."
+            ],
+            [
+                "Todd was our account rep at Agilysys for several years. We are an Oracle reseller, Agilysys was our distributor, and Todd was our connection to Oracle. For licensing, pricing, financing, and “how do we structure the deal” questions, we went to Todd. He would either have the answer, find the answer, or direct us to someone who would have the answer. From speaking with others at Agilysys, I know Todd was also the guy they went to for answers. He was quick, creative, accurate, and reliable. He proactively provided information to help us conduct business, and was always that calm presence on the other end of the line."
+            ],
+            [
+                "Andrew Mogorovic",
+                "Sr. Technology Solutions Specialist at GEHealthCare",
+                "February 4, 2008, Todd worked with Andrew in different groups",
+                "In my opinion Andrew had a working knowledge of nearly every product that Agilysys sold.  Whenever I had a question or needed assistance with something Andrew was there to answer it as well as offer examples of why things were the way they were from that vendor.Andrew was a great resource for me when I worked at Agilysys."
+            ],
+            [
+                "Andrew Mogorovic",
+                "Sr. Technology Solutions Specialist at GEHealthCare",
+                "February 4, 2008, Todd worked with Andrew in different groups"
+            ],
+            [
+                "Andrew Mogorovic",
+                "Sr. Technology Solutions Specialist at GEHealthCare",
+                "February 4, 2008, Todd worked with Andrew in different groups"
+            ],
+            [
+                "Andrew Mogorovic",
+                "Sr. Technology Solutions Specialist at GEHealthCare",
+                "February 4, 2008, Todd worked with Andrew in different groups"
+            ],
+            "Sr. Technology Solutions Specialist at GEHealthCare",
+            [
+                "In my opinion Andrew had a working knowledge of nearly every product that Agilysys sold.  Whenever I had a question or needed assistance with something Andrew was there to answer it as well as offer examples of why things were the way they were from that vendor.Andrew was a great resource for me when I worked at Agilysys."
+            ],
+            [
+                "In my opinion Andrew had a working knowledge of nearly every product that Agilysys sold.  Whenever I had a question or needed assistance with something Andrew was there to answer it as well as offer examples of why things were the way they were from that vendor.Andrew was a great resource for me when I worked at Agilysys."
+            ],
+            [
+                "Marsha Marin",
+                "IT Solutions Sales Professional in the  Software Industry",
+                "January 21, 2008, Todd worked with Marsha in different groups",
+                "While at Agilysys Marsha and I were in the same software sales group, but sold different products.  Marsha was able to answer a question or to offer assistance at any time.  When the company asked her to change her role she did so openly and accepted the new challenge of more responsibility."
+            ],
+            [
+                "Marsha Marin",
+                "IT Solutions Sales Professional in the  Software Industry",
+                "January 21, 2008, Todd worked with Marsha in different groups"
+            ],
+            [
+                "Marsha Marin",
+                "IT Solutions Sales Professional in the  Software Industry",
+                "January 21, 2008, Todd worked with Marsha in different groups"
+            ],
+            [
+                "Marsha Marin",
+                "IT Solutions Sales Professional in the  Software Industry",
+                "January 21, 2008, Todd worked with Marsha in different groups"
+            ],
+            "IT Solutions Sales Professional in the  Software Industry",
+            [
+                "While at Agilysys Marsha and I were in the same software sales group, but sold different products.  Marsha was able to answer a question or to offer assistance at any time.  When the company asked her to change her role she did so openly and accepted the new challenge of more responsibility."
+            ],
+            [
+                "While at Agilysys Marsha and I were in the same software sales group, but sold different products.  Marsha was able to answer a question or to offer assistance at any time.  When the company asked her to change her role she did so openly and accepted the new challenge of more responsibility."
+            ]
+        ],
+        "skills": [
+            [
+                "Sales",
+                "See 21 endorsements for Sales",
+                "21",
+                "Sales",
+                "Endorse",
+                "Endorsed by Palice Courtney, who is highly skilled at this",
+                "Endorsed by James Jacob and 1 other mutual connection"
+            ],
+            [
+                "Sales",
+                "See 21 endorsements for Sales",
+                "21"
+            ],
+            [
+                "Management",
+                "See 16 endorsements for Management",
+                "16",
+                "Management",
+                "Endorse",
+                "Endorsed by Linda McVey and 2 other mutual connections"
+            ],
+            [
+                "Management",
+                "See 16 endorsements for Management",
+                "16"
+            ],
+            [
+                "Inventory Management",
+                "See 7 endorsements for Inventory Management",
+                "7",
+                "Inventory Management",
+                "Endorse",
+                "Endorsed by James Jacob (mutual connection)"
+            ],
+            [
+                "Inventory Management",
+                "See 7 endorsements for Inventory Management",
+                "7"
+            ],
+            [
+                "Merchandising",
+                "See 7 endorsements for Merchandising",
+                "7",
+                "Merchandising",
+                "Endorse"
+            ],
+            [
+                "Merchandising",
+                "See 7 endorsements for Merchandising",
+                "7"
+            ],
+            [
+                "Accounting",
+                "See 5 endorsements for Accounting",
+                "5",
+                "Accounting",
+                "Endorse"
+            ],
+            [
+                "Accounting",
+                "See 5 endorsements for Accounting",
+                "5"
+            ],
+            [
+                "Leadership",
+                "See 4 endorsements for Leadership",
+                "4",
+                "Leadership",
+                "Endorse"
+            ],
+            [
+                "Leadership",
+                "See 4 endorsements for Leadership",
+                "4"
+            ],
+            [
+                "New Business Development",
+                "See 3 endorsements for New Business Development",
+                "3",
+                "New Business Development",
+                "Endorse"
+            ],
+            [
+                "New Business Development",
+                "See 3 endorsements for New Business Development",
+                "3"
+            ],
+            [
+                "Cold Calling",
+                "See 3 endorsements for Cold Calling",
+                "3",
+                "Cold Calling",
+                "Endorse"
+            ],
+            [
+                "Cold Calling",
+                "See 3 endorsements for Cold Calling",
+                "3"
+            ],
+            [
+                "Retail",
+                "See 2 endorsements for Retail",
+                "2",
+                "Retail",
+                "Endorse"
+            ],
+            [
+                "Retail",
+                "See 2 endorsements for Retail",
+                "2"
+            ],
+            [
+                "Pricing",
+                "See 2 endorsements for Pricing",
+                "2",
+                "Pricing",
+                "Endorse"
+            ],
+            [
+                "Pricing",
+                "See 2 endorsements for Pricing",
+                "2"
+            ],
+            [
+                "Team Building",
+                "See 2 endorsements for Team Building",
+                "2",
+                "Team Building",
+                "Endorse"
+            ],
+            [
+                "Team Building",
+                "See 2 endorsements for Team Building",
+                "2"
+            ],
+            [
+                "Sales Operations",
+                "See 1 endorsement for Sales Operations",
+                "1",
+                "Sales Operations",
+                "Endorse"
+            ],
+            [
+                "Sales Operations",
+                "See 1 endorsement for Sales Operations",
+                "1"
+            ],
+            [
+                "Strategic Planning",
+                "See 1 endorsement for Strategic Planning",
+                "1",
+                "Strategic Planning",
+                "Endorse"
+            ],
+            [
+                "Strategic Planning",
+                "See 1 endorsement for Strategic Planning",
+                "1"
+            ],
+            [
+                "Sales Process",
+                "See 1 endorsement for Sales Process",
+                "1",
+                "Sales Process",
+                "Endorse"
+            ],
+            [
+                "Sales Process",
+                "See 1 endorsement for Sales Process",
+                "1"
+            ],
+            [
+                "Microsoft Office",
+                "See 1 endorsement for Microsoft Office",
+                "1",
+                "Microsoft Office",
+                "Endorse"
+            ],
+            [
+                "Microsoft Office",
+                "See 1 endorsement for Microsoft Office",
+                "1"
+            ],
+            [
+                "Salesforce.com",
+                "See 1 endorsement for Salesforce.com",
+                "1",
+                "Salesforce.com",
+                "Endorse"
+            ],
+            [
+                "Salesforce.com",
+                "See 1 endorsement for Salesforce.com",
+                "1"
+            ],
+            [
+                "Sales Management",
+                "See 1 endorsement for Sales Management",
+                "1",
+                "Sales Management",
+                "Endorse"
+            ],
+            [
+                "Sales Management",
+                "See 1 endorsement for Sales Management",
+                "1"
+            ],
+            [
+                "Account Management",
+                "See 1 endorsement for Account Management",
+                "1",
+                "Account Management",
+                "Endorse"
+            ],
+            [
+                "Account Management",
+                "See 1 endorsement for Account Management",
+                "1"
+            ],
+            [
+                "Marketing",
+                "See 1 endorsement for Marketing",
+                "1",
+                "Marketing",
+                "Endorse"
+            ],
+            [
+                "Marketing",
+                "See 1 endorsement for Marketing",
+                "1"
+            ]
+        ],
+        "summary": "",
+        "name": "Todd Stadler",
+        "title": "Senior Internal Auditor at PNC",
+        "url": "linkedin.com/in/todd-stadler-3633033",
+        "phone": null,
+        "email": "tmsmms@sbcglobal.net"
+    }
+]

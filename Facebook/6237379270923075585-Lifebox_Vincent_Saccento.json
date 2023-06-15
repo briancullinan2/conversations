@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6237379270923075585/",
+    "participants": [
+        {
+            "name": "Lifebox Vincent Saccento",
+            "title": "CEO at Lifebox",
+            "url": "linkedin.com/in/lifebox-vincent-saccento-b17329b8",
+            "phone": null,
+            "email": "lifebox2.0@icloud.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-14T21:18:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

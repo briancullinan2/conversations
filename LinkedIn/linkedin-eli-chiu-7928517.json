@@ -1,0 +1,510 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "5 Mutual Connections",
+                "You and Eli both know Lloyd Hohenstein, Brent Bergman, and 3 others"
+            ],
+            [
+                "You both worked at Charles Schwab",
+                "Eli worked at Charles Schwab before you started"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Analyst, Reporting and Analytics",
+                "Company Name",
+                "Workday",
+                "Dates Employed",
+                "Jul 2016 – Present",
+                "Employment Duration",
+                "1 yr 5 mos",
+                "Reporting and Data Analytics Analyst* Responsible for performance analysis of reports and integrations.* Utilize various performance tools to analyze reports and integrations performance. Identify improvement areas and make optimization recommendations.  * Collaborate with clients to: identify, define, and clarify technical requirements; translating business needs into efficient reports and configurations that conform to best practices.* Reproduce and document application bugs. Work with development team for bug fixes. QA fixes.* Collaborate with Support, Professional Services, Application, Environments teams to ensure customer implementation success."
+            ],
+            [
+                "IT Consultant, Business Systems Analyst",
+                "Company Name",
+                "Bank of the West",
+                "Dates Employed",
+                "Mar 2016 – Jul 2016",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "Business Intelligence Data Management",
+                "Data Warehouse Migration Project * Analyzed source to target data requirements; identified the equivalent source data elements from the new Enterprise Data Warehouse model.* Responsible for converting current ETL mappings to utilize new data source systems.* Performed unit testing and data validation to ensure data accuracy post cut-off.* Identified data discrepancies and provided root cause analysis to support team for investigation and/or bug fixes.* Business Analyst of the Data Governance Data repository project. Worked with Business data owners to collect business data definitions and associated business definitions to the data warehouse data elements in the Enterprise meta data repository."
+            ],
+            [
+                "Sr. Enterprisewide Programmer and Business Systems Analyst",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "Jan 2009 – Dec 2015",
+                "Employment Duration",
+                "7 yrs",
+                "Location",
+                "Human Resource Technology Solutions",
+                "OBIEE and ETL Developer & Workday Integration Developer*\tManaged and Administrated OBIEE platform of HR Analytics. *\tResponsible for data modeling databases that support the HR Analytics dashboard.*\tDeveloped and supported reports, charts in HR Analytics dashboard which were used by HR Generalists and Senior Management .  *\tResponsible for Informatica ETL development, testing, and production support . *\tDesigned and developed Workday systems integration using Custom Reports, EIBs, Workday Studio, Cloud Connect and Document Transformation, XML, XPATH and XSLT.*\tSuccessfully converted ETL mappings that previously used Peoplesoft data sources into using Workday HCM data source; integrating with the OBIEE HR Analytics data model.*\tCreated test cases and performed data validation during UAT phase of projects.*       Worked closely with HRIS business unit to collect and document requirements.*       Led weekly status meeting with IT and Business teams to keep track of issues and project status."
+            ],
+            [
+                "Sr. Enterprisewide Programmer and Business Systems Analyst",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "Apr 2004 – Jan 2009",
+                "Employment Duration",
+                "4 yrs 10 mos",
+                "Location",
+                "Human Resource Technology Solutions",
+                "*\tSME of HR self-service applications: Timesheets, Employee Tuition Assistance, Employee Recognition,  Bonus Administration. Directly worked with Payroll business partner to gather application requirements, documented them into technical specifications. Worked closely with technical team and managed development, testing and implementation cycle.*\tSME of HR Analytics dashboard  ( an OBIEE application ). Directly worked with HRIS business partner to fulfill  project and system enhancement requests.*\tAnalyzed various data sources needed for integration into HR dashboard, for example, recruiting, performance review, Training and Learning Management, HCM (Peoplesoft and Workday)and contingent workforce data.  Worked with external Sass vendors to understand data structure and design data feed files.*\tCreated and modified reports and dashboards per HRIS requests.*\tConstantly reviewed procedures and programs to  seek opportunities to streamline, automate and improve system performance.*\tResponsible for troubleshooting data discrepancies, root cause analysis and implemented bug fixes."
+            ],
+            [
+                "Sr. Staff, Oracle and ETL Developer",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "Jun 2001 – Apr 2004",
+                "Employment Duration",
+                "2 yrs 11 mos",
+                "Location",
+                "Schwab Capital Market Finance Technology",
+                "* Managed Schwab Capital Market Finance data warehouse which supported management decision making and reporting needs. * ETL Developer: Proficient in Informatica PowerMart/PowerCenter,  Workflow Manager, Mapping Designer, Repository Manager, and all repository administrative functions. Utilized Informatica for data transformation, aggregation, and table load. Used Workflow Manager to construct batch jobs, establish task dependencies and job scheduling.* Designed, developed flat-file extracts, tables and database objects to support Finance and Trading Ops applications on different platforms (e.g. Essbase, ASP Web page, MS Access, and Crystal Reports).* Automated data feed and SQL load using PL/SQL and Unix shell scripts.     Project work highlight:* Designed and Implemented a stock orders database that utilized partitioning which drastically reduced the data load time of such vast data volume of orders."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of California, Berkeley",
+                "Degree Name",
+                "BA",
+                "Field Of Study",
+                "Statistics",
+                "Dates attended or expected graduation",
+                "1991 – 1994"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Den Leader",
+                "Company Name",
+                "Boy Scouts of America",
+                "Dates volunteered",
+                "Jan 2013 – May 2015",
+                "Volunteer duration",
+                "2 yrs 5 mos",
+                "Cause",
+                "Children",
+                "Organized Scout Den meetings and activities for cub scouts aged 6 to 8."
+            ],
+            [
+                "Den Leader",
+                "Company Name",
+                "Boy Scouts of America",
+                "Dates volunteered",
+                "Jan 2013 – May 2015",
+                "Volunteer duration",
+                "2 yrs 5 mos",
+                "Cause",
+                "Children",
+                "Organized Scout Den meetings and activities for cub scouts aged 6 to 8."
+            ],
+            [
+                "PTA Secretary and Parent Representative",
+                "Company Name",
+                "Chinese American Cooperation Council (CACC)",
+                "Dates volunteered",
+                "Jul 2012 – Jun 2015",
+                "Volunteer duration",
+                "3 yrs",
+                "Cause",
+                "Education"
+            ],
+            [
+                "PTA Secretary and Parent Representative",
+                "Company Name",
+                "Chinese American Cooperation Council (CACC)",
+                "Dates volunteered",
+                "Jul 2012 – Jun 2015",
+                "Volunteer duration",
+                "3 yrs",
+                "Cause",
+                "Education"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Wipro Limited",
+                "935,944 followers"
+            ],
+            [
+                "University of California, Berkeley",
+                "542,830 followers"
+            ],
+            [
+                "Charles Schwab",
+                "104,633 followers"
+            ],
+            [
+                "University of California, Berkeley",
+                "502,606 followers"
+            ],
+            [
+                "Gap Inc.",
+                "228,145 followers"
+            ],
+            [
+                "Workday",
+                "164,532 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (201)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Wipro Limited",
+                "935,944 followers"
+            ],
+            [
+                "Wipro Limited",
+                "935,944 followers"
+            ],
+            [
+                "University of California, Berkeley",
+                "542,830 followers"
+            ],
+            [
+                "University of California, Berkeley",
+                "542,830 followers"
+            ],
+            [
+                "Charles Schwab",
+                "104,633 followers"
+            ],
+            [
+                "Charles Schwab",
+                "104,633 followers"
+            ],
+            [
+                "University of California, Berkeley",
+                "502,606 followers"
+            ],
+            [
+                "University of California, Berkeley",
+                "502,606 followers"
+            ],
+            [
+                "Gap Inc.",
+                "228,145 followers"
+            ],
+            [
+                "Gap Inc.",
+                "228,145 followers"
+            ],
+            [
+                "Workday",
+                "164,532 followers"
+            ],
+            [
+                "Workday",
+                "164,532 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Thin Dang",
+                "Senior Developer at Blue Shield of California",
+                "December 18, 2009, Eli worked with Thin in the same group",
+                "Eli is a quick-learner. She was capable of learning, adapting new environments and becoming productive in such short period of time when she joined iSchwab, a data warehouse project."
+            ],
+            [
+                "Thin Dang",
+                "Senior Developer at Blue Shield of California",
+                "December 18, 2009, Eli worked with Thin in the same group"
+            ],
+            [
+                "Thin Dang",
+                "Senior Developer at Blue Shield of California",
+                "December 18, 2009, Eli worked with Thin in the same group"
+            ],
+            [
+                "Thin Dang",
+                "Senior Developer at Blue Shield of California",
+                "December 18, 2009, Eli worked with Thin in the same group"
+            ],
+            "Senior Developer at Blue Shield of California",
+            [
+                "Eli is a quick-learner. She was capable of learning, adapting new environments and becoming productive in such short period of time when she joined iSchwab, a data warehouse project."
+            ],
+            [
+                "Eli is a quick-learner. She was capable of learning, adapting new environments and becoming productive in such short period of time when she joined iSchwab, a data warehouse project."
+            ],
+            [
+                "Hema Kshatriya",
+                "Fidelity Clearing and Custody Solutions",
+                "June 26, 2015, Eli worked with Hema in different groups",
+                "I had the pleasure to work with Hema in a very high profile project. She was put into the critical phase of the project and she managed so well that it seemed she had known the project since the beginning !!Hema is organized and detail oriented. She followed through and made sure everyone is on top of their deliverables."
+            ],
+            [
+                "Hema Kshatriya",
+                "Fidelity Clearing and Custody Solutions",
+                "June 26, 2015, Eli worked with Hema in different groups"
+            ],
+            [
+                "Hema Kshatriya",
+                "Fidelity Clearing and Custody Solutions",
+                "June 26, 2015, Eli worked with Hema in different groups"
+            ],
+            [
+                "Hema Kshatriya",
+                "Fidelity Clearing and Custody Solutions",
+                "June 26, 2015, Eli worked with Hema in different groups"
+            ],
+            "Fidelity Clearing and Custody Solutions",
+            [
+                "I had the pleasure to work with Hema in a very high profile project. She was put into the critical phase of the project and she managed so well that it seemed she had known the project since the beginning !!Hema is organized and detail oriented. She followed through and made sure everyone is on top of their deliverables."
+            ],
+            [
+                "I had the pleasure to work with Hema in a very high profile project. She was put into the critical phase of the project and she managed so well that it seemed she had known the project since the beginning !!Hema is organized and detail oriented. She followed through and made sure everyone is on top of their deliverables."
+            ],
+            [
+                "Sundeep M Kodkani",
+                "Senior Workday Solution Consultant and Project Manager",
+                "March 6, 2015, Sundeep M worked with Eli in the same group",
+                "I had great pleasure to work with Sundeep in a Workday implementation project. Sundeep quickly caught up-to-speed with the requirements and got to know the team members and their specialties. He demonstrated strong knowledge of his Peoplesoft / Workday conversion experience. What I like Sundeep the most is his diligence. He thinks through the details and call out  potential issues or risks to help everyone on the team to make the best informed solutions."
+            ],
+            [
+                "Sundeep M Kodkani",
+                "Senior Workday Solution Consultant and Project Manager",
+                "March 6, 2015, Sundeep M worked with Eli in the same group"
+            ],
+            [
+                "Sundeep M Kodkani",
+                "Senior Workday Solution Consultant and Project Manager",
+                "March 6, 2015, Sundeep M worked with Eli in the same group"
+            ],
+            [
+                "Sundeep M Kodkani",
+                "Senior Workday Solution Consultant and Project Manager",
+                "March 6, 2015, Sundeep M worked with Eli in the same group"
+            ],
+            "Senior Workday Solution Consultant and Project Manager",
+            [
+                "I had great pleasure to work with Sundeep in a Workday implementation project. Sundeep quickly caught up-to-speed with the requirements and got to know the team members and their specialties. He demonstrated strong knowledge of his Peoplesoft / Workday conversion experience. What I like Sundeep the most is his diligence. He thinks through the details and call out  potential issues or risks to help everyone on the team to make the best informed solutions."
+            ],
+            [
+                "I had great pleasure to work with Sundeep in a Workday implementation project. Sundeep quickly caught up-to-speed with the requirements and got to know the team members and their specialties. He demonstrated strong knowledge of his Peoplesoft / Workday conversion experience. What I like Sundeep the most is his diligence. He thinks through the details and call out  potential issues or risks to help everyone on the team to make the best informed solutions."
+            ]
+        ],
+        "skills": [
+            [
+                "Data Warehousing",
+                "See 8 endorsements for Data Warehousing",
+                "8",
+                "Data Warehousing",
+                "Endorse",
+                "Endorsed by Derek Trujillo, who is highly skilled at this",
+                "Endorsed by 5 of Eli’s colleagues at Charles Schwab"
+            ],
+            [
+                "Data Warehousing",
+                "See 8 endorsements for Data Warehousing",
+                "8"
+            ],
+            [
+                "Informatica",
+                "See 6 endorsements for Informatica",
+                "6",
+                "Informatica",
+                "Endorse",
+                "Endorsed by 4 of Eli’s colleagues at Charles Schwab"
+            ],
+            [
+                "Informatica",
+                "See 6 endorsements for Informatica",
+                "6"
+            ],
+            [
+                "Business Analysis",
+                "See 4 endorsements for Business Analysis",
+                "4",
+                "Business Analysis",
+                "Endorse",
+                "Endorsed by 2 of Eli’s colleagues at Charles Schwab"
+            ],
+            [
+                "Business Analysis",
+                "See 4 endorsements for Business Analysis",
+                "4"
+            ],
+            [
+                "Business Intelligence",
+                "See 4 endorsements for Business Intelligence",
+                "4",
+                "Business Intelligence",
+                "Endorse"
+            ],
+            [
+                "Business Intelligence",
+                "See 4 endorsements for Business Intelligence",
+                "4"
+            ],
+            [
+                "Database Design",
+                "See 3 endorsements for Database Design",
+                "3",
+                "Database Design",
+                "Endorse"
+            ],
+            [
+                "Database Design",
+                "See 3 endorsements for Database Design",
+                "3"
+            ],
+            [
+                "OBIEE",
+                "See 2 endorsements for OBIEE",
+                "2",
+                "OBIEE",
+                "Endorse"
+            ],
+            [
+                "OBIEE",
+                "See 2 endorsements for OBIEE",
+                "2"
+            ],
+            [
+                "Analytics",
+                "See 2 endorsements for Analytics",
+                "2",
+                "Analytics",
+                "Endorse"
+            ],
+            [
+                "Analytics",
+                "See 2 endorsements for Analytics",
+                "2"
+            ],
+            [
+                "Data Modeling",
+                "See 2 endorsements for Data Modeling",
+                "2",
+                "Data Modeling",
+                "Endorse"
+            ],
+            [
+                "Data Modeling",
+                "See 2 endorsements for Data Modeling",
+                "2"
+            ],
+            [
+                "Requirements Gathering",
+                "See 2 endorsements for Requirements Gathering",
+                "2",
+                "Requirements Gathering",
+                "Endorse"
+            ],
+            [
+                "Requirements Gathering",
+                "See 2 endorsements for Requirements Gathering",
+                "2"
+            ],
+            [
+                "SQL",
+                "See 1 endorsement for SQL",
+                "1",
+                "SQL",
+                "Endorse"
+            ],
+            [
+                "SQL",
+                "See 1 endorsement for SQL",
+                "1"
+            ],
+            [
+                "ETL",
+                "See 1 endorsement for ETL",
+                "1",
+                "ETL",
+                "Endorse"
+            ],
+            [
+                "ETL",
+                "See 1 endorsement for ETL",
+                "1"
+            ],
+            [
+                "Integration",
+                "See 1 endorsement for Integration",
+                "1",
+                "Integration",
+                "Endorse"
+            ],
+            [
+                "Integration",
+                "See 1 endorsement for Integration",
+                "1"
+            ],
+            [
+                "DAC",
+                "DAC",
+                "Endorse"
+            ],
+            [
+                "DAC"
+            ],
+            [
+                "Technical Documentation",
+                "Technical Documentation",
+                "Endorse"
+            ],
+            [
+                "Technical Documentation"
+            ],
+            [
+                "Workday Integration",
+                "See 1 endorsement for Workday Integration",
+                "1",
+                "Workday Integration",
+                "Endorse"
+            ],
+            [
+                "Workday Integration",
+                "See 1 endorsement for Workday Integration",
+                "1"
+            ]
+        ],
+        "summary": "    Expert in Data Warehousing, Business Intelligence, ETL development and Business Systems Analysis. Excellent problem solving and analytical skills. Self Starter, Detail Oriented, Priority and Results driven and Accountable.Technical Specialties: Informatica ETL, Oracle BI (OBIEE), PL/SQL, Data Warehousing, Workday Reporting & Integrations.\n  \n  \n",
+        "name": "Eli Chiu",
+        "title": "IT Consultant, Reporting and Data Analytics",
+        "url": "linkedin.com/in/eli-chiu-7928517",
+        "phone": "",
+        "email": "elichiu@yahoo.com"
+    }
+]

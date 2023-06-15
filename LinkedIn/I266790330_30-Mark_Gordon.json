@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/I266790330_30/",
+    "participants": [
+        {
+            "name": "Mark Gordon",
+            "title": "Ring is hiring!",
+            "url": "linkedin.com/in/markwgordon",
+            "phone": null,
+            "email": "mark.gordon@ring.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Mark Gordon",
+            "message": ".NET Developer\nmgordon@go-impact.com",
+            "time": "2014-03-03T12:00:00.000Z"
+        }
+    ]
+}

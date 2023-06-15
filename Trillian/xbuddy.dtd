@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!ELEMENT buddies (title, (section | group | buddy)* )>
+<!ELEMENT section ((group | buddy)* )>
+<!ELEMENT group (title, (group | buddy)* )>
+<!ATTLIST group expanded CDATA #IMPLIED>
+<!ELEMENT buddy (#PCDATA)>
+<!ATTLIST buddy uri CDATA #REQUIRED
+	date CDATA #IMPLIED>
+<!ELEMENT title (#PCDATA)>

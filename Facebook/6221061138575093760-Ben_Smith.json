@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6221061138575093760/",
+    "participants": [
+        {
+            "name": "Ben Smith",
+            "title": "Chief Marketing Officer 602-430-3561",
+            "url": "linkedin.com/in/bengsmith",
+            "phone": "602-430-3561 (Mobile)",
+            "email": "ben@unexpectedartgallery.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-31T20:35:00.000Z"
+        }
+    ]
+}

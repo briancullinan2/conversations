@@ -1,0 +1,57 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "9Oct17",
+    "participants": "Brian Cullinan | wizard > Troy Malone | Vice President International Operations at Weebly",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Troy Malone",
+        "url": "linkedin.com/in/troymalone",
+        "phone": "760-518-3254 (Work)",
+        "email": "troyallenmalone@gmail.com",
+        "title": "Vice President International Operations at Weebly"
+      }
+    ],
+    "message": "Thank you for the connect!",
+    "time": "2017-10-09T06:27:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "9Oct17",
+    "participants": "Brian Cullinan | wizard > Scott Kwait | Bringing together Data Science, Automation, and Biology to shape the world around us",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Scott Kwait",
+        "url": "linkedin.com/in/scottkwait",
+        "email": "skwait@zymergen.com",
+        "title": "Bringing together Data Science, Automation, and Biology to shape the world around us"
+      }
+    ],
+    "message": "Thank you for the connect!",
+    "time": "2017-10-09T04:14:00.000Z",
+    "title": "wizard"
+  }
+]

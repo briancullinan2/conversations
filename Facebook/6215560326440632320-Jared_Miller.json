@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6215560326440632320/",
+    "participants": [
+        {
+            "name": "Jared Miller",
+            "title": "Sr. Software Engineer at GoDaddy",
+            "url": "linkedin.com/in/jaredtmiller",
+            "phone": "(623) 258-0959 (Mobile)",
+            "email": "jared@themillers.me"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-16T16:17:00.000Z"
+        },
+        {
+            "from": "Jared Miller",
+            "message": "You bet, and thank you as well.\n",
+            "time": "2018-01-21T04:18:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6321124706497949696/",
+    "participants": [
+        {
+            "name": "Mark Conway",
+            "title": "Searching...",
+            "url": "linkedin.com/in/markconwayprofessional",
+            "phone": null,
+            "email": "mconway@intersysconsulting.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Mark Conway",
+            "message": "Full Stack Software Developer\nmconway@intersysconsulting.com",
+            "time": "2017-10-03T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "What company?",
+            "time": "2017-10-04T04:10:00.000Z"
+        }
+    ]
+}

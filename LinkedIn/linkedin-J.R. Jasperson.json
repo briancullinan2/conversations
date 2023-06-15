@@ -1,0 +1,770 @@
+[
+    {
+        "experience": [
+            "Highlights",
+            [
+                "68 Mutual Connections",
+                "You and J.R. both know Steven Aldrich, Russell P Reeder, and 66 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Chief Architect",
+                "Company Name",
+                "SendGrid",
+                "Dates Employed",
+                "Aug 2015 – Present",
+                "Employment Duration",
+                "2 yrs 3 mos",
+                "Location",
+                "Denver, CO",
+                "-Work with peers to understand the needs of the business and define the long term technical direction for the company-Analyze existing technical architecture and identify strengths, weaknesses, and areas for improvement-Work within engineering to refactor existing infrastructure to remediate single points of failure and enable seamless scaling-Work within engineering to standardize on a set of technologies and reduce complexity in distributed, highly available, web scale infrastructure-Lead by influence-Work with engineering to ensure that tactical design decisions are directionally correct with respect to the long term architectural vision and strategy-Evaluate emerging technologies that are appropriate to integrate into infrastructure for the purposes of facilitating scalability, reliability and security-Work with Engineering and Operations to build out proof of concept deployments of candidate technology and assess POC tech against business and technical requirements-Own the end to end architecture and ensure that proposed changes are vetted properly before being incorporated into the stack-Recruit, hire, develop and mentor an architecture team"
+            ],
+            [
+                "Director of Enterprise Architecture",
+                "Company Name",
+                "GoDaddy",
+                "Dates Employed",
+                "Feb 2012 – Jul 2015",
+                "Employment Duration",
+                "3 yrs 6 mos",
+                "Location",
+                "Denver, CO",
+                "Key Roles:-Key technology adviser to executive leadership across the enterprise-Principal author of the technology strategy-Steward of strategic technology partnerships-Technology due diligence for potential acquisitions and partnershipsDevelop and maintain a comprehensive understanding of the technology landscape. Contribute to the development of the business and product strategies­. Discern the technological capabilities across the enterprise. Synthesize these diverse perspectives to author the holistic technology strategy for the business. Guide the implementation of technologies to align with the overarching strategies of the enterprise.Capstone Achievements:-Principal author of technology strategy; key contributor to business and product strategies-Visionary and benefactor of Go Daddy Enterprise and Product Cloud https://cloud.godaddy.com/-Five architecture patents pending for various robust, decoupled web service architectures and capabilities"
+            ],
+            [
+                "Director of IT Linux & MySQL",
+                "Company Name",
+                "GoDaddy",
+                "Dates Employed",
+                "Dec 2008 – Feb 2012",
+                "Employment Duration",
+                "3 yrs 3 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "Key Roles:-Lead four teams responsible for all production IT Linux environments-Architect for the Go Daddy social networking product-Chair of the enterprise wide Linux collaboration teamLead a diverse engineering and operations staff responsible for the design and maintenance of dozens of products, thousands of Linux systems and millions of databases. Inspire, empower and coach staff through integrity and candor, dynamic vision, optimism, due credit and proven results. Manage and prioritize dozens of current and inbound projects to meet business needs with maximum results. Relentlessly seek opportunities for improvement in architecture, infrastructure, processes and methods. Improve uptime and user experience (UX). Scale and maintain massive high growth environments including PCI, DNS, email, hosting and analytics. Identify candidate tasks and processes for automation. Collaborate with the CTO and development teams to architect solutions for new products and services. Engineer geographically diverse multi-million dollar systems to support highly-available high performance global services. Design infrastructure systems to develop configuration management, implement capacity planning and ensure economy of scale. Advise executive leadership on the investment and acquisition of new hardware, technologies and equipment. Work with the CIO, CISO and security teams to enforce security and compliance of numerous systems. Team with business intelligence (BI) leadership to identify and design ETL opportunities and processes. Communicate with dozens of project, product and development managers to align expectations and set aggressive deadlines. Capstone Achievements:-Lead the architecture, development and engineering of enterprise Package and Configuration Management, Continuous Integration and Continuous Deployment systems-Directly manage ~20% of Go Daddy products and production hosts-Instrumental in architecture and redesign of world class PKI and DNS environments"
+            ],
+            [
+                "Data Architect",
+                "Company Name",
+                "SIMtone Corporation",
+                "Dates Employed",
+                "Sep 2006 – Dec 2008",
+                "Employment Duration",
+                "2 yrs 4 mos",
+                "Data Architect, SIMtone Corporation 10/2006 – 12/2008Key Projects and Roles:-Corporate Data Architect-Advisor to executive leadership for database and web technologiesArchitect, develop, and deploy carrier grade database backbone and infrastructure.  Research viability of database technology and deliver recommendations to executive management.  Design database schemata and client API interfaces for high security, high availability (99.999%), and massive scalability.  Develop, implement, and publish scale-up and scale-out solutions.  Work with executive management and application architects to define requirements and ensure seamless database integration into application environment.  Train and support internal and vendor teams.  Develop database environment backup, maintenance, monitoring, and advisory infrastructure.  Integrate database environment with network managing system (NMS).  Develop network operations center (NOC) support and escalation procedures.  Assess, develop, implement, and publish performance tuning, high availability/clustering solutions, and best practices to customers, resellers, and vendors.  Develop customer-facing control panel and reporting applications.  Advise executive management in corporate Marketing and High Performance on web application and portal technologies.  Interact with vendors to maintain and manage support and licensing contracts. Track and resolve MySQL and InnoDB feature and support issues.Capstone Achievements:-Architected  the SIMtone backbone schemata.-Developed client API for the SIMtone service.-Engineered administration service and metrics dashboard web applications as a front-end control panel for Customers and vendors."
+            ],
+            [
+                "Sr. Database Administrator, Business Technologies",
+                "Company Name",
+                "America Online (AOL)",
+                "Dates Employed",
+                "May 1998 – Sep 2006",
+                "Employment Duration",
+                "8 yrs 5 mos",
+                "Key Projects and Roles:-Lead for Business Technologies Database Infrastructure team-Administrator and Point of Contact for critical Account History application-Administrator of the AOL/Time Warner corporate-wide PeopleSoft Human Resources database-Architect and Administrator of the Business Technologies division AutoSys deployments-Sybase Point of Contact for Business Technologies divisionManage over 250 Sybase dataservers, 185 Oracle databases and RAC deployments, 9 Netezza servers, and 30 SQL Servers.  Advise senior management on problem resolution and viability of new technologies.  Design, develop, and implement Unix and web-based infrastructure to support a heterogeneous environment consisting of hundreds of servers worldwide.  Evaluate and integrate new technologies and platforms into existing infrastructure.  Develop programs and systems to assist application DBA day-to-day activities.  Track and resolve escalated Sybase technical problems.  Perform maintenance in support of production systems.  Maintain dataserver/database space monitoring and notification system.  Oversee migration of production databases to new environments or platforms.  Test scalability and capacity of new Sybase products.  Maintain system-wide statistics monitoring application.  Maintain centralized Dataserver information applet and master interfaces file.  Design, implement, and maintain AutoSys scheduling system currently supporting over 60,000 scheduled jobs supporting all of Business Technologies.  Capstone Achievements:-Ground-up design and implementation of web-based System Dashboard and reporting environmentInstrumental in the implementation of Sarbanes-Oxley (SOX) Compliance and related utilities-Authored system to verify, report on interconnectivity for enormous array of databases-Authored Sybase installation tool to automate database server installation-Authored database migration tool for recreation of databases with proper segment mapping."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of Arizona",
+                "Field Of Study",
+                "Management Information Systems",
+                "Dates attended or expected graduation",
+                "1996 – 1999"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "SendGrid",
+                "8,485 followers"
+            ],
+            [
+                "University of Arizona",
+                "228,852 followers"
+            ],
+            [
+                "University of Arizona",
+                "213,842 followers"
+            ],
+            [
+                "The Enterprise Architecture Network",
+                "201,656 members"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "SendGrid",
+                "8,485 followers"
+            ],
+            [
+                "SendGrid",
+                "8,485 followers"
+            ],
+            [
+                "University of Arizona",
+                "228,852 followers"
+            ],
+            [
+                "University of Arizona",
+                "228,852 followers"
+            ],
+            [
+                "University of Arizona",
+                "213,842 followers"
+            ],
+            [
+                "University of Arizona",
+                "213,842 followers"
+            ],
+            [
+                "The Enterprise Architecture Network",
+                "201,656 members"
+            ],
+            [
+                "The Enterprise Architecture Network",
+                "201,656 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Michael Richardson",
+                "Maker and Managing Editor at CREDIL Centre for Research and Experimental Development in Informatics Libre",
+                "December 15, 2008, Michael worked with J.R. in different groups",
+                "JR did the database architecture for SIMtone. Part of my job was to populate it from customer subscription information.  I found JR to be very easy to work with --- always trying to understand the real question behind my question, and taking the time to investigate my environment extensively before answering the wrong question.My only complaint about JR is that we had only one of him."
+            ],
+            [
+                "Michael Richardson",
+                "Maker and Managing Editor at CREDIL Centre for Research and Experimental Development in Informatics Libre",
+                "December 15, 2008, Michael worked with J.R. in different groups"
+            ],
+            [
+                "Michael Richardson",
+                "Maker and Managing Editor at CREDIL Centre for Research and Experimental Development in Informatics Libre",
+                "December 15, 2008, Michael worked with J.R. in different groups"
+            ],
+            [
+                "Michael Richardson",
+                "Maker and Managing Editor at CREDIL Centre for Research and Experimental Development in Informatics Libre",
+                "December 15, 2008, Michael worked with J.R. in different groups"
+            ],
+            "Maker and Managing Editor at CREDIL Centre for Research and Experimental Development in Informatics Libre",
+            [
+                "JR did the database architecture for SIMtone. Part of my job was to populate it from customer subscription information.  I found JR to be very easy to work with --- always trying to understand the real question behind my question, and taking the time to investigate my environment extensively before answering the wrong question.My only complaint about JR is that we had only one of him."
+            ],
+            [
+                "JR did the database architecture for SIMtone. Part of my job was to populate it from customer subscription information.  I found JR to be very easy to work with --- always trying to understand the real question behind my question, and taking the time to investigate my environment extensively before answering the wrong question.My only complaint about JR is that we had only one of him."
+            ],
+            [
+                "Paul Francis",
+                "business manager at Safeway",
+                "February 14, 2008, Paul was senior to J.R. but didn’t manage directly",
+                "JR was on my team at AOL for approximately 5 years. JR is methodical and detailed oriented analyst. While he employs proven SDLC principles he tempers them with practical considerations. I have no reservations about giving JR a strong recommendation.Thanks,--Paul"
+            ],
+            [
+                "Paul Francis",
+                "business manager at Safeway",
+                "February 14, 2008, Paul was senior to J.R. but didn’t manage directly"
+            ],
+            [
+                "Paul Francis",
+                "business manager at Safeway",
+                "February 14, 2008, Paul was senior to J.R. but didn’t manage directly"
+            ],
+            [
+                "Paul Francis",
+                "business manager at Safeway",
+                "February 14, 2008, Paul was senior to J.R. but didn’t manage directly"
+            ],
+            "business manager at Safeway",
+            [
+                "JR was on my team at AOL for approximately 5 years. JR is methodical and detailed oriented analyst. While he employs proven SDLC principles he tempers them with practical considerations. I have no reservations about giving JR a strong recommendation.Thanks,--Paul"
+            ],
+            [
+                "JR was on my team at AOL for approximately 5 years. JR is methodical and detailed oriented analyst. While he employs proven SDLC principles he tempers them with practical considerations. I have no reservations about giving JR a strong recommendation.Thanks,--Paul"
+            ],
+            [
+                "John Peterson",
+                "Director of Web Operations at CustomInk",
+                "November 9, 2007, John managed J.R. directly",
+                "I was J.R.'s manager for 5 years at AOL.  I have always found him to be a supportive and highly valued employee.  He worked very hard to impress and separate himself above his peers.  He has a great sense of pride in doing a good job.  He was also very respected by his teammates."
+            ],
+            [
+                "John Peterson",
+                "Director of Web Operations at CustomInk",
+                "November 9, 2007, John managed J.R. directly"
+            ],
+            [
+                "John Peterson",
+                "Director of Web Operations at CustomInk",
+                "November 9, 2007, John managed J.R. directly"
+            ],
+            [
+                "John Peterson",
+                "Director of Web Operations at CustomInk",
+                "November 9, 2007, John managed J.R. directly"
+            ],
+            "Director of Web Operations at CustomInk",
+            [
+                "I was J.R.'s manager for 5 years at AOL.  I have always found him to be a supportive and highly valued employee.  He worked very hard to impress and separate himself above his peers.  He has a great sense of pride in doing a good job.  He was also very respected by his teammates."
+            ],
+            [
+                "I was J.R.'s manager for 5 years at AOL.  I have always found him to be a supportive and highly valued employee.  He worked very hard to impress and separate himself above his peers.  He has a great sense of pride in doing a good job.  He was also very respected by his teammates."
+            ],
+            [
+                "Kavita Goel Dubey",
+                "Oracle DBA at VERISIGN",
+                "November 9, 2007, J.R. worked with Kavita in the same group",
+                "JR is one of the best DBAs I had the pleasure of working with.  He created many scripts for monitoring 400+ Sybase and Oracle servers. He scripted server builds that helped us standardize all builds and have a faster turn around for installs.  Multiple reports are generated from his scripts and sent out to DBAs with space warning, servers not currently monitored, backups not completed successfully. This helps us in being proactive and provide our customers with high system-application availability. This has also reduced on call after hour support.He always maintained high ethical standards of conduct in all aspects of the work. Acts with poise and confidence even when faced with challenging situations. For JR, team always comes at the top. Being located offsite did not make anyone feel his absence at work. He was always available and responsive to ideas of other team members. Every week is a win for him. He picks up an idea or a concept and comes up with a solution. I remember my manager stating that, all he needs to give JR is a thought in his mind and he will come up with results."
+            ],
+            [
+                "Kavita Goel Dubey",
+                "Oracle DBA at VERISIGN",
+                "November 9, 2007, J.R. worked with Kavita in the same group"
+            ],
+            [
+                "Kavita Goel Dubey",
+                "Oracle DBA at VERISIGN",
+                "November 9, 2007, J.R. worked with Kavita in the same group"
+            ],
+            [
+                "Kavita Goel Dubey",
+                "Oracle DBA at VERISIGN",
+                "November 9, 2007, J.R. worked with Kavita in the same group"
+            ],
+            "Oracle DBA at VERISIGN",
+            [
+                "JR is one of the best DBAs I had the pleasure of working with.  He created many scripts for monitoring 400+ Sybase and Oracle servers. He scripted server builds that helped us standardize all builds and have a faster turn around for installs.  Multiple reports are generated from his scripts and sent out to DBAs with space warning, servers not currently monitored, backups not completed successfully. This helps us in being proactive and provide our customers with high system-application availability. This has also reduced on call after hour support.He always maintained high ethical standards of conduct in all aspects of the work. Acts with poise and confidence even when faced with challenging situations. For JR, team always comes at the top. Being located offsite did not make anyone feel his absence at work. He was always available and responsive to ideas of other team members. Every week is a win for him. He picks up an idea or a concept and comes up with a solution. I remember my manager stating that, all he needs to give JR is a thought in his mind and he will come up with results."
+            ],
+            [
+                "JR is one of the best DBAs I had the pleasure of working with.  He created many scripts for monitoring 400+ Sybase and Oracle servers. He scripted server builds that helped us standardize all builds and have a faster turn around for installs.  Multiple reports are generated from his scripts and sent out to DBAs with space warning, servers not currently monitored, backups not completed successfully. This helps us in being proactive and provide our customers with high system-application availability. This has also reduced on call after hour support.He always maintained high ethical standards of conduct in all aspects of the work. Acts with poise and confidence even when faced with challenging situations. For JR, team always comes at the top. Being located offsite did not make anyone feel his absence at work. He was always available and responsive to ideas of other team members. Every week is a win for him. He picks up an idea or a concept and comes up with a solution. I remember my manager stating that, all he needs to give JR is a thought in his mind and he will come up with results."
+            ],
+            [
+                "Patrick Pan 潘栩",
+                "Sr. Director Database Technology at ICE",
+                "November 7, 2007, J.R. worked with Patrick in the same group",
+                "J.R. is the smartest guy in our group. He achieved the senior level in shortest period time in our group. He has great intuition. He also has the best work ethic. He is fun to work with too. It was a great loss for our group to loose him. It has been a great pleasure working with him."
+            ],
+            [
+                "Patrick Pan 潘栩",
+                "Sr. Director Database Technology at ICE",
+                "November 7, 2007, J.R. worked with Patrick in the same group"
+            ],
+            [
+                "Patrick Pan 潘栩",
+                "Sr. Director Database Technology at ICE",
+                "November 7, 2007, J.R. worked with Patrick in the same group"
+            ],
+            [
+                "Patrick Pan 潘栩",
+                "Sr. Director Database Technology at ICE",
+                "November 7, 2007, J.R. worked with Patrick in the same group"
+            ],
+            "Sr. Director Database Technology at ICE",
+            [
+                "J.R. is the smartest guy in our group. He achieved the senior level in shortest period time in our group. He has great intuition. He also has the best work ethic. He is fun to work with too. It was a great loss for our group to loose him. It has been a great pleasure working with him."
+            ],
+            [
+                "J.R. is the smartest guy in our group. He achieved the senior level in shortest period time in our group. He has great intuition. He also has the best work ethic. He is fun to work with too. It was a great loss for our group to loose him. It has been a great pleasure working with him."
+            ],
+            [
+                "Katie Tole, CSM",
+                "Head of Product",
+                "October 26, 2015, J.R. worked with Katie in different groups",
+                "I found Katie to be an excellent PM and partner. I worked with Katie while I was in a position overseeing architecture for the hosting division and she was managing product for the largest grossing hosting line at GoDaddy.I was incredibly impressed with how quickly she oriented herself and made significant positive traction in challenging circumstances.  As a PM she quickly established rapport with her team and key stakeholders, gained insight into the product space, and developed holistic understanding of her product.  This in turn allowed her to do a tremendous job balancing the exigent tactical and strategic growth work."
+            ],
+            [
+                "Katie Tole, CSM",
+                "Head of Product",
+                "October 26, 2015, J.R. worked with Katie in different groups"
+            ],
+            [
+                "Katie Tole, CSM",
+                "Head of Product",
+                "October 26, 2015, J.R. worked with Katie in different groups"
+            ],
+            [
+                "Katie Tole, CSM",
+                "Head of Product",
+                "October 26, 2015, J.R. worked with Katie in different groups"
+            ],
+            "Head of Product",
+            [
+                "I found Katie to be an excellent PM and partner. I worked with Katie while I was in a position overseeing architecture for the hosting division and she was managing product for the largest grossing hosting line at GoDaddy.I was incredibly impressed with how quickly she oriented herself and made significant positive traction in challenging circumstances.  As a PM she quickly established rapport with her team and key stakeholders, gained insight into the product space, and developed holistic understanding of her product.  This in turn allowed her to do a tremendous job balancing the exigent tactical and strategic growth work."
+            ],
+            [
+                "I found Katie to be an excellent PM and partner. I worked with Katie while I was in a position overseeing architecture for the hosting division and she was managing product for the largest grossing hosting line at GoDaddy.I was incredibly impressed with how quickly she oriented herself and made significant positive traction in challenging circumstances.  As a PM she quickly established rapport with her team and key stakeholders, gained insight into the product space, and developed holistic understanding of her product.  This in turn allowed her to do a tremendous job balancing the exigent tactical and strategic growth work."
+            ],
+            [
+                "Michael Richardson",
+                "Maker and Managing Editor at CREDIL Centre for Research and Experimental Development in Informatics Libre",
+                "December 15, 2008, J.R. worked with Michael in different groups",
+                "Michael and I worked together at SIMtone for several years.  Michael's work represented a significant consumer of the database architecture for which I was responsible, and thus we worked together for significant periods of time developing the work flow and interfaces between our projects.  Michael maintains and exercises diverse knowledge of many facets of IT, not the least of which include internet standards and protocols which I found particularly impressive.  From my experience working with him I would rate Michael's ability to think outside of the box to develop creative solutions as his most valuable asset."
+            ],
+            [
+                "Michael Richardson",
+                "Maker and Managing Editor at CREDIL Centre for Research and Experimental Development in Informatics Libre",
+                "December 15, 2008, J.R. worked with Michael in different groups"
+            ],
+            [
+                "Michael Richardson",
+                "Maker and Managing Editor at CREDIL Centre for Research and Experimental Development in Informatics Libre",
+                "December 15, 2008, J.R. worked with Michael in different groups"
+            ],
+            [
+                "Michael Richardson",
+                "Maker and Managing Editor at CREDIL Centre for Research and Experimental Development in Informatics Libre",
+                "December 15, 2008, J.R. worked with Michael in different groups"
+            ],
+            "Maker and Managing Editor at CREDIL Centre for Research and Experimental Development in Informatics Libre",
+            [
+                "Michael and I worked together at SIMtone for several years.  Michael's work represented a significant consumer of the database architecture for which I was responsible, and thus we worked together for significant periods of time developing the work flow and interfaces between our projects.  Michael maintains and exercises diverse knowledge of many facets of IT, not the least of which include internet standards and protocols which I found particularly impressive.  From my experience working with him I would rate Michael's ability to think outside of the box to develop creative solutions as his most valuable asset."
+            ],
+            [
+                "Michael and I worked together at SIMtone for several years.  Michael's work represented a significant consumer of the database architecture for which I was responsible, and thus we worked together for significant periods of time developing the work flow and interfaces between our projects.  Michael maintains and exercises diverse knowledge of many facets of IT, not the least of which include internet standards and protocols which I found particularly impressive.  From my experience working with him I would rate Michael's ability to think outside of the box to develop creative solutions as his most valuable asset."
+            ]
+        ],
+        "skills": [
+            [
+                "Enterprise Architecture",
+                "See 54 endorsements for Enterprise Architecture",
+                "54",
+                "Enterprise Architecture",
+                "Endorse",
+                "Endorsed by Robert Lacy and 3 other mutual connections",
+                "Endorsed by 2 of J.R.’s colleagues at SendGrid"
+            ],
+            [
+                "Enterprise Architecture",
+                "See 54 endorsements for Enterprise Architecture",
+                "54"
+            ],
+            [
+                "Cloud Computing",
+                "See 50 endorsements for Cloud Computing",
+                "50",
+                "Cloud Computing",
+                "Endorse",
+                "Endorsed by Joseph Bajin, who is highly skilled at this",
+                "Endorsed by Josh Blair and 1 other mutual connection"
+            ],
+            [
+                "Cloud Computing",
+                "See 50 endorsements for Cloud Computing",
+                "50"
+            ],
+            [
+                "Linux",
+                "See 33 endorsements for Linux",
+                "33",
+                "Linux",
+                "Endorse",
+                "Endorsed by Bryan O'Neal and 9 others who are highly skilled at this",
+                "Endorsed by Jason Simpson and 2 other mutual connections"
+            ],
+            [
+                "Linux",
+                "See 33 endorsements for Linux",
+                "33"
+            ],
+            [
+                "Unix",
+                "See 38 endorsements for Unix",
+                "38",
+                "Unix",
+                "Endorse"
+            ],
+            [
+                "Unix",
+                "See 38 endorsements for Unix",
+                "38"
+            ],
+            [
+                "Integration",
+                "See 28 endorsements for Integration",
+                "28",
+                "Integration",
+                "Endorse"
+            ],
+            [
+                "Integration",
+                "See 28 endorsements for Integration",
+                "28"
+            ],
+            [
+                "SDLC",
+                "See 19 endorsements for SDLC",
+                "19",
+                "SDLC",
+                "Endorse"
+            ],
+            [
+                "SDLC",
+                "See 19 endorsements for SDLC",
+                "19"
+            ],
+            [
+                "Databases",
+                "See 13 endorsements for Databases",
+                "13",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 13 endorsements for Databases",
+                "13"
+            ],
+            [
+                "MySQL",
+                "See 13 endorsements for MySQL",
+                "13",
+                "MySQL",
+                "Endorse"
+            ],
+            [
+                "MySQL",
+                "See 13 endorsements for MySQL",
+                "13"
+            ],
+            [
+                "IT Strategy",
+                "See 10 endorsements for IT Strategy",
+                "10",
+                "IT Strategy",
+                "Endorse"
+            ],
+            [
+                "IT Strategy",
+                "See 10 endorsements for IT Strategy",
+                "10"
+            ],
+            [
+                "Business Intelligence",
+                "See 6 endorsements for Business Intelligence",
+                "6",
+                "Business Intelligence",
+                "Endorse"
+            ],
+            [
+                "Business Intelligence",
+                "See 6 endorsements for Business Intelligence",
+                "6"
+            ],
+            [
+                "Web Applications",
+                "See 9 endorsements for Web Applications",
+                "9",
+                "Web Applications",
+                "Endorse"
+            ],
+            [
+                "Web Applications",
+                "See 9 endorsements for Web Applications",
+                "9"
+            ],
+            [
+                "Web Services",
+                "See 5 endorsements for Web Services",
+                "5",
+                "Web Services",
+                "Endorse"
+            ],
+            [
+                "Web Services",
+                "See 5 endorsements for Web Services",
+                "5"
+            ],
+            [
+                "Perl",
+                "See 4 endorsements for Perl",
+                "4",
+                "Perl",
+                "Endorse"
+            ],
+            [
+                "Perl",
+                "See 4 endorsements for Perl",
+                "4"
+            ],
+            [
+                "ITIL",
+                "See 4 endorsements for ITIL",
+                "4",
+                "ITIL",
+                "Endorse"
+            ],
+            [
+                "ITIL",
+                "See 4 endorsements for ITIL",
+                "4"
+            ],
+            [
+                "Software Development",
+                "See 6 endorsements for Software Development",
+                "6",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development",
+                "See 6 endorsements for Software Development",
+                "6"
+            ],
+            [
+                "Testing",
+                "See 4 endorsements for Testing",
+                "4",
+                "Testing",
+                "Endorse"
+            ],
+            [
+                "Testing",
+                "See 4 endorsements for Testing",
+                "4"
+            ],
+            [
+                "Web Development",
+                "See 4 endorsements for Web Development",
+                "4",
+                "Web Development",
+                "Endorse"
+            ],
+            [
+                "Web Development",
+                "See 4 endorsements for Web Development",
+                "4"
+            ],
+            [
+                "Agile Methodologies",
+                "See 7 endorsements for Agile Methodologies",
+                "7",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 7 endorsements for Agile Methodologies",
+                "7"
+            ],
+            [
+                "Sybase",
+                "See 3 endorsements for Sybase",
+                "3",
+                "Sybase",
+                "Endorse"
+            ],
+            [
+                "Sybase",
+                "See 3 endorsements for Sybase",
+                "3"
+            ],
+            [
+                "Management",
+                "See 6 endorsements for Management",
+                "6",
+                "Management",
+                "Endorse"
+            ],
+            [
+                "Management",
+                "See 6 endorsements for Management",
+                "6"
+            ],
+            [
+                "Servers",
+                "See 7 endorsements for Servers",
+                "7",
+                "Servers",
+                "Endorse"
+            ],
+            [
+                "Servers",
+                "See 7 endorsements for Servers",
+                "7"
+            ],
+            [
+                "High Availability",
+                "See 4 endorsements for High Availability",
+                "4",
+                "High Availability",
+                "Endorse"
+            ],
+            [
+                "High Availability",
+                "See 4 endorsements for High Availability",
+                "4"
+            ],
+            [
+                "IT Management",
+                "See 3 endorsements for IT Management",
+                "3",
+                "IT Management",
+                "Endorse"
+            ],
+            [
+                "IT Management",
+                "See 3 endorsements for IT Management",
+                "3"
+            ],
+            [
+                "Security",
+                "See 3 endorsements for Security",
+                "3",
+                "Security",
+                "Endorse"
+            ],
+            [
+                "Security",
+                "See 3 endorsements for Security",
+                "3"
+            ],
+            [
+                "Architecture",
+                "See 2 endorsements for Architecture",
+                "2",
+                "Architecture",
+                "Endorse"
+            ],
+            [
+                "Architecture",
+                "See 2 endorsements for Architecture",
+                "2"
+            ],
+            [
+                "System Administration",
+                "See 2 endorsements for System Administration",
+                "2",
+                "System Administration",
+                "Endorse"
+            ],
+            [
+                "System Administration",
+                "See 2 endorsements for System Administration",
+                "2"
+            ],
+            [
+                "DNS",
+                "See 3 endorsements for DNS",
+                "3",
+                "DNS",
+                "Endorse"
+            ],
+            [
+                "DNS",
+                "See 3 endorsements for DNS",
+                "3"
+            ],
+            [
+                "Database Design",
+                "See 3 endorsements for Database Design",
+                "3",
+                "Database Design",
+                "Endorse"
+            ],
+            [
+                "Database Design",
+                "See 3 endorsements for Database Design",
+                "3"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 3 endorsements for Microsoft SQL Server",
+                "3",
+                "Microsoft SQL Server",
+                "Endorse"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 3 endorsements for Microsoft SQL Server",
+                "3"
+            ],
+            [
+                "Oracle",
+                "See 2 endorsements for Oracle",
+                "2",
+                "Oracle",
+                "Endorse"
+            ],
+            [
+                "Oracle",
+                "See 2 endorsements for Oracle",
+                "2"
+            ],
+            [
+                "Due Diligence",
+                "See 2 endorsements for Due Diligence",
+                "2",
+                "Due Diligence",
+                "Endorse"
+            ],
+            [
+                "Due Diligence",
+                "See 2 endorsements for Due Diligence",
+                "2"
+            ],
+            [
+                "Product Management",
+                "See 2 endorsements for Product Management",
+                "2",
+                "Product Management",
+                "Endorse"
+            ],
+            [
+                "Product Management",
+                "See 2 endorsements for Product Management",
+                "2"
+            ],
+            [
+                "Thought Leadership",
+                "See 3 endorsements for Thought Leadership",
+                "3",
+                "Thought Leadership",
+                "Endorse"
+            ],
+            [
+                "Thought Leadership",
+                "See 3 endorsements for Thought Leadership",
+                "3"
+            ],
+            [
+                "Software Development Life Cycle (SDLC)",
+                "See 3 endorsements for Software Development Life Cycle (SDLC)",
+                "3",
+                "Software Development Life Cycle (SDLC)",
+                "Endorse"
+            ],
+            [
+                "Software Development Life Cycle (SDLC)",
+                "See 3 endorsements for Software Development Life Cycle (SDLC)",
+                "3"
+            ]
+        ],
+        "summary": "    Dynamic IT leader and strategist with a focus on architecture and engineering offering a unique blend of talent, drive and elite experience.  Maintains a consistent, proven track record of excellence, achievement, adaptability and integrity.  Over eighteen years of experience leading numerous IT teams as well as architecting, engineering and supporting cloud-based, geographically disparate, highly-available, high performance and business critical support, database and analytics systems.  Industry Leader experience as an architect leading engineering and operations teams supporting some of the worlds largest DNS, SSL/PKI, PCI, Email and web hosting environments.  Leveraged as a subject matter expert (SME) for architecture, engineering, progressive technology, and design of global web applications and services for multi billion dollar companies. Fortune 50 experience leading, designing, developing, and supporting enterprise level, mission critical infrastructure, OLTP, data warehouse/DSS, finance/reporting, marketing, CRM, and human resources systems.  Greenfield experience in architecture and deployment of carrier grade backbone systems, high availability and clustering solutions, performance tuning, monitoring, and management/reporting web applications.Consulting experience developing SMB, e-commerce, medical, media, and social networking/web 2.0 applications.Diverse Expertise in all facets of architecture, infrastructure, engineering, database, and web development.  Real world experience in industry standard technologies.\n  \n  \n",
+        "name": "J.R. Jasperson",
+        "title": "Chief Architect at SendGrid",
+        "url": "linkedin.com/in/jrjasperson",
+        "phone": null,
+        "email": "jasperson@gmail.com"
+    }
+]

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6218495226961547264/",
+    "participants": [
+        {
+            "name": "Greg Belanger",
+            "title": "Vice President, Cyber Defense at CBRE",
+            "url": "linkedin.com/in/grbelanger",
+            "phone": null,
+            "email": "agilekalaf@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-24T18:39:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Congrats on the new job!\n",
+            "time": "2017-09-14T04:51:00.000Z"
+        }
+    ]
+}

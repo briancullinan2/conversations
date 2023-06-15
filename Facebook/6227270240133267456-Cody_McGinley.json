@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6227270240133267456/",
+    "participants": [
+        {
+            "name": "Cody McGinley",
+            "title": "Sr. Recruiter at SunPower",
+            "url": "linkedin.com/in/codymcginley",
+            "phone": "512-514-6117 (Work)",
+            "email": "Cody.McGinley@sunpower.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-17T23:48:00.000Z"
+        }
+    ]
+}

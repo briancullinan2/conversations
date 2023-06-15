@@ -1,0 +1,265 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "51 Mutual Connections",
+                "You and Arcie both know Scott Kwait, Dona Riles, and 49 others"
+            ],
+            [
+                "Arcie can introduce you to 4 people at Avella Specialty Pharmacy",
+                "Arcie worked at Avella Specialty Pharmacy"
+            ],
+            [
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Software Engineer III",
+                "Company Name",
+                "Altep, Inc.",
+                "Dates Employed",
+                "Sep 2015 – Present",
+                "Employment Duration",
+                "2 yrs 3 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Lead Engineer for Altep's Phoenix engineering team."
+            ],
+            [
+                "Senior Software Developer",
+                "Company Name",
+                "Inilex",
+                "Dates Employed",
+                "Oct 2014 – Sep 2015",
+                "Employment Duration",
+                "1 yr",
+                "Location",
+                "Phoenix, Arizona Area",
+                "•\tLed a team that has implemented an Angular re-work of an existing customer-facing site that runs through a .Net WebAPI service layer backed by the Entity Framework and MSSQL. I was the Project Lead and did most of my work on the middle and back end and performed code reviews of the front-end worked on by the junior devs assigned to my project (ASP.NET/C#/T-SQL/Entity/Linq/AngularJS)•\tSolely in charge of maintaining and upgrading the internal Admin site that manages most of the customer, device, and sales details for the Inilex customer base (ASP.NET/C#/MVC/T-SQL/Linq/T-SQL)•\tRefactored various legacy SSRS reports (T-SQL/MS Report Builder)•\tWorked as a Support consultant in that they would bring escalated issues to me that didn’t have a clear owner for the code, and I’d work to either fix the bug myself, or determine who the owner is, if applicable"
+            ],
+            [
+                "Application Developer III (.NET)",
+                "Company Name",
+                "Dignity Health",
+                "Dates Employed",
+                "May 2014 – Mar 2015",
+                "Employment Duration",
+                "11 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "•\tLed a team that created, updated and serviced two .NET-based replacement dashboards to replace existing SSRS report-viewer-based metrics viewers for the Arizona Care Network. (ASP.NET/C#/SQL/jQuery + plug-ins)•\tBuilt a console application that leverages Excel to repair corrupted .xls files used to import in healthcare metrics for various healthcare networks (ASP.NET/MS InterOp)•\tCo-wrote documentation that established developer standards for the team, as far as software publication schedules and patterns code repo use (TFS)"
+            ],
+            [
+                "Software Engineer II",
+                "Company Name",
+                "Avella",
+                "Dates Employed",
+                "Oct 2012 – May 2014",
+                "Employment Duration",
+                "1 yr 8 mos",
+                "Location",
+                "Deer Valley, AZ",
+                "• Worked with and maintained existing legacy .NET (1.1 to 3.5) code for critical internal pharmacy applications while integrating new software features as requested by various internal stakeholders (ASP.NET/C#/Linq/JavaScript/SQL)• Built console applications in support of critical internal applications for both reporting and maintenance purposes (ASP.NET/C#/SQL)• Created and maintained executive-level reports and analysis, including automatic email subscriptions to these reports (SSRS/SQL/SharePoint)• Helped conceptualize and partially build a new platform to replace multiple internal applications (ASP.NET/C#/MVC/SQL/jQuery/Durandal/KnockoutJS/Linq/Entity)"
+            ],
+            [
+                "Web Developer",
+                "Company Name",
+                "University of Phoenix",
+                "Dates Employed",
+                "Oct 2007 – Sep 2012",
+                "Employment Duration",
+                "5 yrs",
+                "I worked with designers stakeholders and project managers to architect and develop web-based and winforms-based solutions to client needs.•\tBuilt a prototype service for an RSS feed creator that allows you to register an application and use the feed as both a log of app issues and errors, as well as possibly to create an automatic updated feed for an app’s users. (ASP.NET/C#)•\tLeveraged my RSS feed creator service to create an intuitive UI for creating and editing feeds managed by my service manually. (ASP.NET/C#/XSLT)•\tExposed a service that allows you to register email groups under your application which allows you to send emails to every individual address registered under each group in one send call within your application. Also allows email attachments and leverages SMTP. (ASP.NET/C#)•\tBuilt the back-end and data-centric functionality for the University of Phoenix Virtual Organization (VO) Kelsey Elementary’s virtual library application. Currently in use by all students who access this particular VO in their classes. (VBScript/T-SQL)•\tPrototyped Siskel, an idea-sharing and voting application for internal use within Apollo Group and its employees. Siskel in its original form was used in an idea-generation contest during the Spring of 2008 by several groups within Apollo Group that included ACU. Siskel also won my former director a certificate presented during an enrollment counselors’ award ceremony.•\tBuilt Riverpoint Writer (RPW – patent pending), Apollo Group’s APA formatting tool and Word plugin currently in wide use by University of Phoenix’s students. RPW is also being used as a recruitment tool by the University of Phoenix Marketing Department, distributing RPW to potential students. A federal patent application under my name is currently on file for this application, as filed by Apollo Group on my behalf."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of Phoenix",
+                "Degree Name",
+                "BSIT/SE",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2009 – 2011",
+                "3.96 GPA"
+            ],
+            [
+                "University of Phoenix",
+                "Degree Name",
+                "BSIT/SE",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2009 – 2011",
+                "3.96 GPA"
+            ],
+            [
+                "High-Tech Institute",
+                "Degree Name",
+                "AS",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2002 – 2004",
+                "Graduated ValedictorianInvited into the Alpha Beta Kappa Honors Society"
+            ],
+            [
+                "High-Tech Institute",
+                "Degree Name",
+                "AS",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2002 – 2004",
+                "Graduated ValedictorianInvited into the Alpha Beta Kappa Honors Society"
+            ],
+            "Recommendations",
+            [
+                "ASP.NET,C#/VB.NET  Developer/Programmer",
+                "141,194 members"
+            ],
+            [
+                "Richard BransonRichard Branson is a LinkedIn Influencer",
+                "Founder at Virgin Group",
+                "13,229,488 followers"
+            ],
+            [
+                "ZDNet",
+                "281,770 followers"
+            ],
+            [
+                "Advanced Discovery",
+                "1,739 followers"
+            ],
+            [
+                "Bill GatesBill Gates is a LinkedIn Influencer",
+                "Co-chair, Bill & Melinda Gates Foundation",
+                "11,764,399 followers"
+            ],
+            [
+                "CNET",
+                "765,065 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (383)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "ASP.NET,C#/VB.NET  Developer/Programmer",
+                "141,194 members"
+            ],
+            [
+                "ASP.NET,C#/VB.NET  Developer/Programmer",
+                "141,194 members"
+            ],
+            [
+                "Richard BransonRichard Branson is a LinkedIn Influencer",
+                "Founder at Virgin Group",
+                "13,229,488 followers"
+            ],
+            [
+                "Richard BransonRichard Branson is a LinkedIn Influencer",
+                "Founder at Virgin Group",
+                "13,229,488 followers"
+            ],
+            [
+                "Richard Branson is a LinkedIn Influencer"
+            ],
+            [
+                "ZDNet",
+                "281,770 followers"
+            ],
+            [
+                "ZDNet",
+                "281,770 followers"
+            ],
+            [
+                "Advanced Discovery",
+                "1,739 followers"
+            ],
+            [
+                "Advanced Discovery",
+                "1,739 followers"
+            ],
+            [
+                "Bill GatesBill Gates is a LinkedIn Influencer",
+                "Co-chair, Bill & Melinda Gates Foundation",
+                "11,764,399 followers"
+            ],
+            [
+                "Bill GatesBill Gates is a LinkedIn Influencer",
+                "Co-chair, Bill & Melinda Gates Foundation",
+                "11,764,399 followers"
+            ],
+            [
+                "Bill Gates is a LinkedIn Influencer"
+            ],
+            [
+                "CNET",
+                "765,065 followers"
+            ],
+            [
+                "CNET",
+                "765,065 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Kelly Scriven",
+                "Customer Support Agent at Ring",
+                "August 6, 2014, Arcie worked with Kelly in different groups",
+                "Kelly is hard-working, smart and sensitive to the needs of the internal customers she provided IT services to.When I found myself in need of support, Kelly was always responsive and resolved any and all issues with alacrity.I can recommend Kelly to any IT shop that is interested in her."
+            ],
+            [
+                "Kelly Scriven",
+                "Customer Support Agent at Ring",
+                "August 6, 2014, Arcie worked with Kelly in different groups"
+            ],
+            [
+                "Kelly Scriven",
+                "Customer Support Agent at Ring",
+                "August 6, 2014, Arcie worked with Kelly in different groups"
+            ],
+            [
+                "Kelly Scriven",
+                "Customer Support Agent at Ring",
+                "August 6, 2014, Arcie worked with Kelly in different groups"
+            ],
+            "Customer Support Agent at Ring",
+            [
+                "Kelly is hard-working, smart and sensitive to the needs of the internal customers she provided IT services to.When I found myself in need of support, Kelly was always responsive and resolved any and all issues with alacrity.I can recommend Kelly to any IT shop that is interested in her."
+            ],
+            [
+                "Kelly is hard-working, smart and sensitive to the needs of the internal customers she provided IT services to.When I found myself in need of support, Kelly was always responsive and resolved any and all issues with alacrity.I can recommend Kelly to any IT shop that is interested in her."
+            ]
+        ],
+        "skills": [],
+        "summary": "  I am a Software Developer/Engineer with more than 10 years of experience in and around the IT industry.\n  \n  \n",
+        "name": "Arcie Ramos",
+        "title": "Software Engineer III at Altep",
+        "url": "linkedin.com/in/arcie-ramos-a2793a27",
+        "phone": "",
+        "email": "arcie.ramos@gmail.com"
+    }
+]

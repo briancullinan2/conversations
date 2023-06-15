@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6211972724408012801/",
+    "participants": [
+        {
+            "name": "Nick Pajic",
+            "title": "Founder, President & CEO, Smart Tray International, LLC",
+            "url": "linkedin.com/in/nick-pajic-08635b11",
+            "phone": "602-553-1988 (Work)",
+            "email": "nick.pajic@thesmarttray.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting! How is smart trays going?\n",
+            "time": "2017-12-06T18:41:00.000Z"
+        },
+        {
+            "from": "Nick Pajic",
+            "message": "Brian ... we are doing fine. What is the nature of your interest in SmartTray?\n",
+            "time": "2017-12-06T21:07:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "We met at the salon. I am wondering if you could refer me to someone involved with BASIS?\n",
+            "time": "2017-12-06T21:13:00.000Z"
+        },
+        {
+            "from": "Nick Pajic",
+            "message": "Sorry Brian, I talk to and meet lots of people daily but I do remember now. Our son is at Basis Scottsdale and Aimee (my significant other) knows the principal and some other high end administration people there. Are you looking for a software project consulting arrangement, or a position at Basis?\n",
+            "time": "2017-12-06T21:35:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Yes. An agreement would be awesome. I spent three years developing software called Study Sauce in the iOS app store. Code is \"demo\" if you want to check it out. We have some sample content for 4th graders and 1st graders. Mostly just looking for a conversation with them as the app has applications across all industries. With a small investment we could overthrow Pearson's grip on the industry and completely replace STEM with actual measurements. But that sounds pretty ambitious.\n",
+            "time": "2017-12-06T21:41:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I tried to reach Peter but I am sure he is busy like you :)\n",
+            "time": "2017-12-06T21:41:00.000Z"
+        }
+    ]
+}

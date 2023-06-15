@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6225893927266902016/",
+    "participants": [
+        {
+            "name": "Eric Johnson",
+            "title": "Doctor of Dental Medicine (DMD) Student at Midwestern University",
+            "url": "linkedin.com/in/eric-johnson-8981947b",
+            "phone": null,
+            "email": "ericjohnsondmd@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-14T04:39:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,357 @@
+{
+    "thread": "https://www.facebook.com/messages/archived/t/iamthebiker",
+    "participants": [
+        {
+            "name": "Joseph Davidson",
+            "description": "Founder (company) at Local Works",
+            "url": "Owner/Engineer at ElectricLIFE engineering"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Joseph",
+            "time": "2011-01-27T14:28:00.000Z",
+            "message": "\nDo you think Abe Prowley would be a good person to invite to the Brainstorming thing? Also whatever time works for me. Next week is fine if we do it then.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-01-27T20:04:00.000Z",
+            "message": "Brian\nI thought about that. He's usually tied up with game stuff, I don't know if he could be much help.\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2011-01-27T22:11:00.000Z",
+            "message": "\nO cool cool.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-09-29T02:24:00.000Z",
+            "message": "Brian\n\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T21:24:00.000Z",
+            "message": "Brian\nDo you have an Arduino I could borrow?\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2011-12-23T21:24:00.000Z",
+            "message": "\nno sorry.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T21:24:00.000Z",
+            "message": "Brian\nok, i think I am going to order one on sparkfun's free day\nI may need to employ your help some weekend.\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2011-12-23T21:24:00.000Z",
+            "message": "\nnice. sounds good. I'm down to help. whats your plan?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T21:24:00.000Z",
+            "message": "Brian\nhook up a bunch of LEDs to a pair of pants.\nand wear them to music festivals.\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2011-12-23T21:24:00.000Z",
+            "message": "\nnice. that sounds pretty sweet.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T21:24:00.000Z",
+            "message": "Brian\nyeah, I may need a little help with the circuitry, but once I get started they will be fun to write visuals for.\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2011-12-23T21:24:00.000Z",
+            "message": "\nthat would be pretty sick. pretty sick indeed.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "Brian\nI just tested it looks like I will be able to force LED prongs through the seams.\nyou can draw concepts for more than just engines right?\nif I told you about another idea, could we work on some pictures of it so that I can find investors?\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "\nyeah maybe. It depends on what it is. And how big of project it would be to draw it.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "Brian\nI would find some way to compensate you.\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "\nalright but what is it?\nyou want to call me or tell me the next time your hear?\nor over fb\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "Brian\nbasically it would be two or three pictures of people interacting with a light art display.  its a large white diffused globe, represented as maybe 2 stories tall, with another globe next to it to use as a spherical touch interface.\nI think it would be possible using the touch sensing transistors we have today.\nbut there are projectors inside the global pointing outwards.\nand whereever you move your fingers on the controll, the lights will point.\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "\nlike....... hold on....\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "Brian\nthe software would allow DJs to control lighting manually in real time during their show.\nboth globes would be on stands.  they don't rotate, but the projector lights in the center come with servos\nlike those big black ones they use at concerts.\nthere would be 3 or 6 of them to cover the entire area of the globe.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "Brian\nits totally out there: https://www.google.com/search?q=maliable+touch+sensors&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a#hl=en&safe=off&client=firefox-a&hs=ZPZ&rls=org.mozilla:en-US:official&sa=X&ei=vQH1To_8M6mviQLo4dXQDg&ved=0CEIQvwUoAQ&q=malleable+touch+sensors&spell=1&bav=on.2,or.r_gc.r_pw.r_cp.,cf.osb&fp=4b3c420078196b39&biw=1920&bih=1054\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "Brian\nno one has ever put it together in an artistic way before.\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "\nthis isn't what i was remembering but something like this? http://www.youtube.com/watch?v=vqKMsPaivgs\nI\"m a little confused about it.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "Brian\nyeah totally\ndamn\nmuch like that but with a spherical touch interface to control it\nlike you program 3d gestures to switch visuals\nand a much larger scale\nand not shiny, that's lame\ntoo much like from other sources reflecting off of it, it messes with the visuals.\nmore like the related videos\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "\nwait bigger. and it's by the dj or on the dance flour?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "Brian\nhttp://www.youtube.com/watch?v=sLKerArOsBQ&feature=related\nit could have a controller for the DJ, or be a separate art display that audience members can play with.\nso yes, very similar, different applications.\nkind of like these: http://www.youtube.com/watch?v=IzWt1FMvpOM&feature=endscreen&NR=1\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "\nthat videos pretty cool\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "Brian\nbut not as static.\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "\nyeah that's cool. I'm not sure how well I can draw that in 3d though. I can draw a shere but putting all the colors in. I couldn't do that.\nThe software I use is mostly for designing metal parts.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "Brian\noh yeah\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "Brian\nhow did you find that original video?\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "\ni looked up like 3d globe projector or something.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "Brian\noh\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "\nI saw one before from another guy , I think it was this one. http://www.youtube.com/watch?v=89mVBAHKqvg&feature=related\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "Brian\nyeah\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "\nthis one's pretty awesom http://www.youtube.com/watch?v=w4i2fqc9q0U&feature=related\nawesome*\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "\nHey talk to you later man. Pieces.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-23T22:17:00.000Z",
+            "message": "Brian\nbye\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-24T22:43:00.000Z",
+            "message": "Brian\nDude, approve my Electric Life account so I can see your design.\nWhat parts do we need to order?\nI want to help pay and order extras for more projects with lots of LEDs\nThe PWM says (Tube 50) next to it, does that mean its only $1.75 for 50 in it or do you have to order in increments of 50 to get them in a tube?\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2012-01-24T22:43:00.000Z",
+            "message": "\nDone\non digikey?\nif it's digikey then yeah it's in orders of 50 probably to get that price\nor orders 50 and above so you could get like 52 and it would be at that price\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-24T22:43:00.000Z",
+            "message": "Brian\nI saw the listing right on the TI website.\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2012-01-24T22:43:00.000Z",
+            "message": "\nO hmm I don't know. if you digikey the part number. I bet you can find a better price\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-24T22:43:00.000Z",
+            "message": "Brian\nThe MSP you selected, is there a board with the MIC and power LEDs and everything already mounted or were you thinking of ordering the boards?\n* a board with the circuitry drawn.\n?\nYour schematic includes a lot of stuff like a power indicator.  I don't have the ability to solder a microchip.\nAlso red has a lower voltage, do we need more resistors or does the PWM handle that too?\nI think I learn better from example, if you start wiring this, I'll be able to understand it better and duplicate it.  Otherwise I will need to take an EE class.  I can do the programming in C++ too, obviously.  That will be the fun part for me.\nAny way we could power it off of 9V batteries?  Adding more in parallel will affect how long it can run right?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-24T23:49:00.000Z",
+            "message": "Brian\n?\nYour schematic includes a lot of stuff like a power indicator.  I don't have the ability to solder a microchip.\nAlso red has a lower voltage, do we need more resistors or does the PWM handle that too?\nI think I learn better from example, if you start wiring this, I'll be able to understand it better and duplicate it.  Otherwise I will need to take an EE class.  I can do the programming in C++ too, obviously.  That will be the fun part for me.\nAny way we could power it off of 9V batteries?  Adding more in parallel will affect how long it can run right?\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2012-01-24T23:49:00.000Z",
+            "message": "\nlink to the MSP430 Board?\nyeah you can power it with a 9v\nyou shouldn't need a resisitor. It's built into the TLC5951 chip.\nAnd yeah I'll wire this one and then we can work on the other led project after it's done.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-25T01:05:00.000Z",
+            "message": "Brian\nsweet\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-28T02:22:00.000Z",
+            "message": "Brian\nHey\nWhat can we order more parts?\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2012-01-28T02:22:00.000Z",
+            "message": "\nwhatup\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-28T02:22:00.000Z",
+            "message": "Brian\nI want to help put it together.\nAre you building the USB interface too?\nOr does your diagram include the MSP430 breakout board parts too?\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2012-01-28T02:22:00.000Z",
+            "message": "\nHmm it has a microcontroller on the board.\nI'm trying to figure out this one thing I messed up. I think I put to small of transistors on it. So now I'm trying to figure that out.\nMaybe I didn't but I think I put two small of size on tehre.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-28T02:22:00.000Z",
+            "message": "Brian\noh right.\nSo the microphone can detect different frequencies and loudness right?\nI mean we will be able to write the routine to do it, but it won't be limited by hardware?\nWhat kind of values do you get back from that?  Some sort of digital signal that we have to interpret?\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2012-01-28T02:22:00.000Z",
+            "message": "\nyeah it's just a analogue value.\nSo if the volume is up. The analoge reading is hight.\nhigh*\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-28T02:22:00.000Z",
+            "message": "Brian\noh right analog makes more sense.\nbut how do you do frequency then?\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2012-01-28T02:22:00.000Z",
+            "message": "\nSo to get like frequency's and stuff, we will have to do some sampling and stuff.\nYou have to sample and then do a FFT\nit's more tricky.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-28T02:22:00.000Z",
+            "message": "Brian\noh ok\nthat's just an algorithm\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-28T02:22:00.000Z",
+            "message": "Brian\ncheck this out: http://www.youtube.com/watch?v=cDJLmZLmCfc&feature=related\nI want to make LED bead curtains\nfor use in doorwars\n*doorways\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2012-01-28T02:22:00.000Z",
+            "message": "\nsick\nyeah I've seen those tubes before that's cool\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-28T02:22:00.000Z",
+            "message": "Brian\nYeah, I found the chinese company to buy them from and they offer samples.\nI think 16x16x16 is the optimal resolution for voxel displays now.  Or at least that number of points, not necessarily in a cube.  That's 4096, I am not seeing any light displays less than that.\nI am willing to invest a significant portion of my earnings to this.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-28T02:48:00.000Z",
+            "message": "Brian\nI think 16x16x16 is the optimal resolution for voxel displays now.  Or at least that number of points, not necessarily in a cube.  That's 4096, I am not seeing any light displays less than that.\nI am willing to invest a significant portion of my earnings to this.\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2012-01-28T02:48:00.000Z",
+            "message": "\nhaha cool\nYeah, hopefully this weekend I'll order all the stuff.\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2012-01-28T02:48:00.000Z",
+            "message": "\nhmm maybe the part I thought didn't work will work. But I got to triple check later.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-28T23:39:00.000Z",
+            "message": "Brian\nAre you printing the board already?\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2012-01-29T01:02:00.000Z",
+            "message": "\nNo I had to redo everything. But now it's just about done.\nI got rid of the MSP430 On there. I'm just going to make a general board we can hook anything up to it. It will be better. There's a development board already out there that will work, and I don't have to solder a bunch of stuff together.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-29T01:02:00.000Z",
+            "message": "Brian\nyeah, that's what I was thinking.\nI pulled up the arduino software today.\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2012-01-29T01:02:00.000Z",
+            "message": "\ncool\nso it just finished routing.\nI'm trying to get a build of materials ready. It's almost done. Then I'll send out an email and order everything tomorrow.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-29T01:02:00.000Z",
+            "message": "Brian\nok, will you get a me list of parts to make it?  and their link to digikey?\nI can help pay for stuff.\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2012-01-29T01:02:00.000Z",
+            "message": "\nIt's cool it should only be like $60. And I'll keep track of what I spend\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2012-03-31T19:40:00.000Z",
+            "message": "\nYo G, Can't help you with that. I only got 4 pictures. And none of you. Sorry man.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-03-31T19:40:00.000Z",
+            "message": "Brian\nBummer.  Out of all the years we've spent together?\nI guess people aren't organized like me.\n"
+        },
+        {
+            "from": "Joseph",
+            "time": "2012-03-31T21:21:00.000Z",
+            "message": "\nHaha just because I didn't use my phone that weekend. I relied on others. I bet teresa or david has some of the mammoth trip on there fb. Maybe....\n\n"
+        }
+    ]
+}

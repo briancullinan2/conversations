@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6214203929245343744/",
+    "participants": [
+        {
+            "name": "John Hamby",
+            "title": "Manager of Community Engagement",
+            "url": "linkedin.com/in/john-hamby-a79b0548",
+            "phone": null,
+            "email": "jhamby1011@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-12T22:27:00.000Z"
+        }
+    ]
+}

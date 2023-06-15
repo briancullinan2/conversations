@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6231679388207894528/",
+    "participants": [
+        {
+            "name": "Heather Crowell",
+            "title": "Sr. Process Engineer",
+            "url": "linkedin.com/in/heather-crowell-2142081a",
+            "phone": null,
+            "email": "hrcrowell@ymail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-01-30T03:49:00.000Z",
+            "message": "This is a personal note.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-20T23:19:00.000Z",
+            "message": ":P\n"
+        },
+        {
+            "from": "Heather Crowell",
+            "time": "2018-02-20T23:27:00.000Z",
+            "message": "Heyyyyyy\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-20T23:30:00.000Z",
+            "message": "Living the dream?\n"
+        },
+        {
+            "from": "Heather Crowell",
+            "time": "2018-02-20T23:39:00.000Z",
+            "message": "ha you know it!\n"
+        },
+        {
+            "from": "Heather Crowell",
+            "time": "2018-02-20T23:39:00.000Z",
+            "message": "how are you doing??? bored out of your mind?\n"
+        }
+    ]
+}

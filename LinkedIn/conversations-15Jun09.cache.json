@@ -1,0 +1,110 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "15Jun09",
+    "participants": "Joseph Eagar | Software Engineer > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Joseph Eagar",
+        "url": "linkedin.com/in/joseph-eagar-1638207",
+        "email": "joeedh@gmail.com",
+        "title": "Software Engineer"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Dear Brian,\nI've written this recommendation of your work to share with other LinkedIn users.\n\nDetails of the Recommendation: \"We were in the NAU student chapter of ACM and a game club together. His programming judo is top notch.\"",
+    "time": "2009-06-15T17:30:00.000Z",
+    "title": "Software Engineer"
+  },
+  {
+    "type": "conversations",
+    "conversations": "15Jun09",
+    "participants": "Brian Cullinan | wizard > Matthew Shanker | Senior SRE at Socrata",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Matthew Shanker",
+        "url": "linkedin.com/in/matthew-shanker-700a104",
+        "email": "matt.shanker@gmail.com",
+        "title": "Senior SRE at Socrata"
+      }
+    ],
+    "message": "Dear Matthew, \nI'm sending this to ask you for a brief recommendation of my work that I can include in my LinkedIn profile. If you have any questions, let me know.\n\nPlease endorse me on the work we have done together in ACM and projects.\nThanks in advance for helping me out.\n\n-Brian Cullinan",
+    "time": "2009-06-15T17:00:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "15Jun09",
+    "participants": "Brian Cullinan | wizard > Joseph Eagar | Software Engineer",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Joseph Eagar",
+        "url": "linkedin.com/in/joseph-eagar-1638207",
+        "email": "joeedh@gmail.com",
+        "title": "Software Engineer"
+      }
+    ],
+    "message": "Dear Joseph, \nI'm sending this to ask you for a brief recommendation of my work that I can include in my LinkedIn profile. If you have any questions, let me know.\n\nPlease endorse me on the work we have done together in ACM and projects.\nThanks in advance for helping me out.\n\n-Brian Cullinan",
+    "time": "2009-06-15T17:00:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "15Jun09",
+    "participants": "Roger Rohweder | Founder and Sr. Director of Technology, NoveList > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Roger Rohweder",
+        "url": "linkedin.com/in/roger-rohweder-50b895",
+        "email": "roger@epnet.com",
+        "title": "Founder and Sr. Director of Technology, NoveList"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Dear Brian,\nI've written this recommendation of your work to share with other LinkedIn users.\n\nDetails of the Recommendation: \"Brian has the kind of enthusiasm for technical challenges that we look for when hiring developers -- a smart, \"I will find a way\" kind of guy. He has emersed himself in software development and as a result has built a good platform of experience from which he can successfully deliver on a wide variety of application requirements. Hghly recommended.\"",
+    "time": "2009-06-15T13:53:00.000Z",
+    "title": "Founder and Sr. Director of Technology, NoveList"
+  }
+]

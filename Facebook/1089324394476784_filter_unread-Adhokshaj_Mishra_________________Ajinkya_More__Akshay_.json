@@ -1,0 +1,4177 @@
+{
+    "thread": "https://www.facebook.com/messages/t/1089324394476784?filter=unread",
+    "participants": [
+        {
+            "name": "Adhokshaj Mishra\n(अधोक्षज मिश्र )",
+            "description": "Went to Rani Laxmi Bai Mem. Sr. Sec. School",
+            "url": "Joined November 2009"
+        },
+        {
+            "name": "Ajinkya More\n(Akshay)",
+            "description": "Admin at Codeloop",
+            "url": "Single"
+        }
+    ],
+    "messages": [
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\notherwise they wont fukcing work"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nya \n\nbut modules_install works fine"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nso you gotta build all mods for your kernel"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nwell all of them are successfully built with make -j4\nmaybe it's my config.. let's try to make a new one using distro kernel and make localmodconfig\nit's a pain in the ass but fuck it"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nsomeone was saying he is unable to compile retdec from avast\ngetting my hands on it"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nhmm.. but gcc or glibc didn't have any updates recently, right?\ni'd say that compilation errors are mostly down to those packages\nbut maybe systemd has even infiltrated those already \n\nthinking of trying alpine again here.. apparently openrc also supports multithreading"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI am sticking with Systemd\nactually systemd works for me good enough\nso not willing to change it"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nsame but had some problems with it recently\nand i'm really curious about those other inits tbh \n"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nspecifics please?"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nnetworkmanager and bluetooth"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nboth are working fine for me\nbtw networkingmanager does not work flawlessly with vpn config\nIIRC"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nsystemd just keeps on autoreconnecting bt headset on disconnect, when i turn off bluetooth it also turns out the wifi etc (should turn off bluetooth daemon, not card), etc etc\nwell openvpn works nicely\ni'm using it right now\nthe applet did have some issues with those icons earlier though\nso i held back updates on that for a while"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\njust noticed that I haven't done pacman -Syu on that thinkstation yet.. does the kernel or systemd manage hard drives and keyboards?\nwhat the fuck is the fucking problem with that motherfucking server..! kexec into the same fucking 4.14.1 kernel, nothing!"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nOpenrc is a lot better for bumbleed as well\nAnd yes that kernel runs smooth here"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nwhich version?\nof the kernel *"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\n4.14.1"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nbuilding retdec\nshitton of deps are there"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nThumbs Up Sign"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nthen deps of deps\nand then deps of those deps"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nhmm, can you try with 4.14.5 or 4.14.7?\nlol :v\nis retdec an npm package perhaps? \n"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\ndunno\nAvast open sourced it\nit's their engine, no reason to be in RPM"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nUsing 4.14.5-1 now"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nhmm\nstock kernel?"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nYep"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\ncurrently building 4.14.7 for my laptop btw, wanna see if it's same issue there"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nretdec is a juicy stuff\nI shared it in my TL too\nWill be using it\nand its not a npm package\nRetDec is a  machine-code decompiler based on LLVM."
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\ntoo bad, node is known for its dependencies.. retdec would fit right in \n"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nIt was opensourced due to Botconf: \nhttps://retdec.com/web/files/publications/retdec-slides-botconf-2017.pdf\n@Adhokshaj Mishra\n \n@Michael De Roover\n I am really concerned at the rate which Microshit is planning to take over the Linux world.\nIts the main funder of the linux foundation already"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nmeh, fuck them\nthey can give big ass funding all they want, most distros won't budge to their pressure"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nI don't get how canonical fell for them.\nOf course for the money."
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nwell canonical isn't exactly known for respecting user choice, right\nthey're all about convenience\nand money of course\ni do quite like the wsl though.. so there's that\nbut i fucking hate how they don't make sudo invoke uac admin \"because security issues\""
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nMicrosoft is now doing a embrace approach, it is building all the tools so the a windows sures doesn't miss Linux"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nlike wtf, windows is infested with vulns.. linux is a fucking fort compared to that"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nLike first integrating bash\nThen Ubuntu on Windows store"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nyeah.. but well it's better than the likes of mobaxterm, right\nand there are some machines on which linux simply won't run \n\nlike that acer desktop of mine \n"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nWhy so?\nSecure boot BiOS locked?"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nnah it's possible to disable secure boot, i can even use legacy bios etc\ni think it does have a tpm though\nanyway, big issue is in that intel+nvidia crap\nand the fact that i use drives larger than 2tb"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\noh ! Thats sad."
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nmaybe if bumblebee runs nicely on openrc i'll try it again.. but i really don't want to deal with those issues anymore\nalso i'm using dualhead setup, with ultrawide on the right side"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nOpenrc runs bumblebee like jelly !"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nfor some reason xorg doesn't support that.. only dualhead when 1920x1080 + 1920+1080 or only 2540x1080 on the right, with left one turned off\nhmm \n maybe i'll try it again"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nDual head I didn't try, will be getting a display soon, I find it enough for a single display to server my purpose.\n*server\n*serve\nLike just using the multiple desktop swaps"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\ndualhead is awesome \n\nvery immersive\nmuch pixels \n"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nhmm \n keeping in mind that you're a gamer"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nvery wow \n"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\n*aren't"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nit's also useful for fitting all the terminals etc\nsome google search, stack exchange shit on one side, terminal with vim and whatnot on the other\nsuper useful\nand it gives that cool factor \n"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\n:'D Yep currently my setup is short of space\nI will be migrating it to a floor up in my house\nThere will arrage 3 more tables"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nsame here xD\ngonna buy second table in ikea tomorrow \n\nfor all my workbench stuff\nbecause currently my kitchen table is always cluttered as fuck with those things \n"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nbrb, reboot.. moment of truth"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nYep somethings are out of our hand - turns out to be finger crossed moments when you reboot \n"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nyea \n\nbut this is so strange.. 4.14.7 does work on my laptop"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nI told ya, same for that systemd"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nif only those fucking things would return us some nice logs etc\nalso, how the fuck can a system not recognize a drive.. while the fucking kernel itself is loaded from that drive?\njust to blow your mind right there"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nSomething is terribly wrong with docs development cycles between the kernel and the bootloaders"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nhmm\nonly issue that i had with bootloader so far is that i can't exclude kernels in grub\nbasically i want to exclude stock arch kernel because i only sometimes kexec into that one\ninstead, grub-mkconfig puts that right at the top \n"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\n\n use syslinux maybe?"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\ni've never used that\nand i don't want to bork my systems even more tbh\nfirst up is that damned server"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nXD but try it once virtually"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nsure thing \n"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nIts kinda stable"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\ndoes it allow selecting a specific kernel on boot?\ni got multiple older kernels that i keep around just in case, you see\nall of which are custom ofc"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nYes it does \n"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nsweet! \n"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nYou can also customise it for kernel listing"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nsounds like that's exactly what i need\ni'll try it out in qemu later on"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nThumbs Up Sign"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nAnother nail in the coffin for systemd.. Why the FUCK can't it read VPN configs from anywhere but /etc/openvpn/client?!\nUnbe-fucking-lievable\nFucking piece of junk it is\nOh well.. at least I only have to store the .conf in that /etc/openvpn/client directory.. keys etc can be put elsewhere\nBut still, it's a fucking piece of junk for having that shit hardcoded"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nTold you months before niBBa"
+        },
+        {
+            "time": "2017-12-18T02:35:00.000Z",
+            "from": "Condor",
+            "message": "Condor\n:')\nman, alpine looks so attractive now\nuses musl instead of bloated glibc, openrc instead of blackbox systemd etc \n"
+        },
+        {
+            "time": "2017-12-18T06:56:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nThere's so much to know & learn in Linux \n\n"
+        },
+        {
+            "time": "2017-12-18T06:56:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nWait wtf.. I'm sure that I pressed \n button\nDamn Xperia keyboard \n"
+        },
+        {
+            "time": "2017-12-18T06:56:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nleet android \n"
+        },
+        {
+            "time": "2017-12-18T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\n\n\n1\nFound this in group\nIt's 404 page just 404 page and this guy thinks it'll be sub domains takeover"
+        },
+        {
+            "time": "2017-12-18T13:54:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\ndead ;_;"
+        },
+        {
+            "time": "2017-12-18T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nThat's what happens when they do it for \n"
+        },
+        {
+            "time": "2017-12-18T13:54:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nyeah! \n"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nOmfg \n🤣\n"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\ntoday i saw a guy hit by payday ransomware \n"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Condor",
+            "message": "Condor\n1337 Hekurmun \n\n"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nxD"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nPayday ransomware? \n"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nyeah! new kind of ransomware \n which encrypts files and makes shadow copies of it.\nnot that new it's 2-3 months old \n"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nShadow copy?\nShadow copies of it ie malware right?"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nnope...of files it is encrypting"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nOh"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\ni am trying to get sample executable of it \n"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\n@Biprodeep Roy\n must ve"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nmay be that guy who is encrypted will provide \n"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nMalware guys \n"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nlel \n\nbut this payday shit can get detected even by a free av \n"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Condor",
+            "message": "Condor"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nThere's always some users that would get infected by literally anything \n\n\n\n1"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\ni was thinking a idea ... got into my mind a machine learning program to predict question papers for JEE mains"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nThe hookers of cyberspace \n"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nany views"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nWhat's JEE mains? 🤔\n"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nits a Exam conducted in India ... in which only the most elite people good in physics chem and maths pass\natleast this is what govt thinks\n\n\n2"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nFirst lets start with state board of Bihar\nI mean baby steps"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nIts an Entrance Exam for engineering"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nThen we can go to jee"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nmachine learning for board exams :v"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nInsult of ML"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nmy professor's can tell you everything you need to pass in boards\ni have my whole board question paper"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nLol i dont care for boards"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nJEE is the real SHIT"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nIk"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nand i am writing it"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nGood luck"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Condor",
+            "message": "Condor"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\n:V"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nWhat?"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nJust hack their servers or something"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\n:V"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nMake hekurmun AI :v"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nmachine learning is Legal\nhacking isn't"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nK\nLol its legal\nEverything is legal until caught \n\n"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nCheating on entrance exams isn't legal either \n\n> Everything is legal until caught\nYus \n\n\n\n\n\n3"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nhey machine learning for predicting papers is legal\nwell atleast it doesnt have any laws\n:V"
+        },
+        {
+            "time": "2017-12-18T16:42:00.000Z",
+            "from": "Condor",
+            "message": "Condor"
+        },
+        {
+            "time": "2017-12-20T02:30:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nMaybe this got to do with that kernel upgrade issue we discussed earlier?\nJouni Järvinen shared a link to the group: Linux.\nCORRUPTION WARNING for kernel 4.14[.0] and 4.14.1:\n\n\nJouni Järvinen"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nshoved one more RAM stick today\nservice center fella was like, bro, you no windows?\nbecause boot was stuck at LUKS password prompt\nxD"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nwtf xD"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nhe was preaching how Kingston RAM is superior to the preinstalled one\nHe was kinda shocked to learn that Kingston does not make ram\nSamsung too does not make them as far as I know\n\n\n1\nSamsung sources RAM chips from Hyundai\n\n\n1\nKingston sources some from AMD\n\n\n1"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nYeah!"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nDell does not make laptops\ntoo many models are sourced from Clevo\n\n\n1"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nEvery fucking where the thing is like others do it and some other brands take the credit"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nClevo provides laptops to HP, Dell, System76 etc\nall no-name linux special laptops are from Clevo"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nWhere does Acer take from?"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nthere are more companies like Clevo bro\nnot sure whether they source it or make it\nDell printers are same as Brother printers probably"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nanyway is this tr00 tho my experienced niBBa?"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nlol"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\ntrue?"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nmostly yes\nyou need to keep resistance from your side pretty high"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nhttps://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-17.10-BIOS-Corrupter\nCheck!"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nalready seen that"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nIntel SPI driver FTW?"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nshit happens bro"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nThat Intel ME thing\nI just asked an Intel guy and he was answerless"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nultimate goal of any tech is platform control"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nCommercial tech of course"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\npurpose of GPL is to lock you on GPL"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nhow?"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nit limits your freedom as developer\nwith GPL lib, you cannot link it without open sourcing your code\nLGPL allows you to link your closed blob as long as you provide object files\nfor relinking"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nGot that :< in simpler words it destroys programmer pay"
+        },
+        {
+            "time": "2017-12-20T18:49:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nno\nonly freedom\nwe only side with stuff that is benefitting us\nxD"
+        },
+        {
+            "time": "2017-12-20T23:32:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nMeh, I like the GPLv2.. Protects me from Ultimate Hookers like Somdev from copy pasting it and calling it his own \n\nBut I agree that it locks developers into the GPL.. There are a few compatible licenses though\nAlso apparently GPLv3 has more legal holes in it than a Swiss cheese \n but v2 is good \n"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nLOL \n@Adhokshaj Mishra\n give all of us marriage tips \n"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nkeep control"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nOn myself? Lol"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nnope\non entire relationship"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\n:v"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\n:W"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nanother idiot updated glibc and gcc from source\nfortunately server has not been rebooted yet\nasked that asshole not to restart anything, absolutely anything\nuntil I am there"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nPress F to pay respect"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nF"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nF"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nmy boss, who ran away, has tried updating OpenSSL from source\nhow servers are even working is beyond me"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nYour like there is so fucking adventurous"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI am trying to remove this ad-hoc openssl thing\non all servers\nreplacing them with stock openssl from repo"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nthat glibc will make server unbootable"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI know\neven restarting servicecs will botch them\ntoo much work man\nthey are stuck on CentOS 6.7\nI need to update theem to 6.9"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nHolyshit"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nand then 7.4\nno security patches, firewall off, selinux disabled\nthey are begging fuckup"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nWhy don't you tell them to update?"
+        },
+        {
+            "time": "2017-12-21T02:40:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nthey who? clients?\nthey are dumb af.\nI guess this policy is also from my boss"
+        },
+        {
+            "time": "2017-12-21T04:37:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nThat's why we are bad at security \n ur boss makes such policies \n"
+        },
+        {
+            "time": "2017-12-21T04:37:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nshe ran away\nbhag gyi woh"
+        },
+        {
+            "time": "2017-12-21T04:37:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\n?"
+        },
+        {
+            "time": "2017-12-21T04:37:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nshe had a fight, and left\nnever came back"
+        },
+        {
+            "time": "2017-12-21T04:37:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nBoss?"
+        },
+        {
+            "time": "2017-12-21T04:37:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nyes"
+        },
+        {
+            "time": "2017-12-21T04:37:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nWhat was that fight about?"
+        },
+        {
+            "time": "2017-12-21T04:37:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\noptimization"
+        },
+        {
+            "time": "2017-12-21T04:37:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nLol and she left the job?"
+        },
+        {
+            "time": "2017-12-21T04:37:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nyes\nseems so"
+        },
+        {
+            "time": "2017-12-21T04:37:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nWhat's important for ur company? Security of clients or something else\nNo security patches etc.? I mean why don't u tell them what could be consequences of this negligence? \n"
+        },
+        {
+            "time": "2017-12-21T07:25:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nI laughed way more at this conversation than I should \n\nBest of \"Certified engineers\" \n\n\n\nOn a totally different note, that Ksger salesperson is stalking me like fuck since I posted that soldering station stuff \n\nPlx halp \n\nMaybe I could ask her to show bobs n vagene :v"
+        },
+        {
+            "time": "2017-12-21T07:25:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nfake account guy behind"
+        },
+        {
+            "time": "2017-12-21T07:25:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nProbably yes \n\nWith those Chinese you never know where the traps are \n"
+        },
+        {
+            "time": "2017-12-21T07:25:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nFakeness is coded into Chinese DNA \n"
+        },
+        {
+            "time": "2017-12-21T07:25:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nDamn right \n\n\nThey're becoming quite good at making fake products though.. Ever since I started buying from Ali, I've often been really impressed by how much they can do for a ridiculously low price"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\n\n cheap labour :V eveything is cheap there\nalso to keep it cheap they drop the value of their currency :V\nMicheal so the girl you liked from Ali, was actually a guy \n lol  n \nhere they're asking help from their customers :V"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nhttps://github.com/The-Feminist-Software-Foundation\nThe-Feminist-Software-Foundation (Feminist Software Foundation)\nThe-Feminist-Software-Foundation has 3 repositories available. Follow their code on GitHub.\ngithub.com\nhttps://github.com/PatanjaliOS\n \n.\nbrought to you by \nhttps://www.patanjaliayurved.net/\nPatanjaliOS\nGitHub is where people build software. More than 26 million people use GitHub to discover, fork, and contribute to over 74 million projects.\ngithub.com"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nxD"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nThere's also interseting things on Google play store\njust search Indian browser :V \n\nin play store"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nyeah :v"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nsearch virtual gf and bhojpuri videos and check reviews :V\nepic english skillz \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nwe are of no match \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nFeminist Software Foundation, Indian browser.. What the fuck \n\n\nEnough Internet for today \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nSearch those things on play store"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nxD"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nYou'll learn English"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nThere are really crappy apps in play store"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nLooks like it \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nLol"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nAnd all of them claiming to be the absolute best \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nWhat did you search?"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nSmells like the developers are incompetent as fuck \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nHmm check tele"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\n;___;\nsuch certs damn \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\n\n\n...\nAlso, mobile connections suck big time \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nEcho \"rm - rf /\" > virus.sh"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nthis is a section in CPTE ;__;"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\n1337 stuff"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nHaha"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nAnkit Fadia lv \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nCpte\n?"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\n1337 as fuck \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nCertified Penetration Testing Engineer ;__;"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nhttps://mile2.com/penetration-testing-ethical-hacking/cpte.html\nthis shid ;_;\nMile2® - Certified Penetration Testing Engineer | Mile2® - Cyber Security Certifications\nCertified Penetration Testing Engineer graduates will obtain real world security knowledge enabling them to recognize vulnerabilities, exploit system weaknesses, and safeguard organizations against threats.\nmile2.com"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nLol\nU think buying shit things.. Will help u learn"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nNi\n\n\n ;_;"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nI think there only one good cert its oscp\nR8?"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nRip mobile connection"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nGo through screenshot epic English\nSayed\nWhat's this bhojpuri thing bihari log ye sab dekhte h kya?"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nOSCP, OSWP, OSCE, CISSP etc cuz they polish skills\nCPTE guys teaching a real new thing ;___; which oscp and others don't :_;\nthey teach to conduct MITM using SSLSTRIP\n\n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nUh go to YT\nI just YT"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\n1337 ingrish :v"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nxD"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nMitm using sslstrip?\nEasy shit ._.\nI'd put that in chapter 1"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nyeah! they don't use sslstrip while Mitm they conduct MITM using Sslstrip ;_;"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\n1337 as fuck \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nperform*"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nBtw I found that setting up that damn gem called Bettercap is harder than conducting the attack itself \n\n\n\n1\nBecause Ruby is such a 1337 language"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nxD"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nHaha"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nand people waste 500$ on certs like this ;-;"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nShit\nY tho\nCertificate n degree is just a piece of paper"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nto become Pentesting Engineer (so called one)"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nWhat about knowledge and out of box thinking"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nthese days guys don't want to do that \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nThus has become like traditional education .. Mass production of brain dead cert holders\nThat's not following spirit of hacking like learning more tinkering and thinking new ways"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nyup! if people would've been learning and thinking out of the box they wouldn't be doing bug hunting by copying JS payloads for xss and csrf forms lol"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nHaha\nSaed life of those people\nThey think successful infosec career can be built on xss"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nBit hey, with that paper they can call themselves \"Certified engineers\" right \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nlel \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nAnd I get stuff to shitpost about.. Win-win \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nxD"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nAre you doing some certifications \n@Nidhish Pandya\n?"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nBtw, I've been thinking for a while about making some shitty led thing with wires hanging all out and calling it a life event.. \"became an electronics Lord\" \n\n\n\n1\nHow about it? \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nnice idea :v"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\n@Akshay More\n not until i get some money and more better understanding of things"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nCourier it to ElectroBoom as fan submission"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nwhat they teach in certs like ceh even i can teach someone \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nSuch a shitty thing? Naa ElectroBOOM would get something much better than that \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nwhat?\nSend a mic to him"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nLike the 1337 Christmas lighting that I'm making \n\nHe's already got some from Rode microphones apparently ;__;"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nChristmas is approaching did you get a tree in your home?"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nno christmas for me"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nNope, but I am making some 1337 lighting \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\n@Adhokshaj\n Even in diwali you didn't do much than to stare at screen \n and lighting some firecrackers near your desk right \n?\nI remmember sending u a meme \n\nu said ur coding in morning / evening \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nlol"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nSame goes with Bips \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nsame here but I don't code I just procrastinate \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nCode == life \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nBut been trying to fight lazyness and procrastination for a while now"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nported another mish-mash of Java and SQL"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nNice \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nJava to SQL?"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nJava + SQL to C++ + SQL\nand SQL to C++ + much less SQL"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nAny performance improvements?"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nWhat's that program/application?"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nI heard that Java is quite slow.. Compared to C++ which is much closer to the metal"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\n@Condor: nope. We are just porting everything in a single language"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nHmm 🤔\n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nright now it is Java, SQL stored procedures, SQL functions, Bash scripts\nit will be some SQL, and fuck ton of C++"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nWhy dont' you port to go? heard a lotof nice things on go \n that go is future n all"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nSounds like a fudging dependency hell \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nlol so many langs \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nthe code I am porting keeps your internet running\nnothing fancy touches it"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nno C++11 either. Forget C++1 and C++17"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nis it related to routers etc?"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nAAA servers\nthose beasts authenticate you, authorize your package\nand account your usage\nAAA botched? you will be disconnected."
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nis that a thing which is deployed at ISP side?"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nAAA slows down? your internet will come to screeching halt\nyes, the thing deployed at ISP side\nat many locaitons, we have it clustered"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nYou work at ISP now? I thought you worked at some cyber-security enterprise \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nbunch of servers, located in different data centers, talking to each other, working in tandem, and behaving like a single unit to outer world\nnot ISP\nworking in a compnay that makes ISP gears\nsoftware and hardware both\n\n\n1"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nI think your company offers prods that are used at isp\nah"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nif my estimates are right, we are handling internet traffic of 150 million users worldwide"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nWhat's that company? \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nCnergee"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nOh It's in mumbai ..."
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nyup\nheard about Sikka Broadband?"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nNo, I live in suburbs of suburbs of Mumbai \n\nI've a local ISP"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nohh\nSikka is in UP"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nYeah checked it rn\nMy isp is only in my city"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nthey use Cnergee software\nwhich one is it?"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\ngives me unlimited connection at 256KBps at 1300 INR quarterly\ntho YT works faster, looks like they allocate extra speed to it"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\ntell me ISP name yar\nthat is called peering\npeering details are sent by AAA\nin form of ToS and VSA\nin response to authorization"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nhmm"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\ntell me ISP name"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nWhen you are the only geek of your region, your life's a hell :')\nMy home has become help and support center from the day my exams ended\nAnd now my number became helpline number as well"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nlel"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nSince morning fixed 6 cases\n:'))))))))))))))))))))))))))\n3 are pending"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\n;_;"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nI couldn't fucking code today beacuse of these shits"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nthis is why i don't share my number and told my parents too \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nmy parents are kind hearted, they donated my number everywhere"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nbut you have to suffer \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nBonus: I can fix almost any issue so people wait with their problems until I come\n\"any issue\" like their noob issues \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nyeah! \n that's kind of bonanza for them xD"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nToday my prebootloader got fucked up\n:\"))))))))))))))))))0\nFor no reason"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\n;___;"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nI am now fixing it, almost will making a direct booting sequence\n*along"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nbad day for you today ;_;"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nYep :3 I need to compress entire FS for that"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nShit ;_;"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nthere are 10L + files in my FS"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nwtf \n"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nMy IRL friends and my parents don't know anything about me lol\nThey think I'm going for a career in commerce \n\n\nWhat was the noob issue?\nHere's what one my friend was asking about..... \nSomeone gave him some game setup\nGame setup t was asking about install location\nGuess what my friend tried to do?\n.\nHe entered his fucking city name there, then messaged me that install doesn't work\nI bet your issue was better than this"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\n\n leet commerce student"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nhe took \"location| literally\ncan't blame him\n\n\n1"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nYes he did... I told that idk anything about tech i dont use pc"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nBut there's some fun part in my life\nBecause I pretend to not know much about tech they try to fool me and tell shit things \n..\n1) I heard guys telling mac is unhackabke\n2) they hacked fb\n3) theyve hacking software\n4) they attended some ethical hacking course\nThat guy started to behave like leet haxor i asked him how he hacks\nHe said he attended course, and they gave him hacking software \n i said tell me the name. He said i can't handle it \n.. Later said it's from oracle\n\n\n1"
+        },
+        {
+            "time": "2017-12-21T09:19:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nharassing commerce students \n\n\n\n1"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\neven before my current stint is done\nmy next mission is being prepared\ndesigning API\nsomething which I have never done"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nRest api?\nLike web stuff?"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nkinda yes\nthe front end is a web app\nbackend is AAA server/servers/cluster\n\n\n1"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\n\n they use you for all stuff?"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nagain, I am the only one who knows C++\nFortuantely I dont have to deal with DB stuff\nDB guy is there to handle all things"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nGood luck"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nwhich means, support queries go to him\n\n\n1\nand not to me\nxD"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nBut u dont like web stuff right? U like low level stuff"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI dont have to write web stuff either\nI can do that in C++\nA basic web server\nwhich handles \"virtual URLs\"\nand responds with result\nno dabbling into PHP/Java\nPython is not an option either"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nyou are C++ lord sir...why would you even need to use PHP/Python or Java ;_;"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI prefer using right tool for right job\n\n\n1\nbut in this case, these chaps dont want any code to be open\nso a lot of languages are out\nJava and .NET are reversed rather easily"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nYup"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nCore server and services are in C++ anyway\nso everything can be built togethor\nthey are stuck on CentOS 6.7\nI have to update them to 7.4\nthen update all deployments"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nthey don't want to get updated? O.o\nsorry i didn't read whole chat. So!"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nthey say there are some breaking changes in SQL b/w MySql on 6.7 and 7.x\n\n\n1"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nOh!"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\ntheir whole fucking server is collection of hundreds of stored procedures"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nSecurity pro \n\n\n\n\n\n1"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\ncollect all versions, and total count goes to ~1k\ntotal lines of SQL is somewhere in 8k - 10k lines of code\nthen there are bunch of Java services handling some specific tasks"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nthey should update....if they don't want someone to get a root priviledge on server ;_;"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI am clearing the mess one by one\nwanna know another fun fact? My boss ran away\n\n\n1"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nWtf \n"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nYeah. She had a fight in office with some chaps\nand then she stormed out of office\nshe never returned back"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nlmao! saw that for the first time \n Boss running away after having fight with employees lol"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nyeah\nshit happens"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nYou proved her wrong? Then ur boss was embarrassed n left?"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nNo"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nYou /others"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nshe had fight with mgmt"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nAh"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nI would love to have a boss like that xD"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nSQL was only thing she was good at"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nMust be some other reason too?"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nthat's why every thing is SQL\nShe was against porting whole megamesss of SQL to C++\nMgmt wanted the port for performance reasons"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nWhat a reason to quit \n did she find another job?\nLike did you get to know anything about her since then?"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI did not bother"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\njust because she doesn't know anything other than SQL she fought with management and ran away ;_;"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI thought I wontt be touching C++ here\nI was fucking wrong"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nit always happens opposite of what we think ;-;"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nheh"
+        },
+        {
+            "time": "2017-12-21T15:09:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish"
+        },
+        {
+            "time": "2017-12-21T16:37:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nDid they want it in C++ tho?\nAnd how much experience do you have in working with Cpp graphics libraries ?"
+        },
+        {
+            "time": "2017-12-21T16:37:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nyeah they want in C++\nthey realized that I know some C++\nafter they hired me\nI have used OpenGL\nI have used Qt for GUI"
+        },
+        {
+            "time": "2017-12-21T16:37:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nDo you have experience in using webkitgtk?"
+        },
+        {
+            "time": "2017-12-21T16:37:00.000Z",
+            "from": "Brian",
+            "message": "Brian\nSome, I've browsed the source of wkhtmltopdf"
+        },
+        {
+            "time": "2017-12-21T16:37:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nGerald commented\n\n\n1"
+        },
+        {
+            "time": "2017-12-21T16:37:00.000Z",
+            "from": "Brian",
+            "message": "Brian\nOh gtk is that other language.\nsorry, I've got some 3d experience too from my work on the HL2 engine.\nWhat are you doing with GTK?"
+        },
+        {
+            "time": "2017-12-21T16:37:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nYep I have a client who wants a widgets for chat in Cpp in webkitgtk\n@Adhokshaj Mishra\n Yep, he is very surprising \n"
+        },
+        {
+            "time": "2017-12-21T16:37:00.000Z",
+            "from": "Brian",
+            "message": "Brian\nWidgets like little animations?"
+        },
+        {
+            "time": "2017-12-21T16:37:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nA full fledged chat widget"
+        },
+        {
+            "time": "2017-12-21T16:37:00.000Z",
+            "from": "Brian",
+            "message": "Brian\nhttps://disqus.com/\nDisqus – The #1 way to build your audience\nDisqus offers the best add-on tools for websites to increase engagement. We help publishers power online discussions with comments and earn revenue with native advertising.\ndisqus.com"
+        },
+        {
+            "time": "2017-12-21T16:37:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nNope he wants a custom made, according to his constraints"
+        },
+        {
+            "time": "2017-12-21T16:37:00.000Z",
+            "from": "Brian",
+            "message": "Brian\nhttps://chat.zendesk.com/hc/en-us\nhttps://github.com/mattermost/mattermost-server\nI just don't see a reason to use cpp when we have react.\nhttps://github.com/RocketChat/Rocket.Chat\nRocketChat/Rocket.Chat\nRocket.Chat - Have your own Slack like online chat, built with Meteor.\ngithub.com\nRocketchat looks cool, I might try that later."
+        },
+        {
+            "time": "2017-12-21T16:37:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nTrue! But again their requirements"
+        },
+        {
+            "time": "2017-12-21T16:37:00.000Z",
+            "from": "Brian",
+            "message": "Brian\nEveryone likes to be a special snowflake."
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nSee this meme has potential to save us from DDoSers \n"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nping -f \n192.168.0.1\n :3\n\n\n1\nAlso a good one to get them kids offline for a bit \n"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nYes but that also means less memes and trolls"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nPlenty of bobs n vagene tho \n"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Condor",
+            "message": "Condor"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nEnglish literacy \n %"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nNext lv Ingrish \n"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nStill I'm quite bad  at it \n\nActually speaking English"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nMuch better than average Indian though \n\n\n\n1\nPretty sure that even Luka won't be able to tell if he were to just hear your voice \n"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nlatest news\nboss may return on new year"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nSo?"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\npreparing for drama\nfights\nbtw I am supposed to build a VPN as well\nfor internal use"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nThey are using you like multimedia"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\none more chap is asked to learn C++\nbecause I hate hard dependencies"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nI think they got the hang of it by now"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nand I will take my sweet sweet time off\nhang of it? lol!\nas long as next person is able to handle basic issues, I am cool"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nHow much do you work \n@Adhokshaj Mishra\nAPI VPN and writing new code?"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nummm, I came home, and got fairly crude \"VPN\" working in 30 minutes\nProxied my traffic through testting server sitting in office raack\nrack*\nI am yet to figure out who is using two VPSes\nwill shoot an email to raise hands xD"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nVPN is not much of a work \n"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nwhich I am sure no one will respond to\nexactly"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nOh really?"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nspecially if you are on Linux"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nWell i thought it'd be something fairly complex"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nssh -D <localport> <remote user>@<remote host> -p <ssh port>\n\n\n2\nthen go to browser, set SOCKS proxy"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\n^True !"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nlocalhost:<local port>\nand call it done\nxD\npoor man's VPN\nxD"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nI thoght you're going to write  code for something like openvppn"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nIts all about fucking networking logic, implement it in script form, you are done"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nnay. I will code in C++, link everything statically\nand distribute that"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nI'm fucked up in networking"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nthey will think I am damn good programmer"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nonly I will know that I pretty much cheated my way"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nlmao\nI would have use a helloworld and linked it somehow with a shell script \n"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI dont have time to pull useless stunts\nif they dont wanna use something like OpenVPN, fine"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nOpenVPN is good enough"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI will put SSH ttunnel in a nice wrapper + flashy UI\nand call it done"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nlmao, CetOS 6?"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nwhatever Server is that\nit gotta work\nbtw that won't be CentOS 6\nI did same thing for SQL stuff\ngrabbed MySQL C++ wrapper, and called it done"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nAt the end of the day it needs to fucking work \n\nThats all it boils down to"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nas a side efffect, I become \"heroic\""
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nthats because they are like illiterate"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nexactly\nI initially thought to suggest SSH tunneling\nthen decided against it"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nLOL"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nTenor GIF Keyboard"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nyou know\nmy boss was too much into making me reuse some code for db access"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nbut why?"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nthat code in question was developed very specifically for a plugin\nI tried argument, but failed\nfinally I renamed bunch of functions with same name, and called it done"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nGIPHY"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nYes ma'am, I used same code you told me to use"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\n\"ma'am\" ?!?!\nIts a she?"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nboss is a lady\nyeah, a she"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nholysh...............\nI see what you got there"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nshe does not have a tawa, so she cooks chapati in pressure cooker\n\n\n1\nyou totally know what I mean\n\n\n1\nDid I tell you that pressure cooker is kept inverted?\n\n\n1"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nas an optimization, because cooking chapati inside it is not an easy task?\nbtw, these are symbolic. Don't take in literal sense"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nBut the flame will touch the follow portion \n it will take time to heat up\n*hollow\n^ not taking in literal sense \n"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nwell, she is using bigger burners\nkind of those you see at mithaiwala shops\n\n\n1\nenterprise stuff, you know"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nThats why still she's cooking"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nsometimes I am surprised that this crap even works\nmanaging whole thing feels like you are trying to stop landing gears from coming off and flying away\n@Akshay More\n is like wtf are these chaps talking about"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nobfuscation"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nno\njust that he prefers memes over study\n\n\n1"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nThat's kinda true \n@Adhokshaj Mishra\nI do like memes"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nso do I\nbut then I dont stop study\nI still study 2-3 hrs per day\nthat is minimum I do"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nmemes are there to absorb the depression \n\nI study and experiment all day now"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\ntell me when you have a job"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nstopped making memes, etc"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nyep study time will get cut out"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nY"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nbecause job"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nLol I've to manage B's commerce + this thing"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI was not that smart\nI failed in clg"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nFailed?"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nyes\nmade own kernel, failed in OS"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nin the open univ thing?"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nnah\nBTech one"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nWTF?!"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nand I dont have time for ignou\n\n\n1"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nI try to be good at both since my parents don't know what i do i can't read in bed and be awake whole night like bipro"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\n^Sad, at least you could complete grads"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\ntime"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nDegree ka use h kya knowledge ka?"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\neither I can overhaul and optimize their flagship products\nor I can get a degree"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nhmm"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nforcing higher ups to document their shit is a nasty challenge"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nI think you should like join a distant course"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nas in I have time to color pages\nfor assignments\nthen exams"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nAssignment \n\nIts a real waste\nof\npaper\n\n\n1"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nand time\nmoney"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nNope \n"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nenergy"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nMake it digital\nAnd\ndo"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nsee, I was keen about study\nand then I hated it"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nC o p y P a s t a"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nuni killed my interest in a lot of things\nI developed instate hate for academia\nindian academia atleast\nbtw\ntoday I learnt something\nmany chaps think I have masters degree\nxD\ntold them I less educated than them"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nCollege is like a place which promises to train you to corporate level and ends up you into a mental coma"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nmost coursses total pile of garbage"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nNext Sem they shoved ERP\n:3\nAnd OR"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nOR?"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nOperation Research"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI hate most certifications too"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nI hate video certs too\nThose so called online tuts"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI have not put money in RH certis either\ntoo costly for me"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nhmm, planning for OSCP?"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nno. too costly for my pocket"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nI'm not even bothered towards them"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nkinda same n"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nDO you have C|EH ?"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nRH certs are good for admin purpose\nwhat the fuck?"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nC|EH certi paper is better used for butt-wiping"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nIndian security firms need it like the first requirement\nfor any security opening"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI know"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nWhat's with CEH \n is it stupid?"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nI heard OSCP is the only good thing out there in terms of certificates that have value."
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nThats what you called fucking restrain \n ^\n*call\n@Akshay More\n it might be good but its overpriced"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\noh\nWhat certs do you have? \n or are planning for?"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nNone, and none"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nI have some certs, but none of professional stature"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nwhich one do you have"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nDon't really remember, but the last one I had was a DB cert from Microshit"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\ni had certi from NSTSE\nIIRC, I was AIR25 in maths\n\n\n1"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\n^ You should have gone for maths hons"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nthat was in 8th class if I am not wrong\nI just checked, it was class 9th\nJan 2006, AIR 25 in maths\nI have two certificates in Sanskrit as well\nboth from Sanskrit Bharti\n85/100, and 90/100"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nGuys pause the convo and look at this: \nhttps://www.facebook.com/abhijitiyermitra/videos/10156381379170639/"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nnot visible to me"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nwait uploading"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nOkay"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nSee\nPlay\n-1:01\nHD\nCaptions\nMore Settings\nAdditional Visual Settings\nEnter Fullscreen\nUnmute"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\neither post aint public\nor I am blocked by that person"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nhttps://www.facebook.com/biprodeep/videos/1611140925600957/\nPlay\n-1:01\nHD\nCaptions\nMore Settings\nAdditional Visual Settings\nEnter Fullscreen\nUnmute\nBiprodeep Roy added a new video.\nSushant Sareen rocks...Calls spade a spade.. Hands down XD ! 😂😂\nBiprodeep Roy"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nwaah\ntu kya hai ben****\nlol"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nlmao fell down laughing"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nepic man\nbut still\nhe should not have used that word"
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nYep he shouldn't\nAnd that Pakistani guy said him \"genda\""
+        },
+        {
+            "time": "2017-12-22T13:54:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nyeah"
+        },
+        {
+            "time": "2017-12-31T12:08:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nGuys, lend your eyes at this \n\nhttps://www.phoronix.com/scan.php?page=article&item=gl-vk-eoy2017&num=1\nOpenGL vs. Vulkan Linux Gaming Performance Ending Out 2017 - Phoronix\nPhoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.\nphoronix.com"
+        },
+        {
+            "time": "2017-12-31T12:08:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nVulkan\nthe Unified GPU API?"
+        },
+        {
+            "time": "2017-12-31T12:08:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nYep"
+        },
+        {
+            "time": "2017-12-31T12:08:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\naah\nnot going to click 5 times\nto read whole thing\nwtf is wrong with publishers?\nstopped visitng news sites for same reason"
+        },
+        {
+            "time": "2017-12-31T12:08:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nmore traffic I guess?\nIts phoronix dude\nIts a standardised linux blog"
+        },
+        {
+            "time": "2017-12-31T12:08:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nstill not willing to click 5 pages\nHN does not do it\n1 discussion is entirely on same fucking page\nsame for Reddit"
+        },
+        {
+            "time": "2017-12-31T12:08:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nokay click one? \n\nthe benchmarks are from page 2"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nMan Bitlbee is awesome \n"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nthe IRC client?"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nSo much better than the defunct Messenger or the desktop website :3\nit's an irc server"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\noh\nnever tried it"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nSo I can use it with my weechat \n"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nis it a new project?"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nYeah just went and configured it a moment ago\nStill exploring it though.. as it is now, Bitlbee can start when the server boots, but it won't automatically log in to Facebook for some reason"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nagain some API error?"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nAnd to join group chats I have to create separate channels based on chat ID, which is a pain in the arse tbh \n\nNo, that works fine actually"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nhmm"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nIt uses the MQTT protocol actually.. Something specific to Facebook I guess"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nSounds promising \n"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nWell apparently it's better than the former XMPP protocol.. well as long as bitlbee-facebook stays working, I don't really mind what they use\nBut I found that Facebook is really hostile towards developers.. So big kudos to the bitlbee-facebook maintainers for taking Facebook's assfucking in my stead ^^\nBy the way, can anyone send me a private message real quick? I'd like to check if it arrives in a PM tab within my client"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nAnother bug in LLVM\nsuspected as of now"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nReported?"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nstill testing\nagain, suboptimal code generation"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nhmm"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nis lack of optimization really a bug though?"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nlack of optimization is not a bug\nbotched optimization is a bug in optimization"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nIts not about lack of optimization"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nit's that the optimization algos aren't optimizing as they should?\nit's a feature \n"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\noptimisation is not a feature:P"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nit's always a feature man \n\nalways!"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nlast bug I reported did not handle inter-instruction dependency\nI reported it, it was accepted as a legitimate bug\nand it was fixed after 4 months of effort\n\n\n1"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nlooks like llvm are nice folks then \n\nbut 4 months?\nthat's a lot of time to fix a bug \n\ns/llvm/llvm devs/"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\noptimizer related bugs are fucking hard to track\nand fix\nand then verifying that it did not break anything new"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nhmm, i see\nsounds legit\nmeanwhile my isp takes a full year to get their database to not store passwords in fucking plain text \n"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nit is not like random XSS"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\n@Adhokshaj Mishra\n Are you targeting it and genuinely debugging and getting the bug, or did you encounter it while use?"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nhence why i asked"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nsubmitted by too many superleets"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Condor",
+            "message": "Condor"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI kinda stumbled upon it"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nXSS Lords everywhere \n\nUltimate 1337s \n"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\n@Adhokshaj Mishra\n ?"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI stumbled upon it by chance man\nwas hunting for something else\nstumbled upon this issue"
+        },
+        {
+            "time": "2017-12-31T14:20:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\noh! I was thinking that you were debugging it\nSame, I get bugs mostly by stumbling"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nHey merry Christmas \n"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nMerry Christmas! ^^"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nTenor GIF Keyboard"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nSon of Lord is yet to be born \n"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nNot a Christian here.. no idea tbh \n\ncould be that Jesus was born on Christmas, could be Easter.. for me it's just a time where I gotta spend lots of money on presents and get annoyed as fuck by the radio :')\nBecause those Christmas songs are fucking everywhere nowadays :')"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nXDD\nAre you officially a Christian ?"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nnope"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nJew?"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nlol no"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nHabibi?"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\natheist \n\nhabibi? xD"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nyeah muslims\nI mean in documents are you a Christian?"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nnope\nno need for that \n"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nIs there are provision there you become officially \"atheist\" ?"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nis religion put onto your legal documents in india?"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nYes"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nwtf\n;__;\nbackwards af"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nEveryone is to be to a religion here, regardless of their beliefs"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nin our id it's no more than just name, registration no etc"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nAgreed. Its backward af"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nbut not religion.. it's got no value in here\nso it's not a part of our id cards either"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nActually religion and castes are valued here. Politics are on basis of that in whole of Asia"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\n\"officially\" belgium is a christian country.. but in reality very few people in here are actually religious\nhmm \n\nimo both religion and caste system are kinda legacy stuff nowadays"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nBut you know conservatives believe in staying Christian there is cultural appropriation of being a European"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nmeh, it's a good thing that at least the caste system is getting discarded over time\nit's one of the reasons why i don't really like conservatives \n\nbut let's not get into politics \n\nanyway, for me (and a lot of belgians) whether there is a god or not doesn't really matter\nbecause we're living a good life and creating stuff here and now anyway.. so this idea of a god or heaven is kinda redundant"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nThats Agnosia ^"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nagnosia?"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nFirst decide which one are you\nAtheist or Agnostic"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nhttps://en.m.wikipedia.org/wiki/Agnosia\ni still have all my senses ^^"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nAutocorrect sucks lol"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nanyway, i'm atheist\nah \n\nbut if the question is whether i'm antitheist.. definitely not\nin fact i can understand why some people would value religion.. i just don't agree with them\nfor example, this idea of heaven and eternal life.. most people are scared of death, so wishing that there is some sort of afterlife makes sense\ni personally prefer the idea of optimistic nihilism though"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nCyber Talk ... ? or RELIGIOUS talks ? :V"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nTenor GIF Keyboard"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nTenor GIF Keyboard"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nmotherfucking LLVM"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nthe optimization feature turned into bigger features?"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nhey anyone knows about linaro ?"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nit's got to do with android, no?"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\ngoogle it ..."
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nalready on it ^^\nhmm.. it's a company?"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nyeah\nwhich makes opensource toolchain"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nsorry, i confused it with this repository hikey-linaro\nah, so that's how it all comes together!\nit's in the android.googlesource.com site.. so that's how it relates to android\nbut basically linaro the company are the ones that made it?"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nyeah makes toolchain's for Linux"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nLinaro? ask me ! \n\nGot job offer from them \n"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nhttps://scontent.fbom2-1.fna.fbcdn.net/v/t1.0-9/25551952_1531675143584897_4867898929975791038_n.jpg?oh=ac87eba53c659ab247a7b294db8a5b09&oe=5ABFEE11\nBeing confident 101"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\ncool ! .. i actually met linaro developer\ni mean met a linaro developer"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\n@Adhokshaj Mishra\n who the fuck is that?"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\na chicka\nwho thinks growing boobs and working on her ass boosts confidence"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nhis name is Siddhesh Poyarekar he is the only in india who is in the core team of linaro toolchain development\ni mean only guy"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nNot the only one \n\nAt least not now"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nhe is the only one\nhe told me"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nI have met another guy who is in Linaro dev\nThat doesn't change anything whether he is the only guy or not"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nwell ... actually he is the only developer working on the toolchain\nfrom india\nmaybe there are others who work for different division's of linaro\nthe core developer is only one ..who is him."
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nDoesn't matter\nwhats the point"
+        },
+        {
+            "time": "2017-12-31T17:33:00.000Z",
+            "from": "Shreyas",
+            "message": "Shreyas\nyeah :V lol"
+        },
+        {
+            "time": "2018-01-01T04:07:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nIn Russia people religion is Jedi and Hobbit \n\nI'm Hindu on papers, but I like all cultures \n\nHere caste religion and stuff makes application forms longer and confusing \n"
+        },
+        {
+            "time": "2018-01-01T04:07:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nhmm \n\nin russia, putin is the go-to religion \n\nalso, crypto mining :3\nanyway.. i've been working all night to get my damn xmas lights working but it turns out that the mosfet i chose is fucking garbage \n\neven its datasheet is complete trash\nfuck it, i'ma get some wine\nfucking 6 am, 20 hours of wake time and all i was able to do is troubleshooting this crap.. fml \n"
+        },
+        {
+            "time": "2018-01-01T04:07:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nChristmas debugging"
+        },
+        {
+            "time": "2018-01-01T04:07:00.000Z",
+            "from": "Condor",
+            "message": "Condor"
+        },
+        {
+            "time": "2018-01-01T04:07:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nSo anything working? Like atleast partially"
+        },
+        {
+            "time": "2018-01-01T04:07:00.000Z",
+            "from": "Condor",
+            "message": "Condor\ni just wanna relax for one fucking day but this shit never leaves me \n\n\n\n1\nya it works partially\n\n\n1"
+        },
+        {
+            "time": "2018-01-01T04:07:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nLol you love you hobby or not \n"
+        },
+        {
+            "time": "2018-01-01T04:07:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nthe red leds light up, but the green ones don't.. they need more power because their forward voltage drop is higher\nyes i do \n"
+        },
+        {
+            "time": "2018-01-01T04:07:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nYou need to join some electronics sub reddit \n"
+        },
+        {
+            "time": "2018-01-01T04:07:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nmeh, who knows?\nmaybe there's some electronics channels on freenode too.. gonna search for that real quick\n\n\n1\n##electronics"
+        },
+        {
+            "time": "2018-01-01T04:07:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nAh"
+        },
+        {
+            "time": "2018-01-01T04:07:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nalso, turns out that the freenode ops fixed the fqdn bug/feature \n\n\n\n1\nearlier it wouldn't addy fqdn as a host, because i have 2 ip addresses in the a records\nand their ircd doesn't like that\nbut now my fqdn is actually getting reflected somehow \n"
+        },
+        {
+            "time": "2018-01-01T04:07:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nI'm not good at features"
+        },
+        {
+            "time": "2018-01-01T04:07:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nthey're everywhere man \n"
+        },
+        {
+            "time": "2018-01-01T04:07:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nVulnerabilities are features right?"
+        },
+        {
+            "time": "2018-01-01T04:07:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nit's \nalways\n a feature \n\nvulnerability, bugs.. all fancy words for feature \n"
+        },
+        {
+            "time": "2018-01-01T04:07:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nMakes sense \n"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nman, my windows box is setting an all time high \n\n15 days of continuous uptime already\njust half a year ago it used to bsod every few hours :')\nmaybe they finally figured out how to make decent code \n"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI too wanted to play with electronics\nbut that hobby is fucking expensive"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nProbably \n  but you can buy simple things from China"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nand before you know, you are burning significant monet on equipments\nhell, even half decent multipmeter will cost >100USD\nthose 2$/100 INR multimeters are totally worthless\nand while we are at multimeters, you will need digital and analog both"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nIt's nice that hobby of softwares doen't need anything more than a computer \n\noh"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nFor digital, sooner or later you will need that motherfucker to talkto your computer\nYou want oscilloscopes? that starts from some 1500$\ngood ones will cost you ~2500$\nhobby of software is also costly\nif you have any hope to go into some niche field"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nlike what is costly in software \n?"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nCompilers and debuggers\nwant to debug MPI type code?\nlet me tell you debugger cost"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nwhat's that \n"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\n~1200 USD\nfor a debugger\nMPI = message passsing interface\nmost commonly used in supercomputing clusters"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\n\n that's extortion :V\n1200 does it really take that much to develop \n LOL"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nyou have not seen MPI\nyeah it is hella costly\nbut then there is no alternative either\ngdb? lldb? Good luck with them"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nlol"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nIf you want DO-178B compliance code\ncompilers are fucking expensive\n\n\n1\nDO-178B compliance is needed for airborne software\nsomething that runs in aircrafts"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nYup. That's a niche"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nsame for automobile related stuff\nand medical software\nYou want to deal with high oerf computing?\nGPUs are expensive af\nthen you want to extract last drop of performance from CPU?\nIntel compilers are fucking expensive"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nAtleast Linux is not expensive :')"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\n1500 usd for cluster edition\n\n\n1\nhow many chaps can afford that again?"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nNow if you're hobbyist it gets expensive sometimes \n\nBut atlest for electronics hobby you can ask micheal he will tell you what's the cost of equipment he has\nor u can start with Bag Bunty n use that money to buy \n stuff"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI cannot do bug bounty man"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nI know you must be busy \n with your job"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nno. I dont have gray matter for that"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nlol"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nweb stuff is beyond me"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay"
+        },
+        {
+            "time": "2017-12-29T00:42:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI used to have intel parallel studio\nthen I learnt how to optimize using gcc\nthen I started landing upon weird quirks\ncompiler bugs"
+        },
+        {
+            "time": "2017-12-29T04:23:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nSir bug hunting you can do by finding bugs on softwares too ;_; these days many software development companies have started bounty programs on hackerone and private too ;_;"
+        },
+        {
+            "time": "2017-12-29T04:23:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\n@Adhokshaj Mishra\n check this paper \n"
+        },
+        {
+            "time": "2017-12-29T07:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\n@nidhish: I am kinda hunting bugs in foss compilers\nC and C++ both"
+        },
+        {
+            "time": "2017-12-29T07:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nOh! Great."
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nElectronics and development are indeed kinda expensive\nIn electronics, you have to get a good soldering station, SMD rework station, multimeter, oscilloscope (which seem to be offered only by Rigol and Keysight) and a ton of components"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nExpensive only if you dont have a lab"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nI've not bought the SMD rework station or oscilloscope yet (though I do have one if those Chinese kits for training), and I already went through a few hundred euros\nNot everyone can freely use their school's equipment nibba \n\nIf only I could \n"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nWell, you are paying them for lab, you need to utilize it somehow\nGlad I did that \n"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nTrue\nMy school didn't have such a lab though \n"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\noh \n"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nBecause those teachers were n00bs \n"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nheker level knowledge \n\nJust like the Pakistanis"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nThat's right \n\nThey think that a vulnerability report means that I Hakked their servers \n\nAnd that their servers are somehow unhackable \n"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nLook at this 1337 level chip and PIN diagram\nThese Pakistanis have arrested a Indian retired naval officer named Jadav from Iran and blamed him falsely of espionage and spying."
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Condor",
+            "message": "Condor"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nThey have refused India a consular access to the Indian citizen\nBut let his family meet him after 2 years\nNow when his wife went to meetup, they took off her show and said this chip was in her shoes, it was fitted by Govt of India for spying"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nArresting people for bringing a battery-powered Arduino \n"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nThat chip doesn't even looks like an Arduino\nAnd the circuit shown is of a motor-controller"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nProbably that QFN thingie in the middle is the Arduino?"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nWho the fuck uses an Arduino for military level spy? lol\nYes! Thats a small display maybe"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nThat little black box next to it lol"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nIC :3\nAnd it looks so poorly soldered"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nMaybe, but pic claims that it's an Arduino\nAnd yeah the soldering is awful :')"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nmaybe one of those chips which they use for suicide bombings"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nhides his own circuits under a drawer\nWho knows? \n\nAnyway I gotta go, have to prepare for a dinner with my family"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nwoah \n\nat least you know how to cook"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nNaah we're going to a restaurant for Christmas\n\n\n1"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nahh I see ! \n"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nReally luxorious one too.. Check this out \n\n\n\n1"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nEnjoy!"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nThank you \n"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nDo show use the snowy Belgium snaps though!\n*us"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nIt's not snowing anymore but I caught some snaps earlier \n\nI'll send em to you on Telegram"
+        },
+        {
+            "time": "2017-12-29T08:50:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nThanks ! That'd be awesome \n"
+        },
+        {
+            "time": "2017-12-29T13:40:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nThese days I cut the shit short \n\n\n\n2"
+        },
+        {
+            "time": "2017-12-29T13:40:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nLmfao\n\n\n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nYe log puchte aise h jaise hum Haan bolenge\n@Michael De Roover\n send some food here too, some spicy food \n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nXD \n\n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nIsliye kabhi kisi se baat karna ho toh khudko cyber security enthusiast bolo.. Hacker bola toh aise message ate h"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nHaan \n\n\npar merko ese aate bhi h to vo request box me hi rehte h na muje notification aata h na me dekhta hu \n\n\nK A N S E R"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nSad.... I don't even receive hekur message I'm not famous like ya guys \n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI have been given 1 NAS, 1 router, and 1 desktop extra\nfor lab"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nWah"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nYou don't give gyan or you don't troll hexors ;_; if you do you will receive messages like that too \n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nI don't feel that I've much gyan in the first place, I only know a little bit of python, and talking about python makes leets puke so i dont.\nI'm not into malware analysis / low level stuff like mishra ji u Souhardya n bipro\nTrying to learn tho"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nSaem...I am also trying to learn ;_;"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nU atleast have some knowledge of hacking / malwares more than me"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nBut not much to create one ;_;"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nHmm\nYou know Asm right? \n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nNope ;_;\nLearning"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nIf knowledgeable people like \n@Biprodeep Roy\n \n@Adhokshaj Mishra\n \n@Michael De Roover\n used to write a blog then probably we'd have learned more\n\n\n1"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI used to write\nthen I stopped\n\n\n1"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nIf they used to write blogs I would've learnt more than what I have learnt till now ;_;"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nbecause, I hardly got readers"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nIt needs some persistence \n why did you stop :V"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nthen many more started messaging me asking me to write on how to install wifi driver on ubuntu\n\n\n1"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nSir start now if you can ;_; we will get you readers \n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nLOL"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nor how to install LAMP in linux\nalongwith with \"complaints\" that my posts are hard to follow\n\n\n1\nHard to follow part I agree with."
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nHard to follow how? O.o"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nposts full of codes, algorithmic stuff, dissecting assembly\nthen talking about side effects for fun and profit"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nOh! People couldn't understand what you wanted to say?"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nWell what else would happen \n but see you could have educated some people who were willing to learn.\nCoz teachers in schools are shit"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\n@Nidhish Pandya\n: Go through my timeline images. Most of them are screenshots of some POC"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nSome real people like you might make education much better \n ?"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\ngo through related posts as well. Want me to share some example?"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nEven in college here....I repaired network problem \n\nYeah! Will go through your profile. It would be easy if you can share example."
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nhere is one such post\nhttps://www.facebook.com/AdhokshajMishra/posts/1294776340547735\nhad it been a blog post, I would have explained how the fuck code heats and cools CPU\nno root, no I/O, no hardware interaction (apart from CPU and RAM)"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nOnce you start writing blogs you'll start loving it"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nIt takes 7-10 days tot write one post bro"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\n\n when you get some nice audience\nYes, your stuff is quite complex"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nand then in return I get some 5-7 readers"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nBut it depends if you take it as hobby, for fun/ educational initiative\nDid you use blogger before?"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nSee, I dont run ad stuff on blog. I neevr did.\nI love to talk about stuff, to explain my work to others\nbut then, not everyone can understand these materials\nthat is also expected\nvery few people take interest in low level stuff"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nIt's because they don't know about basics of low level stuff \n\nYou directly talk about advanced stuff, even I don't understand it sometimes"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nI thought of starting blog again"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nThese days people want low level stuff and malwares to be automated like pressing a button and some software or script will do/make it for them lol"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nthen I evaluated it as a time waste\nputting this time to study something new, I will gain"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nSame here\n@Nidhish Pandya\n saw the post?"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nYeah! Saw that\nIs too much advanced for me"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\n@Adhokshaj Mishra\n this paper \nhttps://arxiv.org/ftp/arxiv/papers/1606/1606.05915.pdf\nit is kinda hypothetical"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nAnd yeah! For everyone who don't know the basics it's boring af....but this is some real cool stuff \n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nbut it can be done practically again very inefficient"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nYou should simplify the basics \n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nThere are better, efficient processes"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nDada you 2 should write blogs again ;_; in your free times ;_;"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nlol if no one does that you're going to get more how do I install lamp on linux and hack fb plz requets"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Brian",
+            "message": "Brian\nGood shares, thank you."
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nWhen people go nuts for these, I ask them to read about Shanon bArtley theorem\nactually, it became a topic of debate b/w me and the fella who runs the heckker news"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\n*Shanon Hartley Theorem?"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nhe claimed I am too naive to do anything like that, and therefore belittling others who have done cool stuff\nYes\nH and B keys are nearby"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\noh :3\nanyway"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI tossed shanon hartley theorem\nlater I made that post with screenshots"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nHackernews guy means that guy who posts click jacking links?"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nheckker saheb does not talk to me anymore\nYes\ncheck pm btw"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nLol\n that guy ;_;"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nhe has a lot of ego though, once he and I had an argument over forensics and he contradicted to me and said isDebuggerPresent  functions cannot be bypassed back then"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\n|\n_ | _"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nI said that a simple NOP can disable any fuckery :3"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nwhat's his name?\n:?"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nhe shall not be named"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nLord Voldemort"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nthehackernews's ceo is mohit kumar \n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nsomeone was watching harry potter in train \n I like it but haven't watched all of em\nBTW if I have REST API here and I want to authenticate the user, should I let them send their API key with every request or \nshould there be one /login\nwhich will give them some temporary token like we have with FB and gmail and other normal stuff\nSo should one let the user submit API key with every request or let them login with it and carry on rest of the session via a temporary token"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nDo neither"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\noh"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI am planning to design REST API\n\n\n1\nand this is what I gonna do"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nyes tell"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\n1. Authentication will happen over HTTPS\n2. After auth, a token is generated, and shared with user\nafter that, there is no need to login\nas long as next party is able to prove that they know the token\neach session will have a session ID\n\n\n1\nas soon as same session ID comes from different IP, session expires\n\n\n1\nProve again that you indeed have the token, and get another session ID over HTTPS\n\n\n1"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nnice\nidea"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nBut would it be wrong if you let them send their password/access key with each request, I mean we've this password system coz we don't want to piss users off by making them to enter password to send each request so we give them a session cookie.\nIdea of session cookie is nice so that you'll terminate the session if something weird happens, but do you need to login you can just pass credentials/ access key with each request and also give them session for like 1 hour ?"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nsee, for next auth they dont need to enter any detail\naccess token will be stored locally\nencrypted obviously\n\n\n1"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nYeah I know but this scenario there's a JSON api where an script will keep asking for info while sending it's api key"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nthere is another idea\nyou can map session to specific IPs, and that will work as long as there is no NAT\nin case of nat, you need session id/api token etc\nbtw, I have no clue in which lang to make Rest API"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nPython?? \n\nlet me pm you"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\npython aint allowed"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nJSON?"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\neverything is supposed to be native code"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\njson isn't a lang"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nSo far, Boost.asio or standalone ASIO maybe\nspinning own basic HTTP server aint that hard\nsince I dont need to support stuff like modules for PHP/Py/CGI etc"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nI mean apis are made in JS/JSON, right?"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nor even serving file from disc, I dont need to handle a lot of cases\ndata will be serialzed in json maybe. Will ask the \"consumer\" what they can handle\n\n\n1"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nJSON is used to send info as all langs have json library which can convert json objects to objects in that language"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nJSON APi means it sends the data in json format \n\n\n\n1"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nYou only have 2 choices right XML or JSON"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nYeah!"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nthere is Yaml too\n\n\n1"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nthere's yml but \n i never used it\nit's human friendly :V"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\neven HTML can be used in a certain way to do that \n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nbut I am limited\nI need to serve what next party can handle"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nweb stuff is boring \n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nYou can ask them if they want in JSON format or xml ;_;"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nya \n lol"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI have already asked them"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nThey wouldn't have replied yet no? \n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nBut If I haven't mistaken, it wouldn't be difficult for you to server if they want it in JSON or xml \n there would a lib for it in ur preferrred lang right?"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\n@Bips Web stuff is boring but Webassembly ain't ;_; \n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\n*don't say no \n m python uzar"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nLmao!\n\n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nhere railwire saved me\nthanks to googal\nFree wifi on train stations \n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nRailwire is brilliant"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nyes, same in Kolkatta?"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nanyone wants roaming in broadband?\nit is like this:\nI am in LKO, and using broadband from ISP1"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nMy broadband doesn't even gives good speed in local what will happen on roaming? :3 \n\n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nI move to delhi, get another ISP2 to get connection\nI login using old credentials, and internet works\nsame old uplink/downlink + peering"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nDamn! \n\n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Biprodeep",
+            "message": "Biprodeep\nrailwire is there in many places here\n\n\n1"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nplus some roaming charges, because ISP2 will be giving infra\nsomething like this"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nEarlier railwire was only in Mumbai now it's in suburbs too \n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nCool no? O.o"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nthat's like system(\"shutdown now\") \n?\nor rm -rf \n"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nNah! Windows stuff leety he says it's too lengthy ;_;\n\n\n1"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Adhokshaj",
+            "message": "Adhokshaj\nask those leets what is the need of prologue and epilogue\nwhy the fuck are those even needed in first place"
+        },
+        {
+            "time": "2017-12-29T15:00:00.000Z",
+            "from": "Nidhish",
+            "message": "Nidhish\nSure! \n\n\nLe 1337\n busy searching on Google ;_;"
+        },
+        {
+            "time": "2017-12-30T01:48:00.000Z",
+            "from": "Condor",
+            "message": "Condor\n@Akshay More I have recently started writing again though\n\n\n1\nAnd the article seems to gather many views too \n\nWhen I was checking up on it during dinner with my family earlier today, it almost reached 1k views\nThat's what keeps me motivated \n\n\n\n1\n@Adhokshaj Mishra I also learnt to just keep those people who ask such stupid questions in the message requests.. so that I don't have to waste time on them\nIf they can't understand the content, they're not the targeted audience anyway\nwait wtf\nmy weechat can't fucking tag people\nbut also featureful messenger chat is slow as fuck :')\n\n\n1\n@Adhokshaj Mishra\n \n@Akshay More"
+        },
+        {
+            "time": "2017-12-30T01:48:00.000Z",
+            "from": "Akshay",
+            "message": "Akshay\nI think you published something on E2EE on Hacking vision \n"
+        },
+        {
+            "time": "2017-12-30T10:28:00.000Z",
+            "from": "Condor",
+            "message": "Condor\nYup \n"
+        }
+    ]
+}

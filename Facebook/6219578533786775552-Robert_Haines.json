@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6219578533786775552/",
+    "participants": [
+        {
+            "name": "Robert Haines",
+            "title": "CSM @ FrontSpin, Growth Advisor for Tech Startups, Big ol' Geek at ♥",
+            "url": "linkedin.com/in/roberthaines",
+            "phone": null,
+            "email": "brilliantandkind@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-27T18:24:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thanks for endorsing me for Software Development!\n",
+            "time": "2017-12-28T18:06:00.000Z"
+        }
+    ]
+}

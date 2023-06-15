@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6197792229327716353/",
+    "participants": [
+        {
+            "name": "Chuck McGuire",
+            "title": "Systems Engineer at General Dynamics Mission Systems",
+            "url": "linkedin.com/in/chuckmcguire",
+            "phone": null,
+            "email": "clm65ster@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for the connect!\n",
+            "time": "2017-10-28T15:33:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Happy birthday!\n",
+            "time": "2017-12-08T17:26:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6214965421817233408/",
+    "participants": [
+        {
+            "name": "Shannon Jones",
+            "title": "Sr. Recruiter at Lam Research",
+            "url": "linkedin.com/in/shannonrjones",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Shannon Jones",
+            "message": "Sr. .Net Developer job opening in Scottsdale - Direct hire\nshannonjones@serverlogic.com",
+            "time": "2017-12-15T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "What company? How much? Java is boring.",
+            "time": "2017-10-18T00:55:00.000Z"
+        },
+        {
+            "from": "Shannon Jones",
+            "message": "This company is in Scottsdale and we have an excellent relationship with them.  I am assisting my Arizona local Account Manager with this role.  This position is with International Cruise & Excursions.  We work direct with the Manager and this role would be a permanent position.  If you are interested, I would love to talk with you in more detail about this role.  You can send your resume to me directly at:  \nshannonjones@serverlogic.com",
+            "time": "2017-10-18T16:53:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I already applied for a different position with ICE and got turned down without so much as a phone call.",
+            "time": "2017-10-18T16:54:00.000Z"
+        }
+    ]
+}

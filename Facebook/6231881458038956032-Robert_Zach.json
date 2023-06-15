@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6231881458038956032/",
+    "participants": [
+        {
+            "name": "Robert Zach",
+            "title": "Unternehmer",
+            "url": "linkedin.com/in/robert-zach-4522a54b",
+            "phone": null,
+            "email": "zaro@zarobiotec.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-30T17:12:00.000Z"
+        }
+    ]
+}

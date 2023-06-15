@@ -1,0 +1,661 @@
+[
+    {
+        "resourceName": "people/c2848295890696570118",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "27872e058c2c8506"
+                    }
+                },
+                "displayName": "Chelsea Dishman",
+                "familyName": "Dishman",
+                "givenName": "Chelsea",
+                "displayNameLastFirst": "Dishman, Chelsea"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "27872e058c2c8506"
+                    }
+                },
+                "value": "+1-602-432-7012",
+                "canonicalForm": "+16024327012",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "9 Mutual Connections",
+                "You and Chelsea both know Bray Brockbank, Jason Waldrip, and 7 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Sales and Marketing Manager",
+                "Company Name",
+                "NOMaste Baking Co.",
+                "Dates Employed",
+                "Feb 2017 – Present",
+                "Employment Duration",
+                "9 mos",
+                "Location",
+                "Phoenix, Arizona"
+            ],
+            [
+                "Corporate Marketing & Public Relations Manager",
+                "Company Name",
+                "International Cruise & Excursions (ICE), Inc.",
+                "Dates Employed",
+                "Jul 2016 – Present",
+                "Employment Duration",
+                "1 yr 4 mos",
+                "Location",
+                "Scottsdale, Arizona"
+            ],
+            [
+                "Social Media Manager",
+                "Company Name",
+                "International Cruise & Excursions, Inc.",
+                "Dates Employed",
+                "Aug 2014 – Present",
+                "Employment Duration",
+                "3 yrs 3 mos",
+                "Location",
+                "Scottsdale, Arizona",
+                "Primarily responsible for implementing the company’s Social Media strategy including but not limited to all efforts addressing reputation management, social monitoring/response and increasing consumer engagement through social platforms. Administration includes implementation of reputation management tactics resulting in a decrease in rescission rates across brands, content strategy, developing brand awareness, engagement strategies and ultimately the conversion of social media engagers into upgraded product consumers. The Social Media Manager is responsible for coordination and partnering with all functional areas including the Customer Experience team, Creative Services, Marketing Development, Product Marketing, Sales and other teams for the creation and distribution of content and engagement strategies.  In addition, the Social Media Manager will specifically work with account managers and fellow marketing teams to establish each brand’s social strategy."
+            ],
+            [
+                "Director of Corporate Marketing",
+                "Company Name",
+                "NOMaste Baking Co.",
+                "Dates Employed",
+                "Jan 2016 – Present",
+                "Employment Duration",
+                "1 yr 10 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "From cookies to brownies to dessert bars and breads, NOMaste Baking Co. provides customers with the delicious \"noms\" they're craving for any occasion. Founded in 2015, this confectionary services corporate businesses and cafes, special occasions, events, and more. Whether it's an afternoon snack for one or dessert for a hundred, NOMaste Baking Co. has your sweet tooth needs covered!"
+            ],
+            [
+                "Executive Administrative Assistant",
+                "Company Name",
+                "International Cruise and Excursions, Inc.",
+                "Dates Employed",
+                "Jun 2014 – Aug 2014",
+                "Employment Duration",
+                "3 mos",
+                "Location",
+                "Scottsdale, Arizona",
+                "Provided administrative support to division executives in the form of schedule management, reporting, phone coverage, travel management.Performed a complex diversity of administrative support and project coordination duties Managed and coordinated the leadership team’s calendar, travel arrangements, and scheduling through negotiation of potential conflicts and determination of feasible alternatives.Acted as a point of contact for the leadership team including handling and distributing of confidential mail, email and telephone callsPrepared expense reports and handles invoice processing for the leadership teamHandled a high volume of work with accuracy and maintains flexibility and efficiency to deal with changing priorities.Sales process support:  Contract processing – inspecting, auditing, filing per retention guidelines.Provided project management duties including coordination and assistance in composing presentations, correspondence, compiling reports, build and adhere to budgets and expense control, develop partner relationships, and drive approvals and timing."
+            ],
+            [
+                "Student Teacher",
+                "Company Name",
+                "John Muir Middle School",
+                "Dates Employed",
+                "Mar 2014 – Jun 2014",
+                "Employment Duration",
+                "4 mos",
+                "Location",
+                "Burbank, California"
+            ],
+            [
+                "Substitute Teacher",
+                "Company Name",
+                "Sunshine Preschool",
+                "Dates Employed",
+                "Mar 2013 – Apr 2014",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "Brentwood, California"
+            ],
+            [
+                "Student Teacher",
+                "Company Name",
+                "Herbert Hoover High School",
+                "Dates Employed",
+                "Aug 2013 – Feb 2014",
+                "Employment Duration",
+                "7 mos",
+                "Location",
+                "Glendale, California"
+            ],
+            [
+                "Intern, Forensic Anthropology",
+                "Company Name",
+                "County of Los Angeles Dept. of Coroner",
+                "Dates Employed",
+                "Jul 2012 – Dec 2012",
+                "Employment Duration",
+                "6 mos",
+                "Location",
+                "Greater Los Angeles Area",
+                "Worked with acting Forensic Anthropologist and law enforcement agencies to assist in processing skeletal evidence by gathering information used to determine the individual's age at death, sex and physical condition. Assisted law enforcement in locating human remains, and assessing trauma to bones."
+            ],
+            [
+                "Corporate Marketing and Communications Coordinator",
+                "Company Name",
+                "International Cruise and Excursions, Inc.",
+                "Dates Employed",
+                "Nov 2006 – Dec 2012",
+                "Employment Duration",
+                "6 yrs 2 mos",
+                "Primarily responsible for facilitating and driving marketing and promotional efforts that engage customers and partners to experience ICE’s cruise and resort vacation options and products, while also acting as an internal department liaison for current and future marketing initiatives."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of Southern California",
+                "Degree Name",
+                "Master of Arts (M.A.)",
+                "Field Of Study",
+                "Secondary Education and Teaching",
+                "Dates attended or expected graduation",
+                "2013 – 2014",
+                "Activities and Societies:",
+                "Phi Kappa Phi Honors Fraternity"
+            ],
+            [
+                "University of Southern California",
+                "Degree Name",
+                "Master of Arts (M.A.)",
+                "Field Of Study",
+                "Secondary Education and Teaching",
+                "Dates attended or expected graduation",
+                "2013 – 2014",
+                "Activities and Societies:",
+                "Phi Kappa Phi Honors Fraternity"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "Bachelor of Arts",
+                "Field Of Study",
+                "English, Creative Writing",
+                "Dates attended or expected graduation",
+                "2005 – 2011"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "Bachelor of Arts",
+                "Field Of Study",
+                "English, Creative Writing",
+                "Dates attended or expected graduation",
+                "2005 – 2011"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "Bachelor of Arts",
+                "Field Of Study",
+                "Physical Anthropology",
+                "Dates attended or expected graduation",
+                "2005 – 2011"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "Bachelor of Arts",
+                "Field Of Study",
+                "Physical Anthropology",
+                "Dates attended or expected graduation",
+                "2005 – 2011"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Arizona State University",
+                "386,167 followers"
+            ],
+            [
+                "USC Network of Trojans",
+                "11,975 members"
+            ],
+            [
+                "County of Los Angeles Dept. of Coroner",
+                "265 followers"
+            ],
+            [
+                "GoDaddy",
+                "41,538 followers"
+            ],
+            [
+                "University of Southern California",
+                "336,204 followers"
+            ],
+            [
+                "The Honor Society of Phi Kappa Phi",
+                "22,977 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (365)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Arizona State University",
+                "386,167 followers"
+            ],
+            [
+                "Arizona State University",
+                "386,167 followers"
+            ],
+            [
+                "USC Network of Trojans",
+                "11,975 members"
+            ],
+            [
+                "USC Network of Trojans",
+                "11,975 members"
+            ],
+            [
+                "County of Los Angeles Dept. of Coroner",
+                "265 followers"
+            ],
+            [
+                "County of Los Angeles Dept. of Coroner",
+                "265 followers"
+            ],
+            [
+                "GoDaddy",
+                "41,538 followers"
+            ],
+            [
+                "GoDaddy",
+                "41,538 followers"
+            ],
+            [
+                "University of Southern California",
+                "336,204 followers"
+            ],
+            [
+                "University of Southern California",
+                "336,204 followers"
+            ],
+            [
+                "The Honor Society of Phi Kappa Phi",
+                "22,977 members"
+            ],
+            [
+                "The Honor Society of Phi Kappa Phi",
+                "22,977 members"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Social Media",
+                "See 27 endorsements for Social Media",
+                "27",
+                "Social Media",
+                "Endorse",
+                "Endorsed by Jason Tennant (mutual connection)",
+                "Endorsed by 14 of Chelsea’s colleagues at International Cruise & Excursions, Inc. (ICE)"
+            ],
+            [
+                "Social Media",
+                "See 27 endorsements for Social Media",
+                "27"
+            ],
+            [
+                "Event Planning",
+                "See 26 endorsements for Event Planning",
+                "26",
+                "Event Planning",
+                "Endorse",
+                "Endorsed by Jason Tennant (mutual connection)",
+                "Endorsed by 13 of Chelsea’s colleagues at International Cruise & Excursions, Inc. (ICE)"
+            ],
+            [
+                "Event Planning",
+                "See 26 endorsements for Event Planning",
+                "26"
+            ],
+            [
+                "Customer Service",
+                "See 23 endorsements for Customer Service",
+                "23",
+                "Customer Service",
+                "Endorse",
+                "Endorsed by Anne McCauley, who is highly skilled at this",
+                "Endorsed by Jason Tennant (mutual connection)"
+            ],
+            [
+                "Customer Service",
+                "See 23 endorsements for Customer Service",
+                "23"
+            ],
+            [
+                "Marketing Communications",
+                "See 17 endorsements for Marketing Communications",
+                "17",
+                "Marketing Communications",
+                "Endorse"
+            ],
+            [
+                "Marketing Communications",
+                "See 17 endorsements for Marketing Communications",
+                "17"
+            ],
+            [
+                "Event Management",
+                "See 17 endorsements for Event Management",
+                "17",
+                "Event Management",
+                "Endorse"
+            ],
+            [
+                "Event Management",
+                "See 17 endorsements for Event Management",
+                "17"
+            ],
+            [
+                "Marketing",
+                "See 10 endorsements for Marketing",
+                "10",
+                "Marketing",
+                "Endorse"
+            ],
+            [
+                "Marketing",
+                "See 10 endorsements for Marketing",
+                "10"
+            ],
+            [
+                "Editing",
+                "See 8 endorsements for Editing",
+                "8",
+                "Editing",
+                "Endorse"
+            ],
+            [
+                "Editing",
+                "See 8 endorsements for Editing",
+                "8"
+            ],
+            [
+                "Social Media Marketing",
+                "See 8 endorsements for Social Media Marketing",
+                "8",
+                "Social Media Marketing",
+                "Endorse"
+            ],
+            [
+                "Social Media Marketing",
+                "See 8 endorsements for Social Media Marketing",
+                "8"
+            ],
+            [
+                "Copy Editing",
+                "See 6 endorsements for Copy Editing",
+                "6",
+                "Copy Editing",
+                "Endorse"
+            ],
+            [
+                "Copy Editing",
+                "See 6 endorsements for Copy Editing",
+                "6"
+            ],
+            [
+                "Creative Writing",
+                "See 6 endorsements for Creative Writing",
+                "6",
+                "Creative Writing",
+                "Endorse"
+            ],
+            [
+                "Creative Writing",
+                "See 6 endorsements for Creative Writing",
+                "6"
+            ],
+            [
+                "Marketing Strategy",
+                "See 5 endorsements for Marketing Strategy",
+                "5",
+                "Marketing Strategy",
+                "Endorse"
+            ],
+            [
+                "Marketing Strategy",
+                "See 5 endorsements for Marketing Strategy",
+                "5"
+            ],
+            [
+                "Leadership",
+                "See 5 endorsements for Leadership",
+                "5",
+                "Leadership",
+                "Endorse"
+            ],
+            [
+                "Leadership",
+                "See 5 endorsements for Leadership",
+                "5"
+            ],
+            [
+                "Sales",
+                "See 3 endorsements for Sales",
+                "3",
+                "Sales",
+                "Endorse"
+            ],
+            [
+                "Sales",
+                "See 3 endorsements for Sales",
+                "3"
+            ],
+            [
+                "Screenwriting",
+                "See 2 endorsements for Screenwriting",
+                "2",
+                "Screenwriting",
+                "Endorse"
+            ],
+            [
+                "Screenwriting",
+                "See 2 endorsements for Screenwriting",
+                "2"
+            ],
+            [
+                "Human Anatomy",
+                "See 2 endorsements for Human Anatomy",
+                "2",
+                "Human Anatomy",
+                "Endorse"
+            ],
+            [
+                "Human Anatomy",
+                "See 2 endorsements for Human Anatomy",
+                "2"
+            ],
+            [
+                "Anthropology",
+                "See 2 endorsements for Anthropology",
+                "2",
+                "Anthropology",
+                "Endorse"
+            ],
+            [
+                "Anthropology",
+                "See 2 endorsements for Anthropology",
+                "2"
+            ],
+            [
+                "Teaching",
+                "See 2 endorsements for Teaching",
+                "2",
+                "Teaching",
+                "Endorse"
+            ],
+            [
+                "Teaching",
+                "See 2 endorsements for Teaching",
+                "2"
+            ],
+            [
+                "English Teaching",
+                "See 2 endorsements for English Teaching",
+                "2",
+                "English Teaching",
+                "Endorse"
+            ],
+            [
+                "English Teaching",
+                "See 2 endorsements for English Teaching",
+                "2"
+            ],
+            [
+                "Teaching Reading",
+                "See 2 endorsements for Teaching Reading",
+                "2",
+                "Teaching Reading",
+                "Endorse"
+            ],
+            [
+                "Teaching Reading",
+                "See 2 endorsements for Teaching Reading",
+                "2"
+            ],
+            [
+                "Teaching Writing",
+                "See 2 endorsements for Teaching Writing",
+                "2",
+                "Teaching Writing",
+                "Endorse"
+            ],
+            [
+                "Teaching Writing",
+                "See 2 endorsements for Teaching Writing",
+                "2"
+            ],
+            [
+                "Sales Management",
+                "See 2 endorsements for Sales Management",
+                "2",
+                "Sales Management",
+                "Endorse"
+            ],
+            [
+                "Sales Management",
+                "See 2 endorsements for Sales Management",
+                "2"
+            ],
+            [
+                "Management",
+                "See 2 endorsements for Management",
+                "2",
+                "Management",
+                "Endorse"
+            ],
+            [
+                "Management",
+                "See 2 endorsements for Management",
+                "2"
+            ],
+            [
+                "Online Brand Building",
+                "See 1 endorsement for Online Brand Building",
+                "1",
+                "Online Brand Building",
+                "Endorse"
+            ],
+            [
+                "Online Brand Building",
+                "See 1 endorsement for Online Brand Building",
+                "1"
+            ],
+            [
+                "Online Reputation Management",
+                "See 1 endorsement for Online Reputation Management",
+                "1",
+                "Online Reputation Management",
+                "Endorse"
+            ],
+            [
+                "Online Reputation Management",
+                "See 1 endorsement for Online Reputation Management",
+                "1"
+            ],
+            [
+                "Team Building",
+                "See 1 endorsement for Team Building",
+                "1",
+                "Team Building",
+                "Endorse"
+            ],
+            [
+                "Team Building",
+                "See 1 endorsement for Team Building",
+                "1"
+            ],
+            [
+                "Business Development",
+                "See 1 endorsement for Business Development",
+                "1",
+                "Business Development",
+                "Endorse"
+            ],
+            [
+                "Business Development",
+                "See 1 endorsement for Business Development",
+                "1"
+            ],
+            [
+                "Online Advertising",
+                "Online Advertising",
+                "Endorse"
+            ],
+            [
+                "Online Advertising"
+            ],
+            [
+                "New Business Development",
+                "New Business Development",
+                "Endorse"
+            ],
+            [
+                "New Business Development"
+            ]
+        ],
+        "summary": "",
+        "name": "Chelsea Dishman",
+        "title": "Sales and Marketing Manager at NOMaste Baking Co.",
+        "url": "linkedin.com/in/chelsea-dishman-88005512",
+        "phone": null,
+        "email": "chelsea.dishman@asu.edu"
+    }
+]

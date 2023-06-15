@@ -1,0 +1,294 @@
+﻿Session Start (b.cullinan@cox.net:Group Conversation 10103): Thu May 31 09:17:48 2007
+[05/31/2007 09:17:48 AM] Alex Markov: hi all
+[05/31/2007 09:18:01 AM] Robert Douglas: brian might have found a solution for the issue that was stopping us from using the SVN
+[05/31/2007 09:18:10 AM] Robert Douglas: brian, rdy to start ur proposed plan?
+[05/31/2007 09:18:12 AM] Alex Markov: excellent
+[05/31/2007 09:18:16 AM] b.cullinan@cox.net: ok
+[05/31/2007 09:18:35 AM] b.cullinan@cox.net: read notes
+[05/31/2007 09:19:44 AM] Robert Douglas: i sitll need 2 get SP 2 installed for onenote
+[05/31/2007 09:19:48 AM] Robert Douglas: can u copy it into .doc
+[05/31/2007 09:19:55 AM] Alex Markov: u are a mess lol
+[05/31/2007 09:20:01 AM] b.cullinan@cox.net: lol
+[05/31/2007 09:20:05 AM] Robert Douglas: remember i had to uninstall the entire office 
+[05/31/2007 09:20:08 AM] Robert Douglas: i did it like 10 times
+[05/31/2007 09:20:12 AM] Robert Douglas: and finally got outlook to work
+[05/31/2007 09:20:17 AM] Robert Douglas: then i never had to use onenote yet
+[05/31/2007 09:20:19 AM] Robert Douglas: so i didnt install it
+[05/31/2007 09:20:31 AM] Alex Markov: onenote is the shit
+[05/31/2007 09:20:32 AM] Robert Douglas: have u reformatted ur comp to fix ur stuff yet? DIDNT THINK SO
+[05/31/2007 09:20:52 AM] Robert Douglas: that's been going on for months
+[05/31/2007 09:21:08 AM] Alex Markov: no because when i was transfering files over to my external drive. one of them is fucked up and i cant transfer bulk files. it has errors and shuts off lol. so i had to redo the whole transfer which took 3 hours to another drive
+[05/31/2007 09:21:17 AM] Robert Douglas: lol so bad
+[05/31/2007 09:21:21 AM] Alex Markov: so now i am all backuped up i sut need to reformat
+[05/31/2007 09:21:23 AM] Alex Markov: saturday
+[05/31/2007 09:21:51 AM] Robert Douglas: k
+[05/31/2007 09:21:56 AM] Robert Douglas: where is the .doc?
+[05/31/2007 09:22:02 AM] Robert Douglas: brian u still here?
+[05/31/2007 09:22:18 AM] Robert Douglas: he always leaves like this
+[05/31/2007 09:22:47 AM] b.cullinan@cox.net: (Link: http://bjcullinan.com/Share/Software/2007-05-31%20SVN%20Meeting.zip)http://bjcullinan.com/Share/Software/2007-05-31%20SVN%20Meeting.zip
+[05/31/2007 09:23:08 AM] Alex Markov: i am sending it to bobby right now
+[05/31/2007 09:23:12 AM] Robert Douglas: got it
+[05/31/2007 09:23:12 AM] Robert Douglas: thx
+[05/31/2007 09:23:30 AM] b.cullinan@cox.net: you have acrobat installed?
+[05/31/2007 09:23:35 AM] Robert Douglas: yup
+[05/31/2007 09:23:38 AM] b.cullinan@cox.net: gj
+[05/31/2007 09:23:46 AM] b.cullinan@cox.net: sleep for me?
+[05/31/2007 09:23:46 AM] Alex Markov: wow. bobby is bigtime
+[05/31/2007 09:23:51 AM] b.cullinan@cox.net: i am going to bed
+[05/31/2007 09:23:54 AM] Alex Markov: why?
+[05/31/2007 09:23:56 AM] b.cullinan@cox.net: tired
+[05/31/2007 09:24:03 AM] Alex Markov: brian go get some coffee god dammit. we are all tired
+[05/31/2007 09:24:07 AM] Alex Markov: welcome to the business world
+[05/31/2007 09:24:11 AM] Alex Markov: lol
+[05/31/2007 09:24:12 AM] b.cullinan@cox.net: hurry up and tell me what sucks
+[05/31/2007 09:24:22 AM] b.cullinan@cox.net: its my roommates coffee
+[05/31/2007 09:24:26 AM] b.cullinan@cox.net: and its bad for your teeth
+[05/31/2007 09:24:38 AM] b.cullinan@cox.net: only 44 minutes left
+[05/31/2007 09:24:57 AM] Alex Markov: Certain conditions described below require server restart 
+Some clients don't keep track of apache logins (very annoying) 
+
+[05/31/2007 09:24:57 AM] Robert Douglas: using the Apache authentication reuqires restarts whenever you  add a new user or config
+[05/31/2007 09:24:58 AM] Robert Douglas: right?
+[05/31/2007 09:25:00 AM] Alex Markov: explain
+[05/31/2007 09:25:10 AM] Alex Markov: Disadvantages: 
+Stored non-encrypted 
+
+[05/31/2007 09:25:26 AM] Alex Markov: so we need apache authentication?
+[05/31/2007 09:25:49 AM] b.cullinan@cox.net: thats correct, the passwords are not stored encrypted, i think that can be changed though
+[05/31/2007 09:26:08 AM] b.cullinan@cox.net: no, if we use apache authentication the server will need to be restarted
+[05/31/2007 09:26:28 AM] b.cullinan@cox.net: every time a change to the directory structure is mad
+[05/31/2007 09:26:33 AM] b.cullinan@cox.net: *made
+[05/31/2007 09:26:58 AM] Alex Markov: hummm
+[05/31/2007 09:27:01 AM] b.cullinan@cox.net: the two go hand in hand, apache authentication + changes to directory structure require restart
+[05/31/2007 09:27:06 AM] Alex Markov: and restarting the server means all sitres are down?
+[05/31/2007 09:27:12 AM] Robert Douglas: yes
+[05/31/2007 09:27:19 AM] Robert Douglas: well no
+[05/31/2007 09:27:22 AM] Robert Douglas: only the SVN is down
+[05/31/2007 09:27:25 AM] Alex Markov: thats no good. that will fuck with our uptime stats
+[05/31/2007 09:27:27 AM] Alex Markov: o
+[05/31/2007 09:27:28 AM] Robert Douglas: since SVN is using another apache
+[05/31/2007 09:27:47 AM] b.cullinan@cox.net: for svnserve, its passwords might not be encrypted on hard drive (still encrypted across network) + easy changes to directory structure
+[05/31/2007 09:28:06 AM] Alex Markov: u guys are both over stressed and silly
+[05/31/2007 09:28:19 AM] Alex Markov: stop getting mad at eachother!
+[05/31/2007 09:28:20 AM] Alex Markov: lol
+[05/31/2007 09:28:26 AM] b.cullinan@cox.net: so my proposal is not to use apache, and just use svn serve
+[05/31/2007 09:28:34 AM] b.cullinan@cox.net: you get my e-mail
+[05/31/2007 09:28:34 AM] b.cullinan@cox.net: ?
+[05/31/2007 09:28:35 AM] b.cullinan@cox.net: lol
+[05/31/2007 09:28:39 AM] b.cullinan@cox.net: fucking robert
+[05/31/2007 09:28:44 AM] Alex Markov: yeah
+[05/31/2007 09:28:45 AM] Robert Douglas: what?
+[05/31/2007 09:28:58 AM] Robert Douglas: i'm reading ur 2 types
+[05/31/2007 09:28:59 AM] Alex Markov: he sent me email of u guys bickering about azrn
+[05/31/2007 09:29:20 AM] Robert Douglas: yeah. like dealing with a woman on PMS
+[05/31/2007 09:29:21 AM] Alex Markov: both of u need to stop getting mad at each other
+[05/31/2007 09:29:37 AM] b.cullinan@cox.net: you guys remember when flash memory came out with a gig stick it was like 200 bucks?
+[05/31/2007 09:29:42 AM] Robert Douglas: yea
+[05/31/2007 09:29:50 AM] Alex Markov: bobby u do everything so informally. just because we dont have protocols does not mean u cant use all the systems we have
+[05/31/2007 09:29:53 AM] b.cullinan@cox.net: i got an ad for 10 dollar gig stick
+[05/31/2007 09:29:57 AM] Alex Markov: lol
+[05/31/2007 09:30:00 AM] Robert Douglas: he didnt need the pw
+[05/31/2007 09:30:11 AM] Robert Douglas: for the change, i asked for some javascript/html
+[05/31/2007 09:30:17 AM] Alex Markov: i have been yelling at u for a while for that. just put info into pmxp and sugar when ever u get it
+[05/31/2007 09:30:19 AM] Robert Douglas: i already explained that to u
+[05/31/2007 09:30:23 AM] Alex Markov: regardless
+[05/31/2007 09:30:28 AM] Alex Markov: brian has a point
+[05/31/2007 09:30:35 AM] Robert Douglas: he isnt going to edit the live site
+[05/31/2007 09:30:42 AM] Robert Douglas: because i dont want him to acidently fuck something up
+[05/31/2007 09:30:46 AM] b.cullinan@cox.net: i don't want to anymore
+[05/31/2007 09:30:48 AM] b.cullinan@cox.net: :-P
+[05/31/2007 09:30:59 AM] Alex Markov: well maybe he wasnt made clear of that
+[05/31/2007 09:31:02 AM] Robert Douglas: edit dev.rp-s.com brian if u need it live
+[05/31/2007 09:31:05 AM] b.cullinan@cox.net: and i never worry about you fucking up my code
+[05/31/2007 09:31:14 AM] Robert Douglas: that's because i test my code
+[05/31/2007 09:31:18 AM] b.cullinan@cox.net: i wait until it happens, and it does happen a lot, and then i deal with it
+[05/31/2007 09:31:20 AM] Robert Douglas: u shouldnt worry
+[05/31/2007 09:31:24 AM] b.cullinan@cox.net: i do
+[05/31/2007 09:31:27 AM] Robert Douglas: lol
+[05/31/2007 09:31:33 AM] b.cullinan@cox.net: pgh<?php 
+[05/31/2007 09:31:39 AM] b.cullinan@cox.net: bring back any memories?
+[05/31/2007 09:31:48 AM] b.cullinan@cox.net: "why doesn't javascript work"
+[05/31/2007 09:31:55 AM] Alex Markov: lol uguys are both funny. we jsut need protocols
+[05/31/2007 09:32:01 AM] b.cullinan@cox.net: "because you fucked up a page thats included on every other page"
+[05/31/2007 09:32:06 AM] Alex Markov: but just because we dont have them does not mean we cant pretend we do
+[05/31/2007 09:32:16 AM] Robert Douglas: i think i spent more time with jambonie picking out your errors, than you did actually coding it!!
+[05/31/2007 09:32:23 AM] b.cullinan@cox.net: lol
+[05/31/2007 09:32:32 AM] b.cullinan@cox.net: can we continue
+[05/31/2007 09:32:34 AM] b.cullinan@cox.net: ?
+[05/31/2007 09:32:38 AM] Alex Markov: guys lksiten. shit happens. we jsut gotta deal with it. if bobby wanted just some code changes without putting into live site for whatever reason. then thats what should get done. its his project
+[05/31/2007 09:32:42 AM] b.cullinan@cox.net: didn't forget question mark
+[05/31/2007 09:32:46 AM] Alex Markov: LOL
+[05/31/2007 09:33:24 AM] b.cullinan@cox.net: you read svn stuff?
+[05/31/2007 09:33:27 AM] b.cullinan@cox.net: anymore questions?
+[05/31/2007 09:33:52 AM] Robert Douglas: sec, phone
+[05/31/2007 09:33:52 AM] Alex Markov: yes
+[05/31/2007 09:33:57 AM] b.cullinan@cox.net: shoot
+[05/31/2007 09:33:58 AM] Alex Markov: svn://share@192.168.1.103/RPS/Internal/Internal Development
+[05/31/2007 09:34:04 AM] Alex Markov: would that display the files in there?
+[05/31/2007 09:34:09 AM] b.cullinan@cox.net: yes
+[05/31/2007 09:34:16 AM] Alex Markov: no way to prevent that?
+[05/31/2007 09:34:27 AM] b.cullinan@cox.net: well you would need the password
+[05/31/2007 09:34:45 AM] b.cullinan@cox.net: you mean prevent having to use the entire path?
+[05/31/2007 09:34:49 AM] Alex Markov: my concern is this. when we decide to add a new system into our firm... we wnt it to be long lasting and have the ability to expand
+[05/31/2007 09:35:12 AM] Alex Markov: i want this sytem to still be relevant when we get a few more staff
+[05/31/2007 09:35:35 AM] Alex Markov: i dont want one of oure staff meembers to access documenets that he isnt supposed to see just because he has the right path to it
+[05/31/2007 09:35:50 AM] b.cullinan@cox.net: it will be, thats only an example system, we can design the folders and such any way we want
+[05/31/2007 09:36:00 AM] b.cullinan@cox.net: the more important point is what is says below that
+[05/31/2007 09:36:09 AM] b.cullinan@cox.net: thats the limitation to svn
+[05/31/2007 09:36:19 AM] Alex Markov: that we cant cross files over
+[05/31/2007 09:36:46 AM] b.cullinan@cox.net: if we make a seperate config for each repository, it won't list out all the repositories in the parents folder, ever
+[05/31/2007 09:36:51 AM] b.cullinan@cox.net: never ever, can't do it
+[05/31/2007 09:37:02 AM] b.cullinan@cox.net: and crossing files over yes
+[05/31/2007 09:37:19 AM] b.cullinan@cox.net: moving them between repositories is limited
+[05/31/2007 09:37:31 AM] b.cullinan@cox.net: we have to move the file on our own computer then re-add it
+[05/31/2007 09:37:41 AM] Alex Markov: what do u mean it wont list out all the repositories in parents folder
+[05/31/2007 09:37:58 AM] b.cullinan@cox.net: see there it says Internal, in the picture?
+[05/31/2007 09:38:06 AM] Alex Markov: yes
+[05/31/2007 09:38:12 AM] b.cullinan@cox.net: we can never get it to list out what is under Internal
+[05/31/2007 09:38:22 AM] b.cullinan@cox.net: unless we look at the filesystem
+[05/31/2007 09:38:38 AM] b.cullinan@cox.net: we have to link directly to Internat Dev
+[05/31/2007 09:38:42 AM] b.cullinan@cox.net: or directly to Meetings
+[05/31/2007 09:38:44 AM] Alex Markov: what is the filesystem exactly
+[05/31/2007 09:38:59 AM] b.cullinan@cox.net: how it looks in actual folders on the server
+[05/31/2007 09:39:08 AM] Alex Markov: sec
+[05/31/2007 09:39:51 AM] b.cullinan@cox.net: granted there will be a protocol for every single repository for each department that uses it, so there will never be any missing repositories
+[05/31/2007 09:40:06 AM] Alex Markov: ok i am somewhat lost and cant grasp it fully
+[05/31/2007 09:40:12 AM] b.cullinan@cox.net: ok
+[05/31/2007 09:40:32 AM] Alex Markov: do u honetly believe this sytem will work and will be secure and will improve our processes
+[05/31/2007 09:40:37 AM] Alex Markov: honestly
+[05/31/2007 09:41:07 AM] b.cullinan@cox.net: yes, i think it will be secure, and it will provide a place to put and exchange all our documents
+[05/31/2007 09:41:26 AM] b.cullinan@cox.net: documents including website code
+[05/31/2007 09:41:33 AM] Alex Markov: will there be a way to limit future staff member's access to certain folders
+[05/31/2007 09:42:14 AM] b.cullinan@cox.net: somewhat, for every folder that has a separate permission a different repository must be created and accessed directly
+[05/31/2007 09:42:32 AM] Alex Markov: i am somewhat unclear about the terminology. what is the repository example
+[05/31/2007 09:42:48 AM] Alex Markov: errr
+[05/31/2007 09:42:52 AM] Alex Markov: what is repositiory exactly
+[05/31/2007 09:42:59 AM] b.cullinan@cox.net: so the trick is we design the file system so that its broad enough that we can keep track of it, but defined enough that we can limit access
+[05/31/2007 09:43:12 AM] b.cullinan@cox.net: ok sorry i have been unclear
+[05/31/2007 09:43:55 AM] b.cullinan@cox.net: so a separate repository, is a completely different set of versions and files with a different config and therefore different passwords
+[05/31/2007 09:44:18 AM] b.cullinan@cox.net: BUT, it can all run under the same svnserve process
+[05/31/2007 09:44:37 AM] b.cullinan@cox.net: so we are connecting to the same thing, but accessing different repositories
+[05/31/2007 09:44:46 AM] b.cullinan@cox.net: (Link: http://bjcsvn.mine.nu/)http://bjcsvn.mine.nu/
+[05/31/2007 09:44:55 AM] b.cullinan@cox.net: all of those are separate repositories
+[05/31/2007 09:45:14 AM] b.cullinan@cox.net: make sense?
+[05/31/2007 09:45:21 AM] Robert Douglas: SVNServe looks like it will work
+[05/31/2007 09:45:36 AM] b.cullinan@cox.net: it just all depends on how we want to structure it
+[05/31/2007 09:45:46 AM] Robert Douglas: Apache auth wont work at all, so let's not discuss that option further
+[05/31/2007 09:45:54 AM] b.cullinan@cox.net: are there any changes or do you guys like my example?
+[05/31/2007 09:46:04 AM] b.cullinan@cox.net: as far as structure goes
+[05/31/2007 09:46:31 AM] Alex Markov: what would be the purpose of different repositiories. different access levels?
+[05/31/2007 09:46:36 AM] b.cullinan@cox.net: yes
+[05/31/2007 09:46:56 AM] Robert Douglas: brian, can we hide the config folders such as .svn
+[05/31/2007 09:47:31 AM] b.cullinan@cox.net: when we are working on our site, there is a plugin that cloaks them, so they are never uploaded to the server
+[05/31/2007 09:47:51 AM] b.cullinan@cox.net: in windows explorer, you go to Tools -> Options, and uncheck show hidden files
+[05/31/2007 09:47:52 AM] b.cullinan@cox.net: lol
+[05/31/2007 09:48:09 AM] b.cullinan@cox.net: on the server, they can never be accessed directly so it is still secure
+[05/31/2007 09:48:11 AM] Robert Douglas: no, i mean can the svn client hide them
+[05/31/2007 09:48:24 AM] Robert Douglas: or svn server decide not to show the files?
+[05/31/2007 09:48:29 AM] Robert Douglas: the .svn files
+[05/31/2007 09:48:36 AM] b.cullinan@cox.net: on the local computer or on the server?
+[05/31/2007 09:48:37 AM] Robert Douglas: i'm just curious, wondered if u knew
+[05/31/2007 09:48:40 AM] Robert Douglas: local comp
+[05/31/2007 09:48:43 AM] b.cullinan@cox.net: ok
+[05/31/2007 09:48:49 AM] Robert Douglas: without unchecking the 'show hidden files'
+[05/31/2007 09:49:01 AM] Robert Douglas: because we would only watnt he .svn folder not visible
+[05/31/2007 09:49:25 AM] b.cullinan@cox.net: i don't think so, because it needs those files, but it might be able to put them it its own database, and not keep them in the filesystem
+[05/31/2007 09:49:36 AM] Robert Douglas: ok, dont worry about that then
+[05/31/2007 09:50:09 AM] Alex Markov: ok. i like it. its a go for me
+[05/31/2007 09:50:12 AM] Robert Douglas: sec, phone
+[05/31/2007 09:53:54 AM] b.cullinan@cox.net: yeah there is no better way to hide the .svn, but most employees are more like end users, the dev teams will already know how to use it, and the end users/general staff isn't going to have "show hidden files" on anyways
+[05/31/2007 09:54:13 AM] b.cullinan@cox.net: it is supposed to be a "feature" of storing the .svn directories like that
+[05/31/2007 09:54:38 AM] Alex Markov: brb 5min phone
+[05/31/2007 09:54:56 AM] b.cullinan@cox.net: there are certain tricks you can do to it, if you have a different client, and Tortoise uses them
+[05/31/2007 09:55:25 AM] b.cullinan@cox.net: for fucks sake, you guys spend half the meeting on the phone and i spend half of it wishing i were in bed
+[05/31/2007 09:55:41 AM] Robert Douglas: lol
+[05/31/2007 09:55:46 AM] Robert Douglas: just got off again
+[05/31/2007 09:55:48 AM] Robert Douglas: after 3 calls
+[05/31/2007 09:56:11 AM] Robert Douglas: brian, can you write up a doc that lists the server requirements for the svn stuff?
+[05/31/2007 09:56:16 AM] b.cullinan@cox.net: you should plan all your phone calls for the day right at the first hour of the meeting, so i can get another hour of sleep
+[05/31/2007 09:56:20 AM] Robert Douglas: like apache 2.0
+[05/31/2007 09:56:27 AM] b.cullinan@cox.net: yes, we don't need apache 2
+[05/31/2007 09:56:29 AM] Robert Douglas: u cant plan incoming calls
+[05/31/2007 09:56:34 AM] b.cullinan@cox.net: since we are using svnserve
+[05/31/2007 09:56:41 AM] Robert Douglas: what about websvn
+[05/31/2007 09:57:05 AM] b.cullinan@cox.net: i think it uses exec output
+[05/31/2007 09:57:14 AM] Robert Douglas: ok
+[05/31/2007 09:57:25 AM] Robert Douglas: i'll have to make suer the script has access to exec
+[05/31/2007 09:57:30 AM] b.cullinan@cox.net: either way we will have to heavily mod it, because it doesn't handle passwords
+[05/31/2007 09:57:34 AM] b.cullinan@cox.net: and its ugly as fuck
+[05/31/2007 09:57:40 AM] b.cullinan@cox.net: and we should use ajax instead
+[05/31/2007 09:57:50 AM] b.cullinan@cox.net: and rewrite websvn ourselves to be hotter
+[05/31/2007 10:00:52 AM] b.cullinan@cox.net: can i go back to bed now?
+[05/31/2007 10:01:37 AM] Robert Douglas: alex is on the phone i think
+[05/31/2007 10:01:41 AM] b.cullinan@cox.net: yeah
+[05/31/2007 10:01:45 AM] b.cullinan@cox.net: what a douche
+[05/31/2007 10:01:45 AM] Robert Douglas: he doesnt need to be here for svn tho
+[05/31/2007 10:02:03 AM] b.cullinan@cox.net: so we already have svnserve installed
+[05/31/2007 10:02:06 AM] b.cullinan@cox.net: on server
+[05/31/2007 10:02:09 AM] Robert Douglas: i still wantt to talk to u about the setup for svn
+[05/31/2007 10:02:15 AM] b.cullinan@cox.net: i just need an account to put the svn under
+[05/31/2007 10:02:31 AM] b.cullinan@cox.net: if you create an account svn, then i can put the websvn under that too
+[05/31/2007 10:02:42 AM] b.cullinan@cox.net: and it will be nice on the filesystem
+[05/31/2007 10:03:42 AM] Robert Douglas: we'll finish the discussion after ur nap about svn
+[05/31/2007 10:03:51 AM] b.cullinan@cox.net: ok
+[05/31/2007 10:06:42 AM] Alex Markov: yo
+[05/31/2007 10:08:27 AM] Alex Markov: everyone download the new rps tempalate
+[05/31/2007 10:08:33 AM] Alex Markov: and give me comments
+[05/31/2007 10:08:34 AM] Alex Markov: now
+[05/31/2007 10:08:37 AM] b.cullinan@cox.net: k
+[05/31/2007 10:08:40 AM] b.cullinan@cox.net: me go sleep?
+[05/31/2007 10:08:48 AM] Alex Markov: brian please wait
+[05/31/2007 10:09:39 AM] b.cullinan@cox.net: k
+[05/31/2007 10:11:20 AM] b.cullinan@cox.net: so whats up alex?
+[05/31/2007 10:11:38 AM] Alex Markov: (Link: http://www.rp-s.com/new-site/concept.html)http://www.rp-s.com/new-site/concept.html
+[05/31/2007 10:11:53 AM] b.cullinan@cox.net: i saw that one
+[05/31/2007 10:12:14 AM] Alex Markov: dam services are still not fully displayed
+[05/31/2007 10:12:28 AM] b.cullinan@cox.net: how so?
+[05/31/2007 10:12:49 AM] Alex Markov: in 1024x768 the services is not fully displayed
+[05/31/2007 10:13:00 AM] Alex Markov: when u log into the site
+[05/31/2007 10:13:03 AM] b.cullinan@cox.net: oh
+[05/31/2007 10:13:15 AM] b.cullinan@cox.net: my resolution is 1920x1200
+[05/31/2007 10:13:18 AM] b.cullinan@cox.net: i didn't notice
+[05/31/2007 10:13:33 AM] b.cullinan@cox.net: so tell that bitch to make it right
+[05/31/2007 10:14:21 AM] b.cullinan@cox.net: put the search over under login and put the services at the top by themselves
+[05/31/2007 10:14:27 AM] Alex Markov: (Link: https://addons.mozilla.org/en-US/firefox/addon/60)https://addons.mozilla.org/en-US/firefox/addon/60
+[05/31/2007 10:14:30 AM] Alex Markov: install that brian
+[05/31/2007 10:14:52 AM] Alex Markov: u can resize the window to make it look ike it would in the 1024x768 resolutions
+[05/31/2007 10:14:54 AM] b.cullinan@cox.net: i have that installed
+[05/31/2007 10:15:47 AM] Alex Markov: i think the search looks good there
+[05/31/2007 10:15:48 AM] Alex Markov: no?
+[05/31/2007 10:16:00 AM] b.cullinan@cox.net: dude we are never going to get all those services on a single page
+[05/31/2007 10:16:01 AM] Alex Markov: problem is on the right side we are gonna have the member login and the sitepal
+[05/31/2007 10:16:05 AM] b.cullinan@cox.net: they will just have to scroll
+[05/31/2007 10:16:06 AM] Alex Markov: so we cant put anything elseon the right
+[05/31/2007 10:16:23 AM] Alex Markov: i want everything visible on one page
+[05/31/2007 10:16:34 AM] Alex Markov: when u enter the site
+[05/31/2007 10:16:37 AM] b.cullinan@cox.net: then get a bigger monitor
+[05/31/2007 10:16:46 AM] Alex Markov: no i can see the whole page without scrolling
+[05/31/2007 10:16:55 AM] Alex Markov: but statistics say that 70% of internet users have the 1024x768
+[05/31/2007 10:17:04 AM] b.cullinan@cox.net: i know
+[05/31/2007 10:17:07 AM] Alex Markov: i want those 70% to have the full view of our services list when logging in
+[05/31/2007 10:17:24 AM] b.cullinan@cox.net: and i am saying that there is no way, there is too many services, we can't get them all in
+[05/31/2007 10:17:40 AM] b.cullinan@cox.net: unless you want to make the services floating and have it cover up the banner
+[05/31/2007 10:17:50 AM] Alex Markov: nono
+[05/31/2007 10:18:18 AM] Alex Markov: i think if we cut the top logo area a little bit
+[05/31/2007 10:18:30 AM] Alex Markov: and if we make the main navigation a little less tall
+[05/31/2007 10:18:30 AM] Alex Markov: and cut the banner a little more we may be able to fit it
+[05/31/2007 10:18:30 AM] Alex Markov: what do u think?
+[05/31/2007 10:19:05 AM] b.cullinan@cox.net: i think there is no way, i have too many toolbars, are you going to discriminate against people with lots of toolbars
+[05/31/2007 10:19:59 AM] b.cullinan@cox.net: either way, my bed is nice and soft and its calling my name
+[05/31/2007 10:20:13 AM] b.cullinan@cox.net: you decide what to do, i think it looks perfect
+[05/31/2007 10:20:29 AM] Alex Markov: ok
+[05/31/2007 10:20:35 AM] b.cullinan@cox.net: you could cut the banner off right more and put the services up next to it
+[05/31/2007 10:20:45 AM] b.cullinan@cox.net: and have it hang down with a white border
+[05/31/2007 10:21:08 AM] b.cullinan@cox.net: then put the search above that or under it but all under the logo in the top left still
+[05/31/2007 10:21:30 AM] b.cullinan@cox.net: thats really the only other option i see
+[05/31/2007 10:21:42 AM] b.cullinan@cox.net: is put the services up next to the banner but still under the logo
+[05/31/2007 10:25:16 AM] Alex Markov: nah that banne needs to go across the whole top
+[05/31/2007 10:25:19 AM] Alex Markov: its rly nice
+[05/31/2007 10:27:58 AM] Alex Markov: ok so hats the final word on svn
+[05/31/2007 10:28:01 AM] Alex Markov: are we doing it
+[05/31/2007 10:28:06 AM] Alex Markov: do we need a little moe research?
+Session Close (Group Conversation 10103): Thu May 31 15:08:42 2007
+
+

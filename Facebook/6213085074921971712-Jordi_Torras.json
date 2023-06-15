@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6213085074921971712/",
+    "participants": [
+        {
+            "name": "Jordi Torras",
+            "title": "Giving users the power to find relevant information online using natural language technology - CEO at Inbenta",
+            "url": "linkedin.com/in/jtorras",
+            "phone": "+1 408 480 2599 (Mobile)",
+            "email": "jtorras@inbenta.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-12-09T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I've often thought about replacing my entire social media presence with an AI chatbot.",
+            "time": "2017-10-22T20:22:00.000Z"
+        },
+        {
+            "from": "Jordi Torras",
+            "message": ":D time to do it now!",
+            "time": "2017-10-22T20:31:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Where do I start?",
+            "time": "2017-10-22T20:31:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Have you heard of Luka?",
+            "time": "2017-10-22T20:34:00.000Z"
+        }
+    ]
+}

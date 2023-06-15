@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6242432312743587840/",
+    "participants": [
+        {
+            "name": "Hayley Perdzock",
+            "title": "Account Manager at TEKsystems",
+            "url": "linkedin.com/in/hayley-perdzock-10703680",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Hayley Perdzock",
+            "time": "2017-02-28T12:00:00.000Z",
+            "message": "TEKsystems - Architect Opportunity!\n\nHi Brian, \n\nI hope you’re having a great week so far! I am sure you get several of these per day, so I will keep it brief. I was hoping to reach you because I specialize within Infrastructure and Security specific opportunities with TEKsystems. I am not sure if you are open to new opportunities at the moment, but I was hoping to speak with you about a position we have available for an Application Security Architect. Our client is based out of Memphis, TN; however, this resource can sit remotely from Phoenix.\n\nLet me know if this is something you're interested in and if there is a time we can connect to discuss in further detail. If anything, maybe you know someone who might be interested. \n\nThanks, and I look forward to hearing back from you soon! \n\nHayley\n\nHayley Perdzock\n901.415.1005 | hperdzoc@teksystems.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-01T04:44:00.000Z",
+            "message": "Thank you for connecting! What company?\n"
+        },
+        {
+            "from": "Hayley Perdzock",
+            "time": "2017-03-06T15:01:00.000Z",
+            "message": "The client only has a call center in your area, all of IT sits in Memphis but they will allow this resource to report there. Let me know if you're interested in discussing.\n"
+        }
+    ]
+}

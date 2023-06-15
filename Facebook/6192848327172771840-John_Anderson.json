@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6192848327172771840/",
+    "participants": [
+        {
+            "name": "John Anderson",
+            "title": "Software Engineer at Facebook",
+            "url": "linkedin.com/in/john-anderson-296ba833",
+            "phone": "4804407736 (Mobile)",
+            "email": "zaren678@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "I can teach Facebook AI morals.",
+            "time": "2016-10-15T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "https://techcrunch.com/2016/11/17/president-obama-on-fake-news-problem-we-wont-know-what-to-fight-for/",
+            "time": "2016-11-19T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "You can't really detect bots can you?",
+            "time": "2017-09-13T23:57:00.000Z"
+        }
+    ]
+}

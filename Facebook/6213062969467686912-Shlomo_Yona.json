@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6213062969467686912/",
+    "participants": [
+        {
+            "name": "Shlomo Yona",
+            "title": "‎Interdisciplinary Applied Algorithmic Research and its productization: Cyber Security,GiS, AdTech,NLP,Medical,IoT",
+            "url": "linkedin.com/in/shlomoyona",
+            "phone": "+972-537-326360 (Mobile)",
+            "email": "shlomo.yona@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-12-09T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "What do you do with NLP?",
+            "time": "2017-11-07T18:54:00.000Z"
+        },
+        {
+            "from": "Shlomo Yona",
+            "message": "Whatever gets the job done",
+            "time": "2017-11-07T18:59:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I can read minds too :D",
+            "time": "2017-11-07T19:52:00.000Z"
+        },
+        {
+            "from": "Shlomo Yona",
+            "message": "I can't",
+            "time": "2017-11-07T20:05:00.000Z"
+        }
+    ]
+}

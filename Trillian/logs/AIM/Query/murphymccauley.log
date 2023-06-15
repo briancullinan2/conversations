@@ -1,0 +1,2555 @@
+﻿Session Start (bjcullinan:Murphy Mccauley): Mon Jan 28 16:17:00 2008
+[01/28/2008 04:17:03 PM] Brian Cullinan: hey
+[01/28/2008 04:17:13 PM] Murphy Mccauley: Yo.
+[01/28/2008 04:17:14 PM] Brian Cullinan: can i have your 3d java code to port over to slag?
+[01/28/2008 04:17:30 PM] Murphy Mccauley: Don't have any 3D Java code.
+[01/28/2008 04:17:44 PM] Murphy Mccauley: (that I can recall, anyway)
+[01/28/2008 04:17:44 PM] Brian Cullinan: oh i thought you wrote a 3d thing for plasma core
+[01/28/2008 04:18:07 PM] Murphy Mccauley: Ehh, I started on a thin wrapper for OpenGL, but didn't finish it.
+[01/28/2008 04:18:17 PM] Brian Cullinan: hmmm
+[01/28/2008 04:18:28 PM] Murphy Mccauley: It operated more on the native C++ side than the Java side anyway.
+[01/28/2008 04:18:30 PM] Brian Cullinan: i want to add 3d to slagcore but i am stuck
+[01/28/2008 04:18:50 PM] Murphy Mccauley: You can't do it from the Slag side.
+[01/28/2008 04:20:08 PM] Brian Cullinan: i know i am trying to write scaling functions to plot 3d points on a 2 dimensional plane
+[01/28/2008 04:20:34 PM] Murphy Mccauley: Ah well, okay, you can do that from the Slag side.
+[01/28/2008 04:21:05 PM] Murphy Mccauley: Nothing like what my 3D Plasmacore stuff worked.
+[01/28/2008 04:21:33 PM] Murphy Mccauley: You could do points and lines, though getting textures to stretch right will be... challenging. :)
+[01/28/2008 04:43:42 PM] Brian Cullinan: i am just working on wire frames
+[01/28/2008 04:43:47 PM] Brian Cullinan: i need an equation
+[01/28/2008 04:44:28 PM] Murphy Mccauley: 1/z ?
+[01/28/2008 04:45:37 PM] Brian Cullinan: i need to plot 2d points (x, z) on a single line (the view) using a viewing angle (90 degrees)
+[01/28/2008 04:45:56 PM] Murphy Mccauley: On a single... plane?
+Session Close (Murphy Mccauley): Mon Jan 28 17:59:28 2008
+
+
+Session Start (bjcullinan:Murphy Mccauley): Sat Feb 02 09:29:22 2008
+[02/02/2008 09:29:39 AM] Brian Cullinan: so is the party on the 29th going to be more pc oriented?
+Session Close (Murphy Mccauley): Sat Feb 02 09:32:54 2008
+
+
+Session Start (bjcullinan:Murphy Mccauley): Sat Feb 02 09:34:49 2008
+[02/02/2008 09:34:49 AM] Murphy Mccauley: I think we're shooting for more or less a clone of the last one.
+[02/02/2008 09:35:04 AM] Murphy Mccauley: There doesn't really seem to be THAT much interest in bringing PCs by the people who come.
+[02/02/2008 09:35:07 AM] Brian Cullinan: so not so much pc gaming?
+[02/02/2008 09:35:12 AM] Murphy Mccauley: So yeah.
+[02/02/2008 09:35:19 AM] Murphy Mccauley: There's usually a couple, at least.
+[02/02/2008 09:35:21 AM] Brian Cullinan: hmmm
+[02/02/2008 09:35:27 AM] Brian Cullinan: bummer
+[02/02/2008 09:35:47 AM] Murphy Mccauley: Did you go last night?  I heard it was Counterstrikesville.
+[02/02/2008 09:36:21 AM] Brian Cullinan: i could probably guarantee 8 people outside the usual CS/other nerds who usually show up group that would come for a real LAN party
+[02/02/2008 09:36:33 AM] Brian Cullinan: there were 7 of us playing counterstrike
+[02/02/2008 09:36:48 AM] Murphy Mccauley: Well, we've always encouraged people to bring them.  It just hasn't really happened, historically. :)
+[02/02/2008 09:36:49 AM] Brian Cullinan: if there were PCs there could have been 15
+[02/02/2008 09:37:18 AM] Murphy Mccauley: I don't think *we* have any real resources for providing PCs.
+[02/02/2008 09:37:32 AM] Brian Cullinan: maybe if we put like BYOB on the flier, or showoff you hardware spec it would get more attention
+[02/02/2008 09:37:49 AM] Murphy Mccauley: Yeah, it's a thought.
+[02/02/2008 09:37:58 AM] Murphy Mccauley: I'd say we still have time.
+[02/02/2008 09:38:07 AM] Brian Cullinan: we should consider it
+[02/02/2008 09:38:28 AM] Murphy Mccauley: Yeah, bring it up if you can make the Tuesday meeting.
+[02/02/2008 09:38:35 AM] Brian Cullinan: we should also consider bringing our own PCs as well
+[02/02/2008 09:38:49 AM] Brian Cullinan: i would like to show off my setup
+[02/02/2008 09:39:06 AM] Murphy Mccauley: The last event ran smoothly enough that some of us could probably actually spare some time for it.  Hah.
+[02/02/2008 09:39:51 AM] Brian Cullinan: which brings me to my next question, i'd enjoy presenting pc hardware
+[02/02/2008 09:40:07 AM] Murphy Mccauley: I think that's probably a better fit with some like... CS/engineering semi-informal type gatherings (like last night).  But I don't see any reason to exclude it from Digital Carnival either.
+[02/02/2008 09:40:33 AM] Brian Cullinan: i mean during an ACM meeting
+[02/02/2008 09:40:45 AM] Murphy Mccauley: Ohhh.
+[02/02/2008 09:40:51 AM] Brian Cullinan: i know you have the next one, but if we run out of topics
+[02/02/2008 09:40:53 AM] Brian Cullinan: i doubt many people spend as much time on newegg as i do
+[02/02/2008 09:41:16 AM] Brian Cullinan: or kind of an open discussion, i love comparing hardware and talking about whats new and cool
+[02/02/2008 09:41:32 AM] Murphy Mccauley: Yeah, definitely bring that up.  I think a fair number of people might be interested in talking hardware.  And, you know... it can be hard to keep up on the latest hardware, so there's probably some value there.
+[02/02/2008 09:42:00 AM] Murphy Mccauley: Is it really the next one?  Hah.  I'd happily give it away. ;)
+[02/02/2008 09:42:13 AM] Brian Cullinan: and since we have a few non cs people showing up now i think, and some of the older mac users *cough travisty *cough have never opened a box before
+[02/02/2008 09:42:25 AM] Murphy Mccauley: I don't have time to prepare much.
+[02/02/2008 09:42:28 AM] Brian Cullinan: yeah it's the next one
+[02/02/2008 09:42:29 AM] Murphy Mccauley: Hahaha
+[02/02/2008 09:42:41 AM] Brian Cullinan: but you tend to do amazing things the night before
+[02/02/2008 09:42:49 AM] Brian Cullinan: it's up to you, don't try too hard
+[02/02/2008 09:43:30 AM] Murphy Mccauley: I am just planning to talk about RISC instruction sets and ideology and the ARM processors specifically a bit.
+[02/02/2008 09:43:44 AM] Brian Cullinan: sounds cool
+[02/02/2008 09:44:03 AM] Murphy Mccauley: Most common microprocessors on the planet, and EE may talk about them, but I don't think CS ever does.
+Session Close (Murphy Mccauley): Sat Feb 02 09:49:47 2008
+
+
+Session Start (bjcullinan:Murphy Mccauley): Sat Feb 02 09:52:17 2008
+[02/02/2008 09:53:26 AM] Brian Cullinan: if we got some attention from the PC gamers, i would have to go all out and bring my server for running game servers, and bring my desktop to play on, and i could bring my laptop as a spare for someone else to use
+[02/02/2008 09:53:56 AM] Brian Cullinan: but i guess i will bring this up that the meeting, i am just speculating out loud
+[02/02/2008 09:54:25 AM] Brian Cullinan: lots of people in ACM have desktops and laptops they could share with other people that want to jump in
+[02/02/2008 09:55:08 AM] Brian Cullinan: set up tables for each desktop laptop combo so we don't have to worry about it disappearing because the owner will be right next to it the whole time
+[02/02/2008 09:57:31 AM] Murphy Mccauley: We'll have to see what the power situation is like at the new location.
+[02/02/2008 09:57:40 AM] Murphy Mccauley: We were really pushing capacity as-is at the old one.
+[02/02/2008 09:58:15 AM] Murphy Mccauley: Indeed, I still think we need to verify there's enough there.
+[02/02/2008 09:58:36 AM] Murphy Mccauley: (at the new one)
+[02/02/2008 10:03:11 AM] Brian Cullinan: yeah i wonder if we can get a breaker map
+[02/02/2008 10:03:44 AM] Brian Cullinan: maybe pull some power from a few different breakers, i know if i brought my setup i draw about 1200 volts all the time
+[02/02/2008 10:03:57 AM] Brian Cullinan: and my condo runs on 1500 volt breakers
+[02/02/2008 10:04:03 AM] Brian Cullinan: kind of funny
+[02/02/2008 10:10:27 AM] Murphy Mccauley: Yeah.  I don't even know how many outlets we've got to work with in there.  Hopefully a lot more than the union!  The ones in the union... I think they were probably all on different circuits, but there are only like three of them.
+[02/02/2008 10:10:32 AM] Murphy Mccauley: A'ight, gotta eat.  TTYL
+Session Close (Murphy Mccauley): Sat Feb 02 10:22:10 2008
+
+
+Session Start (bjcullinan:Murphy Mccauley): Sat Feb 02 21:35:23 2008
+[02/02/2008 09:35:34 PM] Brian Cullinan: mMm alcohol goo0000d
+Session Close (Murphy Mccauley): Sat Feb 02 21:38:19 2008
+
+
+Session Start (bjcullinan:Murphy Mccauley): Mon Feb 04 08:16:02 2008
+[02/04/2008 08:16:07 AM] Brian Cullinan: yay snow day!
+Session Close (Murphy Mccauley): Mon Feb 04 08:16:49 2008
+
+
+Session Start (bjcullinan:Murphy Mccauley): Mon Feb 04 08:35:13 2008
+[02/04/2008 08:35:13 AM] Murphy Mccauley: I know.  My first, I think.
+[02/04/2008 08:35:22 AM] Murphy Mccauley: Too bad I should take the entire day to study.
+Session Close (Murphy Mccauley): Mon Feb 04 10:18:06 2008
+
+
+Session Start (bjcullinan:Murphy Mccauley): Thu Feb 07 20:00:40 2008
+[02/07/2008 08:00:44 PM] Brian Cullinan: want to play Q3?
+[02/07/2008 08:02:26 PM] Murphy Mccauley: Always.
+[02/07/2008 08:02:35 PM] Murphy Mccauley: But calc 2 exam tomorrow is incompatible.
+[02/07/2008 08:02:42 PM] Brian Cullinan: i got a server running on my linux server
+[02/07/2008 08:02:54 PM] Murphy Mccauley: One of the machines in 105 runs Q3 too. :)
+[02/07/2008 08:03:34 PM] Brian Cullinan: ubuntu?
+[02/07/2008 08:03:40 PM] Brian Cullinan: i bought cedega
+[02/07/2008 08:03:57 PM] Murphy Mccauley: Yeah, Ubuntu running ioquake3.
+[02/07/2008 08:04:04 PM] Brian Cullinan: cool
+[02/07/2008 08:04:28 PM] Brian Cullinan: cool
+[02/07/2008 08:04:36 PM] Brian Cullinan: i already said cool
+[02/07/2008 08:04:37 PM] Brian Cullinan: my bad
+[02/07/2008 08:04:57 PM] Murphy Mccauley: haha
+Session Close (Murphy Mccauley): Thu Feb 07 20:07:09 2008
+
+
+Session Start (bjcullinan:Murphy Mccauley): Thu Feb 07 20:16:10 2008
+[02/07/2008 08:16:17 PM] Brian Cullinan: good luck on the test
+[02/07/2008 08:16:30 PM] Brian Cullinan: over prepare for it, math tests are made to trick you
+Session Close (Murphy Mccauley): Thu Feb 07 20:18:56 2008
+
+
+Session Start (bjcullinan:Murphy Mccauley): Thu Feb 07 20:31:26 2008
+[02/07/2008 08:31:26 PM] Murphy Mccauley: haha not sure there's enough time to overprepare. :D
+Session Close (Murphy Mccauley): Thu Feb 07 20:41:23 2008
+
+
+Session Start (bjcullinan:Murphy Mccauley): Sat Feb 09 22:09:26 2008
+[02/09/2008 10:09:37 PM] Brian Cullinan: it's the cdr of date!
+[02/09/2008 10:09:51 PM] Brian Cullinan: of the 10th factorial
+[02/09/2008 10:10:15 PM] Brian Cullinan: nvm
+Session Close (Murphy Mccauley): Sat Feb 09 22:35:14 2008
+
+
+Session Start (bjcullinan:Murphy Mccauley): Sun Feb 10 16:42:51 2008
+[02/10/2008 04:42:56 PM] Brian Cullinan: how did the test go?
+[02/10/2008 04:43:14 PM] Murphy Mccauley: Badly.
+[02/10/2008 04:43:23 PM] Murphy Mccauley: I really need to start putting in some serious time on that stuff.
+[02/10/2008 04:43:37 PM] Brian Cullinan: really? that is a bummer
+[02/10/2008 04:43:50 PM] Brian Cullinan: my first test i got an F on
+[02/10/2008 04:43:54 PM] Murphy Mccauley: Yeah.  I should have studied harder, but I just hate that stuff. :D
+[02/10/2008 04:43:57 PM] Murphy Mccauley: For Calc 2?
+[02/10/2008 04:44:14 PM] Brian Cullinan: and he said "if you get lower then a C on the first test it is unlikely that you will pass this course"
+[02/10/2008 04:44:18 PM] Murphy Mccauley: I am hoping for a D.
+[02/10/2008 04:44:22 PM] Brian Cullinan: yes in calc 2
+[02/10/2008 04:45:04 PM] Brian Cullinan: but i tried just a little bit harder, and i got some tutoring, which i highly recommend to you, go to the math room in the union
+[02/10/2008 04:45:38 PM] Brian Cullinan: and i passed with a C, but had i tried even a little bit harder on the final i could have gotten a B
+[02/10/2008 04:46:55 PM] Murphy Mccauley: Yeah.  I saw a tutor once last week.  I'm gonna need to step it up, though.
+[02/10/2008 04:47:24 PM] Brian Cullinan: i probably went 4 times, and they were increasingly helpful each time
+[02/10/2008 04:49:59 PM] Murphy Mccauley: Well that's good to know.  Did you do scheduled tutoring sessions or the sort of open invite thing?
+[02/10/2008 04:50:47 PM] Brian Cullinan: i did scheduled, the open invite thing in the union is really helpful though too
+Session Close (Murphy Mccauley): Sun Feb 10 17:06:08 2008
+
+
+Session Start (bjcullinan:Murphy Mccauley): Mon Feb 11 14:26:09 2008
+[02/11/2008 02:26:17 PM] Brian Cullinan: kernel 2.17 was hacked
+[02/11/2008 02:26:19 PM] Brian Cullinan: :-(
+Session Close (Murphy Mccauley): Mon Feb 11 14:26:41 2008
+
+
+Session Start (bjcullinan:Murphy Mccauley): Mon Feb 11 14:30:06 2008
+[02/11/2008 02:30:06 PM] Murphy Mccauley: that's old
+[02/11/2008 02:30:16 PM] Murphy Mccauley: !
+[02/11/2008 02:34:11 PM] Brian Cullinan: it was on slashdot today
+[02/11/2008 02:34:16 PM] Brian Cullinan: and it's still not fixed
+[02/11/2008 02:34:19 PM] Brian Cullinan: :-P
+[02/11/2008 02:34:29 PM] Murphy Mccauley: i mean kernel 2.17
+[02/11/2008 02:35:07 PM] Brian Cullinan: i meant 2.6.17 through 2.6.24
+[02/11/2008 02:35:13 PM] Murphy Mccauley: ohhhhh
+[02/11/2008 02:35:18 PM] Murphy Mccauley: i'll have to check it out
+[02/11/2008 02:35:24 PM] Brian Cullinan: it works on my server
+[02/11/2008 02:35:27 PM] Brian Cullinan: i could show you
+[02/11/2008 02:35:32 PM] Murphy Mccauley: cool
+[02/11/2008 02:35:41 PM] Murphy Mccauley: gotta reboot
+[02/11/2008 02:35:53 PM] *** "Murphy Mccauley" signed off at Mon Feb 11 14:35:53 2008.
+Session Close (Murphy Mccauley): Mon Feb 11 14:36:46 2008
+
+
+Session Start (bjcullinan:Murphy Mccauley): Mon Feb 11 19:49:52 2008
+[02/11/2008 07:50:06 PM] Brian Cullinan: i have set up a Urt server and no one to play on it with
+Session Close (Murphy Mccauley): Mon Feb 11 19:52:39 2008
+
+
+Session Start (bjcullinan:Murphy Mccauley): Tue Feb 12 23:24:55 2008
+[02/12/2008 11:25:03 PM] Brian Cullinan: my does quake 3 use a virtual machine?
+[02/12/2008 11:25:14 PM] Murphy McCauley: ?
+[02/12/2008 11:25:19 PM] Brian Cullinan: *why?
+[02/12/2008 11:25:21 PM] Brian Cullinan: sry
+[02/12/2008 11:25:43 PM] Brian Cullinan: richard and you had a discussion about it but he couldn't remember why to tell us.
+[02/12/2008 11:26:34 PM] Murphy McCauley: Platform independence and for safety.  Unlike Quake 2, Quake 3 supports autodownloading of mods.  So if it used native code, you could just write a mod with malicious code in it, start up a server, and everyone would just automatically download and run it.
+[02/12/2008 11:26:54 PM] Murphy McCauley: In the virtual machine, you are relatively insulated -- mods are always relatively safe.
+[02/12/2008 11:27:12 PM] Brian Cullinan: sweet
+[02/12/2008 11:27:16 PM] Murphy McCauley: The platform independence is also largely a mod issue.  The same mod will run on Linux, MacOS, Windows...
+[02/12/2008 11:27:27 PM] Brian Cullinan: yeah
+[02/12/2008 11:27:48 PM] Brian Cullinan: does the new id Tech 4 and 5 use it?
+[02/12/2008 11:27:58 PM] Brian Cullinan: i would imagine so since they run on all platforms
+[02/12/2008 11:28:19 PM] Murphy McCauley: Tech 4 is the D3 engine, yes?
+[02/12/2008 11:28:24 PM] Brian Cullinan: yes
+[02/12/2008 11:28:29 PM] Brian Cullinan: it is really hot
+[02/12/2008 11:28:30 PM] Murphy McCauley: No. :(  They dropped it again.
+[02/12/2008 11:28:39 PM] Brian Cullinan: aww shame
+[02/12/2008 11:29:00 PM] Brian Cullinan: any reason why?
+[02/12/2008 11:30:31 PM] Brian Cullinan: mega texture is amazing
+[02/12/2008 11:30:47 PM] Brian Cullinan: i should implement it in slag
+[02/12/2008 11:30:52 PM] Murphy McCauley: Quake engine had "Quake C" which was a scripting language.  So it was equivalent -- safe and platform independent.  But it had some performance and flexibility problems.  So in Quake 2, they got rid of it.  I think they intended to replace it but just didn't have time.  Quake 3, they rectified the situation with the new VM.
+[02/12/2008 11:31:13 PM] Murphy McCauley: D3 engine was originally just going to be a new renderer on top of the Q3 engine, basically, so it was going to retain the VM and stuff.
+[02/12/2008 11:31:34 PM] Brian Cullinan: but there are vast improvments
+[02/12/2008 11:31:35 PM] Murphy McCauley: Buuut... then they ended up rewriting a lot of it because they decided they should go to C++ instead of straight C.
+[02/12/2008 11:31:46 PM] Brian Cullinan: maybe id tech 5 will have it?
+[02/12/2008 11:31:58 PM] Murphy McCauley: The compiler used by the Q3 VM was a C compiler only -- no C++. 
+[02/12/2008 11:32:11 PM] Brian Cullinan: yeah
+[02/12/2008 11:32:35 PM] Murphy McCauley: So... no easy way to take the old VM technology to D3 with C++.  So they just scrapped it.
+[02/12/2008 11:32:50 PM] Murphy McCauley: So yeah, I don't know about Tech 5.
+[02/12/2008 11:33:07 PM] Brian Cullinan: i wish Rage would come out sooner
+[02/12/2008 11:33:16 PM] Brian Cullinan: it sounds hot
+[02/12/2008 11:33:20 PM] Brian Cullinan: and i love id games
+[02/12/2008 11:34:10 PM] Murphy McCauley: The C++ issue is tough.  There aren't that many C++ compilers, and most of them cost a fortune to license.  There's GCC, but its internals don't map well to the design of the previous Quake VM.  So they'd have to design and implement an entirely new VM based around running code that GCC can generate.  Ugly business.
+[02/12/2008 11:34:57 PM] Murphy McCauley: There are also issues with mapping between the engine's internal structures (mostly in the renderer) and structures in the "game" code (the mod stuff that ran in the VM).
+[02/12/2008 11:35:28 PM] Murphy McCauley: I don't see id just going totally high-level on it (i.e. using python or Java or something for the "game" code).
+[02/12/2008 11:35:46 PM] Murphy McCauley: So I'm skeptical of any sort of VM type technology in Tech 5. :(
+[02/12/2008 11:35:50 PM] Murphy McCauley: Though I'd love to be wrong.
+Session Close (Murphy McCauley): Tue Feb 12 23:49:35 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Wed Feb 13 23:54:20 2008
+[02/13/2008 11:54:32 PM] Brian Cullinan: omg i have an amazing game ACM should play
+Session Close (Murphy McCauley): Wed Feb 13 23:58:30 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Feb 14 08:44:30 2008
+[02/14/2008 08:44:36 AM] Brian Cullinan: ahahaha i am a genius
+[02/14/2008 08:45:08 AM] Brian Cullinan: if we do one of those games where you rotate and image 45 degrees to show "depth
+[02/14/2008 08:45:17 AM] Brian Cullinan: " i am totally making an area 51 clone
+[02/14/2008 08:45:58 AM] Brian Cullinan: i love that game when i go to the arcade, i could even redo the graphics if it will get it into the arcade cabinet 
+Session Close (Murphy McCauley): Thu Feb 14 08:46:38 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Feb 14 22:11:50 2008
+[02/14/2008 10:11:52 PM] Brian Cullinan: (Link: http://209.250.30.30/phgstats/)http://209.250.30.30/phgstats/
+Session Close (Murphy McCauley): Thu Feb 14 22:12:06 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Feb 14 22:29:42 2008
+[02/14/2008 10:29:42 PM] Murphy McCauley: I think you need QuakeWorld in there. ;)
+[02/14/2008 10:29:52 PM] Brian Cullinan: quake world?
+[02/14/2008 10:30:09 PM] Murphy McCauley: Yeah.  The original Quake's internet version.
+[02/14/2008 10:30:25 PM] Murphy McCauley: (the original Quake was sort LAN-only -- QuakeWorld was when they started doing internet play)
+[02/14/2008 10:30:33 PM] Brian Cullinan: oh yes
+[02/14/2008 10:30:37 PM] Brian Cullinan: i don't have a port
+[02/14/2008 10:30:47 PM] Brian Cullinan: i will then need to round up to running 10 servers
+[02/14/2008 10:31:07 PM] Murphy McCauley: It's running Linux right?
+[02/14/2008 10:31:13 PM] Brian Cullinan: yes
+Session Close (Murphy McCauley): Thu Feb 14 22:33:17 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Feb 14 22:33:29 2008
+[02/14/2008 10:33:29 PM] Murphy McCauley: The original QuakeWorld dedicated server should still run.
+[02/14/2008 10:33:45 PM] Murphy McCauley: I run an engine mod called DarkPlaces, which PROBABLY has a dedicated server mode.
+[02/14/2008 10:34:04 PM] Murphy McCauley: (I always just run it as a client, so I'm not sure.  But I know there are Linux builds.)
+[02/14/2008 10:34:39 PM] Brian Cullinan: i don't understand why it doesn't work externally
+[02/14/2008 10:34:53 PM] Murphy McCauley: ?
+[02/14/2008 10:34:59 PM] Brian Cullinan: (Link: http://209.250.30.30/phgstats/index.php)http://209.250.30.30/phgstats/index.php(Link: http://209.250.30.30/phgstats/index.php)
+[02/14/2008 10:35:35 PM] Murphy McCauley: The "No Response" biz?
+[02/14/2008 10:35:40 PM] Brian Cullinan: yes
+[02/14/2008 10:35:45 PM] Murphy McCauley: It worked earlier!
+[02/14/2008 10:35:45 PM] Brian Cullinan: same with all seeing eye
+[02/14/2008 10:35:51 PM] Brian Cullinan: it doesn't detect it is working
+[02/14/2008 10:35:55 PM] Brian Cullinan: that was local
+[02/14/2008 10:36:08 PM] Brian Cullinan: i want to put the external IP on it to get a more accurate ping
+[02/14/2008 10:36:36 PM] Murphy McCauley: So...
+[02/14/2008 10:36:41 PM] Murphy McCauley: Are they on two different machines?
+[02/14/2008 10:36:43 PM] Brian Cullinan: and in response to what you were saying, i am running wine servers and they are working pretty nice
+[02/14/2008 10:36:48 PM] Brian Cullinan: no
+[02/14/2008 10:36:53 PM] Murphy McCauley: Same machine?
+[02/14/2008 10:36:56 PM] Murphy McCauley: You behind a NAT?
+[02/14/2008 10:37:07 PM] Brian Cullinan: no
+[02/14/2008 10:37:50 PM] Brian Cullinan: for some reason it is registered with the master servers on a different port
+[02/14/2008 10:37:58 PM] Brian Cullinan: and all seeing eye thinks it doesn't exist
+[02/14/2008 10:38:13 PM] Murphy McCauley: Which port is Q3 on?
+[02/14/2008 10:39:13 PM] Brian Cullinan: 62960
+[02/14/2008 10:39:19 PM] Brian Cullinan: using net_port option
+[02/14/2008 10:39:34 PM] Brian Cullinan: is there also a port option that needs to be used?
+[02/14/2008 10:39:41 PM] Brian Cullinan: because it connect just fine
+[02/14/2008 10:39:45 PM] Brian Cullinan: *connects
+[02/14/2008 10:39:51 PM] Murphy McCauley: Not from here it doesn't. :)
+[02/14/2008 10:40:26 PM] Brian Cullinan: 209.250.30.30:62960?
+[02/14/2008 10:40:39 PM] Murphy McCauley: Yup
+[02/14/2008 10:40:47 PM] Brian Cullinan: do you have urban terror?
+[02/14/2008 10:40:55 PM] Brian Cullinan: try 209.250.30.30:62961
+[02/14/2008 10:41:17 PM] Murphy McCauley: Nope.  But I think I should be able to rcon to it anyway, and I get nothing.
+[02/14/2008 10:42:03 PM] Brian Cullinan: i am connected to it now
+[02/14/2008 10:42:30 PM] Murphy McCauley: But you're on the same side of the internet as it is, yes?
+[02/14/2008 10:42:38 PM] Brian Cullinan: yeah
+[02/14/2008 10:43:27 PM] Murphy McCauley: And that machine is directly on the internet?
+[02/14/2008 10:43:35 PM] Brian Cullinan: i am using set net_port 62961
+[02/14/2008 10:43:38 PM] Brian Cullinan: yes
+[02/14/2008 10:43:45 PM] Brian Cullinan: ports are forwarded and everything
+[02/14/2008 10:44:11 PM] Murphy McCauley: Are you setting net_ip?
+[02/14/2008 10:44:17 PM] Brian Cullinan: no
+[02/14/2008 10:44:41 PM] Brian Cullinan: should it be the LAN ip or public IP?
+[02/14/2008 10:44:49 PM] Murphy McCauley: public.
+[02/14/2008 10:48:19 PM] Brian Cullinan: now it doesn't work at all
+[02/14/2008 10:48:26 PM] Murphy McCauley: Well, wait a second here.
+[02/14/2008 10:48:32 PM] Murphy McCauley: I think you're on on crack.
+[02/14/2008 10:48:37 PM] Murphy McCauley: Ports are forwarded?
+[02/14/2008 10:48:48 PM] Murphy McCauley: How is that machine hooked up to the internet?
+[02/14/2008 10:49:13 PM] Brian Cullinan: it is hooked up to my router
+[02/14/2008 10:49:21 PM] Brian Cullinan: which is hooked up to the modem
+[02/14/2008 10:49:24 PM] Murphy McCauley: And how many internet IP addresses do you have?
+[02/14/2008 10:49:31 PM] Brian Cullinan: 1
+[02/14/2008 10:49:33 PM] Murphy McCauley: Right.
+[02/14/2008 10:49:41 PM] Murphy McCauley: So you ARE behind a NAT, and that machine is NOT directly on the internet.
+[02/14/2008 10:49:50 PM] Brian Cullinan: yeah i guess so
+[02/14/2008 10:49:51 PM] Murphy McCauley: It's on a LAN which is having addresses translated by your router.
+[02/14/2008 10:49:57 PM] Brian Cullinan: yes
+[02/14/2008 10:50:03 PM] Brian Cullinan: i don't know what a NAT is
+[02/14/2008 10:50:13 PM] Murphy McCauley: Network Address Translation
+[02/14/2008 10:50:54 PM] Murphy McCauley: It's trickery by which you can have one outside *internet* address which is magically mapped to multiple addresses on a LAN.  And vice-versa.
+[02/14/2008 10:51:07 PM] Brian Cullinan: try connecting to it again
+[02/14/2008 10:51:13 PM] Brian Cullinan: 209.250.30.30:62961
+[02/14/2008 10:51:37 PM] Murphy McCauley: That looks like it's working, though I can't get on because I don't have punkbuster. :)
+[02/14/2008 10:51:42 PM] Brian Cullinan: oh
+[02/14/2008 10:54:45 PM] Brian Cullinan: looks like the game stats works
+[02/14/2008 10:54:48 PM] Brian Cullinan: (Link: http://209.250.30.30/phgstats/index.php)http://209.250.30.30/phgstats/index.php
+[02/14/2008 10:55:08 PM] Brian Cullinan: but now i fear it is not registering with the master servers properly
+[02/14/2008 10:56:07 PM] Murphy McCauley: Yeah well the Quake 3s are showing up.
+[02/14/2008 10:56:22 PM] Murphy McCauley: I can't remember what the deal with master servers was.  There was always something annoying.
+[02/14/2008 10:56:31 PM] Murphy McCauley: Was it registering with them correctly before?
+[02/14/2008 10:56:37 PM] Brian Cullinan: yes, i set the net_ip to 192.168.1.102
+[02/14/2008 10:56:51 PM] Brian Cullinan: and the game stats works
+[02/14/2008 10:57:01 PM] Brian Cullinan: and you can connect
+[02/14/2008 10:57:13 PM] Brian Cullinan: but it is missing from my list from the master servers
+[02/14/2008 10:59:32 PM] Murphy McCauley: are you setting dedicated to 2?
+[02/14/2008 10:59:35 PM] Brian Cullinan: wait nvm may just be a all seeing eye flaw
+[02/14/2008 10:59:38 PM] Brian Cullinan: yes
+[02/14/2008 11:11:27 PM] Brian Cullinan: seems to all be working now
+Session Close (Murphy McCauley): Thu Feb 14 23:13:53 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Feb 14 23:14:07 2008
+[02/14/2008 11:14:12 PM] Brian Cullinan: pretty cool script
+[02/14/2008 11:14:20 PM] Brian Cullinan: it does a php socket connect to each server
+[02/14/2008 11:14:37 PM] Brian Cullinan: i want to figure out how to make it do more
+[02/14/2008 11:15:25 PM] Murphy McCauley: So do you see any difference in the ping times now that you've specified the external address?
+[02/14/2008 11:16:30 PM] Brian Cullinan: the script does work with external address
+[02/14/2008 11:16:37 PM] Brian Cullinan: there must be a timeout time set too low
+[02/14/2008 11:16:52 PM] Murphy McCauley: Was that supposed to be "does not"?
+[02/14/2008 11:17:01 PM] Brian Cullinan: yes
+[02/14/2008 11:17:32 PM] Murphy McCauley: If you fire up Quake and try to connect using the external IP, does it work?
+[02/14/2008 11:17:38 PM] Brian Cullinan: yes
+[02/14/2008 11:17:43 PM] Murphy McCauley: That's unusual.
+[02/14/2008 11:18:26 PM] Brian Cullinan: i think it is because it takes a few seconds too long to connect externally
+[02/14/2008 11:18:46 PM] Murphy McCauley: Most routers won't route traffic like that.  They'll see an internet address and will never try to loop it back like that.
+[02/14/2008 11:19:28 PM] Murphy McCauley: The truth is that it wouldn't get you more accurate ping times anyway.
+[02/14/2008 11:19:42 PM] Brian Cullinan: yeah
+[02/14/2008 11:19:47 PM] Brian Cullinan: i guess not
+[02/14/2008 11:20:10 PM] Murphy McCauley: It's like walking to your own house.  From your own house.
+[02/14/2008 11:20:23 PM] Murphy McCauley: Not quite the same as walking to your house from a neighbor's. :)
+[02/14/2008 11:21:05 PM] Brian Cullinan: it is still good exercise
+[02/14/2008 11:21:24 PM] Murphy McCauley: Yeah.
+[02/14/2008 11:21:34 PM] Murphy McCauley: But for most routers...
+[02/14/2008 11:21:52 PM] Murphy McCauley: If you're on the LAN side, requests for the internet side go nowhere.
+[02/14/2008 11:24:34 PM] Brian Cullinan: yeah
+[02/14/2008 11:25:16 PM] Brian Cullinan: now to figure out how to pass commands to the server
+[02/14/2008 11:25:25 PM] Brian Cullinan: so i can create an entire control panel online
+[02/14/2008 11:25:37 PM] Murphy McCauley: It's not that hard.
+[02/14/2008 11:25:53 PM] Murphy McCauley: I think I did it in Python.
+[02/14/2008 11:25:58 PM] Murphy McCauley: It might have been PHP.
+[02/14/2008 11:26:13 PM] Brian Cullinan: yeah i want to integrate it into their API
+[02/14/2008 11:27:14 PM] Murphy McCauley: You might find it useful to google "RCON protocol".
+[02/14/2008 11:27:20 PM] Murphy McCauley: RCON = remote console
+[02/14/2008 11:27:26 PM] Brian Cullinan: yes i know
+[02/14/2008 11:27:34 PM] Murphy McCauley: Okay. :)
+[02/14/2008 11:27:52 PM] Brian Cullinan: it seems like these classes for each game already have that capability
+[02/14/2008 11:28:01 PM] Brian Cullinan: and they are just querying commands that don't need a password
+[02/14/2008 11:30:08 PM] Brian Cullinan: maybe not
+[02/14/2008 11:33:27 PM] Murphy McCauley: ah, I think that'd make sense.
+[02/14/2008 11:42:06 PM] Brian Cullinan: looks like i got it down
+Session Close (Murphy McCauley): Fri Feb 15 00:12:08 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Sun Feb 17 22:25:01 2008
+[02/17/2008 10:25:05 PM] Brian Cullinan: question
+[02/17/2008 10:40:54 PM] Brian Cullinan: nvm figured it out
+Session Close (Murphy McCauley): Sun Feb 17 22:40:54 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Wed Feb 20 12:34:14 2008
+[02/20/2008 12:34:30 PM] Brian Cullinan: good thing you came back to the engineering building last night
+[02/20/2008 12:36:05 PM] Murphy McCauley: haha why?
+[02/20/2008 12:36:15 PM] Murphy McCauley: we couldn't get another drive after all
+[02/20/2008 12:36:58 PM] Brian Cullinan: you need one with security something right?
+[02/20/2008 12:37:13 PM] Brian Cullinan: i might be able to dig one up, how big does it have to be?
+[02/20/2008 12:37:23 PM] Murphy McCauley: yeah.  though I am now suspecting that isn't the problem after all.
+[02/20/2008 12:37:47 PM] Murphy McCauley: 100-120GB is great.  Up to 200 is fine, I'd say.
+[02/20/2008 12:38:18 PM] Brian Cullinan: i have another friend that does software mods, maybe you could get a second opinion or pick each others brains
+[02/20/2008 12:38:24 PM] Brian Cullinan: i think he does it differently then you
+[02/20/2008 12:39:04 PM] Brian Cullinan: should i get in touch with him/
+[02/20/2008 12:39:06 PM] Brian Cullinan: ?
+[02/20/2008 12:42:18 PM] Murphy McCauley: Are you in 105?  I'm going to be back in like 15 mins.
+[02/20/2008 12:42:40 PM] Brian Cullinan: i will be in 105
+[02/20/2008 12:42:43 PM] Murphy McCauley: cool
+[02/20/2008 12:42:46 PM] Brian Cullinan: in 15 minutes
+Session Close (Murphy McCauley): Wed Feb 20 13:22:58 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Feb 21 10:32:17 2008
+[02/21/2008 10:32:30 AM] Brian Cullinan: so that's what an azn dining room looks like
+Session Close (Murphy McCauley): Thu Feb 21 10:33:23 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Sun Feb 24 21:23:43 2008
+[02/24/2008 09:23:51 PM] Brian Cullinan: i finally got my view controller working perfectly
+Session Close (Murphy McCauley): Sun Feb 24 21:37:00 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Mon Feb 25 21:48:40 2008
+[02/25/2008 09:48:50 PM] Brian Cullinan: i remember seeing the quake 3 video for the first time
+[02/25/2008 09:48:54 PM] Brian Cullinan: back in 98
+[02/25/2008 09:49:00 PM] Brian Cullinan: i almost skeeted myself
+Session Close (Murphy McCauley): Mon Feb 25 22:07:27 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Sat Mar 01 18:45:01 2008
+[03/01/2008 06:45:18 PM] Brian Cullinan: do you guys still need a floppy drive for a computer in the acm room?
+Session Close (Murphy McCauley): Sat Mar 01 18:55:23 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Wed Mar 26 00:24:26 2008
+[03/26/2008 12:24:33 AM] Brian Cullinan: dude i dominated the scheme project today
+[03/26/2008 12:25:09 AM] Brian Cullinan: i fracking started today and i'm almost done ++ some, we are doing the objects in scheme project
+[03/26/2008 12:25:33 AM] Brian Cullinan: and i added a static section and finished all the requirements
+Session Close (Murphy McCauley): Wed Mar 26 00:41:48 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Wed Mar 26 11:27:11 2008
+[03/26/2008 11:27:11 AM] Murphy McCauley: haha awesome
+[03/26/2008 11:27:23 AM] Murphy McCauley: that was a cool assignment
+[03/26/2008 11:43:28 AM] Brian Cullinan: yeah i rox
+Session Close (Murphy McCauley): Wed Mar 26 11:59:09 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Wed Apr 02 19:49:02 2008
+[04/02/2008 07:49:04 PM] Brian Cullinan: (Link: http://au2.php.net/manual/en/function.w32api-invoke-function.php)http://au2.php.net/manual/en/function.w32api-invoke-function.php
+[04/02/2008 07:49:08 PM] Brian Cullinan: ridiculous
+[04/02/2008 07:50:10 PM] Murphy McCauley: >Shrug<  There are more general, cross-platform solutions.  But yeah.
+[04/02/2008 07:51:10 PM] Murphy McCauley: Calling API functions is always good. :)
+[04/02/2008 07:51:34 PM] Brian Cullinan: i think php just replaced vb as my favorite language
+[04/02/2008 07:52:56 PM] Murphy McCauley: It's a shame it gets so much love and is so useful, since it's such a badly designed and poorly implemented mess!
+[04/02/2008 08:00:19 PM] Brian Cullinan: did php have classes initially, they make things so much prettier
+[04/02/2008 08:00:38 PM] Murphy McCauley: 4 did, at least.  I think they go back to at least 3.
+[04/02/2008 08:00:42 PM] Murphy McCauley: But they sucked until 5.
+[04/02/2008 08:00:44 PM] Brian Cullinan: some of the functionality should be abstracted away, eventually they are going to run out of names in the global scope
+[04/02/2008 08:00:52 PM] Murphy McCauley: haha, seriously.
+[04/02/2008 08:01:19 PM] Brian Cullinan: they will just keep adding underscores and words to function names
+[04/02/2008 08:01:32 PM] Brian Cullinan: thats why i love PEAR so much
+[04/02/2008 08:01:39 PM] Brian Cullinan: it is absolutely beautiful code
+[04/02/2008 08:02:09 PM] Brian Cullinan: i haven't come across a library in pear yet that i didn't immediately understand
+[04/02/2008 08:02:37 PM] Murphy McCauley: Yeah, it's cool that they've really made that a big priority.
+[04/02/2008 08:02:51 PM] Murphy McCauley: Rather than so many similar projects which will take whatever code they can get.
+[04/02/2008 08:03:15 PM] Brian Cullinan: i try to follow their conventions whenever i can
+Session Close (Murphy McCauley): Wed Apr 02 20:05:02 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Apr 10 11:47:48 2008
+[04/10/2008 11:47:59 AM] Brian Cullinan: What language did you implement scheme in?
+[04/10/2008 11:48:43 AM] Murphy McCauley: Java
+[04/10/2008 11:54:34 AM] Brian Cullinan: i think i am going to make an object PHP for my compilers class
+[04/10/2008 11:55:08 AM] Brian Cullinan: *objective
+[04/10/2008 11:55:20 AM] Murphy McCauley: I was just asking what you meant.
+[04/10/2008 11:55:25 AM] Murphy McCauley: objective PHP?
+[04/10/2008 12:12:27 PM] Brian Cullinan: like objective c where everything is an object
+[04/10/2008 12:12:52 PM] Murphy McCauley: Not everything in Objective C is an object!
+[04/10/2008 12:12:53 PM] Brian Cullinan: i would place all the current functionality of PHP into objects, then expand on that with libraries
+[04/10/2008 12:13:05 PM] Brian Cullinan: Leah presented on it
+[04/10/2008 12:13:07 PM] Brian Cullinan: she lies
+[04/10/2008 12:16:06 PM] Murphy McCauley: Now Smalltalk... now there's an object oriented language.
+[04/10/2008 12:16:31 PM] Murphy McCauley: So are you basically talking about just taking existing PHP functionality and building it into a class library?
+[04/10/2008 12:16:32 PM] Brian Cullinan: yeah she said objective C is just like smalltalk
+[04/10/2008 12:16:47 PM] Brian Cullinan: yeah, i would restructure the syntax a little bit
+[04/10/2008 12:17:04 PM] Brian Cullinan: maybe add some explicit parameter passing
+[04/10/2008 12:19:05 PM] Murphy McCauley: Objective C was sort of inspired by Smalltalk, and its dispatch system more closely resembles that of Smalltalk than, say, Java or C++.
+[04/10/2008 12:19:12 PM] Murphy McCauley: But it's basically C with a coat of paint.
+[04/10/2008 12:20:02 PM] Brian Cullinan: PHP can do parameter passing in pass-by-value or pass-by-reference right?
+[04/10/2008 12:20:08 PM] Brian Cullinan: with the use of the & symbol?
+[04/10/2008 12:20:18 PM] Murphy McCauley: Yeah.
+[04/10/2008 12:20:31 PM] Murphy McCauley: That they finally made that work sanely was one of the biggest improvements in PHP 5.
+[04/10/2008 12:26:09 PM] Brian Cullinan: pretty sweet
+Session Close (Murphy McCauley): Thu Apr 10 12:35:01 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Apr 10 14:36:00 2008
+[04/10/2008 02:36:14 PM] Brian Cullinan: I decided if java is like a fat chick
+[04/10/2008 02:36:24 PM] Brian Cullinan: then C# is like a fat chick with eye liner
+[04/10/2008 02:36:42 PM] Brian Cullinan: have you looked at Microsoft Singularity project?
+Session Close (Murphy McCauley): Thu Apr 10 14:42:33 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Apr 10 18:26:42 2008
+[04/10/2008 06:26:42 PM] Murphy McCauley: Yeah.  I didn't realized they'd "released" it now.
+Session Close (Murphy McCauley): Thu Apr 10 19:06:50 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Fri Apr 11 01:04:54 2008
+[04/11/2008 01:05:07 AM] Brian Cullinan: Hey i would totally love to have you over for drinks and BSG tomorrow
+[04/11/2008 01:10:54 AM] *** You have been disconnected. Fri Apr 11 01:10:53 2008.
+[04/11/2008 01:12:43 AM] *** "Murphy McCauley" signed on at Fri Apr 11 01:12:43 2008.
+[04/11/2008 01:25:25 AM] *** You have been disconnected. Fri Apr 11 01:25:25 2008.
+[04/11/2008 01:27:26 AM] *** "Murphy McCauley" signed on at Fri Apr 11 01:27:26 2008.
+Session Close (Murphy McCauley): Fri Apr 11 01:49:14 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Fri Apr 11 15:40:07 2008
+[04/11/2008 03:40:07 PM] Murphy McCauley: Thanks.  I'll probably be working on the OSes project or sleeping tonight, though. :)
+[04/11/2008 03:40:16 PM] Murphy McCauley: What calc is your OSes project for again?  Is it the 85?
+[04/11/2008 03:41:16 PM] Brian Cullinan: 83 and 84
+[04/11/2008 03:41:54 PM] Murphy McCauley: oh really?  Hmm, okay.
+[04/11/2008 03:42:29 PM] Brian Cullinan: BSG is awesome
+[04/11/2008 03:42:41 PM] Brian Cullinan: you should totally take a break from OS and come watch it with us
+[04/11/2008 03:42:46 PM] Brian Cullinan: all the cool kids are gonna be there
+[04/11/2008 03:43:01 PM] Murphy McCauley: I thought a lot of last season kind of sucked, but the new one was good.
+[04/11/2008 03:44:51 PM] Brian Cullinan: yeah it was
+Session Close (Murphy McCauley): Fri Apr 11 16:16:48 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Sat Apr 12 16:16:39 2008
+[04/12/2008 04:17:00 PM] Brian Cullinan: Is Soul Caliber 3 out, and is it any good?
+Session Close (Murphy McCauley): Sat Apr 12 16:38:23 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Sat Apr 12 20:25:15 2008
+[04/12/2008 08:25:15 PM] Murphy McCauley: Yeah, been out forever.  PS2 only.  Mostly sucks.
+[04/12/2008 08:25:24 PM] Murphy McCauley: SC 4 comes out this summer.
+[04/12/2008 08:26:09 PM] Brian Cullinan: ah it was 4 i was thinking of
+[04/12/2008 08:26:12 PM] Brian Cullinan: with darth vader
+[04/12/2008 08:26:13 PM] Brian Cullinan: and ydo
+[04/12/2008 08:26:15 PM] Brian Cullinan: yoda
+[04/12/2008 08:26:16 PM] Murphy McCauley: yeha
+[04/12/2008 08:26:28 PM] Brian Cullinan: cool, i am getting it
+Session Close (Murphy McCauley): Sat Apr 12 20:26:28 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Sat Apr 12 20:32:03 2008
+[04/12/2008 08:32:03 PM] Murphy McCauley: Yeah, I really hope it's good.  No doubt it'll be pretty. But I hope the gameplay is good.  I think SC3 was sort of a step backwards.
+[04/12/2008 08:34:35 PM] Brian Cullinan: something is fraked up with my file server
+[04/12/2008 08:34:39 PM] Brian Cullinan: it is driving me nuts
+[04/12/2008 08:38:44 PM] Murphy McCauley: What kind of file server?
+[04/12/2008 08:39:42 PM] Brian Cullinan: It's acting like windows, if i reboot it works ok for a while.
+[04/12/2008 08:40:00 PM] Brian Cullinan: (Link: http://209.250.30.30/Share/Music/)http://209.250.30.30/Share/Music/(Link: http://209.250.30.30/Share/Music/)
+[04/12/2008 08:40:11 PM] Brian Cullinan: you can replace music with Pictures, Video, or DVD
+[04/12/2008 08:41:19 PM] Brian Cullinan: *Videos
+[04/12/2008 08:41:27 PM] Brian Cullinan: that kind of file server
+[04/12/2008 08:42:05 PM] Murphy McCauley: I was wondering what protocol.  So http, I guess.  :)
+[04/12/2008 08:42:16 PM] Brian Cullinan: and ftp
+[04/12/2008 08:42:22 PM] Brian Cullinan: and upnp
+[04/12/2008 08:42:31 PM] Brian Cullinan: and vlc support
+[04/12/2008 08:42:57 PM] Brian Cullinan: and smb
+[04/12/2008 08:43:11 PM] Murphy McCauley: hhehe cool
+[04/12/2008 08:43:25 PM] Brian Cullinan: i have to be able to access it on any medium
+[04/12/2008 08:43:27 PM] Murphy McCauley: You use the VideoLan server?
+[04/12/2008 08:43:33 PM] Brian Cullinan: yes
+[04/12/2008 08:43:37 PM] Brian Cullinan: it's amazing
+[04/12/2008 08:43:47 PM] Brian Cullinan: i can turn it on if you want to watch something
+[04/12/2008 08:43:48 PM] Murphy McCauley: I know.  That's such a great project.
+[04/12/2008 08:44:38 PM] Murphy McCauley: Hah, thanks.  That's what I need -- more distractions. ;)
+[04/12/2008 08:45:19 PM] Brian Cullinan: yeah i know what you mean
+Session Close (Murphy McCauley): Sat Apr 12 20:47:51 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Tue Apr 22 08:39:33 2008
+[04/22/2008 08:39:45 AM] Brian Cullinan: dude programming in assembly is awesome!
+Session Close (Murphy McCauley): Tue Apr 22 08:40:53 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Mon Apr 28 04:06:10 2008
+[04/28/2008 04:06:21 AM] Brian Cullinan: i think i dominated another scheme project
+[04/28/2008 04:07:13 AM] Brian Cullinan: maybe i could implement scheme in php, then they could call me minimurph, since you are a legend
+Session Close (Murphy McCauley): Mon Apr 28 04:11:16 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Mon Apr 28 08:57:06 2008
+[04/28/2008 08:57:06 AM] Murphy McCauley: Plan ahead for implementing quasiquote and continuations.  Those are the big exceptions to the rules.
+[04/28/2008 08:57:23 AM] Murphy McCauley: And maaaybe multiple return values.
+[04/28/2008 08:57:24 AM] Brian Cullinan: hmmm
+[04/28/2008 08:57:39 AM] Murphy McCauley: I'm off.  TTYL.
+[04/28/2008 08:57:47 AM] Brian Cullinan: see ya
+Session Close (Murphy McCauley): Mon Apr 28 08:57:47 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Mon Apr 28 18:54:44 2008
+Session Close (Murphy McCauley): Mon Apr 28 18:54:52 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Tue Aug 26 00:15:45 2008
+[08/26/2008 12:15:51 AM] Brian Cullinan: are we in chem together?
+[08/26/2008 12:15:55 AM] Brian Cullinan: 161
+[08/26/2008 12:15:58 AM] Brian Cullinan: what time?
+[08/26/2008 12:16:26 AM] Brian Cullinan: i have it MWF 9-10 AM
+[08/26/2008 12:16:34 AM] Brian Cullinan: not chem, i meant physics
+Session Close (Murphy McCauley): Tue Aug 26 00:16:39 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Tue Aug 26 10:03:15 2008
+[08/26/2008 10:03:16 AM] *** NOTE: This user is offline.  Your messages will most likely *not* be received!
+Session Close (Murphy McCauley): Tue Aug 26 10:03:19 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Tue Aug 26 17:42:17 2008
+[08/26/2008 05:42:17 PM] Murphy McCauley: I'm taking it right after that.  10:15 or whatever.
+[08/26/2008 05:51:13 PM] *** "Murphy McCauley" signed off at Tue Aug 26 17:51:13 2008.
+Session Close (Murphy McCauley): Tue Aug 26 17:53:58 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Mon Sep 29 19:28:09 2008
+[09/29/2008 07:28:16 PM] Brian Cullinan: i have the best facebook status evar!
+Session Close (Murphy McCauley): Mon Sep 29 19:28:18 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Mon Sep 29 19:28:40 2008
+Session Close (Murphy McCauley): Mon Sep 29 19:28:43 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Wed Nov 05 02:07:47 2008
+[11/05/2008 02:07:52 AM] Brian Cullinan: have you taken compilers?
+Session Close (Murphy McCauley): Wed Nov 05 02:14:12 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Wed Nov 05 04:10:05 2008
+[11/05/2008 04:10:05 AM] Murphy McCauley: Yeah, a couple semesters ago.
+[11/05/2008 04:10:18 AM] Brian Cullinan: oh, well i think i figured out what i wanted to ask
+[11/05/2008 04:10:23 AM] Murphy McCauley: Haha, cool.
+[11/05/2008 04:13:12 AM] Brian Cullinan: working on the assembler and listening to futuristic sex robots
+Session Close (Murphy McCauley): Wed Nov 05 04:19:31 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Wed Nov 05 07:05:28 2008
+[11/05/2008 07:05:28 AM] Murphy McCauley: Haha.
+[11/05/2008 07:05:31 AM] Murphy McCauley: Some of the best robots.
+[11/05/2008 07:05:44 AM] Murphy McCauley: (and a fun assignment)
+Session Close (Murphy McCauley): Wed Nov 05 08:39:54 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Sat Nov 22 16:06:09 2008
+[11/22/2008 04:06:23 PM] Brian Cullinan: do you know of a barcode scanner software for windows mobile
+Session Close (Murphy McCauley): Sat Nov 22 16:07:34 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Sat Dec 06 14:08:32 2008
+[12/06/2008 02:08:32 PM] Murphy McCauley: Dude, there's a final in ethics, right?
+[12/06/2008 02:08:43 PM] Brian Cullinan: yeah
+[12/06/2008 02:10:09 PM] Murphy McCauley: Do you know when?  Is it Monday at 12:40 in the usual room?
+[12/06/2008 02:10:16 PM] Murphy McCauley: err... 12:30
+[12/06/2008 02:10:34 PM] Brian Cullinan: monday 12:30
+[12/06/2008 02:10:38 PM] Brian Cullinan: and do the essay!
+[12/06/2008 02:10:43 PM] Brian Cullinan: it is half your grade
+[12/06/2008 02:10:48 PM] Brian Cullinan: have you ever been to my place?
+[12/06/2008 02:10:56 PM] Murphy McCauley: hmm... nope.
+[12/06/2008 02:10:57 PM] Brian Cullinan: you should come over and work on it with me and joe
+[12/06/2008 02:11:01 PM] Brian Cullinan: that is crazy
+[12/06/2008 02:11:04 PM] Brian Cullinan: everyone has been here
+[12/06/2008 02:11:08 PM] Murphy McCauley: haha
+[12/06/2008 02:11:12 PM] Murphy McCauley: When are you working on it?
+[12/06/2008 02:11:15 PM] Brian Cullinan: like now
+[12/06/2008 02:11:20 PM] Brian Cullinan: joe is play soul calibur
+[12/06/2008 02:11:23 PM] Brian Cullinan: and i am working on it
+[12/06/2008 02:11:30 PM] Brian Cullinan: then i will take a break and play while he works on his
+[12/06/2008 02:11:38 PM] Brian Cullinan: you should really come over
+[12/06/2008 02:12:08 PM] Murphy McCauley: Hmm... I might be up for that in a bit.  Where is your place?
+[12/06/2008 02:12:24 PM] Brian Cullinan: i can send you a google link?
+[12/06/2008 02:12:55 PM] Brian Cullinan: (Link: http://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=116469469808521085637.000458349abafd17f783f&z=19)http://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=116469469808521(Link: http://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=116469469808521085637.000458349abafd17f783f&z=19)085637.000458349abafd17f783f&z=19
+[12/06/2008 02:14:44 PM] Murphy McCauley: Ah, okay.
+[12/06/2008 02:14:49 PM] Murphy McCauley: I think I have been in your parking lot. :)
+[12/06/2008 02:15:38 PM] Brian Cullinan: if you turn on satellite view it lines up exactly where my apartment is
+[12/06/2008 02:18:29 PM] Murphy McCauley: You guys be there working on it for a while?  I need to continue waking up. :)
+[12/06/2008 02:19:14 PM] Brian Cullinan: yeah probably for another hour, we might run to get some fast food item
+[12/06/2008 02:19:22 PM] Brian Cullinan: at least another hour i mean
+[12/06/2008 02:19:33 PM] Murphy McCauley: Aight.  I'll AIM you later.
+[12/06/2008 02:19:57 PM] Brian Cullinan: did i mention i have a coffee table with a monitor and computer inside it
+[12/06/2008 02:20:05 PM] Murphy McCauley: HAha, cool.
+Session Close (Murphy McCauley): Sat Dec 06 14:20:15 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Sat Dec 06 14:20:20 2008
+[12/06/2008 02:20:20 PM] Murphy McCauley: Getting yourself mentally prepared for Microsoft Surface? ;)
+[12/06/2008 02:20:53 PM] Brian Cullinan: i was thinking about doing the webcam mod that allows you to draw on a clear surface
+[12/06/2008 02:21:04 PM] Brian Cullinan: but i am using ubuntu so might make it more difficult
+[12/06/2008 02:21:15 PM] Murphy McCauley: Huh.
+[12/06/2008 02:21:23 PM] Murphy McCauley: Link me to the webcam mod sometime?
+[12/06/2008 02:23:48 PM] Brian Cullinan: yeah if i can find it again
+[12/06/2008 02:24:56 PM] Brian Cullinan: (Link: http://feeds.gawker.com/~r/gizmodo/full/~3/_13kaIlUFsQ/diy-hand-gesture-multi+touch-using-a-webcam-and-magic)http://feeds.gawker.com/~r/gizmodo/full/~3/_13kaIlUFsQ/diy-hand-gesture-multi+touch-(Link: http://feeds.gawker.com/~r/gizmodo/full/~3/_13kaIlUFsQ/diy-hand-gesture-multi+touch-using-a-webcam-and-magic)using-a-webcam-and-magic
+[12/06/2008 02:24:59 PM] Brian Cullinan: that might be it
+[12/06/2008 02:25:13 PM] Brian Cullinan: maybe not
+[12/06/2008 02:29:41 PM] Brian Cullinan: (Link: http://lifehacker.com/5061768/touchless-adds-multi+touch-to-your-pc-with-your-webcam)http://lifehacker.com/5061768/touchless-adds-multi+touch-to-your-pc-with-your-webca(Link: http://lifehacker.com/5061768/touchless-adds-multi+touch-to-your-pc-with-your-webcam)m
+[12/06/2008 02:29:45 PM] Brian Cullinan: i think it was that
+[12/06/2008 03:01:49 PM] Brian Cullinan: going to get food, will IM again shortly when we return
+Session Close (Murphy McCauley): Sat Dec 06 15:01:50 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Sat Dec 06 15:23:43 2008
+[12/06/2008 03:23:45 PM] Brian Cullinan: back
+[12/06/2008 03:23:53 PM] Brian Cullinan: joe had something he wanted to discuss with you too
+Session Close (Murphy McCauley): Sat Dec 06 16:24:47 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Sat Dec 06 16:45:28 2008
+[12/06/2008 04:45:28 PM] Murphy McCauley: Yo.
+[12/06/2008 04:45:31 PM] Murphy McCauley: You guys still working on it?
+[12/06/2008 05:03:43 PM] Brian Cullinan: yeah
+[12/06/2008 05:03:45 PM] Brian Cullinan: coming over?
+[12/06/2008 05:03:53 PM] Brian Cullinan: sorry helping joe with another thing temporarily
+[12/06/2008 05:04:04 PM] Murphy McCauley: Sure.  Be there in a bit.
+[12/06/2008 05:04:16 PM] Brian Cullinan: awesome
+Session Start (bjcullinan:Murphy McCauley): Sun Dec 07 02:07:15 2008
+[12/07/2008 02:07:15 AM] Murphy McCauley: There is like a cold cathode tube lamp or something in that table, right?
+[12/07/2008 02:07:25 AM] Murphy McCauley: Maybe that'd be as good or better than LEDs, actually.
+Session Close (Murphy McCauley): Sun Dec 07 02:54:22 2008
+
+
+Session Start (bjcullinan:Murphy McCauley): Sat Jan 10 04:10:25 2009
+[01/10/2009 04:10:26 AM] Brian Cullinan: dude
+[01/10/2009 04:10:31 AM] Brian Cullinan: newzbin server ftw
+Session Close (Murphy McCauley): Sat Jan 10 04:10:33 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Sat Jan 10 04:10:37 2009
+[01/10/2009 04:10:39 AM] Brian Cullinan: (Link: http://sabnzbd.bjcullinan.com/)http://sabnzbd.bjcullinan.com/
+Session Close (Murphy McCauley): Sat Jan 10 04:11:04 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Fri Jan 23 16:51:34 2009
+[01/23/2009 04:52:04 PM] Brian Cullinan: so i never got mp4 to work right
+[01/23/2009 04:53:04 PM] Brian Cullinan: i did discover that using popen works better because the passthru has a delay while vlc initializes
+[01/23/2009 04:53:39 PM] Brian Cullinan: with popen it opens the command, vlc is all initialized, it finally starts writing to the buffer and then fread commands can be used
+[01/23/2009 04:55:28 PM] Brian Cullinan: i also found out that codec names are case sensitive, and i was trying to use the wrong codecs for the muxers, when i changed it to mux=ts it works
+Session Close (Murphy McCauley): Fri Jan 23 17:40:42 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Sat Jan 24 03:43:51 2009
+[01/24/2009 03:43:51 AM] Murphy McCauley: So what's the problem with passthru()?
+[01/24/2009 09:55:43 AM] Brian Cullinan: that was the problem with the download box coming up and then disappearing and then going away, it was almost like php wasn't keeping the stream open between when it executes and when it starts outputting
+[01/24/2009 09:56:03 AM] Brian Cullinan: the problem with vlc was i was trying to use the wrong codec types for that specific muxer
+Session Close (Murphy McCauley): Sat Jan 24 10:00:19 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Sat Jan 24 16:10:17 2009
+[01/24/2009 04:10:17 PM] Murphy McCauley: I got mp4 to work. :)
+[01/24/2009 04:10:28 PM] Brian Cullinan: with what codecs and muxer?
+[01/24/2009 04:11:15 PM] Murphy McCauley: vcodec=mp4v acodec=mp4a mux=mp4
+[01/24/2009 04:11:27 PM] Murphy McCauley: mux=ts should also work
+[01/24/2009 04:11:58 PM] Brian Cullinan: i think i tried that but it didn't work in the player
+[01/24/2009 04:13:24 PM] Brian Cullinan: (Link: http://www.longtailvideo.com/)http://www.longtailvideo.com/
+[01/24/2009 04:13:30 PM] Brian Cullinan: (Link: http://www.longtailvideo.com/players/jw-flv-player/)http://www.longtailvideo.com/players/jw-flv-player/(Link: http://www.longtailvideo.com/players/jw-flv-player/)
+[01/24/2009 04:16:07 PM] Brian Cullinan: yeah it doesn't play in that player
+[01/24/2009 04:16:13 PM] Brian Cullinan: even though it says it supports mp4
+[01/24/2009 04:17:01 PM] Murphy McCauley: so try vcodec=mp4 acodec=mp3 mux=ts
+[01/24/2009 04:20:37 PM] Brian Cullinan: i think it only supports audio mp4
+[01/24/2009 04:23:16 PM] Brian Cullinan: it does say it supports h.264
+[01/24/2009 05:11:45 PM] Brian Cullinan: wow, now i can't even get it to play files that it created
+Session Close (Murphy McCauley): Sat Jan 24 17:41:47 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Sat Jan 24 19:14:53 2009
+[01/24/2009 07:15:04 PM] Brian Cullinan: Now i can't get wma to be encoded
+[01/24/2009 07:15:07 PM] Brian Cullinan: man this is lame
+[01/24/2009 07:18:02 PM] Murphy McCauley: Like it won't read a WMA to transcode it?
+[01/24/2009 07:18:26 PM] Brian Cullinan: like the audio transcodes but doesn't player
+[01/24/2009 07:18:30 PM] Brian Cullinan: *doesn't play
+[01/24/2009 07:19:37 PM] Brian Cullinan: does work in windows media player, but it plays in vlc, and the audio codec is correct but there is no sound
+[01/24/2009 07:21:29 PM] Brian Cullinan: no unusual errors from vlc
+[01/24/2009 07:23:27 PM] Murphy McCauley: Are you transcoding to a Windows Media file or from one?
+[01/24/2009 07:24:29 PM] Brian Cullinan: from and to
+[01/24/2009 07:27:05 PM] Murphy McCauley: Lemme see the file?
+[01/24/2009 07:28:30 PM] Brian Cullinan: (Link: http://209.250.30.30/Share/Videos/Other/strip-poker.wmv)http://209.250.30.30/Share/Videos/Other/strip-poker.wmv
+[01/24/2009 07:29:02 PM] Brian Cullinan: i am using vcodec=WMV2,acodec=wma2, and mux=asf
+[01/24/2009 07:32:49 PM] Murphy McCauley: My vlc doesn't have a wma2 audio codec.
+[01/24/2009 07:32:51 PM] Murphy McCauley: Try mp3.
+[01/24/2009 07:32:59 PM] Brian Cullinan: mp3 works on windows
+[01/24/2009 07:33:12 PM] Brian Cullinan: but none of them work on my phone
+[01/24/2009 07:33:48 PM] Murphy McCauley: Huh.
+[01/24/2009 07:33:52 PM] Murphy McCauley: What kind of phone?
+[01/24/2009 07:34:52 PM] Murphy McCauley: what about mpga audio on your phone?
+[01/24/2009 07:37:24 PM] Brian Cullinan: well at least now i am getting something on my phone
+[01/24/2009 07:40:12 PM] Brian Cullinan: ok i got mpeg to work with one of my players
+[01/24/2009 07:40:16 PM] Brian Cullinan: so that is good enough
+[01/24/2009 07:40:27 PM] Murphy McCauley: Not nearly as small as MP3, but oh well.
+[01/24/2009 07:40:43 PM] Murphy McCauley: It's a phone, you can probably squash the bitrate way down.
+[01/24/2009 07:40:56 PM] Brian Cullinan: yeah thats what i did
+[01/24/2009 07:41:00 PM] Brian Cullinan: it looks pretty decent
+[01/24/2009 07:41:08 PM] Murphy McCauley: I meant for the audio too.
+[01/24/2009 07:41:29 PM] Murphy McCauley: Are you downscaling the video too?
+[01/24/2009 07:43:45 PM] Brian Cullinan: for my phone i am downscaling both
+[01/24/2009 07:43:58 PM] Brian Cullinan: well this is decent, i can add links to watch in different modes
+[01/24/2009 07:44:11 PM] Brian Cullinan: i don't think i ever got mp4 to work right though
+[01/24/2009 07:44:36 PM] Murphy McCauley: I mean are you also changing the pixel size.  Like there's no point in sending a 640x480 video to a phone, right?  Might as well scale it to 320x240.
+[01/24/2009 07:45:33 PM] Brian Cullinan: i am just knocking down the bitrate, if the phone has a small display it will shrink the video so the pixels with crappy resolution will be smaller
+[01/24/2009 07:46:43 PM] Brian Cullinan: so for example if the small bitrate makes 1 pixel artifact to a block of 9 pixes, when the phone shrinks the video it will shrink down to 1 pixes again because it's 1/3 the size
+[01/24/2009 07:46:54 PM] Murphy McCauley: Sure.
+[01/24/2009 07:47:49 PM] Murphy McCauley: You could also knock down the framerate, probably.  Basically just an issue of whether they transfer to your phone as fast as you'd want, I guess.
+[01/24/2009 07:49:20 PM] Brian Cullinan: i have a pretty decent connection on my phone with 3G becoming the norm these days i could have a video bitrate of 1024 and audio be 512
+[01/24/2009 07:49:29 PM] Brian Cullinan: that would be a total of 1.5 down
+[01/24/2009 07:49:44 PM] Brian Cullinan: i wouldn't do that though because that would be silly
+[01/24/2009 07:49:54 PM] Brian Cullinan: i can't wait to add these links to DVD files
+[01/24/2009 07:50:00 PM] Murphy McCauley:  :)
+[01/24/2009 07:51:16 PM] Brian Cullinan: then people will be able to stream DVDs from my server just like netflix, and i will be able to get them on my phone!
+[01/24/2009 07:51:38 PM] Murphy McCauley: Though no seeking what they haven't downloaded yet. :)
+[01/24/2009 07:52:29 PM] Brian Cullinan: i was thinking of adding controls for that online
+[01/24/2009 07:52:55 PM] Murphy McCauley: Yeah.  Just needs to tell VLC where to transcode.
+[01/24/2009 07:53:05 PM] Brian Cullinan: so when you seek to a position in the javascript player window, it tells vlc to start at a new position, cancels the current stream and starts there
+[01/24/2009 07:53:25 PM] Brian Cullinan: you can tell vlc to start at any position in a file
+[01/24/2009 07:53:29 PM] Murphy McCauley: Right
+[01/24/2009 07:53:51 PM] Brian Cullinan: so if you are using the web interface there will be more manipulation options
+[01/24/2009 07:54:06 PM] Brian Cullinan: of course i don't think you will be able to seek backwards in that case
+[01/24/2009 07:54:09 PM] Brian Cullinan: at least not quickly
+[01/24/2009 07:54:28 PM] Murphy McCauley: No quicker than forwards, anyway.
+[01/24/2009 08:06:41 PM] Brian Cullinan: what was the command that actively shows the tail of a file?
+[01/24/2009 08:06:50 PM] Murphy McCauley: tail -f
+[01/24/2009 08:06:52 PM] Murphy McCauley: (follow)
+[01/24/2009 08:07:00 PM] Brian Cullinan: nice
+Session Close (Murphy McCauley): Sat Jan 24 21:30:17 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Sat Jan 24 22:02:50 2009
+[01/24/2009 10:02:55 PM] Brian Cullinan: i found another problem
+[01/24/2009 10:03:10 PM] Brian Cullinan: when using stdout, i can't seem to get it to put the duration into the file
+[01/24/2009 10:03:40 PM] Murphy McCauley: But it does if you stream it out to a file?
+[01/24/2009 10:03:57 PM] Murphy McCauley: That is, output to a file and output to stdout redirected to a file produce different results?
+[01/24/2009 10:06:22 PM] Brian Cullinan: yes
+[01/24/2009 10:06:25 PM] Brian Cullinan: correct
+[01/24/2009 10:06:36 PM] Brian Cullinan: it should be putting the duration in to the header of the file
+[01/24/2009 10:07:20 PM] Murphy McCauley: Yeah.
+[01/24/2009 10:09:01 PM] Brian Cullinan: so then when the file is completely downloaded we still can't seek
+[01/24/2009 10:09:42 PM] Murphy McCauley: It's a common problem, but lots of formats are designed to make up for it (usually by putting the info type "headers" at the END of the file).
+[01/24/2009 10:10:40 PM] Murphy McCauley: I don't know for sure, but it'd be pretty silly if none of those container formats could do that.
+[01/24/2009 10:10:48 PM] Brian Cullinan: so even if i download the whole file the duration isn't there
+[01/24/2009 10:11:16 PM] Murphy McCauley: On the other hand, with the JavaScript seeking solution, it doesn't matter. :)
+[01/24/2009 10:19:12 PM] Brian Cullinan: true
+[01/24/2009 10:20:08 PM] Brian Cullinan: the ts muxer should be able to do it since it is built for streaming  you should know the whole duration
+[01/24/2009 10:25:46 PM] Brian Cullinan: i could swear i had the time working earlier
+[01/24/2009 10:31:10 PM] Murphy McCauley: you sure it was with ts, though?
+[01/24/2009 11:18:09 PM] Brian Cullinan: not sure
+[01/24/2009 11:20:56 PM] *** You have been disconnected. Sat Jan 24 23:20:56 2009.
+[01/24/2009 11:21:19 PM] *** "Murphy McCauley" signed on at Sat Jan 24 23:21:19 2009.
+[01/25/2009 12:00:43 AM] Brian Cullinan: so using passthrough if the connection request is stopped will it stop the process?
+[01/25/2009 12:01:01 AM] Murphy McCauley: should!
+[01/25/2009 12:01:14 AM] Brian Cullinan: for example if i stop php while it is going through a loop, it will stop the script
+[01/25/2009 12:01:32 AM] Murphy McCauley: right
+[01/25/2009 12:01:38 AM] Murphy McCauley: php should kill the process
+[01/25/2009 12:03:06 AM] Brian Cullinan: using popen and looping and doing reads on the pointer is not killing the process
+[01/25/2009 12:03:48 AM] Murphy McCauley: popen returns the pid of the process though, right?  so i think you could add a termination handler thing that will kill it
+[01/25/2009 12:04:47 AM] Brian Cullinan: actually what it is doing is every time the player buffers it is starting a new process
+[01/25/2009 12:05:22 AM] Murphy McCauley: why is the player buffering?
+[01/25/2009 12:05:53 AM] Brian Cullinan: because it is a big file
+[01/25/2009 12:06:12 AM] Brian Cullinan: so now i have 3 vlc processes all transcoding the same file
+[01/25/2009 12:06:17 AM] Murphy McCauley: hah
+[01/25/2009 12:06:38 AM] Brian Cullinan: so i am not really sure how to fix this
+[01/25/2009 12:07:06 AM] Murphy McCauley: why is it buffering, though?  because it's underrunning in the client?
+[01/25/2009 12:08:14 AM] Brian Cullinan: the client is buffering
+[01/25/2009 12:08:28 AM] Brian Cullinan: because it takes longer to download then it does to play
+[01/25/2009 12:08:50 AM] Murphy McCauley: yeah
+[01/25/2009 12:08:58 AM] Murphy McCauley: stupid decision on the part of the client
+[01/25/2009 12:09:33 AM] Murphy McCauley: I wonder if when the client asks for more data if it is trying to use http byte ranges to only request it from a certain point
+[01/25/2009 12:10:34 AM] Murphy McCauley: also... i wonder if the client is actually killing the old connections.  like is PHP actually dropping the sessions and the vlc keeps going?  or does php still think the connection is active.
+[01/25/2009 12:10:44 AM] Brian Cullinan: yeah really not sure how that is working
+[01/25/2009 12:11:20 AM] Brian Cullinan: i think it is just sending a request to the server, and realizing it's not returning the stuff that it needs and then keeps reading from the stream it already had open
+[01/25/2009 12:11:52 AM] Murphy McCauley: check the logs and see if php sessions are actually dying?
+[01/25/2009 12:12:34 AM] Brian Cullinan: i wonder if i could just create a key that is only good for a few seconds and then if it trys to request with the same key it will just exit, and see if it keeps buffering
+[01/25/2009 12:12:44 AM] Brian Cullinan: i think it might also have to do with my plugin
+[01/25/2009 12:13:09 AM] Brian Cullinan: at least that explains 2 connections being started, the plugin starts downloading and then launches a mediaplayer
+[01/25/2009 12:13:22 AM] Brian Cullinan: maybe i could set the ttl in vlc to wait a few seconds
+[01/25/2009 12:13:25 AM] Murphy McCauley: well
+[01/25/2009 12:13:29 AM] Murphy McCauley: first
+[01/25/2009 12:13:35 AM] Murphy McCauley: popen returns the pid, right?
+[01/25/2009 12:13:40 AM] Brian Cullinan: yeah
+[01/25/2009 12:14:03 AM] Brian Cullinan: so how do i make a termination handler?
+[01/25/2009 12:14:29 AM] Murphy McCauley: so use register_shutdown_function() and set_error_handler() to make it so that if there's ever an error or the page finishes, you are sure to kill the pid.
+[01/25/2009 12:15:39 AM] Brian Cullinan: should i kill the process using another command?
+[01/25/2009 12:15:47 AM] Brian Cullinan: like a shell_exec?
+[01/25/2009 12:16:05 AM] Brian Cullinan: that should work great, i had no idea those even exists, i am going to use them in more places
+[01/25/2009 12:16:11 AM] Brian Cullinan: brb
+[01/25/2009 12:45:47 AM] Brian Cullinan: so i tried that stuff and i included a shell_exec command but it still doesn't kill the process
+[01/25/2009 12:46:14 AM] Murphy McCauley: are the shutdown/error handlers firing?
+[01/25/2009 12:46:24 AM] Brian Cullinan: not sure how to tell
+[01/25/2009 12:46:41 AM] Murphy McCauley: write to a file that you can check to see if it gets created
+[01/25/2009 12:46:47 AM] Murphy McCauley: or print something to the log
+[01/25/2009 12:46:49 AM] Brian Cullinan: oh ok
+[01/25/2009 12:50:17 AM] Brian Cullinan: nope, not being written
+[01/25/2009 12:51:17 AM] Brian Cullinan: doesn't run until vlc finished
+[01/25/2009 12:51:23 AM] Brian Cullinan: so now i am really confused
+[01/25/2009 12:52:03 AM] Brian Cullinan: popen runs vlc, then i do a while loop to output stuff, but before that i tried using an exit() in the script and it kept running anyways
+[01/25/2009 12:52:43 AM] Brian Cullinan: then if i kill vlc manually the script exists and the shutdown function is run
+[01/25/2009 12:57:28 AM] Brian Cullinan: nvm i think i can get it working
+[01/25/2009 12:59:23 AM] Brian Cullinan: oOOOOoooo proc_open i could create a writeable pipe and send it the kill command
+[01/25/2009 01:28:55 AM] Brian Cullinan: man i still can't get this thing to kill it
+[01/25/2009 01:31:10 AM] Murphy McCauley: I wonder if the connection is still open!
+[01/25/2009 01:31:28 AM] Brian Cullinan: i am using proc_open now
+[01/25/2009 01:31:43 AM] Murphy McCauley: If the connection wasn't open, all the writing from VLC should hit a broken pipe.
+[01/25/2009 01:32:03 AM] Murphy McCauley: If I were you, I'd use a sniffer to see if, indeed, apache keeps sending data.
+[01/25/2009 01:32:07 AM] Brian Cullinan: and i have a loop that prints output and it the connection is aborted the page stops just fine but it doesn't kill the processs
+[01/25/2009 01:32:55 AM] Murphy McCauley: hmmm...
+[01/25/2009 01:32:57 AM] Brian Cullinan: before i couldn't get processes to stay open, now i can't get them to close
+[01/25/2009 01:36:46 AM] Murphy McCauley: so if you just start a process and then have a php loop that sits there producing output... the termination handler fires immediately, right?
+[01/25/2009 01:37:02 AM] Brian Cullinan: no
+[01/25/2009 01:37:12 AM] Brian Cullinan: it waits until the vlc process is done
+[01/25/2009 01:37:23 AM] Brian Cullinan: do i added !connection_aborted to my while loop
+[01/25/2009 01:37:31 AM] Brian Cullinan: and i still can get it to kill the process
+[01/25/2009 01:38:13 AM] Brian Cullinan: even if i take out the loop i can't get anything to kill the process
+[01/25/2009 01:44:47 AM] Brian Cullinan: wow so proc_terminate lets my script continue at least
+[01/25/2009 01:50:52 AM] Murphy McCauley: wha'ts that?
+[01/25/2009 01:51:00 AM] Brian Cullinan: nvm
+Session Close (Murphy McCauley): Sun Jan 25 02:33:25 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Sun Jan 25 03:17:57 2009
+[01/25/2009 03:18:16 AM] Brian Cullinan: is there a way i can write ctrl+C to the dummy interface using the input pipe?
+[01/25/2009 03:20:22 AM] Murphy McCauley: it's not really a ctrl-c
+[01/25/2009 03:20:31 AM] Murphy McCauley: when you type ctrl-c at a terminal it sends a signal
+[01/25/2009 03:20:35 AM] Murphy McCauley: to the foreground process
+[01/25/2009 03:20:43 AM] Murphy McCauley: IIRC
+[01/25/2009 03:21:23 AM] Brian Cullinan: i need someway of killing the dummy interface for vlc
+[01/25/2009 03:22:06 AM] Murphy McCauley: do you know when you should kill it?
+[01/25/2009 03:22:29 AM] Brian Cullinan: when it exits the for loop
+[01/25/2009 03:22:43 AM] Murphy McCauley: how were you trying to kill it before?
+[01/25/2009 03:23:08 AM] Brian Cullinan: well i can't figure out a way to kill it safely because it forks itself
+[01/25/2009 03:23:18 AM] Brian Cullinan: so i lose track of the pid
+[01/25/2009 03:23:31 AM] Brian Cullinan: and i have no idea how this will ever work on windows
+[01/25/2009 03:23:43 AM] Murphy McCauley: really?  the pid returned by popen isn't the right one?
+[01/25/2009 03:23:59 AM] Brian Cullinan: it is a resource id
+[01/25/2009 03:24:12 AM] Brian Cullinan: to perform frwrites and stuff on
+[01/25/2009 03:24:45 AM] Murphy McCauley: hmmm...
+[01/25/2009 03:25:35 AM] Murphy McCauley: lame
+[01/25/2009 03:25:42 AM] Murphy McCauley: what about using proc_open() and proc_terminate()?
+[01/25/2009 03:25:45 AM] Brian Cullinan: yeah there is no way to kill this thing
+[01/25/2009 03:25:51 AM] Brian Cullinan: tried that
+[01/25/2009 03:25:56 AM] Brian Cullinan: proc_terminate does nothing
+[01/25/2009 03:26:12 AM] Brian Cullinan: i don't think it is completely implemented
+[01/25/2009 03:26:48 AM] Murphy McCauley: hah
+[01/25/2009 03:26:51 AM] Murphy McCauley: hmm...
+[01/25/2009 03:26:54 AM] Brian Cullinan: it lets the script exit at least
+[01/25/2009 03:27:06 AM] Brian Cullinan: but the process is still running
+[01/25/2009 03:27:08 AM] Murphy McCauley: but leaves vlc running?
+[01/25/2009 03:27:09 AM] Murphy McCauley: weird
+[01/25/2009 03:27:12 AM] Murphy McCauley: hmm...
+[01/25/2009 03:28:12 AM] Murphy McCauley: Is this your machine that this is running on?
+[01/25/2009 03:28:27 AM] Brian Cullinan: my server
+[01/25/2009 03:28:45 AM] Brian Cullinan: running a killall vlc from php works
+[01/25/2009 03:28:52 AM] Murphy McCauley: Right
+[01/25/2009 03:28:56 AM] Murphy McCauley: you need to send it SIGINT.
+[01/25/2009 03:29:02 AM] Murphy McCauley: The question is... how do you get the PID? :)
+[01/25/2009 03:29:12 AM] Brian Cullinan: from proc status
+[01/25/2009 03:29:14 AM] Murphy McCauley: I think PHP probably abstracts that out since it's not portable.
+[01/25/2009 03:29:16 AM] Brian Cullinan: then add 1 for the fork
+[01/25/2009 03:29:35 AM] Brian Cullinan: then fail because vlc takes time to load so it still won't kill if they stop within the first 5 seconds
+[01/25/2009 03:29:41 AM] Murphy McCauley: yeah was just looking at that
+[01/25/2009 03:29:54 AM] Murphy McCauley: it shouldn't be off by one.
+[01/25/2009 03:29:59 AM] Murphy McCauley: VLC shouldn't be forking!
+[01/25/2009 03:30:38 AM] Brian Cullinan: so i could sleep for 5 then add an id
+[01/25/2009 03:30:39 AM] Murphy McCauley: I guess it could be, but the original one should still be open.
+[01/25/2009 03:30:39 AM] Murphy McCauley: Hmm...
+[01/25/2009 03:30:49 AM] Brian Cullinan: but this all sucks because it isn't going to work on windows
+[01/25/2009 03:30:49 AM] Murphy McCauley: adding 1 isn't always going to work, though.
+[01/25/2009 03:30:53 AM] Brian Cullinan: yeah
+[01/25/2009 03:31:05 AM] Brian Cullinan: should i require windows users to install ps?
+[01/25/2009 03:31:10 AM] Murphy McCauley: well, windows may well behave entirely differently anyway.
+[01/25/2009 03:31:17 AM] Brian Cullinan: then i can run ps to get ids
+[01/25/2009 03:31:26 AM] Murphy McCauley: Apache works differently on Windows, VLC may well work differently on Windows...
+[01/25/2009 03:31:38 AM] Brian Cullinan: it doesn't
+[01/25/2009 03:31:43 AM] Brian Cullinan: i've done it on windows before
+[01/25/2009 03:31:46 AM] Murphy McCauley: I think this may just not be incredibly portable.
+[01/25/2009 03:31:50 AM] Murphy McCauley: Done what on Windows?
+[01/25/2009 03:31:59 AM] Brian Cullinan: run vlc transcoding
+[01/25/2009 03:32:05 AM] Brian Cullinan: using php
+[01/25/2009 03:32:11 AM] Murphy McCauley: But if, indeed, VLC is forking...
+[01/25/2009 03:32:14 AM] Murphy McCauley: Well, it's not going to fork on Windows.
+[01/25/2009 03:32:36 AM] Brian Cullinan: windows has fork
+[01/25/2009 03:32:45 AM] Murphy McCauley: No...
+[01/25/2009 03:32:45 AM] Brian Cullinan: lol i get it
+[01/25/2009 03:32:55 AM] Brian Cullinan: proc_terminate terminates the parents process
+[01/25/2009 03:33:03 AM] Brian Cullinan: lol child process i still running
+[01/25/2009 03:33:53 AM] Murphy McCauley: why does it terminate the parent process?
+[01/25/2009 03:34:36 AM] Brian Cullinan: because that is the only one it knows, it doesn't realize vlc is forking so proc_terminated isn't killing the forked process
+[01/25/2009 03:36:23 AM] Brian Cullinan: i wonder if i am going about this poorly
+[01/25/2009 03:36:33 AM] Brian Cullinan: maybe i should just run a VLM server
+[01/25/2009 03:51:39 AM] Brian Cullinan: well i guess i will just have to not care if my server is transcoding videos that no one is watching
+[01/25/2009 03:58:22 AM] Brian Cullinan: vlc is probably forking in order to run the error handling in a different process as the actual encoder
+[01/25/2009 04:02:41 AM] *** You have been disconnected. Sun Jan 25 04:02:41 2009.
+[01/25/2009 04:02:54 AM] *** "Murphy McCauley" signed on at Sun Jan 25 04:02:54 2009.
+Session Close (Murphy McCauley): Sun Jan 25 04:03:24 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Sun Jan 25 04:05:07 2009
+[01/25/2009 04:05:07 AM] Murphy McCauley: maybe
+[01/25/2009 04:05:19 AM] Murphy McCauley: but i'd be REALLY surprised if it worked much like that on Windows
+[01/25/2009 04:05:23 AM] Murphy McCauley: since windows doesn't fork
+[01/25/2009 04:05:35 AM] Brian Cullinan: yeah
+[01/25/2009 04:05:40 AM] Murphy McCauley: thought it might run multithreader or something, but either way, the killing won't be portable
+[01/25/2009 04:05:47 AM] Murphy McCauley: i mean, it might just not be a problem under windows
+[01/25/2009 04:05:51 AM] Murphy McCauley: you're sure it's forking?
+[01/25/2009 04:06:10 AM] Brian Cullinan: how else does it start with 1 process id and then had a completely different one?
+[01/25/2009 04:06:25 AM] Murphy McCauley: but if you run it from the commandline, i don't think you see that behavior?
+[01/25/2009 04:06:31 AM] Murphy McCauley: Wait a second.
+[01/25/2009 04:06:39 AM] Murphy McCauley: Are you still running that script to start VLC?
+[01/25/2009 04:06:45 AM] Brian Cullinan: no
+[01/25/2009 04:06:48 AM] Brian Cullinan: lol
+[01/25/2009 04:06:56 AM] Murphy McCauley: because that would explain it :)
+[01/25/2009 04:07:05 AM] Murphy McCauley: you're now running vlc directly?
+[01/25/2009 04:07:05 AM] Brian Cullinan: yeah that would be really funny
+[01/25/2009 04:07:10 AM] Brian Cullinan: no running it directly now
+[01/25/2009 04:07:16 AM] Murphy McCauley: hmmm
+[01/25/2009 04:07:48 AM] Murphy McCauley: i may need to set up apache and try this out on linux
+[01/25/2009 04:07:55 AM] Murphy McCauley: you running php as a cgi or a module?
+[01/25/2009 04:08:08 AM] Brian Cullinan: not sure
+[01/25/2009 04:08:22 AM] Brian Cullinan: module
+[01/25/2009 04:08:48 AM] Murphy McCauley: maybe i'll install it and play around a bit.
+[01/25/2009 04:08:57 AM] Brian Cullinan: ok
+[01/25/2009 04:09:01 AM] Murphy McCauley: (not currently running any of my own linux servers, though I have several)
+[01/25/2009 04:09:07 AM] Murphy McCauley: hmmm..
+[01/25/2009 04:22:17 AM] Brian Cullinan: see now i have 5 different vlc processes from the buffering
+[01/25/2009 04:22:21 AM] Brian Cullinan: it doesn't make sense
+[01/25/2009 04:22:35 AM] Murphy McCauley: what player is causing this?
+[01/25/2009 04:22:46 AM] Brian Cullinan: windows media player
+[01/25/2009 04:23:13 AM] Brian Cullinan: i am wondering if i can set up a vlc VLM server, but still output entire files
+[01/25/2009 04:26:26 AM] Brian Cullinan: ok so if i write a script to output a file, how does the browser still request specific parts?
+[01/25/2009 04:26:53 AM] Brian Cullinan: like does apache store the output buffer? and it can search anywhere in the buffer for the part of the file it is trying to download?
+[01/25/2009 04:27:48 AM] Brian Cullinan: so why is that my script is executing when the file is printed out?
+[01/25/2009 04:28:24 AM] Brian Cullinan: the fact that i am running vlc and reading the file from that shouldn't affect how the browser gets the file
+[01/25/2009 04:28:50 AM] Murphy McCauley: the browser can request specific parts, but you have to actually implement that if you want it to WORK  :)
+[01/25/2009 04:28:59 AM] Murphy McCauley: You'll have to look at the headers the browser sent.
+[01/25/2009 04:30:33 AM] Brian Cullinan: i''m still confused, i don't have to implement anything extra for regular files to be printed out
+[01/25/2009 04:31:11 AM] Murphy McCauley: Oh, I see.
+[01/25/2009 04:31:17 AM] Brian Cullinan: what i mean is, if i read in a huge file and print it out, are you telling me that every time the browser requests some piece of the file the script runs again and the browser reads the offset?
+[01/25/2009 04:31:22 AM] Brian Cullinan: that doesn't make sense
+[01/25/2009 04:31:28 AM] Murphy McCauley: No.
+[01/25/2009 04:31:31 AM] Brian Cullinan: php prints to the output buffer
+[01/25/2009 04:31:51 AM] Murphy McCauley: The script has to understand that the browser only wants a piece of it.
+[01/25/2009 04:32:02 AM] Brian Cullinan: so when the browser requests a different part of the file, phps output buffer is accessed
+[01/25/2009 04:32:12 AM] Brian Cullinan: this is all sub layer
+[01/25/2009 04:32:18 AM] Murphy McCauley: That actually works?
+[01/25/2009 04:32:19 AM] Brian Cullinan: like can't be detected by php
+[01/25/2009 04:32:40 AM] Murphy McCauley: I didn't know PHP/apache did that.
+[01/25/2009 04:33:00 AM] Brian Cullinan: it must have something to do with phps output buffer
+[01/25/2009 04:33:05 AM] Brian Cullinan: i have no idea how it works
+[01/25/2009 04:33:20 AM] Brian Cullinan: but i know browsers request pieces of files when downloading
+[01/25/2009 04:33:28 AM] Murphy McCauley: Yeah, but pieces of PHP files?
+[01/25/2009 04:33:46 AM] Murphy McCauley: With a plain file, it's easy.  The server does it.
+[01/25/2009 04:33:54 AM] Brian Cullinan: a plain file?
+[01/25/2009 04:33:57 AM] Murphy McCauley: But if you want it to work for a PHP script, you have to implement it yourself.
+[01/25/2009 04:34:17 AM] Murphy McCauley: Yeah.  If the web server is just serving blahblah.mpg, Apache makes it work.
+[01/25/2009 04:34:37 AM] Brian Cullinan: yeah
+[01/25/2009 04:34:47 AM] Murphy McCauley: But if you want to make it work with a PHP script, you need to do it yourself.
+[01/25/2009 04:34:51 AM] Brian Cullinan: so how do i make php serve out blahblah.mpg
+[01/25/2009 04:35:09 AM] Brian Cullinan: so the way i have done it because is i just read in the file and print it out
+[01/25/2009 04:35:41 AM] Murphy McCauley: oh, you're not doing transcoding on the fly anymore?
+[01/25/2009 04:36:04 AM] Brian Cullinan: no i just mean hypothetically
+[01/25/2009 04:36:09 AM] Murphy McCauley: oh
+[01/25/2009 04:36:10 AM] Murphy McCauley: Well
+[01/25/2009 04:36:30 AM] Murphy McCauley: So you need to send an Accept-Ranges header to tell the browser that you support partial transfers.
+[01/25/2009 04:36:34 AM] Brian Cullinan: reading in a file and printing it out still only runs the script 1 time
+[01/25/2009 04:37:37 AM] Murphy McCauley: And then you need to check if the browser sent a HTTP_RANGE and act accordingly.
+[01/25/2009 04:37:48 AM] Murphy McCauley: (like only serve the range it asked for)
+[01/25/2009 04:38:02 AM] Murphy McCauley: (and I think you send a different HTTP response code... not 200... I think there's one for partial content)
+[01/25/2009 04:38:06 AM] Brian Cullinan: yeah but how does it work without that?
+[01/25/2009 04:38:11 AM] Murphy McCauley: It doesn't?
+[01/25/2009 04:38:27 AM] Brian Cullinan: so currently i can open a DVD image
+[01/25/2009 04:38:30 AM] Brian Cullinan: something huge
+[01/25/2009 04:38:44 AM] Brian Cullinan: and i read in 1024 bytes at a time
+[01/25/2009 04:38:53 AM] Brian Cullinan: and i just use print in that loop
+[01/25/2009 04:39:19 AM] Brian Cullinan: so there is absolutely no way that my browser is always going to be downloading at the same rate as the php script is running
+[01/25/2009 04:39:29 AM] Brian Cullinan: granted it does run for a while
+[01/25/2009 04:39:52 AM] Brian Cullinan: but i guarantee it works
+[01/25/2009 04:40:04 AM] Brian Cullinan: i can download an entire DVD through my php page
+[01/25/2009 04:40:09 AM] Murphy McCauley: Sure.
+[01/25/2009 04:40:10 AM] Murphy McCauley: So what?
+[01/25/2009 04:40:47 AM] Brian Cullinan: so how does the script only run 1 time, where is all the information going in between php printing it and the browser downloading it?
+[01/25/2009 04:40:51 AM] Brian Cullinan: not in to memory
+[01/25/2009 04:41:22 AM] Murphy McCauley: you mean because you think the php script is reading it a lot faster than the browser is downloading it?
+[01/25/2009 04:41:36 AM] Brian Cullinan: yeah
+[01/25/2009 04:41:39 AM] Murphy McCauley: it's not.
+[01/25/2009 04:41:46 AM] Brian Cullinan: hows it work?
+[01/25/2009 04:41:52 AM] Brian Cullinan: why not?
+[01/25/2009 04:41:57 AM] Brian Cullinan: is there delays?
+[01/25/2009 04:42:31 AM] Murphy McCauley: when the php script does a print... the server writes to the network socket which has the browser on the other end.  right?
+[01/25/2009 04:42:46 AM] Brian Cullinan: yeah
+[01/25/2009 04:42:48 AM] Murphy McCauley: that's basically what the print is.  A write() to the network socket.
+[01/25/2009 04:42:56 AM] Murphy McCauley: So those sockets have a bit of a buffer.
+[01/25/2009 04:43:09 AM] Murphy McCauley: But the network is slow and that buffer will easily get filled while waiting for the network.
+[01/25/2009 04:43:33 AM] Murphy McCauley: At which point, write() will block until the buffer isn't full anymore.
+[01/25/2009 04:43:50 AM] Brian Cullinan: ahhh so print doesn't always return immediately
+[01/25/2009 04:43:53 AM] Murphy McCauley: Right.
+[01/25/2009 04:44:01 AM] Brian Cullinan: ok
+[01/25/2009 04:44:05 AM] Murphy McCauley: It may take many seconds.
+[01/25/2009 04:44:23 AM] Murphy McCauley: If you did a single call to write() with like a 10 megabyte buffer, you'd be waiting for a while.
+[01/25/2009 04:44:24 AM] Brian Cullinan: so it is completely ridiculous that windows media player is accessing my script more then once
+[01/25/2009 04:45:08 AM] Murphy McCauley: Yeah, man.  I really don't know what it thinks it's getting unless it's trying to get a different byte range.
+[01/25/2009 04:45:25 AM] Brian Cullinan: because it should be downloading constantly, and if the network buffer is full the print from the vlc buffer won't write immediately
+[01/25/2009 04:45:41 AM] Brian Cullinan: but that brings up another issue, vlc is going to keep transcoding no matter what
+[01/25/2009 04:45:57 AM] Brian Cullinan: if print is delaying the stdout buffer is going to get really full
+[01/25/2009 04:46:02 AM] Murphy McCauley: But you shouldn't be sending an Accept-Range header, so WMP should know better than to try to ask for a different byte range, so I really don't know why it would do it.
+[01/25/2009 04:46:15 AM] Brian Cullinan: is vlc going to recognize that stdout is full and delay some more?
+[01/25/2009 04:46:26 AM] Murphy McCauley: No, it doesn't have to.  It works exactly the same way.
+[01/25/2009 04:46:33 AM] Murphy McCauley: VLC makes calls to write() on stdout.
+[01/25/2009 04:46:38 AM] Brian Cullinan: ok so vlc will delay
+[01/25/2009 04:46:40 AM] Murphy McCauley: which is a pipe.
+[01/25/2009 04:46:57 AM] Murphy McCauley: And when that pipe's buffer gets full because php has been busy waiting for the write on the network to return...
+[01/25/2009 04:47:06 AM] Murphy McCauley: vlc's write() to that pipe will stall.
+[01/25/2009 04:47:09 AM] Murphy McCauley: and not return.
+[01/25/2009 04:47:11 AM] Brian Cullinan: i honestly think that windows media player is just checking to see if the stream is still live
+[01/25/2009 04:47:17 AM] Murphy McCauley: So VLC is just sitting there blocked.
+[01/25/2009 04:47:46 AM] Brian Cullinan: i think that if i kill all the vlc processes that windows media player starts again, it won't make any difference
+[01/25/2009 04:47:46 AM] Murphy McCauley: So it all works the same.  Beautiful, huh? ;)
+[01/25/2009 04:47:50 AM] Brian Cullinan: yeah
+[01/25/2009 04:47:53 AM] Brian Cullinan: sounds good
+[01/25/2009 04:48:04 AM] Murphy McCauley: man, why can't i get the mac version to transcode
+[01/25/2009 04:48:11 AM] Murphy McCauley: looks like there's a bug in the commandline version
+[01/25/2009 04:48:18 AM] Brian Cullinan: i think i need to implement the timer, so it can only start 1 processes
+[01/25/2009 04:48:29 AM] Brian Cullinan: any error?
+[01/25/2009 04:48:39 AM] Brian Cullinan: i should probably go to bed
+[01/25/2009 04:48:49 AM] Murphy McCauley: yeah, but it's a MacOS error.
+[01/25/2009 04:48:58 AM] Murphy McCauley: My version of VLC is ancient.  Upgrading.
+[01/25/2009 04:49:20 AM] Brian Cullinan: the vlc client connected to my stream only runs the script once even if it has buffer delays
+[01/25/2009 04:49:27 AM] Murphy McCauley: yeah
+[01/25/2009 04:49:36 AM] Murphy McCauley: WMP is just being a weirdo.
+[01/25/2009 04:49:56 AM] Brian Cullinan: i bet it is just checking to see if the stream is still there
+[01/25/2009 04:50:33 AM] Murphy McCauley: Maybe.  Or MAYBE it's trying to get more bandwidth like a download manager... running more concurrent downloads.  Though that only works if you can send byte-range requests and your script isn't advertising such so it should know better.
+[01/25/2009 04:50:55 AM] Murphy McCauley: I mean, it should know the stream is still there since if it waits a second it should get more data!
+[01/25/2009 04:51:03 AM] Brian Cullinan: yeah
+[01/25/2009 04:51:14 AM] Brian Cullinan: or maybe i have to explicitly define it not being there
+[01/25/2009 04:51:20 AM] Murphy McCauley: ?
+[01/25/2009 04:51:23 AM] Brian Cullinan: maybe it thinks its a file
+[01/25/2009 04:51:25 AM] Brian Cullinan: not a stream
+[01/25/2009 04:51:31 AM] Brian Cullinan: because it isn't like i am using TS
+[01/25/2009 04:51:43 AM] Brian Cullinan: so maybe thats why it is doing things concurrently
+[01/25/2009 04:51:51 AM] Murphy McCauley: yeah.
+[01/25/2009 04:53:01 AM] Brian Cullinan: could it also have to do with the fact that i don't specify a content length?
+[01/25/2009 04:53:16 AM] Murphy McCauley: Maybe.
+[01/25/2009 04:53:24 AM] Murphy McCauley: I mean, really, there's no telling what WMP thinks it's doing.
+[01/25/2009 04:53:35 AM] Murphy McCauley: I don't see what it could possibly have to gain from this scenario.
+[01/25/2009 04:54:00 AM] Murphy McCauley: You COULD check to see if $_SERVER['HTTP_RANGE'] has anything in it on the non-first requests
+[01/25/2009 04:54:25 AM] Brian Cullinan: i'd have to output the header to a file
+[01/25/2009 04:54:31 AM] Brian Cullinan: how do you turn off Accept-Ranges
+[01/25/2009 04:54:34 AM] Murphy McCauley: right
+[01/25/2009 04:54:39 AM] Murphy McCauley: Accept-Ranges shouldn't be on!
+[01/25/2009 04:54:42 AM] Brian Cullinan: wiki says Accept-Ranges: bytes
+[01/25/2009 04:54:46 AM] Brian Cullinan: Accept-Ranges: 0?
+[01/25/2009 04:54:55 AM] Murphy McCauley: You should have to set that manually with header("Accept-Ranges: whatever") if you want it.
+[01/25/2009 04:55:02 AM] Murphy McCauley: If you don't send it, it shouldn't be there.
+[01/25/2009 04:55:21 AM] Brian Cullinan: hmmm yeah
+[01/25/2009 04:55:26 AM] Brian Cullinan: thats what i figured
+[01/25/2009 04:55:53 AM] Brian Cullinan:       Servers that do not accept any kind of range request for a 
+       resource MAY send 
+  
+           Accept-Ranges: none 
+  
+       to advise the client not to attempt a range request. 
+ 
+[01/25/2009 04:55:56 AM] Brian Cullinan: :-P
+[01/25/2009 04:57:01 AM] Murphy McCauley: huh
+[01/25/2009 04:57:06 AM] Murphy McCauley: So throw that in there.
+[01/25/2009 04:57:18 AM] Murphy McCauley: But I think that's totally optional, theoretically.
+[01/25/2009 04:58:30 AM] Brian Cullinan: yeah
+[01/25/2009 04:59:28 AM] Brian Cullinan: lol ok somehow 3 processes got launched just from windows media player connecting
+[01/25/2009 04:59:36 AM] Brian Cullinan: i need sleep
+[01/25/2009 05:00:48 AM] Murphy McCauley:  :)
+[01/25/2009 05:01:37 AM] Brian Cullinan: i still can't figure out why vlc doesn't set the file duration when it uses stdout
+[01/25/2009 05:01:47 AM] Murphy McCauley: it can't!
+[01/25/2009 05:02:00 AM] Murphy McCauley: If the duration is set in a header at the start of the file.
+[01/25/2009 05:02:08 AM] Brian Cullinan: because it has to access a different part of the file and stdout is a stream?
+[01/25/2009 05:02:12 AM] Murphy McCauley: Right.
+[01/25/2009 05:02:23 AM] Murphy McCauley: It doesn't know until it's done encoding how long it'll be...
+[01/25/2009 05:02:36 AM] Murphy McCauley: And if the field with data about the length is at the beginning... well, that was the past. :)
+[01/25/2009 05:02:42 AM] Brian Cullinan: hmmm, i think i might be able to spoof it though
+[01/25/2009 05:02:47 AM] Brian Cullinan: using like --fake-duration
+[01/25/2009 05:03:06 AM] Brian Cullinan: it is is transcoding an entire file it should be the same length
+[01/25/2009 05:03:17 AM] Brian Cullinan: granted it does to corrections so it might cut some length
+[01/25/2009 05:03:20 AM] Murphy McCauley: Yeah, but if it's measured in frames or something, it might not be exact.
+[01/25/2009 05:03:33 AM] Murphy McCauley: Right.
+[01/25/2009 05:03:37 AM] Murphy McCauley: And also there might be restrictions on keyframes, etc.
+[01/25/2009 05:03:50 AM] Murphy McCauley: It also doesn't know how long the input file REALLY is until it's read all of it.
+[01/25/2009 05:03:54 AM] Murphy McCauley: Unless it just trusts its header.
+[01/25/2009 05:04:13 AM] Murphy McCauley: So yeah, you might be able to get a mostly-correct answer most of the time, though.
+[01/25/2009 05:04:18 AM] Brian Cullinan: yeah i think maybe i'll just try to get it to put it in it's header again
+[01/25/2009 05:04:52 AM] Murphy McCauley: Though if you aren't exactly correct, some media players might assume the whole file is corrupt and not want to play it.
+[01/25/2009 05:05:19 AM] Murphy McCauley: Probably less of an issue with modern/streaming players.
+[01/25/2009 05:05:40 AM] Brian Cullinan: yeah
+[01/25/2009 05:10:46 AM] Murphy McCauley: what was the issue you were having with passthru()?
+[01/25/2009 05:36:20 AM] Murphy McCauley: you asleep?
+[01/25/2009 05:38:52 AM] Murphy McCauley: Works well for me:
+[01/25/2009 05:39:04 AM] Murphy McCauley: <?php
+ header('Content-Type: video/mpeg');
+ set_time_limit(0);
+ ignore_user_abort(1);
+ 
+ $descriptors = array(1 => array("pipe", "w"));
+ 
+ $vlc = proc_open('/Applications/VLC.app/Contents/MacOS/VLC -I dummy strip-poker.wmv :sout=\'#transcode{vcodec=mp2v,vb=256,acodec=mpga,ab=64}:standard{mux=ps,dst=-,access=file}\' vlc://quit', $descriptors, $pipes);
+ 
+ while (TRUE)
+ {
+   $buf = fread($pipes[1], 1024);
+   if ($buf == FALSE) break;
+   print $buf;
+   if (connection_aborted())
+   {
+     proc_terminate($vlc);
+     break;
+   }
+ }
+ 
+ fclose($pipes[1]);
+ ?>
+[01/25/2009 06:01:22 AM] *** You have been disconnected. Sun Jan 25 06:01:22 2009.
+[01/25/2009 06:01:34 AM] *** "Murphy McCauley" signed on at Sun Jan 25 06:01:34 2009.
+[01/25/2009 10:57:59 AM] *** You have been disconnected. Sun Jan 25 10:57:59 2009.
+[01/25/2009 10:58:08 AM] *** "Murphy McCauley" signed on at Sun Jan 25 10:58:08 2009.
+[01/25/2009 12:06:36 PM] Brian Cullinan: you sure vlc isn't just finishing?
+[01/25/2009 12:06:45 PM] Brian Cullinan: it transcodes faster then it would normally play
+[01/25/2009 12:06:50 PM] Brian Cullinan: and that video is pretty short
+Session Start (bjcullinan:Murphy McCauley): Sun Jan 25 13:43:12 2009
+[01/25/2009 01:43:23 PM] Brian Cullinan: ok so multiple processes are started while it is connecting
+[01/25/2009 01:43:28 PM] Brian Cullinan: this is very strange
+[01/25/2009 01:47:37 PM] Brian Cullinan: would something like windows media player send session information?
+Session Start (bjcullinan:Murphy McCauley): Sun Jan 25 16:14:20 2009
+[01/25/2009 04:14:20 PM] Murphy McCauley: How'd that new code work?
+[01/25/2009 04:15:13 PM] Brian Cullinan: mine does the same thing already
+[01/25/2009 04:15:20 PM] Brian Cullinan: and there is no change
+[01/25/2009 04:16:02 PM] Murphy McCauley: Oh?  On my machine, my code properly kills off the extra VLCs.
+[01/25/2009 04:16:47 PM] Brian Cullinan: you can look at my code if you want
+[01/25/2009 04:17:09 PM] Murphy McCauley: Did you TRY mine?
+[01/25/2009 04:17:13 PM] Brian Cullinan:           if(is_resource($process)) { 
+                 
+                while(!feof($pipes[1])) 
+                { 
+                     print fread($pipes[1], 1024);; 
+                     if(connection_aborted()) 
+                     { 
+                          proc_terminate($process); 
+                          break; 
+                     } 
+                } 
+                fclose($pipes[1]); 
+                 
+                 
+                $return_value = proc_close($process); 
+           } 
+ 
+[01/25/2009 04:17:23 PM] Brian Cullinan: its practically the same!
+[01/25/2009 04:17:37 PM] Murphy McCauley: uh huh.
+[01/25/2009 04:17:39 PM] Murphy McCauley: Humor me!
+[01/25/2009 04:18:02 PM] Brian Cullinan: i think your video is too short
+[01/25/2009 04:18:16 PM] Murphy McCauley: well, use a longer one
+[01/25/2009 04:22:24 PM] Brian Cullinan: nope, started vlc and then left it running
+Session Close (Murphy McCauley): Sun Jan 25 16:52:26 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Sun Jan 25 17:24:30 2009
+[01/25/2009 05:24:30 PM] Murphy McCauley: Well that's too bad.
+[01/25/2009 05:24:37 PM] Murphy McCauley: Works great on my Mac. :)
+[01/25/2009 06:18:57 PM] Murphy McCauley: So the problem is with php.
+[01/25/2009 06:26:30 PM] Brian Cullinan: ya
+[01/25/2009 06:26:52 PM] Murphy McCauley: The problem is that proc_open() and everything else don't actually exec the program you specify.
+[01/25/2009 06:26:57 PM] Murphy McCauley: They run a shell which runs the program.
+[01/25/2009 06:27:42 PM] Brian Cullinan: but why does it work fine on Mac?
+[01/25/2009 06:27:59 PM] Murphy McCauley: The Mac version executes the program directly, not a shell.
+[01/25/2009 06:28:13 PM] Brian Cullinan: so is there a work around?
+[01/25/2009 06:28:35 PM] Murphy McCauley: And the Windows version has an option to make it run it directly instead of in a shell... which they considered porting to Linux in 5.2.6, but apparently didn't!
+[01/25/2009 06:29:42 PM] Murphy McCauley: Working on a workaround now...
+[01/25/2009 06:31:55 PM] Murphy McCauley: save as transcode:
+[01/25/2009 06:32:10 PM] Murphy McCauley: #!/bin/bash
+[01/25/2009 06:32:21 PM] Murphy McCauley: trap 'exit 0' HUP
+[01/25/2009 06:32:27 PM] Murphy McCauley: trap 'kill -s HUP 0' EXIT
+[01/25/2009 06:32:56 PM] Murphy McCauley: vlc -I dummy "$1" :sout='#transcode{...}:standard{...}' vlc:quit
+[01/25/2009 06:34:18 PM] Murphy McCauley: Then use the program I sent you earlier to run "transcode <filename>".
+[01/25/2009 06:49:30 PM] Brian Cullinan: i'm confused?
+[01/25/2009 06:50:06 PM] Brian Cullinan: so i make a file with trap 'kill -s HUP 0' EXIT?
+[01/25/2009 06:50:17 PM] Brian Cullinan: oh
+[01/25/2009 06:50:21 PM] Brian Cullinan: and then the vlc command
+[01/25/2009 06:50:25 PM] Murphy McCauley: with all four of those lines
+[01/25/2009 06:50:29 PM] Brian Cullinan: then run the trancode file?
+[01/25/2009 06:50:36 PM] Murphy McCauley: Right, instead of running vlc directly
+[01/25/2009 06:50:42 PM] Brian Cullinan: ok i'll try that
+[01/25/2009 06:50:49 PM] Brian Cullinan: wait
+[01/25/2009 06:51:00 PM] Murphy McCauley: (be sure to fill in the {...} parts of the vlc commandline)
+[01/25/2009 06:51:03 PM] Brian Cullinan: problem with that is the filename changes
+[01/25/2009 06:51:20 PM] Murphy McCauley: Right, but you run "transcode <filename>"
+[01/25/2009 06:51:35 PM] Brian Cullinan: oh i see
+[01/25/2009 07:01:22 PM] Brian Cullinan: hmm not running
+[01/25/2009 07:01:57 PM] Murphy McCauley: Did you make transcode executable and put it where the php scrip will find it?
+[01/25/2009 07:02:05 PM] Brian Cullinan: yup
+[01/25/2009 07:02:31 PM] Murphy McCauley: Is it in the same directory as the .php file?
+[01/25/2009 07:03:26 PM] Brian Cullinan: /bin/bash^M: bad interpreter:
+[01/25/2009 07:03:44 PM] Murphy McCauley: Well that's your own fault. :)
+[01/25/2009 07:03:57 PM] Murphy McCauley: You're using Windows line endings on Linux.
+[01/25/2009 07:04:01 PM] Brian Cullinan: yeah
+[01/25/2009 07:04:21 PM] Brian Cullinan: anyways if i just put bash infront it should work
+[01/25/2009 07:04:27 PM] Brian Cullinan: it will ignore that line
+[01/25/2009 07:04:37 PM] Murphy McCauley: Just fix the line endings!
+[01/25/2009 07:04:50 PM] Brian Cullinan: : invalid signal specificationncode.txt: line 2: trap: HUP 
+ : invalid signal specificationncode.txt: line 3: trap: EXIT
+ 
+[01/25/2009 07:05:12 PM] Brian Cullinan: line endings?
+[01/25/2009 07:05:17 PM] Murphy McCauley: Yes.
+[01/25/2009 07:05:22 PM] Brian Cullinan: how do you do that in vim?
+[01/25/2009 07:05:29 PM] Murphy McCauley: Your transcode file has CRLF but you only want LF.
+[01/25/2009 07:06:58 PM] Murphy McCauley: eh, I dunno.
+[01/25/2009 07:07:10 PM] Murphy McCauley: sed 's/^M$//' transcode > transcode2
+[01/25/2009 07:07:18 PM] Brian Cullinan: darn abe isn't online
+[01/25/2009 07:07:24 PM] Murphy McCauley: mv transcode2 transcode
+[01/25/2009 07:09:00 PM] Murphy McCauley: sudo apt-get install tofrodos
+[01/25/2009 07:09:03 PM] Murphy McCauley: dos2unix transcode
+[01/25/2009 07:09:56 PM] Brian Cullinan: cool
+[01/25/2009 07:12:07 PM] Brian Cullinan: so everything works on the command line now
+[01/25/2009 07:12:35 PM] Brian Cullinan: but script doesn't run in php
+[01/25/2009 07:12:45 PM] Murphy McCauley: Is the script in the same directory as the php file?
+[01/25/2009 07:12:53 PM] Brian Cullinan: yeah
+[01/25/2009 07:13:01 PM] Murphy McCauley: Did you remember to run it as ./transcode?
+[01/25/2009 07:14:44 PM] Brian Cullinan: i am running it with absolute paths
+[01/25/2009 07:15:44 PM] Brian Cullinan: the full command works fine on the command line
+[01/25/2009 07:15:46 PM] Brian Cullinan: this is weird
+[01/25/2009 07:16:17 PM] Murphy McCauley: Is it executable by the web server user, whoever that is?
+[01/25/2009 07:16:42 PM] Brian Cullinan: it's all executable
+[01/25/2009 07:17:58 PM] Brian Cullinan: might be the file
+[01/25/2009 07:18:04 PM] Brian Cullinan: passing in the filename
+[01/25/2009 07:18:22 PM] Murphy McCauley: what's your proc_open() line?
+[01/25/2009 07:18:35 PM] Brian Cullinan: /bin/bash /var/www/mediaserver/plugins/encode.txt "/home/share/Videos/Twilight - Cam.avi"
+[01/25/2009 07:19:46 PM] Murphy McCauley: huh
+[01/25/2009 07:19:54 PM] Murphy McCauley: well, hardcode the path in encode.txt just to be sure.
+[01/25/2009 07:20:07 PM] Murphy McCauley: though that seems like it should be fine
+[01/25/2009 07:20:14 PM] Murphy McCauley: ah, hmm...
+[01/25/2009 07:20:49 PM] Murphy McCauley: yeah
+[01/25/2009 07:20:54 PM] Brian Cullinan: nope still nothing
+[01/25/2009 07:20:56 PM] Brian Cullinan: weird
+[01/25/2009 07:21:34 PM] Murphy McCauley: what's the URL?
+[01/25/2009 07:21:40 PM] Brian Cullinan: i think i found the problem
+[01/25/2009 07:21:52 PM] Brian Cullinan: for some reason it wasn't constructing the path to the file correctly
+[01/25/2009 07:23:23 PM] Brian Cullinan: didn't seem to help
+[01/25/2009 07:23:25 PM] Brian Cullinan: :-(
+[01/25/2009 07:23:29 PM] Brian Cullinan: everything is running though
+[01/25/2009 07:23:38 PM] Murphy McCauley: You mean it still doesn't die?
+[01/25/2009 07:23:47 PM] Brian Cullinan: nope
+[01/25/2009 07:23:57 PM] Murphy McCauley: Are you using the php code I sent you earlier?
+[01/25/2009 07:25:00 PM] Brian Cullinan: yup
+[01/25/2009 07:25:31 PM] Murphy McCauley: Exactly?  Cut and pasted except with the commandline changed?
+[01/25/2009 07:30:42 PM] Brian Cullinan: yup
+[01/25/2009 07:31:12 PM] Brian Cullinan: i commented out print buf so i could test it without it launching other media players and stuff
+[01/25/2009 07:31:54 PM] Murphy McCauley: Ah.
+[01/25/2009 07:31:58 PM] Murphy McCauley: Well, uncomment it and try again.
+[01/25/2009 07:32:29 PM] Brian Cullinan: vlc still runs
+[01/25/2009 07:32:41 PM] Murphy McCauley: Uncomment it and try again.
+[01/25/2009 07:32:50 PM] Brian Cullinan: i did
+[01/25/2009 07:33:20 PM] Murphy McCauley: And if you open the URL with WMP you still get four VLCs?
+[01/25/2009 07:33:36 PM] Murphy McCauley: (or something like that)?
+[01/25/2009 07:33:52 PM] Brian Cullinan: trying it
+[01/25/2009 07:34:17 PM] Brian Cullinan: 4
+[01/25/2009 07:34:20 PM] Brian Cullinan: yes
+[01/25/2009 07:34:58 PM] Brian Cullinan: if i close windows media player it still stays open
+[01/25/2009 07:36:00 PM] Brian Cullinan: is there a way for me to run & > echo $! > pid.txt and still be able to access the stdout?
+[01/25/2009 07:36:03 PM] Murphy McCauley: And yet it's working perfectly here.  Ubuntu, Apache2....
+[01/25/2009 07:36:07 PM] Brian Cullinan: then i could just read in pid and kill it
+[01/25/2009 07:36:12 PM] Brian Cullinan: wtf
+[01/25/2009 07:37:23 PM] Murphy McCauley: paste me your php and your shell script?
+[01/25/2009 07:38:34 PM] Brian Cullinan: i think it is the length of your file
+[01/25/2009 07:38:44 PM] Brian Cullinan: it is quitting by itself before you can realize it
+[01/25/2009 07:38:46 PM] Brian Cullinan: <?php 
+   header('Content-Type: video/mpeg'); 
+   set_time_limit(0); 
+   ignore_user_abort(1); 
+    
+   $descriptors = array(1 => array("pipe", "w")); 
+    
+   $vlc = proc_open('/bin/bash /var/www/mediaserver/plugins/encode.txt "/home/share/Videos/Twilight - Cam.avi"', $descriptors, $pipes); 
+    
+   while (TRUE) 
+   { 
+     $buf = fread($pipes[1], 1024); 
+     if ($buf == FALSE) break; 
+     print $buf; 
+     if (connection_aborted()) 
+     { 
+       proc_terminate($vlc); 
+       break; 
+     } 
+   } 
+    
+   fclose($pipes[1]); 
+ ?>
+[01/25/2009 07:38:56 PM] Brian Cullinan: #!/bin/bash 
+ trap 'exit 0' HUP 
+ trap 'kill -s HUP 0' EXIT 
+ /usr/bin/vlc -I dummy "$1" :sout='#transcode{vcodec=WMV2,acodec=mp3,vb=512,ab=64,channels=2,deinterlace,audio-sync}:std{mux=asf,access=file,dst=-}' vlc:quit 
+ 
+[01/25/2009 07:39:13 PM] Murphy McCauley: nah, that's not it.
+[01/25/2009 07:39:16 PM] Murphy McCauley: It's actually working.
+[01/25/2009 07:42:45 PM] Murphy McCauley: because if i take out the shell script, i get four vlcs running
+[01/25/2009 07:42:54 PM] Murphy McCauley: the video i am using takes like a minute to transcode
+[01/25/2009 07:47:21 PM] Murphy McCauley: 2.6.27-9-generic
+[01/25/2009 07:47:38 PM] Murphy McCauley: Apache/2.2.9 (Ubuntu) PHP/5.2.6-2ubuntu4
+[01/25/2009 07:47:43 PM] Murphy McCauley: Works like a charm.
+[01/25/2009 07:51:51 PM] Murphy McCauley: VLC version 0.9.4 Grishenko
+[01/25/2009 08:00:42 PM] Brian Cullinan: wow
+[01/25/2009 08:00:48 PM] Brian Cullinan: so there is no solution
+[01/25/2009 08:00:49 PM] Brian Cullinan: ?
+[01/25/2009 08:00:52 PM] Brian Cullinan: the script is fine?
+[01/25/2009 08:01:36 PM] Brian Cullinan: did you try my version of the script?
+[01/25/2009 08:01:42 PM] Brian Cullinan: there must be some difference
+[01/25/2009 08:01:57 PM] Murphy McCauley: I think there must be some difference in your configuration.
+[01/25/2009 08:02:04 PM] Murphy McCauley: Running different versions of things or something.
+[01/25/2009 08:02:12 PM] Brian Cullinan: the vlc is different
+[01/25/2009 08:02:19 PM] Brian Cullinan: but why would that change anything?
+[01/25/2009 08:02:30 PM] Murphy McCauley: handles signals differently?
+[01/25/2009 08:02:45 PM] Brian Cullinan: could be the vlc version
+[01/25/2009 08:03:01 PM] Brian Cullinan: i am running Janus
+[01/25/2009 08:03:07 PM] Brian Cullinan: i don't know how to get it to upgrade
+[01/25/2009 08:04:04 PM] Murphy McCauley: We should try this on the ACM server or something.
+[01/25/2009 08:04:07 PM] Murphy McCauley: If such a thing exists.
+[01/25/2009 08:09:07 PM] Brian Cullinan: it could be my vlc version, i am going to try that
+[01/25/2009 08:09:13 PM] Brian Cullinan: do you know for sure that my script works?
+[01/25/2009 08:09:23 PM] Brian Cullinan: like if you backup your stuff and put mine in it's place
+[01/25/2009 08:09:25 PM] Brian Cullinan: will it work?
+[01/25/2009 08:09:40 PM] Murphy McCauley: It looks exactly the same.
+[01/25/2009 08:09:42 PM] Murphy McCauley: I think it must!
+[01/25/2009 08:10:44 PM] Brian Cullinan: i am trying to make this website a public project
+[01/25/2009 08:10:57 PM] Brian Cullinan: so i don't want restrictions on operating systems and such
+[01/25/2009 08:11:35 PM] Brian Cullinan: it needs to be cross platform by default
+[01/25/2009 08:12:58 PM] Murphy McCauley: well, getting it working on Linux would be a good first step in that direction!
+[01/25/2009 08:14:43 PM] Brian Cullinan: nope updated vlc, still same problem
+[01/25/2009 08:14:59 PM] Brian Cullinan: .9.8
+[01/25/2009 08:15:47 PM] Brian Cullinan: 2.6.24-19-server
+ 
+[01/25/2009 08:16:53 PM] Brian Cullinan: Apache/2.2.8 (Ubuntu)
+[01/25/2009 08:17:19 PM] Brian Cullinan: i am going to upgrade everything
+[01/25/2009 08:19:26 PM] Brian Cullinan: php 5.2.4-2ubuntu5.3
+[01/25/2009 08:20:39 PM] Murphy McCauley: that's what you're running now?
+[01/25/2009 08:20:45 PM] Brian Cullinan: yeah
+[01/25/2009 08:20:47 PM] Murphy McCauley: I think 5.2.6 came out like a year ago.
+[01/25/2009 08:20:53 PM] Brian Cullinan: did you try my script?
+[01/25/2009 08:21:08 PM] Murphy McCauley: Aww, don't make me start that VM back up. :)
+[01/25/2009 08:21:13 PM] Murphy McCauley: But it looked totally fine.
+[01/25/2009 08:21:17 PM] Brian Cullinan: yeah
+[01/25/2009 08:21:31 PM] Brian Cullinan: i will just try the upgraded stuff and see if that works
+[01/25/2009 08:21:35 PM] Murphy McCauley: yeah
+[01/25/2009 08:21:39 PM] Murphy McCauley: I'll cross my fingers, dude.
+[01/25/2009 08:21:42 PM] Brian Cullinan: otherwise i will have to deal with it and go on with my life
+[01/25/2009 08:21:49 PM] Brian Cullinan: at least the video output works!
+[01/25/2009 08:21:51 PM] Murphy McCauley: Yeah.  Annoying.,
+[01/25/2009 08:21:56 PM] Brian Cullinan: thats further then i ever got before!
+[01/25/2009 08:22:03 PM] Brian Cullinan: i can work on some GUI stuff for it
+[01/25/2009 08:22:17 PM] Murphy McCauley: BTW, WMP will seek if you send it a Content-Length header.
+[01/25/2009 08:22:23 PM] Murphy McCauley: Unfortunately, you won't know that.
+[01/25/2009 08:22:28 PM] Murphy McCauley: BUT... I think the solution is easy enough.
+[01/25/2009 08:22:38 PM] Murphy McCauley: Just keep track of that in a database.
+[01/25/2009 08:22:43 PM] Murphy McCauley: So the first time someone plays -- no seek.
+[01/25/2009 08:22:46 PM] Brian Cullinan: doesn't it still need a duration?
+[01/25/2009 08:22:47 PM] Murphy McCauley: But subsequently, it will.
+[01/25/2009 08:22:58 PM] Brian Cullinan: yeah thats a good idea
+[01/25/2009 08:23:06 PM] Murphy McCauley: Well, lots of streaming formats don't even HAVE a header with the total duration.
+[01/25/2009 08:23:09 PM] Murphy McCauley: Since they're a stream.
+[01/25/2009 08:23:20 PM] Murphy McCauley: So apparently WMP just fakes it based on how many bytes total.
+[01/25/2009 08:23:23 PM] Brian Cullinan: ok i'll have to try that out
+[01/25/2009 08:24:01 PM] Murphy McCauley: I also think it might be worth caching X gigabytes of transcoded video.  So the common ones don't need to be retranscoded all the time.
+[01/25/2009 08:24:03 PM] Brian Cullinan: of course it does have to re-endode to whole thing, so seeking DVDs probably won't work
+[01/25/2009 08:24:18 PM] Murphy McCauley: Why not?
+[01/25/2009 08:24:29 PM] Brian Cullinan: because they take to long
+[01/25/2009 08:24:41 PM] Brian Cullinan: and i doubt more then just myself will ever watch them
+[01/25/2009 08:24:58 PM] Murphy McCauley: Well, you'd be able to seek backwards, and the progress thing will work instead of being stuck at 0.
+[01/25/2009 08:25:08 PM] Brian Cullinan: i really do need a way to kill the process because if i am going to have a script to start it at a different point every time some seeks will be a new process
+[01/25/2009 08:25:32 PM] Murphy McCauley: Right.  Though in my setup, that will just work.
+[01/25/2009 08:25:41 PM] Brian Cullinan: yeah
+[01/25/2009 08:25:43 PM] Murphy McCauley: Old ones totally just die off on my Linux machine and my Mac.
+[01/25/2009 08:26:07 PM] Brian Cullinan: and your sure they aren't completing?
+[01/25/2009 08:26:23 PM] Murphy McCauley: Yup.
+[01/25/2009 08:28:24 PM] Murphy McCauley: (Positive.)
+[01/25/2009 08:32:32 PM] Murphy McCauley: got vnc?
+[01/25/2009 08:32:43 PM] Brian Cullinan: not on my headless server
+[01/25/2009 08:33:13 PM] Murphy McCauley: But you have a client?
+[01/25/2009 08:33:47 PM] Brian Cullinan: yeah
+[01/25/2009 08:46:15 PM] Murphy McCauley: vlc to 24.121.109.59
+[01/25/2009 08:46:17 PM] Murphy McCauley: port 5900
+[01/25/2009 08:46:23 PM] Murphy McCauley: (I think that's display 1?)
+[01/25/2009 08:46:25 PM] Murphy McCauley: (err... display 0)
+[01/25/2009 08:47:10 PM] Murphy McCauley: okay
+[01/25/2009 08:47:13 PM] Murphy McCauley: So...
+[01/25/2009 08:47:13 PM] Murphy McCauley: watch
+[01/25/2009 08:47:17 PM] Brian Cullinan: k
+[01/25/2009 08:47:32 PM] Murphy McCauley: see, i started a connection and then stopped it
+[01/25/2009 08:47:37 PM] Murphy McCauley: and vlc is still chugging away
+[01/25/2009 08:47:50 PM] Brian Cullinan: yeah
+[01/25/2009 08:47:59 PM] Murphy McCauley: okay now it just finished.
+[01/25/2009 08:48:05 PM] Murphy McCauley: so.
+[01/25/2009 08:48:05 PM] Murphy McCauley: Broken.
+[01/25/2009 08:48:08 PM] Murphy McCauley: but...
+[01/25/2009 08:48:26 PM] Murphy McCauley: now watch
+[01/25/2009 08:48:26 PM] Murphy McCauley: vlc...
+[01/25/2009 08:48:30 PM] Murphy McCauley: gone
+[01/25/2009 08:48:36 PM] Brian Cullinan: yeah
+[01/25/2009 08:48:54 PM] Brian Cullinan: so it definitely works
+[01/25/2009 08:48:59 PM] Murphy McCauley: yup
+[01/25/2009 08:48:59 PM] Murphy McCauley: No question.
+[01/25/2009 08:49:37 PM] Brian Cullinan: damnit why won't mine work
+[01/25/2009 08:49:58 PM] Brian Cullinan: send me your complete code again
+[01/25/2009 08:50:16 PM] Murphy McCauley: you upgraded php and stuff
+[01/25/2009 08:50:18 PM] Murphy McCauley: ?
+[01/25/2009 08:50:27 PM] Brian Cullinan: upgrading in progress
+[01/25/2009 08:50:30 PM] Murphy McCauley: yeah
+[01/25/2009 08:50:33 PM] Murphy McCauley: well, try that
+[01/25/2009 08:51:03 PM] Murphy McCauley: <?php
+ header('Content-Type: video/mpeg');
+ set_time_limit(0);
+ ignore_user_abort(1);
+ 
+ $descriptors = array(1 => array("pipe", "w"));
+ 
+ $vlc = proc_open('/Applications/VLC.app/Contents/MacOS/VLC -I dummy strip-poker.wmv :sout=\'#transcode{vcodec=mp2v,vb=256,acodec=mpga,ab=64}:standard{mux=ps,dst=-,access=file}\' vlc://quit', $descriptors, $pipes);
+ 
+ while (TRUE)
+ {
+   $buf = fread($pipes[1], 1024);
+   if ($buf == FALSE) break;
+   print $buf;
+   if (connection_aborted())
+   {
+     proc_terminate($vlc);
+     break;
+   }
+ }
+ 
+ fclose($pipes[1]);
+ ?>
+[01/25/2009 08:51:22 PM] Murphy McCauley: #!/bin/bash 
+ trap 'exit 0' HUP 
+ trap 'kill -s HUP 0' EXIT 
+ /usr/bin/vlc -I dummy "$1" :sout='#transcode{vcodec=WMV2,acodec=mp3,vb=512,ab=64,channels=2,deinterlace,audio-sync}:std{mux=asf,access=file,dst=-}' vlc:quit
+[01/25/2009 08:51:26 PM] Murphy McCauley: Gonna run out and get some food.
+[01/25/2009 08:51:39 PM] Murphy McCauley: Oh and gonna install something, so gotta restart.
+[01/25/2009 08:51:40 PM] Brian Cullinan: that terminates even without your fix to the file?
+[01/25/2009 08:52:01 PM] Murphy McCauley: Oh, well that was the Mac version.
+[01/25/2009 08:52:03 PM] Brian Cullinan: hmmm
+[01/25/2009 08:52:07 PM] Brian Cullinan: yeah
+[01/25/2009 08:52:23 PM] Murphy McCauley: So all that's different was that it does ./transcode strip-poker.wmv instead of the big commandline.
+[01/25/2009 08:52:45 PM] Murphy McCauley: Though I think it actually might work on Linux anyway.
+[01/25/2009 08:53:03 PM] Murphy McCauley: Oh, you know what else it could be?
+[01/25/2009 08:53:05 PM] Murphy McCauley: It could be your sh.
+[01/25/2009 08:53:18 PM] Brian Cullinan: my shell version?
+[01/25/2009 08:53:29 PM] Murphy McCauley: Possibly.
+[01/25/2009 08:53:35 PM] Brian Cullinan: hmm
+[01/25/2009 08:54:11 PM] Murphy McCauley: what is your /bin/sh?
+[01/25/2009 08:54:15 PM] Murphy McCauley: mine is a symlink to dash
+[01/25/2009 08:54:55 PM] Brian Cullinan: not a symlink
+[01/25/2009 08:55:02 PM] Brian Cullinan: oh
+[01/25/2009 08:55:09 PM] Brian Cullinan: no it is a symlink to dash
+[01/25/2009 08:55:25 PM] Murphy McCauley: but maybe not the same version
+[01/25/2009 08:56:53 PM] Murphy McCauley: mine is 0.5.4-9ubuntu1
+[01/25/2009 09:02:03 PM] Murphy McCauley: BBL
+[01/25/2009 09:07:13 PM] *** "Murphy McCauley" signed off at Sun Jan 25 21:07:13 2009.
+Session Close (Murphy McCauley): Sun Jan 25 21:37:15 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Sun Jan 25 22:19:37 2009
+[01/25/2009 10:19:41 PM] Brian Cullinan: did you compile php?
+[01/25/2009 10:19:50 PM] Brian Cullinan: because apt still install 5.2.4
+[01/25/2009 10:20:25 PM] *** You have been disconnected. Sun Jan 25 22:20:25 2009.
+[01/25/2009 10:20:48 PM] *** "Murphy McCauley" signed on at Sun Jan 25 22:20:48 2009.
+[01/25/2009 10:24:04 PM] Brian Cullinan: did you compile php?
+[01/25/2009 10:27:14 PM] Murphy McCauley: Nah.
+[01/25/2009 10:27:22 PM] Murphy McCauley: You didn't get my message?
+[01/25/2009 10:27:35 PM] Murphy McCauley: I just did like apt-get apache2 php or something today.
+[01/25/2009 10:28:14 PM] Brian Cullinan: yeah it's only install php5 for me
+[01/25/2009 10:29:11 PM] Brian Cullinan: what version of ubuntu?
+[01/25/2009 10:29:16 PM] Brian Cullinan: hardy or intrepid?
+[01/25/2009 10:29:29 PM] Murphy McCauley: That's intrepid.
+[01/25/2009 10:29:42 PM] Brian Cullinan: maybe thats it
+[01/25/2009 10:29:52 PM] Brian Cullinan: that aren't releasing it on hard because it is the server version
+[01/25/2009 10:30:06 PM] Brian Cullinan: i can't think of anything else that could be causing this problem
+[01/25/2009 10:31:04 PM] Murphy McCauley: You upgraded stuff as far as you could, eh?
+[01/25/2009 10:32:23 PM] Brian Cullinan: i am adding the intrepid sources
+[01/25/2009 10:36:13 PM] Brian Cullinan: a little find and replace action: _intrepid Heron_ 
+[01/25/2009 10:42:24 PM] Brian Cullinan: ok finally it is upgrading shit
+[01/25/2009 10:42:45 PM] Brian Cullinan: probably upgrading vlc too
+Session Close (Murphy McCauley): Sun Jan 25 23:48:43 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Mon Jan 26 00:06:55 2009
+[01/26/2009 12:07:06 AM] Brian Cullinan: now i am running the same stuff as you and it still isn't working
+Session Close (Murphy McCauley): Mon Jan 26 00:45:33 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Mon Jan 26 01:07:18 2009
+[01/26/2009 01:07:24 AM] Brian Cullinan: Man this doesn't make any sense!
+[01/26/2009 01:07:30 AM] Brian Cullinan: it must be something stupid
+[01/26/2009 01:07:38 AM] Brian Cullinan: like it can't kill a .txt file
+[01/26/2009 01:08:16 AM] Brian Cullinan: how about users
+[01/26/2009 01:08:22 AM] Brian Cullinan: what user is your script running under
+[01/26/2009 01:08:33 AM] Brian Cullinan: maybe it can't kill the process because it doesn't have access to it
+Session Close (Murphy McCauley): Mon Jan 26 01:46:49 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Mon Jan 26 01:47:31 2009
+[01/26/2009 01:47:42 AM] Brian Cullinan: it must be losing ownership of the process
+[01/26/2009 01:47:50 AM] Brian Cullinan: not even a posix_kill works
+[01/26/2009 02:02:24 AM] Brian Cullinan: any advice on checking if it has ownership?
+Session Close (Murphy McCauley): Mon Jan 26 02:32:26 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Fri Jan 30 19:37:01 2009
+[01/30/2009 07:37:06 PM] Brian Cullinan: fuuuuuuuuuuukkkkkk
+[01/30/2009 07:37:15 PM] Brian Cullinan: finally got this damn thing to kill vlc
+[01/30/2009 07:37:26 PM] Brian Cullinan: i am sending it a kill -9 command
+[01/30/2009 07:38:05 PM] Brian Cullinan: so after user abort, it looks up the pid using a ps command and kills it, i will have to figure out what to do for windows when i port it over
+[01/30/2009 07:50:26 PM] Brian Cullinan: coming over tonight?
+Session Close (Murphy McCauley): Fri Jan 30 20:22:32 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Fri Jan 30 21:34:07 2009
+[01/30/2009 09:34:09 PM] Brian Cullinan: Dude!
+Session Close (Murphy McCauley): Fri Jan 30 22:04:14 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Sat Jan 31 22:54:46 2009
+[01/31/2009 10:55:54 PM] Brian Cullinan: So, i have been working pretty hard on this project and am thinking about starting to port it to windows soon.  As a PHP programmer, how do i know when i am doing something wrong, how can i find someone to critique it like an essay, how do i know when it is ready to share with other people?
+Session Close (Murphy McCauley): Sat Jan 31 23:26:03 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Sat Jan 31 23:36:55 2009
+Session Close (Murphy McCauley): Sat Jan 31 23:37:03 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Sun Feb 01 08:14:41 2009
+[02/01/2009 08:14:41 AM] Murphy McCauley: The modern open-source wisdom is that you don't.  You just release it.
+[02/01/2009 08:14:56 AM] Brian Cullinan: good stuff
+[02/01/2009 08:15:01 AM] Brian Cullinan: want to go skiing?
+[02/01/2009 08:15:28 AM] Murphy McCauley: I want to get these two papers done by the deadline. :)
+[02/01/2009 08:15:36 AM] Murphy McCauley: I haven't skiied in many years anyway. :)
+[02/01/2009 08:15:58 AM] Brian Cullinan: papers by deadline?
+[02/01/2009 08:16:04 AM] Brian Cullinan: i am not mmissing anything am i?
+[02/01/2009 08:16:07 AM] Murphy McCauley: Nah.
+[02/01/2009 08:16:24 AM] Murphy McCauley: Anthropology.
+[02/01/2009 08:16:58 AM] Brian Cullinan: so i just realized, i have all those 3V batteries i should bring them to class so we can all free ourselves from usb power
+[02/01/2009 08:17:33 AM] Murphy McCauley: I just got a little Radio Shack battery thing, but yeah, that'd be cool...
+[02/01/2009 08:17:49 AM] Murphy McCauley: I always wonder how good of an idea it is, but a friend of mine used to solder onto battery terminals all the time.
+[02/01/2009 08:18:15 AM] Murphy McCauley: The cool thing would be that if you soldered a couple of little pieces of paper clip onto those batteries, they'd go right into a breadboard.
+[02/01/2009 08:18:53 AM] Brian Cullinan: yeah so these ones are really polished, so soldering doesn't work
+[02/01/2009 08:19:17 AM] Brian Cullinan: infact just about the only material i found i could get to stick to them is hot glue gun glue
+[02/01/2009 08:20:41 AM] Brian Cullinan: so i will probably end up stripping a little wire, and keeping some shield on both sides like you were and putting a paper clip on it to make it contact with the batter and then glue gunning them and passing them out in class so we can all start thinking about having our chips away from our laptops
+[02/01/2009 08:22:36 AM] Murphy McCauley: I don't suspect you want to have a battery hooked up when they're plugged in by USB, which is too bad or you could just solder the leads to the chip and then glue the whole battery to the little board and leave it there.
+[02/01/2009 08:23:10 AM] Brian Cullinan: hmmm good point
+[02/01/2009 08:23:50 AM] Brian Cullinan: well i figured i'd do the tedious part at least, if people want to remove the wires from their battery you can pick off the hot glue
+[02/01/2009 08:24:51 AM] Murphy McCauley: I tried affixing one of my little target boards to a breadboard without solder... made a little "bed of nails" on the breadboard (which is the right spacing for the target board) and then hot-glued the target board to it.  It was pretty tough to get a reliable connection on all the pins.  I'm not sure it's really a winning solution.
+[02/01/2009 08:25:25 AM] Murphy McCauley: All in all, it probably took longer than soldering all the leads, AND I am less sure about the connections.
+[02/01/2009 08:25:58 AM] Murphy McCauley: (I mean, they all work now, but who's to say the metal won't stress a bit and then not?)
+[02/01/2009 08:26:09 AM] Brian Cullinan: hmm good point, well g2g skiing
+[02/01/2009 08:26:10 AM] Brian Cullinan: ttyl
+[02/01/2009 08:26:16 AM] Murphy McCauley: TTYL.  Have fun.
+[02/01/2009 08:50:33 AM] *** You have been disconnected. Sun Feb 01 08:50:33 2009.
+[02/01/2009 08:50:45 AM] *** "Murphy McCauley" signed on at Sun Feb 01 08:50:45 2009.
+Session Close (Murphy McCauley): Sun Feb 01 09:20:47 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Wed Feb 04 01:28:45 2009
+[02/04/2009 01:28:52 AM] Brian Cullinan: man vlc is not efficient at all
+Session Close (Murphy McCauley): Wed Feb 04 02:08:30 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Wed Feb 04 07:09:02 2009
+[02/04/2009 07:09:02 AM] Murphy McCauley: no/
+[02/04/2009 07:09:03 AM] Murphy McCauley: ?
+Session Close (Murphy McCauley): Wed Feb 04 11:38:28 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Feb 05 19:43:43 2009
+[02/05/2009 07:43:52 PM] Brian Cullinan: i can't get proc open to work in windows
+[02/05/2009 07:48:38 PM] Murphy McCauley: What does it do?  Nothing?
+[02/05/2009 09:13:43 PM] *** "Murphy McCauley" signed off at Thu Feb 05 21:13:43 2009.
+[02/05/2009 09:20:07 PM] *** "Murphy McCauley" signed on at Thu Feb 05 21:20:07 2009.
+[02/05/2009 09:43:53 PM] Brian Cullinan: nvm got it working
+Session Close (Murphy McCauley): Thu Feb 05 21:43:54 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Fri Feb 06 00:59:08 2009
+[02/06/2009 12:59:17 AM] Brian Cullinan: i can't get vlc to write to stdout on windows
+[02/06/2009 01:03:20 AM] Murphy McCauley: huh
+[02/06/2009 01:03:30 AM] Murphy McCauley: I don't know if I've ever tried it.
+[02/06/2009 01:03:36 AM] Murphy McCauley: Man.
+[02/06/2009 01:03:43 AM] Murphy McCauley: I gotta get up to test it!
+[02/06/2009 01:19:25 AM] *** You have been disconnected. Fri Feb 06 01:19:25 2009.
+[02/06/2009 01:19:35 AM] *** "Murphy McCauley" signed on at Fri Feb 06 01:19:35 2009.
+[02/06/2009 01:49:02 AM] *** You have been disconnected. Fri Feb 06 01:49:02 2009.
+[02/06/2009 01:49:26 AM] *** "Murphy McCauley" signed on at Fri Feb 06 01:49:26 2009.
+[02/06/2009 01:59:23 AM] Brian Cullinan: what do you think?
+[02/06/2009 01:59:34 AM] Murphy McCauley: Sorry, been doing other things.
+[02/06/2009 01:59:37 AM] Murphy McCauley: Will switch computers right now.
+[02/06/2009 01:59:39 AM] Murphy McCauley: BRB
+[02/06/2009 02:00:05 AM] Brian Cullinan: so the transcode section doesn't have single quotes around it on windows
+[02/06/2009 02:02:33 AM] Brian Cullinan: and i can't get it to show on the console unless i use > the output operator
+[02/06/2009 02:03:10 AM] Brian Cullinan: and it shows up on the console, instead of going to the file, and sounds gets sent to the computer speaker
+[02/06/2009 02:03:30 AM] Murphy McCauley: Well, Windows doesn't understand double quotes, so there's that.
+[02/06/2009 02:03:35 AM] Murphy McCauley: Paste me some code?
+[02/06/2009 02:03:51 AM] Brian Cullinan:                     $cmd = basename(ENCODE) . ' -I dummy -v "' . $files[0]['Filepath'] . '" :sout=#transcode{vcodec=WMV2,acodec=mp3,vb=512,ab=64,samplerate=44100,channels=2,deinterlace,audio-sync}:std{mux=asf,access=file,dst="-"} vlc://quit'; 
+ 
+[02/06/2009 02:04:17 AM] Brian Cullinan: $process = proc_open($cmd, $descriptorspec, $pipes, dirname(ENCODE), NULL, array('binary_pipes' => true, 'bypass_shell' => "1")); 
+  
+           if(is_resource($process)) 
+           { 
+                while(!feof($pipes[1])) 
+                { 
+                     if(connection_aborted()) 
+                     { 
+                          proc_terminate($process); 
+                          break; 
+                     } 
+                     print fread($pipes[1], BUFFER_SIZE); 
+                } 
+                 
+                $status = proc_get_status($process); 
+                kill9('vlc', $status['pid']); 
+                 
+                $return_value = proc_close($process); 
+           }
+[02/06/2009 02:04:33 AM] Brian Cullinan: replace ENCODE with the absolute path to vlc
+[02/06/2009 02:04:46 AM] Brian Cullinan: define('ENCODE',                                'C:\Program Files\VideoLAN\VLC\vlc.exe'); // a program that can convert video and audio streams
+ 
+[02/06/2009 02:04:53 AM] Brian Cullinan: or put that before it
+[02/06/2009 02:08:29 AM] Brian Cullinan: holy shit i just got it
+[02/06/2009 02:08:40 AM] Brian Cullinan: dummy interface doesn't help on windows
+[02/06/2009 02:08:42 AM] Brian Cullinan: lol
+[02/06/2009 02:09:51 AM] Murphy McCauley: Though if you don't use the dummy interface, you have another problem...
+[02/06/2009 02:09:54 AM] Murphy McCauley: It returns immediately.
+[02/06/2009 02:10:01 AM] Murphy McCauley: It doesn't wait for it to complete.
+[02/06/2009 02:10:01 AM] Brian Cullinan: not on windows
+[02/06/2009 02:10:17 AM] Brian Cullinan: remove the single quote from the #transcode?
+[02/06/2009 02:10:22 AM] Murphy McCauley: Are you sure?  Because I just ran it from the commandline and it returns immediately.  Before it's done encoding.
+[02/06/2009 02:10:24 AM] Murphy McCauley: Yeah.
+[02/06/2009 02:10:45 AM] Murphy McCauley: It's a Windows application.  It detaches from the console.
+[02/06/2009 02:11:09 AM] Brian Cullinan: not for me with that code
+[02/06/2009 02:11:21 AM] Brian Cullinan: well it still output stdout
+[02/06/2009 02:11:46 AM] Murphy McCauley: From within PHP, or from the commandline?
+[02/06/2009 02:12:02 AM] Brian Cullinan: in php
+[02/06/2009 02:12:29 AM] Brian Cullinan: hmmm vlc processes aren't dying again
+[02/06/2009 02:12:40 AM] Murphy McCauley: "c:\Program Files\VideoLAN\VLC\vlc.exe" -v "smg.mpg" :sout=#transcode{vcodec=WMV2,acodec=mp3,vb=512,ab=64,samplerate=44100,channels=2,deinterlace,audio-sync}:std{mux=asf,access=file,dst="-"} vlc://quit
+[02/06/2009 02:12:46 AM] Murphy McCauley: This produces no output on the commandline.
+[02/06/2009 02:12:59 AM] Murphy McCauley: If you redirect it into a file, the file gets made, but the command returns before it gets made.
+[02/06/2009 02:13:04 AM] Murphy McCauley: And the VLC GUI shows up for a second.
+[02/06/2009 02:13:35 AM] Brian Cullinan: i couldn't get running the program to work, i had to descend into the vlc directory for some reason
+[02/06/2009 02:15:20 AM] Brian Cullinan: so i could just run it with vlc.exe
+[02/06/2009 02:15:45 AM] Murphy McCauley: You have to put the path in quotes.
+[02/06/2009 02:16:28 AM] Brian Cullinan: tried that, maybe something wrong with slashes getting parsed out
+[02/06/2009 02:17:00 AM] *** You have been disconnected. Fri Feb 06 02:17:00 2009.
+[02/06/2009 02:18:48 AM] *** "Murphy McCauley" signed on at Fri Feb 06 02:18:48 2009.
+[02/06/2009 02:18:53 AM] Murphy McCauley: Yo.
+[02/06/2009 02:19:01 AM] Brian Cullinan: hey srry got kicked
+[02/06/2009 02:19:06 AM] Murphy McCauley: So here's the problem.
+[02/06/2009 02:19:29 AM] Murphy McCauley: Windows programs run in one of several different subsystems.
+[02/06/2009 02:19:47 AM] Murphy McCauley: For example, 32 bit GUI programs run in one (I think it's called "windows").
+[02/06/2009 02:19:57 AM] Murphy McCauley: And NT used to have a POSIX compatibility subsystem called "posix".
+[02/06/2009 02:20:02 AM] Murphy McCauley: Etc.
+[02/06/2009 02:20:15 AM] Murphy McCauley: And console applications (like dir.exe or whatever) run in the "console" subsystem.
+[02/06/2009 02:20:30 AM] Brian Cullinan: yeah
+[02/06/2009 02:20:30 AM] *** Error while sending IM: This user is currently not logged on
+[02/06/2009 02:20:35 AM] Brian Cullinan: yeah
+[02/06/2009 02:20:36 AM] *** Error while sending IM: This user is currently not logged on
+Session Close (Murphy McCauley): Fri Feb 06 02:20:39 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Fri Feb 06 02:20:43 2009
+[02/06/2009 02:20:47 AM] Brian Cullinan: you there?
+[02/06/2009 02:20:47 AM] *** Error while sending IM: This user is currently not logged on
+Session Close (Murphy McCauley): Fri Feb 06 02:20:51 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Fri Feb 06 02:21:17 2009
+[02/06/2009 02:21:23 AM] Brian Cullinan: aim sucks
+[02/06/2009 02:22:45 AM] Murphy McCauley: Okay, now it was my turn to get kicked.
+[02/06/2009 02:22:56 AM] Murphy McCauley: Did you get my last message?  ("And console applications...")
+[02/06/2009 02:23:07 AM] Brian Cullinan: yeah
+[02/06/2009 02:23:26 AM] Murphy McCauley: Okay.  So, when you run a "windows" subsystem application from a console, one of the first things that happens is that it gets detached from the console it was run from.
+[02/06/2009 02:23:33 AM] Murphy McCauley: This is what's happening with VLC.
+[02/06/2009 02:23:44 AM] Murphy McCauley: When you run it without -I dummy.
+[02/06/2009 02:24:13 AM] Murphy McCauley: You're just running normal GUI VLC and it's getting detached from the console, so if you run it from the console, you never see its standard output.
+[02/06/2009 02:24:37 AM] Murphy McCauley: From PHP, this probably works okay since PHP isn't running it from a console.
+[02/06/2009 02:25:02 AM] Murphy McCauley: But I'd still think you might see the GUI pop up for a second unless PHP stops it somehow.
+[02/06/2009 02:25:54 AM] Murphy McCauley: If you run VLC on Windows *with* -I dummy... well, it's still in the "windows" subsystem.  Meaning, it can't just print to a console, since the console has already been detached.  So the Windows version of dummy must CREATE a NEW console to print to.  Which isn't what you want either.
+[02/06/2009 02:26:07 AM] Brian Cullinan: yeah, so i am having problems killing it without -I dummy from php, but the pipe is working in php, without -I dummy php is outputting stdout just fine, but with -I dummy, the sound is directed to the motherboard speaker and nothing is ever outputted
+[02/06/2009 02:26:58 AM] Murphy McCauley: Right, because the idiot Windows version of dummy creates a new console and sets stdout to THAT.
+[02/06/2009 02:27:19 AM] Brian Cullinan: yeah
+[02/06/2009 02:27:39 AM] Brian Cullinan: so i wonder if there is a better interface
+[02/06/2009 02:27:51 AM] Brian Cullinan: or if i should just use taskkill
+[02/06/2009 02:27:53 AM] Murphy McCauley: Well.
+[02/06/2009 02:28:20 AM] Murphy McCauley: So the first think I'd try is making a version of VLC that runs in the console subsystem instead of the windows subsystem.
+[02/06/2009 02:28:36 AM] Brian Cullinan: like building it from scratch?
+[02/06/2009 02:28:40 AM] Murphy McCauley: Do you have Visual Studio or any pieces of it installed?
+[02/06/2009 02:28:46 AM] Murphy McCauley: Nope.  You can edit an EXE.
+[02/06/2009 02:28:47 AM] Brian Cullinan: yeah
+[02/06/2009 02:28:49 AM] Brian Cullinan: all of it
+[02/06/2009 02:29:10 AM] Murphy McCauley: So somewhere in there, find either editbin.exe or link.exe
+[02/06/2009 02:29:22 AM] Murphy McCauley: You want to do this:
+[02/06/2009 02:29:27 AM] Murphy McCauley: xcopy vlc.exe vlcc.exe
+[02/06/2009 02:29:35 AM] Murphy McCauley: xcopy vlc.exe.manifest vlcc.exe.manifest
+[02/06/2009 02:29:43 AM] Murphy McCauley: editbin /subsystem:console vlcc.exe 
+[02/06/2009 02:29:54 AM] Murphy McCauley: And now you have vlcc -- a console version of vlc.
+[02/06/2009 02:30:53 AM] Murphy McCauley: This one will act a lot more like the Linux one.  The dummy interface still will open a NEW console because it's coded like that on Windows.  But it might behave better without it.
+[02/06/2009 02:34:54 AM] Brian Cullinan: missing a ddl
+[02/06/2009 02:34:56 AM] Brian Cullinan: *dll
+[02/06/2009 02:35:38 AM] Murphy McCauley: run editbin from the directory it lives in
+[02/06/2009 02:37:24 AM] Brian Cullinan: i did
+[02/06/2009 02:37:31 AM] Brian Cullinan: the file it is looking for isn't there
+[02/06/2009 02:38:11 AM] Murphy McCauley: What directory is it?
+[02/06/2009 02:40:37 AM] Brian Cullinan: got it
+[02/06/2009 02:44:01 AM] *** You have been disconnected. Fri Feb 06 02:44:01 2009.
+[02/06/2009 02:47:06 AM] *** "Murphy McCauley" signed on at Fri Feb 06 02:47:06 2009.
+[02/06/2009 02:47:24 AM] Brian Cullinan: editbin didn't really do anything
+[02/06/2009 02:47:34 AM] Murphy McCauley: What do you mean?
+[02/06/2009 02:48:32 AM] Brian Cullinan: it showed the copyright then exited
+[02/06/2009 02:48:36 AM] Brian Cullinan: no errors or anything
+[02/06/2009 02:48:46 AM] Murphy McCauley: Right.
+[02/06/2009 02:48:47 AM] Murphy McCauley: But it worked.
+[02/06/2009 02:48:51 AM] Brian Cullinan: tried vlcc with -I dummy and got the same result
+[02/06/2009 02:49:01 AM] Brian Cullinan: sound goes to mobo speaker and no output
+[02/06/2009 02:49:04 AM] Murphy McCauley: Dude, that's what I said.
+[02/06/2009 02:49:17 AM] Murphy McCauley: The dummy interface on Windows always opens a new console.
+[02/06/2009 02:49:41 AM] Murphy McCauley: But now if you run it WITHOUT dummy, at least it won't try to detach from the console.
+[02/06/2009 02:49:45 AM] Murphy McCauley: Which might make it work right.
+[02/06/2009 02:49:55 AM] Murphy McCauley: (might!)
+[02/06/2009 02:50:24 AM] Brian Cullinan: still doesn't close the process
+[02/06/2009 02:51:15 AM] Brian Cullinan: does output binary stream
+[02/06/2009 02:51:38 AM] Murphy McCauley: When you run it WITH the dummy interface, does it close correctly even though it does the ridiculous spamming to a console and the PC speaker?
+[02/06/2009 02:52:51 AM] Brian Cullinan: no
+[02/06/2009 02:54:16 AM] Brian Cullinan: and not running in the same space as the console
+[02/06/2009 02:54:34 AM] Murphy McCauley: So no matter what, you've never had it close correctly on Windows?
+[02/06/2009 02:54:49 AM] Brian Cullinan: or linux
+[02/06/2009 02:54:54 AM] Murphy McCauley: hah
+[02/06/2009 02:54:55 AM] Murphy McCauley: Right.
+[02/06/2009 02:55:02 AM] Murphy McCauley: Though I've had it correctly close on Linux. ;)
+[02/06/2009 02:55:07 AM] Murphy McCauley: And Mac OS.
+[02/06/2009 02:55:18 AM] Brian Cullinan: and probably windows if you tried
+[02/06/2009 02:55:23 AM] Murphy McCauley: haha
+[02/06/2009 02:55:24 AM] Murphy McCauley: nah.
+[02/06/2009 02:55:38 AM] Murphy McCauley: I wouldn't be surprised if terminating it on Windows never worked the same.
+[02/06/2009 02:55:43 AM] Murphy McCauley: It's not POSIX.
+[02/06/2009 02:55:56 AM] Murphy McCauley: The signal mechanism that Linux and Mac OS use to close it doesn't exist.
+[02/06/2009 02:56:16 AM] Murphy McCauley: So it looks like for Windows, you'll always need a workaround
+[02/06/2009 02:56:27 AM] Brian Cullinan: i am using a PID and taskkill command for windows
+[02/06/2009 02:56:29 AM] Brian Cullinan: :-P
+[02/06/2009 02:59:14 AM] Brian Cullinan: lol this would probably help my debugging process if i didn't comment out print fread() and expect it to get to the end of the file
+[02/06/2009 02:59:46 AM] Murphy McCauley: heh
+[02/06/2009 03:00:31 AM] Brian Cullinan: yeah PIDs are completely different, not 1 or 2 off like on linux
+[02/06/2009 03:03:03 AM] Murphy McCauley: The PID it returns isn't right, eh?
+[02/06/2009 03:03:09 AM] Murphy McCauley: Oh.
+[02/06/2009 03:03:17 AM] Murphy McCauley: What command are you using to run VLC?
+[02/06/2009 03:04:02 AM] Brian Cullinan: vlcc.exe  -I dummy -v --no-video "' . $files[0]['Filepath'] . '" :sout=\'#transcode{acodec=wma2,ab=160,samplerate=44100,channels=2}:std{mux=asf,access=file,dst=-}\' vlc://quit
+[02/06/2009 03:04:28 AM] Murphy McCauley: nono, I mean which PHP funnction, sorry.
+[02/06/2009 03:04:31 AM] Brian Cullinan: started with a working directory of C:\program\videolan\vlc
+[02/06/2009 03:04:41 AM] Brian Cullinan: proc_open
+[02/06/2009 03:05:30 AM] Murphy McCauley: So on Windows, run it with bypass_shell
+[02/06/2009 03:05:33 AM] Murphy McCauley: Look up proc_open().
+[02/06/2009 03:05:42 AM] Murphy McCauley: That way the PID it returns should actually be VLC.
+[02/06/2009 03:05:42 AM] Brian Cullinan: yeah i just figured that out
+[02/06/2009 03:06:17 AM] Brian Cullinan: works
+[02/06/2009 03:06:59 AM] Brian Cullinan: i mean gives me the right pid
+[02/06/2009 03:07:06 AM] Brian Cullinan: now i have to figure out how to kill it
+[02/06/2009 03:11:02 AM] Murphy McCauley: proc_terminate?
+[02/06/2009 03:11:14 AM] Brian Cullinan: doesn't work
+[02/06/2009 03:11:24 AM] Brian Cullinan: can't get taskkill to work either
+[02/06/2009 03:11:33 AM] Brian Cullinan: works on the console though
+[02/06/2009 03:12:23 AM] Murphy McCauley: so you are trying to execute taskkill.exe /pid <whatever> ?
+[02/06/2009 03:12:49 AM] Brian Cullinan: it's really cool, you can use realpath('/') for getting C:\ or whatever drive you are using, nifty for cross platform compatibility
+[02/06/2009 03:12:53 AM] Brian Cullinan: yeah
+[02/06/2009 03:12:55 AM] Brian Cullinan: with /F
+[02/06/2009 03:13:03 AM] Brian Cullinan: using system();
+[02/06/2009 03:13:37 AM] Murphy McCauley: try
+[02/06/2009 03:13:49 AM] Murphy McCauley: "cmd.exe /c taskkill /f /pid <pid>"
+[02/06/2009 03:15:30 AM] Brian Cullinan: weird
+[02/06/2009 03:15:39 AM] Brian Cullinan: still no luck
+[02/06/2009 03:16:01 AM] Brian Cullinan: i am sure i will get it eventually
+[02/06/2009 03:16:59 AM] Brian Cullinan: works when i call it right away
+[02/06/2009 03:17:24 AM] Murphy McCauley: huh
+[02/06/2009 03:18:30 AM] Brian Cullinan: but not when i put it after the loop
+[02/06/2009 03:19:42 AM] Brian Cullinan: maybe connection abort isn't firing!
+[02/06/2009 03:23:40 AM] Brian Cullinan: how do you give wamp write access on windows?
+[02/06/2009 03:24:50 AM] Brian Cullinan: yeah it is the connection abort not even registering!
+[02/06/2009 03:26:13 AM] Murphy McCauley: Hah.
+[02/06/2009 03:33:24 AM] Brian Cullinan: wow
+[02/06/2009 03:39:33 AM] Brian Cullinan: man i keep getting in the way of myself with debugging
+[02/06/2009 03:39:44 AM] Brian Cullinan: so first it was commenting out print fread()
+[02/06/2009 03:39:50 AM] Brian Cullinan: then it was no connection abort
+[02/06/2009 03:40:14 AM] Brian Cullinan: then it was if you dont flush the buffer nothing is ever sent to the browser, so the connection can't be aborted
+Session Close (Murphy McCauley): Fri Feb 06 04:10:16 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Tue Feb 10 01:02:27 2009
+[02/10/2009 01:02:41 AM] Brian Cullinan: i can't get pass by reference to work on wamp
+[02/10/2009 01:03:47 AM] Brian Cullinan: i am using call_user_func(array($_REQUEST['cat'], 'get'), $mysql, $_REQUEST, $count, $error);
+[02/10/2009 01:04:34 AM] Brian Cullinan: nvm
+Session Close (Murphy McCauley): Tue Feb 10 01:34:36 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Tue Feb 17 17:14:40 2009
+[02/17/2009 05:14:49 PM] Brian Cullinan: Hey you use toroise svn on windows right?
+[02/17/2009 05:16:10 PM] Brian Cullinan: how do you comment on an individual file?
+[02/17/2009 05:57:36 PM] Murphy McCauley: comment on?
+[02/17/2009 06:47:10 PM] Brian Cullinan: like make a log comment
+[02/17/2009 06:47:15 PM] Brian Cullinan: on individual files
+[02/17/2009 06:47:35 PM] Brian Cullinan: i remember when you guys shows us the dev site someone was working on it had comments on every file
+Session Close (Murphy McCauley): Tue Feb 17 19:17:37 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Tue Feb 24 11:54:45 2009
+[02/24/2009 11:55:05 AM] Brian Cullinan: So i got accept-ranges working for file downloads, but i can seem to get windows media player to fire another request
+Session Close (Murphy McCauley): Tue Feb 24 12:29:10 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Tue Feb 24 23:40:57 2009
+[02/24/2009 11:41:31 PM] Brian Cullinan: is there a way for me to write to an input pipe and read from the output pipe with vlc in between at the same time? do i have to use a fork?
+[02/24/2009 11:42:26 PM] Murphy McCauley: From PHP?
+[02/24/2009 11:42:33 PM] Brian Cullinan: ya :-D
+[02/24/2009 11:42:42 PM] Murphy McCauley: I don't see why that should be a problem with popen and friends.
+[02/24/2009 11:43:34 PM] Brian Cullinan: to problem is how do i make it write to the vlc stdin pipe while it is transcoding and creating information to be read by the stdout pipe
+[02/24/2009 11:43:40 PM] Brian Cullinan: they will get delayed
+[02/24/2009 11:44:03 PM] Brian Cullinan: because more or less is it being written or read and waiting on the other
+[02/24/2009 11:44:19 PM] Brian Cullinan: i played around with it a lot today and it never worked like i expected
+[02/24/2009 11:44:29 PM] Murphy McCauley: Ah, I see what you're saying.
+[02/24/2009 11:44:49 PM] Murphy McCauley: Yeah, the easiest way to do it in general is with multiple threads, but that may not be an option in PHP...
+[02/24/2009 11:45:09 PM] Brian Cullinan: i even tried doing a write of some arbitrary length and then reading until there was nothing left to read (even tho the pipe is kept open)
+[02/24/2009 11:45:18 PM] Murphy McCauley: Unless you can put the pipe it gives you in nonblocking mode or something...
+[02/24/2009 11:45:18 PM] Brian Cullinan: not by default at least
+[02/24/2009 11:45:30 PM] Brian Cullinan: pcntl_fork() would probably solve all my problems
+[02/24/2009 11:45:42 PM] Murphy McCauley: Would it?  What does it do?
+[02/24/2009 11:46:07 PM] Murphy McCauley: So the problem with your strategy of writing some length and reading until there was nothing left to read was what?  Eventually a read() hung, right?
+[02/24/2009 11:46:19 PM] Brian Cullinan: (Link: http://us2.php.net/stream_set_blocking)http://us2.php.net/stream_set_blocking
+[02/24/2009 11:46:32 PM] Brian Cullinan: yes i read hung
+[02/24/2009 11:46:45 PM] Brian Cullinan: and couldn't continue the while loop and go back to a write
+[02/24/2009 11:47:07 PM] Murphy McCauley: Right.
+[02/24/2009 11:47:23 PM] Brian Cullinan: so maybe! i just have to set 1 thing to non blocking
+[02/24/2009 11:47:33 PM] Murphy McCauley: So, unfortunately, it says that works for sockets and regular files.  No mention of it working with pipes, though it's worth a shot.
+[02/24/2009 11:47:49 PM] Brian Cullinan: like how about my write, because there will always be stuff to write until there is not, the reading completely depends on how long vlc takes
+[02/24/2009 11:48:09 PM] Brian Cullinan: fread is used on the pipes
+[02/24/2009 11:48:32 PM] Murphy McCauley: Right, but that doesn't mean nonblocking will work with pipes.
+[02/24/2009 11:48:36 PM] Murphy McCauley: But, really... try it. :D
+[02/24/2009 11:48:44 PM] Brian Cullinan: yeah i am going to right now
+[02/24/2009 11:48:50 PM] Brian Cullinan: it will be sweet if it works!
+[02/24/2009 11:49:06 PM] Brian Cullinan: the way i have it set up is the out() function in my modules controls how files are outputted
+[02/24/2009 11:49:53 PM] Brian Cullinan: so if i want to extract a file from a disk image (ISO) i can tell it to write to the vlc stdin pipe, all the while reading the stdout pipe and sending it
+[02/24/2009 11:50:24 PM] Brian Cullinan: this will allow simultaneously reading files of arbitrary length from disk images into vlc for viewing
+[02/24/2009 11:50:38 PM] Murphy McCauley: The very first comment on the stream_set_blocking page says streams from popen() don't work.  But still worth trying.  May be different on different platforms.
+[02/24/2009 11:51:15 PM] Brian Cullinan: this is 5.2
+[02/24/2009 11:53:31 PM] Murphy McCauley: Ah ha...
+[02/24/2009 11:53:49 PM] Murphy McCauley: So I didn't think PHP had a select() call, but it does... it's just called stream_select().
+[02/24/2009 11:53:56 PM] Murphy McCauley: That's the proper way to do it.
+[02/24/2009 11:56:03 PM] Brian Cullinan: what does that do?
+[02/24/2009 11:56:38 PM] Brian Cullinan: so i input the file read stream and the stdin pipe?
+[02/24/2009 11:57:06 PM] Murphy McCauley: select() is like the key to all Unix-like file IO.
+[02/24/2009 11:57:15 PM] Brian Cullinan: hotness
+[02/24/2009 11:57:20 PM] Murphy McCauley: Give it the two pipes.
+[02/24/2009 11:57:34 PM] Brian Cullinan: the file input pipe and the stdin for vlc pipe right?
+[02/24/2009 11:57:34 PM] Murphy McCauley: It will tell you when the write pipe is ready for writing and when the read pipe is ready for reading.
+[02/24/2009 11:57:51 PM] Murphy McCauley: File input meaning your source?  No.
+[02/24/2009 11:57:51 PM] Brian Cullinan: whats except do?
+[02/24/2009 11:58:01 PM] Murphy McCauley: Your source file is always available for reading.
+[02/24/2009 11:58:03 PM] Brian Cullinan: yeah the source
+[02/24/2009 11:58:15 PM] Murphy McCauley: What you want to know is... is VLC ready to READ from it?
+[02/24/2009 11:58:15 PM] Brian Cullinan: oh ok so both vlc pipes
+[02/24/2009 11:58:18 PM] Murphy McCauley: Right.
+[02/24/2009 11:58:45 PM] Murphy McCauley: And when VLC is ready to read, you throw it some data.  And when VLC has written some, you output it over HTTP or whatever.
+[02/24/2009 11:58:58 PM] Brian Cullinan: omfg
+[02/24/2009 11:59:07 PM] Brian Cullinan: if this works you are still a god
+[02/25/2009 12:02:13 AM] Brian Cullinan: holy shit it can detect multiple read and write streams
+[02/25/2009 12:02:53 AM] Murphy McCauley: Right.
+[02/25/2009 12:02:55 AM] Murphy McCauley: Like I said.
+[02/25/2009 12:03:05 AM] Brian Cullinan: this is fucking magic
+[02/25/2009 12:03:11 AM] Murphy McCauley: This is like the center of every Unix thing that deals with multiple files at the same time.
+[02/25/2009 12:03:19 AM] Murphy McCauley: Files or sockets or whatever.
+[02/25/2009 12:04:02 AM] Murphy McCauley: At the heart of every single-thread/single-process server, for example, is a select().
+[02/25/2009 12:04:42 AM] Brian Cullinan: yeah
+[02/25/2009 12:05:15 AM] Brian Cullinan: so do i put this in my while loop for checking if feof is reached on the file or stdout stream
+[02/25/2009 12:06:05 AM] Murphy McCauley: Sounds about right...
+[02/25/2009 12:06:13 AM] Murphy McCauley: Though not exactly right.
+[02/25/2009 12:06:19 AM] Brian Cullinan: how do i know which one is ready?
+[02/25/2009 12:06:53 AM] Brian Cullinan: or will it only proceed when they both are?
+[02/25/2009 12:06:55 AM] Murphy McCauley: It probably has an array that gets set with which ONES are ready (might be more than one).
+[02/25/2009 12:11:37 AM] Murphy McCauley: Oh, on first glance it looks like maybe it removes the non-ready ones from the input arrays.
+[02/25/2009 12:11:58 AM] Brian Cullinan: yeah thats what i am thinking
+[02/25/2009 12:12:45 AM] Murphy McCauley: Remember, even after your source file runs out, you need to keep reading the output pipe until it finishes.
+[02/25/2009 12:13:17 AM] Brian Cullinan: while(!feof($pipes[1]) || !feof($fp))
+[02/25/2009 12:16:37 AM] Brian Cullinan: so did i tell you i got accept-ranges working for file downloads
+[02/25/2009 12:17:02 AM] Brian Cullinan: i still can't get windows media player to request a second time, but i have seen it done so i know it is possible
+[02/25/2009 12:21:32 AM] Brian Cullinan: holy shit
+[02/25/2009 12:21:34 AM] Brian Cullinan: it works!
+[02/25/2009 12:24:10 AM] Brian Cullinan: i don't think i have ever made so much progress on a website before
+[02/25/2009 12:24:23 AM] Brian Cullinan: i mean instantaneous output from vlc was good enough!
+[02/25/2009 12:24:25 AM] Brian Cullinan: this is amazing
+[02/25/2009 12:25:40 AM] Brian Cullinan: potentially i just need to record the final amount of bytes written, so the first time something is played the content-length header is not set, the next time it is played content length will be correct
+[02/25/2009 12:26:03 AM] Murphy McCauley: Right.
+[02/25/2009 12:26:24 AM] Brian Cullinan: i am thinking about integrating with another service, media tomb, or some cross platform UPnP solution
+[02/25/2009 12:26:35 AM] Murphy McCauley: Though is that helpful?  I mean, you'll still have to sit there and churn to decode up to the desired point, which may take a long time.
+[02/25/2009 12:27:51 AM] Brian Cullinan: decoding is all simultaneous though, all the clients i am using work without the content-length, so it will be completely behind the scenes and the only added benefit is being able to seek at any time to any time
+[02/25/2009 12:28:37 AM] Murphy McCauley: Right, but you can't just seek.  You still need to decode up to where they tell you to seek to.
+[02/25/2009 12:28:47 AM] Brian Cullinan: actually what i saw ampache do, is since the bitrate is known, it just scales the filesize to the output bitrate and puts zeros at the end to fill in the rest of the length
+[02/25/2009 12:28:54 AM] Brian Cullinan: oh LOL!
+[02/25/2009 12:29:02 AM] Brian Cullinan: --start-time= baby
+[02/25/2009 12:29:07 AM] Brian Cullinan: it's perfect
+[02/25/2009 12:29:28 AM] Brian Cullinan: don't need to decode, i will just use the range the client sends to figure out where to start in the file
+[02/25/2009 12:29:50 AM] Brian Cullinan: and then return whatever range they sent and pretend thats where they actually are in the file
+[02/25/2009 12:29:56 AM] Murphy McCauley: But doesn't that take a TIME and not a byte index?
+[02/25/2009 12:30:03 AM] Murphy McCauley: Yeah.
+[02/25/2009 12:30:03 AM] Brian Cullinan: correct
+[02/25/2009 12:30:07 AM] Murphy McCauley: So it's not really that accurate
+[02/25/2009 12:30:17 AM] Brian Cullinan: $range/$total_bytes * $length
+[02/25/2009 12:30:30 AM] Brian Cullinan: it's lose enough!
+[02/25/2009 12:30:33 AM] Brian Cullinan: *close
+[02/25/2009 12:30:47 AM] Murphy McCauley: For variable bit-rate input it might not be. ;)
+[02/25/2009 12:30:57 AM] Brian Cullinan: yeah good point
+[02/25/2009 12:31:07 AM] Brian Cullinan: which will throw off the range selection
+[02/25/2009 12:31:28 AM] Murphy McCauley: Better than nothing, maybe.
+[02/25/2009 12:31:29 AM] Brian Cullinan: omfg
+[02/25/2009 12:31:31 AM] Brian Cullinan: duh
+[02/25/2009 12:31:48 AM] Brian Cullinan: $bitrate * $song_length
+[02/25/2009 12:31:55 AM] Brian Cullinan: + buffer
+[02/25/2009 12:31:59 AM] Brian Cullinan: holy shit
+[02/25/2009 12:32:02 AM] Murphy McCauley: ?
+[02/25/2009 12:32:08 AM] Brian Cullinan: why wouldn't that work?
+[02/25/2009 12:32:18 AM] Brian Cullinan: we know the output bitrate
+[02/25/2009 12:32:21 AM] Brian Cullinan: and the length of the song
+[02/25/2009 12:32:31 AM] Brian Cullinan: so the total length of output must be somewhere around there
+[02/25/2009 12:33:11 AM] Murphy McCauley: Again, not necessarily for VBR.  But yeah, basically.  But that doesn't do you any good.
+[02/25/2009 12:33:44 AM] Brian Cullinan: no the VBR is being converted down to the specified output bitrate
+[02/25/2009 12:33:45 AM] Murphy McCauley: Oh.
+[02/25/2009 12:33:48 AM] Brian Cullinan: lol
+[02/25/2009 12:33:55 AM] Brian Cullinan: so VBR is irrelevant not
+[02/25/2009 12:33:57 AM] Brian Cullinan: *now
+[02/25/2009 12:34:00 AM] Brian Cullinan: it's perfect
+[02/25/2009 12:34:11 AM] Murphy McCauley: I meant VBR as in if you ever ENCODE with VBR.
+[02/25/2009 12:34:14 AM] Murphy McCauley: For the output.
+[02/25/2009 12:34:27 AM] Brian Cullinan: yeah which is doubtful when streaming over networks
+[02/25/2009 12:35:05 AM] Murphy McCauley: So yeah.  If your output is CBR, that should be pretty close.
+[02/25/2009 12:35:06 AM] Brian Cullinan: because that would cause buffering weirdness and it's not really necissary, if your network can support it, just up the bitrate to something higher
+[02/25/2009 12:35:46 AM] Brian Cullinan: i could even go all out and figure out how big the header is and how big the each frame header is and tack that on to the multiplier
+[02/25/2009 12:36:07 AM] Brian Cullinan: or just use ceiling() and be done with it
+[02/25/2009 12:37:30 AM] Brian Cullinan: ampache even adjusts the output bitrate based on upload speed and how many people are listening, it divides it evenly between everyone
+[02/25/2009 12:37:34 AM] Brian Cullinan: but my project is better
+[02/25/2009 12:37:39 AM] Brian Cullinan: you should svn checkout
+[02/25/2009 12:37:52 AM] Brian Cullinan: if your interested
+[02/25/2009 12:37:57 AM] Brian Cullinan: well thanks for the stream help!
+[02/25/2009 12:38:07 AM] Brian Cullinan: always nice tossing ideas around with another pro
+[02/25/2009 12:38:10 AM] Brian Cullinan: g2g to bed
+[02/25/2009 12:38:34 AM] Murphy McCauley: TTYL
+Session Close (Murphy McCauley): Wed Feb 25 01:09:17 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Wed Feb 25 10:58:23 2009
+[02/25/2009 10:58:50 AM] Brian Cullinan: it keeps stopping songs early, this stream select, even though i wait until everything is closed to stop looping
+[02/25/2009 11:00:18 AM] Brian Cullinan: it must be getting an error that i am missing
+Session Close (Murphy McCauley): Wed Feb 25 11:30:20 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Wed Feb 25 15:30:48 2009
+[02/25/2009 03:30:48 PM] Murphy McCauley: nope, not in the lounge
+[02/25/2009 03:36:58 PM] Brian Cullinan: so i was having problems with buffers getting overwritten and skipping parts of songs
+[02/25/2009 03:37:22 PM] Brian Cullinan: but if i put a delay on the stream_select it works better
+[02/25/2009 03:41:26 PM] Murphy McCauley: you were passing 0 before?
+[02/25/2009 03:41:58 PM] Murphy McCauley: if possible you should pass NULL for timeout
+[02/25/2009 03:46:31 PM] Brian Cullinan: why null?
+[02/25/2009 03:46:42 PM] Murphy McCauley: means it'll wait forever
+[02/25/2009 03:46:55 PM] Brian Cullinan: oh snap
+[02/25/2009 03:47:00 PM] Brian Cullinan: thats probably perfect
+[02/25/2009 03:47:41 PM] Murphy McCauley: Unless they've screwed up and that keeps the process from terminating if a user breaks the connection, I think so.
+[02/25/2009 03:48:05 PM] Brian Cullinan: yeah it probably does
+[02/25/2009 03:48:20 PM] Murphy McCauley: I dunno.  It shouldn't.
+[02/25/2009 03:48:26 PM] Murphy McCauley: But it IS php, after all.
+[02/25/2009 03:53:33 PM] Murphy McCauley: bbiaf
+[02/25/2009 04:20:02 PM] Brian Cullinan: it seems to be working
+[02/25/2009 04:20:11 PM] Brian Cullinan: no extra vlc processes
+[02/25/2009 04:20:17 PM] Brian Cullinan: so it's closing and killing
+[02/25/2009 04:20:46 PM] Murphy McCauley: sweet
+[02/25/2009 04:21:10 PM] Brian Cullinan: seems to be working a lot better, thanks for everything!
+[02/25/2009 04:21:15 PM] Brian Cullinan: i haven't heard it skip at all
+[02/25/2009 04:21:32 PM] Murphy McCauley: no proble
+[02/25/2009 04:21:34 PM] Murphy McCauley: m
+Session Close (Murphy McCauley): Wed Feb 25 17:10:04 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Sun Mar 01 23:25:44 2009
+[03/01/2009 11:25:49 PM] Brian Cullinan: man this is just not working
+[03/01/2009 11:26:00 PM] Murphy McCauley: What's that?
+[03/01/2009 11:26:09 PM] Brian Cullinan: the streaming thing
+[03/01/2009 11:26:16 PM] Brian Cullinan: it keeps fucking up with video
+[03/01/2009 11:27:01 PM] Murphy McCauley: How's it fucking up?
+[03/01/2009 11:27:25 PM] Brian Cullinan: it plays for about a minute and then finally fails
+[03/01/2009 11:28:22 PM] Brian Cullinan: but i did figure out that you can use the return from fwrite to figure out how much was written and if it isn't the full amount rom set_blocking() you can go back and rewrite the missing parts
+[03/01/2009 11:28:27 PM] Brian Cullinan: but still no good
+[03/01/2009 11:28:30 PM] Brian Cullinan: it just fails
+[03/01/2009 11:29:08 PM] Murphy McCauley: Ah, sorry.  Should have mentioned that about incomplete writes.
+[03/01/2009 11:29:26 PM] Murphy McCauley: So what happens?  It eventually stops putting out more data?
+[03/01/2009 11:29:30 PM] Brian Cullinan: but now i am checking for size and it still doesn't work
+[03/01/2009 11:29:35 PM] Brian Cullinan: i can't tell
+[03/01/2009 11:29:44 PM] Brian Cullinan: it gets stuck somewhere
+[03/01/2009 11:29:48 PM] Brian Cullinan: same place every time
+[03/01/2009 11:30:20 PM] Murphy McCauley: Of course you can tell.  If nothing else, watch it with tcpdump or something and see if it's still sending data or not!
+[03/01/2009 11:30:46 PM] Brian Cullinan: the last thing that happens in an input error from the write being too small
+[03/01/2009 11:30:58 PM] Murphy McCauley: An input error?
+[03/01/2009 11:31:21 PM] Brian Cullinan: sorry read from the file and writing to the vlc stdin
+[03/01/2009 11:32:29 PM] Murphy McCauley: Okay.  You get an incomplete write to vlc's input pipe because its buffer is too full.
+[03/01/2009 11:32:42 PM] Murphy McCauley: So what are you doing to rectify that?
+[03/01/2009 11:33:09 PM] Brian Cullinan: i am still using select
+[03/01/2009 11:35:05 PM] Murphy McCauley: But specifically.  If you were trying to write 1024 bytes and you only wrote 24... you want to seek the input file back 1000 bytes and then go back to your select().  You doing that?
+[03/01/2009 11:35:17 PM] Brian Cullinan: yes
+[03/01/2009 11:35:23 PM] Brian Cullinan: fseek($fp, ftell($fp) - (BUFFER_SIZE - $count));
+[03/01/2009 11:35:57 PM] Brian Cullinan: yeah it must be vlc stdin is filling up because it stops in the same place every time
+[03/01/2009 11:36:30 PM] Murphy McCauley: That looks good (assuming you actually READ all BUFFER_SIZE bytes...).
+[03/01/2009 11:36:46 PM] Murphy McCauley: (are you checking the return from fread() on the source file?)
+[03/01/2009 11:36:58 PM] Brian Cullinan: not really o
+[03/01/2009 11:36:59 PM] Brian Cullinan: no
+[03/01/2009 11:37:08 PM] Brian Cullinan: but that isn't set to set_blocking false
+[03/01/2009 11:37:44 PM] Murphy McCauley: Still wouldn't hurt, especially since the last reads will probably not be BUFFER_SIZE.
+[03/01/2009 11:38:02 PM] Murphy McCauley: err... last read.
+[03/01/2009 11:38:30 PM] Brian Cullinan: yeah, maybe i should refactor some code, do i have to use strlen() on the read data?
+[03/01/2009 11:39:30 PM] Murphy McCauley: Why not just use the return value from fread()?
+[03/01/2009 11:39:50 PM] Brian Cullinan: the return value from fread is the data
+[03/01/2009 11:41:26 PM] Murphy McCauley: Really?  Hmm...
+[03/01/2009 11:41:35 PM] Murphy McCauley: PHP is weird! :D
+[03/01/2009 11:41:59 PM] Brian Cullinan: it's the only language i know well enough to do this in
+[03/01/2009 11:43:31 PM] Murphy McCauley: Yeah, okay.  I guess I'd try strlen() and hope it doesn't just count up to the first 0x00.
+[03/01/2009 11:43:58 PM] Brian Cullinan: yeah
+[03/01/2009 11:44:24 PM] Brian Cullinan: i think it is binary safe
+[03/01/2009 11:47:49 PM] Brian Cullinan: i don't think i can seek the vlc pipe
+[03/01/2009 11:48:08 PM] Murphy McCauley: You can't seek a pipe, it's true.
+[03/01/2009 11:48:10 PM] Murphy McCauley: Why would you want to?
+[03/01/2009 11:55:57 PM] Brian Cullinan: so now i read the file into a buffer, then i write it to the pipe and when buffer has all been written it writes the next part
+[03/01/2009 11:56:10 PM] Brian Cullinan: or it reads in and tries to write the next part
+[03/01/2009 11:56:20 PM] Brian Cullinan: and it still stops
+[03/01/2009 11:56:27 PM] Brian Cullinan: i am thinking it might be the protocol
+[03/01/2009 11:57:09 PM] Murphy McCauley: Oh, I didn't necessarily think this would fix it.  It's just that fixing it is a good idea. :)
+[03/01/2009 11:57:22 PM] Brian Cullinan: yeah
+[03/01/2009 11:57:24 PM] Murphy McCauley: But why did you switch to reading it into a buffer?
+[03/01/2009 11:57:44 PM] Brian Cullinan: i think the ts protocol is a lot more stable then asf
+[03/01/2009 11:59:05 PM] Brian Cullinan: nope even using a completely different muxer it still stops in the same place
+[03/01/2009 11:59:08 PM] Brian Cullinan: man this sucks
+[03/01/2009 11:59:13 PM] Murphy McCauley: So don't play it back.  Download it.
+[03/01/2009 11:59:18 PM] Murphy McCauley: Use wget to grab it.
+[03/01/2009 11:59:21 PM] Murphy McCauley: Or something.
+[03/01/2009 11:59:33 PM] Brian Cullinan: that defeats the entire purpose of the entire website
+[03/01/2009 11:59:33 PM] Murphy McCauley: And see what it looks like.
+[03/01/2009 11:59:48 PM] Brian Cullinan: if i wanted to use wget i would use apache directory listings
+[03/02/2009 12:00:24 AM] Brian Cullinan: ok
+[03/02/2009 12:01:43 AM] Brian Cullinan: i don't see anything obviously wrong with it
+[03/02/2009 12:04:01 AM] Murphy McCauley: Don't see anything wrong with what?
+[03/02/2009 12:05:33 AM] Brian Cullinan: the file
+[03/02/2009 12:05:48 AM] Brian Cullinan: so i wonder if vlc has to conform to the memory restrictions
+[03/02/2009 12:06:19 AM] Brian Cullinan: it seems like it stopped working right when apache switch to 8% mem and at the same time vlc switched to 13% mem
+[03/02/2009 12:06:27 AM] Murphy McCauley: ??
+[03/02/2009 12:06:43 AM] Murphy McCauley: I'm not talking about the original file.
+[03/02/2009 12:06:54 AM] Brian Cullinan: the video starts back up again
+[03/02/2009 12:06:55 AM] Murphy McCauley: I'm talking about wgetting the reencoded stream.
+[03/02/2009 12:06:58 AM] Brian Cullinan: could it be a delay?
+[03/02/2009 12:07:05 AM] Brian Cullinan: yeah thats what i did
+[03/02/2009 12:07:09 AM] Brian Cullinan: stream looks fine
+[03/02/2009 12:07:17 AM] Brian Cullinan: maybe it is just network problems
+[03/02/2009 12:07:19 AM] Murphy McCauley: It plays the whole way through?
+[03/02/2009 12:07:22 AM] Brian Cullinan: my upload is too slow
+[03/02/2009 12:07:29 AM] Brian Cullinan: it is playing again
+[03/02/2009 12:07:32 AM] Brian Cullinan: after stopping
+[03/02/2009 12:07:37 AM] Brian Cullinan: so it doesn't stop outputting
+[03/02/2009 12:07:41 AM] Brian Cullinan: something just goes wrong
+[03/02/2009 12:08:40 AM] Brian Cullinan: nah 192MB for php is more then enough
+[03/02/2009 12:10:19 AM] Brian Cullinan: well thanks for the help, i don't think it is my site causing problems
+[03/02/2009 12:10:26 AM] Brian Cullinan: i think it is something else with my setup
+[03/02/2009 12:10:45 AM] Murphy McCauley: Hmm...
+[03/02/2009 12:10:59 AM] Murphy McCauley: I think it's a problem with your code.
+[03/02/2009 12:11:24 AM] Brian Cullinan: i think its my network speeds
+[03/02/2009 12:11:37 AM] Murphy McCauley: Give me a URL so I can look at it?
+[03/02/2009 12:11:50 AM] Brian Cullinan: look at my code?
+[03/02/2009 12:12:18 AM] Murphy McCauley: Nah.  I want to see one of these problematic streams.
+[03/02/2009 12:12:36 AM] Brian Cullinan: (Link: http://dev.bjcullinan.com/plugins/encode.php/db_file/385282/WMV/File30.rock.311.hdtv-lol.avi.wmv)http://dev.bjcullinan.com/plugins/encode.php/db_file/385282/WMV/File30.rock.311.hdtv(Link: http://dev.bjcullinan.com/plugins/encode.php/db_file/385282/WMV/File30.rock.311.hdtv-lol.avi.wmv)-lol.avi.wmv
+[03/02/2009 12:12:53 AM] Brian Cullinan: (Link: http://dev.bjcullinan.com/plugins/encode.phps)http://dev.bjcullinan.com/plugins/encode.phps
+[03/02/2009 12:13:40 AM] Murphy McCauley: How big is this and/or how long until it messees up?
+[03/02/2009 12:13:54 AM] Brian Cullinan: about a minute
+[03/02/2009 12:14:04 AM] Brian Cullinan: right when it plays the theme song for the show
+[03/02/2009 12:18:08 AM] Brian Cullinan: what do you think?
+[03/02/2009 12:18:24 AM] Brian Cullinan: i think it's codec errors
+[03/02/2009 12:18:34 AM] Murphy McCauley: Sorry, being distracted.  Give me a minute.
+[03/02/2009 12:18:41 AM] Brian Cullinan: using stdin the file can't be seeked either
+[03/02/2009 12:18:52 AM] Murphy McCauley: Hm?
+[03/02/2009 12:19:10 AM] Brian Cullinan: so if the frame reading gets off it will try and encode frames that aren't entirely there yet
+[03/02/2009 12:23:24 AM] Murphy McCauley: Why would it need to seek?
+[03/02/2009 12:23:51 AM] Brian Cullinan: to pull out other information from the video
+[03/02/2009 12:24:57 AM] Murphy McCauley: Why would it need to?  VLC has to buffer everything it needs internally.
+[03/02/2009 12:25:23 AM] Brian Cullinan: yeah i guess
+[03/02/2009 12:25:23 AM] Murphy McCauley: I can't imagine it's written so badly that it would need to seek its input.
+[03/02/2009 12:25:41 AM] Brian Cullinan: so did you take a look at the script?
+[03/02/2009 12:28:11 AM] Murphy McCauley: Hmm...
+[03/02/2009 12:28:24 AM] Murphy McCauley: So this file is playing back awfully... as if it's either missing data or is over-compressed.
+[03/02/2009 12:28:31 AM] Murphy McCauley: But it hasn't just stopped.
+[03/02/2009 12:29:02 AM] Brian Cullinan: yet
+[03/02/2009 12:29:08 AM] Brian Cullinan: past the intro song?
+[03/02/2009 12:30:48 AM] Murphy McCauley: Gets somewhat better after the intro song.
+[03/02/2009 12:31:03 AM] Brian Cullinan: hmm
+[03/02/2009 12:31:12 AM] Brian Cullinan: what client?
+[03/02/2009 12:31:56 AM] Murphy McCauley: I downloaded it.
+[03/02/2009 12:32:10 AM] Murphy McCauley: And am playing it back from a file with VLC.
+[03/02/2009 12:32:26 AM] Brian Cullinan: yeah but that defeats the point
+[03/02/2009 12:33:14 AM] Murphy McCauley: Well.  The point is to see if the stream is corrupt or if it's just too slow!
+[03/02/2009 12:33:29 AM] Brian Cullinan: so you think the stream is too slow?
+[03/02/2009 12:33:50 AM] Murphy McCauley: Well, is this thing configured to make this stream look kind of awful?
+[03/02/2009 12:34:23 AM] Brian Cullinan: i think it is up transcoding
+[03/02/2009 12:34:29 AM] Brian Cullinan: so it has to add stuff
+[03/02/2009 12:34:38 AM] Murphy McCauley: Add stuff?
+[03/02/2009 12:34:45 AM] Brian Cullinan: yeah blank frames
+[03/02/2009 12:34:55 AM] Brian Cullinan: or extra frames
+[03/02/2009 12:35:04 AM] Murphy McCauley: Why?
+[03/02/2009 12:35:57 AM] Murphy McCauley: I think you should try encoding it with the same settings from the commandline.
+[03/02/2009 12:36:02 AM] Murphy McCauley: And see how that looks.
+[03/02/2009 12:36:18 AM] Brian Cullinan: the same settings as in the video?
+[03/02/2009 12:36:36 AM] Murphy McCauley: The same settings as it's doing it through the web interface.
+[03/02/2009 12:37:14 AM] Brian Cullinan: i see
+[03/02/2009 12:37:25 AM] Murphy McCauley: To see if it looks the same as what I am seeing here.
+[03/02/2009 12:37:32 AM] Murphy McCauley: I mean, they should be byte-for-byte identical!
+[03/02/2009 12:38:26 AM] Brian Cullinan: good idea
+[03/02/2009 12:41:40 AM] Brian Cullinan: i see like a foggy cover over the movie that goes in and out
+[03/02/2009 12:41:56 AM] Murphy McCauley: Put it up and let me download some of it to compare?
+[03/02/2009 12:42:08 AM] Murphy McCauley: Also, gotta take a break here.  Phone call.
+[03/02/2009 12:51:57 AM] Brian Cullinan: looks the same
+[03/02/2009 12:52:24 AM] Brian Cullinan: (Link: http://dev.bjcullinan.com/test.wmv)http://dev.bjcullinan.com/test.wmv
+[03/02/2009 12:53:34 AM] Brian Cullinan: yeah there is a lot missing!
+[03/02/2009 12:53:40 AM] Brian Cullinan: it is down transcoding too
+[03/02/2009 12:53:59 AM] Brian Cullinan: well this is promising it means it's not my site!
+[03/02/2009 12:55:05 AM] Brian Cullinan: i guess next i should try transcoding with listing actual files in the command line
+[03/02/2009 12:57:12 AM] Brian Cullinan: so that just means when the client is downloading it immediately it is waiting for some frames it can actually play that aren't screwed up
+[03/02/2009 01:00:52 AM] Brian Cullinan: yeah i think it is the bitrates
+[03/02/2009 01:01:13 AM] Brian Cullinan: certain muxers and codecs have certain ranges that they work in
+[03/02/2009 01:30:53 AM] Murphy McCauley: So there are a couple minor differences, but they're like a byte here and a byte there.  Kind of weird, but could be normal.
+[03/02/2009 06:10:46 AM] *** You have been disconnected. Mon Mar 02 06:10:46 2009.
+[03/02/2009 06:16:14 AM] *** "Murphy McCauley" signed on at Mon Mar 02 06:16:14 2009.
+Session Close (Murphy McCauley): Mon Mar 02 09:34:48 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Mar 05 23:39:09 2009
+[03/05/2009 11:39:09 PM] Murphy McCauley: Did you get your shift register LCD code working?
+[03/05/2009 11:39:20 PM] Brian Cullinan: lol no
+[03/05/2009 11:39:29 PM] Murphy McCauley: Hmm...
+[03/05/2009 11:39:35 PM] Murphy McCauley: Maybe you can answer my question anyway.
+[03/05/2009 11:39:59 PM] Brian Cullinan: whats up?
+[03/05/2009 11:40:17 PM] Murphy McCauley: The way I wrote down the circuit, it looks like they had the lowest bit of the shift register doing into the highest bit of the LCD (DB7).
+[03/05/2009 11:40:22 PM] Murphy McCauley: So you have to load it backwards.
+[03/05/2009 11:40:37 PM] Brian Cullinan: yeah, but maybe your loading backwards backwards
+[03/05/2009 11:40:44 PM] Brian Cullinan: did you try switching them
+[03/05/2009 11:40:51 PM] Murphy McCauley: Just wondering if that jives with what you know.  I remember you had yours hooked up backward for a while.
+[03/05/2009 11:40:53 PM] Brian Cullinan: a lot of people were having that problem
+[03/05/2009 11:40:57 PM] Murphy McCauley: Well, I don't have any of it here. :)
+[03/05/2009 11:41:13 PM] Murphy McCauley: Just wanted to make sure they had it wired like that and I didn't write it down wrong.
+[03/05/2009 11:41:25 PM] Murphy McCauley: I would consider that to be wired backwards.
+[03/05/2009 11:41:28 PM] Brian Cullinan: yeah it makes sense
+[03/05/2009 11:41:42 PM] Brian Cullinan: i mean shifting them on backwards
+[03/05/2009 11:41:44 PM] Murphy McCauley: Though whoever initially did it probably wasn't paying that much attention.
+[03/05/2009 11:42:03 PM] Brian Cullinan: it's high endian or something
+[03/05/2009 11:42:15 PM] Brian Cullinan: on the nibbles
+[03/05/2009 11:42:32 PM] Brian Cullinan: so you have to shift the lower nibble on first
+[03/05/2009 11:42:35 PM] Brian Cullinan: then clock it out
+[03/05/2009 11:42:57 PM] Murphy McCauley: You have to shift the HIGH nybble on first.
+[03/05/2009 11:43:09 PM] Brian Cullinan: yeah
+[03/05/2009 11:43:13 PM] Brian Cullinan: thats what i meant
+[03/05/2009 11:44:03 PM] Murphy McCauley: You have to shift on the list significant bit of the the most significant nybble first.
+[03/05/2009 11:44:26 PM] Murphy McCauley: Which is just kind of goofy. ;)
+[03/05/2009 11:44:31 PM] Brian Cullinan: yeah
+[03/05/2009 11:44:44 PM] Brian Cullinan: i was going to work on it tomorrow
+[03/05/2009 11:45:12 PM] Murphy McCauley: I mean, it's all totally arbitrary, really.  Just thought I'd double check.  Hopefully I will show up and this will just work. :)
+[03/05/2009 11:45:13 PM] Murphy McCauley: Thanks.
+[03/05/2009 11:45:26 PM] Murphy McCauley: Yeah, if mine doesn't just work, I will be sticking around after to fix it up.
+[03/05/2009 11:45:42 PM] Murphy McCauley: The next part of the project is supposed to be due Monday, but he's not even going to be there!
+[03/05/2009 11:45:50 PM] Murphy McCauley: Maybe we can get an extension until after break.
+[03/05/2009 11:46:22 PM] Brian Cullinan: yeah
+Session Close (Murphy McCauley): Fri Mar 06 00:18:07 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Tue Mar 10 15:44:09 2009
+[03/10/2009 03:44:09 PM] Murphy McCauley: I think we said tonight for studying, but I'm actually not going to be able to make it.  I am probably up for studying tomorrow afternoon, though, if anyone else is.
+[03/10/2009 03:49:36 PM] Brian Cullinan: i will be
+Session Close (Murphy McCauley): Tue Mar 10 16:22:39 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Mar 12 16:40:24 2009
+[03/12/2009 04:40:30 PM] Brian Cullinan: can i bounce some ideas off you?
+[03/12/2009 04:40:41 PM] Brian Cullinan: i am going though my TODO.TXT
+Session Close (Murphy McCauley): Thu Mar 12 17:34:19 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Fri Mar 13 16:47:18 2009
+Session Close (Murphy McCauley): Fri Mar 13 16:47:20 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Mar 19 22:33:17 2009
+[03/19/2009 10:33:22 PM] Brian Cullinan: ok i am in a bind again
+[03/19/2009 10:33:37 PM] Murphy McCauley: Yeah?
+[03/19/2009 10:33:45 PM] Brian Cullinan: for some reason i can't get readdir or opendir to use unicode
+[03/19/2009 10:34:12 PM] Brian Cullinan: it keeps returning path names with question marks in the place of a unicode character
+[03/19/2009 10:35:23 PM] Murphy McCauley: Huh.
+[03/19/2009 10:35:44 PM] Murphy McCauley: Any notes on Unicode in PHP?
+[03/19/2009 10:36:05 PM] Brian Cullinan: well i guess other people are having the same problem
+[03/19/2009 10:37:21 PM] Brian Cullinan: it's weird though, i have had both results
+[03/19/2009 10:37:35 PM] Brian Cullinan: i copied the sample code from the opendir manual
+[03/19/2009 10:37:56 PM] Brian Cullinan: and set for example, $file = readdir()
+[03/19/2009 10:38:12 PM] Brian Cullinan: and then used file_exists($file) and i thought it returned true
+[03/19/2009 10:38:32 PM] Brian Cullinan: but now i am doing the same thing and it is returning false
+[03/19/2009 10:38:48 PM] Murphy McCauley: Could have been mistaken the first time?
+[03/19/2009 10:38:57 PM] Murphy McCauley: Make file_exists() is the one that's doing it wrong?!
+[03/19/2009 10:39:44 PM] Brian Cullinan: i don't think so, i have tried printing out the characters but they are always ????
+[03/19/2009 10:39:52 PM] Brian Cullinan: it is pretty consistent with what i am reading
+[03/19/2009 10:39:56 PM] Brian Cullinan: (Link: http://bugs.php.net/bug.php?id=43148)http://bugs.php.net/bug.php?id=43148(Link: http://bugs.php.net/bug.php?id=43148)
+[03/19/2009 10:40:06 PM] Brian Cullinan: there are a couple reports like that, all the same problems
+[03/19/2009 10:41:45 PM] Brian Cullinan: there may be different functions that support unicode
+[03/19/2009 10:41:56 PM] Brian Cullinan: possible glob or the dir() class is what i just read
+[03/19/2009 10:46:30 PM] Brian Cullinan:                               $d = dir(dirname($file['Filepath'])); 
+                               $count = 0; 
+                               while (($tmp_file = $d->read()) !== false) { 
+                                    if($tmp_file[0] != '.') 
+                                    { 
+                                         //$tmp_file = realpath($tmp_file); 
+                                         if($count == $i) 
+                                         { 
+                                              for($j = 0; $j < strlen($tmp_file); $j++) 
+                                              { 
+                                                   print $tmp_file[$j] . ' - ' . ord($tmp_file[$j]) . '<br />'; 
+                                              } 
+                                              break; 
+                                         } 
+                                         $count++; 
+                                    } 
+                               } 
+                               $d->close(); 
+                               var_dump(dirname($file['Filepath']) . '/' . $tmp_file); 
+                               var_dump(file_exists(dirname($file['Filepath']) . '/' . $file)); 
+ 
+[03/19/2009 10:47:55 PM] Brian Cullinan: incase you want to give it a shot, replace my $file['Filepath'] stuf with a directory with unicode characters, i have been testing it on Alt+0180 or the accute accent U+00B4
+[03/19/2009 10:48:12 PM] Brian Cullinan: and the line with print probably isn't relevant to you
+[03/19/2009 10:56:55 PM] Murphy McCauley: Man, this thread is a mess.
+[03/19/2009 10:56:58 PM] Murphy McCauley: From the bug report.
+[03/19/2009 10:57:02 PM] Brian Cullinan: yeah
+[03/19/2009 10:59:48 PM] Murphy McCauley: This a problem on Linux or on Windows?
+[03/19/2009 11:02:27 PM] Brian Cullinan: man this is weird
+[03/19/2009 11:02:37 PM] Brian Cullinan: i have another script and it is giving me completely different results
+[03/19/2009 11:13:13 PM] Murphy McCauley: With the same file?
+[03/19/2009 11:58:55 PM] Brian Cullinan: ya
+[03/20/2009 12:23:22 AM] *** "Murphy McCauley" signed off at Fri Mar 20 00:23:22 2009.
+Session Close (Murphy McCauley): Fri Mar 20 00:37:03 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Fri Mar 20 14:19:05 2009
+[03/20/2009 02:19:13 PM] Brian Cullinan: ok i am absolutely baffled
+[03/20/2009 02:21:42 PM] Brian Cullinan: when i make a change somewhere in the script or database, something completely arbitrary, the first time the script runs the file_exists() fails and returns false, then when i run the script again, it runs quickly because of some strange cache, and the file_exists() returns true
+[03/20/2009 02:22:42 PM] Brian Cullinan: on the same file, extracting the filepath in the exact same way from the database, it is the exact same script that fails, when run a second time with some strange cache it returns true
+[03/20/2009 02:23:46 PM] Murphy McCauley: hah
+[03/20/2009 02:24:04 PM] Murphy McCauley: I wonder if something changes the text encoding or something.
+[03/20/2009 02:24:09 PM] Brian Cullinan: if i put the value into the database and extract it immediately, the file_exists() works properly
+[03/20/2009 02:24:23 PM] Brian Cullinan: but something changes the second time the script runs
+[03/20/2009 02:24:43 PM] Murphy McCauley: This is what I'm telling you about PHP, dude. ;)
+[03/20/2009 02:24:59 PM] Murphy McCauley: The thing is such a tangled hack, this doesn't suprise me THAT much. ;)
+[03/20/2009 02:26:01 PM] Brian Cullinan: i don't think it is the database because there are two files right next to each other that have a unicode character, so it failed on the first file, then ran it again and it succeeded, then changed it to look for the next file and it succeeded, if it was database cache should it act the same way for both files, fail and then succeed?
+[03/20/2009 02:26:47 PM] Brian Cullinan: very strange
+[03/20/2009 02:56:55 PM] Brian Cullinan: ok now it appears to be function dependent
+[03/20/2009 02:57:11 PM] Brian Cullinan: using the exact same code, returns different results in different functions
+[03/20/2009 02:57:57 PM] Murphy McCauley: I am wondering if it depends on what you've called above it.
+[03/20/2009 02:59:24 PM] Brian Cullinan: the functions is being called with a call_user_func_array but all the variable are completely independent of that
+[03/20/2009 02:59:47 PM] Murphy McCauley: I mean like...
+[03/20/2009 03:00:12 PM] Murphy McCauley: If you call function someFunc() before calling file_exists(), it works. But if you don't, it doesn't.
+[03/20/2009 03:00:13 PM] Murphy McCauley: Etc.
+[03/20/2009 03:00:41 PM] Brian Cullinan: yeah, i am trying to narrow it down
+[03/20/2009 03:01:25 PM] Brian Cullinan: interesting, i wonder if it could be because i am making another mysql call
+[03/20/2009 03:01:54 PM] Brian Cullinan: and even though i am using the result resource ids properly, it is affecting how it returns the rows
+[03/20/2009 03:02:47 PM] Brian Cullinan: i think it could be that
+[03/20/2009 03:04:17 PM] Murphy McCauley: I think it's possible.
+[03/20/2009 03:04:35 PM] Murphy McCauley: My best guess at this point is that something is messing with the system locale when you call it.
+[03/20/2009 03:04:47 PM] Murphy McCauley: And leaving it in a different state than when it started.
+[03/20/2009 03:05:07 PM] Brian Cullinan: yeah so it is definitely this call
+[03/20/2009 03:05:13 PM] Brian Cullinan: fetching a row
+[03/20/2009 03:05:38 PM] Brian Cullinan: when i put my code before it, it succeeds, when i put it after it fails
+[03/20/2009 03:07:06 PM] Murphy McCauley: try printing out the LANG environment variable before and after the troublesome call
+[03/20/2009 03:07:09 PM] Murphy McCauley: a longshot
+[03/20/2009 03:09:08 PM] Brian Cullinan: yeah appears to be the same, but i think i was wrong about the call, something else is affecting it
+[03/20/2009 03:09:26 PM] Brian Cullinan: because not the file_exists() is before the mysql call, but still false
+Session Close (Murphy McCauley): Fri Mar 20 15:39:28 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Fri Mar 20 17:20:21 2009
+[03/20/2009 05:21:52 PM] Brian Cullinan: so it looks like i am getting different results based on the size of the queries, if i take out all the queries between checking if the file_exists() that contains a unicode character, it will succeed, but then when i start adding queried back in, the larger the queries the more times the file_exists() query fails
+[03/20/2009 05:51:50 PM] *** "Murphy McCauley" signed off at Fri Mar 20 17:51:50 2009.
+Session Close (Murphy McCauley): Fri Mar 20 18:21:52 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Tue Mar 24 14:21:07 2009
+[03/24/2009 02:21:22 PM] Brian Cullinan: Do you have any idea on how to extract the title from a DVD?
+Session Close (Murphy McCauley): Tue Mar 24 15:24:50 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Tue Mar 24 19:08:16 2009
+[03/24/2009 07:08:16 PM] Murphy McCauley: A video DVD that's inserted into a drive?  I think it's going to vary by platform...
+[03/24/2009 07:08:29 PM] Murphy McCauley: I mean, I think on Windows, it's just the volume label like any volume label.
+[03/24/2009 07:09:03 PM] Murphy McCauley: But to really extract it, you may well need sector-level access to the drive (IIRC, this is how it is for CDs).
+[03/24/2009 07:09:13 PM] Murphy McCauley: And sector-level access varies by OS.
+[03/24/2009 08:03:22 PM] Brian Cullinan: no, i mean from an ISO
+[03/24/2009 08:03:33 PM] Brian Cullinan: is there a name or id stored anywhere on the actual disk?
+Session Close (Murphy McCauley): Tue Mar 24 20:33:35 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Wed Mar 25 00:48:00 2009
+[03/25/2009 12:48:00 AM] Murphy McCauley: Ah.
+[03/25/2009 12:48:09 AM] Murphy McCauley: Usually it's not an ISO, but a UDF.
+[03/25/2009 01:03:49 AM] Murphy McCauley: And yeah, it's possible.  Read the ECMA 167 standard, which defines the UDF format.  Section 2 talks about the headers and stuff which are what you want.
+[03/25/2009 01:04:48 AM] Murphy McCauley: The volume title stuff seems to be the same as was used for CDs, so it refers to ECMA 119, which is the ECMA version of ISO 9660 (standard CD format).
+[03/25/2009 01:05:33 AM] Murphy McCauley: I believe the field is called Volume Identifier, which is stored in the Primary Volume Descriptor.
+[03/25/2009 07:40:12 AM] Brian Cullinan: ok, i wonder if this analyzer i have automatically pulls that out
+[03/25/2009 07:43:28 AM] Brian Cullinan: now i just need somewhere i can use that to look it up
+Session Close (Murphy McCauley): Wed Mar 25 08:13:30 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Wed Mar 25 22:55:38 2009
+[03/25/2009 10:55:50 PM] Brian Cullinan: do you ever get worried that your code is getting too obfuscated?
+Session Close (Murphy McCauley): Wed Mar 25 23:27:58 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Mar 26 22:00:42 2009
+[03/26/2009 10:00:42 PM] Murphy McCauley: haha, sometimes!
+Session Close (Murphy McCauley): Thu Mar 26 22:12:18 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Mar 26 23:59:13 2009
+[03/26/2009 11:59:37 PM] Brian Cullinan: my websites are always model, view, controller
+Session Close (Murphy McCauley): Fri Mar 27 00:29:42 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Fri Mar 27 13:53:11 2009
+[03/27/2009 01:53:25 PM] Brian Cullinan: who can i get to write wrappers for other database types?
+[03/27/2009 01:53:37 PM] Brian Cullinan: currently i only support mysql
+Session Close (Murphy McCauley): Fri Mar 27 14:58:26 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Fri Mar 27 18:10:54 2009
+[03/27/2009 06:10:56 PM] Brian Cullinan: party
+[03/27/2009 06:11:04 PM] Brian Cullinan: you talk was really great btw
+Session Close (Murphy McCauley): Fri Mar 27 18:47:40 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Sun Mar 29 19:40:20 2009
+[03/29/2009 07:40:20 PM] Murphy McCauley: Thanks! (re: my talk)
+Session Close (Murphy McCauley): Sun Mar 29 21:16:33 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Apr 02 20:19:32 2009
+[04/02/2009 08:19:33 PM] Murphy McCauley: It'
+[04/02/2009 08:19:33 PM] Murphy McCauley: err
+[04/02/2009 08:19:35 PM] Murphy McCauley: It's not just me, right?
+[04/02/2009 08:19:39 PM] Murphy McCauley: Vista has been down all day?
+[04/02/2009 08:19:55 PM] Brian Cullinan: hmm, i'll check
+[04/02/2009 08:20:03 PM] Brian Cullinan: did you look for that winamp skinning script?
+[04/02/2009 08:20:44 PM] Murphy McCauley: Yeah.  I don't seem to have it on anything that's connected at the moment.  But I think it's here somewhere... just not on a drive I have networked.
+[04/02/2009 08:22:33 PM] Brian Cullinan: looks like vista is working for me
+[04/02/2009 08:22:38 PM] Murphy McCauley: damn it
+[04/02/2009 08:23:24 PM] Murphy McCauley: Either it just started working or it has cached some nonworking state on my browser somehow.
+[04/02/2009 08:24:46 PM] Brian Cullinan: yeah
+[04/02/2009 08:24:54 PM] Brian Cullinan: could be i have had that problem before
+[04/02/2009 08:28:03 PM] Murphy McCauley: So lame.
+Session Close (Murphy McCauley): Thu Apr 02 21:15:19 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Apr 02 23:58:36 2009
+[04/02/2009 11:58:49 PM] Brian Cullinan: so PEAR has a much better archive library then lib_id3
+Session Close (Murphy McCauley): Fri Apr 03 01:05:06 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Wed Apr 08 18:29:49 2009
+[04/08/2009 06:30:02 PM] Brian Cullinan: it looks like the nice value was passed on to the child processes
+[04/08/2009 06:36:20 PM] Murphy McCauley: I would think it would be inherited.  What was the problem before?
+[04/08/2009 06:36:28 PM] Murphy McCauley: BTW, is your working for ITS technically an internship?
+[04/08/2009 08:17:22 PM] Brian Cullinan: i work at CEFNS
+[04/08/2009 08:17:25 PM] Brian Cullinan: seperate from its
+[04/08/2009 08:17:31 PM] Brian Cullinan: and probably not
+[04/08/2009 08:17:48 PM] Brian Cullinan: i mean i don't know the official definition of an internship
+[04/08/2009 08:18:24 PM] Brian Cullinan: i think the way i was running nice was making it not work
+[04/08/2009 08:18:44 PM] Brian Cullinan: maybe it was only nicing the parent before the double fork
+[04/08/2009 08:19:01 PM] Brian Cullinan: and now it is nicing the parent after the first fork
+[04/08/2009 08:20:02 PM] Brian Cullinan: and yes, i set it to -1 so it wouldn't run before underlying stuff like my mdraid controller, but i am getting zero problems with glitches in the show
+Session Close (Murphy McCauley): Wed Apr 08 21:19:58 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Apr 09 16:19:20 2009
+[04/09/2009 04:19:42 PM] Brian Cullinan: so i found out something really useful about vlc
+[04/09/2009 04:19:48 PM] Brian Cullinan: and transcoding
+[04/09/2009 04:19:59 PM] Brian Cullinan: from experimenting with it
+[04/09/2009 04:20:21 PM] Brian Cullinan: it is really easy for vlc to remove stuff
+[04/09/2009 04:21:19 PM] Brian Cullinan: i thought that scaling didn't matter because if it was bigger it should just copy stuff to fill in the missing bitrate, and to scale down it had to do the same amount of calculations but remove extra data
+[04/09/2009 04:21:40 PM] Brian Cullinan: turns out scaling down takes a lot less time and vlc doesn't fuck up while trying to do it
+[04/09/2009 04:22:10 PM] Brian Cullinan: so i have to plan for the minimum amount of data
+[04/09/2009 04:23:10 PM] Brian Cullinan: because when it would try and add information to scale it up it causes more then just and individual frame to be wrong, it makes all the frames screwed up until some kind of sync marker
+Session Close (Murphy McCauley): Thu Apr 09 16:53:25 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Apr 09 20:01:12 2009
+[04/09/2009 08:01:17 PM] Brian Cullinan: i need your help
+[04/09/2009 08:01:31 PM] Brian Cullinan: i can't windows media player or other clients like vlc to request a range
+[04/09/2009 08:01:40 PM] Brian Cullinan: when you click on the position bar
+[04/09/2009 08:04:40 PM] Murphy McCauley: I have to go, but... are you sending the Accept-Ranges: bytes header from the server every time you send a response?
+[04/09/2009 08:24:31 PM] Brian Cullinan: yeah
+Session Close (Murphy McCauley): Thu Apr 09 23:30:54 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Sun Apr 19 18:42:09 2009
+[04/19/2009 06:42:14 PM] Brian Cullinan: will you blogroll me?
+[04/19/2009 06:45:47 PM] Brian Cullinan: i guess you don't have one
+[04/19/2009 06:45:53 PM] Brian Cullinan: you should blog about my site
+[04/19/2009 06:45:58 PM] Brian Cullinan: like you did for leah
+[04/19/2009 06:46:10 PM] Brian Cullinan: because you are more popular then us and our blogs never get read
+[04/19/2009 06:46:19 PM] Brian Cullinan: ok mine doesn't, hes does a little
+Session Close (Murphy McCauley): Sun Apr 19 19:21:50 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Tue Apr 21 00:56:47 2009
+[04/21/2009 12:56:49 AM] Brian Cullinan: you up?
+Session Close (Murphy McCauley): Tue Apr 21 01:26:52 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Thu Apr 30 11:09:11 2009
+[04/30/2009 11:09:11 AM] Murphy McCauley: (Link: http://www.physics.csbsju.edu/~awhitten/reference/Sharp_photodevices.pdf)http://www.physics.csbsju.edu/~awhitten/reference/Sharp_photodevices.pdf
+[04/30/2009 11:09:13 AM] Murphy McCauley: (Link: http://www.fairchildsemi.com/an/AN/AN-3005.pdf)http://www.fairchildsemi.com/an/AN/AN-3005.pdf
+[04/30/2009 11:10:50 AM] Murphy McCauley: (Link: http://www.kennethkuhn.com/students/ee431/text/phototransistors.pdf)http://www.kennethkuhn.com/students/ee431/text/phototransistors.pdf
+[04/30/2009 11:11:07 AM] Murphy McCauley: (Link: http://www.er-online.co.uk/minisumo/EdgeDetection.php)http://www.er-online.co.uk/minisumo/EdgeDetection.php
+[04/30/2009 11:11:29 AM] Murphy McCauley: Try googling "phototransistor ir microcontroller" for more.
+[04/30/2009 12:00:19 PM] Brian Cullinan: thanks
+Session Close (Murphy McCauley): Thu Apr 30 12:30:21 2009
+
+
+Session Start (bjcullinan:Murphy McCauley): Mon May 11 01:53:04 2009
+[05/11/2009 01:53:06 AM] Brian Cullinan: halp!
+[05/11/2009 01:53:15 AM] Murphy McCauley: With?
+[05/11/2009 01:53:28 AM] Brian Cullinan: i have a hard drive motor i want to make spin really fast
+[05/11/2009 01:53:33 AM] Brian Cullinan: even at variable speeds
+[05/11/2009 01:53:44 AM] Brian Cullinan: but it has 3 pins
+[05/11/2009 01:53:52 AM] Murphy McCauley: Yeah.
+[05/11/2009 01:54:00 AM] Murphy McCauley: I don't know if one is a sensor or what.
+[05/11/2009 01:54:21 AM] Brian Cullinan: nah it doesn't spin at all
+[05/11/2009 01:55:30 AM] Brian Cullinan: what if it is a stepper motor
+[05/11/2009 01:55:35 AM] Brian Cullinan: do you know how it might work?
+[05/11/2009 01:55:49 AM] Murphy McCauley: I really doubt it's going to be a stepper!
+[05/11/2009 01:55:58 AM] Murphy McCauley: And it shouldn't be AC.
+[05/11/2009 01:56:40 AM] Murphy McCauley: Yeah, I have no immediate idea what the third one is!
+[05/11/2009 01:57:01 AM] Murphy McCauley: I'll look into it later and let you know if I find out.  But for the moment, I gotta go. :)
+[05/11/2009 01:57:02 AM] Murphy McCauley: TTYL!
+[05/11/2009 01:57:27 AM] Brian Cullinan: awww
+[05/11/2009 01:57:43 AM] Brian Cullinan: you better be getting the sex, you haven't blown me off all year :-D
+[05/11/2009 01:57:44 AM] Brian Cullinan: !
+[05/11/2009 01:58:20 AM] Murphy McCauley: Well, I don't know about that, but there's supposed to be some movie-watching going on. :)
+[05/11/2009 02:00:06 AM] Brian Cullinan: oh
+[05/11/2009 02:00:16 AM] Brian Cullinan: well just remember spooning leads to forking
+Session Close (Murphy McCauley): Mon May 11 03:20:56 2009
+
+

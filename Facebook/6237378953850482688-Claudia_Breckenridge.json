@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6237378953850482688/",
+    "participants": [
+        {
+            "name": "Claudia Breckenridge",
+            "title": "Head Of Department at NBC Universal International Television Distribution",
+            "url": "linkedin.com/in/claudiabreckenridge",
+            "phone": null,
+            "email": "cbreckenridge@mac.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-14T21:17:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-14T21:17:00.000Z",
+            "message": "Nice hair.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-28T14:51:00.000Z",
+            "message": "Congrats on your work anniversary!\n"
+        }
+    ]
+}

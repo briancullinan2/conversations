@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6214204287875104768/",
+    "participants": [
+        {
+            "name": "Joel Wilson",
+            "title": "Founder at Sales Nerd",
+            "url": "linkedin.com/in/joelnwilson",
+            "phone": null,
+            "email": "joel@salesnerd.io"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-12T22:29:00.000Z"
+        }
+    ]
+}

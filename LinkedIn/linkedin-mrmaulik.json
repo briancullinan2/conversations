@@ -1,0 +1,362 @@
+[
+    {
+        "resourceName": "people/c294269373163842527",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMODdpTlNUTHJ3MEk9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "105769853215962698980"
+                    }
+                },
+                "displayName": "Brian Cullinan",
+                "familyName": "Cullinan",
+                "givenName": "Brian",
+                "displayNameLastFirst": "Cullinan, Brian"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "415746f8fb52bdf"
+                    }
+                },
+                "displayName": "Brian Cullinan",
+                "familyName": "Cullinan",
+                "givenName": "Brian",
+                "displayNameLastFirst": "Cullinan, Brian"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "415746f8fb52bdf"
+                    }
+                },
+                "value": "bjcullinan@gmail.com",
+                "type": "other",
+                "formattedType": "Other"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "415746f8fb52bdf"
+                    }
+                },
+                "value": "megamindbrian@gmail.com",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "415746f8fb52bdf"
+                    }
+                },
+                "value": "+1 480-466-0856",
+                "canonicalForm": "+14804660856"
+            }
+        ],
+        "experience": [
+            [
+                "Hello network. I've got a friend who has the capital and needs to scale from 50 to 100 corporate-owned service-based locations next year. Needs to build process and systems around all the things (Operations, Recruitment, Training, Marketing, HR, Account, site launches, etc, etc). Anyone specialize in one or more of these areas? Or do you know someone who might? If so, please connect!",
+                "Brian commented"
+            ],
+            [
+                "I use Docker everyday:",
+                "Brian shared this"
+            ],
+            [
+                "When I was working on a startup and someone complained about the cost or billing it was refunded IMMEDIATELY.",
+                "Brian shared this"
+            ],
+            [
+                "Experience",
+                "Add new position"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Edit position Software Engineer",
+                "Reorder position {:name}",
+                "Software Engineer",
+                "Company Name",
+                "Swiftpage",
+                "Dates Employed",
+                "Mar 2017 – Present",
+                "Employment Duration",
+                "9 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Build a sales portal for customers to subscribe to products and make purchases.Using Angular 2, Angular 4, gulpjs, webpack, Ahead of Time compiling, Karma test runner, Protractor, Selenium, Webdriver IO, Typescript, tslint.Automated Eloqua email marketing to relieve personnel resources.Integration with Zuora subscriptions for auditing financial processes.Chrome WebExtensions (support by all major browsers) for QA to use in validation functionality.Container orchestration with AWS Lambda, Docker, and .Net Core."
+            ],
+            [
+                "Edit position Software Architect",
+                "Reorder position {:name}",
+                "Software Architect",
+                "Company Name",
+                "The SOS Method Foundation Inc",
+                "Dates Employed",
+                "Nov 2016 – Present",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "Phoenix, Arizona Area",
+                "• Learned the benefits of meditating daily.• Taught others to meditate and journal their thoughts using a web app.• Marketed and sold app to businesses as employee development.• Implemented improved software development life-cycle.• Thought leader for staffing, employee development, education and mental health."
+            ],
+            [
+                "Edit position Senior Developer",
+                "Senior Developer",
+                "Company Name",
+                "MindSpree Inc.",
+                "Dates Employed",
+                "Feb 2017 – Feb 2017",
+                "Employment Duration",
+                "1 mo",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Architect a system for connecting tutors with students."
+            ],
+            [
+                "Edit position Software and Process Engineer",
+                "Software and Process Engineer",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "Nov 2016 – Feb 2017",
+                "Employment Duration",
+                "4 mos",
+                "Location",
+                "Chandler, Arizona",
+                "Contracted to write software requirements for an upcoming access control project."
+            ],
+            [
+                "Edit position Software Architect",
+                "Software Architect",
+                "Company Name",
+                "Study Sauce",
+                "Dates Employed",
+                "Aug 2013 – Nov 2016",
+                "Employment Duration",
+                "3 yrs 4 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Built and designed software to train and improve memorization using the Forgetting Curve.• Practiced the Lean Startup method with JIRA Agile by identifying early adopters, A-B testing features, and scaling the AWS cloud.• Interfaced with OAuth, Google Analytics, Authorize.Net payment gateway, and In-App purchases for mobile iOS using Swift and PHP.• Selenium-webdriver, Firefox on AWS for automated testing and QA, Full Stack Development and DevOps."
+            ],
+            [
+                "Education",
+                "Add new education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Edit education Northern Arizona University",
+                "Northern Arizona University",
+                "Degree Name",
+                "Undergraduate",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2005 – 2010",
+                "Activities and Societies:",
+                "Association for Computer Machinery, KJAX Radio Station",
+                "Computer Science, Advanced User Interfaces, Network Security, Helpdesk Support, Student Help Center, Web Development, Server Virtualization."
+            ],
+            [
+                "Volunteer Experience",
+                "Add new volunteer experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Edit volunteer experience Donor",
+                "Donor",
+                "Company Name",
+                "St Vincents",
+                "Dates volunteered",
+                "Oct 2014 – Oct 2014",
+                "Volunteer duration",
+                "1 mo",
+                "Cause",
+                "Social Services",
+                "Provided rides to residents and donated quantities of food, clothing, and household supplies annually."
+            ],
+            "Recommendations",
+            [
+                "NPR",
+                "345,027 followers"
+            ],
+            [
+                "Cloud Native Application Delivery and DevOps",
+                "14,265 members"
+            ],
+            [
+                "Byron DeeterByron Deeter is a LinkedIn Influencer",
+                "Partner, Bessemer Venture Partners",
+                "113,637 followers"
+            ],
+            [
+                "The Linde Group, Inc.",
+                "826 followers"
+            ],
+            [
+                "Express Scripts",
+                "93,685 followers"
+            ],
+            [
+                "Bill GatesBill Gates is a LinkedIn Influencer",
+                "Co-chair, Bill & Melinda Gates Foundation",
+                "11,370,096 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "NPR",
+                "345,027 followers"
+            ],
+            [
+                "NPR",
+                "345,027 followers"
+            ],
+            [
+                "Cloud Native Application Delivery and DevOps",
+                "14,265 members"
+            ],
+            [
+                "Cloud Native Application Delivery and DevOps",
+                "14,265 members"
+            ],
+            [
+                "Byron DeeterByron Deeter is a LinkedIn Influencer",
+                "Partner, Bessemer Venture Partners",
+                "113,637 followers"
+            ],
+            [
+                "Byron DeeterByron Deeter is a LinkedIn Influencer",
+                "Partner, Bessemer Venture Partners",
+                "113,637 followers"
+            ],
+            [
+                "Byron Deeter is a LinkedIn Influencer"
+            ],
+            [
+                "The Linde Group, Inc.",
+                "826 followers"
+            ],
+            [
+                "The Linde Group, Inc.",
+                "826 followers"
+            ],
+            [
+                "Express Scripts",
+                "93,685 followers"
+            ],
+            [
+                "Express Scripts",
+                "93,685 followers"
+            ],
+            [
+                "Bill GatesBill Gates is a LinkedIn Influencer",
+                "Co-chair, Bill & Melinda Gates Foundation",
+                "11,370,096 followers"
+            ],
+            [
+                "Bill GatesBill Gates is a LinkedIn Influencer",
+                "Co-chair, Bill & Melinda Gates Foundation",
+                "11,370,096 followers"
+            ],
+            [
+                "Bill Gates is a LinkedIn Influencer"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Joseph Eagar",
+                "Software Engineer",
+                "June 15, 2009, Brian worked with Joseph in the same group",
+                "We were in the NAU student chapter of ACM and a game club together.  His programming judo is top notch."
+            ],
+            [
+                "Joseph Eagar",
+                "Software Engineer",
+                "June 15, 2009, Brian worked with Joseph in the same group"
+            ],
+            [
+                "Joseph Eagar",
+                "Software Engineer",
+                "June 15, 2009, Brian worked with Joseph in the same group"
+            ],
+            [
+                "Joseph Eagar",
+                "Software Engineer",
+                "June 15, 2009, Brian worked with Joseph in the same group"
+            ],
+            "Software Engineer",
+            [
+                "We were in the NAU student chapter of ACM and a game club together.  His programming judo is top notch."
+            ],
+            [
+                "We were in the NAU student chapter of ACM and a game club together.  His programming judo is top notch."
+            ],
+            [
+                "Roger Rohweder",
+                "Founder and Sr. Director of Technology, NoveList",
+                "June 15, 2009, Roger worked with Brian but at different companies",
+                "Brian has the kind of enthusiasm for technical challenges that we look for when hiring developers -- a smart, \"I will find a way\" kind of guy.  He has emersed himself in software development and as a result has built a good platform of experience from which he can successfully deliver on a wide variety of application requirements.  Hghly recommended."
+            ],
+            [
+                "Roger Rohweder",
+                "Founder and Sr. Director of Technology, NoveList",
+                "June 15, 2009, Roger worked with Brian but at different companies"
+            ],
+            [
+                "Roger Rohweder",
+                "Founder and Sr. Director of Technology, NoveList",
+                "June 15, 2009, Roger worked with Brian but at different companies"
+            ],
+            [
+                "Roger Rohweder",
+                "Founder and Sr. Director of Technology, NoveList",
+                "June 15, 2009, Roger worked with Brian but at different companies"
+            ],
+            "Founder and Sr. Director of Technology, NoveList",
+            [
+                "Brian has the kind of enthusiasm for technical challenges that we look for when hiring developers -- a smart, \"I will find a way\" kind of guy.  He has emersed himself in software development and as a result has built a good platform of experience from which he can successfully deliver on a wide variety of application requirements.  Hghly recommended."
+            ],
+            [
+                "Brian has the kind of enthusiasm for technical challenges that we look for when hiring developers -- a smart, \"I will find a way\" kind of guy.  He has emersed himself in software development and as a result has built a good platform of experience from which he can successfully deliver on a wide variety of application requirements.  Hghly recommended."
+            ]
+        ],
+        "skills": [],
+        "summary": "    What question do you have for me?  I apply science to every aspect of my life.My ambitions are simple:As a software developer; make work easier for others.As a data-scientist; make data more interesting to everyone.As an educator; teach history in a better format and \"pay it forward\".As an entrepreneur; always have a backup plan!As an engineer; break it until it works.As a wizard; keep better track of how I spend my time.As an entrepreneur; fail faster and move on.Currently seeking criticism.  ;)\n  \n  \n",
+        "name": "Brian Cullinan",
+        "title": "futurist, globalist, wizard",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com"
+    }
+]

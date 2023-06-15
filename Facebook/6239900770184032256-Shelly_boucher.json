@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6239900770184032256/",
+    "participants": [
+        {
+            "name": "Shelly boucher",
+            "title": "Actor at Actor / Writer / Producer",
+            "url": "linkedin.com/in/shellyboucher",
+            "phone": null,
+            "email": "shellysandwich@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-21T20:17:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

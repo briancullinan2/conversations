@@ -1,0 +1,49 @@
+{
+    "thread": "/messaging/thread/6290271143203000320/",
+    "participants": [
+        {
+            "name": "Megan Culberson",
+            "title": "Recruiter",
+            "url": "linkedin.com/in/megan-culberson-19aaa6112",
+            "phone": "",
+            "email": "megculb1@hotmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Megan Culberson",
+            "time": "2017-07-10T12:00:00.000Z",
+            "message": "Full Stack Developer Opportunity\n\nDear Brian, \n\nI recently came across your LinkedIn Profile and I have an excellent opportunity for you as a Full Stack Engineer sitting in Phoenix, AZ. Below is some information regarding this opening. Please let me know if you are in the job market and interested in hearing more about this opportunity! Thanks!\n\n\nThanks and I look forward to working with you!\nJob Description:\nTitle: Full Stack Developer\nDuration: Full Time\nLocation: Phoenix, AZ\n\nOur team is looking for an AWESOME full stack engineer with knowledge and skills in building highly interactive systems. We want someone who can work well in a heterogeneous environment of different languages and technologies, and can bring flexibility, speed and quality to our team. You should be a talented and have expertise in responsive web and single page applications, but you will also have opportunities in the services, data, and architecture overall. You should have a deep understanding of best practices in various languages/technologies and always looking to learn. You should love creating things and take great personal pride in building great software.\n\nWe are passionate about building user friendly, engaging and highly scalable distributed systems for our customers as well as internal business users.\n\nMegan Culberson\nAccount Manager\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-10T21:14:00.000Z",
+            "message": "Thank you! What company?\n"
+        },
+        {
+            "from": "Megan Culberson",
+            "time": "2017-07-10T21:32:00.000Z",
+            "message": "This position is with Amazon. See below for a better idea of the qualifications needed.. if you could please send me a copy of your updated resume in a Word Doc to mculberson@futuresgroupit.com ... I look forward to working with you!\n"
+        },
+        {
+            "from": "Megan Culberson",
+            "time": "2017-07-10T21:32:00.000Z",
+            "message": "BASIC QUALIFICATIONS\n· Bachelor' degree preferably in computer science or a similar field or equivalent work experience\n· 4+ years of Software development experience with multiple release cycles\n· Proven software development skills, including cross-browser HTML, CSS, JavaScript, Java, and database technologies\n· 4+ years of experience creating scalable, high performance software applications\nPREFERRED QUALIFICATIONS\n· Experience building complex software systems that have been successfully delivered to customers.\n· Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations.\n· Experience building ecommerce sites.\n· Strong written and verbal communication skills preferred\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-10T21:33:00.000Z",
+            "message": "Oh. I already applied at Amazon, they told me to buy their book and read it if I ever expect to get a job there. Haven't read their book yet.\n"
+        },
+        {
+            "from": "Megan Culberson",
+            "time": "2017-07-10T21:36:00.000Z",
+            "message": "haha oh ok, good to know! I can definitely keep you in mind for other opportunities!! Let me know if you ever plan on reading that book!!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-10T21:36:00.000Z",
+            "message": "I plan on it. I'm just too busy learning new things through other means right now. ;D\n"
+        }
+    ]
+}

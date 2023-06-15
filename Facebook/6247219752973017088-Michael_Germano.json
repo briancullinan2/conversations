@@ -1,0 +1,74 @@
+{
+    "thread": "/messaging/thread/6247219752973017088/",
+    "participants": [
+        {
+            "name": "Michael Germano",
+            "title": "Talent Acquisition Sourcing Manager at Ticketmaster",
+            "url": "linkedin.com/in/mgermano",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Michael Germano",
+            "time": "2017-03-14T12:00:00.000Z",
+            "message": "Ticketmaster software engineering opportunities\n\nDear Brian, \n\nI am going out on a limb here following up on a previous email sent to see if you might be open to hearing about a software engineering role(s) we are hiring for.\n\nAt Ticketmaster, we are building a new platform for live entertainment. Over the past 4 years, our API has gone from a $1 million/year to $1 billion/year, including through mobile initiatives. Today we sell tickets not only on Ticketmaster.com but on partner e-commerce sites and the biggest social networks. As we continue to grow we need outstanding Java engineers. \n\nThat’s where you come in.\n\nI was interested in connecting to see if you might be open to exploring one of a few Senior/Principal level SW Engineering role(s) we have with web and platform engineering teams. We are looking for front-end, back-end and full stack engineers with strong java development skills at all levels. We also have some needs for engineers who can build API's in an AWS environment.\n\nPotential projects include: \n\n-Public API services including our Commerce API, Content Discovery APIs, Mobile App APIs\n-A new open platform that allows partners to syndicate Ticketmaster content\n-Data science applications including recommendation systems, personalization, and bot detection, and real-time fraud detection\n-Search applications, data pipelines, and content aggregation\n-Web applications including the next generation of Ticketmaster.com and great client apps in our ever-expanding B2B platform\n-Improved UX and payment/transactional process applications\n\nIf your open to it, feel free to check us out and let me know if you would like to schedule some time for us to chat for a bit.\n\nwww.jobs.ticketmaster.com\n\nMike Germano\nTalent Acquisition - Sourcing Manager\nmike.germano@ticketmaster.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-14T01:14:00.000Z",
+            "message": "I am happy to talk about it. But I just started at swiftpage. I am curious to answer some managerial questions I've had for a while.\n"
+        },
+        {
+            "from": "Michael Germano",
+            "time": "2017-03-14T17:26:00.000Z",
+            "message": "what kind of maagerial questions are you referring to?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-14T17:29:00.000Z",
+            "message": "What is the decision making process for hiring someone as a contractor versus full time?\n"
+        },
+        {
+            "from": "Michael Germano",
+            "time": "2017-03-14T18:55:00.000Z",
+            "message": "I don't get involved in contractor hiring, but it usually comes down to quick short term needs and if you have the budget to take on contractors.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-14T19:04:00.000Z",
+            "message": "So if a hiring manager says these guys are contractors but I hired you full time, how do I determine why? What makes me special?\n"
+        },
+        {
+            "from": "Michael Germano",
+            "time": "2017-03-14T20:08:00.000Z",
+            "message": "contractors can be let go at anytime without cause, they dont have access to company benefits or perks, and are usually only short time solutions\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-14T23:39:00.000Z",
+            "message": "I guess my misunderstanding is, why start a relationship with the intention of ending it. Why not pay for benefits but tell them you are full time but our funds could run out within 6 months.\n"
+        },
+        {
+            "from": "Michael Germano",
+            "time": "2017-03-15T17:00:00.000Z",
+            "message": "Are you open to new opportunities? I see you just started somewhere in March.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-15T18:05:00.000Z",
+            "message": "Who wouldn't want to work for Ticketmaster? Do you guys use Angular2 and Docker?\n"
+        },
+        {
+            "from": "Michael Germano",
+            "time": "2017-03-15T18:15:00.000Z",
+            "message": "I know we use Docker and starting a big migration to AWS utilizing docker and kubernetes...shoot me a copy of your resume and lets find some time to chat\nmike.germano@ticketmaster.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-15T19:35:00.000Z",
+            "message": "Ok.\n"
+        }
+    ]
+}

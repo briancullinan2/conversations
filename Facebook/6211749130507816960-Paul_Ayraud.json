@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6211749130507816960/",
+    "participants": [
+        {
+            "name": "Paul Ayraud",
+            "title": "Microsoft .Net Web Developer",
+            "url": "linkedin.com/in/ayraud",
+            "phone": null,
+            "email": "paul.ayraud@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-06T03:53:00.000Z"
+        },
+        {
+            "from": "Paul Ayraud",
+            "message": "Right on\n",
+            "time": "2017-12-06T04:47:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I think you're a genius.\n",
+            "time": "2017-12-06T13:23:00.000Z"
+        }
+    ]
+}

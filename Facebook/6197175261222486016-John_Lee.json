@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6197175261222486016/",
+    "participants": [
+        {
+            "name": "John Lee",
+            "title": "Technical Recruiter at AppleOne",
+            "url": "linkedin.com/in/calljohnlee",
+            "phone": "602.978.1448 (Work)",
+            "email": "calljohnlee@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-10-26T22:42:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Who is in Pittsburg again?\n",
+            "time": "2017-12-08T21:23:00.000Z"
+        },
+        {
+            "from": "John Lee",
+            "message": "One of my clients, a very well funded startup in the medical transportation space. I'd be happy to talk more about if you can provide me with a resume, phone number, and the best time to reach you.\n",
+            "time": "2017-12-08T21:38:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I already gave you that information ;)\n",
+            "time": "2017-12-08T21:52:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Anytime after 4 tomorrow I have another interview.\n",
+            "time": "2017-12-08T21:52:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Sent to your work email.\n",
+            "time": "2017-12-08T21:52:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6226590051594227712/",
+    "participants": [
+        {
+            "name": "Paul Bennett",
+            "title": "Chief Creative Officer at IDEO",
+            "url": "linkedin.com/in/paulbennett3",
+            "phone": null,
+            "email": "pbennett@ideo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-16T02:46:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-16T02:46:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6225702759778308096/",
+    "participants": [
+        {
+            "name": "Renee Wierz",
+            "title": "Founder/CEO at Paws 2 Read",
+            "url": "linkedin.com/in/renee-wierz-77450125",
+            "phone": null,
+            "email": "r_wierz@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Renee Wierz",
+            "message": "Hi Brian thanks for the add! NAU alumni too I see! Tell me more about what you do\n",
+            "time": "2018-01-13T16:00:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-13T17:35:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I am a software developer with an entrepreneur mindset. I write code and do a bit of design work, not so much graphic editing.\n",
+            "time": "2018-01-13T17:35:00.000Z"
+        }
+    ]
+}

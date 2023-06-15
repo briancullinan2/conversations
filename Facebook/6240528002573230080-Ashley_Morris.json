@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6240528002573230080/",
+    "participants": [
+        {
+            "name": "Ashley Morris",
+            "title": "Product Change Management at Research",
+            "url": "linkedin.com/in/ajsmorris",
+            "phone": "+447968296825 (Mobile)",
+            "email": "ajsmorris@outlook.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-23T13:50:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Ashley Morris",
+            "time": "2018-02-23T16:10:00.000Z",
+            "message": "You're welcome!\n"
+        }
+    ]
+}

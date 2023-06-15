@@ -1,0 +1,1842 @@
+﻿Session Start (bjcullinan:Travis Hudson): Fri Nov 16 16:12:45 2007
+[11/16/2007 04:12:46 PM] Brian Cullinan: hi
+[11/16/2007 04:13:00 PM] Travis Hudson: Hello.
+[11/16/2007 04:13:24 PM] Brian Cullinan: (Link: http://www.codepaster.com/code.php?code=4733)http://www.codepaster.com/code.php?code=4733
+[11/16/2007 04:25:14 PM] Brian Cullinan: (Link: http://www.codepaster.com/code.php?code=4734)http://www.codepaster.com/code.php?code=4734
+[11/16/2007 04:25:26 PM] Brian Cullinan: $users = $mysql->result();
+[11/16/2007 04:25:50 PM] Brian Cullinan: return $users[0]
+[11/16/2007 04:26:15 PM] Travis Hudson: getUser(String userName)
+ getUsers()
+[11/16/2007 04:26:29 PM] Brian Cullinan: function getUsers($username, $password = '')
+[11/16/2007 04:27:50 PM] Brian Cullinan: $user['Password']
+[11/16/2007 05:00:55 PM] Brian Cullinan: 'sql stuff' . (($password == '')?'':' Password = "' . $password . '") . 'other sql stuff'
+[11/16/2007 05:18:04 PM] Brian Cullinan: (Link: http://www.codepaster.com/code.php?code=4735)http://www.codepaster.com/code.php?code=4735(Link: http://www.codepaster.com/code.php?code=4735)
+Session Close (Travis Hudson): Fri Nov 16 17:48:06 2007
+
+
+Session Start (bjcullinan:Travis Hudson): Fri Nov 16 18:19:01 2007
+[11/16/2007 06:19:03 PM] Brian Cullinan: if(isset($users[0]))
+[11/16/2007 06:19:50 PM] Travis Hudson: return;
+[11/16/2007 06:30:05 PM] Brian Cullinan: (Link: http://192.168.1.120:62820/)http://192.168.1.120:62820/
+[11/16/2007 06:34:06 PM] Brian Cullinan: (Link: http://192.168.1.101/cs386/edit.php)http://192.168.1.101/cs386/edit.php
+Session Close (Travis Hudson): Fri Nov 16 19:04:15 2007
+
+
+Session Start (bjcullinan:Travis Hudson): Fri Nov 16 20:32:59 2007
+[11/16/2007 08:33:01 PM] Brian Cullinan: secks
+Session Close (Travis Hudson): Fri Nov 16 20:33:02 2007
+
+
+Session Start (bjcullinan:Travis Hudson): Fri Nov 16 20:39:28 2007
+[11/16/2007 08:39:28 PM] Travis Hudson: UserId, or Userid?
+[11/16/2007 08:41:04 PM] Travis Hudson: Id?
+[11/16/2007 08:41:21 PM] Travis Hudson: id
+Session Close (Travis Hudson): Fri Nov 16 20:41:54 2007
+
+
+Session Start (bjcullinan:Travis Hudson): Fri Nov 16 20:43:56 2007
+[11/16/2007 08:43:56 PM] Travis Hudson: Firstname, or FirstName?
+Session Close (Travis Hudson): Fri Nov 16 22:20:23 2007
+
+
+Session Start (bjcullinan:Travis Hudson): Fri Nov 16 22:57:27 2007
+[11/16/2007 10:57:28 PM] Travis Hudson: setUser() and setSurvey() are implemented.
+[11/16/2007 10:57:41 PM] Brian Cullinan: ok
+Session Close (Travis Hudson): Fri Nov 16 22:57:41 2007
+
+
+Session Start (bjcullinan:Travis Hudson): Sat Nov 17 12:35:51 2007
+[11/17/2007 12:35:51 PM] Travis Hudson: In manage.php, where is SURVEY_LIST coming from?
+[11/17/2007 12:35:54 PM] Travis Hudson: $template->setVar('LIST', $template->getVar('SURVEY_LIST'));
+Session Close (Travis Hudson): Sat Nov 17 13:06:22 2007
+
+
+Session Start (bjcullinan:Travis Hudson): Sat Nov 17 13:14:27 2007
+[11/17/2007 01:14:27 PM] Travis Hudson: What file is checkLogin($error, $user); inside of?
+Session Close (Travis Hudson): Sat Nov 17 13:44:42 2007
+
+
+Session Start (bjcullinan:Travis Hudson): Sat Nov 17 21:35:02 2007
+[11/17/2007 09:35:03 PM] Travis Hudson: The delete function on the manage page works:
+[11/17/2007 09:35:06 PM] Travis Hudson: (Link: http://flagstaff.cse.nau.edu:16080/~xtravishudson/project/Mailbox/Construction/Website/manage.php)http://flagstaff.cse.nau.edu:16080/~xtravishudson/project/Mailbox/Construction/Website/manage.php
+Session Close (Travis Hudson): Sat Nov 17 21:35:20 2007
+
+
+Session Start (bjcullinan:Travis Hudson): Sat Nov 17 23:36:15 2007
+[11/17/2007 11:36:16 PM] Brian Cullinan: (Link: http://192.168.1.101/cs386/formdesigner.html)http://192.168.1.101/cs386/formdesigner.html
+Session Close (Travis Hudson): Sat Nov 17 23:36:22 2007
+
+
+Session Start (bjcullinan:Travis Hudson): Mon Nov 19 08:24:41 2007
+[11/19/2007 08:24:41 AM] Travis Hudson: I need to see an example of survey results xml, so that I can start on the results page.
+[11/19/2007 08:25:31 AM] Brian Cullinan: its in templates/resultsTest.xml
+Session Close (Travis Hudson): Mon Nov 19 08:49:16 2007
+
+
+Session Start (bjcullinan:Travis Hudson): Mon Nov 19 13:55:05 2007
+[11/19/2007 02:56:29 PM] *** "Travis Hudson" signed off at Mon Nov 19 14:56:29 2007.
+Session Close (Travis Hudson): Mon Nov 19 15:13:19 2007
+
+
+Session Start (bjcullinan:Travis Hudson): Thu Dec 06 18:31:04 2007
+[12/06/2007 06:31:04 PM] Travis Hudson: hi
+[12/06/2007 06:31:11 PM] Brian Cullinan: (Link: http://209.250.30.30/Share/Pictures/People/Other/Skins/)http://209.250.30.30/Share/Pictures/People/Other/Skins/
+Session Close (Travis Hudson): Thu Dec 06 18:51:07 2007
+
+
+Session Start (bjcullinan:Travis Hudson): Thu Dec 06 21:56:27 2007
+[12/06/2007 09:56:27 PM] Travis Hudson: /Groups/2007_02/xtravishudson/Sites/project/Mailbox/Construction/Website
+[12/06/2007 09:56:32 PM] Brian Cullinan: yes
+[12/06/2007 09:56:39 PM] Brian Cullinan: with an ending slash
+[12/06/2007 09:56:50 PM] Travis Hudson: That's for SITE_LOCALROOT...
+[12/06/2007 09:57:25 PM] Brian Cullinan: yes
+[12/06/2007 09:57:34 PM] Travis Hudson: Here's my SITE_HTMLPATH:
+[12/06/2007 09:57:44 PM] Travis Hudson: (Link: http://flagstaff.cse.nau.edu:16080/~xtravishudson/Sites/project/Mailbox/Construction/Website/)http://flagstaff.cse.nau.edu:16080/~xtravishudson/Sites/project/Mailbox/Construction/Website/
+[12/06/2007 09:58:38 PM] Travis Hudson: SITE_HTMLROOT:
+[12/06/2007 09:58:39 PM] Travis Hudson: /~xtravishudson/Sites/project/Mailbox/Construction/Website/
+[12/06/2007 09:58:48 PM] Travis Hudson: Is that correct?
+[12/06/2007 09:59:10 PM] Brian Cullinan: mine works
+[12/06/2007 09:59:37 PM] Brian Cullinan: yes
+[12/06/2007 09:59:40 PM] Brian Cullinan: that is corrent
+[12/06/2007 09:59:43 PM] Brian Cullinan: *correct
+[12/06/2007 09:59:50 PM] Travis Hudson: Has it been taken off of SVN?
+[12/06/2007 09:59:54 PM] Brian Cullinan: yes
+[12/06/2007 10:00:01 PM] Travis Hudson: I'm going to go try it...
+[12/06/2007 10:01:16 PM] Brian Cullinan: (Link: http://flagstaff.cse.nau.edu:16080/~xbriancullinan/Project/Mailbox/Construction/Website/login.php)http://flagstaff.cse.nau.edu:16080/~xbriancullinan/Project/Mailbox/Construction/Website(Link: http://flagstaff.cse.nau.edu:16080/~xbriancullinan/Project/Mailbox/Construction/Website/login.php)/login.php
+[12/06/2007 10:02:25 PM] Travis Hudson: Yours seems to work. But I can't find a logout button.
+[12/06/2007 10:02:45 PM] Brian Cullinan: there is a logout button?
+[12/06/2007 10:02:51 PM] Brian Cullinan: (Link: http://flagstaff.cse.nau.edu:16080/~xbriancullinan/Project/Mailbox/Construction/Website/manage.php)http://flagstaff.cse.nau.edu:16080/~xbriancullinan/Project/Mailbox/Construction/Website(Link: http://flagstaff.cse.nau.edu:16080/~xbriancullinan/Project/Mailbox/Construction/Website/manage.php)/manage.php
+[12/06/2007 10:02:55 PM] Brian Cullinan: does that work?
+[12/06/2007 10:03:31 PM] Travis Hudson: I think we forgot to implement a logout button.
+[12/06/2007 10:04:20 PM] Brian Cullinan: nevermind that now
+[12/06/2007 10:04:25 PM] Brian Cullinan: they logout by closing the browser
+[12/06/2007 10:04:29 PM] Brian Cullinan: but the pages work right?
+[12/06/2007 10:04:59 PM] Travis Hudson: I'm still using Vim to edit my settings on his server...
+[12/06/2007 10:05:12 PM] Brian Cullinan: oh
+[12/06/2007 10:05:26 PM] Brian Cullinan: well mine works
+[12/06/2007 10:05:36 PM] Brian Cullinan: but i am a faster problem solver
+[12/06/2007 10:05:42 PM] Brian Cullinan: breakfast tomorrow?!?!
+[12/06/2007 10:06:01 PM] Brian Cullinan: might be the last time for a month!
+[12/06/2007 10:06:24 PM] Travis Hudson: Of course!!!
+[12/06/2007 10:07:11 PM] Brian Cullinan: i am sending david a cease and desist
+[12/06/2007 10:07:47 PM] Travis Hudson: Cool!
+[12/06/2007 10:09:00 PM] Travis Hudson: I've got great news -- mine seems to work on his server now!
+[12/06/2007 10:09:11 PM] Brian Cullinan: great
+[12/06/2007 10:11:29 PM] Brian Cullinan: We are hearby shutting down development of the Team Travisty Team Survey Creation Toolkit With Web-Interface.  Should anyone continue development beyond this point and before further notified, you will be prosecuted to the fullest extent.
+[12/06/2007 10:12:45 PM] Brian Cullinan: This is all in preparation for the presentation in class tomorrow.  Currently the system works, and further development could negatively affect that.
+[12/06/2007 10:12:49 PM] Brian Cullinan: tell me when to send it
+[12/06/2007 10:12:51 PM] Brian Cullinan: now?
+[12/06/2007 10:12:53 PM] Brian Cullinan: how about now?
+[12/06/2007 10:12:58 PM] Brian Cullinan: we should send it out now
+[12/06/2007 10:14:19 PM] Brian Cullinan: i am sending it now
+[12/06/2007 10:15:38 PM] Brian Cullinan: fantastic
+[12/06/2007 10:15:41 PM] Brian Cullinan: we came through
+[12/06/2007 10:15:49 PM] Brian Cullinan: maybe even on top of murphys team
+[12/06/2007 10:16:26 PM] Travis Hudson: Oh! I walked away to cook a corn dog.
+[12/06/2007 10:16:40 PM] Brian Cullinan: mMm corn dog
+[12/06/2007 10:16:43 PM] Travis Hudson: I'm reading what you wrote recently...
+[12/06/2007 10:17:39 PM] Travis Hudson: There's an error. Send another version:
+[12/06/2007 10:17:47 PM] Brian Cullinan: an error?
+[12/06/2007 10:17:50 PM] Travis Hudson: "You will be prosecuted to the full extent of the law."
+[12/06/2007 10:17:57 PM] Travis Hudson: "of the law" is missing.
+[12/06/2007 10:18:00 PM] Brian Cullinan: nope
+[12/06/2007 10:18:04 PM] Brian Cullinan: not of law
+[12/06/2007 10:18:08 PM] Brian Cullinan: of our rules
+[12/06/2007 10:18:17 PM] Brian Cullinan: which just so happens to not extend very far
+[12/06/2007 10:18:19 PM] Travis Hudson: Fine, then of our rules.
+[12/06/2007 10:18:35 PM] Brian Cullinan: so it's to sounds threatening, even though we won't do anything about it
+[12/06/2007 10:18:35 PM] Travis Hudson: Either way, that's one more tally for me.
+[12/06/2007 10:18:43 PM] Brian Cullinan: thats a negative
+[12/06/2007 10:18:53 PM] Brian Cullinan: that was my intention when i wrote it
+[12/06/2007 10:19:01 PM] Brian Cullinan: i excluded of the law on purpose
+[12/06/2007 10:19:14 PM] Brian Cullinan: you don't get a tally for something done intentionally!
+[12/06/2007 10:19:32 PM] Travis Hudson: Okay, fine. I'm erasing my imaginary tally.
+[12/06/2007 10:19:39 PM] Brian Cullinan: you'd better
+[12/06/2007 10:19:47 PM] Brian Cullinan: mMm one more beer
+[12/06/2007 10:21:39 PM] Brian Cullinan: where is the finals times listed?
+[12/06/2007 10:21:49 PM] Travis Hudson: I'm looking for it...
+[12/06/2007 10:22:08 PM] Brian Cullinan: (Link: http://www.google.com/search?hl=en&rlz=1B3GGGL_enUS236US236&q=nau+final+exam+schedule&btnG=Search)http://www.google.com/search?hl=en&rlz=1B3GGGL_enUS236US236&q=nau+final+e(Link: http://www.google.com/search?hl=en&rlz=1B3GGGL_enUS236US236&q=nau+final+exam+schedule&btnG=Search)xam+schedule&btnG=Search
+[12/06/2007 10:22:13 PM] Travis Hudson: (Link: http://home.nau.edu/registrar/final_exam_1077.asp)http://home.nau.edu/registrar/final_exam_1077.asp
+[12/06/2007 10:22:29 PM] Brian Cullinan: thats last years
+[12/06/2007 10:22:51 PM] Brian Cullinan: fucking ridiculous website
+[12/06/2007 10:22:56 PM] Travis Hudson: Wow. Where' this year's?
+[12/06/2007 10:23:04 PM] Brian Cullinan: google is better at searching NAU then NAU is
+[12/06/2007 10:23:17 PM] Brian Cullinan: no the link i sent you was last years
+[12/06/2007 10:23:18 PM] Travis Hudson: Sad, but true.
+[12/06/2007 10:23:20 PM] Brian Cullinan: i googled it
+[12/06/2007 10:23:37 PM] Travis Hudson: This is Fall 2007, right?
+[12/06/2007 10:24:53 PM] Brian Cullinan: yes
+Session Close (Travis Hudson): Thu Dec 06 22:25:42 2007
+
+
+Session Start (bjcullinan:Travis Hudson): Sun Dec 09 23:03:29 2007
+[12/09/2007 11:03:29 PM] Travis Hudson: Hello.
+[12/09/2007 11:16:41 PM] Travis Hudson: Question: How would you describe the SRS?
+[12/10/2007 12:11:36 AM] *** "Travis Hudson" signed off at Mon Dec 10 00:11:36 2007.
+Session Close (Travis Hudson): Mon Dec 10 00:15:38 2007
+
+
+Session Start (bjcullinan:Travis Hudson): Tue Dec 11 00:56:12 2007
+[12/11/2007 12:56:12 AM] Travis Hudson: Brian, are you there?
+[12/11/2007 12:58:43 AM] *** "Travis Hudson" signed off at Tue Dec 11 00:58:43 2007.
+Session Close (Travis Hudson): Tue Dec 11 01:28:34 2007
+
+
+Session Start (bjcullinan:Travis Hudson): Sun Feb 17 16:46:17 2008
+[02/17/2008 04:46:17 PM] Travis Hudson: Hello.
+[02/17/2008 05:03:48 PM] Brian Cullinan: hi
+Session Close (Travis Hudson): Sun Feb 17 17:06:41 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Sun Feb 17 17:16:58 2008
+[02/17/2008 05:16:58 PM] Travis Hudson: Have you done the assignment for OS?
+[02/17/2008 05:29:00 PM] Brian Cullinan: no
+[02/17/2008 05:29:02 PM] Brian Cullinan: you?
+[02/17/2008 05:29:15 PM] Travis Hudson: Almost.
+[02/17/2008 05:29:37 PM] Travis Hudson: It only does the first line, for some reason, but other than that I'm done.
+[02/17/2008 05:29:59 PM] Brian Cullinan: he said he was going to give us an example and i can't find it
+[02/17/2008 05:30:34 PM] Travis Hudson: Right, I think the example he was talking about was the C program that is linked to right next to the actual PDF for the assignment itself.
+[02/17/2008 05:30:48 PM] Travis Hudson: It was absolutely instrumental -- I don't know what I would have done without it.
+[02/17/2008 05:32:16 PM] Brian Cullinan: wow i might actually do this assignment now
+[02/17/2008 05:32:19 PM] Brian Cullinan: thanks for the help
+[02/17/2008 05:32:36 PM] Brian Cullinan: i'll give you a call if i find anything out about writing and reading files
+[02/17/2008 05:32:51 PM] Travis Hudson: Did I just remind you? You forgot, didn't you?
+[02/17/2008 05:33:42 PM] Brian Cullinan: i remembered to do the assignment
+[02/17/2008 05:34:11 PM] Travis Hudson: I'm sure I'm reading the file correctly, it's bound to be a synchronization thing with the multiple threads. That's what you really have to watch out for, it's the hardest part.
+[02/17/2008 05:34:20 PM] Brian Cullinan: but i couldn't find his example, so i was just going to upload a readme.txt then do it later and play it off like it was a vista problem if he asked me about it later
+[02/17/2008 05:34:40 PM] Travis Hudson: I'll send you a copy of his C file...
+[02/17/2008 05:34:49 PM] Brian Cullinan: no i found it
+[02/17/2008 05:35:01 PM] Brian Cullinan: i thought he would have put it under samples
+[02/17/2008 05:35:11 PM] Brian Cullinan: but it was on the assignment page
+[02/17/2008 05:35:18 PM] Brian Cullinan: finish your virtual worlds project?
+[02/17/2008 05:35:21 PM] Travis Hudson: Yeah, he's not a big fan of intuitive interfaces.
+[02/17/2008 05:35:39 PM] Travis Hudson: No. Haven't even started. I'll really just have to modify my existing game at this point.
+[02/17/2008 05:35:53 PM] Brian Cullinan: i am making a new game
+[02/17/2008 05:36:00 PM] Brian Cullinan: a crimsonland clone
+[02/17/2008 05:36:07 PM] Travis Hudson: In your case, that is advisable.
+[02/17/2008 05:36:08 PM] Brian Cullinan: it is going to roxor, when i am done with it
+[02/17/2008 05:36:25 PM] Travis Hudson: Very ambitious, I like the game already.
+[02/17/2008 05:36:44 PM] Travis Hudson: I also have some more stinky cheese. I can't seem to finish it all by myself.
+[02/17/2008 05:36:56 PM] Brian Cullinan: i am in phoenix
+[02/17/2008 05:37:01 PM] Brian Cullinan: g2g restart my laptop
+[02/17/2008 05:37:08 PM] Travis Hudson: Okay.
+Session Close (Travis Hudson): Sun Feb 17 20:35:41 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Sun Feb 17 21:59:03 2008
+[02/17/2008 09:59:06 PM] Brian Cullinan: any luck?
+[02/17/2008 09:59:22 PM] Brian Cullinan: ????
+[02/17/2008 09:59:28 PM] Travis Hudson: with what?
+[02/17/2008 09:59:47 PM] Brian Cullinan: reading more then 1 line?
+[02/17/2008 09:59:57 PM] Travis Hudson: No. I gave up. How about you?
+[02/17/2008 10:00:09 PM] Brian Cullinan: i kept trying, but i am not sure how to get it to work
+[02/17/2008 10:00:23 PM] Travis Hudson: You're having the same 1-line problem?
+[02/17/2008 10:00:26 PM] Brian Cullinan: i might just go talk to him again just so i can learn more c++ even if he takes points off
+[02/17/2008 10:00:36 PM] Brian Cullinan: i know why i am having it though
+[02/17/2008 10:00:42 PM] Brian Cullinan: i know what is causing it entirelyu
+[02/17/2008 10:00:48 PM] Brian Cullinan: i just don't know what to do to fix it
+[02/17/2008 10:00:58 PM] Travis Hudson: What's causing it?
+[02/17/2008 10:06:27 PM] Brian Cullinan: the while loop is getting to a null terminater
+[02/17/2008 10:06:37 PM] Brian Cullinan: and exiting the while
+[02/17/2008 10:06:57 PM] Brian Cullinan: and the input line is what contains the null terminator
+[02/17/2008 10:07:11 PM] Brian Cullinan: so when you read a line from the file it automatically adds a null terminator
+[02/17/2008 10:07:14 PM] Travis Hudson: Okay, so it's reading the input file and it hits a null.
+[02/17/2008 10:07:25 PM] Travis Hudson: Not an eof, but a null?
+[02/17/2008 10:07:30 PM] Brian Cullinan: no not a null in the file
+[02/17/2008 10:07:55 PM] Brian Cullinan: so if you use the readline function or the read function it is automatically adding a null terminater
+[02/17/2008 10:08:02 PM] Travis Hudson: Can the null be stripped off?
+[02/17/2008 10:08:10 PM] Brian Cullinan: that's what i was thinking
+[02/17/2008 10:08:56 PM] Brian Cullinan: but i think that might cause problems with the buffer size
+[02/17/2008 10:09:07 PM] Travis Hudson: I'm going to temporarily un-give up...
+[02/17/2008 10:09:29 PM] Brian Cullinan: so i am just submitting it with the one line reader and work on virtual worlds, let me know if you make progress
+[02/17/2008 10:10:16 PM] Travis Hudson: Mine is already submitted, too, but I think he's nice enough to accept a re-submission if we can solve this problem.
+[02/17/2008 10:10:39 PM] Travis Hudson: I actually have AI hw due tomorrow that I'll have to get to eventually...
+[02/17/2008 10:11:50 PM] Brian Cullinan: yeah i am glad i got this far on the project as quick as i did
+[02/17/2008 10:11:53 PM] Brian Cullinan: 3 hours right?
+[02/17/2008 10:12:25 PM] Travis Hudson: For me, it took more like 6. But I guess that's par for the course :)
+[02/17/2008 10:18:50 PM] Brian Cullinan: nah, it always takes you twice as long
+[02/17/2008 10:18:55 PM] Brian Cullinan: you're silly
+[02/17/2008 10:30:33 PM] Travis Hudson: I am officially re-giving up.
+[02/17/2008 10:40:59 PM] Brian Cullinan: lol
+[02/17/2008 10:41:02 PM] Brian Cullinan: poor travis
+[02/17/2008 10:41:06 PM] Brian Cullinan: what a travisty
+[02/17/2008 10:41:37 PM] Brian Cullinan: i want to put my game in the game cabinent
+[02/17/2008 10:41:44 PM] Brian Cullinan: if it is fast enough
+Session Close (Travis Hudson): Sun Feb 17 22:52:03 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Thu Feb 21 21:50:14 2008
+[02/21/2008 09:50:14 PM] Travis Hudson: hello
+[02/21/2008 09:50:37 PM] Brian Cullinan: hi
+[02/21/2008 09:50:39 PM] Brian Cullinan: i need help
+[02/21/2008 09:50:45 PM] Travis Hudson: With what?
+[02/21/2008 09:50:50 PM] Brian Cullinan: gaming
+[02/21/2008 09:51:06 PM] Travis Hudson: Slag isn't working right for you?
+[02/21/2008 09:51:19 PM] Brian Cullinan: no i just don't know how to solve a problem
+[02/21/2008 09:51:26 PM] Brian Cullinan: i need an equation
+[02/21/2008 09:51:33 PM] Brian Cullinan: let me draw a diagram
+[02/21/2008 09:51:34 PM] Travis Hudson: EXCELLENT!
+[02/21/2008 09:51:44 PM] Travis Hudson: I'm your go-to guy for equations. I'm all over it!
+[02/21/2008 09:51:55 PM] Travis Hudson: M1 + V1 = M2 + V2
+[02/21/2008 09:52:02 PM] Brian Cullinan: lol
+[02/21/2008 09:52:16 PM] Travis Hudson: Okay, let's see this diagram.
+[02/21/2008 09:56:48 PM] Brian Cullinan: (Link: http://209.250.30.30/Share/Pictures/diagram.png)http://209.250.30.30/Share/Pictures/diagram.png
+[02/21/2008 09:57:05 PM] Brian Cullinan: actually there is an error
+[02/21/2008 09:57:09 PM] Brian Cullinan: cancel that download
+[02/21/2008 09:57:35 PM] Travis Hudson: The image is wrong?
+[02/21/2008 09:57:41 PM] Brian Cullinan: yes
+[02/21/2008 09:58:12 PM] Brian Cullinan: ok now download
+[02/21/2008 09:58:20 PM] Brian Cullinan: (Link: http://209.250.30.30/Share/Pictures/diagram.png)http://209.250.30.30/Share/Pictures/diagram.png
+[02/21/2008 09:59:16 PM] Travis Hudson: Okay, this seems to me like a plane intersection problem.
+[02/21/2008 09:59:20 PM] Travis Hudson: Or line intersection, rather.
+[02/21/2008 09:59:51 PM] Travis Hudson: Imagine that the x axis, the bottom edge of the picture, is a line.
+[02/21/2008 10:00:16 PM] Travis Hudson: Find where that linen intersects with the diagonal line.
+[02/21/2008 10:00:38 PM] Travis Hudson: Then do the same for the top, and use those two points to define a new line.
+[02/21/2008 10:01:08 PM] Brian Cullinan: i can't remember equation
+[02/21/2008 10:01:19 PM] Travis Hudson: Did you look in the book?
+[02/21/2008 10:01:34 PM] Brian Cullinan: yes and i can't find it anywhere
+[02/21/2008 10:02:20 PM] Travis Hudson: I'm searching through the back of the book...
+[02/21/2008 10:02:40 PM] Brian Cullinan: is it on 520?
+[02/21/2008 10:02:45 PM] Travis Hudson: "Solving Linear Equations" pg 89-91...
+[02/21/2008 10:03:42 PM] Travis Hudson: Hmm... Matrices. It seems like that's not what you're after.
+[02/21/2008 10:04:44 PM] Travis Hudson: No, it's not page 520.
+[02/21/2008 10:04:53 PM] Travis Hudson: You don't want the closest point on a line segment.
+[02/21/2008 10:06:39 PM] Travis Hudson: Check out pg 545. Remember how Abe was saying you could substitute two lines for a box, and then just to line intersection? There it is.
+[02/21/2008 10:07:19 PM] Travis Hudson: Let's change topics for a little bit; there has been a development on another front.
+[02/21/2008 10:07:43 PM] Travis Hudson: I just went over to Staples and got my TI calculator connector.
+[02/21/2008 10:08:01 PM] Travis Hudson: I used it to restore my calc's OS, so now it works again.
+[02/21/2008 10:08:21 PM] Brian Cullinan: cool
+[02/21/2008 10:08:22 PM] Travis Hudson: Also, I have installed what TI refers to as an SDK.
+[02/21/2008 10:08:52 PM] Travis Hudson: It appears to simulate an 83 Plus on a computer in a virtual environment.
+[02/21/2008 10:09:03 PM] Travis Hudson: You can view the state of the stack, registers, etc.
+[02/21/2008 10:09:20 PM] Travis Hudson: It supports breakpoints, stepping, the whole debugging thing.
+[02/21/2008 10:09:35 PM] Travis Hudson: It appears to be designed for helping with asm programming.
+[02/21/2008 10:09:44 PM] Travis Hudson: It does not mention support for the 84.
+[02/21/2008 10:10:29 PM] Travis Hudson: Anyway, now that we both have working calculators, we should meet to get a basic development method laid out.
+[02/21/2008 10:10:50 PM] Travis Hudson: We need to figure out how we are going to write the software, and do a basic hello world program.
+[02/21/2008 10:11:08 PM] Travis Hudson: Sound like a plan?
+[02/21/2008 10:11:47 PM] Travis Hudson: Tomorrow, maybe?
+[02/21/2008 10:12:56 PM] Brian Cullinan: dude this is going to be awesome if i can get that equation working
+[02/21/2008 10:13:19 PM] Travis Hudson: Brian, could you read what I just wrote, please?
+[02/21/2008 10:16:20 PM] Brian Cullinan: i am asking abe
+[02/21/2008 10:16:23 PM] Brian Cullinan: i read it
+[02/21/2008 10:16:29 PM] Brian Cullinan: jeese you're pushy
+[02/21/2008 10:16:34 PM] Brian Cullinan: yeah tomorrow works
+[02/21/2008 10:16:44 PM] Brian Cullinan: i can meet you in egr after classes
+[02/21/2008 10:17:11 PM] Travis Hudson: Sounds good.
+[02/21/2008 10:18:39 PM] Brian Cullinan: omg i am adding network support
+[02/21/2008 10:19:43 PM] Brian Cullinan: so we can play my game in co-op over the network
+[02/21/2008 10:19:57 PM] Travis Hudson: I see.
+Session Close (Travis Hudson): Thu Feb 21 22:44:32 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Sat Feb 23 20:16:28 2008
+[02/23/2008 08:16:28 PM] Travis Hudson: Hi, Brian.
+[02/23/2008 08:23:12 PM] Travis Hudson: I need vodka advice.
+[02/23/2008 08:55:37 PM] Brian Cullinan: why?
+[02/23/2008 08:56:39 PM] Travis Hudson: Well, I have been strongly considering buying my very own bottle of vodka.
+[02/23/2008 08:57:01 PM] Travis Hudson: It needs to be high quality, and form mixed drinks very well.
+[02/23/2008 08:57:17 PM] Travis Hudson: When I was in Bashas', three brands caught my eye:
+[02/23/2008 08:57:36 PM] Travis Hudson: Smirnoff, Yes!, and Grey Goose
+[02/23/2008 08:57:57 PM] Travis Hudson: Of those three, which do you recommend?
+[02/23/2008 08:58:04 PM] Brian Cullinan: for mixing drinks sky would probably be better because it is cheap
+[02/23/2008 08:58:09 PM] Brian Cullinan: but any of those will do
+[02/23/2008 08:58:14 PM] Brian Cullinan: grey goose is always my favorite
+[02/23/2008 08:58:29 PM] Travis Hudson: Have you heard anything about Yes?
+[02/23/2008 09:00:09 PM] Travis Hudson: I'm finding out if Bashas' has Sky...
+[02/23/2008 09:02:44 PM] Travis Hudson: Their website sucks. I'll have to go back there to find out.
+[02/23/2008 09:05:06 PM] Travis Hudson: Thanks for the vodka advice; I'll try to keep that in mind.
+Session Close (Travis Hudson): Sat Feb 23 21:19:36 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Sun Mar 02 13:42:26 2008
+[03/02/2008 01:42:26 PM] Travis Hudson: hello.
+[03/02/2008 01:42:35 PM] Brian Cullinan: hi
+[03/02/2008 01:43:02 PM] Travis Hudson: Your cellular telephone might be off, just to let you know.
+[03/02/2008 01:43:09 PM] Brian Cullinan: probably
+[03/02/2008 01:43:32 PM] Travis Hudson: Also, are free to meet with me to discuss OS?
+[03/02/2008 01:43:47 PM] Brian Cullinan: not today
+[03/02/2008 01:43:54 PM] Travis Hudson: Busy day?
+[03/02/2008 01:44:02 PM] Brian Cullinan: very
+[03/02/2008 01:44:36 PM] Travis Hudson: Okay.
+[03/02/2008 01:45:10 PM] Travis Hudson: So, yeah, remember last night when I kind of snapped at you when you criticized Jenna?
+[03/02/2008 01:46:05 PM] Travis Hudson: Well, my feelings about her have changed since then. You can criticize her all you want, I won't defend her anymore.
+[03/02/2008 01:46:43 PM] Brian Cullinan: why did they change?
+[03/02/2008 01:47:07 PM] Travis Hudson: Well, I was beginning to like her, after that beer pong night.
+[03/02/2008 01:47:15 PM] Travis Hudson: She said that she was over Radar, her previous bf.
+[03/02/2008 01:47:26 PM] Brian Cullinan: she is not a good idea
+[03/02/2008 01:47:57 PM] Travis Hudson: Last night, she didn't flirt with me or anything. She crashed at my place, but slept with Kiefer instead of me.
+[03/02/2008 01:48:19 PM] Travis Hudson: I finally talked to her about it, and she said that she wasn't over Radar yet.
+[03/02/2008 01:48:33 PM] Brian Cullinan: she slept with keifer and joanna?
+[03/02/2008 01:48:42 PM] Travis Hudson: Joanna went home.
+[03/02/2008 01:48:54 PM] Brian Cullinan: does joanna know keifer spent the night with jenna?
+[03/02/2008 01:49:09 PM] Travis Hudson: It's not like that.
+[03/02/2008 01:49:16 PM] Travis Hudson: Keifer and Jenna borrowed a spare mattress that I had.
+[03/02/2008 01:49:27 PM] Travis Hudson: They didn't share the bed.
+[03/02/2008 01:49:50 PM] Travis Hudson: Anyway, you're right once again.
+[03/02/2008 01:50:12 PM] Travis Hudson: For the second time in a row, I should have listened to what you hat to say about a woman.
+[03/02/2008 01:50:39 PM] Brian Cullinan: jenna is a bad idea
+[03/02/2008 01:50:42 PM] Brian Cullinan: she is so gross
+[03/02/2008 01:50:46 PM] Brian Cullinan: you need to have standards
+[03/02/2008 01:50:51 PM] Brian Cullinan: you really do
+[03/02/2008 01:50:54 PM] Brian Cullinan: she is dirty
+[03/02/2008 01:51:06 PM] Brian Cullinan: she has a hairy ass you always hangs out
+[03/02/2008 01:51:13 PM] Brian Cullinan: i don't even think she wears underwear
+[03/02/2008 01:51:15 PM] Brian Cullinan: like keifer
+[03/02/2008 01:51:18 PM] Brian Cullinan: he is dirty too
+[03/02/2008 01:51:23 PM] Brian Cullinan: standards travis
+[03/02/2008 01:51:29 PM] Travis Hudson: lol
+[03/02/2008 01:51:34 PM] Brian Cullinan: jenna has an ugly face
+[03/02/2008 01:51:37 PM] Brian Cullinan: full of acne
+[03/02/2008 01:51:40 PM] Travis Hudson: I could not agree more.
+[03/02/2008 01:51:51 PM] Brian Cullinan: it looks like she was beaten the hell out of with an ugly stick
+[03/02/2008 01:52:31 PM] Travis Hudson: Yeah, I have learned a lesson here.
+[03/02/2008 01:52:38 PM] Travis Hudson: Standards.
+Session Close (Travis Hudson): Sun Mar 02 14:13:00 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Mon Mar 03 16:41:41 2008
+[03/03/2008 04:41:41 PM] Travis Hudson: Brian, are you there?
+[03/03/2008 04:41:47 PM] Brian Cullinan: no
+[03/03/2008 04:42:08 PM] Travis Hudson: Did you get the email?
+[03/03/2008 04:42:17 PM] Travis Hudson: The one from Kefei?
+[03/03/2008 04:42:21 PM] Brian Cullinan: affirmative 
+[03/03/2008 04:42:32 PM] Travis Hudson: What are we going to do about our presentation?
+[03/03/2008 04:43:11 PM] Brian Cullinan: present
+[03/03/2008 04:43:22 PM] Travis Hudson: Yes, but we need a plan.
+[03/03/2008 04:43:31 PM] Brian Cullinan: i agree
+[03/03/2008 04:43:44 PM] Travis Hudson: We should meet and talk about a plan for the presentation.
+[03/03/2008 04:48:08 PM] Travis Hudson: Are you busy?
+[03/03/2008 04:48:47 PM] Brian Cullinan: currently?
+[03/03/2008 04:49:03 PM] Travis Hudson: yes, or in the near future?
+[03/03/2008 04:49:12 PM] Brian Cullinan: currently yes
+[03/03/2008 04:49:16 PM] Brian Cullinan: in the future probably
+[03/03/2008 04:49:48 PM] Travis Hudson: Well, just call me when you're free to meet, okay?
+[03/03/2008 04:50:02 PM] Brian Cullinan: your mom is free
+[03/03/2008 04:50:07 PM] Brian Cullinan: you should come over
+[03/03/2008 04:51:03 PM] Travis Hudson: Okay, I'll come over. Just let me know when you're ready.
+[03/03/2008 04:51:27 PM] Brian Cullinan: i'll be ready by the time you get here
+[03/03/2008 04:51:38 PM] Brian Cullinan: or you could get a ride from david later
+[03/03/2008 04:52:27 PM] Travis Hudson: Who would drive me back?
+[03/03/2008 04:52:31 PM] Brian Cullinan: i would
+[03/03/2008 04:53:27 PM] Travis Hudson: Why can't you drive me there to begin with?
+[03/03/2008 04:53:43 PM] Brian Cullinan: because i am working
+[03/03/2008 04:53:45 PM] Brian Cullinan: :-P
+[03/03/2008 04:53:55 PM] Brian Cullinan: and i have to get nom noms
+[03/03/2008 04:54:24 PM] Travis Hudson: Alright, I can wait until you're not working.
+[03/03/2008 04:54:46 PM] Brian Cullinan: i can wait until i'm not working too
+[03/03/2008 04:55:28 PM] Travis Hudson: Can't we all? :)
+[03/03/2008 04:55:44 PM] Brian Cullinan: we really shouldn't keep pushing this project off
+[03/03/2008 04:55:52 PM] Brian Cullinan: how far did you get with compiler for the TI?
+[03/03/2008 04:55:56 PM] Travis Hudson: I absolutely could not agree more.
+[03/03/2008 04:56:03 PM] Brian Cullinan: did you get it to display hello world?
+[03/03/2008 04:56:18 PM] Travis Hudson: I can compile TI programs written in assebly and they work.
+[03/03/2008 04:56:44 PM] Travis Hudson: I have done a Hello, World, it only took me 4 or 5 hours.
+[03/03/2008 04:57:22 PM] Travis Hudson: But something else occurred to me, and I wanted to discuss it before the presentation, because it could alter the course of our work dramaticallly.
+[03/03/2008 04:57:59 PM] Travis Hudson: I have downloaded and tested two emulators that run in Windows. They emulate TI89's and TI83's.
+[03/03/2008 04:58:49 PM] Travis Hudson: I need to show it to you, it's cool. Anyway, it occurred to me that we can probably use C and develop for 89's, even if we never actually have an 89.
+[03/03/2008 04:59:00 PM] Travis Hudson: We just rely on the emulator for it.
+[03/03/2008 04:59:33 PM] Travis Hudson: I'll have to show you what I'm talking about, and we can reach a decision about how to proceed, and if we need an actual calc to continue.
+[03/03/2008 05:00:21 PM] Brian Cullinan: ok
+[03/03/2008 05:29:27 PM] *** "Travis Hudson" signed off at Mon Mar 03 17:29:27 2008.
+Session Close (Travis Hudson): Mon Mar 03 17:34:10 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Thu Mar 06 19:09:33 2008
+[03/06/2008 07:09:33 PM] Travis Hudson: Brian, I have a question.
+[03/06/2008 07:14:38 PM] Travis Hudson: Hmm, I guess you're busy.
+[03/06/2008 09:07:12 PM] *** "Travis Hudson" signed off at Thu Mar 06 21:07:12 2008.
+Session Close (Travis Hudson): Thu Mar 06 21:48:31 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Thu Mar 06 22:55:36 2008
+[03/06/2008 10:55:36 PM] Travis Hudson: You wanted to talk to me?
+[03/06/2008 10:56:30 PM] Brian Cullinan: yeah
+[03/06/2008 10:56:41 PM] Travis Hudson: What about?
+[03/06/2008 11:01:37 PM] Brian Cullinan: uh just stuff
+[03/06/2008 11:02:03 PM] Travis Hudson: You didn't have anything specific in mind? It sounded like you did.
+[03/06/2008 11:02:20 PM] Brian Cullinan: are you really considering a trip with keifer?
+[03/06/2008 11:02:28 PM] Travis Hudson: Yes.
+[03/06/2008 11:03:43 PM] Brian Cullinan: i am sorry
+[03/06/2008 11:04:21 PM] Travis Hudson: Why do you keep harping on this? Do you have some kind of alternative that you think I'm missing out on?
+[03/06/2008 11:05:16 PM] Brian Cullinan: no, no alternatives
+[03/06/2008 11:05:21 PM] Brian Cullinan: but anything would be better then that
+[03/06/2008 11:05:25 PM] Brian Cullinan: i am just trying to protect you
+[03/06/2008 11:06:06 PM] Travis Hudson: You have not convinced me that Kiefer is a bad person.
+[03/06/2008 11:06:18 PM] Brian Cullinan: not bad
+[03/06/2008 11:06:24 PM] Brian Cullinan: i just don't think you would enjoy it
+[03/06/2008 11:06:40 PM] Travis Hudson: For what reasons?
+[03/06/2008 11:06:58 PM] Brian Cullinan: he is not a fun person
+[03/06/2008 11:07:03 PM] Brian Cullinan: especially around joanna
+[03/06/2008 11:07:12 PM] Brian Cullinan: you would be a third wheel the whole time
+[03/06/2008 11:07:20 PM] Travis Hudson: How is he not fun around Joanna?
+[03/06/2008 11:07:40 PM] Travis Hudson: It's interesting that you said that.
+[03/06/2008 11:08:03 PM] Brian Cullinan: because they are all over eachother all the time
+[03/06/2008 11:08:11 PM] Travis Hudson: From what I hear, Katrina said she would go if more people were going because she didn't want to feel like a third wheel.
+[03/06/2008 11:08:37 PM] Brian Cullinan: ok, have fun
+[03/06/2008 11:08:40 PM] Travis Hudson: If I were going, that would convince Katrina to go, and I would not be the third wheel.
+[03/06/2008 11:08:56 PM] Travis Hudson: If you have any serious objections, I would certainly entertain them.
+[03/06/2008 11:08:59 PM] Brian Cullinan: true
+[03/06/2008 11:09:08 PM] Brian Cullinan: and then you could hook up
+[03/06/2008 11:09:28 PM] Travis Hudson: Obviously, I can't count on that. I don't seem to be very attractive.
+[03/06/2008 11:09:47 PM] Travis Hudson: But she would be nice company, at least as a friend.
+[03/06/2008 11:10:12 PM] Brian Cullinan: lol
+[03/06/2008 11:10:22 PM] Brian Cullinan: you need to love yourself
+[03/06/2008 11:10:33 PM] Brian Cullinan: i just find keifer and joanna both very annoying
+[03/06/2008 11:10:49 PM] Travis Hudson: We'll have to agree to disagree.
+[03/06/2008 11:11:53 PM] Travis Hudson: What makes you think I don't "love myself?"
+[03/06/2008 11:12:06 PM] Brian Cullinan: Obviously, I can't count on that. I don't seem to be very attractive.
+[03/06/2008 11:12:25 PM] Travis Hudson: That's just an empirical observation.
+[03/06/2008 11:12:49 PM] Brian Cullinan: when you start believing it it will become true
+[03/06/2008 11:13:23 PM] Travis Hudson: So I have to start believing that I am attractive, and it will come true?
+[03/06/2008 11:15:50 PM] Travis Hudson: I'll try to convince myself of it right away, then.
+Session Close (Travis Hudson): Thu Mar 06 23:45:52 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Fri Mar 07 19:37:44 2008
+[03/07/2008 07:37:44 PM] Travis Hudson: Brian, are you there?
+[03/07/2008 07:38:27 PM] Brian Cullinan: hey whats up i was just about to call you back
+[03/07/2008 07:38:54 PM] Travis Hudson: Hey! So, I hear there's going to be a party, but you need more women to attend. Is that right?
+[03/07/2008 07:39:44 PM] Brian Cullinan: always
+[03/07/2008 07:39:48 PM] Brian Cullinan: not katrina
+[03/07/2008 07:39:49 PM] Brian Cullinan: fucker
+[03/07/2008 07:40:07 PM] Travis Hudson: Of course not, I know how you feel about Katrina.
+[03/07/2008 07:40:17 PM] Travis Hudson: Anyway, what's your address?
+[03/07/2008 07:40:38 PM] Brian Cullinan: 3200 S Litzler Dr, 20-127
+[03/07/2008 07:41:08 PM] Travis Hudson: Awesome, I'll see what I can do. I might not be successful, though.
+[03/07/2008 07:41:10 PM] Brian Cullinan: just tell them the village on univeristy heights dr south of wallmart building 20 room 127
+[03/07/2008 07:41:24 PM] Brian Cullinan: don't invite that freak of a spiritualist
+[03/07/2008 07:41:50 PM] Travis Hudson: Sure thing. I don't even like her anyway.
+Session Close (Travis Hudson): Fri Mar 07 19:47:59 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Tue Mar 11 10:54:22 2008
+[03/11/2008 10:54:24 AM] Brian Cullinan: you sux
+[03/11/2008 10:54:26 AM] Brian Cullinan: ahahahahahaha
+Session Close (Travis Hudson): Tue Mar 11 10:54:34 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Tue Mar 11 10:54:40 2008
+[03/11/2008 10:54:40 AM] Travis Hudson: Hey!
+Session Close (Travis Hudson): Tue Mar 11 10:55:09 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Tue Mar 11 11:04:28 2008
+[03/11/2008 11:04:41 AM] Brian Cullinan: looking for tig'ol'bitties
+Session Close (Travis Hudson): Tue Mar 11 11:04:50 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Wed Mar 12 18:40:49 2008
+[03/12/2008 06:40:49 PM] Travis Hudson: Brian, you there?
+[03/12/2008 06:41:00 PM] Brian Cullinan: maybe
+[03/12/2008 06:41:01 PM] Brian Cullinan: depends
+[03/12/2008 06:41:08 PM] Travis Hudson: on what??
+[03/12/2008 06:41:17 PM] Brian Cullinan: if you are trying to talk to me about OS
+[03/12/2008 06:41:43 PM] Travis Hudson: Brian, we have to work on it for just a little bit. It'll be fun.
+[03/12/2008 06:41:51 PM] Travis Hudson: When will you be ready?
+[03/12/2008 06:42:07 PM] Brian Cullinan: tomorrow
+[03/12/2008 06:42:12 PM] Travis Hudson: Brian, be serious.
+[03/12/2008 06:42:21 PM] Brian Cullinan: want to see my game?
+[03/12/2008 06:43:01 PM] Travis Hudson: Certainly, later on. But right now we have things to do.
+[03/12/2008 06:43:22 PM] Brian Cullinan: yeah me too
+[03/12/2008 06:43:36 PM] Travis Hudson: Okay, so when do you want to meet.
+[03/12/2008 06:43:44 PM] Brian Cullinan: tomorrow
+[03/12/2008 06:43:58 PM] Travis Hudson: Brian, we need to work on this tonight.
+[03/12/2008 06:44:03 PM] Brian Cullinan: why?
+[03/12/2008 06:44:07 PM] Brian Cullinan: are you busy tomorrow?
+[03/12/2008 06:44:23 PM] Travis Hudson: Brian, the presentation *is* tomorrow!!!!!
+[03/12/2008 06:44:32 PM] Brian Cullinan: oh yeah
+[03/12/2008 06:44:41 PM] Brian Cullinan: can't we just do what we already planned?
+[03/12/2008 06:44:50 PM] Travis Hudson: We haven't planned anything yet.
+[03/12/2008 06:44:55 PM] Brian Cullinan: you could have just mentioned the presentation, i completely forgot about it
+[03/12/2008 06:45:10 PM] Brian Cullinan: we planned for a presentation before!!!!!!!!11111111111one
+[03/12/2008 06:45:11 PM] Travis Hudson: I mentioned it yesterday.
+[03/12/2008 06:45:39 PM] Travis Hudson: No, we planned for some kind of 2-3 minute presentation that never actually happened. This is different. He expects a proof of concept type thing.
+[03/12/2008 06:46:02 PM] Brian Cullinan: we have a proof of concept
+[03/12/2008 06:46:22 PM] Travis Hudson: That we have never discussed how we are going to show off.
+[03/12/2008 06:46:43 PM] Brian Cullinan: we discussed showing it off on my laptop
+[03/12/2008 06:46:52 PM] Travis Hudson: I need to transfer TBS to your machine so we can show it.
+[03/12/2008 06:47:07 PM] Travis Hudson: Right. Let's practice that one time. Really quick.
+[03/12/2008 06:47:19 PM] Brian Cullinan: it is already on my laptop
+[03/12/2008 06:47:19 PM] Travis Hudson: We can do it in the ACM room. They have a projector here.
+[03/12/2008 06:47:43 PM] Travis Hudson: I am certain that TBS is not on your laptop. Unless you hacked my system.
+[03/12/2008 06:47:51 PM] Brian Cullinan: ohhh
+[03/12/2008 06:47:52 PM] Brian Cullinan: nvm
+[03/12/2008 06:47:56 PM] Travis Hudson: TBS == TravistyBasic
+[03/12/2008 06:47:57 PM] Brian Cullinan: we don't need it for tomorrow
+[03/12/2008 06:48:17 PM] Brian Cullinan: or we can transfer it before class
+[03/12/2008 06:48:45 PM] Travis Hudson: Or we could just get it out of the way right now, iron out any unforseen problems, and actually pass the class.
+[03/12/2008 06:49:06 PM] Brian Cullinan: i think we will be fine
+[03/12/2008 06:49:28 PM] Brian Cullinan: how about you start by e-mailing me a copy of the proposal?
+[03/12/2008 06:49:29 PM] Travis Hudson: I'm going to be honest with you: I'm frustrated right now.
+[03/12/2008 06:49:49 PM] Brian Cullinan: i am frustrated too
+[03/12/2008 06:50:04 PM] Travis Hudson: I'm emailing it to you now.
+[03/12/2008 06:54:12 PM] Travis Hudson: Okay, I sent the email.
+[03/12/2008 06:54:30 PM] Brian Cullinan: good
+[03/12/2008 06:54:32 PM] Travis Hudson: Other teams are preparing powerpoints right now.
+[03/12/2008 06:54:39 PM] Brian Cullinan: in the acm room?
+[03/12/2008 06:54:48 PM] Travis Hudson: They are getting their shit together. We are not.
+[03/12/2008 06:54:53 PM] Travis Hudson: Yes, in the ACM room.
+[03/12/2008 06:55:39 PM] Brian Cullinan: cool, so i will put together a powerpoint
+[03/12/2008 06:56:00 PM] Travis Hudson: I don't want to be viewing it for the first time along with the rest of the class.
+[03/12/2008 06:56:17 PM] Brian Cullinan: it will follow the proposal pretty closely
+[03/12/2008 06:56:26 PM] Travis Hudson: While you're on the powerpoint, I'll write up the midterm report that's also due tomorrow.
+[03/12/2008 06:56:41 PM] Brian Cullinan: what is a midterm report?
+[03/12/2008 06:56:44 PM] Travis Hudson: If you come to the ACM room, that would improve communication greatly.
+[03/12/2008 06:57:04 PM] Travis Hudson: I don't know, but if you look on Vista, you'll see that it's due tomorrow.
+[03/12/2008 06:57:11 PM] Brian Cullinan: k
+[03/12/2008 06:57:22 PM] Travis Hudson: Just focus on the powerpoint. Make it pretty.
+[03/12/2008 06:58:09 PM] Travis Hudson: If you come to the ACM room, we can transfer the software before 5 minutes before class.
+[03/12/2008 06:59:23 PM] Brian Cullinan: maybe you should learn to communicate over other means
+[03/12/2008 06:59:28 PM] Brian Cullinan: i will e-mail it to you
+[03/12/2008 06:59:45 PM] Brian Cullinan: and the midterm isn't due until midnight tomorrow
+[03/12/2008 07:00:00 PM] Brian Cullinan: and by individual does he mean both of us need to turn one in?
+[03/12/2008 07:01:15 PM] Travis Hudson: Where are you seeing that?
+[03/12/2008 07:01:41 PM] Brian Cullinan: on vista is says work individually
+[03/12/2008 07:01:43 PM] Travis Hudson: "Individual Not Started" is put there automatically by Vista. It should be disregarded.
+[03/12/2008 07:02:59 PM] Travis Hudson: What you're suggesting is that Kefei has the technical competence to be able to turn that off in Vista :)
+[03/12/2008 07:03:15 PM] Brian Cullinan: lol i guess not
+[03/12/2008 07:15:40 PM] Brian Cullinan: what is the uml tool we used in software engineering?
+Session Close (Travis Hudson): Wed Mar 12 19:25:34 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Wed Mar 12 19:46:54 2008
+[03/12/2008 07:47:01 PM] Brian Cullinan: i am e-mailing what i have prepared to you
+Session Close (Travis Hudson): Wed Mar 12 19:49:18 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Wed Mar 12 20:29:40 2008
+[03/12/2008 08:29:40 PM] Travis Hudson: The UML tool was called Violet.
+[03/12/2008 08:29:48 PM] Brian Cullinan: yeah got it
+[03/12/2008 08:30:23 PM] Travis Hudson: I need you to save in the old PowerPoint format, I don't have the new Office.
+[03/12/2008 08:37:51 PM] Brian Cullinan: k
+Session Close (Travis Hudson): Wed Mar 12 20:54:11 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Wed Mar 12 22:10:06 2008
+[03/12/2008 10:10:06 PM] Travis Hudson: Do you have a UML diagram for the project?
+[03/12/2008 10:40:25 PM] Travis Hudson: I need you to write a short description of how you are designing the shell, so I can put it in the report, please.
+[03/12/2008 11:48:09 PM] *** "Travis Hudson" signed off at Wed Mar 12 23:48:09 2008.
+Session Close (Travis Hudson): Thu Mar 13 07:43:43 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Thu Mar 13 18:02:57 2008
+[03/13/2008 06:02:57 PM] Travis Hudson: Brian, I need you to send me that midterm report for os that you modified.
+[03/13/2008 06:08:33 PM] Brian Cullinan: kkthxbie
+Session Close (Travis Hudson): Thu Mar 13 18:42:23 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Tue Mar 25 23:11:03 2008
+[03/25/2008 11:11:03 PM] Travis Hudson: Hey, Brian, what's up?
+[03/25/2008 11:11:10 PM] Brian Cullinan: i am done
+[03/25/2008 11:11:13 PM] Brian Cullinan: almost
+[03/25/2008 11:11:21 PM] Travis Hudson: Done with Prince?
+[03/25/2008 11:11:27 PM] Brian Cullinan: yeah
+[03/25/2008 11:11:35 PM] Travis Hudson: Wow, that's encouraging.
+[03/25/2008 11:11:46 PM] Travis Hudson: Is that all you wanted to tell me?
+[03/25/2008 11:12:01 PM] Brian Cullinan: and give you a hint
+[03/25/2008 11:12:09 PM] Travis Hudson: I'm listening...
+[03/25/2008 11:12:35 PM] Brian Cullinan: yeah create a procedural object when in new right to make an instance of that class
+[03/25/2008 11:13:06 PM] Travis Hudson: Okay, I'm not sure I understand yet, but that's probably because I'm not very far.
+[03/25/2008 11:13:25 PM] Brian Cullinan: so you have your object definition
+[03/25/2008 11:13:34 PM] Travis Hudson: I was just about to have my function that read in the class defs return a function that returns certain attributes.
+[03/25/2008 11:13:45 PM] Travis Hudson: Okay, object definition.
+[03/25/2008 11:13:57 PM] Brian Cullinan: and to create an instance of it, you store the result from lambda which is a procedural object
+[03/25/2008 11:14:11 PM] Brian Cullinan: to make a new instance
+[03/25/2008 11:14:20 PM] Travis Hudson: Right.
+[03/25/2008 11:14:28 PM] Brian Cullinan: here is the fun part
+[03/25/2008 11:14:54 PM] Travis Hudson: Oh joy, there's a fun part.
+[03/25/2008 11:15:16 PM] Brian Cullinan: eval all your methods, when the instance is eval-ed, DO NOT wait for the method to be called to eval it
+[03/25/2008 11:15:55 PM] Brian Cullinan: so when you store your methods in the class definition, add in some (lambda ) stuff so when eval is called on it, it will convert all the methods to procedure objects also!
+[03/25/2008 11:16:29 PM] Travis Hudson: A PO that contains other PO's. Got it.
+[03/25/2008 11:17:02 PM] Travis Hudson: Thanks for the advice.
+[03/25/2008 11:17:40 PM] Brian Cullinan: crazy thing i spent about 6 hours on, if you wait to eval your methods when they are called upon, you fall outside the frame of reference and you can't access variables stored in your instantiated class
+[03/25/2008 11:18:42 PM] Travis Hudson: Right, because Eck said that once the frame of ref moves on that's it. There's no going back. It makes sense that it would behave that way.
+[03/25/2008 11:19:48 PM] Brian Cullinan: but you are inside the frame of reference when it is processing a method call
+[03/25/2008 11:20:04 PM] Brian Cullinan: but the eval for a method drops outside that frame of reference for some stupid reason
+[03/25/2008 11:20:26 PM] Travis Hudson: Thanks, I'll keep that in mind.
+[03/25/2008 11:20:31 PM] Brian Cullinan: np
+[03/25/2008 11:20:35 PM] Travis Hudson: I will now redouble my efforts on the project...
+[03/25/2008 11:20:44 PM] Brian Cullinan: good luck
+[03/25/2008 11:20:48 PM] Brian Cullinan: oh one more hint
+[03/25/2008 11:21:14 PM] Brian Cullinan: put your *this* references inside your class
+[03/25/2008 11:21:44 PM] Travis Hudson: What do you mean?
+[03/25/2008 11:22:18 PM] Brian Cullinan: when you have (let ((methods ...) (*this* ...)
+[03/25/2008 11:22:52 PM] Travis Hudson: Oh, wow.
+[03/25/2008 11:23:00 PM] Travis Hudson: I have so much to do.
+[03/25/2008 11:43:34 PM] Brian Cullinan: how do you add something to the end of a list?
+[03/25/2008 11:43:44 PM] Brian Cullinan: eck doesn't like append does he?
+[03/25/2008 11:43:56 PM] Travis Hudson: No, he doesn't.
+[03/25/2008 11:44:06 PM] Travis Hudson: Try doing it backwards instead.
+[03/25/2008 11:44:18 PM] Brian Cullinan: can't this stuff has to come first
+[03/25/2008 11:44:23 PM] Brian Cullinan: and it is in a list already
+[03/25/2008 11:45:16 PM] Travis Hudson: Well, if it's in there already then append is your only option, unless you want to rewrite some code.
+[03/25/2008 11:48:09 PM] Brian Cullinan: i just implemented *this*
+[03/25/2008 11:48:23 PM] Travis Hudson: Cool, so you're done?
+[03/25/2008 11:48:42 PM] Brian Cullinan: have to finish up inheritance but i already know what i am going to do
+[03/25/2008 11:48:55 PM] Travis Hudson: I have to really get serious, then.
+[03/25/2008 11:49:22 PM] Brian Cullinan: a simple merger functions to check for overridden methods and combine variables and methods
+[03/25/2008 11:49:48 PM] Travis Hudson: Sounds simple enough.
+[03/25/2008 11:49:52 PM] Brian Cullinan: oh yeah did i mention mine has support for static functions?
+[03/25/2008 11:50:00 PM] Travis Hudson: No.
+[03/25/2008 11:50:21 PM] Brian Cullinan: yeah i added an optional static field to his class definitions
+[03/25/2008 11:50:37 PM] Brian Cullinan: so you can abstract away related functionality
+[03/25/2008 11:50:37 PM] Travis Hudson: Excellent!
+[03/25/2008 11:50:51 PM] Travis Hudson: Very cool.
+[03/25/2008 11:51:03 PM] Brian Cullinan: yeah totally
+Session Close (Travis Hudson): Tue Mar 25 23:51:53 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Wed Mar 26 01:07:15 2008
+[03/26/2008 01:07:19 AM] Brian Cullinan: go to bed you fool
+[03/26/2008 01:07:27 AM] Brian Cullinan: i'll help you with it tomorrow
+[03/26/2008 01:07:55 AM] Brian Cullinan: and you don't want brain teasers about programming to think about that beautiful girl you are sure to meet
+[03/26/2008 01:08:25 AM] Brian Cullinan: i hope your silence means you are sleeping
+[03/26/2008 01:18:02 AM] *** "Travis Hudson" signed off at Wed Mar 26 01:18:02 2008.
+Session Close (Travis Hudson): Wed Mar 26 01:19:50 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Sun Mar 30 22:31:50 2008
+[03/30/2008 10:31:51 PM] Travis Hudson: Brian, are you there?
+[03/30/2008 10:32:02 PM] Brian Cullinan: dude
+[03/30/2008 10:32:27 PM] Travis Hudson: Do you remember texting me at 2 am?
+[03/30/2008 10:32:33 PM] Brian Cullinan: dude
+[03/30/2008 10:32:53 PM] Travis Hudson: Yes, indeed.
+[03/30/2008 10:33:35 PM] Travis Hudson: I have a problem with the TBasic compiler that I was hoping you could help with.
+[03/30/2008 10:34:30 PM] Travis Hudson: I need a snippet of Java code that runs the necessary DOS commands to compile a z80 source file into a TI executable and transfer the result to the folder the Java program is being run from.
+[03/30/2008 10:35:03 PM] Travis Hudson: We can assume the compiler .bat file is located at c:\asm\tasm\asm.bat.
+[03/30/2008 10:35:44 PM] Travis Hudson: Do you know how to do that?
+[03/30/2008 10:36:08 PM] Brian Cullinan: (Link: http://www.rgagnon.com/javadetails/java-0014.html)http://www.rgagnon.com/javadetails/java-0014.html
+[03/30/2008 10:36:48 PM] Travis Hudson: I was actually looking at that exact page, but my attempt has failed.
+[03/30/2008 10:37:30 PM] Travis Hudson: It throws an IOException, cannot run program "cd" when I try this:
+[03/30/2008 10:37:44 PM] Brian Cullinan: why are you trying to run cd?
+[03/30/2008 10:37:51 PM] Brian Cullinan: thats ridiculous
+[03/30/2008 10:37:54 PM] Brian Cullinan: you can run cd
+[03/30/2008 10:37:58 PM] Brian Cullinan: cd is not a command
+[03/30/2008 10:38:03 PM] Brian Cullinan: or executable
+[03/30/2008 10:38:18 PM] Travis Hudson: Why does it work when I type it into the DOS CLI?
+[03/30/2008 10:38:46 PM] Brian Cullinan: because it is done internally
+[03/30/2008 10:38:54 PM] Travis Hudson: I see. What should I use instead to change directories?
+[03/30/2008 10:38:58 PM] Brian Cullinan: but you can download microsoft power shell, it is finally out!!!!!
+[03/30/2008 10:39:08 PM] Brian Cullinan: you don't need to change directories
+[03/30/2008 10:39:32 PM] Travis Hudson: How do I specify that I would like to run a program in another folder?
+[03/30/2008 10:40:04 PM] Brian Cullinan: use the full path
+[03/30/2008 10:40:41 PM] Travis Hudson: How do I move a file from one directory to another?
+[03/30/2008 10:41:57 PM] Brian Cullinan: you should be able to specify the output file with the asm.bat file
+[03/30/2008 10:42:58 PM] Travis Hudson: It's not just the output file; I need to move the input file into the right place, or asm.bat can't find it.
+[03/30/2008 10:43:08 PM] Brian Cullinan: String[] command = { "cmd.exe", "copy", sourceFile, dest };
+[03/30/2008 10:43:14 PM] Brian Cullinan: Runtime.getRuntime().exec( command );
+[03/30/2008 10:43:18 PM] Brian Cullinan: After the "cmd.exe" try adding "/c".
+[03/30/2008 10:43:23 PM] Brian Cullinan: (Link: http://www.velocityreviews.com/forums/t141346-problem-invoking-windows-copy-command-using-runtimegetruntimeexec.html)http://www.velocityreviews.com/forums/t141346-problem-invoking-windows-copy-com(Link: http://www.velocityreviews.com/forums/t141346-problem-invoking-windows-copy-command-using-runtimegetruntimeexec.html)mand-using-runtimegetruntimeexec.html
+[03/30/2008 10:43:42 PM] Brian Cullinan: formulate your commands that way, it looks pretty organized
+[03/30/2008 10:43:47 PM] Travis Hudson: Thanks. I give it a try.
+[03/30/2008 10:43:56 PM] Brian Cullinan: dude
+[03/30/2008 10:44:02 PM] Brian Cullinan: is your sister a lesbian
+[03/30/2008 10:44:02 PM] Travis Hudson: dude
+[03/30/2008 10:44:04 PM] Brian Cullinan: ?
+[03/30/2008 10:44:14 PM] Travis Hudson: No. Not quite.
+[03/30/2008 10:44:22 PM] Travis Hudson: She is fully bisexual.
+[03/30/2008 10:44:39 PM] Travis Hudson: Right now, she's interested more in women than men, but that could change.
+[03/30/2008 10:44:48 PM] Travis Hudson: Why?
+[03/30/2008 10:45:54 PM] Brian Cullinan: she should totally make out with a girl in dave's bathtub
+[03/30/2008 10:46:29 PM] Travis Hudson: Well, she doesn't drink, and she can be shy sometimes. It might not happen.
+[03/30/2008 10:47:13 PM] Travis Hudson: And I don't think I want that to happen, anyway, now that I think about it.
+[03/30/2008 10:47:39 PM] Brian Cullinan: i want it to happen
+[03/30/2008 10:47:44 PM] Brian Cullinan: dave wants it to happen
+[03/30/2008 10:47:48 PM] Travis Hudson: He said that?
+[03/30/2008 10:47:51 PM] Brian Cullinan: no
+[03/30/2008 10:47:55 PM] Brian Cullinan: i am saying it for him
+[03/30/2008 10:48:02 PM] Travis Hudson: :)
+[03/30/2008 10:48:35 PM] Travis Hudson: Well, she also has a girlfriend right now, and she's not the promiscuous type.
+[03/30/2008 10:48:46 PM] Brian Cullinan: hmmm bummer
+[03/30/2008 10:48:52 PM] Brian Cullinan: she needs a boyfriend
+[03/30/2008 10:48:55 PM] Brian Cullinan: to even things out
+[03/30/2008 10:49:02 PM] Travis Hudson: I think my sister and her gf are definitely monogamous.
+[03/30/2008 10:49:03 PM] Brian Cullinan: and i happen to be the promiscuous type
+[03/30/2008 10:49:25 PM] Brian Cullinan: you mean they could get married someday?
+[03/30/2008 10:49:56 PM] Brian Cullinan: oh nvm
+[03/30/2008 10:49:59 PM] Travis Hudson: If it gets legalized, I guess they could. I not know what her plans are as far as that is concerned.
+[03/30/2008 10:50:02 PM] Brian Cullinan: just they have 1 mate at a time
+[03/30/2008 10:50:12 PM] Travis Hudson: Right.
+[03/30/2008 10:50:17 PM] Brian Cullinan: shes crazy
+[03/30/2008 10:50:27 PM] Travis Hudson: Most definitely.
+[03/30/2008 10:50:30 PM] Brian Cullinan: she's like pseudo-nerd
+[03/30/2008 10:50:39 PM] Travis Hudson: What's a pseudo-nerd?
+[03/30/2008 10:50:56 PM] Brian Cullinan: like someone that comes across as a nerd, but isn't really
+[03/30/2008 10:51:20 PM] Travis Hudson: She's really into anime and sci fi. Are you sure she's not a nerd?
+[03/30/2008 10:51:32 PM] Brian Cullinan: it takes more then that
+[03/30/2008 10:51:37 PM] Travis Hudson: She goes to anime celebration things.
+[03/30/2008 10:51:49 PM] Travis Hudson: Conventions, or whatever.
+[03/30/2008 10:51:57 PM] Brian Cullinan: ok that's more nerdy
+[03/30/2008 10:52:30 PM] Travis Hudson: She dressed up as a pirate when she went to go see Pirates of the Caribbean.
+[03/30/2008 10:54:09 PM] Brian Cullinan: wow i want a sonic boom alarm clock
+[03/30/2008 10:54:14 PM] Brian Cullinan: 113dbs
+[03/30/2008 10:54:31 PM] Brian Cullinan: you go deaf at 120
+[03/30/2008 10:54:40 PM] Travis Hudson: Yeah, and after a few nights you wouldn't be able to hear it anymore.
+[03/30/2008 10:54:40 PM] Brian Cullinan: a jackhammer is 100
+[03/30/2008 10:54:51 PM] Travis Hudson: Wow.
+Session Close (Travis Hudson): Sun Mar 30 22:57:09 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Sun Mar 30 22:57:16 2008
+[03/30/2008 10:57:23 PM] Brian Cullinan: i really need to order more hard drives
+[03/30/2008 10:57:40 PM] Travis Hudson: "need" is a strong word.
+[03/30/2008 10:57:57 PM] Brian Cullinan: lol
+[03/30/2008 10:58:07 PM] Brian Cullinan: i need hard drives more then i need to get laid
+[03/30/2008 10:58:13 PM] Brian Cullinan: does that put it into perspective?
+[03/30/2008 10:58:38 PM] Travis Hudson: I think you need to get your priorities in line.
+[03/30/2008 10:59:11 PM] Travis Hudson: That sounds like an obsession to me.
+[03/30/2008 10:59:38 PM] Brian Cullinan: with hard drives or getting laid?
+[03/30/2008 11:00:11 PM] Travis Hudson: The need for hard drives is excessive. IMHO.
+[03/30/2008 11:01:03 PM] Brian Cullinan: i have movies to store
+[03/30/2008 11:01:37 PM] Travis Hudson: What are you going to do when Blu Ray movies become popular? You'll need tons more HDD space.
+[03/30/2008 11:01:49 PM] Travis Hudson: You'll be thrown into a hard drive crisis.
+[03/30/2008 11:01:55 PM] Travis Hudson: With no way out.
+[03/30/2008 11:02:02 PM] Travis Hudson: It'll be terrible.
+[03/30/2008 11:02:02 PM] Brian Cullinan: i buy bluray movies
+[03/30/2008 11:02:14 PM] Travis Hudson: Okay, problem solved.
+[03/30/2008 11:02:19 PM] Brian Cullinan: and by then hopefully 3d storage will get popular
+[03/30/2008 11:02:26 PM] Travis Hudson: Crisis averted.
+[03/30/2008 11:02:34 PM] Travis Hudson: *phew*
+Session Close (Travis Hudson): Sun Mar 30 23:25:32 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Mon Mar 31 18:19:31 2008
+[03/31/2008 06:19:32 PM] Travis Hudson: Did you get my email?
+[03/31/2008 06:27:44 PM] Travis Hudson: gtg
+[03/31/2008 06:27:52 PM] *** "Travis Hudson" signed off at Mon Mar 31 18:27:52 2008.
+Session Close (Travis Hudson): Mon Mar 31 19:57:39 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Wed Apr 02 16:31:40 2008
+[04/02/2008 04:31:44 PM] Brian Cullinan: Like this!!!!!1111111111one
+[04/02/2008 04:31:49 PM] Brian Cullinan: Hey travis
+[04/02/2008 04:31:51 PM] Brian Cullinan: hey travis
+[04/02/2008 04:31:54 PM] Brian Cullinan: hey travis
+[04/02/2008 04:32:04 PM] Brian Cullinan: hey travis
+[04/02/2008 04:32:07 PM] Travis Hudson: hey
+[04/02/2008 04:36:21 PM] Brian Cullinan: hey travis
+[04/02/2008 04:36:29 PM] Travis Hudson: hey
+[04/02/2008 04:36:36 PM] Brian Cullinan: hey travis
+[04/02/2008 04:36:40 PM] Brian Cullinan: hey travis
+[04/02/2008 04:36:40 PM] Brian Cullinan: hey travis
+[04/02/2008 04:36:41 PM] Brian Cullinan: hey travis
+[04/02/2008 04:36:42 PM] Brian Cullinan: hey travis
+[04/02/2008 04:36:43 PM] Brian Cullinan: hey travis
+[04/02/2008 04:36:43 PM] Brian Cullinan: hey travis
+[04/02/2008 04:36:44 PM] Brian Cullinan: hey travis
+[04/02/2008 04:36:45 PM] Brian Cullinan: hey travis
+[04/02/2008 04:36:46 PM] Brian Cullinan: hey travis
+[04/02/2008 04:36:48 PM] Brian Cullinan: hey travis
+[04/02/2008 04:36:49 PM] Brian Cullinan: hey travis
+[04/02/2008 04:36:54 PM] Brian Cullinan: hey travis
+[04/02/2008 04:36:58 PM] Travis Hudson: hey
+[04/02/2008 04:37:30 PM] Brian Cullinan: hey travis
+Session Close (Travis Hudson): Wed Apr 02 16:37:37 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Wed Apr 02 16:52:46 2008
+[04/02/2008 04:52:46 PM] Travis Hudson: test
+[04/02/2008 04:57:56 PM] Travis Hudson: test
+[04/02/2008 04:57:57 PM] Travis Hudson: test
+[04/02/2008 04:57:58 PM] Travis Hudson: test
+[04/02/2008 04:57:59 PM] Travis Hudson: test
+[04/02/2008 04:58:12 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:58:00 PM
+[04/02/2008 04:58:13 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:58:01 PM
+[04/02/2008 04:59:40 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:28 PM
+[04/02/2008 04:59:41 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:29 PM
+[04/02/2008 04:59:42 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:30 PM
+[04/02/2008 04:59:43 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:31 PM
+[04/02/2008 04:59:44 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:32 PM
+[04/02/2008 04:59:45 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:33 PM
+[04/02/2008 04:59:46 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:34 PM
+[04/02/2008 04:59:48 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:35 PM
+[04/02/2008 04:59:49 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:36 PM
+[04/02/2008 04:59:50 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:37 PM
+[04/02/2008 04:59:51 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:38 PM
+[04/02/2008 04:59:52 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:40 PM
+[04/02/2008 04:59:53 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:41 PM
+[04/02/2008 04:59:54 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:42 PM
+[04/02/2008 04:59:55 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:43 PM
+[04/02/2008 04:59:56 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:44 PM
+[04/02/2008 04:59:57 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:45 PM
+[04/02/2008 04:59:58 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:46 PM
+[04/02/2008 04:59:59 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:47 PM
+[04/02/2008 05:00:00 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:48 PM
+[04/02/2008 05:00:01 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:49 PM
+[04/02/2008 05:00:05 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:50 PM
+[04/02/2008 05:00:05 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:51 PM
+[04/02/2008 05:00:08 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:52 PM
+[04/02/2008 05:00:10 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:53 PM
+[04/02/2008 05:00:12 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:55 PM
+[04/02/2008 05:00:14 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:56 PM
+[04/02/2008 05:00:17 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 4:59:59 PM
+[04/02/2008 05:00:19 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:01 PM
+[04/02/2008 05:00:21 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:02 PM
+[04/02/2008 05:00:23 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:05 PM
+[04/02/2008 05:00:26 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:07 PM
+[04/02/2008 05:00:37 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:25 PM
+[04/02/2008 05:00:39 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:27 PM
+[04/02/2008 05:00:41 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:29 PM
+[04/02/2008 05:00:43 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:31 PM
+[04/02/2008 05:00:45 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:33 PM
+[04/02/2008 05:00:47 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:35 PM
+[04/02/2008 05:00:50 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:37 PM
+[04/02/2008 05:00:52 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:39 PM
+[04/02/2008 05:00:54 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:42 PM
+[04/02/2008 05:00:56 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:44 PM
+[04/02/2008 05:00:58 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:46 PM
+[04/02/2008 05:01:00 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:48 PM
+[04/02/2008 05:01:02 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:50 PM
+[04/02/2008 05:01:04 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:52 PM
+[04/02/2008 05:01:06 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:54 PM
+[04/02/2008 05:01:09 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:56 PM
+[04/02/2008 05:01:11 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:00:58 PM
+[04/02/2008 05:01:13 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:01 PM
+[04/02/2008 05:01:15 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:03 PM
+[04/02/2008 05:01:17 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:05 PM
+[04/02/2008 05:01:19 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:07 PM
+[04/02/2008 05:01:22 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:10 PM
+[04/02/2008 05:01:25 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:12 PM
+[04/02/2008 05:01:27 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:14 PM
+[04/02/2008 05:01:29 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:16 PM
+[04/02/2008 05:01:31 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:19 PM
+[04/02/2008 05:01:33 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:21 PM
+[04/02/2008 05:01:35 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:23 PM
+[04/02/2008 05:01:37 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:25 PM
+[04/02/2008 05:01:39 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:27 PM
+[04/02/2008 05:01:41 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:29 PM
+[04/02/2008 05:01:43 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:31 PM
+[04/02/2008 05:01:45 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:33 PM
+[04/02/2008 05:01:48 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:35 PM
+[04/02/2008 05:01:50 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:37 PM
+[04/02/2008 05:01:53 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:39 PM
+[04/02/2008 05:01:55 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:42 PM
+[04/02/2008 05:01:57 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:44 PM
+[04/02/2008 05:01:59 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:46 PM
+[04/02/2008 05:02:01 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:48 PM
+[04/02/2008 05:02:04 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:50 PM
+[04/02/2008 05:02:06 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:52 PM
+[04/02/2008 05:02:08 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:54 PM
+[04/02/2008 05:02:11 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:01:56 PM
+[04/02/2008 05:02:15 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:02 PM
+[04/02/2008 05:02:17 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:04 PM
+[04/02/2008 05:02:19 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:07 PM
+[04/02/2008 05:02:21 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:09 PM
+[04/02/2008 05:02:23 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:11 PM
+[04/02/2008 05:02:25 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:13 PM
+[04/02/2008 05:02:27 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:15 PM
+[04/02/2008 05:02:29 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:17 PM
+[04/02/2008 05:02:31 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:19 PM
+[04/02/2008 05:02:34 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:21 PM
+[04/02/2008 05:02:36 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:23 PM
+[04/02/2008 05:02:38 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:25 PM
+[04/02/2008 05:02:40 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:28 PM
+[04/02/2008 05:02:43 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:30 PM
+[04/02/2008 05:02:45 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:32 PM
+[04/02/2008 05:02:47 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:34 PM
+[04/02/2008 05:02:50 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:36 PM
+[04/02/2008 05:02:52 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:38 PM
+[04/02/2008 05:02:54 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:40 PM
+[04/02/2008 05:02:56 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:42 PM
+[04/02/2008 05:02:59 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:44 PM
+[04/02/2008 05:03:01 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:47 PM
+[04/02/2008 05:03:03 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:49 PM
+[04/02/2008 05:03:05 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:51 PM
+[04/02/2008 05:03:07 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:54 PM
+[04/02/2008 05:03:10 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:56 PM
+[04/02/2008 05:03:12 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:02:58 PM
+[04/02/2008 05:03:15 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:03:00 PM
+[04/02/2008 05:03:16 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:03:03 PM
+[04/02/2008 05:03:19 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:03:05 PM
+[04/02/2008 05:03:21 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:03:07 PM
+[04/02/2008 05:03:24 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:03:09 PM
+[04/02/2008 05:03:26 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:03:12 PM
+[04/02/2008 05:03:28 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:03:14 PM
+[04/02/2008 05:03:30 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:03:16 PM
+[04/02/2008 05:03:33 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:03:18 PM
+[04/02/2008 05:03:34 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:03:21 PM
+[04/02/2008 05:03:37 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:03:23 PM
+[04/02/2008 05:03:39 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:03:25 PM
+[04/02/2008 05:03:42 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:03:27 PM
+[04/02/2008 05:03:44 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:03:30 PM
+[04/02/2008 05:03:46 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:03:32 PM
+[04/02/2008 05:03:48 PM] Travis Hudson: Just so you know, here's the current date: Wednesday, April 2, 2008 5:03:34 PM
+[04/02/2008 05:07:42 PM] Travis Hudson: Here's a random number: 938497
+[04/02/2008 05:07:44 PM] Travis Hudson: Here's a random number: 205794
+[04/02/2008 05:07:46 PM] Travis Hudson: Here's a random number: 385330
+[04/02/2008 05:07:57 PM] Travis Hudson: Here's a random number: 52317305
+[04/02/2008 05:07:59 PM] Travis Hudson: Here's a random number: 26722428
+[04/02/2008 05:08:01 PM] Travis Hudson: Here's a random number: 35035452
+[04/02/2008 05:08:06 PM] Travis Hudson: Here's a random number: 9.936725804494E+8
+[04/02/2008 05:08:08 PM] Travis Hudson: Here's a random number: 9.638308551589E+8
+[04/02/2008 05:08:10 PM] Travis Hudson: Here's a random number: 2.58743483469E+8
+[04/02/2008 05:08:41 PM] Travis Hudson: Here's a random number: 4990136
+[04/02/2008 05:08:43 PM] Travis Hudson: Here's a random number: 5686207
+[04/02/2008 05:08:54 PM] Travis Hudson: Here's a random number: 29126309
+[04/02/2008 05:08:55 PM] Travis Hudson: Here's a random number: 28046327
+[04/02/2008 05:08:57 PM] Travis Hudson: Here's a random number: 22365882
+[04/02/2008 05:09:05 PM] Travis Hudson: Here's a random number: 7.969505793372E+8
+[04/02/2008 05:09:14 PM] Travis Hudson: Here's a random number: 63961105
+[04/02/2008 05:09:16 PM] Travis Hudson: Here's a random number: 32668094
+[04/02/2008 05:09:18 PM] Travis Hudson: Here's a random number: 87954660
+[04/02/2008 05:09:24 PM] Travis Hudson: Here's a random number: 34915928
+[04/02/2008 05:09:25 PM] Travis Hudson: Here's a random number: 6701238
+[04/02/2008 05:09:26 PM] Travis Hudson: Here's a random number: 17808114
+[04/02/2008 05:09:26 PM] Travis Hudson: Here's a random number: 64469142
+[04/02/2008 05:09:28 PM] Travis Hudson: Here's a random number: 40120455
+[04/02/2008 05:09:31 PM] Travis Hudson: Here's a random number: 65594927
+[04/02/2008 05:09:33 PM] Travis Hudson: Here's a random number: 90786858
+[04/02/2008 05:09:35 PM] Travis Hudson: Here's a random number: 86087975
+[04/02/2008 05:09:37 PM] Travis Hudson: Here's a random number: 26559339
+[04/02/2008 05:09:39 PM] Travis Hudson: Here's a random number: 53520092
+[04/02/2008 05:09:41 PM] Travis Hudson: Here's a random number: 66024204
+[04/02/2008 05:09:43 PM] Travis Hudson: Here's a random number: 34826710
+[04/02/2008 05:09:45 PM] Travis Hudson: Here's a random number: 99700183
+[04/02/2008 05:09:47 PM] Travis Hudson: Here's a random number: 76959081
+[04/02/2008 05:09:50 PM] Travis Hudson: Here's a random number: 52423392
+[04/02/2008 05:09:52 PM] Travis Hudson: Here's a random number: 83627402
+[04/02/2008 05:09:54 PM] Travis Hudson: Here's a random number: 29341993
+[04/02/2008 05:09:56 PM] Travis Hudson: Here's a random number: 86345585
+[04/02/2008 05:09:58 PM] Travis Hudson: Here's a random number: 27244692
+[04/02/2008 05:10:00 PM] Travis Hudson: Here's a random number: 96726820
+[04/02/2008 05:10:02 PM] Travis Hudson: Here's a random number: 79190916
+[04/02/2008 05:10:04 PM] Travis Hudson: Here's a random number: 10173848
+[04/02/2008 05:10:06 PM] Travis Hudson: Here's a random number: 19483899
+[04/02/2008 05:10:08 PM] Travis Hudson: Here's a random number: 40408884
+[04/02/2008 05:10:10 PM] Travis Hudson: Here's a random number: 68231863
+[04/02/2008 05:10:13 PM] Travis Hudson: Here's a random number: 97850995
+[04/02/2008 05:10:15 PM] Travis Hudson: Here's a random number: 7769379
+[04/02/2008 05:10:17 PM] Travis Hudson: Here's a random number: 59924070
+[04/02/2008 05:10:19 PM] Travis Hudson: Here's a random number: 1104469
+[04/02/2008 05:10:21 PM] Travis Hudson: Here's a random number: 83127477
+[04/02/2008 05:10:23 PM] Travis Hudson: Here's a random number: 46120906
+[04/02/2008 05:10:25 PM] Travis Hudson: Here's a random number: 84795883
+[04/02/2008 05:10:27 PM] Travis Hudson: Here's a random number: 38307255
+[04/02/2008 05:10:29 PM] Travis Hudson: Here's a random number: 91894900
+[04/02/2008 05:10:31 PM] Travis Hudson: Here's a random number: 4190147
+[04/02/2008 05:10:34 PM] Travis Hudson: Here's a random number: 96423380
+[04/02/2008 05:10:36 PM] Travis Hudson: Here's a random number: 5052214
+[04/02/2008 05:10:38 PM] Travis Hudson: Here's a random number: 82844781
+[04/02/2008 05:10:40 PM] Travis Hudson: Here's a random number: 83558426
+[04/02/2008 05:10:42 PM] Travis Hudson: Here's a random number: 98497732
+[04/02/2008 05:10:44 PM] Travis Hudson: Here's a random number: 98177997
+[04/02/2008 05:10:46 PM] Travis Hudson: Here's a random number: 14387315
+[04/02/2008 05:10:48 PM] Travis Hudson: Here's a random number: 80882834
+[04/02/2008 05:10:50 PM] Travis Hudson: Here's a random number: 9623325
+[04/02/2008 05:10:52 PM] Travis Hudson: Here's a random number: 40587662
+[04/02/2008 05:10:55 PM] Travis Hudson: Here's a random number: 54249314
+[04/02/2008 05:10:57 PM] Travis Hudson: Here's a random number: 10777875
+[04/02/2008 05:11:00 PM] Travis Hudson: Here's a random number: 23359956
+[04/02/2008 05:11:01 PM] Travis Hudson: Here's a random number: 38071626
+[04/02/2008 05:11:03 PM] Travis Hudson: Here's a random number: 16017000
+[04/02/2008 05:11:05 PM] Travis Hudson: Here's a random number: 10255618
+[04/02/2008 05:11:08 PM] Travis Hudson: Here's a random number: 28256426
+[04/02/2008 05:11:10 PM] Travis Hudson: Here's a random number: 31270099
+[04/02/2008 05:11:12 PM] Travis Hudson: Here's a random number: 29221382
+[04/02/2008 05:11:14 PM] Travis Hudson: Here's a random number: 28535740
+[04/02/2008 05:11:16 PM] Travis Hudson: Here's a random number: 67681340
+[04/02/2008 05:11:19 PM] Travis Hudson: Here's a random number: 8362301
+[04/02/2008 05:11:21 PM] Travis Hudson: Here's a random number: 87581064
+[04/02/2008 05:11:23 PM] Travis Hudson: Here's a random number: 39649020
+[04/02/2008 05:11:25 PM] Travis Hudson: Here's a random number: 38662967
+[04/02/2008 05:11:28 PM] Travis Hudson: Here's a random number: 33333931
+[04/02/2008 05:11:30 PM] Travis Hudson: Here's a random number: 9668190
+[04/02/2008 05:11:33 PM] Travis Hudson: Here's a random number: 48972930
+[04/02/2008 05:11:35 PM] Travis Hudson: Here's a random number: 14657203
+[04/02/2008 05:11:37 PM] Travis Hudson: Here's a random number: 42082467
+[04/02/2008 05:11:39 PM] Travis Hudson: Here's a random number: 93741327
+[04/02/2008 05:11:41 PM] Travis Hudson: Here's a random number: 67451429
+[04/02/2008 05:11:44 PM] Travis Hudson: Here's a random number: 91357417
+[04/02/2008 05:11:46 PM] Travis Hudson: Here's a random number: 74537165
+[04/02/2008 05:11:48 PM] Travis Hudson: Here's a random number: 11577521
+[04/02/2008 05:11:51 PM] Travis Hudson: Here's a random number: 38602767
+[04/02/2008 05:11:53 PM] Travis Hudson: Here's a random number: 27672796
+[04/02/2008 05:11:55 PM] Travis Hudson: Here's a random number: 48638903
+[04/02/2008 05:11:58 PM] Travis Hudson: Here's a random number: 89555671
+[04/02/2008 05:11:59 PM] Travis Hudson: Here's a random number: 3791125
+[04/02/2008 05:12:02 PM] Travis Hudson: Here's a random number: 98910584
+[04/02/2008 05:12:05 PM] Travis Hudson: Here's a random number: 92924793
+[04/02/2008 05:12:07 PM] Travis Hudson: Here's a random number: 7370642
+[04/02/2008 05:12:09 PM] Travis Hudson: Here's a random number: 31068079
+[04/02/2008 05:12:11 PM] Travis Hudson: Here's a random number: 88706214
+[04/02/2008 05:12:13 PM] Travis Hudson: Here's a random number: 54881748
+[04/02/2008 05:12:16 PM] Travis Hudson: Here's a random number: 63655864
+[04/02/2008 05:12:18 PM] Travis Hudson: Here's a random number: 44214117
+[04/02/2008 05:12:21 PM] Travis Hudson: Here's a random number: 51296632
+[04/02/2008 05:12:22 PM] Travis Hudson: Here's a random number: 25522244
+[04/02/2008 05:12:26 PM] Travis Hudson: Here's a random number: 45233540
+[04/02/2008 05:12:27 PM] Travis Hudson: Here's a random number: 45256980
+[04/02/2008 05:12:29 PM] Travis Hudson: Here's a random number: 57359006
+[04/02/2008 05:12:31 PM] Travis Hudson: Here's a random number: 78098895
+[04/02/2008 05:12:34 PM] Travis Hudson: Here's a random number: 46477759
+[04/02/2008 05:12:37 PM] Travis Hudson: Here's a random number: 53118532
+[04/02/2008 05:12:38 PM] Travis Hudson: Here's a random number: 8407715
+[04/02/2008 05:12:41 PM] Travis Hudson: Here's a random number: 32326695
+[04/02/2008 05:12:43 PM] Travis Hudson: Here's a random number: 70646025
+[04/02/2008 05:12:45 PM] Travis Hudson: Here's a random number: 60060792
+[04/02/2008 05:12:47 PM] Travis Hudson: Here's a random number: 41233544
+[04/02/2008 05:12:49 PM] Travis Hudson: Here's a random number: 67962383
+[04/02/2008 05:12:52 PM] Travis Hudson: Here's a random number: 36154317
+[04/02/2008 05:12:54 PM] Travis Hudson: Here's a random number: 16286599
+[04/02/2008 05:12:56 PM] Travis Hudson: Here's a random number: 11688218
+[04/02/2008 05:12:59 PM] Travis Hudson: Here's a random number: 53340739
+[04/02/2008 05:13:01 PM] Travis Hudson: Here's a random number: 38592359
+[04/02/2008 05:13:03 PM] Travis Hudson: Here's a random number: 69887955
+[04/02/2008 05:13:06 PM] Travis Hudson: Here's a random number: 31871747
+[04/02/2008 05:13:08 PM] Travis Hudson: Here's a random number: 43044152
+[04/02/2008 05:13:10 PM] Travis Hudson: Here's a random number: 6985721
+[04/02/2008 05:13:12 PM] Travis Hudson: Here's a random number: 30109546
+[04/02/2008 05:13:15 PM] Travis Hudson: Here's a random number: 75114687
+[04/02/2008 05:13:17 PM] Travis Hudson: Here's a random number: 83348998
+[04/02/2008 05:13:19 PM] Travis Hudson: Here's a random number: 24873034
+[04/02/2008 05:13:21 PM] Travis Hudson: Here's a random number: 85629525
+[04/02/2008 05:13:24 PM] Travis Hudson: Here's a random number: 53543755
+[04/02/2008 05:13:26 PM] Travis Hudson: Here's a random number: 49426261
+[04/02/2008 05:13:28 PM] Travis Hudson: Here's a random number: 62570305
+[04/02/2008 05:13:30 PM] Travis Hudson: Here's a random number: 16108315
+[04/02/2008 05:13:33 PM] Travis Hudson: Here's a random number: 84665407
+[04/02/2008 05:13:35 PM] Travis Hudson: Here's a random number: 17287247
+[04/02/2008 05:13:37 PM] Travis Hudson: Here's a random number: 43269947
+[04/02/2008 05:13:40 PM] Travis Hudson: Here's a random number: 85423812
+[04/02/2008 05:13:42 PM] Travis Hudson: Here's a random number: 82676356
+[04/02/2008 05:13:44 PM] Travis Hudson: Here's a random number: 31679738
+[04/02/2008 05:13:46 PM] Travis Hudson: Here's a random number: 81157473
+[04/02/2008 05:13:48 PM] Travis Hudson: Here's a random number: 13366043
+[04/02/2008 05:13:51 PM] Travis Hudson: Here's a random number: 97911773
+[04/02/2008 05:13:53 PM] Travis Hudson: Here's a random number: 86937439
+[04/02/2008 05:13:55 PM] Travis Hudson: Here's a random number: 7718084
+[04/02/2008 05:13:58 PM] Travis Hudson: Here's a random number: 89102254
+[04/02/2008 05:14:00 PM] Travis Hudson: Here's a random number: 19589986
+[04/02/2008 05:14:02 PM] Travis Hudson: Here's a random number: 25085039
+[04/02/2008 05:14:05 PM] Travis Hudson: Here's a random number: 60336972
+[04/02/2008 05:14:07 PM] Travis Hudson: Here's a random number: 21061166
+[04/02/2008 05:14:09 PM] Travis Hudson: Here's a random number: 51993191
+[04/02/2008 05:14:11 PM] Travis Hudson: Here's a random number: 74802887
+[04/02/2008 05:14:13 PM] Travis Hudson: Here's a random number: 10201349
+[04/02/2008 05:14:16 PM] Travis Hudson: Here's a random number: 43588462
+[04/02/2008 05:14:18 PM] Travis Hudson: Here's a random number: 79189129
+[04/02/2008 05:14:20 PM] Travis Hudson: Here's a random number: 65351594
+[04/02/2008 05:14:22 PM] Travis Hudson: Here's a random number: 67591931
+[04/02/2008 05:14:25 PM] Travis Hudson: Here's a random number: 86794912
+[04/02/2008 05:14:27 PM] Travis Hudson: Here's a random number: 2774583
+[04/02/2008 05:14:29 PM] Travis Hudson: Here's a random number: 94642411
+[04/02/2008 05:14:32 PM] Travis Hudson: Here's a random number: 24315403
+[04/02/2008 05:14:34 PM] Travis Hudson: Here's a random number: 95714649
+[04/02/2008 05:14:36 PM] Travis Hudson: Here's a random number: 76260277
+[04/02/2008 05:14:38 PM] Travis Hudson: Here's a random number: 90446250
+[04/02/2008 05:14:40 PM] Travis Hudson: Here's a random number: 5792858
+[04/02/2008 05:14:43 PM] Travis Hudson: Here's a random number: 73763702
+[04/02/2008 05:14:45 PM] Travis Hudson: Here's a random number: 61244962
+[04/02/2008 05:14:47 PM] Travis Hudson: Here's a random number: 47174311
+[04/02/2008 05:14:50 PM] Travis Hudson: Here's a random number: 84481278
+[04/02/2008 05:14:52 PM] Travis Hudson: Here's a random number: 83527903
+[04/02/2008 05:14:54 PM] Travis Hudson: Here's a random number: 73167574
+[04/02/2008 05:14:56 PM] Travis Hudson: Here's a random number: 88434532
+[04/02/2008 05:14:58 PM] Travis Hudson: Here's a random number: 97774365
+[04/02/2008 05:15:01 PM] Travis Hudson: Here's a random number: 84609798
+[04/02/2008 05:15:03 PM] Travis Hudson: Here's a random number: 95821245
+[04/02/2008 05:15:05 PM] Travis Hudson: Here's a random number: 27709102
+[04/02/2008 05:15:08 PM] Travis Hudson: Here's a random number: 31884548
+[04/02/2008 05:15:10 PM] Travis Hudson: Here's a random number: 64980886
+[04/02/2008 05:15:12 PM] Travis Hudson: Here's a random number: 82004482
+[04/02/2008 05:15:14 PM] Travis Hudson: Here's a random number: 59603938
+[04/02/2008 05:15:17 PM] Travis Hudson: Here's a random number: 44894239
+[04/02/2008 05:15:19 PM] Travis Hudson: Here's a random number: 82956572
+[04/02/2008 05:15:21 PM] Travis Hudson: Here's a random number: 82309214
+[04/02/2008 05:15:23 PM] Travis Hudson: Here's a random number: 15250739
+[04/02/2008 05:15:26 PM] Travis Hudson: Here's a random number: 56113422
+[04/02/2008 05:15:28 PM] Travis Hudson: Here's a random number: 81772792
+[04/02/2008 05:15:30 PM] Travis Hudson: Here's a random number: 78879228
+[04/02/2008 05:15:33 PM] Travis Hudson: Here's a random number: 24582818
+[04/02/2008 05:15:35 PM] Travis Hudson: Here's a random number: 81993403
+[04/02/2008 05:15:37 PM] Travis Hudson: Here's a random number: 71177772
+[04/02/2008 05:15:39 PM] Travis Hudson: Here's a random number: 78237476
+[04/02/2008 05:15:42 PM] Travis Hudson: Here's a random number: 39411124
+[04/02/2008 05:15:44 PM] Travis Hudson: Here's a random number: 53976722
+[04/02/2008 05:15:46 PM] Travis Hudson: Here's a random number: 6068006
+[04/02/2008 05:15:48 PM] Travis Hudson: Here's a random number: 47282806
+[04/02/2008 05:15:51 PM] Travis Hudson: Here's a random number: 62043110
+[04/02/2008 05:15:53 PM] Travis Hudson: Here's a random number: 98807139
+[04/02/2008 05:15:55 PM] Travis Hudson: Here's a random number: 21461704
+[04/02/2008 05:15:58 PM] Travis Hudson: Here's a random number: 96813518
+[04/02/2008 05:16:00 PM] Travis Hudson: Here's a random number: 72252707
+[04/02/2008 05:16:02 PM] Travis Hudson: Here's a random number: 47794431
+[04/02/2008 05:16:04 PM] Travis Hudson: Here's a random number: 26513741
+[04/02/2008 05:16:06 PM] Travis Hudson: Here's a random number: 77031509
+[04/02/2008 05:16:09 PM] Travis Hudson: Here's a random number: 10579732
+[04/02/2008 05:16:11 PM] Travis Hudson: Here's a random number: 99429970
+[04/02/2008 05:16:13 PM] Travis Hudson: Here's a random number: 36116520
+[04/02/2008 05:16:15 PM] Travis Hudson: Here's a random number: 64854485
+[04/02/2008 05:16:18 PM] Travis Hudson: Here's a random number: 78209769
+[04/02/2008 05:16:20 PM] Travis Hudson: Here's a random number: 89880590
+[04/02/2008 05:16:22 PM] Travis Hudson: Here's a random number: 3442503
+[04/02/2008 05:16:25 PM] Travis Hudson: Here's a random number: 83922914
+[04/02/2008 05:16:27 PM] Travis Hudson: Here's a random number: 46445154
+[04/02/2008 05:16:29 PM] Travis Hudson: Here's a random number: 34077366
+[04/02/2008 05:16:32 PM] Travis Hudson: Here's a random number: 79326136
+[04/02/2008 05:16:34 PM] Travis Hudson: Here's a random number: 78182593
+[04/02/2008 05:16:36 PM] Travis Hudson: Here's a random number: 91363582
+[04/02/2008 05:16:38 PM] Travis Hudson: Here's a random number: 26592836
+[04/02/2008 05:16:41 PM] Travis Hudson: Here's a random number: 32752907
+[04/02/2008 05:16:43 PM] Travis Hudson: Here's a random number: 55442408
+[04/02/2008 05:16:45 PM] Travis Hudson: Here's a random number: 66213549
+[04/02/2008 05:16:47 PM] Travis Hudson: Here's a random number: 10752901
+[04/02/2008 05:16:49 PM] Travis Hudson: Here's a random number: 73058104
+[04/02/2008 05:16:52 PM] Travis Hudson: Here's a random number: 44601023
+[04/02/2008 05:16:54 PM] Travis Hudson: Here's a random number: 83608197
+[04/02/2008 05:16:56 PM] Travis Hudson: Here's a random number: 34683949
+[04/02/2008 05:16:59 PM] Travis Hudson: Here's a random number: 55047772
+[04/02/2008 05:17:01 PM] Travis Hudson: Here's a random number: 26257022
+[04/02/2008 05:17:03 PM] Travis Hudson: Here's a random number: 14079067
+[04/02/2008 05:17:05 PM] Travis Hudson: Here's a random number: 61076728
+[04/02/2008 05:17:08 PM] Travis Hudson: Here's a random number: 77259647
+[04/02/2008 05:17:10 PM] Travis Hudson: Here's a random number: 60117469
+[04/02/2008 05:17:12 PM] Travis Hudson: Here's a random number: 99424068
+[04/02/2008 05:20:05 PM] Travis Hudson: Here's a random number: 79437559
+[04/02/2008 05:20:08 PM] Travis Hudson: Here's a random number: 33096219
+[04/02/2008 05:20:10 PM] Travis Hudson: Here's a random number: 16335403
+[04/02/2008 05:20:12 PM] Travis Hudson: Here's a random number: 79814368
+[04/02/2008 05:20:14 PM] Travis Hudson: Here's a random number: 93786246
+[04/02/2008 05:20:16 PM] Travis Hudson: Here's a random number: 2635756
+[04/02/2008 05:20:18 PM] Travis Hudson: Here's a random number: 49021672
+[04/02/2008 05:20:20 PM] Travis Hudson: Here's a random number: 258817
+[04/02/2008 05:20:22 PM] Travis Hudson: Here's a random number: 40328760
+[04/02/2008 05:20:24 PM] Travis Hudson: Here's a random number: 19277493
+[04/02/2008 05:20:26 PM] Travis Hudson: Here's a random number: 80881365
+[04/02/2008 05:20:28 PM] Travis Hudson: Here's a random number: 42355813
+[04/02/2008 05:20:30 PM] Travis Hudson: Here's a random number: 64306258
+[04/02/2008 05:20:32 PM] Travis Hudson: Here's a random number: 36160537
+[04/02/2008 05:20:34 PM] Travis Hudson: Here's a random number: 85210713
+[04/02/2008 05:20:36 PM] Travis Hudson: Here's a random number: 71231984
+[04/02/2008 05:20:38 PM] Travis Hudson: Here's a random number: 99587565
+[04/02/2008 05:20:41 PM] Travis Hudson: Here's a random number: 54923765
+[04/02/2008 05:20:43 PM] Travis Hudson: Here's a random number: 86320845
+[04/02/2008 05:20:45 PM] Travis Hudson: Here's a random number: 73945
+[04/02/2008 05:20:47 PM] Travis Hudson: Here's a random number: 61096356
+[04/02/2008 05:20:49 PM] Travis Hudson: Here's a random number: 4586808
+[04/02/2008 05:20:51 PM] Travis Hudson: Here's a random number: 73838595
+[04/02/2008 05:20:53 PM] Travis Hudson: Here's a random number: 57977332
+[04/02/2008 05:20:55 PM] Travis Hudson: Here's a random number: 22939704
+[04/02/2008 05:20:57 PM] Travis Hudson: Here's a random number: 84637476
+[04/02/2008 05:20:59 PM] Travis Hudson: Here's a random number: 17786692
+[04/02/2008 05:21:01 PM] Travis Hudson: Here's a random number: 47350497
+[04/02/2008 05:21:03 PM] Travis Hudson: Here's a random number: 85412112
+[04/02/2008 05:21:05 PM] Travis Hudson: Here's a random number: 57219804
+[04/02/2008 05:21:07 PM] Travis Hudson: Here's a random number: 72720640
+[04/02/2008 05:21:10 PM] Travis Hudson: Here's a random number: 62041987
+[04/02/2008 05:21:12 PM] Travis Hudson: Here's a random number: 43878303
+[04/02/2008 05:21:14 PM] Travis Hudson: Here's a random number: 74448546
+[04/02/2008 05:21:16 PM] Travis Hudson: Here's a random number: 99267877
+[04/02/2008 05:21:18 PM] Travis Hudson: Here's a random number: 89562147
+[04/02/2008 05:21:20 PM] Travis Hudson: Here's a random number: 27148879
+[04/02/2008 05:21:22 PM] Travis Hudson: Here's a random number: 51896367
+[04/02/2008 05:21:24 PM] Travis Hudson: Here's a random number: 26490124
+[04/02/2008 05:21:26 PM] Travis Hudson: Here's a random number: 66475459
+[04/02/2008 05:21:28 PM] Travis Hudson: Here's a random number: 30081254
+[04/02/2008 05:21:30 PM] Travis Hudson: Here's a random number: 86070643
+[04/02/2008 05:21:32 PM] Travis Hudson: Here's a random number: 18396044
+[04/02/2008 05:21:34 PM] Travis Hudson: Here's a random number: 31439322
+[04/02/2008 05:21:36 PM] Travis Hudson: Here's a random number: 95911134
+[04/02/2008 05:21:38 PM] Travis Hudson: Here's a random number: 75505207
+[04/02/2008 05:21:40 PM] Travis Hudson: Here's a random number: 83763413
+[04/02/2008 05:21:43 PM] Travis Hudson: Here's a random number: 70512931
+[04/02/2008 05:21:45 PM] Travis Hudson: Here's a random number: 17377454
+[04/02/2008 05:21:47 PM] Travis Hudson: Here's a random number: 50362997
+[04/02/2008 05:21:49 PM] Travis Hudson: Here's a random number: 96731430
+[04/02/2008 05:21:51 PM] Travis Hudson: Here's a random number: 57040491
+[04/02/2008 05:21:53 PM] Travis Hudson: Here's a random number: 54154129
+[04/02/2008 05:21:56 PM] Travis Hudson: Here's a random number: 74038525
+[04/02/2008 05:21:58 PM] Travis Hudson: Here's a random number: 89966122
+[04/02/2008 05:22:00 PM] Travis Hudson: Here's a random number: 23289857
+[04/02/2008 05:22:03 PM] Travis Hudson: Here's a random number: 97901492
+[04/02/2008 05:22:05 PM] Travis Hudson: Here's a random number: 6941831
+[04/02/2008 05:22:07 PM] Travis Hudson: Here's a random number: 41700073
+[04/02/2008 05:22:09 PM] Travis Hudson: Here's a random number: 21597643
+[04/02/2008 05:22:12 PM] Travis Hudson: Here's a random number: 36624658
+[04/02/2008 05:22:14 PM] Travis Hudson: Here's a random number: 75238998
+[04/02/2008 05:22:16 PM] Travis Hudson: Here's a random number: 8385517
+[04/02/2008 05:22:19 PM] Travis Hudson: Here's a random number: 79515474
+[04/02/2008 05:22:21 PM] Travis Hudson: Here's a random number: 40159353
+[04/02/2008 05:22:23 PM] Travis Hudson: Here's a random number: 86906620
+[04/02/2008 05:22:25 PM] Travis Hudson: Here's a random number: 82409518
+[04/02/2008 05:22:28 PM] Travis Hudson: Here's a random number: 83664401
+[04/02/2008 05:22:30 PM] Travis Hudson: Here's a random number: 143120
+[04/02/2008 05:22:32 PM] Travis Hudson: Here's a random number: 3750137
+[04/02/2008 05:22:34 PM] Travis Hudson: Here's a random number: 47732819
+[04/02/2008 05:22:37 PM] Travis Hudson: Here's a random number: 40764885
+[04/02/2008 05:22:39 PM] Travis Hudson: Here's a random number: 93868157
+[04/02/2008 05:22:41 PM] Travis Hudson: Here's a random number: 76229866
+[04/02/2008 05:22:44 PM] Travis Hudson: Here's a random number: 96021344
+[04/02/2008 05:22:46 PM] Travis Hudson: Here's a random number: 70567702
+[04/02/2008 05:22:48 PM] Travis Hudson: Here's a random number: 54020710
+[04/02/2008 05:22:50 PM] Travis Hudson: Here's a random number: 53140066
+[04/02/2008 05:22:53 PM] Travis Hudson: Here's a random number: 16828866
+[04/02/2008 05:22:55 PM] Travis Hudson: Here's a random number: 7006641
+[04/02/2008 05:22:57 PM] Travis Hudson: Here's a random number: 48226347
+[04/02/2008 05:22:59 PM] Travis Hudson: Here's a random number: 19328499
+[04/02/2008 05:23:02 PM] Travis Hudson: Here's a random number: 77417419
+[04/02/2008 05:23:04 PM] Travis Hudson: Here's a random number: 22829007
+[04/02/2008 05:23:06 PM] Travis Hudson: Here's a random number: 63696906
+[04/02/2008 05:23:08 PM] Travis Hudson: Here's a random number: 45290766
+[04/02/2008 05:23:11 PM] Travis Hudson: Here's a random number: 17738390
+[04/02/2008 05:23:13 PM] Travis Hudson: Here's a random number: 80861856
+[04/02/2008 05:23:15 PM] Travis Hudson: Here's a random number: 22757871
+[04/02/2008 05:23:17 PM] Travis Hudson: Here's a random number: 19416590
+[04/02/2008 05:23:20 PM] Travis Hudson: Here's a random number: 65583523
+[04/02/2008 05:23:22 PM] Travis Hudson: Here's a random number: 87637366
+[04/02/2008 05:23:24 PM] Travis Hudson: Here's a random number: 89127553
+[04/02/2008 05:23:27 PM] Travis Hudson: Here's a random number: 69079533
+[04/02/2008 05:23:28 PM] Travis Hudson: Here's a random number: 3756845
+[04/02/2008 05:23:31 PM] Travis Hudson: Here's a random number: 80684937
+[04/02/2008 05:23:33 PM] Travis Hudson: Here's a random number: 11543114
+[04/02/2008 05:23:35 PM] Travis Hudson: Here's a random number: 40051742
+[04/02/2008 05:23:38 PM] Travis Hudson: Here's a random number: 26664643
+[04/02/2008 05:23:40 PM] Travis Hudson: Here's a random number: 11546991
+[04/02/2008 05:23:42 PM] Travis Hudson: Here's a random number: 91727136
+[04/02/2008 05:23:45 PM] Travis Hudson: Here's a random number: 19304380
+[04/02/2008 05:23:47 PM] Travis Hudson: Here's a random number: 86739719
+[04/02/2008 05:23:49 PM] Travis Hudson: Here's a random number: 12355355
+[04/02/2008 05:23:51 PM] Travis Hudson: Here's a random number: 16518232
+[04/02/2008 05:23:54 PM] Travis Hudson: Here's a random number: 58774173
+[04/02/2008 05:23:56 PM] Travis Hudson: Here's a random number: 51740079
+[04/02/2008 05:23:58 PM] Travis Hudson: Here's a random number: 1279587
+[04/02/2008 05:24:00 PM] Travis Hudson: Here's a random number: 90081213
+[04/02/2008 05:24:03 PM] Travis Hudson: Here's a random number: 96592228
+[04/02/2008 05:24:05 PM] Travis Hudson: Here's a random number: 92405056
+[04/02/2008 05:24:07 PM] Travis Hudson: Here's a random number: 17279381
+[04/02/2008 05:24:10 PM] Travis Hudson: Here's a random number: 8438422
+[04/02/2008 05:24:12 PM] Travis Hudson: Here's a random number: 73187761
+[04/02/2008 05:24:14 PM] Travis Hudson: Here's a random number: 43453751
+[04/02/2008 05:24:16 PM] Travis Hudson: Here's a random number: 55239168
+[04/02/2008 05:25:36 PM] Travis Hudson: test
+Session Close (Travis Hudson): Wed Apr 02 18:15:23 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Mon Apr 14 18:53:54 2008
+[04/14/2008 06:53:54 PM] Travis Hudson: Hello.
+[04/14/2008 07:37:10 PM] *** "Travis Hudson" signed off at Mon Apr 14 19:37:10 2008.
+[04/14/2008 09:00:36 PM] *** You have been disconnected. Mon Apr 14 21:00:36 2008.
+[04/14/2008 09:30:13 PM] *** You have been disconnected. Mon Apr 14 21:30:13 2008.
+[04/14/2008 11:43:50 PM] *** You have been disconnected. Mon Apr 14 23:43:50 2008.
+[04/15/2008 01:27:37 AM] *** You have been disconnected. Tue Apr 15 01:27:37 2008.
+Session Close (Travis Hudson): Tue Apr 15 01:56:56 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Mon Apr 28 19:31:59 2008
+[04/28/2008 07:31:59 PM] Travis Hudson:   chdir(PAR_DIR);
+ 
+[04/28/2008 07:39:08 PM] Travis Hudson: set nocompatible
+ set history=50          " keep 50 lines of command line history
+ set ruler               " show the cursor position all the time
+ set autoindent          " always set autoindenting on
+ set linebreak           " Perform word wrapping.
+ set shiftwidth=2        " Set the number of spaces used for each manual and     
+ auto indent.
+ set softtabstop=2
+ 
+[04/28/2008 07:39:18 PM] Travis Hudson: set scrolloff=3
+ 
+[04/28/2008 09:08:20 PM] *** "Travis Hudson" signed off at Mon Apr 28 21:08:20 2008.
+[04/28/2008 09:23:44 PM] *** "Travis Hudson" signed on at Mon Apr 28 21:23:44 2008.
+Session Close (Travis Hudson): Mon Apr 28 21:33:52 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Mon Apr 28 22:51:09 2008
+[04/28/2008 10:51:09 PM] Travis Hudson: I'm sending you a file, okay?
+[04/28/2008 10:51:51 PM] Brian Cullinan: ok?
+[04/28/2008 10:54:43 PM] *** Travis Hudson is trying to send you "os-paper.doc".
+[04/28/2008 10:57:38 PM] Brian Cullinan: not working
+[04/28/2008 10:58:02 PM] Travis Hudson: You can't open it?
+[04/28/2008 10:58:18 PM] Brian Cullinan: it didn't transfer
+[04/28/2008 10:58:21 PM] Brian Cullinan: e-mail it
+[04/28/2008 10:58:31 PM] Travis Hudson: okay...
+Session Close (Travis Hudson): Tue Apr 29 00:11:03 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Tue Apr 29 00:20:41 2008
+[04/29/2008 12:20:42 AM] Travis Hudson: How's the C++ program comming?
+[04/29/2008 12:21:03 AM] Brian Cullinan: bad'
+[04/29/2008 12:21:19 AM] Brian Cullinan: hows the powerpoint coming?
+[04/29/2008 12:21:39 AM] Travis Hudson: I'll get started on it.
+[04/29/2008 12:21:48 AM] Travis Hudson: How should the presentation be organized?
+[04/29/2008 12:22:04 AM] Brian Cullinan: same as before
+[04/29/2008 12:22:16 AM] Brian Cullinan: just comment on stuff that went wrong or right
+[04/29/2008 12:25:00 AM] Travis Hudson: If you send me what you have on the C++ project, I'll try to stop the recursion on time.
+[04/29/2008 12:27:16 AM] Brian Cullinan: i am thinking about playing it off like i want to see how kafei implemented it and turning it in after
+[04/29/2008 12:29:28 AM] Brian Cullinan: s'ok with you?
+[04/29/2008 12:30:00 AM] Travis Hudson: s'ok with me.
+Session Close (Travis Hudson): Tue Apr 29 01:02:25 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Tue Apr 29 18:54:22 2008
+[04/29/2008 06:54:23 PM] Travis Hudson: Hello?
+[04/29/2008 06:55:11 PM] Brian Cullinan: hi
+[04/29/2008 06:55:27 PM] Travis Hudson: I need help with Principles. I'm stuck.
+[04/29/2008 06:55:54 PM] Brian Cullinan: whats up?
+[04/29/2008 06:56:16 PM] Travis Hudson: I don't see how to make it prove non-trivial things.
+[04/29/2008 07:01:43 PM] Brian Cullinan: you have to unify each of the things after the :- with the entire list
+[04/29/2008 07:01:49 PM] Brian Cullinan: recursively
+[04/29/2008 07:17:09 PM] Brian Cullinan: going to 105
+[04/29/2008 07:17:26 PM] Travis Hudson: You're going to 105?
+[04/29/2008 07:17:40 PM] Brian Cullinan: yes
+Session Close (Travis Hudson): Tue Apr 29 19:17:41 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Wed Apr 30 16:40:06 2008
+[04/30/2008 04:40:13 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:14 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:15 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:16 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:17 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:18 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:19 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:20 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:22 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:23 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:24 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:25 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:27 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:28 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:29 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:30 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:31 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:34 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:34 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:35 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:36 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:37 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:38 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:39 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:40 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:42 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:43 PM] Brian Cullinan: distracting
+[04/30/2008 04:40:45 PM] Brian Cullinan: distracting
+Session Close (Travis Hudson): Wed Apr 30 16:40:59 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Wed Apr 30 21:41:51 2008
+[04/30/2008 09:41:51 PM] Travis Hudson: Brian, you there?
+[04/30/2008 09:41:54 PM] Travis Hudson: This is urgent.
+[05/01/2008 12:12:10 AM] Brian Cullinan: oOo so serious
+[05/01/2008 12:12:32 AM] Brian Cullinan: just e-mail the presentation
+[05/01/2008 12:12:50 AM] Brian Cullinan: i'll go over it and know everything to present, and we can pick slides in the morning
+[05/01/2008 12:42:00 AM] *** "Travis Hudson" signed off at Thu May 01 00:42:00 2008.
+[05/01/2008 12:42:02 AM] *** "Travis Hudson" signed on at Thu May 01 00:42:02 2008.
+[05/01/2008 12:42:12 AM] Travis Hudson: hello?
+[05/01/2008 12:42:17 AM] Brian Cullinan: hello?
+[05/01/2008 12:42:23 AM] Brian Cullinan: hey buddy i heard what happened
+[05/01/2008 12:42:37 AM] Brian Cullinan: and i want you to know not to worry about this
+[05/01/2008 12:42:38 AM] Travis Hudson: I hate Macs.
+[05/01/2008 12:42:42 AM] Brian Cullinan: we will get through it
+[05/01/2008 12:42:48 AM] Brian Cullinan: and i am saving this conversation
+[05/01/2008 12:42:52 AM] Travis Hudson: Hate them hate them hate them.
+[05/01/2008 12:43:08 AM] Brian Cullinan: we will get through this, we won't let it set us back
+[05/01/2008 12:43:24 AM] Travis Hudson: What are we going to do about the presentation tomorrow?
+[05/01/2008 12:43:40 AM] Brian Cullinan: we will redo the powerpoint
+[05/01/2008 12:43:53 AM] Brian Cullinan: i have your OS report e-mail
+[05/01/2008 12:44:01 AM] Brian Cullinan: i don't think we worked on it after you sent it
+[05/01/2008 12:44:13 AM] Travis Hudson: awesome.
+[05/01/2008 12:44:17 AM] Brian Cullinan: and i have 1.4 of tcomplex
+[05/01/2008 12:44:31 AM] Brian Cullinan: and we are going to help you redo the scheme project
+[05/01/2008 12:44:57 AM] Brian Cullinan: and you should get an extension on AI
+[05/01/2008 12:45:07 AM] Brian Cullinan: tell him what happened, he will be understanding
+[05/01/2008 12:45:19 AM] Brian Cullinan: and we can plug it out over the weekend
+[05/01/2008 12:45:23 AM] Brian Cullinan: and everything will be ok
+[05/01/2008 12:45:40 AM] Travis Hudson: Should I email Palmer, or tell him in person?
+[05/01/2008 12:45:47 AM] Brian Cullinan: both
+[05/01/2008 12:45:51 AM] Brian Cullinan: e-mail him now
+[05/01/2008 12:45:53 AM] Brian Cullinan: tell him tomorrow
+[05/01/2008 12:45:59 AM] Brian Cullinan: i mean later today
+[05/01/2008 12:46:07 AM] Travis Hudson: okay, here I go...
+[05/01/2008 12:46:15 AM] Brian Cullinan: i'll be over in a bit
+[05/01/2008 12:52:44 AM] *** You have been disconnected. Thu May 01 00:52:44 2008.
+[05/01/2008 12:52:55 AM] *** "Travis Hudson" signed on at Thu May 01 00:52:55 2008.
+Session Close (Travis Hudson): Thu May 01 01:22:57 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Thu May 01 09:59:09 2008
+[05/01/2008 09:59:09 AM] Travis Hudson: He said that he can print it out himself.
+[05/01/2008 09:59:16 AM] Brian Cullinan: oh
+[05/01/2008 09:59:17 AM] Brian Cullinan: ok
+Session Close (Travis Hudson): Thu May 01 09:59:19 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Thu May 01 09:59:28 2008
+[05/01/2008 09:59:29 AM] Travis Hudson: When do we turn in the actual code, though?
+[05/01/2008 09:59:42 AM] Brian Cullinan: i'll ask him after class
+[05/01/2008 09:59:50 AM] Travis Hudson: Not before I do.
+[05/01/2008 10:01:22 AM] Brian Cullinan: we are not playing monopoly in class
+[05/01/2008 10:01:34 AM] Travis Hudson: This is no game.
+[05/01/2008 10:01:42 AM] Travis Hudson: It's a way of life.
+[05/01/2008 10:31:23 AM] *** You have been disconnected. Thu May 01 10:31:23 2008.
+[05/01/2008 10:31:41 AM] *** "Travis Hudson" signed on at Thu May 01 10:31:41 2008.
+Session Close (Travis Hudson): Thu May 01 10:35:00 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Thu May 01 10:45:09 2008
+[05/01/2008 10:45:18 AM] Brian Cullinan: our project was pretty sad
+[05/01/2008 10:45:41 AM] Travis Hudson: Not really.
+[05/01/2008 10:45:52 AM] Travis Hudson: I need to show you TBasic in action.
+[05/01/2008 10:46:02 AM] Brian Cullinan: kk
+Session Close (Travis Hudson): Thu May 01 11:01:42 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Thu May 01 17:59:18 2008
+[05/01/2008 05:59:21 PM] Brian Cullinan: y0u 4r3 4 n00b54uc3
+Session Close (Travis Hudson): Thu May 01 17:59:37 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Thu May 01 19:08:32 2008
+[05/01/2008 07:08:32 PM] Travis Hudson: I just finished a data file that defines Atlantic City Monopoly.
+Session Close (Travis Hudson): Thu May 01 19:15:24 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Wed May 07 18:15:08 2008
+[05/07/2008 06:15:09 PM] Travis Hudson: Hello.
+[05/07/2008 06:15:46 PM] Brian Cullinan: so you know when i said you should take it easy with the physical stuff, i purely meant around other people
+[05/07/2008 06:16:09 PM] Travis Hudson: Oh? She thinks I'm moving too slowly?
+[05/07/2008 06:16:15 PM] Brian Cullinan: affirmative
+[05/07/2008 06:16:27 PM] Brian Cullinan: a girls' got to get some
+[05/07/2008 06:16:33 PM] Brian Cullinan: have you ever gotten blue balls?
+[05/07/2008 06:16:38 PM] Travis Hudson: No.
+[05/07/2008 06:16:41 PM] Travis Hudson: I have not.
+[05/07/2008 06:16:50 PM] Travis Hudson: How does one get blue balls?
+[05/07/2008 06:16:56 PM] Brian Cullinan: have you ever had a boner, and then no boner
+[05/07/2008 06:17:07 PM] Brian Cullinan: and been horny but nothing to get off to
+[05/07/2008 06:17:10 PM] Brian Cullinan: thats how
+[05/07/2008 06:17:14 PM] Travis Hudson: I see.
+[05/07/2008 06:17:21 PM] Brian Cullinan: i can't believe i have to explain this to yoju
+[05/07/2008 06:17:29 PM] Brian Cullinan: it hurts like someone kicked you in the nuts
+[05/07/2008 06:17:45 PM] Brian Cullinan: well girls get that sexual urge too but they can hide it better
+[05/07/2008 06:17:55 PM] Brian Cullinan: you have to take care of your woman
+[05/07/2008 06:18:25 PM] Travis Hudson: How far does she want me to go right now?
+[05/07/2008 06:19:03 PM] Brian Cullinan: all the way home
+[05/07/2008 06:19:11 PM] Brian Cullinan: but i think she would settle for third base
+[05/07/2008 06:19:34 PM] Travis Hudson: What's third base again? I forget.
+[05/07/2008 06:20:16 PM] Brian Cullinan: look it up
+[05/07/2008 06:20:21 PM] Brian Cullinan: it is probably on wikipedia
+[05/07/2008 06:20:36 PM] Travis Hudson: This is off topic, but do you like M&M's?
+[05/07/2008 06:21:00 PM] Travis Hudson: I just got a free bag from the vending machine. Two came out at once.
+Session Close (Travis Hudson): Wed May 07 18:56:02 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Wed May 07 22:15:21 2008
+[05/07/2008 10:15:29 PM] Brian Cullinan: so what did you and crystal talk about?
+[05/07/2008 10:15:43 PM] Travis Hudson: When?
+[05/07/2008 10:15:53 PM] Brian Cullinan: the other night
+[05/07/2008 10:15:57 PM] Travis Hudson: Oh, right.
+[05/07/2008 10:16:01 PM] Brian Cullinan: while andrea and i were talking
+[05/07/2008 10:17:07 PM] Travis Hudson: Nothing Earth-shattering, like with Andrea.
+[05/07/2008 10:17:13 PM] Travis Hudson: She's trying to figure you out.
+[05/07/2008 10:17:19 PM] Travis Hudson: What you like, etc.
+[05/07/2008 10:17:24 PM] Brian Cullinan: oh
+[05/07/2008 10:17:37 PM] Travis Hudson: What presents you would enjoy.
+[05/07/2008 10:18:07 PM] Brian Cullinan: so the need for a physical relationship is earth shattering?
+[05/07/2008 10:18:28 PM] Travis Hudson: I thought it was too early for sex.
+[05/07/2008 10:18:41 PM] Travis Hudson: We've been going out for what? Two weeks?
+[05/07/2008 10:18:46 PM] Brian Cullinan: oh totally!
+[05/07/2008 10:18:55 PM] Brian Cullinan: i am not saying you should have sex with her like now
+[05/07/2008 10:19:11 PM] Brian Cullinan: but down the line it is something to consider, maybe a couple of months
+[05/07/2008 10:19:24 PM] Brian Cullinan: she will take care of you too!
+[05/07/2008 10:19:39 PM] Travis Hudson: You're just advocating taking it to the next level.
+[05/07/2008 10:19:51 PM] Brian Cullinan: maybe past first base
+[05/07/2008 10:20:05 PM] Brian Cullinan: just turn up the heat a little
+[05/07/2008 10:20:07 PM] Brian Cullinan: it will be fun!
+Session Close (Travis Hudson): Wed May 07 22:20:13 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Wed May 07 22:20:15 2008
+[05/07/2008 10:20:15 PM] Travis Hudson: Okay.
+[05/07/2008 10:20:35 PM] Travis Hudson: I'm not sure how I feel about her drug habit, though. I have to think about it.
+[05/07/2008 10:20:52 PM] Brian Cullinan: i wouldn't call it a habit
+[05/07/2008 10:21:02 PM] Brian Cullinan: something you do occasionally is not a habit
+[05/07/2008 10:21:05 PM] Brian Cullinan: i smoke pot too
+[05/07/2008 10:21:32 PM] Brian Cullinan: you know pot doesn't kill anyone relative to alcohol
+[05/07/2008 10:21:40 PM] Brian Cullinan: so why is alcohol legal and pot is not
+[05/07/2008 10:21:47 PM] Brian Cullinan: how is pot different from other drugs?
+[05/07/2008 10:22:04 PM] Brian Cullinan: people say that it is a gateway drug to other stuff, but i disagree
+[05/07/2008 10:22:17 PM] Travis Hudson: How is it not a gateway drug?
+[05/07/2008 10:22:26 PM] Brian Cullinan: because it isn't very addicting
+[05/07/2008 10:22:43 PM] Travis Hudson: But it develops a desire to alter the mind with drugs.
+[05/07/2008 10:22:52 PM] Brian Cullinan: andrea is a very smart person, too smart to allow something like that to happen
+[05/07/2008 10:23:00 PM] Brian Cullinan: alcohol is drug that alters the mind!
+[05/07/2008 10:23:23 PM] Travis Hudson: What evidence indicates Andrea's intelligence to you?
+[05/07/2008 10:23:59 PM] Brian Cullinan: she is a scientist, very literate, good grades?
+[05/07/2008 10:24:21 PM] Travis Hudson: Okay, fair enough.
+[05/07/2008 10:25:21 PM] Travis Hudson: How often do you light up a toke, on average?
+[05/07/2008 10:25:36 PM] Brian Cullinan: i have done it 3 times in the last 3 years
+[05/07/2008 10:25:43 PM] Brian Cullinan: but i probably will this summer with dad
+[05/07/2008 10:26:15 PM] Travis Hudson: Okay, I really she gets the impression she does it far more often than that.
+[05/07/2008 10:26:55 PM] Brian Cullinan: probably, but would that really make a difference
+[05/07/2008 10:27:06 PM] Travis Hudson: Yes.
+[05/07/2008 10:27:19 PM] Brian Cullinan: you are very responsible, and i know if something got out of hand, you would be there to handle it
+[05/07/2008 10:27:37 PM] Brian Cullinan: but the government is biased against certain drugs
+[05/07/2008 10:27:54 PM] Brian Cullinan: it is legal in california, does that make a difference
+[05/07/2008 10:28:10 PM] Brian Cullinan: what if she smoked cigarettes, would that change how you feel about her?
+[05/07/2008 10:28:31 PM] Travis Hudson: Yes.
+[05/07/2008 10:28:54 PM] Travis Hudson: Marry Jane has lasting effects, more so than beer.
+[05/07/2008 10:29:02 PM] Brian Cullinan: that is not true!
+[05/07/2008 10:29:06 PM] Brian Cullinan: and you wouldn't know
+[05/07/2008 10:29:14 PM] Travis Hudson: I read about it.
+[05/07/2008 10:30:35 PM] Brian Cullinan: don't be so naive.  smoking should not determine how you feel about someone.  your relationship should be based on attraction that is more concrete.
+[05/07/2008 10:31:02 PM] Travis Hudson: Actions reveal character.
+[05/07/2008 10:31:18 PM] Brian Cullinan: like things you have in common, or views and ideas that you share.  what does smoking really reveal about her character?
+[05/07/2008 10:32:02 PM] Travis Hudson: It reveals that she is willing to harm her body as a recreational activity.
+[05/07/2008 10:32:23 PM] Brian Cullinan: lol
+[05/07/2008 10:32:28 PM] Brian Cullinan: you are ridiculous
+[05/07/2008 10:33:12 PM] Brian Cullinan: you are never allowed to drink again!  you are never allowed to eat another fatty food, or down and entire bag of candy!
+[05/07/2008 10:33:45 PM] Brian Cullinan: no more pizza! ;-)
+[05/07/2008 10:35:53 PM] Brian Cullinan: it is bad for your body!
+[05/07/2008 10:36:14 PM] Travis Hudson: But not mind-altering.
+[05/07/2008 10:36:24 PM] Travis Hudson: Ecept for Dominoes.
+[05/07/2008 10:36:32 PM] Travis Hudson: You got me there.
+[05/07/2008 10:47:51 PM] Brian Cullinan: i win
+Session Close (Travis Hudson): Wed May 07 22:52:37 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Sat May 17 21:22:00 2008
+[05/17/2008 09:22:59 PM] Travis Hudson: you there?
+[05/17/2008 09:23:06 PM] Brian Cullinan: yeah
+[05/17/2008 09:23:23 PM] Travis Hudson: I'm playing Civ 4 in 105. What are you up to?
+[05/17/2008 09:23:36 PM] Brian Cullinan: my server just died
+[05/17/2008 09:23:46 PM] Brian Cullinan: so i am going to finish my dinner and work on that until tomorrow
+[05/17/2008 09:24:02 PM] Travis Hudson: okay.
+Session Close (Travis Hudson): Sat May 17 21:28:06 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Tue May 20 20:40:34 2008
+[05/20/2008 08:40:34 PM] Travis Hudson: Hello?
+[05/20/2008 08:42:37 PM] Brian Cullinan: oh hai!
+[05/20/2008 08:43:14 PM] Travis Hudson: I have an odd question: do you know how to use xinetd, the superdaemon?
+[05/20/2008 08:43:24 PM] Brian Cullinan: yes
+[05/20/2008 08:43:30 PM] Brian Cullinan: i have an odd statement
+[05/20/2008 08:43:55 PM] Brian Cullinan: i don't want you to feel embarrassed or anything about the stuff we talked about the other day
+[05/20/2008 08:44:01 PM] Brian Cullinan: is andrea there?
+[05/20/2008 08:44:21 PM] Travis Hudson: No, Andrea isn't here.
+[05/20/2008 08:44:25 PM] Brian Cullinan: ok good
+[05/20/2008 08:44:47 PM] Brian Cullinan: i remember you mentioning you don't like the smell, so i thought i'd give you another tip, that i use
+[05/20/2008 08:45:56 PM] Brian Cullinan: if you use your hand and them sometimes afterwards itch your nose (aka discretely smell your finger), that should give you a pretty good indication of how it will smell or taste when you are down there
+[05/20/2008 08:46:01 PM] Brian Cullinan: oral sex does not taste bad
+[05/20/2008 08:46:24 PM] Brian Cullinan: and a vagina is in many cases more clean then a mouth
+[05/20/2008 08:46:44 PM] Brian Cullinan: but showering before play is always a good idea too
+[05/20/2008 08:46:56 PM] Brian Cullinan: anywho, back to your inquiry
+[05/20/2008 08:47:15 PM] Travis Hudson: Cool, I'll keep that in mind.
+[05/20/2008 08:47:21 PM] Brian Cullinan: i do know how to use xinetd what do you want to do with it?
+[05/20/2008 08:47:29 PM] Brian Cullinan: want to set up a vnc server?
+[05/20/2008 08:47:39 PM] Travis Hudson: No, even simpler.
+[05/20/2008 08:48:09 PM] Travis Hudson: I have a perl script that accepts stdin and produces stdout....
+[05/20/2008 08:48:22 PM] Travis Hudson: I want it to become a daemon, activated when necessary
+[05/20/2008 08:48:42 PM] Travis Hudson: I know how to configure, run, and stop xinetd....
+[05/20/2008 08:48:50 PM] Travis Hudson: I have it configured like this:
+[05/20/2008 08:49:06 PM] Travis Hudson: service passwordserver
+ {
+ # ... other reasonable settings
+ server = /home/travis/Desktop/script.pl
+ }
+ 
+[05/20/2008 08:49:44 PM] Brian Cullinan: ok xinetd does not work exactly the same as a command line when launching stuff
+[05/20/2008 08:50:08 PM] Brian Cullinan: so you need to put server = /usr/bin/perl
+ server_args = /home/travis/Desktop/script.pl
+[05/20/2008 08:50:28 PM] Travis Hudson: oh.
+[05/20/2008 08:50:43 PM] Brian Cullinan: also check /var/log/ for some more information
+[05/20/2008 08:50:52 PM] Brian Cullinan: you will have to look around in there for the xinetd log
+[05/20/2008 08:50:59 PM] Brian Cullinan: to see what is going wrong
+[05/20/2008 08:51:04 PM] Brian Cullinan: but i think that should fix it
+[05/20/2008 08:51:36 PM] Travis Hudson: Well, I haven't really tested it yet, because I don't know how to access the service from a remote machine over HTTP, for example.
+[05/20/2008 08:51:49 PM] Brian Cullinan: also you need to add your port to the bottom of /etc/services
+[05/20/2008 08:52:36 PM] Brian Cullinan: if it is tcp you should just be able to maybe do a telnet to localhost:port from xinetd spec
+[05/20/2008 08:52:56 PM] Brian Cullinan: if it is tcp you should just be able to maybe do a telnet to localhost:<port from xinetd spec>
+[05/20/2008 08:53:15 PM] Brian Cullinan: damn smilies
+[05/20/2008 08:54:05 PM] Travis Hudson: so the services file has three columns, a name of the port, a number/kind, and a comment.
+[05/20/2008 08:54:41 PM] Brian Cullinan: yes
+[05/20/2008 08:54:46 PM] Travis Hudson: The first column isn't unique.
+[05/20/2008 08:55:07 PM] Brian Cullinan: just follow the same way they define it
+[05/20/2008 08:55:14 PM] Brian Cullinan: and add your port from the xinetd spec
+[05/20/2008 08:55:18 PM] Brian Cullinan: and a name
+[05/20/2008 08:55:25 PM] Brian Cullinan: the comment is options
+[05/20/2008 08:55:28 PM] Brian Cullinan: *optional
+[05/20/2008 08:55:44 PM] Brian Cullinan: but the port has to be listed in there for xinetd to accept it
+[05/20/2008 08:56:13 PM] Travis Hudson: So I would add on the line:
+[05/20/2008 08:56:28 PM] Brian Cullinan: add to the bottom of it
+[05/20/2008 08:56:30 PM] Brian Cullinan: that is standard
+[05/20/2008 08:57:10 PM] Brian Cullinan: most of the ports already listed are the claimed standard ports
+[05/20/2008 08:57:51 PM] Travis Hudson: passwordserver        49152/tcp
+[05/20/2008 08:58:00 PM] Brian Cullinan: yeah looks right
+[05/20/2008 08:58:18 PM] Travis Hudson: How is it possible to overload the values in the first column like that?
+[05/20/2008 08:58:37 PM] Brian Cullinan: what do you mean?
+[05/20/2008 08:59:03 PM] Brian Cullinan: the first column is just a tag
+[05/20/2008 08:59:07 PM] Travis Hudson: com-bardac-dw   48556/udp    # com-bardac-dw
+ com-bardac-dw   48556/tcp    # com-bardac-dw
+ 
+[05/20/2008 08:59:27 PM] Brian Cullinan: yeah the first column doesn't really matter
+[05/20/2008 08:59:31 PM] Travis Hudson: okay, it can tell them apart because of the udp / tcp difference.
+[05/20/2008 08:59:43 PM] Brian Cullinan: not even
+[05/20/2008 09:00:01 PM] Brian Cullinan: it you do a grep for vnc it should come up with a bunch of hits
+[05/20/2008 09:00:08 PM] Brian Cullinan: all named vnc
+[05/20/2008 09:00:18 PM] Brian Cullinan: it is just a tag to refer too
+[05/20/2008 09:00:51 PM] Brian Cullinan: if you have another one with the same name below it, it doesn't replace it, all that really matters is the port
+[05/20/2008 09:01:16 PM] Brian Cullinan: but i recommend keeping the first column name the same as the xinetd service
+[05/20/2008 09:01:57 PM] Travis Hudson: And for this, I should use tcp, not udp, right?
+[05/20/2008 09:02:02 PM] Brian Cullinan: services is kind of the inetd firewall
+[05/20/2008 09:02:12 PM] Brian Cullinan: yes udp is connectionless
+[05/20/2008 09:02:32 PM] Travis Hudson: why do I need a connection?
+[05/20/2008 09:03:07 PM] Brian Cullinan: i guess you don't have to have one for what you are doing, but i always default to tcp
+[05/20/2008 09:04:02 PM] Travis Hudson: From a remote machine, how to I activate the new daemon?
+[05/20/2008 09:04:42 PM] Brian Cullinan: xinetd runs the program automatically when the port is accessed
+[05/20/2008 09:05:30 PM] Brian Cullinan: you still need a socket handler in your perl script if you want to make queries with it
+[05/20/2008 09:05:59 PM] Travis Hudson: How do I access a specific port? The : in the url?
+[05/20/2008 09:06:14 PM] Brian Cullinan: yes
+[05/20/2008 09:06:25 PM] Brian Cullinan: and you still need a socket in your perl script
+[05/20/2008 09:06:30 PM] Brian Cullinan: if you want to access it remotely
+[05/20/2008 09:06:33 PM] Brian Cullinan: maybe
+[05/20/2008 09:06:37 PM] Brian Cullinan: telnet might work for that
+[05/20/2008 09:06:47 PM] Brian Cullinan: it might allow you to do stdin
+[05/20/2008 09:07:01 PM] Travis Hudson: I believe it does.
+[05/20/2008 09:07:29 PM] Travis Hudson: So if I were to type this into a browser:
+[05/20/2008 09:08:04 PM] Brian Cullinan: that isn't going to work
+[05/20/2008 09:08:10 PM] Brian Cullinan: it doesn't work like that
+[05/20/2008 09:08:20 PM] Brian Cullinan: http is a different protocol
+[05/20/2008 09:08:46 PM] Travis Hudson: (Link: tcp://www.url.com:4949/passwordservice?data1=data&data2=data)tcp://www.url.com:4949/passwordservice?data1=data&data2=data
+[05/20/2008 09:09:15 PM] Brian Cullinan: yeah not going to work
+[05/20/2008 09:09:21 PM] Travis Hudson: oh
+[05/20/2008 09:09:37 PM] Brian Cullinan: use telnet to connect to that port
+[05/20/2008 09:09:50 PM] Brian Cullinan: but i think you still have to have a socket handler in your perl script
+[05/20/2008 09:10:11 PM] Brian Cullinan: looks up perl sockets, they are pretty easy
+[05/20/2008 09:10:42 PM] Travis Hudson: okay, I'll try using the telnet Unix command.
+[05/20/2008 09:12:03 PM] Brian Cullinan: it isn't going to work
+[05/20/2008 09:12:12 PM] Brian Cullinan: you have to use a socket in your perl script
+[05/20/2008 09:12:57 PM] Travis Hudson: But I'm not accessing it directly, right? I'm telling the superdaemon to launch a script.
+[05/20/2008 09:12:59 PM] Brian Cullinan: or your could just use apache, and access it with an http request
+[05/20/2008 09:13:18 PM] Brian Cullinan: xinet will launch it, but it isn't going to do anything else for you
+[05/20/2008 09:13:25 PM] Brian Cullinan: no outputs or inputs
+[05/20/2008 09:13:40 PM] Brian Cullinan: unless you put > somefile.txt in the server_args
+[05/20/2008 09:13:47 PM] Brian Cullinan: then the script will run and output it to that file
+[05/20/2008 09:14:15 PM] Travis Hudson: how do I do the http request option?
+[05/20/2008 09:14:59 PM] Brian Cullinan: put some files in /var/www/
+[05/20/2008 09:15:13 PM] Brian Cullinan: and access them with http://localhost/
+[05/20/2008 09:15:22 PM] Brian Cullinan: make sure your apache2 service is running
+[05/20/2008 09:15:28 PM] Brian Cullinan: there is a gui for this on the mac
+[05/20/2008 09:15:37 PM] Brian Cullinan: under internet services or something
+[05/20/2008 09:15:40 PM] Brian Cullinan: you can enable apache
+[05/20/2008 09:16:01 PM] Travis Hudson: Right, but I'll be using Linux in this case.
+[05/20/2008 09:16:37 PM] Travis Hudson: Are you saying I should put my perl script in var/www?
+[05/20/2008 09:16:54 PM] Brian Cullinan: yeah
+[05/20/2008 09:17:04 PM] Travis Hudson: And bypass xinetd all together?
+[05/20/2008 09:17:22 PM] Brian Cullinan: you don't need xinetd, i never use it, maybe for a few special cases
+[05/20/2008 09:17:30 PM] Brian Cullinan: inetd is just as useful
+[05/20/2008 09:17:44 PM] Brian Cullinan: but harder to configure because you have to write the startup scripts yourself
+[05/20/2008 09:18:27 PM] Travis Hudson: Okay, so if I use Apache, I would have to use sockets.
+[05/20/2008 09:18:54 PM] Brian Cullinan: no if you use xinetd you have to use sockets, apache has its own socket
+[05/20/2008 09:19:23 PM] Travis Hudson: Is the Apache approach also called Perl CGI, or is it different?
+[05/20/2008 09:19:35 PM] Brian Cullinan: pretty much
+[05/20/2008 09:20:03 PM] Brian Cullinan: i never call it cgi
+[05/20/2008 09:20:50 PM] Brian Cullinan: but i guess it would be different from just perl because it has request variables
+[05/20/2008 09:21:29 PM] Travis Hudson: Okay, I'll try adding socket support to the script and accessing it with telnet on the command line
+[05/20/2008 09:22:26 PM] Brian Cullinan: apache is easier
+[05/20/2008 09:22:37 PM] Travis Hudson: But less secure, perhaps?
+[05/20/2008 09:22:50 PM] Brian Cullinan: depends on what you want to do
+[05/20/2008 09:22:59 PM] Brian Cullinan: you can password protect stuff with apache
+[05/20/2008 09:23:14 PM] Brian Cullinan: and you can always write secure code
+[05/20/2008 09:23:47 PM] Brian Cullinan: you have to write your own authentication if you implement sockets
+[05/20/2008 09:24:06 PM] Travis Hudson: ah, good point
+[05/20/2008 09:25:50 PM] Travis Hudson: How's the server coming?
+[05/20/2008 09:27:20 PM] Brian Cullinan: still waiting for a power supply
+[05/20/2008 09:27:59 PM] Brian Cullinan: steve had the exact same power supply from the same year i got mine, it just died on him, he replaced it with the same power supply i ordered, and his works fine
+[05/20/2008 09:28:02 PM] Brian Cullinan: pretty ironic
+[05/20/2008 09:28:20 PM] Travis Hudson: lol
+[05/20/2008 09:29:29 PM] *** You have been disconnected. Tue May 20 21:29:29 2008.
+[05/20/2008 09:29:40 PM] *** "Travis Hudson" signed on at Tue May 20 21:29:40 2008.
+[05/20/2008 09:31:02 PM] Brian Cullinan: so i took apart my power supply
+[05/20/2008 09:31:17 PM] Brian Cullinan: going to try replacing the fans because it was acting like it was overheating
+[05/20/2008 09:31:24 PM] Brian Cullinan: might still be useable
+[05/20/2008 09:31:49 PM] Travis Hudson: seems reasonable.
+Session Start (bjcullinan:Travis Hudson): Tue Jun 10 17:09:48 2008
+[06/10/2008 05:09:49 PM] Brian Cullinan: hey
+[06/10/2008 05:10:03 PM] Travis Hudson: Hi
+[06/10/2008 05:10:10 PM] Brian Cullinan: can't remember what you said you were doing today, but do you want to go eat after work?
+[06/10/2008 05:10:27 PM] Travis Hudson: Where?
+[06/10/2008 05:10:42 PM] Brian Cullinan: anywhere i guess
+[06/10/2008 05:10:56 PM] Brian Cullinan: casa bonita is always good and it has been a while since i've been there
+[06/10/2008 05:11:14 PM] Travis Hudson: Who else is coming?
+[06/10/2008 05:12:06 PM] Brian Cullinan: no one so far, maybe ask dave to go, but invite him from you, not me
+[06/10/2008 05:12:21 PM] Brian Cullinan: or andrea?
+[06/10/2008 05:12:51 PM] Travis Hudson: Andrea said she has to go into the lab at 4.
+[06/10/2008 05:13:01 PM] Travis Hudson: I wonder if she's done by now.
+[06/10/2008 05:13:59 PM] Brian Cullinan: well give me a call after work if you are up for it, it doesn't have to be casa bonita, i just don't have any food here, and i am trying not to be antisocial
+[06/10/2008 05:14:10 PM] Brian Cullinan: i can come pick you up from work too
+[06/10/2008 05:14:43 PM] Travis Hudson: (calling Andrea...)
+[06/10/2008 05:17:48 PM] Travis Hudson: Hmm, Andrea must still be in lab, I guess.
+[06/10/2008 05:22:25 PM] *** "Travis Hudson" signed off at Tue Jun 10 17:22:25 2008.
+Session Close (Travis Hudson): Tue Jun 10 19:28:43 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Sun Jun 22 14:39:18 2008
+[06/22/2008 02:39:18 PM] *** NOTE: This user is offline.  Your messages will most likely *not* be received!
+Session Close (Travis Hudson): Sun Jun 22 14:39:24 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Tue Jul 15 14:05:47 2008
+[07/15/2008 02:05:52 PM] Brian Cullinan: i have an ipod for you
+[07/15/2008 02:06:21 PM] Brian Cullinan: if you still want it
+[07/15/2008 02:06:35 PM] Travis Hudson: Hang on, I'm at work...
+[07/15/2008 02:27:44 PM] Brian Cullinan: you can still talk at work
+[07/15/2008 02:28:28 PM] Travis Hudson: Yes, but I was collaborating on a job description with someone.
+[07/15/2008 02:28:34 PM] Brian Cullinan: i see
+[07/15/2008 02:28:38 PM] Travis Hudson: But I just finished with that.
+[07/15/2008 02:28:49 PM] Travis Hudson: So, I take it you're back in town?
+[07/15/2008 02:28:57 PM] Brian Cullinan: yes
+[07/15/2008 02:29:15 PM] Travis Hudson: I get off of work at about 6:00, can I come over then?
+[07/15/2008 02:29:30 PM] Brian Cullinan: if it isn't raining
+[07/15/2008 02:29:37 PM] Brian Cullinan: otherwise i can always pick you up
+[07/15/2008 02:29:40 PM] Brian Cullinan: or come over there
+[07/15/2008 02:29:51 PM] Travis Hudson: Okay, sounds like a plan.
+Session Close (Travis Hudson): Tue Jul 15 14:59:53 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Tue Jul 22 12:59:56 2008
+[07/22/2008 01:00:00 PM] Brian Cullinan: want to hang out tonight?
+Session Close (Travis Hudson): Tue Jul 22 13:01:53 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Tue Jul 22 13:28:51 2008
+[07/22/2008 01:28:51 PM] Travis Hudson: Well, I was going to go to game club, and I already promised Andrea I would call her after that.
+[07/22/2008 01:29:00 PM] Travis Hudson: Perhaps the three of us could go do something.
+[07/22/2008 01:29:56 PM] Brian Cullinan: sure
+[07/22/2008 01:30:01 PM] Brian Cullinan: just let me know
+[07/22/2008 01:30:04 PM] Brian Cullinan: have you eaten?
+[07/22/2008 01:30:17 PM] Travis Hudson: Yeah, I just got back from lunch a few seconds ago.
+[07/22/2008 01:30:22 PM] Brian Cullinan: darn
+[07/22/2008 01:30:26 PM] Brian Cullinan: i am bored as fuck
+[07/22/2008 01:30:41 PM] Brian Cullinan: i don't want to go to the grocery store, and i don't want to eat shitty fast food
+[07/22/2008 01:30:54 PM] Brian Cullinan: so i will probably settle for shitty fast food
+[07/22/2008 01:31:11 PM] Travis Hudson: Oh, that sucks.
+Session Close (Travis Hudson): Tue Jul 22 14:01:13 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Tue Jul 22 14:47:23 2008
+[07/22/2008 02:47:31 PM] Brian Cullinan: what did leah say about buying tickets online?
+Session Close (Travis Hudson): Tue Jul 22 15:17:40 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Tue Jul 22 15:24:41 2008
+[07/22/2008 03:24:41 PM] Travis Hudson: Only that I should do no such thing.
+[07/22/2008 03:24:49 PM] Travis Hudson: The tickets are to be bought in person.
+[07/22/2008 03:24:49 PM] Brian Cullinan: ok
+Session Close (Travis Hudson): Tue Jul 22 15:44:51 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Tue Jul 22 17:08:10 2008
+[07/22/2008 05:08:14 PM] Brian Cullinan: food?
+[07/22/2008 05:08:27 PM] Travis Hudson: I'm not even off work yet!
+[07/22/2008 05:08:35 PM] Brian Cullinan: i'm so bored
+[07/22/2008 05:10:16 PM] Travis Hudson: What happened to fast food?
+[07/22/2008 05:10:27 PM] Brian Cullinan: already had it today
+[07/22/2008 05:16:41 PM] *** "Travis Hudson" signed off at Tue Jul 22 17:16:41 2008.
+Session Close (Travis Hudson): Tue Jul 22 17:46:43 2008
+
+
+Session Start (bjcullinan:Travis Hudson): Wed Jul 30 14:26:59 2008
+Session Close (Travis Hudson): Wed Jul 30 14:27:00 2008
+
+

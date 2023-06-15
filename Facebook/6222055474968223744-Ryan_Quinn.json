@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6222055474968223744/",
+    "participants": [
+        {
+            "name": "Ryan Quinn",
+            "title": "Founder & CEO at BrightGuest",
+            "url": "linkedin.com/in/realryanquinn",
+            "phone": null,
+            "email": "ryan@brightguest.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-03T14:27:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,529 @@
+[
+    {
+        "resourceName": "people/c5843850178835408351",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgxBM3c5Q1ppMVRyMD0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "511986c68e1665df"
+                    }
+                },
+                "displayName": "Kenneth Sager",
+                "familyName": "Sager",
+                "givenName": "Kenneth",
+                "displayNameLastFirst": "Sager, Kenneth"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "511986c68e1665df"
+                    }
+                },
+                "value": "+1-928-707-7092",
+                "canonicalForm": "+19287077092",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "13 Mutual Connections",
+                "You and Kenneth both know Joe Caruso, Abe Pralle, and 11 others"
+            ],
+            [
+                "You both worked at Northern Arizona University",
+                "You both worked at Northern Arizona University from Aug 2008 to May 2009"
+            ],
+            [
+                "Show more",
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Information Security Analyst, Senior",
+                "Company Name",
+                "Northern Arizona",
+                "Dates Employed",
+                "Mar 2017 – Present",
+                "Employment Duration",
+                "8 mos",
+                "Location",
+                "Flagstaff, Arizona Area",
+                "Manage all aspect of the web application vulnerability and reporting program. Lead and coordinate self-phishing campaigns and report on effectiveness. Serve as liaison to Web-Pro and other business constituents. Detect and/or respond to cyber incidents and 3rd party notifications. Perform digital forensics/remediation. Perform threat and vulnerability analysis, rating, and risk-assessment. Document, review, and regularly update guidelines, standards, best practices, and team procedural documents."
+            ],
+            [
+                "Information Security Analyst, Int.",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Sep 2015 – Present",
+                "Employment Duration",
+                "2 yrs 2 mos",
+                "Manage all aspect of the web application vulnerability and reporting program. Lead and coordinate self-phishing campaigns and report on effectiveness. Serve as liaison to Web-Pro and other business constituents. Detect and/or respond to cyber incidents and 3rd party notifications. Perform digital forensics/remediation. Perform threat and vulnerability analysis, rating, and risk-assessment. Document, review, and regularly update guidelines, standards, best practices, and team procedural documents."
+            ],
+            [
+                "Software Systems Engineer, Sr.",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Jul 2014 – Sep 2015",
+                "Employment Duration",
+                "1 yr 3 mos",
+                "Support the design, development, programming, testing, implementation of Information Technology Services core service technologies including Lightweight Directory Access Protocol (LDAP), Central Authentication System(CAS), Directory web applications, and Northern Arizona University AuthZ (NAUAuthZ)."
+            ],
+            [
+                "Application Systems Analyst",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Dec 2011 – Jul 2014",
+                "Employment Duration",
+                "2 yrs 8 mos",
+                "Support the design, development, programming, testing, implementation, and user support of web applications written in ASP C#.Net."
+            ],
+            [
+                "Computer Programmer Assistant",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Aug 2008 – Dec 2011",
+                "Employment Duration",
+                "3 yrs 5 mos",
+                "Create and maintain highly visible web applications for administrative as well as public facing websites."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "GIAC Certifications",
+                "9,637 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,809 followers"
+            ],
+            [
+                "See connections (113)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "GIAC Certifications",
+                "9,637 followers"
+            ],
+            [
+                "GIAC Certifications",
+                "9,637 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,809 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,809 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Penetration Testing",
+                "See 8 endorsements for Penetration Testing",
+                "8",
+                "Penetration Testing",
+                "Endorse",
+                "Endorsed by Talbert Tso (mutual connection)",
+                "Endorsed by 6 of Kenneth’s colleagues at Northern Arizona University"
+            ],
+            [
+                "Penetration Testing",
+                "See 8 endorsements for Penetration Testing",
+                "8"
+            ],
+            [
+                "Information Security",
+                "See 8 endorsements for Information Security",
+                "8",
+                "Information Security",
+                "Endorse",
+                "Endorsed by Caden Simmons (mutual connection)",
+                "Endorsed by 6 of Kenneth’s colleagues at Northern Arizona University"
+            ],
+            [
+                "Information Security",
+                "See 8 endorsements for Information Security",
+                "8"
+            ],
+            [
+                "Web Application Development",
+                "See 6 endorsements for Web Application Development",
+                "6",
+                "Web Application Development",
+                "Endorse",
+                "Endorsed by Talbert Tso (mutual connection)",
+                "Endorsed by 4 of Kenneth’s colleagues at Northern Arizona University"
+            ],
+            [
+                "Web Application Development",
+                "See 6 endorsements for Web Application Development",
+                "6"
+            ],
+            [
+                "Information Technology",
+                "See 2 endorsements for Information Technology",
+                "2",
+                "Information Technology",
+                "Endorse"
+            ],
+            [
+                "Information Technology",
+                "See 2 endorsements for Information Technology",
+                "2"
+            ],
+            [
+                "C#",
+                "See 2 endorsements for C#",
+                "2",
+                "C#",
+                "Endorse"
+            ],
+            [
+                "C#",
+                "See 2 endorsements for C#",
+                "2"
+            ],
+            [
+                "Programming",
+                "See 2 endorsements for Programming",
+                "2",
+                "Programming",
+                "Endorse"
+            ],
+            [
+                "Programming",
+                "See 2 endorsements for Programming",
+                "2"
+            ],
+            [
+                "Systems Programming",
+                "See 1 endorsement for Systems Programming",
+                "1",
+                "Systems Programming",
+                "Endorse"
+            ],
+            [
+                "Systems Programming",
+                "See 1 endorsement for Systems Programming",
+                "1"
+            ],
+            [
+                "Testing",
+                "See 1 endorsement for Testing",
+                "1",
+                "Testing",
+                "Endorse"
+            ],
+            [
+                "Testing",
+                "See 1 endorsement for Testing",
+                "1"
+            ],
+            [
+                "Web Applications",
+                "See 1 endorsement for Web Applications",
+                "1",
+                "Web Applications",
+                "Endorse"
+            ],
+            [
+                "Web Applications",
+                "See 1 endorsement for Web Applications",
+                "1"
+            ],
+            [
+                "MySQL",
+                "See 1 endorsement for MySQL",
+                "1",
+                "MySQL",
+                "Endorse"
+            ],
+            [
+                "MySQL",
+                "See 1 endorsement for MySQL",
+                "1"
+            ],
+            [
+                "Databases",
+                "See 1 endorsement for Databases",
+                "1",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 1 endorsement for Databases",
+                "1"
+            ],
+            [
+                "Linux",
+                "See 1 endorsement for Linux",
+                "1",
+                "Linux",
+                "Endorse"
+            ],
+            [
+                "Linux",
+                "See 1 endorsement for Linux",
+                "1"
+            ],
+            [
+                "C",
+                "See 1 endorsement for C",
+                "1",
+                "C",
+                "Endorse"
+            ],
+            [
+                "C",
+                "See 1 endorsement for C",
+                "1"
+            ],
+            [
+                "Software Development",
+                "See 1 endorsement for Software Development",
+                "1",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development",
+                "See 1 endorsement for Software Development",
+                "1"
+            ],
+            [
+                "Incident Response",
+                "See 1 endorsement for Incident Response",
+                "1",
+                "Incident Response",
+                "Endorse"
+            ],
+            [
+                "Incident Response",
+                "See 1 endorsement for Incident Response",
+                "1"
+            ],
+            [
+                "SQL Injection",
+                "See 1 endorsement for SQL Injection",
+                "1",
+                "SQL Injection",
+                "Endorse"
+            ],
+            [
+                "SQL Injection",
+                "See 1 endorsement for SQL Injection",
+                "1"
+            ],
+            [
+                "Public Key Cryptography",
+                "See 1 endorsement for Public Key Cryptography",
+                "1",
+                "Public Key Cryptography",
+                "Endorse"
+            ],
+            [
+                "Public Key Cryptography",
+                "See 1 endorsement for Public Key Cryptography",
+                "1"
+            ],
+            [
+                "Metasploit",
+                "See 1 endorsement for Metasploit",
+                "1",
+                "Metasploit",
+                "Endorse"
+            ],
+            [
+                "Metasploit",
+                "See 1 endorsement for Metasploit",
+                "1"
+            ],
+            [
+                "Security Training",
+                "Security Training",
+                "Endorse"
+            ],
+            [
+                "Security Training"
+            ],
+            [
+                "Obfuscation",
+                "Obfuscation",
+                "Endorse"
+            ],
+            [
+                "Obfuscation"
+            ],
+            [
+                "Cryptography",
+                "Cryptography",
+                "Endorse"
+            ],
+            [
+                "Cryptography"
+            ],
+            [
+                "databases",
+                "databases",
+                "Endorse"
+            ],
+            [
+                "databases"
+            ],
+            [
+                "Microsoft SQL Server",
+                "Microsoft SQL Server",
+                "Endorse"
+            ],
+            [
+                "Microsoft SQL Server"
+            ],
+            [
+                "ELK",
+                "ELK",
+                "Endorse"
+            ],
+            [
+                "ELK"
+            ],
+            [
+                "OSSEC",
+                "OSSEC",
+                "Endorse"
+            ],
+            [
+                "OSSEC"
+            ],
+            [
+                "iptables",
+                "iptables",
+                "Endorse"
+            ],
+            [
+                "iptables"
+            ],
+            [
+                "Tor",
+                "Tor",
+                "Endorse"
+            ],
+            [
+                "Tor"
+            ],
+            [
+                "Ansible",
+                "Ansible",
+                "Endorse"
+            ],
+            [
+                "Ansible"
+            ],
+            [
+                "Reverse Engineering (x86)",
+                "See 2 endorsements for Reverse Engineering (x86)",
+                "2",
+                "Reverse Engineering (x86)",
+                "Endorse"
+            ],
+            [
+                "Reverse Engineering (x86)",
+                "See 2 endorsements for Reverse Engineering (x86)",
+                "2"
+            ],
+            [
+                "Software Hardening",
+                "See 1 endorsement for Software Hardening",
+                "1",
+                "Software Hardening",
+                "Endorse"
+            ],
+            [
+                "Software Hardening",
+                "See 1 endorsement for Software Hardening",
+                "1"
+            ],
+            [
+                "XSLT Code Execution",
+                "XSLT Code Execution",
+                "Endorse"
+            ],
+            [
+                "XSLT Code Execution"
+            ],
+            [
+                "SqlMap",
+                "SqlMap",
+                "Endorse"
+            ],
+            [
+                "SqlMap"
+            ],
+            [
+                "i2p",
+                "i2p",
+                "Endorse"
+            ],
+            [
+                "i2p"
+            ]
+        ],
+        "summary": "  What's this switch here do... <plaintext> Nothing, too bad.\n  \n  \n",
+        "name": "Kenneth Sager",
+        "title": "Information Security Analyst, Int. at Northern Arizona University",
+        "url": "linkedin.com/in/kenneth-sager-2aa7b8125",
+        "phone": null,
+        "email": "catatonicprime@gmail.com"
+    }
+]

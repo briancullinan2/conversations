@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6222231572381261824/",
+    "participants": [
+        {
+            "name": "Allison Roman",
+            "title": "Business Development Manager | Technology | Global Fortune 500 Experience",
+            "url": "linkedin.com/in/allisonaroman",
+            "phone": "858-337-1800 (Home)",
+            "email": "allison.roman@collabera.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-04T02:06:00.000Z"
+        }
+    ]
+}

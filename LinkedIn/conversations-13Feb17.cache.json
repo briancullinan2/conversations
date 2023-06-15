@@ -1,0 +1,102 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "13Feb17",
+    "participants": "Brian Cullinan | wizard > Alicia Isaacson | IT Technical Recruiter at MDI Group",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Alicia Isaacson",
+        "url": "linkedin.com/in/alicia-isaacson",
+        "email": "aisaacson@mdigroup.com",
+        "title": "IT Technical Recruiter at MDI Group"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-13T15:33:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "13Feb17",
+    "participants": "Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "I forgot to mention in my interview recently that I tried to create a PGP email client in browser only using web workers, zero plugins. My biggest roadblock would have been getting people to trust the proxy to connect to their email server.\nThis article showed up today and reminded me I could probably find some old code:\nhttp://incoherency.co.uk/blog/stories/gpg.html",
+    "time": "2017-02-13T17:24:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "13Feb17",
+    "participants": "Brian Cullinan | wizard > Alan Mantle | General Engineer at Hilton Worldwide",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Alan Mantle",
+        "url": "linkedin.com/in/alan-mantle-42198168",
+        "email": "alan.mantle13@gmail.com",
+        "title": "General Engineer at Hilton Worldwide"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-13T14:51:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "13Feb17",
+    "participants": "Brian Cullinan | wizard > Alicia Isaacson | IT Technical Recruiter at MDI Group",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Alicia Isaacson",
+        "url": "linkedin.com/in/alicia-isaacson",
+        "email": "aisaacson@mdigroup.com",
+        "title": "IT Technical Recruiter at MDI Group"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-13T13:52:00.000Z",
+    "title": "wizard"
+  }
+]

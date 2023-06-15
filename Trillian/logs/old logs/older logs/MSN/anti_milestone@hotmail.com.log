@@ -1,0 +1,1451 @@
+﻿Session Start (b.cullinan@cox.net:David McAarthur): Sat Jun 10 20:59:10 2006
+[06/10/2006 08:59 PM] b.cullinan@cox.net: Hi
+[06/10/2006 08:59 PM] David McAarthur: yo
+[06/10/2006 08:59 PM] David McAarthur: whats up
+[06/10/2006 08:59 PM] b.cullinan@cox.net: dude you should virtualize your servers
+[06/10/2006 08:59 PM] b.cullinan@cox.net: did we talk about this before
+[06/10/2006 09:00 PM] David McAarthur: i did
+[06/10/2006 09:00 PM] David McAarthur: then im just using mod rewrite to get the http requests to go to the right server
+[06/10/2006 09:01 PM] David McAarthur: without having more than one port open
+[06/10/2006 09:02 PM] David McAarthur: did you?
+[06/10/2006 09:02 PM] b.cullinan@cox.net: yea yeah yeah
+[06/10/2006 09:02 PM] b.cullinan@cox.net: i've done that
+[06/10/2006 09:03 PM] b.cullinan@cox.net: i mean virtualize your servers with Vmware virtual machine
+[06/10/2006 09:04 PM] b.cullinan@cox.net: dude its amazing
+[06/10/2006 09:04 PM] b.cullinan@cox.net: you install a linux command line Vmware ESX server
+[06/10/2006 09:04 PM] b.cullinan@cox.net: and it never stops running because its so amazingly stable
+[06/10/2006 09:04 PM] b.cullinan@cox.net: at the office there are servers that haven't stopped for 3 years
+[06/10/2006 09:06 PM] b.cullinan@cox.net: so heres my dream setup
+[06/10/2006 09:06 PM] b.cullinan@cox.net: 4 virtual machines running in one box
+[06/10/2006 09:07 PM] b.cullinan@cox.net: 2 dual core processors
+[06/10/2006 09:07 PM] b.cullinan@cox.net: with vmware i can devote 1 processor to a linux file server
+[06/10/2006 09:08 PM] b.cullinan@cox.net: then 1 processor to a shitty windows server just for testing and ASP
+[06/10/2006 09:08 PM] b.cullinan@cox.net: and then a vista beta install just for fun
+[06/10/2006 09:09 PM] b.cullinan@cox.net: and KDE just for fun and interfacing with the linux file server
+[06/10/2006 09:10 PM] b.cullinan@cox.net: then another box completely separate but connected to the file server through an optical line but mainly used for gaming
+[06/10/2006 09:12 PM] b.cullinan@cox.net: what do you think?
+[06/10/2006 09:14 PM] David McAarthur: well
+[06/10/2006 09:14 PM] David McAarthur: i dunno if you need to devote one processor to each
+[06/10/2006 09:14 PM] David McAarthur: should balance fine without it
+[06/10/2006 09:15 PM] b.cullinan@cox.net: yeah maybe
+[06/10/2006 09:15 PM] b.cullinan@cox.net: but wouldn't that setup be hot?
+[06/10/2006 09:16 PM] David McAarthur: yep
+[06/10/2006 09:16 PM] David McAarthur: id probably have more than 4 virtual machines
+[06/10/2006 09:16 PM] David McAarthur: dunno what for, but id find something
+[06/10/2006 09:17 PM] b.cullinan@cox.net: yeah well its an options
+[06/10/2006 09:17 PM] b.cullinan@cox.net: *option
+[06/10/2006 09:17 PM] b.cullinan@cox.net: but ESX server is really fucking expensive
+[06/10/2006 09:17 PM] b.cullinan@cox.net: and how do i get the computers to connect optically?
+[06/10/2006 09:17 PM] b.cullinan@cox.net: with a PCI extension?
+[06/10/2006 09:18 PM] David McAarthur: dunno
+[06/10/2006 09:18 PM] b.cullinan@cox.net: oh shit its call fibre channel
+[06/10/2006 09:21 PM] David McAarthur: dammit
+[06/10/2006 09:21 PM] David McAarthur: i wanna 100 gb mp3 player
+[06/10/2006 09:21 PM] b.cullinan@cox.net: where do i find a motherboard with PCI-X?
+[06/10/2006 09:21 PM] b.cullinan@cox.net: holy shit by who?
+[06/10/2006 09:21 PM] David McAarthur: cant find one so far
+[06/10/2006 09:21 PM] David McAarthur: pci-x is on all new mobther boards isnt it
+[06/10/2006 09:21 PM] David McAarthur: pci express?
+[06/10/2006 09:22 PM] b.cullinan@cox.net: no its different
+[06/10/2006 09:22 PM] b.cullinan@cox.net: (Link: http://en.wikipedia.org/wiki/PCI-X)http://en.wikipedia.org/wiki/PCI-X
+[06/10/2006 09:24 PM] b.cullinan@cox.net: it works with PCI i think but it says it only interfaces as fast as the slowest card, and it can't unmount itself on the event of a fault before causing system failure
+[06/10/2006 09:24 PM] b.cullinan@cox.net: i'll ask my network admin Mike at work monday
+[06/10/2006 09:25 PM] b.cullinan@cox.net: (Link: http://www.newegg.com/Product/Product.asp?Item=N82E16833324002)http://www.newegg.com/Product/Product.asp?Item=N82E16833324002
+[06/10/2006 09:25 PM] b.cullinan@cox.net: i'm in luck for this setup
+[06/10/2006 09:25 PM] b.cullinan@cox.net: everything else i already have planned like an asus dual opteron board
+[06/10/2006 09:25 PM] b.cullinan@cox.net: (Link: http://www.consumer.philips.com/portablemp3/2/100gb-mp3-player.html)http://www.consumer.philips.com/portablemp3/2/100gb-mp3-player.html
+[06/10/2006 09:26 PM] b.cullinan@cox.net: did you google the mp3 player?
+[06/10/2006 09:26 PM] b.cullinan@cox.net: that one is hot
+[06/10/2006 09:26 PM] David McAarthur: whats this google you speek of
+[06/10/2006 09:26 PM] David McAarthur: theres no mp3 player on that page
+[06/10/2006 09:28 PM] b.cullinan@cox.net: but its titles 100GB mp3 player
+[06/10/2006 09:28 PM] David McAarthur: uh huh
+[06/10/2006 09:28 PM] David McAarthur: find it
+[06/10/2006 09:28 PM] b.cullinan@cox.net: fucking bastards and their advertising schemes
+[06/10/2006 09:30 PM] b.cullinan@cox.net: you will just have to wait
+[06/10/2006 09:30 PM] David McAarthur: nope
+[06/10/2006 09:30 PM] b.cullinan@cox.net: theres no way to get the files off a DVR
+[06/10/2006 09:30 PM] David McAarthur: theres a player that takes notebook drives
+[06/10/2006 09:30 PM] David McAarthur: and...?
+[06/10/2006 09:31 PM] b.cullinan@cox.net: makes me sad
+[06/10/2006 09:31 PM] David McAarthur: yeah
+[06/10/2006 09:32 PM] b.cullinan@cox.net: yeah
+[06/10/2006 09:33 PM] David McAarthur: hmm, time for a 160 gb mp3 player
+[06/10/2006 09:34 PM] b.cullinan@cox.net: really?
+[06/10/2006 09:34 PM] b.cullinan@cox.net: let me know if you find it
+[06/10/2006 09:34 PM] David McAarthur: well, you can put any notebook drive into a Xclef 500
+[06/10/2006 09:35 PM] b.cullinan@cox.net: that's hot
+[06/10/2006 09:36 PM] b.cullinan@cox.net: get one off ebay without the hard drive and put your own in
+[06/10/2006 09:37 PM] b.cullinan@cox.net: shit go for a seagate 300GB laptop hard drive
+[06/10/2006 09:37 PM] David McAarthur: they make 300 gb notebook drives
+[06/10/2006 09:37 PM] David McAarthur: prolly hella expensive
+[06/10/2006 09:38 PM] b.cullinan@cox.net: nvm not out yet
+[06/10/2006 09:38 PM] b.cullinan@cox.net: but their site talked about it
+[06/10/2006 09:38 PM] b.cullinan@cox.net: they do make 7200 rpm laptop hard drives though
+[06/10/2006 09:39 PM] David McAarthur: yeh
+[06/10/2006 09:39 PM] David McAarthur: i have one in the lappy
+[06/10/2006 09:39 PM] David McAarthur: but that would be pretty pointless for the mp3 player
+[06/10/2006 09:40 PM] b.cullinan@cox.net: how does the file system work on it?
+[06/10/2006 09:41 PM] David McAarthur: its detected as a usual usb drive
+[06/10/2006 09:43 PM] b.cullinan@cox.net: yeah but on the actually mp3 player to the files have to be in the top directories?
+[06/10/2006 09:43 PM] David McAarthur: nope]
+[06/10/2006 09:43 PM] b.cullinan@cox.net: or does it search or catelog them?
+[06/10/2006 09:43 PM] David McAarthur: (Link: http://www.the-gadgeteer.com/review/dmc_xclef_500_40gb_digital_audio_player_review)http://www.the-gadgeteer.com/review/dmc_xclef_500_40gb_digital_audio_player_review
+[06/10/2006 09:43 PM] David McAarthur: folders
+[06/10/2006 09:43 PM] b.cullinan@cox.net: and does the file system have to be shitty vfat?
+[06/10/2006 09:45 PM] b.cullinan@cox.net: oh
+[06/10/2006 09:45 PM] b.cullinan@cox.net: i want one
+[06/10/2006 09:46 PM] David McAarthur: first ill have to get more music
+[06/10/2006 09:46 PM] b.cullinan@cox.net: from me?
+[06/10/2006 09:46 PM] b.cullinan@cox.net: get waste
+[06/10/2006 09:46 PM] b.cullinan@cox.net: and i will share
+Session Close (David McAarthur): Sat Jun 10 21:48:11 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Tue Jun 13 08:53:06 2006
+[06/13/2006 08:53 AM] b.cullinan@cox.net: hey i need help
+[06/13/2006 08:53 AM] David McAarthur: sup?
+[06/13/2006 08:53 AM] b.cullinan@cox.net: should i use the Sun Application Server or the tomcat apache extension?
+[06/13/2006 08:54 AM] David McAarthur: for?
+[06/13/2006 08:55 AM] b.cullinan@cox.net: i want to run OpenLazlo
+[06/13/2006 08:56 AM] b.cullinan@cox.net: don't you have tomcat installed with apache?
+[06/13/2006 08:57 AM] b.cullinan@cox.net: because the J2EE Server also comes with tomcat
+[06/13/2006 08:57 AM] b.cullinan@cox.net: so which one is better?
+[06/13/2006 08:57 AM] David McAarthur: well tomcat is just by itself separate of apache
+[06/13/2006 08:57 AM] David McAarthur: and it comes with a j2EE implementation
+[06/13/2006 08:57 AM] David McAarthur: for openlazlo it looks like you need tomcat installed
+[06/13/2006 08:57 AM] b.cullinan@cox.net: oh ok so you have the j2ee installed?
+[06/13/2006 08:57 AM] David McAarthur: nope
+[06/13/2006 08:58 AM] David McAarthur: comes with Tomcat
+[06/13/2006 08:58 AM] b.cullinan@cox.net: yeah but it doesn't specify which tomcat i should use the one for apache or the one for j2ee
+[06/13/2006 08:58 AM] David McAarthur: the parts i use of it anyway
+[06/13/2006 08:58 AM] David McAarthur: theres only one tomcat
+[06/13/2006 08:58 AM] b.cullinan@cox.net: oh
+[06/13/2006 08:58 AM] David McAarthur: just use tomcat 5.5
+[06/13/2006 08:58 AM] David McAarthur: its completely separate of apache
+[06/13/2006 08:59 AM] b.cullinan@cox.net: yeah
+[06/13/2006 09:00 AM] b.cullinan@cox.net: well i don't really want a completely separate web server could i use (Link: http://tomcat.apache.org/download-55.cgi)http://tomcat.apache.org/download-55.cgi
+[06/13/2006 09:01 AM] b.cullinan@cox.net: oh this is where i got confused sorry, the J2EE is required for OpenLazlo, but it comes with a tomcat servlet
+[06/13/2006 09:01 AM] David McAarthur: yep
+[06/13/2006 09:02 AM] b.cullinan@cox.net: so when i start it up it brings up the tomcat servlet
+[06/13/2006 09:02 AM] b.cullinan@cox.net: i am wondering if i can use the apache tomcat and the J2EE
+[06/13/2006 09:02 AM] David McAarthur: the link you gave me is to tomcat 5.5 itself, has nothing to do with apache other than its part of the apache foundation, not the webserver, it will be its own webserver
+[06/13/2006 09:03 AM] b.cullinan@cox.net: ok
+[06/13/2006 09:03 AM] b.cullinan@cox.net: thanks
+[06/13/2006 09:03 AM] David McAarthur: you can have apache webserver serve the static pages of tomcat stuff, but thats another story
+[06/13/2006 09:05 AM] b.cullinan@cox.net: now the version of tomcat they give me never hides the command windows
+[06/13/2006 09:05 AM] b.cullinan@cox.net: that's kind of annoying
+[06/13/2006 09:06 AM] David McAarthur: hmm...
+[06/13/2006 09:09 AM] David McAarthur: whatre you going to do in open lazlo?
+[06/13/2006 09:09 AM] b.cullinan@cox.net: do you think it would be possible for me to install the full version of tomcat and use the configuration for OpenLazlo
+[06/13/2006 09:09 AM] b.cullinan@cox.net: i just think its really nifty
+[06/13/2006 09:10 AM] David McAarthur: theres only one version of tomcat -- the full version
+[06/13/2006 09:10 AM] b.cullinan@cox.net: it compiles XML javascript code into swf isn't that cool?
+[06/13/2006 09:10 AM] b.cullinan@cox.net: oh
+[06/13/2006 09:10 AM] David McAarthur: well that is kinda cool
+[06/13/2006 09:11 AM] b.cullinan@cox.net: so i have my friend robert, he wanted me to find a way to change the image in a shockwave file for their company logo after the product was purchased, so i couldn't be stolen and used on other peoples websites
+[06/13/2006 09:12 AM] David McAarthur: huh
+[06/13/2006 09:14 AM] David McAarthur: ?
+[06/13/2006 09:15 AM] b.cullinan@cox.net: well now i can do that
+[06/13/2006 09:18 AM] David McAarthur: ah
+[06/13/2006 09:26 AM] b.cullinan@cox.net: ok more questions
+[06/13/2006 09:27 AM] b.cullinan@cox.net: say i use apache to display a page with java on it, i want it to compile server side with tomcat and display through that page right?
+[06/13/2006 09:27 AM] David McAarthur: hmm
+[06/13/2006 09:28 AM] David McAarthur: depends on what your using, and what you mean by having java on it
+[06/13/2006 09:28 AM] b.cullinan@cox.net: ok maybe i don't understand what the point of tomcat is
+[06/13/2006 09:28 AM] b.cullinan@cox.net: what is a tomcat server for/
+[06/13/2006 09:28 AM] b.cullinan@cox.net: ?
+[06/13/2006 09:29 AM] David McAarthur: running the java servlet code and the jsp stuff
+[06/13/2006 09:31 AM] b.cullinan@cox.net: ok so OpenLazlo just uses tomcat to run their stuff that compiles XML javascript into shockwave but how do i locally reference that from a page displayed through my apache server
+[06/13/2006 09:33 AM] David McAarthur: well, you could just browse to the tomcat web server to see the open lazlo stuff on port 8080
+[06/13/2006 09:33 AM] David McAarthur: or mod_jk or mod_rewrite in apache to redirect the stuff thats running on openlazlo to the tomcat server
+[06/13/2006 09:33 AM] b.cullinan@cox.net: ok i'll try that
+[06/13/2006 09:43 AM] b.cullinan@cox.net: i don't understand what the J2EE server is for
+[06/13/2006 09:44 AM] David McAarthur: its the part of tomcat that runs the lazlo stuff thats written in j2ee
+[06/13/2006 09:45 AM] b.cullinan@cox.net: oh, so its required by tomcat?
+[06/13/2006 09:45 AM] b.cullinan@cox.net: couldn't i do the same thing with just a JSE install?
+[06/13/2006 09:45 AM] David McAarthur: no
+[06/13/2006 09:45 AM] David McAarthur: j2se is not j2ee
+[06/13/2006 09:46 AM] b.cullinan@cox.net: apache can do a port redirect based on mime type right?
+[06/13/2006 09:46 AM] David McAarthur: i think so
+[06/13/2006 09:51 AM] b.cullinan@cox.net: i'm telling you man they gave me a hacked down tomcat distro
+[06/13/2006 09:51 AM] David McAarthur: no
+[06/13/2006 09:51 AM] b.cullinan@cox.net: it doesn't look anything like the one i just installed from apache.org
+[06/13/2006 09:52 AM] David McAarthur: huh
+[06/13/2006 09:52 AM] David McAarthur: i thouht you just got that one from apache.org
+[06/13/2006 09:53 AM] b.cullinan@cox.net: no OpenLazlo comes with one
+[06/13/2006 09:54 AM] b.cullinan@cox.net: maybe just some weird configuration and no tomcat monitor and configuration manager
+[06/13/2006 09:57 AM] David McAarthur: hmm
+[06/13/2006 09:58 AM] b.cullinan@cox.net: hey in the tomcat config what file defines the virtual directories
+[06/13/2006 09:58 AM] David McAarthur: server.xml
+[06/13/2006 09:59 AM] David McAarthur: but if the lazlo has a .war
+[06/13/2006 09:59 AM] David McAarthur: just put that in the webapps directory
+[06/13/2006 09:59 AM] David McAarthur: and theres no configuration
+[06/13/2006 10:00 AM] b.cullinan@cox.net: well i have a sever.xml but nothing refers to the LPS directory with localhost directory inside that and an lps.xml config file inside that
+[06/13/2006 10:00 AM] b.cullinan@cox.net: oh wait
+[06/13/2006 10:00 AM] b.cullinan@cox.net: nvm i see the linkage now
+[06/13/2006 10:00 AM] b.cullinan@cox.net: the service name is the name of the directory
+[06/13/2006 10:07 AM] b.cullinan@cox.net: i still don't get it
+[06/13/2006 10:07 AM] b.cullinan@cox.net: how do i add a virtual directory to tomcat
+[06/13/2006 10:07 AM] b.cullinan@cox.net: :-(
+[06/13/2006 10:09 AM] David McAarthur: (Link: http://www.google.com/search?hl=en&hs=EGr&client=firefox-a&rls=org.mozilla:en-US:official&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=virtual+directories+tomcat&spell=1)http://www.google.com/search?hl=en&hs=EGr&client=firefox-a&rls=org.mozilla:en-US:official&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=virtual+directories+tomcat&spell=1
+[06/13/2006 10:09 AM] David McAarthur: :P
+[06/13/2006 10:09 AM] b.cullinan@cox.net: thanks
+[06/13/2006 10:09 AM] David McAarthur: heh
+Session Close (David McAarthur): Tue Jun 13 10:39:58 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Tue Jun 13 10:58:05 2006
+[06/13/2006 10:58 AM] b.cullinan@cox.net: i still can't figure it out
+[06/13/2006 10:58 AM] b.cullinan@cox.net: nothing seems to work
+[06/13/2006 11:00 AM] b.cullinan@cox.net: i can't even get it to display the root directory
+[06/13/2006 11:00 AM] b.cullinan@cox.net: there is an index.jsp in /webapps/ROOT
+[06/13/2006 11:01 AM] b.cullinan@cox.net: all it does in the browser is asks me to download a blank application/octet-stream file
+[06/13/2006 11:01 AM] b.cullinan@cox.net: any help?
+[06/13/2006 11:01 AM] David McAarthur: which tomcat are you running
+[06/13/2006 11:01 AM] b.cullinan@cox.net: 5.5
+[06/13/2006 11:02 AM] David McAarthur: so the one you downloaded separately
+[06/13/2006 11:02 AM] b.cullinan@cox.net: yes
+[06/13/2006 11:03 AM] David McAarthur: (Link: http://download.openlaszlo.org/3.3.1/openlaszlo-3.3.1-servlet.wa)http://download.openlaszlo.org/3.3.1/openlaszlo-3.3.1-servlet.wa
+[06/13/2006 11:03 AM] David McAarthur: (Link: http://download.openlaszlo.org/3.3.1/openlaszlo-3.3.1-servlet.war)http://download.openlaszlo.org/3.3.1/openlaszlo-3.3.1-servlet.war
+[06/13/2006 11:03 AM] David McAarthur: *
+[06/13/2006 11:03 AM] b.cullinan@cox.net: wtf?
+[06/13/2006 11:03 AM] b.cullinan@cox.net: that doesn't really explain anything]
+[06/13/2006 11:04 AM] David McAarthur: im still typeing douche
+[06/13/2006 11:04 AM] b.cullinan@cox.net: where do i put it?
+[06/13/2006 11:04 AM] b.cullinan@cox.net: ok
+[06/13/2006 11:04 AM] b.cullinan@cox.net: sry
+[06/13/2006 11:04 AM] David McAarthur: put that in C;\program files\apache software...\tomcat 5.5\webapps\
+[06/13/2006 11:04 AM] b.cullinan@cox.net: ok
+[06/13/2006 11:04 AM] David McAarthur: then goto localhost:8080/openlaszlo-3.3.1-servlet
+[06/13/2006 11:04 AM] David McAarthur: after restarting tomcat
+[06/13/2006 11:06 AM] b.cullinan@cox.net: ok it asks me to download it
+[06/13/2006 11:07 AM] David McAarthur: download what
+[06/13/2006 11:07 AM] b.cullinan@cox.net: openlaszlo-3.3.1-servlet
+[06/13/2006 11:07 AM] b.cullinan@cox.net: it asks me to download it
+[06/13/2006 11:07 AM] b.cullinan@cox.net: it asks me to download everything
+[06/13/2006 11:08 AM] David McAarthur: localhost:8080/openlaszlo-3.3.1-servlet/index.jsp 
+
+[06/13/2006 11:08 AM] b.cullinan@cox.net: it doesn't return any pages or anything
+[06/13/2006 11:08 AM] David McAarthur: try a diff browser?
+[06/13/2006 11:08 AM] b.cullinan@cox.net: it asks me to download it
+[06/13/2006 11:08 AM] b.cullinan@cox.net: internet explorer just displays it
+[06/13/2006 11:09 AM] b.cullinan@cox.net: it keeps returning a blank octet file
+[06/13/2006 11:09 AM] b.cullinan@cox.net: fucking server is really pissing me off
+[06/13/2006 11:12 AM] b.cullinan@cox.net: why would it keep returning an octet file?
+[06/13/2006 11:12 AM] David McAarthur: what happens when you open the octet file
+[06/13/2006 11:12 AM] b.cullinan@cox.net: its just blank
+[06/13/2006 11:13 AM] b.cullinan@cox.net: it has 4 blank characters
+[06/13/2006 11:13 AM] b.cullinan@cox.net: probably hex characters
+[06/13/2006 11:13 AM] David McAarthur: one other thing to try would be to change the .war to .zip then unzip the folder to like lazilo and then try browsing there
+[06/13/2006 11:15 AM] b.cullinan@cox.net: tom cat is retarded
+[06/13/2006 11:15 AM] b.cullinan@cox.net: it lets you "start" the server even if the port is already being used
+[06/13/2006 11:19 AM] b.cullinan@cox.net: got one part working still can't use fucking virtual directories like 5 different tutorials told me to
+[06/13/2006 11:24 AM] b.cullinan@cox.net: ok so i got it to unzip the war file for me, but now i can't fucking refer to that directory
+Session Close (David McAarthur): Tue Jun 13 11:38:44 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Wed Jun 14 09:47:45 2006
+[06/14/2006 09:47 AM] b.cullinan@cox.net: i need your help again
+[06/14/2006 09:47 AM] David McAarthur: sup
+[06/14/2006 09:48 AM] b.cullinan@cox.net: so i have the openlaszlo thing working
+[06/14/2006 09:48 AM] b.cullinan@cox.net: but i need it to actually run on files in the apache directory
+[06/14/2006 09:48 AM] b.cullinan@cox.net: so in the server conf i add an apache.xml with a context element
+[06/14/2006 09:49 AM] b.cullinan@cox.net: so i can get to the apache directory now, which is an improvement, but i can't actually run the web.xml configuration
+[06/14/2006 09:50 AM] b.cullinan@cox.net: it keeps saying it can't find the classes, which makes sense because they aren't in the directory, so even when i copy them over to the WEB-INF folder in apache, it still doesn't work
+[06/14/2006 09:50 AM] b.cullinan@cox.net: any suggestions?
+[06/14/2006 09:50 AM] b.cullinan@cox.net: how can i get the openlaszlo application to run within the apache directory?
+[06/14/2006 09:51 AM] David McAarthur: mod_jk
+[06/14/2006 09:51 AM] b.cullinan@cox.net: so that i can use a mod_rewrite but it will still be referring to the same location just on a different port
+[06/14/2006 09:51 AM] David McAarthur: naw
+[06/14/2006 09:51 AM] David McAarthur: use mod_jk
+[06/14/2006 09:51 AM] b.cullinan@cox.net: that's the thing, i tried installing it and i downloaded the right version, but apache would start with it included
+[06/14/2006 09:51 AM] David McAarthur: hm
+[06/14/2006 09:52 AM] David McAarthur: well that would be the way to do it
+[06/14/2006 09:52 AM] b.cullinan@cox.net: i'll try it again
+[06/14/2006 09:54 AM] b.cullinan@cox.net: does mod_jk have to run before other modules, like should i make it the last loading module?
+[06/14/2006 09:54 AM] David McAarthur: dont think it matters
+[06/14/2006 09:55 AM] b.cullinan@cox.net: wow it worked that time
+[06/14/2006 09:55 AM] b.cullinan@cox.net: weird
+[06/14/2006 10:02 AM] b.cullinan@cox.net: what is a Host container?
+[06/14/2006 10:02 AM] b.cullinan@cox.net: is that like the Catalina/localhost/something.xml file?
+[06/14/2006 10:03 AM] David McAarthur: its configured in server.xml...
+[06/14/2006 10:22 AM] b.cullinan@cox.net: yeah its not working
+[06/14/2006 10:22 AM] b.cullinan@cox.net: damnit
+[06/14/2006 10:25 AM] b.cullinan@cox.net: the tomcat server wont even start
+[06/14/2006 10:26 AM] b.cullinan@cox.net: and there is not helpful information in the logs
+Session Close (David McAarthur): Wed Jun 14 11:07:08 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Wed Jun 14 12:30:52 2006
+[06/14/2006 12:30 PM] b.cullinan@cox.net: i need more help
+Session Close (David McAarthur): Wed Jun 14 12:30:58 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Wed Jun 14 12:31:15 2006
+[06/14/2006 12:31 PM] David McAarthur: yeh
+[06/14/2006 12:31 PM] b.cullinan@cox.net: ok i got mod_jk working and everything so i go to a directory on the apache port and it compiles with tomcat, that's all fine
+[06/14/2006 12:31 PM] b.cullinan@cox.net: but now i have the problem
+[06/14/2006 12:32 PM] b.cullinan@cox.net: what if i want a openlaszlo file to be compiled, it needs to run that file with the openlaszlo servlet
+[06/14/2006 12:33 PM] David McAarthur: hmm
+[06/14/2006 12:33 PM] David McAarthur: i dunno enough about it really
+[06/14/2006 12:36 PM] b.cullinan@cox.net: nvm i am back to having problems again
+[06/14/2006 12:36 PM] b.cullinan@cox.net: so i use the Jkautoalias and i can get to the openlaszlo folder, but now i can't run any scripts in it
+[06/14/2006 12:37 PM] b.cullinan@cox.net: fuck it keeps saying service not available
+Session Close (David McAarthur): Wed Jun 14 13:07:58 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Wed Jun 14 14:40:22 2006
+[06/14/2006 02:40 PM] b.cullinan@cox.net: so with mod_jk shouldn't i be able to put a jsp file in any apache directory and have it compile?
+[06/14/2006 02:41 PM] David McAarthur: if that jsp file is also inside of a tomcat server context
+[06/14/2006 02:42 PM] b.cullinan@cox.net: but how would any user get the file i both places?
+[06/14/2006 02:42 PM] David McAarthur: huh
+[06/14/2006 02:42 PM] b.cullinan@cox.net: why does it have o be in tomcat server context?
+[06/14/2006 02:42 PM] David McAarthur: because tomcat is the one that does the work
+[06/14/2006 02:42 PM] David McAarthur: mod_jk just sends it to tomcat
+[06/14/2006 02:43 PM] David McAarthur: so as far as i know, it has to be in a tomcat context so tomcat kind find the file to do the work
+[06/14/2006 02:56 PM] *** You have been disconnected. Wed Jun 14 14:56:28 2006.
+Session Close (David McAarthur): Wed Jun 14 17:02:47 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Thu Jun 15 15:12:07 2006
+[06/15/2006 03:12 PM] b.cullinan@cox.net: dude
+[06/15/2006 03:12 PM] David McAarthur: yeh
+[06/15/2006 03:12 PM] b.cullinan@cox.net: i am making the most amazing search function for my music server
+[06/15/2006 03:14 PM] David McAarthur: yeah?
+[06/15/2006 03:14 PM] b.cullinan@cox.net: let me finish up this demo page and i'll send it to you
+[06/15/2006 03:15 PM] David McAarthur: aight
+[06/15/2006 03:20 PM] b.cullinan@cox.net: (Link: http://bjcmedia.mine.nu:8080/music/search.php)http://bjcmedia.mine.nu:8080/music/search.php
+[06/15/2006 03:20 PM] b.cullinan@cox.net: obviously that's only 1 album
+[06/15/2006 03:20 PM] David McAarthur: hmm
+[06/15/2006 03:21 PM] David McAarthur: so howr you doing it?
+[06/15/2006 03:21 PM] b.cullinan@cox.net: i load the cached array that i already have'
+[06/15/2006 03:21 PM] b.cullinan@cox.net: the i loop through each element like track album artist title year
+[06/15/2006 03:22 PM] b.cullinan@cox.net: then i have 2 loops one for substring position and substring length
+[06/15/2006 03:22 PM] b.cullinan@cox.net: and it gets every combination of text possible
+[06/15/2006 03:22 PM] b.cullinan@cox.net: do you need an example or no/
+[06/15/2006 03:22 PM] b.cullinan@cox.net: ?
+[06/15/2006 03:22 PM] David McAarthur: no
+[06/15/2006 03:23 PM] b.cullinan@cox.net: so then the element in the array is name ["."]=array(with,more,info)
+[06/15/2006 03:23 PM] b.cullinan@cox.net: make sense?
+[06/15/2006 03:24 PM] b.cullinan@cox.net: so when a person searches all i have to do is reference the array by their query like array["search"] it returns and array with every occurrence of "search"
+[06/15/2006 03:24 PM] David McAarthur: yeah
+[06/15/2006 03:24 PM] David McAarthur: that would wokr
+[06/15/2006 03:25 PM] David McAarthur: as long as you only have to do the loading once
+[06/15/2006 03:25 PM] b.cullinan@cox.net: correct
+[06/15/2006 03:25 PM] b.cullinan@cox.net: i will create a separate set of cache files for the search text
+[06/15/2006 03:25 PM] David McAarthur: yeah
+[06/15/2006 03:26 PM] David McAarthur: actually thats a pretty nifty way to do it
+[06/15/2006 03:26 PM] b.cullinan@cox.net: let me change back the page so you can see the entire array for that album
+[06/15/2006 03:26 PM] David McAarthur: as long as the cache doesnt get too big
+[06/15/2006 03:27 PM] b.cullinan@cox.net: (Link: http://bjcmedia.mine.nu:8080/music/search.php)http://bjcmedia.mine.nu:8080/music/search.php
+[06/15/2006 03:27 PM] b.cullinan@cox.net: refresh it
+[06/15/2006 03:27 PM] b.cullinan@cox.net: that is the entire array with the number of occurences
+[06/15/2006 03:28 PM] David McAarthur: yeh
+[06/15/2006 03:28 PM] b.cullinan@cox.net: actually now refresh it
+[06/15/2006 03:28 PM] David McAarthur: no
+[06/15/2006 03:28 PM] David McAarthur: its freeking huge
+[06/15/2006 03:28 PM] David McAarthur: i get the idea
+[06/15/2006 03:29 PM] b.cullinan@cox.net: amazing isn't it?
+[06/15/2006 03:29 PM] David McAarthur: yep
+[06/15/2006 03:30 PM] David McAarthur: and for multiple word searches, break the query into diffwords, then return ass results with both/either
+[06/15/2006 03:30 PM] David McAarthur: all*
+[06/15/2006 03:30 PM] b.cullinan@cox.net: exactly
+[06/15/2006 03:30 PM] b.cullinan@cox.net: that entire album is only 101 KB
+[06/15/2006 03:30 PM] David McAarthur: how many entries?
+[06/15/2006 03:31 PM] b.cullinan@cox.net: 33027
+[06/15/2006 03:32 PM] b.cullinan@cox.net: yeah the actual cached file for that entire artist will be 101.4 KB
+[06/15/2006 03:32 PM] b.cullinan@cox.net: so its tiny
+[06/15/2006 03:32 PM] b.cullinan@cox.net: then i can load that back into PHP when i search
+[06/15/2006 03:32 PM] b.cullinan@cox.net: i really am amazing
+[06/15/2006 03:33 PM] b.cullinan@cox.net: i could make it smaller also i don't really need the stringpos and strlength to be recorded
+[06/15/2006 03:34 PM] b.cullinan@cox.net: i just need the index number for the song listed in the music cache file because that's what it loads the search info from
+[06/15/2006 03:35 PM] b.cullinan@cox.net: that's the array i mean
+[06/15/2006 03:37 PM] b.cullinan@cox.net: i am going to try it with all the music
+Session Close (David McAarthur): Thu Jun 15 15:45:41 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Thu Jun 15 15:53:33 2006
+[06/15/2006 03:53 PM] b.cullinan@cox.net: do you use my server at all?
+[06/15/2006 03:54 PM] David McAarthur: dont even remember what the addy is 
+[06/15/2006 03:54 PM] David McAarthur: :P
+[06/15/2006 03:54 PM] b.cullinan@cox.net: i feel loved
+[06/15/2006 03:54 PM] David McAarthur: all i do at work is download music
+[06/15/2006 03:54 PM] b.cullinan@cox.net: all the hard work i poured into making it nicer
+[06/15/2006 03:54 PM] David McAarthur: so im not in need of streaming
+[06/15/2006 03:54 PM] b.cullinan@cox.net: you could download my music?
+[06/15/2006 03:55 PM] David McAarthur: i could
+[06/15/2006 03:55 PM] b.cullinan@cox.net: you want to?
+[06/15/2006 03:55 PM] David McAarthur: maybe
+[06/15/2006 03:55 PM] David McAarthur: id like the option
+[06/15/2006 03:55 PM] b.cullinan@cox.net: help me set up a php torrent
+[06/15/2006 03:56 PM] David McAarthur: maybe later
+[06/15/2006 03:56 PM] b.cullinan@cox.net: k would it help if i gave you a file list? is there a program you could plug it into and download it?
+[06/15/2006 03:57 PM] David McAarthur: i could write one i guess
+[06/15/2006 03:57 PM] b.cullinan@cox.net: i have a web crawler that would download from a file list
+[06/15/2006 03:57 PM] b.cullinan@cox.net: i have a little command prompt one i can give you
+[06/15/2006 04:01 PM] b.cullinan@cox.net: (Link: http://bjcmedia.mine.nu:8080/my_documents/My%20Misc/Software/Media%20Misc/Web%20Rippers/wget-1.9.1b-complete/wget-1.9.1b-complete.zip)http://bjcmedia.mine.nu:8080/my_documents/My%20Misc/Software/Media%20Misc/Web%20Rippers/wget-1.9.1b-complete/wget-1.9.1b-complete.zip
+[06/15/2006 04:01 PM] David McAarthur: well you could have just said wget
+[06/15/2006 04:01 PM] b.cullinan@cox.net: do you already have it?
+[06/15/2006 04:02 PM] David McAarthur: its on pretty much every linux machine
+[06/15/2006 04:02 PM] David McAarthur: though i didnt have a windows version
+[06/15/2006 04:02 PM] David McAarthur: how do you do by list?
+[06/15/2006 04:02 PM] b.cullinan@cox.net: just pass the command
+[06/15/2006 04:02 PM] b.cullinan@cox.net: that's all wget does is a file list
+[06/15/2006 04:03 PM] b.cullinan@cox.net: want a file list?
+[06/15/2006 04:03 PM] David McAarthur: sure
+[06/15/2006 04:03 PM] b.cullinan@cox.net: ok i'll have apache output it
+[06/15/2006 04:17 PM] b.cullinan@cox.net: do you want to just save it from the site or do you want me to send you a file?
+[06/15/2006 04:17 PM] David McAarthur: better send it to me
+[06/15/2006 04:18 PM] b.cullinan@cox.net: i am not sure if it will work
+[06/15/2006 04:18 PM] David McAarthur: hmm
+[06/15/2006 04:18 PM] b.cullinan@cox.net: i use trillian
+[06/15/2006 04:19 PM] David McAarthur: ah
+[06/15/2006 04:19 PM] David McAarthur: then just gimme the linkl
+[06/15/2006 04:19 PM] b.cullinan@cox.net: ok
+[06/15/2006 04:19 PM] b.cullinan@cox.net: (Link: http://bjcmedia.mine.nu:8080/music/temp.php?folder=admin0)http://bjcmedia.mine.nu:8080/music/temp.php?folder=admin0
+[06/15/2006 04:20 PM] David McAarthur: can you send me a link to the link
+[06/15/2006 04:20 PM] David McAarthur: so i can save as
+[06/15/2006 04:21 PM] b.cullinan@cox.net: uhhh
+[06/15/2006 04:21 PM] b.cullinan@cox.net: shit
+[06/15/2006 04:21 PM] David McAarthur: lol
+[06/15/2006 04:22 PM] b.cullinan@cox.net: well it didn't turn out like i expected anyways
+[06/15/2006 04:22 PM] b.cullinan@cox.net: give me a minute
+[06/15/2006 04:24 PM] b.cullinan@cox.net: still waiting
+[06/15/2006 04:25 PM] b.cullinan@cox.net: (Link: http://bjcullinan.mine.nu:8080/my_documents/My%20Misc/Software/Media%20Misc/Web%20Rippers/wget-1.9.1b-complete/music.tx)http://bjcullinan.mine.nu:8080/my_documents/My%20Misc/Software/Media%20Misc/Web%20Rippers/wget-1.9.1b-complete/music.tx
+[06/15/2006 04:32 PM] b.cullinan@cox.net: hows it going?
+[06/15/2006 04:32 PM] b.cullinan@cox.net: did you start up wget?
+Session Close (David McAarthur): Thu Jun 15 16:35:42 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Thu Jun 15 16:39:28 2006
+[06/15/2006 04:39 PM] b.cullinan@cox.net: are you downloading?
+[06/15/2006 04:39 PM] b.cullinan@cox.net: i am to my laptop
+[06/15/2006 04:39 PM] b.cullinan@cox.net: this is amazing
+Session Close (David McAarthur): Thu Jun 15 17:10:53 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Fri Jun 16 14:43:19 2006
+[06/16/2006 02:43 PM] b.cullinan@cox.net: hey dave i have questions about linux
+[06/16/2006 02:43 PM] David McAarthur: yea?
+[06/16/2006 02:43 PM] b.cullinan@cox.net: can you manage the input and output cards for audio?
+[06/16/2006 02:44 PM] b.cullinan@cox.net: like if you have multiple inputs like a MIC and the usual input can you tell it which ones to play and mute
+[06/16/2006 02:44 PM] b.cullinan@cox.net: with the command line that is
+[06/16/2006 02:45 PM] David McAarthur: maybe
+[06/16/2006 02:45 PM] David McAarthur: youll probably wanna look at the alsa docs
+[06/16/2006 02:58 PM] *** "David McAarthur" signed off at Fri Jun 16 11:58:40 2006.
+[06/16/2006 03:10 PM] *** "David McAarthur" signed on at Fri Jun 16 12:10:16 2006.
+[06/16/2006 03:27 PM] *** "David McAarthur" signed off at Fri Jun 16 12:27:46 2006.
+[06/16/2006 03:40 PM] *** "David McAarthur" signed on at Fri Jun 16 12:40:25 2006.
+Session Close (David McAarthur): Fri Jun 16 16:10:27 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Mon Jun 19 13:20:00 2006
+Session Close (David McAarthur): Mon Jun 19 13:20:02 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Mon Jun 19 13:22:11 2006
+[06/19/2006 01:22 PM] b.cullinan@cox.net: do you use trillian?
+Session Close (David McAarthur): Mon Jun 19 13:22:27 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Mon Jun 19 13:23:10 2006
+Session Close (David McAarthur): Mon Jun 19 13:23:20 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Mon Jun 19 13:35:46 2006
+[06/19/2006 01:36 PM] b.cullinan@cox.net: so i am trying to get my irDa port to accept infrared signals from a remote control
+[06/19/2006 01:36 PM] b.cullinan@cox.net: so eventually i can distribute those signals to electronic devices like a television or stereo receiver, thus creating the possibility for complete home automation
+[06/19/2006 01:37 PM] b.cullinan@cox.net: my dad was going to buy it from this one company, but i convinced him i could do everything they have done but better.  so now all i need is a business partner to right the software for it in java
+Session Close (David McAarthur): Mon Jun 19 13:37:56 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Mon Jun 19 13:39:37 2006
+[06/19/2006 01:39 PM] David McAarthur: what kind of software?
+[06/19/2006 01:40 PM] b.cullinan@cox.net: well i want to write it in java with openGL extensions so its cross-platform between linux and windows, and it basically just has to be able to winsock commands to specified client computers on a local network
+[06/19/2006 01:41 PM] b.cullinan@cox.net: these commands will control what each client computer does, like sending an infrared command to electronic devices
+[06/19/2006 01:41 PM] b.cullinan@cox.net: its pretty simple
+[06/19/2006 01:42 PM] b.cullinan@cox.net: like it would send a string command to the client that says like "FAMILYROOM IR <devicename> POWER"
+[06/19/2006 01:42 PM] b.cullinan@cox.net: and that would be sent to the familyroom client
+[06/19/2006 01:42 PM] b.cullinan@cox.net: which sends an IR signal via LIRC command line
+[06/19/2006 01:42 PM] b.cullinan@cox.net: and it sends the power button code for that device
+[06/19/2006 01:43 PM] b.cullinan@cox.net: and other things like PLAY command for opening an audio stream from the server computer and playing it through that sound card but also switching the stereo receiver over to the computer input
+[06/19/2006 01:44 PM] b.cullinan@cox.net: so it would really be 2 separate commands completely customizable
+[06/19/2006 01:44 PM] b.cullinan@cox.net: and then a pretty openGL interface build on top of that
+[06/19/2006 01:44 PM] b.cullinan@cox.net: i guess i could use MythTV but i don't know how customizable it is, and its always so hard getting used to other peoples code before you can start changing it
+[06/19/2006 01:44 PM] David McAarthur: why open gl
+[06/19/2006 01:45 PM] David McAarthur: how pretty does it hae to be
+[06/19/2006 01:45 PM] b.cullinan@cox.net: openGL is easy to learn
+[06/19/2006 01:45 PM] b.cullinan@cox.net: and it has to be very pretty
+[06/19/2006 01:45 PM] b.cullinan@cox.net: like fancy transitions and glowy buttons
+[06/19/2006 01:45 PM] David McAarthur: hmm
+[06/19/2006 01:45 PM] David McAarthur: how much was he going to pay
+[06/19/2006 01:46 PM] b.cullinan@cox.net: AMX will do it for 25k
+[06/19/2006 01:46 PM] b.cullinan@cox.net: i put together a list of hardware comes out to under 10k
+[06/19/2006 01:46 PM] b.cullinan@cox.net: all the hardware for a hometheatre and stereo systems included
+[06/19/2006 01:46 PM] b.cullinan@cox.net: and beautiful server
+[06/19/2006 01:46 PM] David McAarthur: hmm
+[06/19/2006 01:47 PM] David McAarthur: so what would it be exactly
+[06/19/2006 01:48 PM] b.cullinan@cox.net: an expandable home automation system
+[06/19/2006 01:48 PM] b.cullinan@cox.net: its programmable and can control any infrared device
+[06/19/2006 01:49 PM] b.cullinan@cox.net: for extra equipment like some have infrared remote controls for air conditioning controllers, one could create their own section and button setup to control airconditioning
+[06/19/2006 01:49 PM] b.cullinan@cox.net: so that will be another hard part to do in java, but its very possible
+[06/19/2006 01:49 PM] David McAarthur: ooh it sends out the infrared signal
+[06/19/2006 01:50 PM] b.cullinan@cox.net: yes via a RS232 serial port and an infrared distributer
+[06/19/2006 01:50 PM] b.cullinan@cox.net: sound good?
+[06/19/2006 01:50 PM] b.cullinan@cox.net: want to go into business with me?
+[06/19/2006 01:51 PM] David McAarthur: dunno
+[06/19/2006 01:51 PM] David McAarthur: that might turn out to be a lot harder than you think
+[06/19/2006 01:51 PM] b.cullinan@cox.net: because of java?
+[06/19/2006 01:51 PM] David McAarthur: you have information links & stuff
+[06/19/2006 01:51 PM] David McAarthur: no just all around
+[06/19/2006 01:51 PM] b.cullinan@cox.net: i know i could do it in .Net easy like a week tops
+[06/19/2006 01:52 PM] b.cullinan@cox.net: the hard part for me now is i can't get my laptop to receive infrared signals so that kind of ruins it
+[06/19/2006 01:52 PM] b.cullinan@cox.net: but most of the devices i picked out come with RS232 build in for IR extentions
+[06/19/2006 01:53 PM] David McAarthur: you have information links & stuff 
+
+[06/19/2006 01:53 PM] b.cullinan@cox.net: yeah
+[06/19/2006 01:53 PM] b.cullinan@cox.net: LIRC
+[06/19/2006 01:53 PM] b.cullinan@cox.net: and winLIRC
+[06/19/2006 01:53 PM] b.cullinan@cox.net: and MythTV
+[06/19/2006 01:53 PM] b.cullinan@cox.net: and Freevo
+[06/19/2006 01:53 PM] b.cullinan@cox.net: all of them are doing this kind of stuff
+[06/19/2006 01:53 PM] b.cullinan@cox.net: mostly LIRC
+[06/19/2006 01:54 PM] b.cullinan@cox.net: eventually i want to add in X10 lighting stuff
+[06/19/2006 01:54 PM] b.cullinan@cox.net: but it should be to hard because there is tons of API support for that
+[06/19/2006 01:55 PM] David McAarthur: what kinda hardware were you getting?
+[06/19/2006 01:55 PM] b.cullinan@cox.net: just a little RS232 IR receiver for now
+[06/19/2006 01:56 PM] b.cullinan@cox.net: but eventually lots of neat stuff
+[06/19/2006 01:56 PM] b.cullinan@cox.net: let me send you a list
+[06/19/2006 01:56 PM] *** Your previous message has not been sent.  Reason: Maximum length exceeded.  You can recall the last message typed with Ctrl-Up or Up, depending on settings.
+[06/19/2006 01:57 PM] b.cullinan@cox.net: DVD Player:  Sony ES DVP-CX777ES 
+ Reciever:  Sony STR-DE998 
+ Projector:  Panasonic AE-900 
+ Total: 
+  
+  
+ Reciever:  Sony STR-DG500 
+  
+  
+ Reciever:  Sony STR-DG500 
+ Total: 
+  
+  
+ Touch Panel Case:  SILVERSTONE SST-LC18-B Black 
+ Motherboard:  ASUS A8N-SLI Socket 939 
+ Server Level Processor:  AMD Athlon 64 X2 4400+ 
+ Storage:  Seagate Barracuda 7200.9 300GB ( x2 ) 
+ Cheap Video Card:  SAPPHIRE 100577L-1 Radeon 9550 
+ Total: 
+  
+  
+ Stationary Touch Panel:   EIZO 15" FlexScan L353T-C 
+ Wireless Touch Panel:  Fujitsu LIFEBOOK T4210 
+ Client Computers controlling rooms:  ASUS Pundit P1-PH1 ( x3 ) 
+ Wireless Cards for clients:  LINKSYS WMP54G ( x3 ) 
+ Total 
+  
+ 
+[06/19/2006 01:57 PM] David McAarthur: why the big hard drives?
+[06/19/2006 01:57 PM] b.cullinan@cox.net: for music, photos, and videos
+[06/19/2006 01:58 PM] b.cullinan@cox.net: all of those will be streamable
+[06/19/2006 01:58 PM] David McAarthur: hah
+[06/19/2006 01:58 PM] b.cullinan@cox.net: through the application
+[06/19/2006 01:58 PM] David McAarthur: theres  no way you could do that in a week
+[06/19/2006 01:58 PM] b.cullinan@cox.net: yeah with .Net i could
+[06/19/2006 01:58 PM] b.cullinan@cox.net: because i know .Net
+[06/19/2006 01:58 PM] b.cullinan@cox.net: :-P
+[06/19/2006 01:58 PM] David McAarthur: riight
+[06/19/2006 01:59 PM] b.cullinan@cox.net: maybe not the openGL part, that might take me 2 weeks
+[06/19/2006 01:59 PM] b.cullinan@cox.net: dude streaming it easy, i would just use a 3rd party media player and import it as an activeX control
+[06/19/2006 01:59 PM] b.cullinan@cox.net: i could do all the media stuff with the windows media player activeX
+[06/19/2006 02:00 PM] b.cullinan@cox.net: and the application would be outputted to the projector so you could stream videos from the server and watch them on a widescreen projector
+[06/19/2006 02:01 PM] David McAarthur: streaming to what
+[06/19/2006 02:01 PM] b.cullinan@cox.net: a client computer connected to the projecter streams from the server computer
+[06/19/2006 02:01 PM] b.cullinan@cox.net: i am buying 3 of these (Link: http://www.newegg.com/Product/Product.asp?Item=N82E16856110046)http://www.newegg.com/Product/Product.asp?Item=N82E16856110046
+[06/19/2006 02:02 PM] b.cullinan@cox.net: for the client computers to run the application
+[06/19/2006 02:02 PM] b.cullinan@cox.net: they are just little thinstations
+[06/19/2006 02:02 PM] b.cullinan@cox.net: but i will run the application natively on them
+[06/19/2006 02:03 PM] b.cullinan@cox.net: instead of remote desktopping to the server which i also considered
+[06/19/2006 02:04 PM] b.cullinan@cox.net: hmm might be interesting to run a windows 2003 server and connect that way and create an account for each room
+[06/19/2006 02:04 PM] b.cullinan@cox.net: anyways, what do you think of all this?
+[06/19/2006 02:04 PM] David McAarthur: well the way you connect the client sounds like a huge hack
+[06/19/2006 02:04 PM] David McAarthur: other than that i dunno
+[06/19/2006 02:04 PM] b.cullinan@cox.net: connect the client?
+[06/19/2006 02:04 PM] b.cullinan@cox.net: a hack?
+[06/19/2006 02:04 PM] b.cullinan@cox.net: oh
+[06/19/2006 02:04 PM] b.cullinan@cox.net: i don't understand
+[06/19/2006 02:05 PM] David McAarthur: why would you remote back to the main system?
+[06/19/2006 02:05 PM] b.cullinan@cox.net: yeah scrap that
+[06/19/2006 02:05 PM] b.cullinan@cox.net: i will just run the client on the computer
+[06/19/2006 02:05 PM] b.cullinan@cox.net: and use its processing power
+[06/19/2006 02:07 PM] b.cullinan@cox.net: so assuming this RS232 receiver i am getting, the project should take off from there
+[06/19/2006 02:07 PM] b.cullinan@cox.net: but i will still need business partners
+[06/19/2006 02:07 PM] b.cullinan@cox.net: i was thinking about asking richard
+[06/19/2006 02:08 PM] David McAarthur: yeah
+[06/19/2006 02:08 PM] David McAarthur: he would be good
+[06/19/2006 02:09 PM] b.cullinan@cox.net: you don't want it?
+[06/19/2006 02:09 PM] b.cullinan@cox.net: *in?
+[06/19/2006 02:10 PM] David McAarthur: so they would be using a remote to control the server?
+[06/19/2006 02:10 PM] b.cullinan@cox.net: no any computer could connect to the server which passes the commands to the appropriate thinstation
+[06/19/2006 02:11 PM] b.cullinan@cox.net: for my dads case he wants something fancy small and touch screen, so i am getting him a fujitsu tablet PC and i will put the application on that and wirelessly connect to the server
+[06/19/2006 02:11 PM] b.cullinan@cox.net: i also want to get him an EIMO 15" touch screen and i will put the application on that
+[06/19/2006 02:12 PM] b.cullinan@cox.net: and that will connect to the VGA/DVI port on the thinstation downstairs
+[06/19/2006 02:12 PM] b.cullinan@cox.net: then i will build a PHP application for the server so he can access the house from work, and that will take me another week
+[06/19/2006 02:13 PM] David McAarthur: if you can do it all in weeks why do you need anyone else
+[06/19/2006 02:13 PM] b.cullinan@cox.net: for future applications
+[06/19/2006 02:13 PM] b.cullinan@cox.net: i don't want to go public immediately
+[06/19/2006 02:14 PM] b.cullinan@cox.net: buts it s a pratically undeveloped market and home theatres are growing increasingly popular
+[06/19/2006 02:14 PM] b.cullinan@cox.net: now people that add home theatres to their house would have no problem spending another few hundred dollars on a smaller server and client computer and maybe a thousand dollars on our services to hook the entire system up for them
+[06/19/2006 02:15 PM] b.cullinan@cox.net: people don't understand these things, but they love the pretty interfaces
+[06/19/2006 02:15 PM] David McAarthur: how are you funding this?
+[06/19/2006 02:16 PM] b.cullinan@cox.net: uhh that's why i need partners
+[06/19/2006 02:16 PM] b.cullinan@cox.net: i am hoping i get enough extra money and support out of this job to support advertising and more research
+[06/19/2006 02:16 PM] David McAarthur: ouch of which job
+[06/19/2006 02:16 PM] b.cullinan@cox.net: this one for my dad
+[06/19/2006 02:17 PM] David McAarthur: hes already down with it?
+[06/19/2006 02:17 PM] b.cullinan@cox.net: yeah pretty much
+[06/19/2006 02:17 PM] b.cullinan@cox.net: i just need this IR receiver to work
+[06/19/2006 02:17 PM] b.cullinan@cox.net: then i can send signals
+[06/19/2006 02:17 PM] b.cullinan@cox.net: and we will be set to go for the entire project
+[06/19/2006 02:17 PM] David McAarthur: hmm
+[06/19/2006 02:17 PM] David McAarthur: yeah i might be interesting
+[06/19/2006 02:18 PM] b.cullinan@cox.net: but that site said it was made to work with LIRC
+[06/19/2006 02:18 PM] b.cullinan@cox.net: and people have done it before
+[06/19/2006 02:18 PM] b.cullinan@cox.net: so its got to work
+[06/19/2006 02:18 PM] David McAarthur: if you think more of exactly what needs to be done, how the system will work, expandability
+[06/19/2006 02:18 PM] b.cullinan@cox.net: then its just a matter of distribution
+[06/19/2006 02:18 PM] b.cullinan@cox.net: yeah i've done all that thinking
+[06/19/2006 02:18 PM] b.cullinan@cox.net: i have it all mapped out
+[06/19/2006 02:18 PM] b.cullinan@cox.net: i've thought a lot about it
+[06/19/2006 02:18 PM] b.cullinan@cox.net: and there is tons of expandability
+[06/19/2006 02:19 PM] b.cullinan@cox.net: like optical network adapters for super fast streaming
+[06/19/2006 02:19 PM] b.cullinan@cox.net: and i've found tons if optical audio adapters for outputting to multiple sources
+[06/19/2006 02:19 PM] David McAarthur: no i mean how to design the system
+[06/19/2006 02:20 PM] David McAarthur: main server
+[06/19/2006 02:20 PM] David McAarthur: then clients to access it
+[06/19/2006 02:20 PM] b.cullinan@cox.net: but i think having client computers to control each station would work better because theres more dividing up the server load
+[06/19/2006 02:20 PM] David McAarthur: centralized storage
+[06/19/2006 02:20 PM] David McAarthur: load of what?
+[06/19/2006 02:20 PM] b.cullinan@cox.net: streaming media
+[06/19/2006 02:20 PM] David McAarthur: videa capture
+[06/19/2006 02:20 PM] b.cullinan@cox.net: possibly
+[06/19/2006 02:20 PM] b.cullinan@cox.net: we could do anything
+[06/19/2006 02:20 PM] David McAarthur: what type of video to stream
+[06/19/2006 02:20 PM] b.cullinan@cox.net: any kind
+[06/19/2006 02:21 PM] b.cullinan@cox.net: i could have the clients connect to any kind of video stream
+[06/19/2006 02:21 PM] b.cullinan@cox.net: and then i could have extra card readers for devices and automatically sync with the server so othe stations can access it
+[06/19/2006 02:22 PM] b.cullinan@cox.net: i could put a cable capture card in the PCI slot and have it save it to the server and set up recording stuff
+[06/19/2006 02:22 PM] b.cullinan@cox.net: its all scalable
+[06/19/2006 02:22 PM] b.cullinan@cox.net: i've seen 3rd party programs pass commands for recording times over to a TV wonder so i can do it to
+[06/19/2006 02:23 PM] b.cullinan@cox.net: it can control any IR device, so that makes everything not connected to the computer completely scalable
+[06/19/2006 02:23 PM] b.cullinan@cox.net: certain devices take an RS232 input for IR extensions, i am hoping i can just connect the two serial ports and hardwire devices to the computer that way
+[06/19/2006 02:24 PM] b.cullinan@cox.net: then i could just split the serial cable if i have multiple devices and it doesn't matter if it sends the signal codes to both because they will already take completely different codes so i could send them simultaneously
+[06/19/2006 02:24 PM] b.cullinan@cox.net: like sending 5 different power codes to turn on the entire home theatre system
+[06/19/2006 02:25 PM] David McAarthur: your going in like a million directions
+[06/19/2006 02:25 PM] b.cullinan@cox.net: yeah i know
+[06/19/2006 02:25 PM] b.cullinan@cox.net: but its all scalability
+[06/19/2006 02:25 PM] b.cullinan@cox.net: and i have planned out my dads setup so far
+[06/19/2006 02:26 PM] b.cullinan@cox.net: the key elements are the media server, the client computers, the IR signal, and the application, everything else is optional
+[06/19/2006 02:26 PM] b.cullinan@cox.net: and someday i can get this (Link: http://www.azimutyachts.net/gallery_azimut50.htm)http://www.azimutyachts.net/gallery_azimut50.htm
+[06/19/2006 02:29 PM] b.cullinan@cox.net: make sense?
+[06/19/2006 02:30 PM] David McAarthur: kinda
+[06/19/2006 02:35 PM] David McAarthur: you going to be flag any time soon?
+[06/19/2006 02:36 PM] b.cullinan@cox.net: not really no
+[06/19/2006 02:36 PM] b.cullinan@cox.net: not until august
+[06/19/2006 02:36 PM] b.cullinan@cox.net: why?
+[06/19/2006 02:37 PM] David McAarthur: easier to talk it over/brainstorm/design
+[06/19/2006 02:37 PM] b.cullinan@cox.net: yeah definitely
+[06/19/2006 02:37 PM] b.cullinan@cox.net: well for now, just write stuff down and get it out of your head on to paper, then we can go over it anytime
+[06/19/2006 02:38 PM] b.cullinan@cox.net: but i've though about this a lot, and i think its really something i could do, but i need people to help for customer support and installations and stuff
+[06/19/2006 02:39 PM] b.cullinan@cox.net: i also thought a lot about creating an optical cable for transmitting data and coax signals
+[06/19/2006 02:39 PM] b.cullinan@cox.net: it would be reliable and thin enough to run under carpets
+[06/19/2006 02:41 PM] David McAarthur: hmm
+[06/19/2006 02:41 PM] David McAarthur: we could just wirelessly connect them all
+[06/19/2006 02:41 PM] David McAarthur: include one of those superrange routers
+[06/19/2006 02:41 PM] b.cullinan@cox.net: yeah that's what i will do with my dads setup
+[06/19/2006 02:42 PM] b.cullinan@cox.net: i included 3 wireless adapters in the price, i am just using a linksys router with a range expander now
+[06/19/2006 02:42 PM] b.cullinan@cox.net: and it works fine the signal is strong it all the places i need it
+[06/19/2006 02:42 PM] b.cullinan@cox.net: its like 200 feet across his house
+[06/19/2006 02:42 PM] b.cullinan@cox.net: its huge
+[06/19/2006 02:42 PM] b.cullinan@cox.net: but the range expander works well
+Session Close (David McAarthur): Mon Jun 19 14:47:24 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Mon Jun 19 14:51:44 2006
+[06/19/2006 02:52 PM] b.cullinan@cox.net: well i have to get back to twiddling my thumbs because i have nothing to do at work
+[06/19/2006 02:52 PM] David McAarthur: where do you work?
+[06/19/2006 02:52 PM] b.cullinan@cox.net: my dads factory
+[06/19/2006 02:54 PM] David McAarthur: whats the factory do?
+[06/19/2006 02:55 PM] b.cullinan@cox.net: builds signs
+[06/19/2006 02:55 PM] b.cullinan@cox.net: i think this will be my next monitor (Link: http://www.newegg.com/Product/Product.asp?Item=N82E16824009061)http://www.newegg.com/Product/Product.asp?Item=N82E16824009061
+[06/19/2006 02:55 PM] David McAarthur: damn
+[06/19/2006 02:56 PM] David McAarthur: youlll have to tell me how videos looks
+[06/19/2006 02:56 PM] David McAarthur: look
+[06/19/2006 02:56 PM] b.cullinan@cox.net: actually i will probably get this before then (Link: http://www.newegg.com/Product/Product.asp?Item=N82E16824112176)http://www.newegg.com/Product/Product.asp?Item=N82E16824112176
+[06/19/2006 02:57 PM] b.cullinan@cox.net: like with my next paycheck
+[06/19/2006 02:57 PM] b.cullinan@cox.net: then i will get the 24"
+[06/19/2006 02:57 PM] b.cullinan@cox.net: i am such a monitor whore
+[06/19/2006 02:58 PM] b.cullinan@cox.net: if i get multiple display adapters i'm talking even a PCI DVI adapter, do you think it could handle a large monitor like that?
+[06/19/2006 02:58 PM] b.cullinan@cox.net: like well enough to play video games on it
+[06/19/2006 02:59 PM] David McAarthur: could what?
+[06/19/2006 03:00 PM] b.cullinan@cox.net: just so that i could use all 4 monitors on the same computer
+[06/19/2006 03:00 PM] b.cullinan@cox.net: maybe get a PCI display adapter
+[06/19/2006 03:00 PM] David McAarthur: you could
+[06/19/2006 03:01 PM] *** "David McAarthur" signed off at Mon Jun 19 15:01:04 2006.
+Session Close (David McAarthur): Mon Jun 19 15:04:57 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Tue Jun 20 10:15:33 2006
+[06/20/2006 10:15 AM] b.cullinan@cox.net: dude
+[06/20/2006 10:15 AM] b.cullinan@cox.net: whats up?
+[06/20/2006 10:16 AM] David McAarthur: nm
+[06/20/2006 10:16 AM] David McAarthur: i might have found a roommate
+[06/20/2006 10:16 AM] b.cullinan@cox.net: really?
+[06/20/2006 10:16 AM] b.cullinan@cox.net: 2 people in that tiny room?
+[06/20/2006 10:16 AM] David McAarthur: no
+[06/20/2006 10:16 AM] David McAarthur: ill be moving into her place
+[06/20/2006 10:17 AM] David McAarthur: whatre you up to
+[06/20/2006 10:20 AM] b.cullinan@cox.net: her?
+[06/20/2006 10:20 AM] b.cullinan@cox.net: wtf?
+[06/20/2006 10:20 AM] b.cullinan@cox.net: you found a girlfriend?
+[06/20/2006 10:20 AM] David McAarthur: no
+[06/20/2006 10:20 AM] b.cullinan@cox.net: oh
+[06/20/2006 10:20 AM] David McAarthur: just a girl roommate
+[06/20/2006 10:20 AM] b.cullinan@cox.net: bummer
+[06/20/2006 10:20 AM] b.cullinan@cox.net: is she cute?
+[06/20/2006 10:20 AM] David McAarthur: yes
+[06/20/2006 10:20 AM] b.cullinan@cox.net: fucking tap that ass dude
+[06/20/2006 10:20 AM] b.cullinan@cox.net: you don't have to wait until marriage like us christian kids do
+[06/20/2006 10:21 AM] b.cullinan@cox.net: does she have a boyfriend?
+[06/20/2006 10:21 AM] b.cullinan@cox.net: are you actually talking to girls/
+[06/20/2006 10:21 AM] b.cullinan@cox.net: ?
+[06/20/2006 10:21 AM] b.cullinan@cox.net: they don't have cuties anymore?
+[06/20/2006 10:21 AM] b.cullinan@cox.net: j/k but seriously whats up?
+[06/20/2006 10:21 AM] David McAarthur: heh
+[06/20/2006 10:21 AM] David McAarthur: gotta get ready for work soon
+[06/20/2006 10:22 AM] b.cullinan@cox.net: no wait, you gotta tell me whats going on with this girl
+[06/20/2006 10:23 AM] b.cullinan@cox.net: i'm doing good, just writing a letter to my girlfriend
+[06/20/2006 10:23 AM] b.cullinan@cox.net: tell me!  do you like her?
+[06/20/2006 10:23 AM] b.cullinan@cox.net: could something happen?
+[06/20/2006 10:23 AM] b.cullinan@cox.net: do you want to hook up?
+[06/20/2006 10:23 AM] b.cullinan@cox.net: that would be so hot to get an apartment with her and sleep together, i would feel so good for you
+[06/20/2006 10:25 AM] David McAarthur: hahhaha
+[06/20/2006 10:25 AM] David McAarthur: i really havent talked to her that much
+[06/20/2006 10:25 AM] David McAarthur: i just know her from high school
+[06/20/2006 10:25 AM] David McAarthur: when i dumped her
+[06/20/2006 10:26 AM] b.cullinan@cox.net: you dated in high school?
+[06/20/2006 10:26 AM] b.cullinan@cox.net: dude that's even hotter, like a "just like old times" that's so hot
+[06/20/2006 10:27 AM] David McAarthur: it was like a 2 week relationship
+[06/20/2006 10:27 AM] David McAarthur: though she is really cool
+[06/20/2006 10:27 AM] David McAarthur: and parties a lot
+Session Close (David McAarthur): Tue Jun 20 10:51:46 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Tue Jun 20 10:54:08 2006
+[06/20/2006 10:54 AM] b.cullinan@cox.net: fuck a 200 mb hp scanjet driver
+[06/20/2006 10:55 AM] b.cullinan@cox.net: at least its 200mb per second
+[06/20/2006 10:55 AM] b.cullinan@cox.net: wait
+[06/20/2006 10:56 AM] b.cullinan@cox.net: sorry 150 kb is what i meant
+[06/20/2006 10:56 AM] *** "David McAarthur" signed off at Tue Jun 20 10:56:49 2006.
+Session Close (David McAarthur): Tue Jun 20 10:56:55 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Tue Jun 20 11:37:47 2006
+[06/20/2006 11:37 AM] b.cullinan@cox.net: talk to any of the guys from school?
+[06/20/2006 11:38 AM] David McAarthur: naw not really
+[06/20/2006 11:38 AM] b.cullinan@cox.net: how come?
+[06/20/2006 11:38 AM] David McAarthur: i should call keifer back, he gave me a call
+[06/20/2006 11:38 AM] David McAarthur: dunno
+[06/20/2006 11:38 AM] b.cullinan@cox.net: yeah he broke up with his girlfriend
+[06/20/2006 11:40 AM] David McAarthur: yeah pretty sad
+[06/20/2006 11:41 AM] David McAarthur: he said something about the sexual relationship, feel really bad for him if thats why she wanted to break up
+[06/20/2006 11:49 AM] b.cullinan@cox.net: yeah
+[06/20/2006 11:50 AM] b.cullinan@cox.net: kinda sucks
+[06/20/2006 11:50 AM] b.cullinan@cox.net: i can't stand prude girls
+[06/20/2006 11:50 AM] b.cullinan@cox.net: they argued all the time, so its probably for the best anyways
+[06/20/2006 11:50 AM] b.cullinan@cox.net: my girlfriend is a perfect mix between innocent and not prude
+[06/20/2006 11:50 AM] b.cullinan@cox.net: she can't wait to spend the night with me again when we get back to school
+[06/20/2006 11:51 AM] David McAarthur: haha
+[06/20/2006 11:51 AM] David McAarthur: hot
+[06/20/2006 11:51 AM] b.cullinan@cox.net: yeah totally
+[06/20/2006 12:34 PM] b.cullinan@cox.net: i want this board (Link: http://www.newegg.com/Product/Product.asp?Item=N82E16813131059)http://www.newegg.com/Product/Product.asp?Item=N82E16813131059
+[06/20/2006 12:34 PM] b.cullinan@cox.net: then i can run a linux media player and play songs natively on the server
+[06/20/2006 12:35 PM] b.cullinan@cox.net: under the linux server install
+[06/20/2006 12:35 PM] b.cullinan@cox.net: that would be sweet
+[06/20/2006 12:35 PM] b.cullinan@cox.net: and i could use the spdif output to my surround sound
+[06/20/2006 12:35 PM] b.cullinan@cox.net: i also want a digital switch but that's not going to happen any time soon
+Session Close (David McAarthur): Tue Jun 20 12:36:01 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Thu Jun 22 22:29:16 2006
+[06/22/2006 10:29 PM] b.cullinan@cox.net: hey what was that gangsta shit we were listening to going into cali?
+[06/22/2006 10:29 PM] b.cullinan@cox.net: i still have your CD
+[06/22/2006 10:29 PM] b.cullinan@cox.net: its more scratched now
+Session Close (David McAarthur): Thu Jun 22 23:16:00 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Sun Jun 25 23:41:00 2006
+[06/25/2006 11:41 PM] b.cullinan@cox.net: dave you got to stop the download
+[06/25/2006 11:41 PM] b.cullinan@cox.net: only run it at night
+Session Close (David McAarthur): Sun Jun 25 23:56:18 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Mon Jun 26 13:22:13 2006
+[06/26/2006 01:22 PM] b.cullinan@cox.net: did you get my IM?
+[06/26/2006 01:22 PM] David McAarthur: no
+[06/26/2006 01:22 PM] b.cullinan@cox.net: don't run the downloading thing during the day
+[06/26/2006 01:22 PM] b.cullinan@cox.net: only like 12 to 8am
+[06/26/2006 01:22 PM] David McAarthur: ah
+[06/26/2006 01:23 PM] David McAarthur: serving from work?
+[06/26/2006 01:23 PM] b.cullinan@cox.net: no at home
+[06/26/2006 01:23 PM] b.cullinan@cox.net: and it makes my step dad angry
+[06/26/2006 01:23 PM] David McAarthur: aight
+[06/26/2006 01:23 PM] b.cullinan@cox.net: he went it an shut down apache
+[06/26/2006 01:23 PM] David McAarthur: hehe
+[06/26/2006 01:24 PM] David McAarthur: you dont lock your desktop?
+[06/26/2006 01:24 PM] b.cullinan@cox.net: i do
+[06/26/2006 01:24 PM] b.cullinan@cox.net: i had to give him my password because he needed files off of my computer
+[06/26/2006 01:28 PM] b.cullinan@cox.net: i should make a virtual desktop program
+[06/26/2006 01:28 PM] b.cullinan@cox.net: they all suck because they just minimize unused windows to the try instead of hiding them
+[06/26/2006 01:29 PM] David McAarthur: what virtual desktop programs?
+[06/26/2006 01:29 PM] b.cullinan@cox.net: like the microsoft one
+[06/26/2006 01:29 PM] b.cullinan@cox.net: and other ones that come with like ultramon
+[06/26/2006 01:29 PM] b.cullinan@cox.net: and like sphere-desktop
+[06/26/2006 01:30 PM] b.cullinan@cox.net: so i am writing this really nice control skinning class in Vb.net, want to help me port it to java?
+[06/26/2006 01:30 PM] David McAarthur: sure
+[06/26/2006 01:30 PM] b.cullinan@cox.net: or does java already have classes for skinning?
+[06/26/2006 01:31 PM] b.cullinan@cox.net: did you close the music download?
+[06/26/2006 01:31 PM] David McAarthur: do i have it running hmmm
+[06/26/2006 01:31 PM] b.cullinan@cox.net: ?
+[06/26/2006 01:32 PM] David McAarthur: do i
+[06/26/2006 01:32 PM] b.cullinan@cox.net: do you?
+[06/26/2006 01:32 PM] b.cullinan@cox.net: yes that's what i meant
+[06/26/2006 01:32 PM] David McAarthur: i dunno do i
+[06/26/2006 01:33 PM] b.cullinan@cox.net: no
+[06/26/2006 01:35 PM] b.cullinan@cox.net: did you get the vista beta?
+Session Close (David McAarthur): Mon Jun 26 13:40:34 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Mon Jun 26 15:17:40 2006
+[06/26/2006 03:17 PM] b.cullinan@cox.net: So does java have any nice image handling classes built in?
+[06/26/2006 03:18 PM] b.cullinan@cox.net: Like image drawing classes
+Session Close (David McAarthur): Mon Jun 26 15:40:11 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Fri Jun 30 13:03:13 2006
+[06/30/2006 01:03 PM] *** NOTE: This user is offline.  Your messages will most likely *not* be received!
+Session Close (David McAarthur): Fri Jun 30 13:03:17 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Tue Jul 25 16:02:48 2006
+[07/25/2006 04:02 PM] b.cullinan@cox.net: hey
+[07/25/2006 04:02 PM] David McAarthur: whatup
+[07/25/2006 04:02 PM] b.cullinan@cox.net: will you help me put gentoo on my server
+[07/25/2006 04:03 PM] b.cullinan@cox.net: not now, but near future
+[07/25/2006 04:03 PM] b.cullinan@cox.net: after i order more hard drives and such
+[07/25/2006 04:03 PM] b.cullinan@cox.net: i only know some linux, i might get confused easily, but i've done pretty well in the past with figuring it out
+[07/25/2006 04:04 PM] b.cullinan@cox.net: i know you have gentoo installed, so i was hoping you could give me a little guidance
+[07/25/2006 04:04 PM] David McAarthur: yea
+[07/25/2006 04:04 PM] David McAarthur: the documentation they have is actually really good
+[07/25/2006 04:04 PM] David McAarthur: but ill hlep where i can
+[07/25/2006 04:04 PM] b.cullinan@cox.net: ok i do have one question already
+[07/25/2006 04:05 PM] b.cullinan@cox.net: as usual linux is lacking on driver support, will i still have a fully functional operating system?
+[07/25/2006 04:05 PM] David McAarthur: what drivers are you missing?
+[07/25/2006 04:06 PM] b.cullinan@cox.net: well just random parts on the motherboard, like the sound card drivers
+[07/25/2006 04:07 PM] b.cullinan@cox.net: should i try and buy a few parts that are linux supported, like the next motherboard i want has a AC97 665 something, but i found drivers for a 660 version, should i try and find a motherboard that uses the version soundcard instead?
+[07/25/2006 04:08 PM] David McAarthur: well just find a mobo you like and see if its supported, then look at a diff one if not
+[07/25/2006 04:08 PM] b.cullinan@cox.net: ok
+[07/25/2006 04:09 PM] b.cullinan@cox.net: so it would probably be a good idea to find a mobo with built in raid, so i don't have to deal with the extra hardware and loading the raid in the OS
+[07/25/2006 04:09 PM] David McAarthur: i guess, i use software raid and it works fine, just another thing to learn, though its not that hard
+[07/25/2006 04:09 PM] David McAarthur: you should probably start out with an easier distro first like fedora or something
+[07/25/2006 04:09 PM] b.cullinan@cox.net: i've done fedora
+[07/25/2006 04:10 PM] b.cullinan@cox.net: a few times
+[07/25/2006 04:10 PM] b.cullinan@cox.net: installing i mean
+[07/25/2006 04:10 PM] b.cullinan@cox.net: i have some experience
+[07/25/2006 04:10 PM] b.cullinan@cox.net: i passed a linux class with a B
+[07/25/2006 04:10 PM] b.cullinan@cox.net: did you ever get that MP3 player that uses a laptop hard drive?
+[07/25/2006 04:11 PM] David McAarthur: naw
+[07/25/2006 04:12 PM] b.cullinan@cox.net: how come?  that sounded pretty awesome
+[07/25/2006 04:13 PM] David McAarthur: meh, dont really need an mp3 player
+[07/25/2006 04:13 PM] David McAarthur: spend enough money in the last month
+[07/25/2006 04:13 PM] b.cullinan@cox.net: i hate spending money
+[07/25/2006 04:13 PM] b.cullinan@cox.net: i am getting a windows mobile smartphone
+[07/25/2006 04:13 PM] David McAarthur: cool
+[07/25/2006 04:14 PM] b.cullinan@cox.net: i want to get an external hard drive to hook up to it and load my enter music library on to it to use in my car
+[07/25/2006 04:15 PM] b.cullinan@cox.net: i thought about putting a small form factor PC in my car and wiring a touch panel to replace the current stereo, but then how would i get it to safely turn on and off
+[07/25/2006 04:16 PM] b.cullinan@cox.net: then i thought about maybe using standby and UPS but that will suck so much power out of my car i am worried
+[07/25/2006 04:16 PM] b.cullinan@cox.net: like the UPS will keep draining and using the car battery
+[07/25/2006 04:34 PM] *** "David McAarthur" signed off at Tue Jul 25 16:34:19 2006.
+[07/25/2006 04:34 PM] *** "David McAarthur" signed on at Tue Jul 25 16:34:19 2006.
+Session Close (David McAarthur): Tue Jul 25 17:03:34 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Sun Aug 06 13:00:01 2006
+[08/06/2006 01:00 PM] b.cullinan@cox.net: hey
+[08/06/2006 01:00 PM] David McAarthur: sup
+[08/06/2006 01:00 PM] b.cullinan@cox.net: i need a suggestion
+[08/06/2006 01:00 PM] b.cullinan@cox.net: so i got really bored installing gentoo, do you think that i should just get a 64 bit version of knoppix or fedora, and install those to run my server
+[08/06/2006 01:01 PM] David McAarthur: sure why not
+[08/06/2006 01:01 PM] David McAarthur: though probably not knoppix
+[08/06/2006 01:01 PM] David McAarthur: comes with too much junk
+[08/06/2006 01:01 PM] b.cullinan@cox.net: i meant do you really get intense performance advantages by installing a customizable kernal like gentoo?
+[08/06/2006 01:02 PM] b.cullinan@cox.net: yeah but i was thinking i could streamline the knoppix ISO and take out what i don't need
+[08/06/2006 01:03 PM] David McAarthur: well, A) all linux kernels are customizable
+[08/06/2006 01:03 PM] b.cullinan@cox.net: and if i install apache on the hard drive amongst other server utils, i could just make a script to start everything up for me
+[08/06/2006 01:03 PM] b.cullinan@cox.net: oh
+[08/06/2006 01:03 PM] b.cullinan@cox.net: that's nice to know
+[08/06/2006 01:03 PM] David McAarthur: huh
+[08/06/2006 01:04 PM] David McAarthur: im sure apache is already installed
+[08/06/2006 01:04 PM] b.cullinan@cox.net: with knoppix?
+[08/06/2006 01:04 PM] David McAarthur: yea
+[08/06/2006 01:04 PM] b.cullinan@cox.net: oh
+[08/06/2006 01:04 PM] b.cullinan@cox.net: how about jsee?
+[08/06/2006 01:04 PM] David McAarthur: j2EE?
+[08/06/2006 01:04 PM] b.cullinan@cox.net: yeah that
+[08/06/2006 01:04 PM] b.cullinan@cox.net: and tomcat
+[08/06/2006 01:05 PM] David McAarthur: well thats a complicated question
+[08/06/2006 01:05 PM] David McAarthur: im sure it probably has tomcat, which implements part of j2ee
+[08/06/2006 01:05 PM] b.cullinan@cox.net: ok
+[08/06/2006 01:05 PM] David McAarthur: (Link: www.aboutdebian.com)www.aboutdebian.com
+[08/06/2006 01:05 PM] b.cullinan@cox.net: anywho, maybe i'll just stick with fedora
+[08/06/2006 01:06 PM] b.cullinan@cox.net: i've heard of debian before
+[08/06/2006 01:06 PM] b.cullinan@cox.net: have you used it?
+[08/06/2006 01:08 PM] b.cullinan@cox.net: yay (Link: http://www.aboutdebian.com/lan.htm)http://www.aboutdebian.com/lan.htm
+[08/06/2006 01:08 PM] b.cullinan@cox.net: i like these little tutorials
+[08/06/2006 01:11 PM] b.cullinan@cox.net: and i can use KDE with this too right?
+[08/06/2006 01:11 PM] b.cullinan@cox.net: hey another important question, can i start my linux in command line mode by default?
+[08/06/2006 01:12 PM] b.cullinan@cox.net: if so, can i then run KDE with a command?
+[08/06/2006 01:12 PM] David McAarthur: yes
+[08/06/2006 01:19 PM] b.cullinan@cox.net: sweet
+[08/06/2006 01:19 PM] b.cullinan@cox.net: i can't wait to get home
+[08/06/2006 01:19 PM] David McAarthur: where are you?
+[08/06/2006 01:20 PM] b.cullinan@cox.net: ohio
+[08/06/2006 01:20 PM] David McAarthur: ah
+[08/06/2006 01:20 PM] b.cullinan@cox.net: but i already ordered parts
+[08/06/2006 01:21 PM] b.cullinan@cox.net: i got a new socket 939 motherboard, with an ATI chipset, and 2 seagates with vertical reading or something or other
+[08/06/2006 01:22 PM] b.cullinan@cox.net: perpendicular recording
+[08/06/2006 01:22 PM] b.cullinan@cox.net: (Link: http://www.newegg.com/Product/Product.asp?Item=N82E16822148144)http://www.newegg.com/Product/Product.asp?Item=N82E16822148144
+[08/06/2006 01:22 PM] b.cullinan@cox.net: very cool
+[08/06/2006 01:24 PM] b.cullinan@cox.net: (Link: http://www.newegg.com/Product/Product.asp?Item=N82E16813138270)http://www.newegg.com/Product/Product.asp?Item=N82E16813138270
+Session Close (David McAarthur): Sun Aug 06 13:43:26 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Sun Aug 06 22:35:14 2006
+[08/06/2006 10:35 PM] b.cullinan@cox.net: yo
+Session Close (David McAarthur): Sun Aug 06 22:38:37 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Mon Aug 07 13:59:56 2006
+[08/07/2006 02:00 PM] b.cullinan@cox.net: hey i got a question
+[08/07/2006 02:00 PM] David McAarthur: sup
+[08/07/2006 02:01 PM] b.cullinan@cox.net: you know that mode that a computer can be in where when you restart it, it reverts back to all th default settings and deletes any changes to the hard drive
+[08/07/2006 02:01 PM] b.cullinan@cox.net: i can't remember what it is called, but i was wondering if linux could do that
+[08/07/2006 02:01 PM] David McAarthur: never heard of it
+[08/07/2006 02:02 PM] b.cullinan@cox.net: oh
+[08/07/2006 02:02 PM] David McAarthur: theres a windows program called deepfreeze that will do that
+[08/07/2006 02:02 PM] b.cullinan@cox.net: yeah exactly
+[08/07/2006 02:02 PM] b.cullinan@cox.net: whats that called
+[08/07/2006 02:03 PM] *** You have been disconnected. Mon Aug 07 14:03:44 2006.
+[08/07/2006 02:04 PM] *** "David McAarthur" signed on at Mon Aug 07 14:04:45 2006.
+Session Close (David McAarthur): Mon Aug 07 14:10:58 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Thu Aug 10 22:26:28 2006
+[08/10/2006 10:26 PM] b.cullinan@cox.net: hi
+[08/10/2006 10:27 PM] David McAarthur: what up
+[08/10/2006 10:28 PM] b.cullinan@cox.net: not much
+[08/10/2006 10:32 PM] b.cullinan@cox.net: how about you?
+[08/10/2006 10:32 PM] b.cullinan@cox.net: dude this new motherboard has a power button on it
+[08/10/2006 10:33 PM] b.cullinan@cox.net: its fucking sweet
+Session Close (David McAarthur): Thu Aug 10 23:03:02 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Fri Aug 11 13:11:25 2006
+[08/11/2006 01:11 PM] b.cullinan@cox.net: should i get the i386 version of debian or the ia64
+[08/11/2006 01:11 PM] b.cullinan@cox.net: ???
+[08/11/2006 01:13 PM] b.cullinan@cox.net: how come they don't have an AMD64 option?
+[08/11/2006 01:13 PM] b.cullinan@cox.net: maybe debian isn't right for me
+Session Close (David McAarthur): Fri Aug 11 13:25:20 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Fri Aug 11 17:30:37 2006
+[08/11/2006 05:30 PM] b.cullinan@cox.net: i am installing fedora
+[08/11/2006 05:30 PM] b.cullinan@cox.net: because debian doesn't have a stable AMD64 version
+[08/11/2006 05:31 PM] b.cullinan@cox.net: i am sad
+[08/11/2006 05:31 PM] David McAarthur: meh
+[08/11/2006 05:31 PM] David McAarthur: fedoras pretty good
+[08/11/2006 05:31 PM] b.cullinan@cox.net: but the install sucks
+[08/11/2006 05:31 PM] David McAarthur: lookup fedora unofficial fax
+[08/11/2006 05:31 PM] b.cullinan@cox.net: if there is one currupt package instead of asking for a new CD it reboots and ruins the install
+[08/11/2006 05:32 PM] David McAarthur: ah
+[08/11/2006 05:32 PM] b.cullinan@cox.net: yeah i am using the unofficial faq
+[08/11/2006 05:32 PM] David McAarthur: aight
+[08/11/2006 05:32 PM] David McAarthur: ive heard good things about ubuntu too
+[08/11/2006 05:33 PM] David McAarthur: if you dont like fedora
+[08/11/2006 05:33 PM] b.cullinan@cox.net: yeah well i don't like downloading CD images
+[08/11/2006 05:33 PM] b.cullinan@cox.net: i should have researched a net install
+[08/11/2006 05:34 PM] b.cullinan@cox.net: or gotten the core installed then installed more packages inside KDE
+[08/11/2006 05:34 PM] b.cullinan@cox.net: because i don't want my CD to skrew up again and ruin the install
+[08/11/2006 05:34 PM] *** "David McAarthur" signed off at Fri Aug 11 17:34:41 2006.
+[08/11/2006 05:37 PM] *** "David McAarthur" signed on at Fri Aug 11 17:37:39 2006.
+Session Close (David McAarthur): Fri Aug 11 17:42:50 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Fri Aug 11 22:14:23 2006
+[08/11/2006 10:14 PM] b.cullinan@cox.net: dude i am so confused
+Session Close (David McAarthur): Fri Aug 11 22:44:29 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Sun Aug 13 20:49:31 2006
+[08/13/2006 08:49 PM] b.cullinan@cox.net: hey dude
+[08/13/2006 08:49 PM] b.cullinan@cox.net: you got a girlfriend yet?
+[08/13/2006 08:50 PM] b.cullinan@cox.net: we are gonna take care of that this semester, so i don't feel bad for being the only one in the group with one
+[08/13/2006 08:51 PM] b.cullinan@cox.net: anywho my linux setup is working well
+[08/13/2006 08:52 PM] b.cullinan@cox.net: except in the logical volume manager it says my hard drives are uninitialized
+[08/13/2006 08:52 PM] b.cullinan@cox.net: kind of weird
+[08/13/2006 08:53 PM] David McAarthur: that is od
+[08/13/2006 08:53 PM] David McAarthur: d
+[08/13/2006 08:57 PM] b.cullinan@cox.net: yeah
+Session Close (David McAarthur): Sun Aug 13 21:27:08 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Sun Aug 13 21:45:50 2006
+[08/13/2006 09:46 PM] b.cullinan@cox.net: so my stupid mobo doesn't have onboard raid
+[08/13/2006 09:46 PM] b.cullinan@cox.net: i have to use the linux software raid
+[08/13/2006 09:46 PM] b.cullinan@cox.net: mdadm
+[08/13/2006 09:46 PM] David McAarthur: theres not really anything wrong with that
+[08/13/2006 09:46 PM] b.cullinan@cox.net: yeah i guess not
+[08/13/2006 09:46 PM] b.cullinan@cox.net: so i also ordered 2 more 250GB seagates
+[08/13/2006 09:46 PM] David McAarthur: nice
+[08/13/2006 09:46 PM] b.cullinan@cox.net: that i will also raid together
+[08/13/2006 09:47 PM] David McAarthur: what type/filesystem you going to use
+[08/13/2006 09:47 PM] b.cullinan@cox.net: i already installed ext3
+[08/13/2006 09:47 PM] b.cullinan@cox.net: is that good?
+[08/13/2006 09:47 PM] David McAarthur: yeah
+[08/13/2006 09:47 PM] b.cullinan@cox.net: ok
+[08/13/2006 09:48 PM] b.cullinan@cox.net: so i guess i will have to mount the second pair of drives seperately right?
+[08/13/2006 09:48 PM] b.cullinan@cox.net: because i have everything build on a physical volume
+[08/13/2006 09:48 PM] b.cullinan@cox.net: no logical volumes, which i probably shouldn't have done
+[08/13/2006 09:49 PM] b.cullinan@cox.net: wait isn't there a wait to extend the actual mount size to other volumes?
+[08/13/2006 09:50 PM] b.cullinan@cox.net: does knoppix do that? it creates that virtual memory volume and mounts it like you would a regular file system?
+[08/13/2006 09:50 PM] David McAarthur: um i dunno
+[08/13/2006 09:50 PM] b.cullinan@cox.net: hmmm
+[08/13/2006 09:50 PM] b.cullinan@cox.net: so keifer is asking you about linux questions also?
+[08/13/2006 09:51 PM] b.cullinan@cox.net: him and his fucking Mac
+[08/13/2006 09:51 PM] David McAarthur: hah no
+[08/13/2006 09:51 PM] David McAarthur: i doubt he will take time to learn it
+[08/13/2006 09:51 PM] b.cullinan@cox.net: probably not
+[08/13/2006 09:52 PM] b.cullinan@cox.net: he'll get angry at it
+[08/13/2006 09:52 PM] b.cullinan@cox.net: dude, sudo is the coolest command
+[08/13/2006 09:52 PM] b.cullinan@cox.net: i just discovered it a few days ago
+[08/13/2006 09:53 PM] b.cullinan@cox.net: can you use sudo as a 1337speak term to describe something more awesome then admin?
+[08/13/2006 09:53 PM] b.cullinan@cox.net: lol
+[08/13/2006 09:54 PM] David McAarthur: uh no
+[08/13/2006 09:54 PM] b.cullinan@cox.net: hm
+[08/13/2006 09:54 PM] b.cullinan@cox.net: wow i have 288 thousand picture files
+[08/13/2006 09:56 PM] b.cullinan@cox.net: hey is there a way to do like a fast user switching when using KDE or any desktop environment?  like could i switch over to root and log in on the same computer?
+[08/13/2006 09:56 PM] b.cullinan@cox.net: without logging out of my other one
+[08/13/2006 09:56 PM] David McAarthur: uh well, you could start another xserver
+[08/13/2006 09:57 PM] David McAarthur: but dont log into any graphical thing as root
+[08/13/2006 09:57 PM] b.cullinan@cox.net: y?
+[08/13/2006 10:06 PM] b.cullinan@cox.net: shit
+[08/13/2006 10:06 PM] b.cullinan@cox.net: how to you get out of a blank xserver?
+[08/13/2006 10:06 PM] b.cullinan@cox.net: lol
+[08/13/2006 10:06 PM] b.cullinan@cox.net: i suck at linux
+[08/13/2006 10:06 PM] b.cullinan@cox.net: lol
+[08/13/2006 10:07 PM] b.cullinan@cox.net: this is your fault
+[08/13/2006 10:07 PM] b.cullinan@cox.net: shit
+[08/13/2006 10:14 PM] b.cullinan@cox.net: oh
+[08/13/2006 10:14 PM] b.cullinan@cox.net: Ctrl+alt+backspace
+[08/13/2006 10:14 PM] b.cullinan@cox.net: thanks
+[08/13/2006 10:15 PM] David McAarthur: oh
+[08/13/2006 10:15 PM] David McAarthur: i didnt see the question part of that
+[08/13/2006 10:34 PM] b.cullinan@cox.net: how do you get out of the ctrl+alt+F1 mode?
+[08/13/2006 10:34 PM] b.cullinan@cox.net: oh
+[08/13/2006 10:35 PM] b.cullinan@cox.net: nvm
+[08/13/2006 10:36 PM] b.cullinan@cox.net: and you never told me why i should login to an interface as root
+[08/13/2006 10:51 PM] b.cullinan@cox.net: wow i am having fun with multiple sessions
+[08/13/2006 10:51 PM] b.cullinan@cox.net: why is my current desktop on CTRL+ALT+F7?
+[08/13/2006 10:54 PM] *** "David McAarthur" signed off at Sun Aug 13 22:54:17 2006.
+Session Close (David McAarthur): Sun Aug 13 22:54:21 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Mon Aug 14 14:33:00 2006
+[08/14/2006 02:33 PM] b.cullinan@cox.net: dude
+[08/14/2006 02:33 PM] b.cullinan@cox.net: i have a problem
+[08/14/2006 02:33 PM] b.cullinan@cox.net: since linux does use drives A, B, C letters like windows does
+[08/14/2006 02:33 PM] b.cullinan@cox.net: what should i mount my next pair of drives as?
+[08/14/2006 02:34 PM] b.cullinan@cox.net: like /morespace
+[08/14/2006 02:34 PM] David McAarthur: huh
+[08/14/2006 02:34 PM] David McAarthur: since it does?
+[08/14/2006 02:35 PM] b.cullinan@cox.net: doesn't
+[08/14/2006 02:35 PM] b.cullinan@cox.net: sorry typo
+[08/14/2006 02:35 PM] David McAarthur: so your wondering where to mount them?
+[08/14/2006 02:35 PM] b.cullinan@cox.net: yeah
+[08/14/2006 02:35 PM] David McAarthur: /mnt/whateveryou-want
+[08/14/2006 02:36 PM] David McAarthur: just create a folder in /mnt with the name you wanna use
+[08/14/2006 02:37 PM] b.cullinan@cox.net: /mnt/morespace
+[08/14/2006 02:37 PM] David McAarthur: yeah
+[08/14/2006 02:39 PM] b.cullinan@cox.net: but why can't i mount it under root
+[08/14/2006 02:39 PM] b.cullinan@cox.net: ?
+[08/14/2006 02:39 PM] David McAarthur: what do you mean
+[08/14/2006 02:40 PM] b.cullinan@cox.net: like /misc
+[08/14/2006 02:40 PM] David McAarthur: you could
+[08/14/2006 02:40 PM] David McAarthur: theres nothing technical stopping you
+[08/14/2006 02:40 PM] b.cullinan@cox.net: no /mnt inbetween
+[08/14/2006 02:40 PM] b.cullinan@cox.net: these seagate drive are nice
+[08/14/2006 02:40 PM] b.cullinan@cox.net: i bought 2 more last night
+[08/14/2006 02:41 PM] b.cullinan@cox.net: and an extra 4 port sata II controller
+Session Close (David McAarthur): Mon Aug 14 15:11:07 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Wed Aug 16 12:03:33 2006
+[08/16/2006 12:06 PM] b.cullinan@cox.net: dude i love linux
+[08/16/2006 12:07 PM] b.cullinan@cox.net: yesterday i switched my hard drives around and it still booted
+[08/16/2006 12:07 PM] b.cullinan@cox.net: can't do that with windows
+[08/16/2006 12:07 PM] b.cullinan@cox.net: hells yeah
+[08/16/2006 12:07 PM] b.cullinan@cox.net: well there is a windows raid
+[08/16/2006 12:07 PM] b.cullinan@cox.net: but windows sucks
+[08/16/2006 12:07 PM] David McAarthur: hmm
+[08/16/2006 12:08 PM] b.cullinan@cox.net: so when i get this new hard drive controller, what will it show up as in /dev/?
+[08/16/2006 12:08 PM] b.cullinan@cox.net: would it be sde, sdf, sdg, sdh?
+[08/16/2006 12:08 PM] David McAarthur: well, assuming you have the drivers in the kernel for it
+[08/16/2006 12:08 PM] David McAarthur: prolly
+[08/16/2006 12:09 PM] David McAarthur: how much space are you going to have then
+[08/16/2006 12:09 PM] b.cullinan@cox.net: 1TB
+[08/16/2006 12:09 PM] b.cullinan@cox.net: physical
+[08/16/2006 12:09 PM] b.cullinan@cox.net: not once its formatted
+[08/16/2006 12:09 PM] b.cullinan@cox.net: but close
+[08/16/2006 12:10 PM] b.cullinan@cox.net: you know how it is
+[08/16/2006 12:10 PM] David McAarthur: are you going to raid it
+[08/16/2006 12:10 PM] b.cullinan@cox.net: yeah
+[08/16/2006 12:10 PM] b.cullinan@cox.net: so i'll be using 500GB raid 1
+[08/16/2006 12:10 PM] b.cullinan@cox.net: but i would like to raid 1TB before the year is up
+[08/16/2006 12:10 PM] David McAarthur: just have 1 500 gb drive?
+[08/16/2006 12:10 PM] David McAarthur: er 2?
+[08/16/2006 12:10 PM] b.cullinan@cox.net: yeah
+[08/16/2006 12:11 PM] b.cullinan@cox.net: but they are like 80 cents per gig
+[08/16/2006 12:11 PM] b.cullinan@cox.net: i never pay more then 40
+[08/16/2006 12:11 PM] b.cullinan@cox.net: 250GB for $80
+[08/16/2006 12:12 PM] b.cullinan@cox.net: 32 cents per gig
+[08/16/2006 12:12 PM] b.cullinan@cox.net: sweet
+[08/16/2006 12:12 PM] David McAarthur: meh
+[08/16/2006 12:12 PM] David McAarthur: i dont think ill buy another hd
+[08/16/2006 12:13 PM] b.cullinan@cox.net: what do you have now?
+[08/16/2006 12:13 PM] David McAarthur: 6 120s, a 250, 2 200s, a 300 and prolly something else
+[08/16/2006 12:14 PM] b.cullinan@cox.net: wow
+[08/16/2006 12:14 PM] David McAarthur: clusterfuck
+[08/16/2006 12:15 PM] b.cullinan@cox.net: wtf?
+[08/16/2006 12:15 PM] David McAarthur: my setup is just one big clusterfuck
+[08/16/2006 12:15 PM] b.cullinan@cox.net: sucks
+[08/16/2006 12:15 PM] b.cullinan@cox.net: rebuild
+[08/16/2006 12:15 PM] David McAarthur: then id have to spend money
+[08/16/2006 12:15 PM] b.cullinan@cox.net: maybe a little
+[08/16/2006 12:16 PM] b.cullinan@cox.net: get more of the single drives you have and raid everything
+[08/16/2006 12:16 PM] b.cullinan@cox.net: you beat me by 70GB
+[08/16/2006 12:16 PM] David McAarthur: 8-)
+[08/16/2006 12:16 PM] David McAarthur: so i got a raise today
+[08/16/2006 12:16 PM] b.cullinan@cox.net: oh yeah whats your wage now?
+[08/16/2006 12:24 PM] b.cullinan@cox.net: if the same partition table is written it doesn't change anything does it?
+[08/16/2006 12:25 PM] b.cullinan@cox.net: like it won't ruin the HDD contents?
+[08/16/2006 12:25 PM] David McAarthur: i would think it does
+[08/16/2006 12:25 PM] b.cullinan@cox.net: it does?
+[08/16/2006 12:26 PM] b.cullinan@cox.net: even when its the same as the one currently on it?
+[08/16/2006 12:26 PM] David McAarthur: i think so
+[08/16/2006 12:26 PM] b.cullinan@cox.net: hmm
+[08/16/2006 12:26 PM] b.cullinan@cox.net: i accidently hit w instead of q
+[08/16/2006 12:27 PM] b.cullinan@cox.net: those keys are too close in fdisk
+[08/16/2006 12:27 PM] b.cullinan@cox.net: but i restarted and everything is fine
+[08/16/2006 12:27 PM] David McAarthur: hmm
+[08/16/2006 12:28 PM] b.cullinan@cox.net: and mdstat shows normal also
+[08/16/2006 12:28 PM] David McAarthur: oh, i was thinking something else
+[08/16/2006 12:28 PM] David McAarthur: i thought you formatted for some reason
+[08/16/2006 12:29 PM] b.cullinan@cox.net: one thing i love about setting up fedora and probably most linux distros, it doesn't make any changes to the hard drive until you actually start the install, unlike stupid windows setup, every change you make to the partition table it automatically writes it
+[08/16/2006 12:30 PM] *** "David McAarthur" signed off at Wed Aug 16 12:30:21 2006.
+[08/16/2006 12:30 PM] *** "David McAarthur" signed on at Wed Aug 16 12:30:30 2006.
+[08/16/2006 12:32 PM] b.cullinan@cox.net: (Link: http://www.newegg.com/Product/Product.asp?Item=N82E16819115001)http://www.newegg.com/Product/Product.asp?Item=N82E16819115001
+[08/16/2006 12:32 PM] b.cullinan@cox.net: sexy
+[08/16/2006 12:32 PM] b.cullinan@cox.net: no hyperthreading though
+[08/16/2006 12:33 PM] David McAarthur: hmm
+[08/16/2006 12:33 PM] David McAarthur: that is sexy thogh
+Session Close (David McAarthur): Wed Aug 16 13:03:29 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Wed Aug 16 13:07:28 2006
+[08/16/2006 01:07 PM] b.cullinan@cox.net: i wish AMD would catch up
+[08/16/2006 01:28 PM] *** You have been disconnected. Wed Aug 16 13:28:25 2006.
+[08/16/2006 01:42 PM] *** "David McAarthur" signed on at Wed Aug 16 13:42:07 2006.
+[08/16/2006 01:45 PM] b.cullinan@cox.net: so i just tested my raid system
+[08/16/2006 01:45 PM] b.cullinan@cox.net: its pretty sweet
+[08/16/2006 01:45 PM] b.cullinan@cox.net: has to recover now though
+[08/16/2006 01:45 PM] b.cullinan@cox.net: takes time
+[08/16/2006 01:45 PM] b.cullinan@cox.net: not pretty sweet
+[08/16/2006 01:46 PM] David McAarthur: yeah
+[08/16/2006 01:50 PM] *** "David McAarthur" signed off at Wed Aug 16 13:50:07 2006.
+Session Close (David McAarthur): Wed Aug 16 14:20:09 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Wed Aug 16 16:04:13 2006
+[08/16/2006 04:04 PM] b.cullinan@cox.net: i need help
+[08/16/2006 04:04 PM] David McAarthur: eyah/
+[08/16/2006 04:04 PM] b.cullinan@cox.net: i am trying to get apache working
+[08/16/2006 04:04 PM] b.cullinan@cox.net: it works on 127.0.0.1
+[08/16/2006 04:04 PM] b.cullinan@cox.net: but i can't get in from any other computer
+[08/16/2006 04:05 PM] b.cullinan@cox.net: i have to permissions set right
+[08/16/2006 04:06 PM] b.cullinan@cox.net: the owner for the html file was root, i changed it to apache, in the apache httpd.conf file it has a field for Group and User, and both of those by default say apache
+[08/16/2006 04:06 PM] b.cullinan@cox.net: i am getting Cannot connect to server errors, but i can ping the linux box and get a response
+[08/16/2006 04:06 PM] David McAarthur: well if you can get it from 127.0.0.1, its not a permissions problem
+[08/16/2006 04:06 PM] David McAarthur: try nmap localhost
+[08/16/2006 04:06 PM] David McAarthur: and tell me what it says
+[08/16/2006 04:06 PM] David McAarthur: is this fedora?
+[08/16/2006 04:07 PM] b.cullinan@cox.net: yes
+[08/16/2006 04:07 PM] b.cullinan@cox.net: nmap doesn't work
+[08/16/2006 04:07 PM] David McAarthur: you probably have to allow http server in the firewall settings
+[08/16/2006 04:07 PM] b.cullinan@cox.net: yeah
+[08/16/2006 04:07 PM] David McAarthur: should be like under administrative tools security settings
+[08/16/2006 04:07 PM] b.cullinan@cox.net: i know where it is, but the are all firewalled
+[08/16/2006 04:08 PM] b.cullinan@cox.net: oops
+[08/16/2006 04:08 PM] b.cullinan@cox.net: i missed that one when i first set up the firewall
+[08/16/2006 04:08 PM] b.cullinan@cox.net: it was at the bottom
+[08/16/2006 04:08 PM] b.cullinan@cox.net: works now
+[08/16/2006 04:09 PM] b.cullinan@cox.net: thanks for reminding me
+[08/16/2006 04:09 PM] David McAarthur: np
+[08/16/2006 04:09 PM] David McAarthur: but yeah, if apache can read it and serve it to you from localhost, its not going to be a file permission problem
+[08/16/2006 04:11 PM] b.cullinan@cox.net: ok cool thanks
+[08/16/2006 04:12 PM] David McAarthur: yeh
+[08/16/2006 04:12 PM] David McAarthur: you know what i was thinking we should do a lot of during the semester
+[08/16/2006 04:12 PM] David McAarthur: midnight frisbee golf
+[08/16/2006 04:17 PM] b.cullinan@cox.net: yeah
+[08/16/2006 04:17 PM] b.cullinan@cox.net: that'd be cool
+[08/16/2006 04:30 PM] b.cullinan@cox.net: now i am having trouble with virtual hosts
+[08/16/2006 04:30 PM] b.cullinan@cox.net: its not working the same way as on my windows system
+[08/16/2006 04:31 PM] David McAarthur: yeah?
+[08/16/2006 04:31 PM] b.cullinan@cox.net: i need my bjcmedia.mine.nu domain to use a different home directory
+[08/16/2006 04:33 PM] b.cullinan@cox.net: and even though i have NameVirtualHost *:80 and <VirtualHost *:80> when apache starts it still says it has no VirtualHosts
+[08/16/2006 04:34 PM] David McAarthur: try apache -S
+[08/16/2006 04:34 PM] David McAarthur: and see what it says
+[08/16/2006 04:34 PM] b.cullinan@cox.net: wait might work now
+[08/16/2006 04:34 PM] b.cullinan@cox.net: must have excluded *:80 as a default
+[08/16/2006 04:36 PM] b.cullinan@cox.net: but i don't want the namevirtualhost to be port specific
+[08/16/2006 04:36 PM] b.cullinan@cox.net: and it complains if i use *:*
+[08/16/2006 04:37 PM] David McAarthur: hmm
+[08/16/2006 04:37 PM] David McAarthur: well that shouldnt be much of a problem, cuz how many ports are you going to use
+[08/16/2006 04:37 PM] b.cullinan@cox.net: 2
+[08/16/2006 04:37 PM] b.cullinan@cox.net: but if NameVirtualHost is set to *:80
+[08/16/2006 04:38 PM] b.cullinan@cox.net: do i just have to copy all the virtual hosts and change them to port 8080 also?
+[08/16/2006 04:38 PM] David McAarthur: yeah that would work
+[08/16/2006 04:39 PM] b.cullinan@cox.net: do i need 2 fields that same NameVirtualHost?
+[08/16/2006 04:39 PM] b.cullinan@cox.net: one set to *:80 and the other *:8080
+[08/16/2006 04:39 PM] b.cullinan@cox.net: ?
+[08/16/2006 04:40 PM] David McAarthur: prolly
+[08/16/2006 04:40 PM] David McAarthur: i always go the other way
+[08/16/2006 04:40 PM] David McAarthur: have everything running on one port and the mod_rewrite it somewhere else if need be
+[08/16/2006 04:40 PM] David McAarthur: mod_rewrite/mod_proxy
+[08/16/2006 04:41 PM] b.cullinan@cox.net: yeah i would do that but cox blocks all of port 80
+[08/16/2006 04:41 PM] David McAarthur: WTF
+[08/16/2006 04:41 PM] b.cullinan@cox.net: yeah
+[08/16/2006 04:41 PM] David McAarthur: so gay
+[08/16/2006 04:43 PM] b.cullinan@cox.net: god damnit why is it returning blank pages now?
+[08/16/2006 04:43 PM] b.cullinan@cox.net: i have indexes and nothing is showing up
+[08/16/2006 04:43 PM] b.cullinan@cox.net: its completely blank when i load the page
+[08/16/2006 04:43 PM] b.cullinan@cox.net: on port 80
+[08/16/2006 04:43 PM] b.cullinan@cox.net: sorry 8080
+[08/16/2006 04:44 PM] David McAarthur: dunno
+[08/16/2006 04:46 PM] b.cullinan@cox.net: now it echos other
+[08/16/2006 04:46 PM] b.cullinan@cox.net: but that is the page under /var/www/html when it should be returning the page /var/www/html/bjcmedia
+[08/16/2006 04:47 PM] David McAarthur: paste the relevant part of the config
+[08/16/2006 04:47 PM] David McAarthur: or i really have no idea whats going on
+[08/16/2006 04:47 PM] b.cullinan@cox.net: ok
+[08/16/2006 04:48 PM] b.cullinan@cox.net: whats the record command?
+[08/16/2006 04:48 PM] David McAarthur: record command?
+[08/16/2006 04:48 PM] b.cullinan@cox.net: yeah to record output
+[08/16/2006 04:48 PM] b.cullinan@cox.net: so i can send you httpd -S
+[08/16/2006 04:48 PM] David McAarthur: oh, your not ssh'ed in?
+[08/16/2006 04:49 PM] David McAarthur: httpd -S > thefileyouwant.txt
+[08/16/2006 04:49 PM] David McAarthur: ttyl gotsta go home
+[08/16/2006 04:49 PM] b.cullinan@cox.net: oh yeah that works
+[08/16/2006 04:49 PM] b.cullinan@cox.net: ok
+[08/16/2006 04:50 PM] *** "David McAarthur" signed off at Wed Aug 16 16:50:41 2006.
+Session Close (David McAarthur): Wed Aug 16 17:20:43 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Wed Aug 16 18:11:49 2006
+[08/16/2006 06:11 PM] b.cullinan@cox.net: fuck shit damn
+[08/16/2006 06:12 PM] b.cullinan@cox.net: its like the named virtual host isn't even catching at all
+[08/16/2006 06:12 PM] b.cullinan@cox.net: only the port part works
+[08/16/2006 06:12 PM] b.cullinan@cox.net: do i need "" quotations around the name?
+[08/16/2006 06:12 PM] b.cullinan@cox.net: should it be <VirtualHost "bjcmedia.mine.nu":8080>
+[08/16/2006 06:13 PM] David McAarthur: naw dont do that
+[08/16/2006 06:13 PM] David McAarthur: dont have bjcmedia.mine.nu in there
+[08/16/2006 06:13 PM] David McAarthur: put that under server name
+[08/16/2006 06:14 PM] b.cullinan@cox.net: even when i list them completely separately like
+ NameVirtualHost 192.168.15.106:80
+ NameVirtualHost 192.168.15.106:8080
+ NameVirtualHost bjcmedia.mine.nu:80
+ NameVirtualHost bjcmedia.mine.nu:8080
+[08/16/2006 06:14 PM] b.cullinan@cox.net: it still doesn't work
+[08/16/2006 06:14 PM] David McAarthur: dont put them there
+[08/16/2006 06:14 PM] b.cullinan@cox.net: then what do i put under <VirtualHost *:*>
+[08/16/2006 06:14 PM] b.cullinan@cox.net: why?
+[08/16/2006 06:14 PM] David McAarthur: thats for the ip address binding
+[08/16/2006 06:14 PM] b.cullinan@cox.net: ok
+[08/16/2006 06:15 PM] David McAarthur: not hostname
+[08/16/2006 06:15 PM] b.cullinan@cox.net: so how do i use virtual hosts?
+[08/16/2006 06:15 PM] David McAarthur: <VirtualHost *:80>
+[08/16/2006 06:15 PM] David McAarthur: servername bjc.....
+[08/16/2006 06:15 PM] David McAarthur: </virtual host>
+[08/16/2006 06:17 PM] b.cullinan@cox.net: ok
+[08/16/2006 06:17 PM] b.cullinan@cox.net: that's how it was before and it still returned the default root directory
+[08/16/2006 06:18 PM] b.cullinan@cox.net: instead of bjcmedia directory
+[08/16/2006 06:21 PM] b.cullinan@cox.net: i'll try it again
+[08/16/2006 06:22 PM] David McAarthur: must be one of the other things
+[08/16/2006 06:22 PM] *** "David McAarthur" signed off at Wed Aug 16 18:22:18 2006.
+Session Close (David McAarthur): Wed Aug 16 18:47:22 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Wed Aug 16 21:02:49 2006
+[08/16/2006 09:02 PM] b.cullinan@cox.net: fuck
+[08/16/2006 09:03 PM] b.cullinan@cox.net: i can't build drivers for this stupid board i bought
+[08/16/2006 09:03 PM] David McAarthur: hmm
+[08/16/2006 09:03 PM] b.cullinan@cox.net: and i can't install the drivers for redhat
+[08/16/2006 09:05 PM] b.cullinan@cox.net: sucks
+[08/16/2006 09:06 PM] b.cullinan@cox.net: is there any way to forcefully install redhad drivers on fedora?
+[08/16/2006 09:06 PM] David McAarthur: rpm
+[08/16/2006 09:06 PM] b.cullinan@cox.net: rpm?
+[08/16/2006 09:07 PM] David McAarthur: its the command to install rpm packages
+[08/16/2006 09:07 PM] b.cullinan@cox.net: yeah the instructions tell me to use sh
+[08/16/2006 09:07 PM] b.cullinan@cox.net: its just a text file not an rpm
+[08/16/2006 09:07 PM] David McAarthur: heh
+[08/16/2006 09:08 PM] David McAarthur: so run the actual file
+[08/16/2006 09:08 PM] David McAarthur: its a script
+[08/16/2006 09:08 PM] b.cullinan@cox.net: yeah it gives me an error
+[08/16/2006 09:08 PM] b.cullinan@cox.net: bad kernel version
+[08/16/2006 09:08 PM] b.cullinan@cox.net: and they provide the kernel 2.6 source on the site, but i can't get it to compile
+[08/16/2006 09:09 PM] b.cullinan@cox.net: i went through the whole tutorial on downloading the fedora kernel source and everything
+Session Close (David McAarthur): Wed Aug 16 21:39:20 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Wed Aug 16 21:55:53 2006
+Session Close (David McAarthur): Wed Aug 16 21:55:59 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Thu Aug 17 10:12:33 2006
+[08/17/2006 10:12 AM] b.cullinan@cox.net: now i can't get apache to work
+[08/17/2006 10:12 AM] David McAarthur: hmm
+[08/17/2006 10:12 AM] b.cullinan@cox.net: not apache
+[08/17/2006 10:13 AM] b.cullinan@cox.net: just the PHP fopen function
+[08/17/2006 10:13 AM] b.cullinan@cox.net: it seems like a permissions issue
+[08/17/2006 10:13 AM] b.cullinan@cox.net: can apache access any files it wants?
+[08/17/2006 10:13 AM] b.cullinan@cox.net: the thing if i have 777 on this one directory that its trying to write to and it still doesn't work
+[08/17/2006 10:13 AM] b.cullinan@cox.net: so that makes me think its a php issue
+[08/17/2006 10:14 AM] b.cullinan@cox.net: what do you think?  PHP or apache?
+[08/17/2006 10:14 AM] David McAarthur: i dunno check the log files
+[08/17/2006 10:15 AM] b.cullinan@cox.net: ok
+[08/17/2006 10:15 AM] b.cullinan@cox.net: but i know it can read the filesystem because it returns 1 on file_exists
+[08/17/2006 10:15 AM] David McAarthur: 777 is a bad idea
+[08/17/2006 10:15 AM] b.cullinan@cox.net: yeah i know
+[08/17/2006 10:15 AM] b.cullinan@cox.net: just doing that for testing until i get it working
+[08/17/2006 10:31 AM] b.cullinan@cox.net: apache shows the error from PHP permission denied
+[08/17/2006 10:31 AM] b.cullinan@cox.net: so its a PHP error
+Session Close (David McAarthur): Thu Aug 17 11:01:25 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Thu Aug 17 16:21:10 2006
+[08/17/2006 04:21 PM] b.cullinan@cox.net: i figured out the samba problem
+[08/17/2006 04:21 PM] b.cullinan@cox.net: global settings where in the wrong place
+[08/17/2006 04:21 PM] David McAarthur: ah
+[08/17/2006 04:22 PM] b.cullinan@cox.net: i am working on getting my server working
+[08/17/2006 04:23 PM] b.cullinan@cox.net: how do you create a link in the command line?
+[08/17/2006 04:23 PM] David McAarthur: ln
+[08/17/2006 04:23 PM] b.cullinan@cox.net: are links treated like directories, like could i have a link in my home directory like /home/bjcullinan/Music Music being the link, then refere to a fold in music like /home/bjcullinan/Music/downloaded music?
+[08/17/2006 04:24 PM] David McAarthur: huh
+[08/17/2006 04:24 PM] David McAarthur: yeah
+[08/17/2006 04:24 PM] David McAarthur: you can link to folders or files
+[08/17/2006 04:25 PM] b.cullinan@cox.net: ok
+[08/17/2006 04:29 PM] b.cullinan@cox.net: that's awesome
+[08/17/2006 04:29 PM] b.cullinan@cox.net: i wish windows could do that
+[08/17/2006 04:50 PM] *** One or more messages may have been undeliverable.  Try closing and reopening this window.
+[08/17/2006 04:50 PM] b.cullinan@cox.net: can i make apache list links index the file list view?
+Session Close (David McAarthur): Thu Aug 17 16:50:56 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Thu Aug 17 16:50:59 2006
+[08/17/2006 04:51 PM] b.cullinan@cox.net: can i make apache list links index the file list view?
+[08/17/2006 04:51 PM] *** "David McAarthur" signed off at Thu Aug 17 16:51:02 2006.
+[08/17/2006 05:13 PM] *** "David McAarthur" signed on at Thu Aug 17 17:13:30 2006.
+[08/17/2006 05:14 PM] David McAarthur: hmm
+[08/17/2006 05:55 PM] *** "David McAarthur" signed off at Thu Aug 17 17:55:50 2006.
+[08/17/2006 05:55 PM] *** "David McAarthur" signed on at Thu Aug 17 17:55:50 2006.
+[08/17/2006 06:57 PM] b.cullinan@cox.net: i need apache to print the SymLinks
+[08/17/2006 06:57 PM] b.cullinan@cox.net: i got FollowSymLinks to work
+Session Close (David McAarthur): Thu Aug 17 19:22:11 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Thu Aug 17 23:21:42 2006
+[08/17/2006 11:22 PM] b.cullinan@cox.net: ever program so intensively that you want to end your sentences with a semi-colon?;
+[08/17/2006 11:22 PM] David McAarthur: lots;
+[08/17/2006 11:22 PM] David McAarthur: of times;
+[08/17/2006 11:22 PM] b.cullinan@cox.net: lol
+[08/17/2006 11:22 PM] David McAarthur: i love when i get in that mood
+[08/17/2006 11:22 PM] b.cullinan@cox.net: i just spent the whole day trying to make my script slq and regex safe
+[08/17/2006 11:22 PM] David McAarthur: mmm regex
+[08/17/2006 11:23 PM] David McAarthur: regex safe?
+[08/17/2006 11:23 PM] b.cullinan@cox.net: yeah one or the other is easy but i had to figure out both
+[08/17/2006 11:23 PM] b.cullinan@cox.net: yeah there are 11 characters that regex uses
+[08/17/2006 11:24 PM] b.cullinan@cox.net: [  .  $  ^  *  +  ?  (  )  \  |
+[08/17/2006 11:24 PM] b.cullinan@cox.net: then mysql is just the usual " ' \
+[08/17/2006 11:24 PM] b.cullinan@cox.net: all the others are special chars
+[08/17/2006 11:25 PM] David McAarthur: sounds kinda shady
+[08/17/2006 11:25 PM] b.cullinan@cox.net: what do you mean?
+[08/17/2006 11:25 PM] b.cullinan@cox.net: shady?
+[08/17/2006 11:25 PM] b.cullinan@cox.net: have you notices PHP doesn't quit in a loop?
+[08/17/2006 11:25 PM] b.cullinan@cox.net: *noticed
+[08/17/2006 11:25 PM] b.cullinan@cox.net: shady as in not very fail safe?
+[08/17/2006 11:25 PM] David McAarthur: yeah
+[08/17/2006 11:26 PM] b.cullinan@cox.net: its not
+[08/17/2006 11:26 PM] David McAarthur: are you doing that so you can put it in an sql insert or somethign?
+[08/17/2006 11:26 PM] b.cullinan@cox.net: yes, PHP will insert the filename into MYSQL, so therefor the characters have to be escaped so as not to interfere with mysql
+[08/17/2006 11:27 PM] b.cullinan@cox.net: the regex is only an expression used to find matches for a file, to avoid duplicates incase someone reloads the page
+[08/17/2006 11:27 PM] b.cullinan@cox.net: i'll have to show you sometime
+[08/17/2006 11:28 PM] b.cullinan@cox.net: but right now i am rebuilding the entire database
+[08/17/2006 11:28 PM] David McAarthur: you have a database for it now?
+[08/17/2006 11:29 PM] b.cullinan@cox.net: yes
+[08/17/2006 11:29 PM] b.cullinan@cox.net: its faster
+[08/17/2006 11:30 PM] b.cullinan@cox.net: and search functions work more smoothely
+[08/17/2006 11:30 PM] David McAarthur: ah
+[08/17/2006 11:30 PM] David McAarthur: sweet
+[08/17/2006 11:36 PM] b.cullinan@cox.net: yeah i am
+[08/17/2006 11:37 PM] David McAarthur: lol riiiight
+[08/17/2006 11:37 PM] David McAarthur: just wait till the math starts kicking your ass
+[08/17/2006 11:38 PM] b.cullinan@cox.net: math?
+[08/17/2006 11:38 PM] b.cullinan@cox.net: wtf?
+[08/17/2006 11:38 PM] David McAarthur: yeah i dunno
+[08/17/2006 11:38 PM] David McAarthur: long night
+[08/18/2006 12:03 AM] b.cullinan@cox.net: wow i just realized i didn't eat dinner
+[08/18/2006 12:03 AM] b.cullinan@cox.net: ever do that when programming?
+[08/18/2006 12:03 AM] David McAarthur: not really
+[08/18/2006 12:03 AM] David McAarthur: id probably lose weight that way
+[08/18/2006 12:03 AM] b.cullinan@cox.net: thinking about it makes me kind of hungry
+[08/18/2006 12:04 AM] b.cullinan@cox.net: i guess its a good thing i had a big lunch
+[08/18/2006 12:04 AM] b.cullinan@cox.net: yay its almost done cataloging my music
+Session Close (David McAarthur): Fri Aug 18 00:53:05 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Fri Aug 18 22:23:06 2006
+[08/18/2006 10:23 PM] b.cullinan@cox.net: omfg
+[08/18/2006 10:24 PM] b.cullinan@cox.net: go to my server and listen to Dragonforce
+[08/18/2006 10:25 PM] b.cullinan@cox.net: do you know how to use pptp networking for windows vpn clients?
+[08/18/2006 10:27 PM] b.cullinan@cox.net: how is apache so much faster on linux?
+Session Close (David McAarthur): Fri Aug 18 22:58:00 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Sat Aug 19 00:58:24 2006
+Session Close (David McAarthur): Sat Aug 19 01:00:44 2006
+
+
+Session Start (b.cullinan@cox.net:David McAarthur): Sat Aug 19 12:10:33 2006
+[08/19/2006 12:10 PM] b.cullinan@cox.net: hey i need your help
+Session Close (David McAarthur): Sat Aug 19 12:40:39 2006
+
+

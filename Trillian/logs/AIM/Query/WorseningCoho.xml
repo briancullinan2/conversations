@@ -1,0 +1,4 @@
+<session type="start" time="1229196753" medium="AIM" to="WorseningCoho" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1229196753" medium="AIM" to="bjcullinan" from="WorseningCoho" from_display="WorseningCoho" text="Hey%2E"/>
+<message type="outgoing_privateMessage" time="1229257395" medium="AIM" to="WorseningCoho" from="bjcullinan" from_display="Brian%20Cullinan" text="who%20is%20this%3F"/>
+<session type="stop" time="1229259272" medium="AIM" to="WorseningCoho" from="bjcullinan"/>

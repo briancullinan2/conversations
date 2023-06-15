@@ -1,0 +1,59 @@
+{
+    "thread": "/messaging/thread/6263423569238335488/",
+    "participants": [
+        {
+            "name": "Brent Stork",
+            "title": "President, Genesis Group Consulting Corp.",
+            "url": "linkedin.com/in/brent-stork-8354181",
+            "phone": "",
+            "email": "brent@genesisgroupcorp.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Brent Stork",
+            "time": "2017-04-27T14:58:00.000Z",
+            "message": "Hi Brian,\n\nI'm reaching out to developers in the Valley. Currently have a perm opening in Tempe, AZ. Company is looking for a Ruby on Rails Developer and/or .NET or willing to get up to speed in one of them to take lead on this project. \n\nLook forward to connecting.\n\nBrent\n303-594-1614\n"
+        },
+        {
+            "from": "Brent Stork",
+            "time": "2017-04-27T20:01:00.000Z",
+            "message": "Hi Brian- Great connecting on Linkedin. Would you be interested in chatting about this opportunity in Tempe?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-27T20:08:00.000Z",
+            "message": "I am so tired of working on other people's unexciting projects and bad code. What should I do?\n"
+        },
+        {
+            "from": "Brent Stork",
+            "time": "2017-04-28T12:04:00.000Z",
+            "message": "Work for this client I have in Tempe. They are mobile golf app company w/ GPS and instruction functionality. Close to 4 million users and it's state of the art. When would you have some time to chat today?\n\nBest,\n\nBrent Stork\n303-594-1614\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-28T14:15:00.000Z",
+            "message": "Golf is the most boring sport. Do the ever get the feeling there is too much software?\n"
+        },
+        {
+            "from": "Brent Stork",
+            "time": "2017-04-28T14:24:00.000Z",
+            "message": "Surprised you find it boring. Golf is a precision sport that takes great mental and physical skills and working at your craft to be excellent. Similar to creating exceptional software products! ;)\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-28T14:26:00.000Z",
+            "message": "That's exactly what my dad said.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-28T14:26:00.000Z",
+            "message": "And I read that part in a Malcolm gladwell book where he talks about how technical one's form must be.\n"
+        },
+        {
+            "from": "Brent Stork",
+            "time": "2017-04-28T14:28:00.000Z",
+            "message": "It's technical and artistic at the same time where you can be very creative in coming up w/ various shots and visualizing it. Best of both worlds! So you wanna write some Rails code for these guys in Tempe?\n"
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "thread": "https://www.facebook.com/messages/archived/t/jared.hrabak",
+    "participants": [
+        {
+            "name": "Jared Hrabak",
+            "description": "",
+            "url": "https://www.facebook.com/jared.hrabak"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Jared",
+            "time": "2011-07-05T15:53:00.000Z",
+            "message": "\nhey man I have a question for you?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-07-05T15:53:00.000Z",
+            "message": "Brian\nwhat's up?\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-07-05T15:53:00.000Z",
+            "message": "\ndo you remember the DC++ server that was set up?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-07-05T15:53:00.000Z",
+            "message": "Brian\nyes\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-07-05T15:53:00.000Z",
+            "message": "\nAny idea how to start one? What software to make the hub?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-07-05T15:53:00.000Z",
+            "message": "Brian\nhttp://www.google.com/search?q=DC%2B%2B+server&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-07-05T15:53:00.000Z",
+            "message": "\nthats what i thought, so i can set the server in that program? and restrict users/ips?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-07-05T15:53:00.000Z",
+            "message": "Brian\nyes\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-07-05T15:53:00.000Z",
+            "message": "\nawesome, thanks! How are you doing?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-07-05T15:53:00.000Z",
+            "message": "Brian\nI am good, have a good weekend?\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-07-05T15:53:00.000Z",
+            "message": "\nyes it was good. what are you doing for work?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-07-05T15:53:00.000Z",
+            "message": "Brian\nsoftware development for a company in phoenix\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-07-05T15:53:00.000Z",
+            "message": "\nthats awesome! what kind of software, if you dont mind me asking\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-07-05T18:08:00.000Z",
+            "message": "\ni found YnHub also. thanks\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-07-05T18:08:00.000Z",
+            "message": "Brian\noh yeah.  And I work for a medical device company EPIC diagnostics in Scottsdale\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-07-05T18:08:00.000Z",
+            "message": "\nthats awesome\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-07-05T18:08:00.000Z",
+            "message": "Brian\nwriting a webform for collecting data from clinical trials\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-07-05T18:08:00.000Z",
+            "message": "\nthats pretty nice\nyou like it?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-07-05T18:08:00.000Z",
+            "message": "Brian\nYeah, its fun.\nWhat have you been up to?\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-07-05T18:08:00.000Z",
+            "message": "\nmeh, not too much. im working for the gov doing IT stuff. im actually looking for a job in phx doing any IT.\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-12-28T20:48:00.000Z",
+            "message": "\nif i was going to start programming, what would you suggest starting with?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-28T20:48:00.000Z",
+            "message": "Brian\nPHP, Python, or C#\npick anyone then download a large open source project off of source forge and learn how they use it, while reading a book on the language.\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-12-28T20:48:00.000Z",
+            "message": "\nsweet. i was thinking about going back to school and possibly doing it. but im not sure.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-28T20:48:00.000Z",
+            "message": "Brian\nDepends on what you want to do with it.  Languages aren't that hard to learn, learning to use them effectively is what is most difficult.\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-12-28T20:48:00.000Z",
+            "message": "\nah ok. yea, i am interested in app development. integrating 2 products.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-28T20:48:00.000Z",
+            "message": "Brian\nlike mobile?  what do you mean \"app\"?\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-12-28T20:48:00.000Z",
+            "message": "\nmobile app.\nim not sure. i would enjoy the problem solving but then hate it at the same time. networking is fun...but...\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-28T20:48:00.000Z",
+            "message": "Brian\nAh.  Mobile apps are a bit of a different story.  Java and Python are your best bets.  But Android can run flash, javascript, and a variety of other languages.  Not sure what all the iPhone supports, but I know it's similar.  If you are doing that, you should find a platform development kit that can put your app on all mobile platforms.  Also, it would be unwise to seek out lots of profit, there isn't a whole lot of money in apps unless you have something completely original and incredibly useful.\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-12-28T20:48:00.000Z",
+            "message": "\ni have ideas, just no resouces to get there, and by the time i do, it could be to late. \nidk, member when we had DC++?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-28T20:48:00.000Z",
+            "message": "Brian\nhaha yeah.  DC++ is still around.\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-12-28T20:48:00.000Z",
+            "message": "\ni know, i figured out how to set up a server with some of my friends in phoenix, i hosted and people would connect in and we would share a little bit\nwhere are you working at?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-28T20:48:00.000Z",
+            "message": "Brian\nI am working for a medical device start-up in Scottsdale.  EPIC Research and Diagnostics.  http://www.epicdiagnostics.com/clearview\nClearView™ | Epic Research & Diagnostics\nThe ClearView™ Technology How it Works The EPIC ClearView measures electrical resistance of the skin by putting a fingertip in contact with a glass\nepicdiagnostics.com\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-12-28T20:48:00.000Z",
+            "message": "\nsweet!\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-28T20:48:00.000Z",
+            "message": "Brian\nYeah, I get to do all the programming and IT stuff I want.\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-12-28T20:48:00.000Z",
+            "message": "\nsweet, they need networking people?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2011-12-28T20:48:00.000Z",
+            "message": "Brian\nNope, just me.\n"
+        },
+        {
+            "from": "Jared",
+            "time": "2011-12-28T20:48:00.000Z",
+            "message": "\nhaha, awesome!\n\n"
+        }
+    ]
+}

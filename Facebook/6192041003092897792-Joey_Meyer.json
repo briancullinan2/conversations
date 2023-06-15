@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6192041003092897792/",
+    "participants": [
+        {
+            "name": "Joey Meyer",
+            "title": "Recruiting Director at Decton IT",
+            "url": "linkedin.com/in/joey-meyer-1970b317",
+            "phone": "480-686-5226 (Mobile)",
+            "email": "jmeyer@decton.it"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thanks for the connect!",
+            "time": "2016-10-12T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-10-05T18:53:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,569 @@
+[
+    {
+        "experience": [
+            "Highlights",
+            [
+                "9 Mutual Connections",
+                "You and Gopinath both know Susan Rohlman, Frank T. Mitchell, and 7 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Senior DevOps Engineer",
+                "Company Name",
+                "Wells Fargo, Charlotte, NC",
+                "Dates Employed",
+                "Mar 2015 – Present",
+                "Employment Duration",
+                "2 yrs 8 mos",
+                "Location",
+                "Charlotte, NC",
+                "•\tResponsible for day-to-day management of all Development, Test, Stage, and Production ser-vice/application infrastructure for various Java/J2EE based enterprise applications•\tCreated various ANT scripts to create multiple deployment profiles and deploy the applications to Apache Tomcat•\tCreated branches and managed the source code for various applications in SVN and GIT•\tCreated various scripts in Python and Ruby for automation of various build processes•\tExperience building large infrastructure for disaster recovery and multi data center strategy. •\tInvolved in Building data backup/recovery strategy and plans.  •\tCreated the ANT scripts to deploy the applications to Apache Tomcat and Weblogic Servers•\tSetup various Jenkins jobs for build and test automation•\tManaged the source control using version controlling tools like SVN and GIT•\tImplemented Infrastructure automation through Puppet, for auto provisioning, code deployments, software installation and configuration updates.  •\tWorking closely with Development Managers to fine tune the release process and provide feedback on process improvements.  •\tDevelop prototypes and evaluations of new infrastructure build in preparation to deployment. •\tDesigned testing framework to support REST based web services API, User Interface, and database code to be tested for regression as the code is deployed in each environment.  •\tGrew DevOps organization year-over-year both form numbers of applications supported and from culture and influencing the direction of the whole applications development teams. •\tKnowledge of agile development methodologies like Scrum, Sprints, Kanban model•\tBuild and manage large implementation of Cassandra, MySQL and Tomcat distributed across multiple datacenter with large data foot print.•\tExperience in troubleshooting application level issues to perform root cause analysis"
+            ],
+            [
+                "Senior DevOps Engineer",
+                "Company Name",
+                "Symantec Corporation",
+                "Dates Employed",
+                "Oct 2012 – Jan 2015",
+                "Employment Duration",
+                "2 yrs 4 mos",
+                "Location",
+                "Mountain View, CA",
+                "•\tInvolved in designing and documenting the deployment and migration process•\tActively involved in various production and lower level environment deployments•\tInvolved in creating and extending the existing ANT scripts for the deployment of the Java and Oracle SOA based composite applications•\tProvided configuration management expertise to all software development projects using Enterprise Chef•\tConfigured the Chef-Repo, Setup multiple Chef Work stations•\tInvolved in bootstrapping over 120+ Chef nodes of various environments•\tExtensively involved in writing the complex cookbooks, recipes, templates, attributes in Chef.•\tScheduled the node convergence using chef-client using Cron and Quartz schedulers•\tConfigured Jenkins jobs with the ANT scripts for various deployments of  JAVA/J2EE enterprise applications•\tDesigned and implemented scalable, secure cloud architecture based on Amazon Web Services.•\tSet up the scripts for creation of new snapshots and deletion of old snapshots in S3•\tWorked on setting up the life cycle policies to back the data from AWS S3 to AWS Glacier•\tWorked with Amazon IAM console to create custom users and groups•\tWorked with various AWS EC2 and S3 CLI tools•\tCreated various ANT scripts to create multiple deployment profiles and deploy the applications to Apache Tomcat•\tCreated branches and managed the source code for various applications in SVN and GIT•\tResponsible for design and maintenance of the Subversion/GIT, Stash Repositories, views, and the access control strategies."
+            ],
+            [
+                "DevOps Engineer",
+                "Company Name",
+                "Walmart",
+                "Dates Employed",
+                "Nov 2011 – Jun 2012",
+                "Employment Duration",
+                "8 mos",
+                "Location",
+                "Bentonville, AR",
+                "•\tDesigned and implemented scalable, secure cloud architecture based on Amazon Web Services. Leveraged AWS cloud services such as EC2; auto-scaling; and VPC (Virtual Private Cloud) to build secure, highly scalable and flexible systems that handled expected and unexpected load bursts, and are able to quickly evolve during development iterations. Implemented multiple high-performance MongoDB replica sets on EC2 with robust reliability.•\tDedicated to optimization, experienced DevOps Engineer understands the melding of operations and development to quickly deliver code to customers.•\tSending the Uptime and Downtime notifications to teams regarding Servers Status as a part of the Build Engineer role at the time of deploying the EAR and WAR package in WebSphere Admin Console.•\tParticipated in the release cycle of the product which involves environments like Development QA UAT and Production•\tRegular Build jobs are initiated using the Continuous Integration tool like Jenkins.•\tPublishing the Release notes for all the releases.•\tConfigured Jenkins for doing the build in all the non-production and production environments.•\tExperience with IT automation tools like Chef, Puppet.•\tWrote Ruby Scripts, Python Scripts, Perl Scripts, Shell Scripts to deploy the java based packages like ear and war on the WebLogic App server.•\tWorked extensively on CVS, Subversion as Version Control•\tUsed Remedy change management and bug tracking to track the issues in all pre prod and production environments."
+            ],
+            [
+                "Java Developer",
+                "Company Name",
+                "Allied Digital Services",
+                "Dates Employed",
+                "May 2009 – Jul 2011",
+                "Employment Duration",
+                "2 yrs 3 mos",
+                "Location",
+                "Hyderabad, India",
+                "•\tWorked on application named Access portal. It is a part of online banking that allows a customer to view quick summary of transactions and account details. It also shows mutual funds associated with account. •\tResponsible for configuring infrastructure solutions for J2EE applications around IBM WebSphere Application Server 6.0/5.1, IBM HTTP Server, IBM WebSphere Process Server v5.1, IBM •\tWebSphere Portal Server 5.1 and IBM MQSeries on Linux and Windows platforms using silent and console methods.•\tUpgraded and configured Clustering for WebSphere Application Server 6.0.•\tResponsible for providing Security for applications in the environments using External Security Manager like SiteMinder.•\tResponsible for configuring JDBC providers and data sources to support backend applications on DB2.•\tResponsible for troubleshooting the issues with the help of logs like Process logs, JVM logs.•\tTook active participation in deploying new applications on WebSphere Application •\tServer6.0/5.1.•\tGood experienced in Production Release process.•\tConfigured and set up Secure Socket Layers (SSL) for data encryption and client authentication.•\tWorked in various Software Development Life Cycle with rational unified process (rup)/AJILE.•\tResponsible for configuring Data Replication Services for session management on WebSphere Application Server.•\tResponsible for creating Realms from different kinds of repositories using Virtual Member •\tManager (VMM).•\tMonitored the performance of WebSphere Application Server using Wily Introscope.•\tAnalyzed the heap/thread dumps with Heap/Thread Dump Analyzer (Alpha Work) for resolving memory issues of   Application Server.•\tConfigured the tuning parameters like JVM heap size, Connection Pool Settings, Web Container threads, log sizes, caching for optimized Performa•\tnce of WebSphere Application Server."
+            ],
+            [
+                "Java Developer",
+                "Company Name",
+                "Rovi Corp",
+                "Dates Employed",
+                "Mar 2006 – Mar 2009",
+                "Employment Duration",
+                "3 yrs 1 mo",
+                "Location",
+                "Bangalore, India",
+                "•\tObject Oriented Analysis and Design for the system from use case and requirement documents using UML, Rational Rose.•\tInvolved in designing system architecture and identifying proper patterns and framework for the system.•\tParticipated in analysis activities, software design and design reviews with Sun Microsystems. •\tCommunicated with Business Owners to finalize Use Cases, Design documents and System Architecture documents.•\tDesigned EJB components using EJB design patterns. •\tUsed J2EE Design Patterns such as Session Facade, Business delegate, Factory, Request Helper, Command, Singleton, Value Objects and Data Access Object.•\tDesigned Presentation layer using MVC, Struts framework. Designed Action classes, Action forms and controller design.•\tDesigned wizard based Credit application module for the application. •\tThis module is the heart of the application and was a complex one.•\tCo-ordinate the user interface design with the separate group responsible for the HTML layout"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "JNTUH College of Engineering Hyderabad",
+                "Degree Name",
+                "Bachelor’s Degree",
+                "Field Of Study",
+                "Computer Science",
+                "Grade",
+                "A",
+                "Dates attended or expected graduation",
+                "2001 – 2005"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Member",
+                "Company Name",
+                "Earth Fare",
+                "Dates volunteered",
+                "Jan 2013 – Jan 2013",
+                "Volunteer duration",
+                "1 mo",
+                "Cause",
+                "Environment",
+                "We work for Saving Trees are as much important to our life as food and water. Life becomes very difficult without trees or we can say that life would be finished because trees are most important aspect of giving us healthy and wealthy"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Idexcel",
+                "33,547 followers"
+            ],
+            [
+                "Satya NadellaSatya Nadella is a LinkedIn Influencer",
+                "CEO at Microsoft",
+                "2,440,833 followers"
+            ],
+            [
+                "DevOps Hub",
+                "380 followers"
+            ],
+            [
+                "Bill GatesBill Gates is a LinkedIn Influencer",
+                "Co-chair, Bill & Melinda Gates Foundation",
+                "10,236,799 followers"
+            ],
+            [
+                "Richard BransonRichard Branson is a LinkedIn Influencer",
+                "Founder at Virgin Group",
+                "12,822,033 followers"
+            ],
+            [
+                "Judith Sherven, PhDJudith Sherven, PhD is a LinkedIn Influencer",
+                "Executive Coaching for the Brightest and Best",
+                "553,672 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Idexcel",
+                "33,547 followers"
+            ],
+            [
+                "Idexcel",
+                "33,547 followers"
+            ],
+            [
+                "Satya NadellaSatya Nadella is a LinkedIn Influencer",
+                "CEO at Microsoft",
+                "2,440,833 followers"
+            ],
+            [
+                "Satya NadellaSatya Nadella is a LinkedIn Influencer",
+                "CEO at Microsoft",
+                "2,440,833 followers"
+            ],
+            [
+                "Satya Nadella is a LinkedIn Influencer"
+            ],
+            [
+                "DevOps Hub",
+                "380 followers"
+            ],
+            [
+                "DevOps Hub",
+                "380 followers"
+            ],
+            [
+                "Bill GatesBill Gates is a LinkedIn Influencer",
+                "Co-chair, Bill & Melinda Gates Foundation",
+                "10,236,799 followers"
+            ],
+            [
+                "Bill GatesBill Gates is a LinkedIn Influencer",
+                "Co-chair, Bill & Melinda Gates Foundation",
+                "10,236,799 followers"
+            ],
+            [
+                "Bill Gates is a LinkedIn Influencer"
+            ],
+            [
+                "Richard BransonRichard Branson is a LinkedIn Influencer",
+                "Founder at Virgin Group",
+                "12,822,033 followers"
+            ],
+            [
+                "Richard BransonRichard Branson is a LinkedIn Influencer",
+                "Founder at Virgin Group",
+                "12,822,033 followers"
+            ],
+            [
+                "Richard Branson is a LinkedIn Influencer"
+            ],
+            [
+                "Judith Sherven, PhDJudith Sherven, PhD is a LinkedIn Influencer",
+                "Executive Coaching for the Brightest and Best",
+                "553,672 followers"
+            ],
+            [
+                "Judith Sherven, PhDJudith Sherven, PhD is a LinkedIn Influencer",
+                "Executive Coaching for the Brightest and Best",
+                "553,672 followers"
+            ],
+            [
+                "Judith Sherven, PhD is a LinkedIn Influencer"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Tomcat",
+                "See 22 endorsements for Tomcat",
+                "22",
+                "Tomcat",
+                "Endorse",
+                "Endorsed by 2 of Gopinath’s colleagues at Wells Fargo"
+            ],
+            [
+                "Tomcat",
+                "See 22 endorsements for Tomcat",
+                "22"
+            ],
+            [
+                "Agile Methodologies",
+                "See 21 endorsements for Agile Methodologies",
+                "21",
+                "Agile Methodologies",
+                "Endorse",
+                "Sai Spruceinfotech and 20 connections have given endorsements for this skill"
+            ],
+            [
+                "Agile Methodologies",
+                "See 21 endorsements for Agile Methodologies",
+                "21"
+            ],
+            [
+                "XML",
+                "See 20 endorsements for XML",
+                "20",
+                "XML",
+                "Endorse",
+                "Sai Spruceinfotech and 19 connections have given endorsements for this skill"
+            ],
+            [
+                "XML",
+                "See 20 endorsements for XML",
+                "20"
+            ],
+            [
+                "Java",
+                "See 20 endorsements for Java",
+                "20",
+                "Java",
+                "Endorse"
+            ],
+            [
+                "Java",
+                "See 20 endorsements for Java",
+                "20"
+            ],
+            [
+                "Java Enterprise Edition",
+                "See 15 endorsements for Java Enterprise Edition",
+                "15",
+                "Java Enterprise Edition",
+                "Endorse"
+            ],
+            [
+                "Java Enterprise Edition",
+                "See 15 endorsements for Java Enterprise Edition",
+                "15"
+            ],
+            [
+                "Software Development Life Cycle (SDLC)",
+                "See 13 endorsements for Software Development Life Cycle (SDLC)",
+                "13",
+                "Software Development Life Cycle (SDLC)",
+                "Endorse"
+            ],
+            [
+                "Software Development Life Cycle (SDLC)",
+                "See 13 endorsements for Software Development Life Cycle (SDLC)",
+                "13"
+            ],
+            [
+                "Maven",
+                "See 8 endorsements for Maven",
+                "8",
+                "Maven",
+                "Endorse"
+            ],
+            [
+                "Maven",
+                "See 8 endorsements for Maven",
+                "8"
+            ],
+            [
+                "Apache Ant",
+                "See 8 endorsements for Apache Ant",
+                "8",
+                "Apache Ant",
+                "Endorse"
+            ],
+            [
+                "Apache Ant",
+                "See 8 endorsements for Apache Ant",
+                "8"
+            ],
+            [
+                "JBoss Application Server",
+                "See 7 endorsements for JBoss Application Server",
+                "7",
+                "JBoss Application Server",
+                "Endorse"
+            ],
+            [
+                "JBoss Application Server",
+                "See 7 endorsements for JBoss Application Server",
+                "7"
+            ],
+            [
+                "Databases",
+                "See 6 endorsements for Databases",
+                "6",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 6 endorsements for Databases",
+                "6"
+            ],
+            [
+                "Oracle",
+                "See 6 endorsements for Oracle",
+                "6",
+                "Oracle",
+                "Endorse"
+            ],
+            [
+                "Oracle",
+                "See 6 endorsements for Oracle",
+                "6"
+            ],
+            [
+                "Representational State Transfer (REST)",
+                "See 5 endorsements for Representational State Transfer (REST)",
+                "5",
+                "Representational State Transfer (REST)",
+                "Endorse"
+            ],
+            [
+                "Representational State Transfer (REST)",
+                "See 5 endorsements for Representational State Transfer (REST)",
+                "5"
+            ],
+            [
+                "Software Development",
+                "See 5 endorsements for Software Development",
+                "5",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development",
+                "See 5 endorsements for Software Development",
+                "5"
+            ],
+            [
+                "Linux",
+                "See 4 endorsements for Linux",
+                "4",
+                "Linux",
+                "Endorse"
+            ],
+            [
+                "Linux",
+                "See 4 endorsements for Linux",
+                "4"
+            ],
+            [
+                "MySQL",
+                "See 2 endorsements for MySQL",
+                "2",
+                "MySQL",
+                "Endorse"
+            ],
+            [
+                "MySQL",
+                "See 2 endorsements for MySQL",
+                "2"
+            ],
+            [
+                "WebLogic",
+                "See 2 endorsements for WebLogic",
+                "2",
+                "WebLogic",
+                "Endorse"
+            ],
+            [
+                "WebLogic",
+                "See 2 endorsements for WebLogic",
+                "2"
+            ],
+            [
+                "SQL",
+                "See 1 endorsement for SQL",
+                "1",
+                "SQL",
+                "Endorse"
+            ],
+            [
+                "SQL",
+                "See 1 endorsement for SQL",
+                "1"
+            ],
+            [
+                "JIRA",
+                "JIRA",
+                "Endorse"
+            ],
+            [
+                "JIRA"
+            ],
+            [
+                "Subversion",
+                "Subversion",
+                "Endorse"
+            ],
+            [
+                "Subversion"
+            ],
+            [
+                "Scrum",
+                "Scrum",
+                "Endorse"
+            ],
+            [
+                "Scrum"
+            ],
+            [
+                "Perl",
+                "Perl",
+                "Endorse"
+            ],
+            [
+                "Perl"
+            ],
+            [
+                "Struts",
+                "Struts",
+                "Endorse"
+            ],
+            [
+                "Struts"
+            ],
+            [
+                "Java Database Connectivity (JDBC)",
+                "Java Database Connectivity (JDBC)",
+                "Endorse"
+            ],
+            [
+                "Java Database Connectivity (JDBC)"
+            ],
+            [
+                "Git",
+                "Git",
+                "Endorse"
+            ],
+            [
+                "Git"
+            ],
+            [
+                "Windows, Linux, Shell and Solaris",
+                "Windows, Linux, Shell and Solaris",
+                "Endorse"
+            ],
+            [
+                "Windows, Linux, Shell and Solaris"
+            ],
+            [
+                "Rational Clear Case, CVS, PVCS, Perforce and VSS",
+                "Rational Clear Case, CVS, PVCS, Perforce and VSS",
+                "Endorse"
+            ],
+            [
+                "Rational Clear Case, CVS, PVCS, Perforce and VSS"
+            ],
+            [
+                "Interactive Tools (Win Runner 8.0, Load Runner 7.6), QTP",
+                "Interactive Tools (Win Runner 8.0, Load Runner 7.6), QTP",
+                "Endorse"
+            ],
+            [
+                "Interactive Tools (Win Runner 8.0, Load Runner 7.6), QTP"
+            ],
+            [
+                "Rational Clear Quest, JIRA, Bugzilla, HP Quality Center and Test Director.",
+                "Rational Clear Quest, JIRA, Bugzilla, HP Quality Center and Test Director.",
+                "Endorse"
+            ],
+            [
+                "Rational Clear Quest, JIRA, Bugzilla, HP Quality Center and Test Director."
+            ],
+            [
+                "Perl , Python, Shell(bash), PowerShell Scripting, XML, XAML,UNIX",
+                "Perl , Python, Shell(bash), PowerShell Scripting, XML, XAML,UNIX",
+                "Endorse"
+            ],
+            [
+                "Perl , Python, Shell(bash), PowerShell Scripting, XML, XAML,UNIX"
+            ],
+            [
+                "Java (JDK 1.3.1, JSDK 2.0), Servlets, JSP, XML, and JDBC.",
+                "Java (JDK 1.3.1, JSDK 2.0), Servlets, JSP, XML, and JDBC.",
+                "Endorse"
+            ],
+            [
+                "Java (JDK 1.3.1, JSDK 2.0), Servlets, JSP, XML, and JDBC."
+            ],
+            [
+                "Apache Tomcat, WebLogic 10x/8x, WebSphere 6x/5x and Tibco (middleware).",
+                "Apache Tomcat, WebLogic 10x/8x, WebSphere 6x/5x and Tibco (middleware).",
+                "Endorse"
+            ],
+            [
+                "Apache Tomcat, WebLogic 10x/8x, WebSphere 6x/5x and Tibco (middleware)."
+            ],
+            [
+                "MS-SQL Server, Oracle 9i, Siebel systems, DB2, PL/SQL, RDBMS and MS Access.",
+                "MS-SQL Server, Oracle 9i, Siebel systems, DB2, PL/SQL, RDBMS and MS Access.",
+                "Endorse"
+            ],
+            [
+                "MS-SQL Server, Oracle 9i, Siebel systems, DB2, PL/SQL, RDBMS and MS Access."
+            ],
+            [
+                "Team Server Foundation, Team Build, Install Shield, SharePoint",
+                "Team Server Foundation, Team Build, Install Shield, SharePoint",
+                "Endorse"
+            ],
+            [
+                "Team Server Foundation, Team Build, Install Shield, SharePoint"
+            ]
+        ],
+        "summary": "    •\tOverall 9 years of experience in IT industry which includes 5+ years of experience in experience as a Build and Release Engineer in automating, building, deploying, and releasing of code from one environment to other environment.and 4 years of experience in  Java, J2EE Technologies •\tExperience in working on version control systems like Subversion, and GIT and used Source code management client tools like Visual SVN, Tortoise SVN, CVS, Perforce and GIT.•\tExtensive experience using MAVEN and ANT as build tools for the building of deployable artifacts (jar, war & ear) from source code.•\tExtensively worked on Hudson, Jenkins, Bamboo and Anthill Pro for continuous integration (CI) and for End to End automation for all build and deployments.•\tExperience working AWS•\tIn-depth understanding of the principles and best practices of Software Configuration Management (SCM) in Agile and SCRUM methodologies.•\tStrong knowledge on source controller concepts like merge, Branches and Tags.•\tExcellent Knowledge of Application Lifecycle Management, Change & Release Management and ITIL process.•\tAbility in managing all aspects of the software configuration management process including code compilation, packaging / deployment / release methodology, and application configurations.•\tBuild Knowledge in STB development & testing.•\tAbility in execution of XML, Ant Scripts, Shell Scripts, Perl Scripts, Power Shell scripts and JAVA Scripts.•\tExperience in Deploying JBoss, Apache Tomcat web server, IIS Server, Oracle web logic, and IBM Web sphere.•\tHandled more than 300 servers in all the environments for deployments and configuration.•\tExperience in using Bug tracking tools like JIRA, Remedy, HP Quality Center and IBM ClearQuest.•\tProficient in tracing complex build problems, release issues and environment issues in a multi-component Environment expertise in trouble.\n  \n  \n",
+        "name": "Gopinath Narayan",
+        "title": "Senior DevOps Engineer at Wells Fargo, Charlotte, NC",
+        "url": "linkedin.com/in/gopinath-narayan-3b9856127",
+        "phone": null,
+        "email": "gopi85narayan@gmail.com"
+    }
+]

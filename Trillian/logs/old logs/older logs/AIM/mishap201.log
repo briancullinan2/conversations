@@ -1,0 +1,435 @@
+﻿Session Start (BrianJCullinan:Andrew): Fri Aug 12 09:24:43 2005
+[08/12/2005 09:24 AM] Me: andrew go turn my computer on i need something off of it
+[08/12/2005 09:24 AM] *** Auto-response from Andrew: yeah man, that's groovy... jive turkey!
+[08/12/2005 09:25 AM] Andrew: aight
+[08/12/2005 09:25 AM] Me: my new one
+[08/12/2005 09:25 AM] Me: thanks man
+[08/12/2005 09:25 AM] Andrew: is that the new one or the old one 
+[08/12/2005 09:25 AM] Andrew: nevermind 
+[08/12/2005 09:29 AM] Me: oh yeah check to see if the blue wire is still plugged into that too, dad might have moved it
+[08/12/2005 09:29 AM] Andrew: it's still in there 
+[08/12/2005 09:29 AM] Me: nvm its fine
+[08/12/2005 09:29 AM] Me: thanks
+[08/12/2005 09:30 AM] Me: oh shit
+[08/12/2005 09:30 AM] Me: i forgot to copy over an important file
+[08/12/2005 09:30 AM] Andrew: ...
+[08/12/2005 09:30 AM] Me: if i give you the file name could you copy it to the new hard drive
+[08/12/2005 09:30 AM] Me: ?
+[08/12/2005 09:30 AM] Andrew: possibly 
+[08/12/2005 09:31 AM] Andrew: is your new one hooked up to your monitor and everything 
+[08/12/2005 09:31 AM] Me: yeah just turn on the monitor and it should come up otherwise push the switch button
+[08/12/2005 09:32 AM] Me: ok
+ My Computer/E/Program Files/Apache Group/Apache/users users is the file name its at the bottom of the folder
+[08/12/2005 09:32 AM] Me: copy that to the same location but on the c drive
+[08/12/2005 09:34 AM] Me: are we good?
+[08/12/2005 09:34 AM] Me: cool thanks
+[08/12/2005 09:34 AM] Andrew: just that one file 
+[08/12/2005 09:34 AM] Me: yup
+[08/12/2005 09:34 AM] Andrew: sweet
+[08/12/2005 09:35 AM] Me: thanks man
+[08/12/2005 09:35 AM] Andrew: np:)
+Session Close (Andrew): Fri Aug 12 09:43:27 2005
+
+
+Session Start (BrianJCullinan:Andrew): Fri Aug 12 09:59:23 2005
+[08/12/2005 09:59 AM] Me: i need you to do me another favor
+[08/12/2005 09:59 AM] Andrew: yeah?
+[08/12/2005 09:59 AM] Me: i need to use remote desktop
+[08/12/2005 10:00 AM] Andrew: yeah...
+[08/12/2005 10:00 AM] Me: to enable it right click my computer click the Remote tab and check "Allow users to connect to this computer"
+[08/12/2005 10:01 AM] Me: then go to (Link: http://192.168.0.1/)http://192.168.0.1/
+ user: admin
+ pass: schooner
+[08/12/2005 10:02 AM] Me: click the Advanced Tab, this will show a list of all the different ports being used, in the list find "RemoteDesktop" and click the little notepad on the right of it
+[08/12/2005 10:03 AM] Andrew: what does the notepad do?
+[08/12/2005 10:03 AM] Me: back up at the top where you edit the info for that item, it will say 192.168.0.106 change the 106 to 109
+[08/12/2005 10:03 AM] Me: allows you to edit it
+[08/12/2005 10:04 AM] Me: it should be the same number as BrianServer
+[08/12/2005 10:04 AM] Me: its either 109 or 110 check
+[08/12/2005 10:04 AM] Me: then click save once you change that number
+[08/12/2005 10:04 AM] Andrew: it comes up with an option of both 
+[08/12/2005 10:04 AM] Andrew: 109 and 110 
+[08/12/2005 10:05 AM] Me: uhhh
+[08/12/2005 10:05 AM] Me: what does it say next to BriansServer
+[08/12/2005 10:05 AM] Me: it should be one or the other
+[08/12/2005 10:07 AM] Me: you can open the internet browser on your computer, you don't have to do this part on mine
+[08/12/2005 10:07 AM] Andrew: i did 
+[08/12/2005 10:07 AM] Me: ok
+[08/12/2005 10:07 AM] Andrew: is it working?
+[08/12/2005 10:08 AM] Me: yeah
+[08/12/2005 10:08 AM] Me: thanks again
+[08/12/2005 10:08 AM] Andrew: aight
+Session Close (Andrew): Fri Aug 12 10:11:55 2005
+
+
+Session Start (BrianJCullinan:Andrew): Sat Aug 13 09:52:07 2005
+[08/13/2005 09:52 AM] Me: will you go turn on my computer again?  is dad in there working on chases
+[08/13/2005 09:52 AM] Me: ?
+[08/13/2005 09:53 AM] Andrew: i don't know 
+[08/13/2005 09:54 AM] Me: hmm did you turn it on?
+[08/13/2005 09:54 AM] Andrew: chase is going 
+[08/13/2005 09:57 AM] Me: hmm i am having some trouble getting on, is it booted up yet?
+[08/13/2005 09:57 AM] Me: it should be already
+[08/13/2005 09:57 AM] Me: there it goes nvm
+[08/13/2005 09:59 AM] Me: YES!
+[08/13/2005 09:59 AM] Me: finally i fixed my problem
+[08/13/2005 10:00 AM] Me: give dad this message and tell him to remember it
+[08/13/2005 10:00 AM] Andrew: alright
+[08/13/2005 10:00 AM] Me: When icons do not display in the taskbar it can be solved by hiding UpnP devices or turning off the feature entirely
+Session Close (Andrew): Sat Aug 13 10:03:47 2005
+
+
+Session Start (BrianJCullinan:Andrew): Sat Aug 13 10:16:29 2005
+[08/13/2005 10:16 AM] Me: hey dude
+[08/13/2005 10:16 AM] Me: get chase to do this so i don't bother you so much
+[08/13/2005 10:16 AM] Andrew: groovy baby
+[08/13/2005 10:16 AM] Me: lol
+[08/13/2005 10:16 AM] Andrew: heh
+[08/13/2005 10:16 AM] Andrew: what do you need
+[08/13/2005 10:16 AM] Me: tell chase to go put the macromedia install disk in my computer
+[08/13/2005 10:17 AM] Me: i just want to get some of this stuff done
+[08/13/2005 10:17 AM] Me: and i have more for him to do too
+[08/13/2005 10:17 AM] Me: what is he doing by the way?  playing his game?
+[08/13/2005 10:17 AM] Andrew: watching you type 
+[08/13/2005 10:17 AM] Me: i have to restart
+[08/13/2005 10:17 AM] Andrew: does he have to log onto brian before he does this?
+[08/13/2005 10:17 AM] Me: no
+[08/13/2005 10:18 AM] Me: after it restarts just put that sucker in
+[08/13/2005 10:18 AM] Andrew: wheres the disk 
+[08/13/2005 10:18 AM] Me: i'll do it from remote desktop
+[08/13/2005 10:18 AM] Me: left bottom side of where i keep all my Cds
+[08/13/2005 10:18 AM] Me: black box
+[08/13/2005 10:20 AM] Me: takes a while for my computer to boot
+[08/13/2005 10:20 AM] Andrew: hes doing that all now 
+[08/13/2005 10:22 AM] Me: ok cool
+[08/13/2005 10:25 AM] Me: hmmm if froze
+[08/13/2005 10:26 AM] Me: strange
+[08/13/2005 10:26 AM] Me: is it still on?
+[08/13/2005 10:27 AM] Me: are you getting this message?
+[08/13/2005 10:27 AM] Andrew: yeah we reset the computer
+[08/13/2005 10:28 AM] Me: y?
+[08/13/2005 10:28 AM] Andrew: bcuz it said to
+[08/13/2005 10:28 AM] Andrew: its all good
+[08/13/2005 10:28 AM] Me: it said to reset it or shut it down?
+[08/13/2005 10:28 AM] Andrew: it had a bluye screen that said to reset 
+[08/13/2005 10:28 AM] Andrew: its all good now 
+[08/13/2005 10:29 AM] Me: usually that's not a good sign
+[08/13/2005 10:29 AM] Me: did that screen say anything else?
+[08/13/2005 10:29 AM] Andrew: no
+[08/13/2005 10:29 AM] Andrew: its good now 
+[08/13/2005 10:29 AM] Andrew: it started up fine 
+[08/13/2005 10:30 AM] Me: ok g2g
+[08/13/2005 10:30 AM] Me: well now i can't connect
+[08/13/2005 10:30 AM] Me: go ahead and shut it down i'll continue when i get home
+Session Close (Andrew): Sat Aug 13 10:30:26 2005
+
+
+Session Start (BrianJCullinan:Andrew): Sat Aug 13 10:30:39 2005
+[08/13/2005 10:30 AM] Andrew: where are you now 
+[08/13/2005 10:31 AM] Me: i am still in wyoming
+[08/13/2005 10:31 AM] Me: so it won't be until wednesday when i get home
+[08/13/2005 10:31 AM] Me: i just wanted to get some of these installations done before then
+[08/13/2005 10:32 AM] Me: g2g now
+[08/13/2005 10:32 AM] Me: bye
+[08/13/2005 10:32 AM] Andrew: bye
+Session Close (Andrew): Sat Aug 13 10:32:11 2005
+
+
+Session Start (BrianJCullinan:Andrew): Sat Aug 13 14:15:01 2005
+[08/13/2005 02:15 PM] Me: why is he bugging you?
+[08/13/2005 02:15 PM] Andrew: who chase?
+[08/13/2005 02:15 PM] Andrew: because he always does
+[08/13/2005 02:15 PM] Me: oh
+[08/13/2005 02:15 PM] Me: that sucks
+[08/13/2005 02:16 PM] Me: i think it froze again
+[08/13/2005 02:16 PM] Andrew: ...
+[08/13/2005 02:16 PM] Me: something is definitely not right
+[08/13/2005 02:17 PM] Me: uh oh
+[08/13/2005 02:17 PM] Me: ....
+[08/13/2005 02:17 PM] Andrew: what do want me to do?
+[08/13/2005 02:17 PM] Me: is it frozen?
+[08/13/2005 02:17 PM] Me: did it reset?
+[08/13/2005 02:17 PM] Me: blue screen again?
+[08/13/2005 02:18 PM] Andrew: no 
+[08/13/2005 02:18 PM] Andrew: it's frozen on the screensaver
+[08/13/2005 02:18 PM] Me: ....
+[08/13/2005 02:18 PM] Andrew: and didn't reset yet 
+[08/13/2005 02:18 PM] Me: yeah its dead
+[08/13/2005 02:18 PM] Me: reset it
+[08/13/2005 02:19 PM] Me: take that cd out and put in a DVD
+[08/13/2005 02:19 PM] Me: blank one from the spool on the left
+[08/13/2005 02:21 PM] Me: so?
+[08/13/2005 02:21 PM] Andrew: um 
+[08/13/2005 02:21 PM] Andrew: do you want a dvd from the unopened case
+[08/13/2005 02:21 PM] Andrew: on your desk
+[08/13/2005 02:21 PM] Me: no the open one is fine
+[08/13/2005 02:21 PM] Me: they are the same
+[08/13/2005 02:22 PM] Andrew: i don't see an unopened one 
+[08/13/2005 02:22 PM] Me: oh
+[08/13/2005 02:22 PM] Me: oops i took it with me
+[08/13/2005 02:22 PM] Me: yeah the unopen case
+[08/13/2005 02:24 PM] Andrew: alright
+[08/13/2005 02:25 PM] Me: thanks guys that'll do
+[08/13/2005 02:27 PM] Me: note to self don't install macromedia across remote desktop
+[08/13/2005 02:33 PM] Me: first dvd is done use the sharpie in the top left drawer and write Friday After Next on it
+[08/13/2005 02:33 PM] Andrew: "Friday After Next" ?
+[08/13/2005 02:33 PM] Me: yes
+[08/13/2005 02:34 PM] Me: then put in another blank
+[08/13/2005 02:34 PM] Me: then watch that movie on the playstation and tell me how it is
+[08/13/2005 02:36 PM] Andrew: um 
+[08/13/2005 02:36 PM] Andrew: alright 
+[08/13/2005 02:37 PM] Me: lol you don't really have to watch it
+[08/13/2005 02:37 PM] Me: this next one you will want to watch though
+[08/13/2005 02:37 PM] Me: meet the fockers is next
+[08/13/2005 02:37 PM] Me: brb in like 10
+[08/13/2005 02:37 PM] Andrew: heh
+[08/13/2005 02:37 PM] Me: i'll tell you when it is done
+[08/13/2005 02:54 PM] Me: ok that one is done
+[08/13/2005 02:54 PM] Me: Meet The Fockers
+[08/13/2005 02:55 PM] Andrew: where do you want me to put the finished ones 
+[08/13/2005 02:55 PM] Me: in a black case and just next to the blank dvds
+[08/13/2005 02:55 PM] Me: its probably a good idea if you watch one of them to make sure they are burning ok
+[08/13/2005 02:57 PM] Andrew: yeah 
+[08/13/2005 02:57 PM] Andrew: we just tried one of them 
+[08/13/2005 02:58 PM] Me: is it good?
+[08/13/2005 02:58 PM] Andrew: yeah 
+[08/13/2005 02:58 PM] Andrew: it's fine from what i can ytell 
+[08/13/2005 02:59 PM] Me: no skipping?
+[08/13/2005 02:59 PM] Me: that's what would be bad if anything
+[08/13/2005 02:59 PM] Me: there would be skipping
+[08/13/2005 02:59 PM] Andrew: not that i can tell 
+[08/13/2005 02:59 PM] Me: good stuff
+[08/13/2005 02:59 PM] Me: this burning is way fast then the old one
+[08/13/2005 02:59 PM] Me: you are putting the blank dvds in the top one right?
+[08/13/2005 03:00 PM] Me: i wonder if i could burn 2 at once lol
+[08/13/2005 03:00 PM] Andrew: `heh
+[08/13/2005 03:07 PM] Me: Minority Report is finished
+[08/13/2005 03:07 PM] Andrew: aight
+[08/13/2005 03:08 PM] Andrew: you want me to try two?
+[08/13/2005 03:10 PM] Me: no
+[08/13/2005 03:10 PM] Me: that's ok
+[08/13/2005 03:10 PM] Andrew: i just put one 
+[08/13/2005 03:10 PM] Andrew: in 
+[08/13/2005 03:10 PM] Me: ok
+[08/13/2005 03:10 PM] Me: thanks
+[08/13/2005 03:23 PM] Me: National Treasure is finished
+[08/13/2005 03:23 PM] *** Auto-response from Andrew: Bummer...
+Session Close (Andrew): Sat Aug 13 15:30:47 2005
+
+
+Session Start (BrianJCullinan:Andrew): Sat Aug 13 16:43:01 2005
+[08/13/2005 04:43 PM] Me: Oceans Eleven is finished
+[08/13/2005 04:43 PM] *** Auto-response from Andrew: Bummer...
+Session Close (Andrew): Sat Aug 13 16:44:36 2005
+
+
+Session Start (BrianJCullinan:Andrew): Sat Aug 13 16:55:05 2005
+[08/13/2005 04:55 PM] Me: crap i ruined it, i forgot to change the disc i was burning, i need a new blank one
+[08/13/2005 04:55 PM] *** Auto-response from Andrew: Bummer...
+[08/13/2005 04:57 PM] Me: you are labeling these right?
+[08/13/2005 04:57 PM] Andrew: yeah 
+[08/13/2005 04:58 PM] Me: ok you can throw that last one away
+[08/13/2005 04:58 PM] Me: thanks
+Session Close (Andrew): Sat Aug 13 17:02:06 2005
+
+
+Session Start (BrianJCullinan:Andrew): Sat Aug 13 17:05:56 2005
+[08/13/2005 05:06 PM] Me: ok "LOTR Fellowship Bonus" is done
+[08/13/2005 05:17 PM] Me: Harry Potter Sorcerers Stone is finished
+Session Close (Andrew): Sat Aug 13 17:22:28 2005
+
+
+Session Start (BrianJCullinan:Andrew): Sat Aug 13 17:38:33 2005
+[08/13/2005 05:38 PM] Me: Harry Potter Sorcerers Stone Bonus
+[08/13/2005 05:38 PM] Me: is done
+[08/13/2005 05:44 PM] Me: i need a blank
+[08/13/2005 05:44 PM] Me: .
+[08/13/2005 05:44 PM] Me: .
+[08/13/2005 05:44 PM] Me: .
+[08/13/2005 05:44 PM] Me: .
+[08/13/2005 05:44 PM] Me: .
+[08/13/2005 05:44 PM] Me: .
+[08/13/2005 05:44 PM] Andrew: k
+[08/13/2005 05:44 PM] Me: k
+Session Close (Andrew): Sat Aug 13 17:46:57 2005
+
+
+Session Start (BrianJCullinan:Andrew): Sat Aug 13 19:24:57 2005
+[08/13/2005 07:25 PM] Me: Harry Potter Prisoner of Azkaban is finished i need a new one
+[08/13/2005 07:25 PM] *** Auto-response from Andrew: maybe 
+
+Session Close (Andrew): Sat Aug 13 19:27:01 2005
+
+
+Session Start (BrianJCullinan:Andrew): Sat Aug 13 20:43:29 2005
+[08/13/2005 08:43 PM] Me: did you change it?
+[08/13/2005 08:43 PM] *** Auto-response from Andrew: maybe 
+
+[08/13/2005 08:46 PM] Andrew: yeah 
+[08/13/2005 08:46 PM] *** Auto-response sent to Andrew: I am currently away from the computer.
+[08/13/2005 08:46 PM] Andrew: a while ago 
+[08/13/2005 08:46 PM] Me: it isn't showing up
+[08/13/2005 08:47 PM] Me: it needs to be changed again
+[08/13/2005 08:47 PM] Andrew: what movie did you burn last 
+[08/13/2005 08:47 PM] Me: the one that is in there is Harry Potter Prisoner of Azkaban Bonus
+[08/13/2005 08:49 PM] Me: ok thanks
+[08/13/2005 08:54 PM] Me: this will do it for the night thanks]
+[08/13/2005 08:54 PM] *** Auto-response from Andrew: dessert 
+
+[08/13/2005 08:54 PM] Me: we will pick it up again tomorrow sometime
+[08/13/2005 09:24 PM] Me: Start Wars Phantom Menace Bonus is finished
+Session Close (Andrew): Sat Aug 13 21:30:32 2005
+
+
+Session Start (BrianJCullinan:Andrew): Sun Aug 14 21:07:49 2005
+[08/14/2005 09:07 PM] Me: did you label that last DVD?
+[08/14/2005 09:08 PM] Andrew: which dvd?
+[08/14/2005 09:08 PM] Me: Phantom Menace
+[08/14/2005 09:08 PM] Me: from last night
+[08/14/2005 09:08 PM] Andrew: i think so 
+[08/14/2005 09:08 PM] Andrew: hold on 
+[08/14/2005 09:09 PM] Me: he ahead and turn it on i have to get music off of it
+[08/14/2005 09:09 PM] Andrew: um 
+[08/14/2005 09:10 PM] Andrew: i got to phantom menace bonus stuff 
+[08/14/2005 09:10 PM] Andrew: that's the last one 
+[08/14/2005 09:10 PM] Me: ok cool
+[08/14/2005 09:11 PM] Me: did you turn it on?
+[08/14/2005 09:11 PM] Andrew: yeah im going 
+[08/14/2005 09:13 PM] Me: go ahead an pop another blank DVD in there
+[08/14/2005 09:14 PM] Andrew: pop in another g?
+[08/14/2005 09:14 PM] Me: si senor
+[08/14/2005 09:14 PM] Andrew: im shooting up right now 
+[08/14/2005 09:14 PM] Andrew: leave mmeh a-lone 
+[08/14/2005 09:14 PM] Me: i saw the earth spoogem today
+[08/14/2005 09:14 PM] Me: old faithful did it again
+[08/14/2005 09:15 PM] Andrew: meh 
+[08/14/2005 09:15 PM] Andrew: errections are t.eh un-lose
+[08/14/2005 09:16 PM] Me: lol
+[08/14/2005 09:16 PM] Me: is this andrew or chase?
+[08/14/2005 09:16 PM] Andrew: me 
+[08/14/2005 09:16 PM] Andrew: everyone 
+[08/14/2005 09:16 PM] Me: gosh you are strange
+[08/14/2005 09:16 PM] Me: who is everyone?
+[08/14/2005 09:17 PM] Andrew: everyone is watching you in your underpants 
+[08/14/2005 09:17 PM] Andrew: from outside your tv monitor 
+[08/14/2005 09:17 PM] Me: cool
+[08/14/2005 09:17 PM] Me: go put in a blank DVD
+[08/14/2005 09:18 PM] Me: or i will have my robot kill you
+[08/14/2005 09:18 PM] Andrew: aight nigger face 
+[08/14/2005 09:18 PM] Me: good job
+[08/14/2005 09:26 PM] Me: the phantom menace is done
+[08/14/2005 09:26 PM] *** Auto-response from Andrew: Bummer...
+Session Close (Andrew): Sun Aug 14 21:36:26 2005
+
+
+Session Start (BrianJCullinan:Andrew): Mon Aug 15 09:36:51 2005
+[08/15/2005 09:36 AM] *** NOTE: This user is offline.  Your messages will most likely *not* be received!
+Session Close (Andrew): Mon Aug 15 09:36:54 2005
+
+
+Session Start (BrianJCullinan:Andrew): Sun Aug 21 20:59:32 2005
+[08/21/2005 08:59 PM] Me: turn on my computer
+[08/21/2005 08:59 PM] Me: please lolomgkthnx bye
+[08/21/2005 09:00 PM] Me: did you?
+[08/21/2005 09:00 PM] Andrew: plz k thx bye
+[08/21/2005 09:00 PM] Me: plzkthnxbye
+[08/21/2005 09:00 PM] *** You have been disconnected. Sun Aug 21 21:00:45 2005.
+Session Close (Andrew): Sun Aug 21 21:01:13 2005
+
+
+Session Start (BrianJCullinan:Andrew): Mon Aug 22 17:07:57 2005
+[08/22/2005 05:08 PM] Me: turn on my server
+[08/22/2005 05:08 PM] *** Auto-response from Andrew: grrrr... some people make me very angry 
+Session Close (Andrew): Mon Aug 22 17:08:06 2005
+
+
+Session Start (BrianJCullinan:Andrew McVey): Sat Nov 12 20:22:00 2005
+[11/12/2005 08:22 PM] Andrew McVey: ah im going to kill myself!!!!
+[11/12/2005 08:23 PM] Me: y?
+[11/12/2005 08:23 PM] *** Auto-response from Andrew McVey: If you are what you eat, then I'm fast, cheap and easy. 
+ 
+ 
+ 
+I Love Kristin
+Session Close (Andrew McVey): Sat Nov 12 20:36:45 2005
+
+
+Session Start (BrianJCullinan:Andrew McVey): Sat Dec 24 17:57:46 2005
+[12/24/2005 05:57 PM] Andrew McVey: lucky 
+[12/24/2005 05:57 PM] Andrew McVey: no church for you
+[12/24/2005 06:31 PM] Me: hahahhaa
+[12/24/2005 06:31 PM] *** Auto-response from Andrew McVey: righteous
+Session Close (Andrew McVey): Sat Dec 24 18:57:50 2005
+
+
+Session Start (BrianJCullinan:Andrew McVey): Sun Dec 25 19:26:57 2005
+[12/25/2005 07:26 PM] Andrew McVey: yo
+[12/25/2005 07:30 PM] Andrew McVey: dudeladuded 
+[12/25/2005 08:32 PM] *** "Andrew McVey" signed off at Sun Dec 25 20:32:08 2005.
+[12/25/2005 09:11 PM] *** "Andrew McVey" signed on at Sun Dec 25 21:11:51 2005.
+Session Close (Andrew McVey): Sun Dec 25 22:23:34 2005
+
+
+Session Start (BrianJCullinan:Andrew McVey): Sat Aug 05 23:47:39 2006
+[08/05/2006 11:47 PM] Me: hi
+[08/05/2006 11:48 PM] Andrew McVey: sup
+[08/05/2006 11:48 PM] Me: i downloaded a jesse cook album
+[08/05/2006 11:48 PM] Andrew McVey: yeah 
+[08/05/2006 11:48 PM] Me: will you check to see if my computer reset itself?
+[08/05/2006 11:48 PM] Andrew McVey: is it some pretty good stuff
+[08/05/2006 11:48 PM] Andrew McVey: k
+[08/05/2006 11:48 PM] Me: yes Gravity is the album with Mario Takes A Walk
+[08/05/2006 11:49 PM] Andrew McVey: is your computer su[pposed to be at the login screen?
+[08/05/2006 11:49 PM] Me: yes
+[08/05/2006 11:50 PM] Me: is it?
+[08/05/2006 11:50 PM] Andrew McVey: it says thje system has recovered from a serious error
+[08/05/2006 11:50 PM] Me: shit
+[08/05/2006 11:51 PM] Andrew McVey: and its just on the desktop
+[08/05/2006 11:51 PM] Me: god forbid it tell me what that error is
+[08/05/2006 11:51 PM] Me: yeah i can get in now
+[08/05/2006 11:52 PM] Me: it won't stay working for more then a day at a time
+[08/05/2006 11:54 PM] Me: is must be the flash, i am browsing the allofmp3.com site inside remote desktop so i can download songs to my server
+[08/05/2006 11:54 PM] Me: and it is freezing up on me
+[08/05/2006 11:57 PM] Me: anyways you can copy over that music or use my server interface
+[08/05/2006 11:58 PM] Andrew McVey: k
+Session Close (Andrew McVey): Sun Aug 06 00:06:24 2006
+
+
+Session Start (BrianJCullinan:Andrew McVey): Sun Aug 06 12:37:47 2006
+[08/06/2006 12:37 PM] Me: are you up?
+[08/06/2006 12:38 PM] Andrew McVey: ....
+[08/06/2006 12:38 PM] Me: for some reason my server is running incredibly slow
+[08/06/2006 12:38 PM] Me: are you having problems with the internet there?
+[08/06/2006 12:38 PM] Andrew McVey: um... not more than usual
+[08/06/2006 12:38 PM] Me: or are you copying stuff off of it?
+[08/06/2006 12:38 PM] Andrew McVey: im not doing anything with it right now 
+[08/06/2006 12:39 PM] Me: hmm, will you go in and restart it from the login screen, it will ask you if you want to kick anyone off, go ahead and click yes
+[08/06/2006 12:46 PM] Me: thanks
+[08/06/2006 12:47 PM] Andrew McVey: np : /
+[08/06/2006 12:47 PM] Me: it seems like it just keeps getting worse and worse no matter what i do
+[08/06/2006 12:47 PM] Andrew McVey: ....maybe it is 
+[08/06/2006 12:47 PM] Andrew McVey: heh
+[08/06/2006 12:47 PM] Me: i am installing linux
+[08/06/2006 12:47 PM] Me: fuck windows
+[08/06/2006 12:47 PM] Andrew McVey: ...lawlz!
+Session Close (Andrew McVey): Sun Aug 06 13:29:44 2006
+
+
+Session Start (BrianJCullinan:Andrew McVey): Sun Aug 06 22:38:15 2006
+[08/06/2006 10:38 PM] Me: i need you to restart my computer again
+[08/06/2006 10:39 PM] Me: you there?
+[08/06/2006 10:51 PM] Me: nvm
+Session Close (Andrew McVey): Sun Aug 06 22:51:01 2006
+
+
+Session Start (BrianJCullinan:Andrew McVey): Sun Aug 06 23:22:24 2006
+[08/06/2006 11:22 PM] Me: i got the new chicago album
+[08/06/2006 11:22 PM] Me: its pretty hot
+Session Close (Andrew McVey): Sun Aug 06 23:32:04 2006
+
+
+Session Start (BrianJCullinan:Andrew McVey): Fri Aug 11 15:15:48 2006
+[08/11/2006 03:15 PM] Andrew McVey: (Link: http://www.tshirthell.com/store/product.php?productid=401)http://www.tshirthell.com/store/product.php?productid=401
+Session Close (Andrew McVey): Fri Aug 11 15:44:09 2006
+
+

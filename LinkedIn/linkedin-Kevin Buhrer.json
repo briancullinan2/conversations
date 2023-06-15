@@ -1,0 +1,665 @@
+[
+    {
+        "experience": [
+            "Highlights",
+            [
+                "4 Mutual Connections",
+                "You and Kevin both know Dieter Otte, Chuck McGuire, and 2 others"
+            ],
+            [
+                "You both studied at Northern Arizona University",
+                "You both studied at Northern Arizona University from 2005 to 2006"
+            ],
+            [
+                "Show more",
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Senior Software Engineer",
+                "Company Name",
+                "KPMG US",
+                "Dates Employed",
+                "Nov 2011 – Present",
+                "Employment Duration",
+                "6 yrs",
+                "Location",
+                "Denver, CO",
+                "I am a member of the Experience Design and Engineering team concentrating on user interfaces and user experience (UI/UX), workflow and process enhancement, and enterprise transformation.I primarily focus on building Visualizations (D3, Monte.js) and Web-based applications in the SPA (single page application) style of modern web applications primarily using Angular 2 and Vue.js.I typically serve as the lead developer and provide technical decision making support to technical leads and project leads. Responsibilities vary by project, but have included: framework, library, and tooling selections; project architecture; source control management (branching using GitFlow approach, approval of Pull Requests); standards setting / coding conventions; and mentoring junior developers.Secondary roles include recruiting, mentoring, education program curating for junior developers, designing UIs and visualizations.Some of those applications include:* corporate management dashboard;* regulatory insights and data visualizations;* mobile app for a bank (FirstBank); * marketing tools, one for enterprise marketing professionals and a self-serve tool for SMBs to edit and deploy online ads and campaigns;* advanced real estate research application that provides property details, homeowner information, and mortgage insight;* tool for software project graphical design and review; and* Halo Waypoint gaming portal, for Halo 4 an Xbox platform leading game.Some of the advanced components of those applications include:* Linked multiview data exploration;* Custom graphing and charting solutions using Canvas and SVG (D3.js and KineticJS); * Custom drag and drop workflow editors for sophisticated targeted marketing tools; and* Custom WYSIWYG HTML editor from scratch for online advertising customers.Current technologies / tooling:ES6, Babel, Angular 2, Vue.js, D3, Monte, Tape, Bootstrap, SCSS/CSS, npm, Grunt, ESLint, Git, Atlassian suite (JIRA, Confluence, Stash/BitBucket)"
+            ],
+            [
+                "Software Consultant",
+                "Company Name",
+                "Cynergy, The Experience Agency",
+                "Dates Employed",
+                "Nov 2011 – Mar 2014",
+                "Employment Duration",
+                "2 yrs 5 mos",
+                "Location",
+                "Tempe, AZ",
+                "KPMG US acquired Cynergy in March 2014 to form the Digital and Mobile Solutions (now named Experience Design and Engineering) group. See KPMG listing for details covering Cynergy projects that continued under KPMG.Primary technologiesJavaScript: Angular 1, Angular Material, Backbone, Marionette, Cordova.NET: C# 4, WPF, ASP.NET MVC4, EF [Entity] Code First and Model First"
+            ],
+            [
+                "Senior Software Engineer",
+                "Company Name",
+                "General Dynamics C4 Systems",
+                "Dates Employed",
+                "Jun 2006 – Nov 2011",
+                "Employment Duration",
+                "5 yrs 6 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "Served in a variety of roles that supported development of Rescue21 (the search and rescue system for the US Coast Guard), development of our internal tools, and continual process improvement. Participated in all stages of software and system development: analysis, requirements, design, implementation, and testing.TASKS / ROLES:* Desktop applications* Build automation* Specialized developer tools* Specialized process integration tools* Web development* Mobile application development (Secondary Role)SOFTWARE DEVELOPMENT TECHNOLOGIES:* Desktop / Service Development   + Perl   + C# / WPF, .NET Framework   + WCF    + Java   + Ruby (Secondary Task)   + Managed C++ (Secondary Task)* Web Development   + Java   + XML, XSLT   + HTML   + CSS   + JavaScript / AJAX* Mobile Development   + Android   + iOS / Objective-C (Secondary Task)TOOLS and PROCESS INTEGRATION:* IBM Rational ClearCase (version control)* IBM Rational ClearQuest (ticketing system)* SmartBear Code Collaborator (code review system)"
+            ],
+            [
+                "Officer Candidate",
+                "Company Name",
+                "US Army",
+                "Dates Employed",
+                "Jul 2008 – Jun 2009",
+                "Employment Duration",
+                "1 yr",
+                "Location",
+                "Ft. Benning, GA",
+                "I was an Officer Candidate for the US Army until I was honorably and medically discharged as a Disabled War Veteran."
+            ],
+            [
+                "Technology Support, Student Worker",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "2003 – 2006",
+                "Employment Duration",
+                "3 yrs",
+                "Location",
+                "Flagstaff, AZ",
+                "Supported campus System Administrators with Windows administration, scripting, computer imaging, and other tasks as assigned.Provided technical support to students."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Harvard University",
+                "Degree Name",
+                "Professional Graduate Certificate",
+                "Field Of Study",
+                "Data Science",
+                "Grade",
+                "A-",
+                "Dates attended or expected graduation",
+                "2014 – 2016",
+                "Provided online by the Harvard Extension School.See: http://www.extension.harvard.edu/professional-certificates/data-science-certificateFrom link:Key facets of data investigation, including data wrangling, cleaning, sampling, management, exploratory analysis, regression and classification, prediction, and data communication. Fundamental concepts of data computation, such as data structure, algorithms, parallel computing, simulation, and analysis.Focused subject areas, such as game theory, statistical quality control, exponential smoothing, seasonally adjusted trend analysis, or data visualization.Courses taken (4 credits each):* Introduction to Quantitative Methods for Economics and Other Quantitative Fields (STAT 104)* Intermediate Statistics: Methods and Modeling (STAT 150)* Data Science (CSCI 109)* Visualizations (CSCI 171)The Visualizations final project was a runner up for best project out of 63 very strong teams: http://www.cs171.org/2016/fame/"
+            ],
+            [
+                "Harvard University",
+                "Degree Name",
+                "Professional Graduate Certificate",
+                "Field Of Study",
+                "Data Science",
+                "Grade",
+                "A-",
+                "Dates attended or expected graduation",
+                "2014 – 2016",
+                "Provided online by the Harvard Extension School.See: http://www.extension.harvard.edu/professional-certificates/data-science-certificateFrom link:Key facets of data investigation, including data wrangling, cleaning, sampling, management, exploratory analysis, regression and classification, prediction, and data communication. Fundamental concepts of data computation, such as data structure, algorithms, parallel computing, simulation, and analysis.Focused subject areas, such as game theory, statistical quality control, exponential smoothing, seasonally adjusted trend analysis, or data visualization.Courses taken (4 credits each):* Introduction to Quantitative Methods for Economics and Other Quantitative Fields (STAT 104)* Intermediate Statistics: Methods and Modeling (STAT 150)* Data Science (CSCI 109)* Visualizations (CSCI 171)The Visualizations final project was a runner up for best project out of 63 very strong teams: http://www.cs171.org/2016/fame/"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "MSE",
+                "Field Of Study",
+                "Engineering Science (Software Engineering)",
+                "Dates attended or expected graduation",
+                "2010 – 2013",
+                "Activities and Societies:",
+                "IEEE, IEEE-CS",
+                "Overview:The program provides the knowledge and skills needed to work as a software engineer or software task leader on both large and small projects using either agile methodologies or formal CMMi approaches. The program addresses major software development methodologies, techniques, tools and processes for both developing and managing software projects. (Overview description taken from: http://asuonline.asu.edu/degree-programs/graduate/master-science-engineering-engineering-science-concentration-software)Applied Project: Control for remote time lapse camera operationsThe project was a multi-tiered project featuring a web application layer, a RESTful web service layer, and a microcontroller layer that ran a minimalist RESTful interface. The various technologies in the project include:  HTML5, CSS3, Angular JS, Bootstrap, jQuery, LESS, and custom canvas controls, ASP.NET MVC4, SQL Server DB, Entity Framework Code First approach. The microcontroller used was an Arduino Uno."
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "MSE",
+                "Field Of Study",
+                "Engineering Science (Software Engineering)",
+                "Dates attended or expected graduation",
+                "2010 – 2013",
+                "Activities and Societies:",
+                "IEEE, IEEE-CS",
+                "Overview:The program provides the knowledge and skills needed to work as a software engineer or software task leader on both large and small projects using either agile methodologies or formal CMMi approaches. The program addresses major software development methodologies, techniques, tools and processes for both developing and managing software projects. (Overview description taken from: http://asuonline.asu.edu/degree-programs/graduate/master-science-engineering-engineering-science-concentration-software)Applied Project: Control for remote time lapse camera operationsThe project was a multi-tiered project featuring a web application layer, a RESTful web service layer, and a microcontroller layer that ran a minimalist RESTful interface. The various technologies in the project include:  HTML5, CSS3, Angular JS, Bootstrap, jQuery, LESS, and custom canvas controls, ASP.NET MVC4, SQL Server DB, Entity Framework Code First approach. The microcontroller used was an Arduino Uno."
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2002 – 2006",
+                "Activities and Societies:",
+                "Sigma Phi Epsilon (Philanthropy Coordinator, Vice President of Communications), Interfraternity Council (President, Representative to the Panhellenic Council), Order of Omega, NAU Leadership Series (2003-2006)",
+                "Mathematics MinorCapstone Project: Network Intrusion Detection using Data MiningDeveloped a custom technique (clustering method) to process 30+ fields of data comprised of both numeric and categorical data."
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2002 – 2006",
+                "Activities and Societies:",
+                "Sigma Phi Epsilon (Philanthropy Coordinator, Vice President of Communications), Interfraternity Council (President, Representative to the Panhellenic Council), Order of Omega, NAU Leadership Series (2003-2006)",
+                "Mathematics MinorCapstone Project: Network Intrusion Detection using Data MiningDeveloped a custom technique (clustering method) to process 30+ fields of data comprised of both numeric and categorical data."
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "jQuery",
+                "68,452 members"
+            ],
+            [
+                ".NET Developers",
+                "426,503 members"
+            ],
+            [
+                "Harvard University",
+                "651,589 followers"
+            ],
+            [
+                "Arizona State University",
+                "420,527 followers"
+            ],
+            [
+                "Arizona State University",
+                "386,180 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,827 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (275)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "jQuery",
+                "68,452 members"
+            ],
+            [
+                "jQuery",
+                "68,452 members"
+            ],
+            [
+                ".NET Developers",
+                "426,503 members"
+            ],
+            [
+                ".NET Developers",
+                "426,503 members"
+            ],
+            [
+                "Harvard University",
+                "651,589 followers"
+            ],
+            [
+                "Harvard University",
+                "651,589 followers"
+            ],
+            [
+                "Arizona State University",
+                "420,527 followers"
+            ],
+            [
+                "Arizona State University",
+                "420,527 followers"
+            ],
+            [
+                "Arizona State University",
+                "386,180 followers"
+            ],
+            [
+                "Arizona State University",
+                "386,180 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,827 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,827 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "CJ Bolton",
+                "Sr System Engineer at General Dynamics C4 Systems",
+                "June 15, 2011, Kevin worked with CJ in the same group",
+                "I have worked with Kevin on several detail oriented projects for almost 4 years. Kevin is a take-charge person who is able to present creative ideas and communicate the benefits. He has successfully developed several software tools for our project that have resulted in increased execution and efficiency of our product. He is also a pleasure to work with and never back downs from any new challenge that presents itself."
+            ],
+            [
+                "CJ Bolton",
+                "Sr System Engineer at General Dynamics C4 Systems",
+                "June 15, 2011, Kevin worked with CJ in the same group"
+            ],
+            [
+                "CJ Bolton",
+                "Sr System Engineer at General Dynamics C4 Systems",
+                "June 15, 2011, Kevin worked with CJ in the same group"
+            ],
+            [
+                "CJ Bolton",
+                "Sr System Engineer at General Dynamics C4 Systems",
+                "June 15, 2011, Kevin worked with CJ in the same group"
+            ],
+            "Sr System Engineer at General Dynamics C4 Systems",
+            [
+                "I have worked with Kevin on several detail oriented projects for almost 4 years. Kevin is a take-charge person who is able to present creative ideas and communicate the benefits. He has successfully developed several software tools for our project that have resulted in increased execution and efficiency of our product. He is also a pleasure to work with and never back downs from any new challenge that presents itself."
+            ],
+            [
+                "I have worked with Kevin on several detail oriented projects for almost 4 years. Kevin is a take-charge person who is able to present creative ideas and communicate the benefits. He has successfully developed several software tools for our project that have resulted in increased execution and efficiency of our product. He is also a pleasure to work with and never back downs from any new challenge that presents itself."
+            ],
+            [
+                "Michael Cianciarulo",
+                "Software Engineer 2 at Microsoft",
+                "June 11, 2011, Michael worked with Kevin in the same group",
+                "Michael is a detail-oriented, self starter that seeks continual process improvement. He challenges his team to improve their skill-sets to further improve the support his team offers."
+            ],
+            [
+                "Michael Cianciarulo",
+                "Software Engineer 2 at Microsoft",
+                "June 11, 2011, Michael worked with Kevin in the same group"
+            ],
+            [
+                "Michael Cianciarulo",
+                "Software Engineer 2 at Microsoft",
+                "June 11, 2011, Michael worked with Kevin in the same group"
+            ],
+            [
+                "Michael Cianciarulo",
+                "Software Engineer 2 at Microsoft",
+                "June 11, 2011, Michael worked with Kevin in the same group"
+            ],
+            "Software Engineer 2 at Microsoft",
+            [
+                "Michael is a detail-oriented, self starter that seeks continual process improvement. He challenges his team to improve their skill-sets to further improve the support his team offers."
+            ],
+            [
+                "Michael is a detail-oriented, self starter that seeks continual process improvement. He challenges his team to improve their skill-sets to further improve the support his team offers."
+            ]
+        ],
+        "skills": [
+            [
+                "Software Development",
+                "See 10 endorsements for Software Development",
+                "10",
+                "Software Development",
+                "Endorse",
+                "Endorsed by 5 of Kevin’s colleagues at KPMG US"
+            ],
+            [
+                "Software Development",
+                "See 10 endorsements for Software Development",
+                "10"
+            ],
+            [
+                "JavaScript",
+                "See 9 endorsements for JavaScript",
+                "9",
+                "JavaScript",
+                "Endorse",
+                "Endorsed by Derrick Boden, who is highly skilled at this",
+                "Endorsed by 4 of Kevin’s colleagues at KPMG US"
+            ],
+            [
+                "JavaScript",
+                "See 9 endorsements for JavaScript",
+                "9"
+            ],
+            [
+                "D3.js",
+                "D3.js",
+                "Endorse",
+                "Be the first to endorse Kevin for this skill"
+            ],
+            [
+                "D3.js"
+            ],
+            [
+                "AngularJS",
+                "AngularJS",
+                "Endorse"
+            ],
+            [
+                "AngularJS"
+            ],
+            [
+                "HTML 5",
+                "HTML 5",
+                "Endorse"
+            ],
+            [
+                "HTML 5"
+            ],
+            [
+                "Web Applications",
+                "See 2 endorsements for Web Applications",
+                "2",
+                "Web Applications",
+                "Endorse"
+            ],
+            [
+                "Web Applications",
+                "See 2 endorsements for Web Applications",
+                "2"
+            ],
+            [
+                "jQuery",
+                "See 7 endorsements for jQuery",
+                "7",
+                "jQuery",
+                "Endorse"
+            ],
+            [
+                "jQuery",
+                "See 7 endorsements for jQuery",
+                "7"
+            ],
+            [
+                "C#",
+                "See 11 endorsements for C#",
+                "11",
+                "C#",
+                "Endorse"
+            ],
+            [
+                "C#",
+                "See 11 endorsements for C#",
+                "11"
+            ],
+            [
+                "Java",
+                "See 6 endorsements for Java",
+                "6",
+                "Java",
+                "Endorse"
+            ],
+            [
+                "Java",
+                "See 6 endorsements for Java",
+                "6"
+            ],
+            [
+                "Agile Methodologies",
+                "See 8 endorsements for Agile Methodologies",
+                "8",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 8 endorsements for Agile Methodologies",
+                "8"
+            ],
+            [
+                "Software Engineering",
+                "Software Engineering",
+                "Endorse"
+            ],
+            [
+                "Software Engineering"
+            ],
+            [
+                "WPF",
+                "See 2 endorsements for WPF",
+                "2",
+                "WPF",
+                "Endorse"
+            ],
+            [
+                "WPF",
+                "See 2 endorsements for WPF",
+                "2"
+            ],
+            [
+                ".NET",
+                "See 3 endorsements for .NET",
+                "3",
+                ".NET",
+                "Endorse"
+            ],
+            [
+                ".NET",
+                "See 3 endorsements for .NET",
+                "3"
+            ],
+            [
+                "Mobile Applications",
+                "See 2 endorsements for Mobile Applications",
+                "2",
+                "Mobile Applications",
+                "Endorse"
+            ],
+            [
+                "Mobile Applications",
+                "See 2 endorsements for Mobile Applications",
+                "2"
+            ],
+            [
+                "XML",
+                "See 3 endorsements for XML",
+                "3",
+                "XML",
+                "Endorse"
+            ],
+            [
+                "XML",
+                "See 3 endorsements for XML",
+                "3"
+            ],
+            [
+                "Perl",
+                "See 1 endorsement for Perl",
+                "1",
+                "Perl",
+                "Endorse"
+            ],
+            [
+                "Perl",
+                "See 1 endorsement for Perl",
+                "1"
+            ],
+            [
+                "Web Services",
+                "See 1 endorsement for Web Services",
+                "1",
+                "Web Services",
+                "Endorse"
+            ],
+            [
+                "Web Services",
+                "See 1 endorsement for Web Services",
+                "1"
+            ],
+            [
+                "Visual Studio",
+                "See 1 endorsement for Visual Studio",
+                "1",
+                "Visual Studio",
+                "Endorse"
+            ],
+            [
+                "Visual Studio",
+                "See 1 endorsement for Visual Studio",
+                "1"
+            ],
+            [
+                "jQuery UI",
+                "jQuery UI",
+                "Endorse"
+            ],
+            [
+                "jQuery UI"
+            ],
+            [
+                "CSS3",
+                "CSS3",
+                "Endorse"
+            ],
+            [
+                "CSS3"
+            ],
+            [
+                "Backbone.js",
+                "Backbone.js",
+                "Endorse"
+            ],
+            [
+                "Backbone.js"
+            ],
+            [
+                "XSLT",
+                "XSLT",
+                "Endorse"
+            ],
+            [
+                "XSLT"
+            ],
+            [
+                "Git",
+                "Git",
+                "Endorse"
+            ],
+            [
+                "Git"
+            ],
+            [
+                "WCF",
+                "WCF",
+                "Endorse"
+            ],
+            [
+                "WCF"
+            ],
+            [
+                "Table Tennis",
+                "See 1 endorsement for Table Tennis",
+                "1",
+                "Table Tennis",
+                "Endorse"
+            ],
+            [
+                "Table Tennis",
+                "See 1 endorsement for Table Tennis",
+                "1"
+            ],
+            [
+                "REST",
+                "REST",
+                "Endorse"
+            ],
+            [
+                "REST"
+            ],
+            [
+                "AJAX",
+                "AJAX",
+                "Endorse"
+            ],
+            [
+                "AJAX"
+            ],
+            [
+                "HTML",
+                "HTML",
+                "Endorse"
+            ],
+            [
+                "HTML"
+            ],
+            [
+                "Web Development",
+                "Web Development",
+                "Endorse"
+            ],
+            [
+                "Web Development"
+            ],
+            [
+                "SDLC",
+                "SDLC",
+                "Endorse"
+            ],
+            [
+                "SDLC"
+            ],
+            [
+                "Node.js",
+                "Node.js",
+                "Endorse"
+            ],
+            [
+                "Node.js"
+            ],
+            [
+                "Cascading Style Sheets (CSS)",
+                "Cascading Style Sheets (CSS)",
+                "Endorse"
+            ],
+            [
+                "Cascading Style Sheets (CSS)"
+            ],
+            [
+                "HTML5",
+                "HTML5",
+                "Endorse"
+            ],
+            [
+                "HTML5"
+            ],
+            [
+                "Representational State Transfer (REST)",
+                "Representational State Transfer (REST)",
+                "Endorse"
+            ],
+            [
+                "Representational State Transfer (REST)"
+            ],
+            [
+                "Monte.js",
+                "Monte.js",
+                "Endorse"
+            ],
+            [
+                "Monte.js"
+            ]
+        ],
+        "summary": "    The world has complex problems and a lot of data. We can solve problems faster when aided by software and data visualized in meaningful ways. I do my part by writing great software, creating advanced visualizations, and implementing solutions in a user-centric manner.I thrive when writing tools that improve processes and workflows for organizations; helping transform the way analysts, researchers, executives, and everyone in between accomplish their work. To that end I am currently spending most of my time developing advanced web applications with compelling data visualizations written in D3.While I am a versatile developer that is comfortable wearing many hats, I am focused on growing into a leader and visualization expert. I avoid labels such as \"fullstack\"​ or \"frontend\" that pigeon hole my roles and instead favor open-ended titles and tackling the tasks at hand.I have written services; designed and implemented software build automation and verification systems; and defined software development processes and built accompanying tooling to support, encourage, as well as enforce process adherence. I prefer to be technology agnostic picking the best tool for the job though web clients have been my focus as of late.I am interested in human centric computing, data visualization, clean/green technologies, and cloud computing. The challenge of hard problems, agile teams, and cutting edge technology are my idea of a good time.In my personal time I have various projects including running Ubuntu-based OpenStack IaaS systems; Raspberry Pi controlled time-lapse photography machines; Arduinos and DIY electronics; home automation and IoT; and NHL Statistics. Just to name a few.\n  \n  \n",
+        "name": "Kevin Buhrer",
+        "title": "Senior Software Engineer",
+        "url": "linkedin.com/in/kevinbuhrer",
+        "phone": "928-380-2781 (Mobile)",
+        "email": "kevin.buhrer@gmail.com"
+    }
+]

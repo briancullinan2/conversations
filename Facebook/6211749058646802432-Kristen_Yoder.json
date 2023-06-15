@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6211749058646802432/",
+    "participants": [
+        {
+            "name": "Kristen Yoder",
+            "title": "Cannabis Industry Expert | VP of Education at Kalogia | Devils Advocate For Hire",
+            "url": "linkedin.com/in/thatkristenyoder",
+            "phone": null,
+            "email": "kristen@liv-consulting.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-06T03:53:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "What does a cannabis expert do?\n",
+            "time": "2017-12-06T15:06:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Congrats on the new job!\n",
+            "time": "2018-01-28T17:44:00.000Z"
+        }
+    ]
+}

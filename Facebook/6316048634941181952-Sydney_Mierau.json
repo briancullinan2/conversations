@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6316048634941181952/",
+    "participants": [
+        {
+            "name": "Sydney Mierau",
+            "title": "Graduate of Arizona State University",
+            "url": "linkedin.com/in/sydney-mierau-b0a038118",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Sydney Mierau",
+            "message": "Sr. .Net Programmer Analyst Opportunity in Tempe!\nsmierau@apexsystemsinc.com",
+            "time": "2017-09-19T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Sounds fun!  What company?",
+            "time": "2017-10-12T23:51:00.000Z"
+        },
+        {
+            "from": "Sydney Mierau",
+            "message": "This position is with American Airlines and is a yearly contract (it's looking to last around 2-3 years)! If you'd like, I can give you a call and we can go over the details for the position, see if you are interested.",
+            "time": "2017-10-12T23:57:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Sorry, no contracts. I don't want to manager to think I am not a part of the team.",
+            "time": "2017-09-20T14:03:00.000Z"
+        }
+    ]
+}

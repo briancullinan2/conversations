@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6185134066153644032/",
+    "participants": [
+        {
+            "name": "Jeremy Roberts",
+            "title": "VP, Customer Experience at HiringSolved",
+            "url": "linkedin.com/in/jeremyroberts",
+            "phone": null,
+            "email": "linkedin@jeremyrobertstx.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Hello!\nI am a fan on Lou Adler.  As I look for jobs to apply for, I am seeing a lot of problems getting stuck in the HR Blackhole.  You company looks like you are on to something with hiring.  I have 2 questions that I believe can lead to the perfect candidates for every position:\n1: \"What is your ambition or hobbies outside of work\"\n2: \"Do you have any questions about our company\"\nI believing having this simple conversation can lead to the right answers from a candidate.  Staffing takes way too long, and I look forward to hearing back from you.  If you have a need for an experienced software developer, I would love to meet for lunch.  Thank you!",
+            "time": "2016-09-23T12:00:00.000Z"
+        },
+        {
+            "from": "Jeremy Roberts",
+            "message": "Can you send a resume and I can forward it to our AZ team? \nJeremy@hiringsolved.com",
+            "time": "2017-10-04T22:25:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Absolutely.  Thank you for the connect!",
+            "time": "2017-10-04T22:25:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Just in case you didn't see the email, I got an auto-reply.",
+            "time": "2017-10-04T22:25:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Happy birthday!",
+            "time": "2017-10-04T20:09:00.000Z"
+        }
+    ]
+}

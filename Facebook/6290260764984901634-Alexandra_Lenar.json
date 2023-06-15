@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6290260764984901634/",
+    "participants": [
+        {
+            "name": "Alexandra Lenar",
+            "title": "IT Account Manager at Apex Systems",
+            "url": "linkedin.com/in/alexandralenar",
+            "phone": "6162955085 (Home)",
+            "email": "alenar@apexsystemsinc.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Alexandra Lenar",
+            "time": "2017-07-10T12:00:00.000Z",
+            "message": "Software Engineer Openings - Let's network?\n\nHi Brian, \n\nI wanted to reach out and see if you're interested in new roles? I have a few opportunities for Senior Software Developers for my clients in the Phoenix area that I wanted to see would be of interest to you. More importantly, I want to learn about what you're doing in your current role and what you look for in your next endeavor so that Apex can be an advocate for you and new opportunities! \n\nIf you could, please give me a call at 480-368-2480 to discuss further. \n\nThanks, \nAlex\n\nAlexandra Lenar\n480-368-2480 | alenar@apexsystemsinc.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-10T19:39:00.000Z",
+            "message": "What roles?\n"
+        },
+        {
+            "from": "Alexandra Lenar",
+            "time": "2017-07-10T20:51:00.000Z",
+            "message": "Thank you for your response! Since there are several different positions, it might be easier to discuss over the phone. Are you available this afternoon or evening?\n"
+        }
+    ]
+}

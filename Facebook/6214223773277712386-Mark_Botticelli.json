@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6214223773277712386/",
+    "participants": [
+        {
+            "name": "Mark Botticelli",
+            "title": "Executive Vice President and CTO at PeopleNet",
+            "url": "linkedin.com/in/mbotticelli",
+            "phone": null,
+            "email": "mbotticelli@peoplenetonline.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-12T23:46:00.000Z"
+        }
+    ]
+}

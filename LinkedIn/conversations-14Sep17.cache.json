@@ -1,0 +1,29 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "14Sep17",
+    "participants": "Brian Cullinan | wizard > Gail Barnes, PMP® , CSM, MBA | Program Manager, American Express",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Gail Barnes, PMP® , CSM, MBA",
+        "url": "linkedin.com/in/gail-barnes-pmp®-csm-mba-2987a11",
+        "email": "gbarne08@yahoo.com",
+        "title": "Program Manager, American Express"
+      }
+    ],
+    "message": "Hey! Tons of new information coming soon!\n\n\n- Brian Cullinan",
+    "time": "2017-09-14T23:42:00.000Z",
+    "title": "wizard"
+  }
+]

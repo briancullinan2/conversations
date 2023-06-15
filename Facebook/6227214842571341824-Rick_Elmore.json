@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6227214842571341824/",
+    "participants": [
+        {
+            "name": "Rick Elmore",
+            "title": "Territory Sales Manager - Arizona",
+            "url": "linkedin.com/in/rick-elmore-96b91230",
+            "phone": null,
+            "email": "rickelmore44@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-17T20:08:00.000Z"
+        }
+    ]
+}

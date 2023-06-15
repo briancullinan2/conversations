@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6226957901370585088/",
+    "participants": [
+        {
+            "name": "Chris Lattner",
+            "title": "Director of Engineering at Google",
+            "url": "linkedin.com/in/chris-lattner-5664498a",
+            "phone": null,
+            "email": "sabre+linkedin@nondot.org"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-17T03:07:00.000Z"
+        }
+    ]
+}

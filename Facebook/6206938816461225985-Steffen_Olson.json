@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6206938816461225985/",
+    "participants": [
+        {
+            "name": "Steffen Olson",
+            "title": "Web Developer at Northern Arizona University",
+            "url": "linkedin.com/in/steffen-olson-0b681272",
+            "phone": null,
+            "email": "so72@nau.edu"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "You must be a genius. Do you want more work?\n",
+            "time": "2017-11-22T21:18:00.000Z"
+        }
+    ]
+}

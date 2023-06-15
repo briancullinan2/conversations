@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6214209465139421184/",
+    "participants": [
+        {
+            "name": "John Paul Mains",
+            "title": "Data Driven E-Commerce and Digital Marketer",
+            "url": "linkedin.com/in/johnpaulmains",
+            "phone": null,
+            "email": "johnpaul@clicklaboratory.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-12T22:49:00.000Z"
+        }
+    ]
+}

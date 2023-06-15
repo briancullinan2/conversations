@@ -1,0 +1,14 @@
+<session type="start" time="1103242700" medium="AIM" to="Console" from="FrooFel" location="status"/>
+<message type="information_standard" time="1103242700" medium="AIM" from="FrooFel" location="status" text="Creating%20connection%20%22FrooFel%22"/>
+<message type="information_standard" time="1103242701" medium="AIM" from="FrooFel" location="status" text="Error%20logging%20into%20AIM%3A%20Unknown%20code%2017%2E"/>
+<session type="stop" time="1103243514" medium="AIM" to="Console" from="FrooFel" location="status"/>
+<message type="information_standard" time="1103243514" medium="AIM" from="FrooFel" location="status" text="Disconnected%2E"/>
+<session type="start" time="1103337968" medium="AIM" to="Console" from="FrooFel" location="status"/>
+<message type="information_standard" time="1103337969" medium="AIM" from="FrooFel" location="status" text="Creating%20connection%20%22FrooFel%22"/>
+<message type="information_standard" time="1103337969" medium="AIM" from="FrooFel" location="status" text="Error%20logging%20into%20AIM%3A%20Unknown%20code%2017%2E"/>
+<message type="information_standard" time="1103337995" medium="AIM" from="FrooFel" location="status" text="Reconnecting%20to%20AIM%20as%20%22FrooFel%22%2E"/>
+<message type="information_standard" time="1103337995" medium="AIM" from="FrooFel" location="status" text="Will%20attempt%2010%20connections%20with%2060%20second%20intervals%2E"/>
+<message type="information_standard" time="1103337995" medium="AIM" from="FrooFel" location="status" text="Connecting%20to%20AIM%20as%20%22FrooFel%22%2C%20attempt%20%231%2E"/>
+<message type="information_standard" time="1103337996" medium="AIM" from="FrooFel" location="status" text="Error%20logging%20into%20AIM%3A%20Unknown%20code%2017%2E"/>
+<session type="stop" time="1103338011" medium="AIM" to="Console" from="FrooFel" location="status"/>
+<message type="information_standard" time="1103338011" medium="AIM" from="FrooFel" location="status" text="Disconnected%2E"/>

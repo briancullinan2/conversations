@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6247561222888185857/",
+    "participants": [
+        {
+            "name": "Roxy Lee",
+            "title": "Client Manager",
+            "url": "linkedin.com/in/roxylee",
+            "phone": null,
+            "email": "RLee@MDIGroup.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Roxy Lee",
+            "time": "2017-03-14T23:32:00.000Z",
+            "message": "Lol, I like your about me section! You seem like a witty guy :]\n"
+        }
+    ]
+}

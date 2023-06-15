@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6200103220442853376/",
+    "participants": [
+        {
+            "name": "Ryan Graciano",
+            "title": "CTO & Cofounder at Credit Karma",
+            "url": "linkedin.com/in/graciano",
+            "phone": null,
+            "email": "ryan@creditkarma.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-11-04T00:36:00.000Z",
+            "message": "I would love to work for you. Interviewing through normal channels are taking too long. Have you read the book Flatland?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-13T17:24:00.000Z",
+            "message": "I forgot to mention in my interview recently that I tried to create a PGP email client in browser only using web workers, zero plugins. My biggest roadblock would have been getting people to trust the proxy to connect to their email server.\nThis article showed up today and reminded me I could probably find some old code:\nhttp://incoherency.co.uk/blog/stories/gpg.html\n"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6214223683364413440/",
+    "participants": [
+        {
+            "name": "Tom Serani",
+            "title": "EVP Business Development at Unitedweb, SiteLock",
+            "url": "linkedin.com/in/tomserani",
+            "phone": "",
+            "email": "tomserani@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-12-12T23:46:00.000Z"
+        },
+        {
+            "from": "Tom Serani",
+            "message": "No problem. Look forward to meeting you the next time I am in Scottsdale.",
+            "time": "2017-11-07T23:47:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I hope so. Quick question I got recently, maybe your answer is better. How do you keep up with technology?",
+            "time": "2017-11-07T23:49:00.000Z"
+        },
+        {
+            "from": "Tom Serani",
+            "message": "Feedback from partners and industry peers.",
+            "time": "2017-11-07T23:49:00.000Z"
+        },
+        {
+            "from": "Tom Serani",
+            "message": "I suspect your answer would be different based off your role.",
+            "time": "2017-11-07T23:59:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Oh good. I said news and research.",
+            "time": "2017-12-13T00:11:00.000Z"
+        }
+    ]
+}

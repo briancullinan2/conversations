@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6344930090031284225/",
+    "participants": [
+        {
+            "name": "Chris Nebinger",
+            "title": "Manager, Software Development at WellDyne",
+            "url": "linkedin.com/in/chris-nebinger-a801643",
+            "phone": "",
+            "email": "Chris.Nebinger@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-12-08T16:06:00.000Z"
+        },
+        {
+            "from": "Chris Nebinger",
+            "message": "",
+            "time": "2017-12-09T16:07:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-12-09T16:07:00.000Z"
+        },
+        {
+            "from": "Chris Nebinger",
+            "message": "",
+            "time": "2017-12-09T16:09:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-12-09T16:17:00.000Z"
+        }
+    ]
+}

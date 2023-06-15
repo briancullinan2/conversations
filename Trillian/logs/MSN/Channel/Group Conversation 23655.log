@@ -1,0 +1,315 @@
+﻿Session Start (b.cullinan@cox.net:Group Conversation 23655): Tue May 22 09:52:12 2007
+[05/22/2007 09:52:12 AM] Robert Douglas: u here brian
+[05/22/2007 09:52:20 AM] b.cullinan@cox.net: i am now
+[05/22/2007 09:52:26 AM] b.cullinan@cox.net: everyone left me
+[05/22/2007 09:52:29 AM] Robert Douglas: alex's other window wasnt working
+[05/22/2007 09:52:31 AM] Robert Douglas: had to start new one
+[05/22/2007 09:53:08 AM] b.cullinan@cox.net: so
+[05/22/2007 09:53:18 AM] Alex Markov: im getting so sick :(
+[05/22/2007 09:53:34 AM] b.cullinan@cox.net: thats not good
+[05/22/2007 09:53:49 AM] Robert Douglas: ms outlook is so buggy lol
+[05/22/2007 09:53:50 AM] Alex Markov: did u install outlook plugin?
+[05/22/2007 09:53:55 AM] Robert Douglas: yes,he is rdy 2 go
+[05/22/2007 09:54:01 AM] Robert Douglas: said only himself syuncs into his list though
+[05/22/2007 09:54:04 AM] Robert Douglas: for contacts
+[05/22/2007 09:54:10 AM] Robert Douglas: but he did get the meeting/calendar stuf
+[05/22/2007 09:54:22 AM] Alex Markov: okbasically the bottom line is we pay $1500 for sugar per year. thats $125 per month
+[05/22/2007 09:54:44 AM] Alex Markov: and we are not using it to its full potential
+[05/22/2007 09:55:03 AM] Alex Markov: so per the request of the BM.... everyone is to start using sugar
+[05/22/2007 09:55:04 AM] Robert Douglas: that's right
+[05/22/2007 09:55:07 AM] Alex Markov: when ever u have a lead. put it in
+[05/22/2007 09:55:12 AM] Alex Markov: when ever u have a opportunity
+[05/22/2007 09:55:14 AM] Alex Markov: put it in
+[05/22/2007 09:55:22 AM] Robert Douglas: we need a list of items
+[05/22/2007 09:55:25 AM] Alex Markov: a business contact... put it in
+[05/22/2007 09:55:26 AM] Robert Douglas: that explains what we use sugar for
+[05/22/2007 09:55:29 AM] Robert Douglas: and how to use it
+[05/22/2007 09:55:37 AM] b.cullinan@cox.net: yeah
+[05/22/2007 09:55:46 AM] Robert Douglas: maybe the new BM can write it all up
+[05/22/2007 09:55:47 AM] Robert Douglas: lol
+[05/22/2007 09:55:52 AM] b.cullinan@cox.net: we should write a protocol for using sugar
+[05/22/2007 09:56:00 AM] b.cullinan@cox.net: and a protocol for writing protocols
+[05/22/2007 09:56:17 AM] Robert Douglas: and a protocol for a protocol forwriting protocols
+[05/22/2007 09:56:39 AM] Alex Markov: we use everything but in sugar excpet quotes and emails
+[05/22/2007 09:56:48 AM] Robert Douglas: and documents
+[05/22/2007 09:56:49 AM] Alex Markov: and protocol for writijng protoclls to write protocols!
+[05/22/2007 09:56:58 AM] Alex Markov: oh yeah and documents
+[05/22/2007 09:57:09 AM] Robert Douglas: suagr wont be handling our documents right now brian
+[05/22/2007 09:57:20 AM] Robert Douglas: but int he future, once some more stuff is done, we're going to have it manage docs
+[05/22/2007 09:57:30 AM] b.cullinan@cox.net: ok
+[05/22/2007 09:57:30 AM] Robert Douglas: u n me will talk about that at the end of our 1130 meeteing
+[05/22/2007 09:57:36 AM] b.cullinan@cox.net: ok
+[05/22/2007 09:57:52 AM] Alex Markov: yeah this is the plan for the svn
+[05/22/2007 09:58:04 AM] b.cullinan@cox.net: but i have to go save the flag
+[05/22/2007 09:58:12 AM] Alex Markov: u guys are gonan need to plan out how to implement it
+[05/22/2007 09:58:12 AM] Robert Douglas: we know what we're doing
+[05/22/2007 09:58:12 AM] Alex Markov: and then setup a general emeting with the bm
+[05/22/2007 09:58:20 AM] Alex Markov: so we can all sit down and plan out what folders we will have
+[05/22/2007 09:58:28 AM] Alex Markov: and how we are gonna organize everything
+[05/22/2007 09:58:31 AM] Robert Douglas: we'll come up with an idea
+[05/22/2007 09:58:40 AM] b.cullinan@cox.net: yeah i set up more folders did you look at that alex?
+[05/22/2007 09:58:46 AM] Robert Douglas: stay on topic
+[05/22/2007 09:58:49 AM] Robert Douglas: let's finish up this meeting
+[05/22/2007 09:59:08 AM] Robert Douglas: alex, we finished everything with the meeting's agenda
+[05/22/2007 09:59:15 AM] Robert Douglas: but i added: - if time: 
++standard PO and PC 
++protocols 
+[05/22/2007 09:59:38 AM] Robert Douglas: do you have anything written up about that, and ready to talk?
+[05/22/2007 09:59:59 AM] Alex Markov: sec phone
+[05/22/2007 10:01:26 AM] Alex Markov: ok new announcement.
+[05/22/2007 10:01:32 AM] Robert Douglas: great
+[05/22/2007 10:01:34 AM] Alex Markov: all intenral projects will be called r
+[05/22/2007 10:01:35 AM] Alex Markov: instead of i
+[05/22/2007 10:01:40 AM] Robert Douglas: yes
+[05/22/2007 10:01:45 AM] Alex Markov: so the new svn project will be called rSVN
+[05/22/2007 10:01:52 AM] Alex Markov: it has been changed in sugar
+[05/22/2007 10:01:56 AM] b.cullinan@cox.net: ok
+[05/22/2007 10:01:59 AM] Alex Markov: and there is not a new intenral project
+[05/22/2007 10:02:01 AM] Alex Markov: rBM
+[05/22/2007 10:02:08 AM] Alex Markov: that is all tasks for the BM
+[05/22/2007 10:02:24 AM] Alex Markov: now.... do not start putting crazy little tasks in there
+[05/22/2007 10:02:28 AM] Alex Markov: like specific protocols
+[05/22/2007 10:02:36 AM] Alex Markov: send emails to bm and i will work that
+[05/22/2007 10:02:53 AM] Robert Douglas: k
+[05/22/2007 10:03:11 AM] Alex Markov: i have like a huge list in onenote of protocols we eventualyl need to write up lol
+[05/22/2007 10:03:11 AM] Robert Douglas: do u have any info for the protocol stuff (the 2 things in the meeting we didnt cover yesterday)
+[05/22/2007 10:03:24 AM] Robert Douglas: well, we were supposed to talk about it
+[05/22/2007 10:03:34 AM] Robert Douglas: so, what's the deal with it
+[05/22/2007 10:03:56 AM] Alex Markov: regarding sugar relaly quickly. i cannot stress this enough. this is our whole company right here. we must start poutting in leads and opportunities
+[05/22/2007 10:04:00 AM] Alex Markov: VERY important
+[05/22/2007 10:04:26 AM] Robert Douglas: you need to explain how to do that
+[05/22/2007 10:04:37 AM] Robert Douglas: and the definitino of a lead/opportunity
+[05/22/2007 10:04:48 AM] Robert Douglas: because ther eis this conversion shit too
+[05/22/2007 10:04:56 AM] Robert Douglas: i think u should be in charge of the Sugar operation
+[05/22/2007 10:05:05 AM] Robert Douglas: any bugs/updates/issues should be given to me
+[05/22/2007 10:05:06 AM] Alex Markov:  
+Leads 
+(Link: http://www.rp-s.com/forum/showthread.php?t=38)http://www.rp-s.com/forum/showthread.php?t=38 
+ 
+Opportunities 
+(Link: http://www.rp-s.com/forum/showthread.php?t=39)http://www.rp-s.com/forum/showthread.php?t=39 
+ 
+ 
+
+[05/22/2007 10:05:12 AM] Alex Markov: bitch
+[05/22/2007 10:05:14 AM] Alex Markov: :)
+[05/22/2007 10:05:18 AM] Robert Douglas: lol very nice
+[05/22/2007 10:05:31 AM] Robert Douglas: omg, so many HPM4/3/2
+[05/22/2007 10:05:32 AM] Robert Douglas: lol
+[05/22/2007 10:05:35 AM] Alex Markov: those are the started protocols
+[05/22/2007 10:05:47 AM] Robert Douglas: that's not in our protocol format
+[05/22/2007 10:05:51 AM] Alex Markov: yes we need to create workflows in sugar
+[05/22/2007 10:06:05 AM] Alex Markov: but i cant think of a better way to handle it
+[05/22/2007 10:06:13 AM] Alex Markov: because reggie jackson... im gona see him in a few weeks
+[05/22/2007 10:06:22 AM] Alex Markov: he should not be done by any team
+[05/22/2007 10:06:24 AM] Alex Markov: but by our ebst team
+[05/22/2007 10:06:34 AM] Alex Markov: big pojects need to be given to our ebst PM teams
+[05/22/2007 10:07:15 AM] Alex Markov: it takes a few seocnds for a HPM to send a lead to another HPM
+[05/22/2007 10:07:22 AM] Robert Douglas: ok, but u are being very very broad with this
+[05/22/2007 10:07:28 AM] Alex Markov: yeah i know
+[05/22/2007 10:07:32 AM] Robert Douglas: it sounds like u dont have anything prepared
+[05/22/2007 10:07:37 AM] Robert Douglas: and that u just have ideas in ur head
+[05/22/2007 10:07:44 AM] Alex Markov: i want to set thigns up for a big expansion right now so we dont have to add to it over time as much
+[05/22/2007 10:07:58 AM] Robert Douglas: k, let's talk about 
+[05/22/2007 10:08:02 AM] Robert Douglas: "+standard PO and PC"
+[05/22/2007 10:08:09 AM] Robert Douglas: then move on to next thing
+[05/22/2007 10:08:12 AM] Robert Douglas: then finish meeting
+[05/22/2007 10:08:14 AM] Alex Markov: what do u mean i dont have ideas prepred. for what
+[05/22/2007 10:08:22 AM] Alex Markov: for leads and opportuntiies?
+[05/22/2007 10:08:27 AM] Alex Markov: i put alot of thought into that
+[05/22/2007 10:08:28 AM] Robert Douglas: no, nvm
+[05/22/2007 10:08:34 AM] Robert Douglas: stick to the meeting agenda
+[05/22/2007 10:08:36 AM] Alex Markov: ok
+[05/22/2007 10:08:39 AM] Alex Markov: i was jsut finsihing sugar
+[05/22/2007 10:08:43 AM] Alex Markov: those are the protocols for sugar
+[05/22/2007 10:08:45 AM] Alex Markov: brians?
+[05/22/2007 10:08:46 AM] Alex Markov: brian?
+[05/22/2007 10:10:30 AM] b.cullinan@cox.net: i'm here
+[05/22/2007 10:10:40 AM] Alex Markov: whee u been. no repsonse from u in 15 minutes
+[05/22/2007 10:11:04 AM] b.cullinan@cox.net: it was 2
+[05/22/2007 10:11:11 AM] b.cullinan@cox.net: don't exaggerate
+[05/22/2007 10:11:19 AM] Robert Douglas: 2 minutes?
+[05/22/2007 10:11:29 AM] Alex Markov: oh i missed your ok at 1:02pm
+[05/22/2007 10:11:32 AM] Alex Markov: :P
+[05/22/2007 10:11:32 AM] b.cullinan@cox.net: [05/22/2007 10:08:45 AM] Alex Markov: brians?
+[05/22/2007 10:11:37 AM] b.cullinan@cox.net: [05/22/2007 10:10:30 AM] b.cullinan@cox.net: i'm here
+[05/22/2007 10:11:39 AM] Robert Douglas: lol
+[05/22/2007 10:11:54 AM] Alex Markov: nono i mean no response in past like 10 mintues of meeting
+[05/22/2007 10:11:57 AM] Alex Markov: did u read everything
+[05/22/2007 10:12:04 AM] b.cullinan@cox.net: yes
+[05/22/2007 10:12:08 AM] Alex Markov: ok
+[05/22/2007 10:12:09 AM] Alex Markov: moving on
+[05/22/2007 10:12:14 AM] Robert Douglas: alex was just wondering why you werent talking earlier
+[05/22/2007 10:12:15 AM] Alex Markov: regarding the poand the pc potocols
+[05/22/2007 10:12:27 AM] Alex Markov: we cant standardize it now
+[05/22/2007 10:12:33 AM] Robert Douglas: if ur gunna leave for more than a min or two,just say brb 
+[05/22/2007 10:12:33 AM] b.cullinan@cox.net: because you guys know what you are talking about
+[05/22/2007 10:12:42 AM] Alex Markov: because i want to standardize it and put it into brian's sexy svn right away
+[05/22/2007 10:12:48 AM] b.cullinan@cox.net: i didn't leave, i just didn't have anything more to add
+[05/22/2007 10:12:51 AM] Robert Douglas: like,when alex picks up the phone, he says brb
+[05/22/2007 10:12:53 AM] b.cullinan@cox.net: you guys have this down
+[05/22/2007 10:13:22 AM] Alex Markov: so after u gusy implement it
+[05/22/2007 10:13:26 AM] Alex Markov: we will plan out the folders
+[05/22/2007 10:13:35 AM] Alex Markov: and then plan out how to standardize the po and the pc
+[05/22/2007 10:13:41 AM] Robert Douglas: we're going to come up with the folder idea prior to implementation
+[05/22/2007 10:13:50 AM] Robert Douglas: it is going to be well organized and laid out before we install or do antthing
+[05/22/2007 10:13:59 AM] Robert Douglas: and we'll be coming back to you to present our idea of the layout
+[05/22/2007 10:14:07 AM] Alex Markov: ok cool
+[05/22/2007 10:14:14 AM] Alex Markov: im gonna think about how to do the contracts
+[05/22/2007 10:14:22 AM] Alex Markov: we gonna need to have them as templates or something
+[05/22/2007 10:14:28 AM] Alex Markov: and we will have addons
+[05/22/2007 10:14:29 AM] Robert Douglas: yeah
+[05/22/2007 10:14:34 AM] Robert Douglas: brian, any ideas for the contracts?
+[05/22/2007 10:14:37 AM] Alex Markov: like when xcart is involved... we will add the xcart
+[05/22/2007 10:14:41 AM] Robert Douglas: any suggestion to automate it somehow
+[05/22/2007 10:15:04 AM] Robert Douglas: maybe in the future we will have a program to help us write contracts
+[05/22/2007 10:15:11 AM] Alex Markov: i wish we can like have a program to check  a checkbox for every thing that will be in the contract and we have it build the contract
+[05/22/2007 10:15:12 AM] Robert Douglas: like a little checkbox like u say
+[05/22/2007 10:15:16 AM] Alex Markov: lol
+[05/22/2007 10:15:18 AM] Robert Douglas: lol exactly
+[05/22/2007 10:15:27 AM] Robert Douglas: that would be nice
+[05/22/2007 10:15:30 AM] Robert Douglas: but it would be a bit to make
+[05/22/2007 10:15:40 AM] Alex Markov: because we will have a basic contract. and then we will have addons. like xcart. or autoboss. or c2realty
+[05/22/2007 10:15:47 AM] b.cullinan@cox.net: other then what was in my onenote doc, i don't have anything additional
+[05/22/2007 10:15:52 AM] Alex Markov: yeah for now i say addons are just ins eparate word files
+[05/22/2007 10:15:55 AM] b.cullinan@cox.net: i think it should be a legal binding contract
+[05/22/2007 10:15:58 AM] Robert Douglas: we're not talking about svn
+[05/22/2007 10:15:59 AM] Alex Markov: and we just copy and paste things intoa new contract
+[05/22/2007 10:16:04 AM] Robert Douglas: scroll up
+[05/22/2007 10:16:10 AM] b.cullinan@cox.net: i commented on the contracts too
+[05/22/2007 10:16:14 AM] Robert Douglas: we're talking about documents
+[05/22/2007 10:16:17 AM] Robert Douglas: i mean contracts
+[05/22/2007 10:16:24 AM] b.cullinan@cox.net: [05/22/2007 10:14:34 AM] Robert Douglas: brian, any ideas for the contracts?
+ 
+[05/22/2007 10:16:26 AM] Robert Douglas: in terms of how to write them up
+[05/22/2007 10:16:31 AM] Alex Markov: about contracts brian we have a standard web design contract. its legally binding when it is signed by both parties
+[05/22/2007 10:16:49 AM] Alex Markov: the contractis what i sent u the other day for NYB brian
+[05/22/2007 10:16:54 AM] b.cullinan@cox.net: yeah
+[05/22/2007 10:17:11 AM] Alex Markov: see thatone is the basic layout.... and then it has a xcart outline
+[05/22/2007 10:17:31 AM] Robert Douglas: maybe we will just have hand outs
+[05/22/2007 10:17:35 AM] Alex Markov: i wish we can jsut check a checkbox saying we want to include the xcart addon and then all addons for xcart and it compiles the contract
+[05/22/2007 10:17:35 AM] Robert Douglas: instead of putting it int he contract
+[05/22/2007 10:17:41 AM] Robert Douglas: and just say, "see xcart hand out"
+[05/22/2007 10:17:45 AM] Alex Markov: it all needs to be in one document
+[05/22/2007 10:18:22 AM] Robert Douglas: i think it should all be together, but doesnt have to be in the same file
+[05/22/2007 10:18:24 AM] Alex Markov: i think everyhting should jsut be in its own word file and when the PM compiles the contract... he jsut opens the relevant word docs.... and copy and pastes them into one new word doc
+[05/22/2007 10:18:40 AM] Robert Douglas: i think it is better to keep it as a handout
+[05/22/2007 10:19:10 AM] Alex Markov: like what we have been doing but it should be all organized and the base contracts and addons should be like tempaltes. so u can just do a "Find/ Replace" and add client info
+[05/22/2007 10:19:32 AM] Alex Markov: legally binding contracts are all in one big document. we cannot have handouts because then handouts can change
+[05/22/2007 10:19:43 AM] Alex Markov: we shoulkd also have them initila all the major sections
+[05/22/2007 10:19:52 AM] Alex Markov: initial
+[05/22/2007 10:20:03 AM] Robert Douglas: well, we can have a standard blank contract,similar to what we have for the forum protocol stuff (in the sense that it is blank and just needs to be filled in)
+[05/22/2007 10:20:08 AM] Alex Markov: i have a good idea of how it will work and will manage that project and propose it to u before i implement it
+[05/22/2007 10:20:15 AM] Robert Douglas: ok
+[05/22/2007 10:20:20 AM] Alex Markov: we jsut need svn up first
+[05/22/2007 10:20:23 AM] Robert Douglas: come up with that, then we'll provide suggestions for it
+[05/22/2007 10:20:34 AM] Robert Douglas: well, u can plan it out without the svn
+[05/22/2007 10:20:36 AM] Alex Markov: ill start thinking about it
+[05/22/2007 10:20:49 AM] b.cullinan@cox.net: you didn't comment on my layout?
+[05/22/2007 10:21:02 AM] b.cullinan@cox.net: you said stay on topic last time i asked for feeback
+[05/22/2007 10:21:15 AM] Alex Markov: what lkayout please repeat brian
+[05/22/2007 10:21:28 AM] Robert Douglas: it shouldnt rely on the svn though, because once sugar has the ability, we're going to implement itusing sugar
+[05/22/2007 10:21:39 AM] Robert Douglas: so keepthat in mind when you're designing the protocol stuff
+[05/22/2007 10:21:49 AM] b.cullinan@cox.net: (Link: http://bjcsvn.mine.nu/listing.php?repname=RPS&path=%2F&sc=0)http://bjcsvn.mine.nu/listing.php?repname=RPS&path=%2F&sc=0
+[05/22/2007 10:21:59 AM] Alex Markov: oh i did see that
+[05/22/2007 10:22:12 AM] b.cullinan@cox.net: i made that yesterday as a like a first step type of thing
+[05/22/2007 10:22:18 AM] Alex Markov: i dont see sugar being as nice as svn for a whillleee
+[05/22/2007 10:22:19 AM] Robert Douglas: that looks good so far
+[05/22/2007 10:22:31 AM] Robert Douglas: we're going to talk today about the layout though
+[05/22/2007 10:22:34 AM] Alex Markov: yeah thats the idea brian. good job
+[05/22/2007 10:22:41 AM] b.cullinan@cox.net: we can lay it out on my SVN if robert is that worried about it
+[05/22/2007 10:22:51 AM] Robert Douglas: no, we need to develop it on our server
+[05/22/2007 10:22:55 AM] Robert Douglas: so we dont run into any issues
+[05/22/2007 10:23:05 AM] b.cullinan@cox.net: its not that big of deal, if we don't like it we can delete it and re implement it
+[05/22/2007 10:23:07 AM] b.cullinan@cox.net: robert
+[05/22/2007 10:23:14 AM] Alex Markov: yeah ill lay it out in one note and when our rps svn is rdy we will push it in there
+[05/22/2007 10:23:17 AM] Robert Douglas: alex, sugar will be able to tie it to projects
+[05/22/2007 10:23:22 AM] Robert Douglas: and client
+[05/22/2007 10:23:25 AM] Robert Douglas: that is a MUST
+[05/22/2007 10:23:30 AM] b.cullinan@cox.net: [05/22/2007 10:20:34 AM] Robert Douglas: well, u can plan it out without the svn
+[05/22/2007 10:23:48 AM] Robert Douglas: yes, alex doesn't need the svn in order to plan out the protocols
+[05/22/2007 10:24:01 AM] Alex Markov: yeah but its not on the desktop. its rly a hassle to uplaod files to sugar. i think eventually we should create a addon that allows sugar to pull documents from the svn into itself
+[05/22/2007 10:24:11 AM] b.cullinan@cox.net: i think that i should be in charge of writing up the protocols
+[05/22/2007 10:24:22 AM] Alex Markov: so documents are archived in sugar but we cna work on them in svn
+[05/22/2007 10:24:27 AM] Robert Douglas: alex has a pretty good idea for protocols
+[05/22/2007 10:24:35 AM] Robert Douglas: but u can write some up too
+[05/22/2007 10:24:36 AM] b.cullinan@cox.net: it will be possible to implement it into sugar
+[05/22/2007 10:24:51 AM] Robert Douglas: but alex needs finish a protocol for writing protocols
+[05/22/2007 10:24:55 AM] Robert Douglas: so u know exactly what to do
+[05/22/2007 10:25:03 AM] Alex Markov: brian i am not sure u understand how all encompassing protocls are
+[05/22/2007 10:25:23 AM] Alex Markov: however u are a programmer so perhaps it may be better for u to do it. let me pull up my notes and give u some ideas of protocols we need
+[05/22/2007 10:25:32 AM] b.cullinan@cox.net: well i'm glad you are taking my advice in writing a protocol for writing protocols
+[05/22/2007 10:25:51 AM] b.cullinan@cox.net: i would like to write up the document management protocol
+[05/22/2007 10:25:58 AM] b.cullinan@cox.net: that should be fairly extensive
+[05/22/2007 10:26:11 AM] Alex Markov: we alreayd know we need a protocl for writing a protocol
+[05/22/2007 10:26:35 AM] b.cullinan@cox.net: good
+[05/22/2007 10:26:38 AM] Alex Markov: we need a protocol fpor how tos creen specialists
+[05/22/2007 10:26:57 AM] Alex Markov: we need a protocol for how to work with each typeof specialist
+[05/22/2007 10:26:57 AM] Alex Markov: we need a protcol for how to do each service
+[05/22/2007 10:26:58 AM] Alex Markov: we ened a protocol for how to deal with every custom concern
+[05/22/2007 10:27:06 AM] Alex Markov: we need a protocol for how to deal withe very vendor
+[05/22/2007 10:27:14 AM] b.cullinan@cox.net: i don't think i'd be the right guy for those most of those
+[05/22/2007 10:27:15 AM] Robert Douglas: sec, phone
+[05/22/2007 10:27:20 AM] Alex Markov: we need a protocol for how to work with internal staff
+[05/22/2007 10:27:33 AM] b.cullinan@cox.net: iStaff
+[05/22/2007 10:27:43 AM] b.cullinan@cox.net: ha
+[05/22/2007 10:27:53 AM] Alex Markov: yeah. once we get all the backbone stuff setup... then we will start writing protocols
+[05/22/2007 10:27:58 AM] Alex Markov: svn is the last ste i think
+[05/22/2007 10:28:07 AM] Alex Markov: we got sugar, we got forums, we got pmxp
+[05/22/2007 10:28:16 AM] Alex Markov: we got our server set up
+[05/22/2007 10:28:48 AM] b.cullinan@cox.net: well i just need to know what to do
+[05/22/2007 10:29:02 AM] b.cullinan@cox.net: robert made it sound like you were going to write the protocol for svn
+[05/22/2007 10:29:22 AM] b.cullinan@cox.net: but now it sounds like i need to wait on the protocol writing protocol
+[05/22/2007 10:29:43 AM] Alex Markov: once we have the svn we will start writing protocols
+[05/22/2007 10:29:59 AM] b.cullinan@cox.net: but we can't start the svn without a protocol for it
+[05/22/2007 10:30:11 AM] Alex Markov: why?
+[05/22/2007 10:30:19 AM] Alex Markov: we dont ened a protocol for how toi isntall the svn
+[05/22/2007 10:30:34 AM] b.cullinan@cox.net: and we can do that until we lay it out for robert on my server so that we can get an idea of what it should look like on rps server
+[05/22/2007 10:30:57 AM] Alex Markov: we only need protocols of how to work with something
+[05/22/2007 10:31:11 AM] b.cullinan@cox.net: no but we do need a protocol for using the svn, it won't do us any good if it is sitting there not being used
+[05/22/2007 10:31:27 AM] b.cullinan@cox.net: my point is there is some circular reasoning going on here, and things are not moving fast enough
+[05/22/2007 10:31:33 AM] Alex Markov: once its setup we will write the protocol
+[05/22/2007 10:31:47 AM] Alex Markov: we cant write it unless it is up and we plan o9ut what folders we will have
+[05/22/2007 10:32:01 AM] b.cullinan@cox.net: but robert disagrees
+[05/22/2007 10:32:20 AM] b.cullinan@cox.net: we need to have it completely planned out before we do anything on the server according to him
+[05/22/2007 10:32:23 AM] Alex Markov: we can layout the folders in one note before the svn is setup
+[05/22/2007 10:32:32 AM] Alex Markov: he means the implementation
+[05/22/2007 10:32:39 AM] Alex Markov: protocols and lasyout are two different things
+[05/22/2007 10:32:49 AM] Robert Douglas: back
+[05/22/2007 10:32:51 AM] b.cullinan@cox.net: well i know that the svn is already installed, so that doesn't need to change
+[05/22/2007 10:33:00 AM] Robert Douglas: alex is not writing protocols for svn
+[05/22/2007 10:33:01 AM] Alex Markov: is it isntalled on the rps server?
+[05/22/2007 10:33:08 AM] b.cullinan@cox.net: yes
+[05/22/2007 10:33:09 AM] Robert Douglas: just an fyi
+[05/22/2007 10:33:29 AM] Alex Markov: i thought u guys were gonna work on implententing it and setting it up on rps server today?
+[05/22/2007 10:33:32 AM] Robert Douglas: this meeting is not supposed to be about svn
+[05/22/2007 10:33:37 AM] Robert Douglas: you guys need to stay on topic
+[05/22/2007 10:33:47 AM] Alex Markov: ok sry
+[05/22/2007 10:33:55 AM] Alex Markov: ok. once svn is setup we wills tart writing protocls
+[05/22/2007 10:34:11 AM] Robert Douglas: u can start svn protocols after svn is setup
+[05/22/2007 10:34:12 AM] Robert Douglas: but the contract protocols
+[05/22/2007 10:34:14 AM] Robert Douglas: can be written before
+[05/22/2007 10:34:21 AM] Alex Markov: yes ill start owkring on it
+[05/22/2007 10:34:24 AM] Robert Douglas: k cool
+[05/22/2007 10:34:28 AM] Robert Douglas: anhything else we have left to discuss?
+[05/22/2007 10:34:30 AM] Alex Markov: i got a meeting with nyb 4-7 today
+[05/22/2007 10:34:33 AM] Alex Markov: i gotta get rdy for it
+[05/22/2007 10:34:34 AM] b.cullinan@cox.net: but we still need a protocol for writing protocols
+[05/22/2007 10:34:40 AM] Robert Douglas: yeah, alex will handle that
+[05/22/2007 10:34:43 AM] b.cullinan@cox.net: so that the rest of us can write them as well
+[05/22/2007 10:34:48 AM] Robert Douglas: dont writeup anything until u have it
+[05/22/2007 10:34:50 AM] Alex Markov: yep we will do that this week
+[05/22/2007 10:35:19 AM] Alex Markov: ok im gonna go get rdy for my meeting and make some calls
+[05/22/2007 10:35:22 AM] Alex Markov: good stuff guys
+[05/22/2007 10:35:26 AM] Alex Markov: keep me updated
+[05/22/2007 10:35:29 AM] Alex Markov: ttyl
+[05/22/2007 10:35:47 AM] Alex Markov: brian make sure ur rps email is in outlook
+[05/22/2007 10:35:54 AM] b.cullinan@cox.net: it is
+[05/22/2007 10:36:26 AM] Alex Markov: soi can send u emails to ur brian.cullinan@rp-s.com email right
+[05/22/2007 10:36:36 AM] Alex Markov: we all should send emails between our rps name
+[05/22/2007 10:36:37 AM] b.cullinan@cox.net: yes
+[05/22/2007 10:36:40 AM] Alex Markov: k cool
+[05/22/2007 10:36:42 AM] Alex Markov: :)
+Session Close (Group Conversation): Tue May 22 10:38:07 2007
+
+

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6225304243650260992/",
+    "participants": [
+        {
+            "name": "Vivek Singh",
+            "title": "Engineer at Capital One, Board Advisor at Glu",
+            "url": "linkedin.com/in/vtheory",
+            "phone": null,
+            "email": "r5sec5cyl@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-12T13:36:00.000Z"
+        },
+        {
+            "from": "Vivek Singh",
+            "message": "It was my pleasure. It looks like we're not so different, at least in the things we like to think about!\n",
+            "time": "2018-01-17T06:24:00.000Z"
+        }
+    ]
+}

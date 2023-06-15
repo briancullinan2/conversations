@@ -1,0 +1,888 @@
+{
+    "thread": "https://www.facebook.com/messages/t/aritra.kundu.146",
+    "participants": [
+        {}
+    ],
+    "messages": [
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\ni got into linux just 6 moths back\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nnice.  Linux source code.\nhttp://www.eeggs.com/items/37700.html\nLinux Easter Egg - Curse Words in Linux Source\nHow to find the \"Curse Words in Linux Source\" Easter Egg in Linux. Get yourself to a console. Type in: <br> <br>grep -R <curseword> /usr/src/linux/* <br> <br>Replace <curseword> with your favourite curse word. Try it a couple times with different words. It would seem linux programmers ha...\neeggs.com\nhttp://www.vidarholen.net/contents/wordcount/\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nhaa haa funny\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nNice right, worth doing a manual verification just to get familiar with source code.  You can contribute to something that runs on millions of pieces of metal around the world.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nfirst i need to learn properly\ndon't want to contribute half known shit\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nGood call.\nLinux is good at running servers because it is stable and consistent, and a lot of really smart people have put their time in to making it fast.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nyeah it is and thats the reason i like it .......anyway know anything other than mplayer to run video in the terminal\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nvlc transcoding can be used just like Amazon's Elastic Transcoder.  I've use it for years to run a media server and stream in different formats and qualities.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nwow is it possible to try it that way\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nComes with pretty much every codec:\nhttp://www.videolan.org/vlc/index.html\nVideoLAN - Official page for VLC media player, the Open Source video framework!\nOfficial page for VLC media player, the Open Source video framework!\nvideolan.org\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\ni know vlc .....but thats not the thing but i completely want to run a video in the terminal just like sixel offers and even mplayer do but a pixelated one\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\n1 min\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nand video transcoding is different\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nrelevant? http://www.webupd8.org/2013/04/terminology-more-than-terminal-emulator.html\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\ncompletely different to the thing i m asking\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nCan you ask a different way?  Have you tried terminology?  I think it looks awesome.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nyeah it looks awesome nah didn't try it ever but tried gauke\nomg ......it is going to work\nthanks\nreally who made it\ndoes it work on arch ??\ni can see only debian\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nhttps://tech.slashdot.org/story/13/03/27/1217241/enlightenment-terminal-allows-video-playback-pdf-viewing\nNot sure.\nhttps://en.wikipedia.org/wiki/Bloomberg_Terminal\nBloomberg Terminal - Wikipedia\nThe Bloomberg Terminal is a computer system provided by the financial data vendor Bloomberg L.P. that enables professionals in finance and other industries to access the Bloomberg Professional service through which users can monitor and analyze real-time financial market data and place trades on the...\nen.wikipedia.org\nhttps://www.archlinux.org/packages/extra/i686/terminology/\nLooks like someone compiled it.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nmaybe or maybe not .........anyway who cares\nanyway does it provide audio too\n??\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nAs far as I know yes.\nMost modern terminals should.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nmost don't actually\nwhich terminal you use\n?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nI only use linux remotely and I use a Mac for day to day.\nMore administrative type stuff.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nohh why still you go for mac\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nBecause it in unix underneath.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nsame goes for linux if i m not wrong\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nI could probably dual boot, might be fun.  My job is computer based so my hobbies are usually not.  Sometimes I play around with IoT.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nmine is the opposite of it totally !!\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nI've been studying Philosophy, Psychology, and Law lately.\nI'd love to help you set up servers if you are interested in web technology.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nreally law .......i m going to apply for law next year\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nAmazing!\nHere is what I learned today:\nhttps://gerryspence.wordpress.com/2010/12/15/rejection-part-iii/\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nwait reading it\nyou should look up for sixel it is different\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nlink?\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nhttps://sourceforge.net/projects/mlterm/?source=typ_redirect\nAttachment Unavailable\nThis attachment may have been removed or the person who shared it may not have permission to share it with you.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nCool, kind of reminds me of :\nhttp://jupyter.org/\nProject Jupyter\nThe Jupyter Notebook is a web-based interactive computing platform. The notebook combines live code, equations, narrative text, visualizations, interactive dashboards and other media.\njupyter.org\nWhat is this?\nhttps://github.com/saitoha/PySixel\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nsame different source\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\ncool\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nalmost none works out\nanyway really you're awesome\njust awesome\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nI am writing a meditation app:\nhttps://sosmethod.herokuapp.com/\nThank you, I try.  You too.  Good mind stretch.\nhttps://en.m.wikipedia.org/wiki/Synaptic_plasticity\nSynaptic plasticity - Wikipedia\nIn neuroscience, synaptic plasticity is the ability of synapses to strengthen or weaken over time, in response to increases or decreases in their activity.[1]\nen.wikipedia.org\nhttps://en.m.wikipedia.org/wiki/Synaptic_pruning\nSynaptic pruning - Wikipedia\nSynaptic pruning or axon pruning is the process of synapse elimination that occurs between early childhood and the onset of puberty in many mammals, including humans.[1] Pruning starts near the time of birth and is completed by the time of sexual maturation in humans.[2] At birth, the human brain co...\nen.wikipedia.org\nThose are particularly relevant to me.  I can feel my mind stretch almost like a head ache but less painful.\nMeditating I think is key.  Sometimes I have to put a cool cloth on my head for a few minutes.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\n already had it opened\nashish gave me\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nOh good.\nCommunication is the slowest part of our society, we can speed it up.  That is a COO thing to do.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nwhat are you using to write the app code\nand it is in which language\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nNodeJs, using \nhttps://www.jetbrains.com/phpstorm/?fromMenu\nPhpStorm IDE :: JetBrains PhpStorm\nThe most intelligent PHP IDE with refactorings, code completion, on-the-fly code analysis and coding productivity orientation\njetbrains.com\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nyou bought it or you just cracked it\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nBought.\nIt calls home.  But there should be a crack because it's full version download.\nPersonal license even though I use it for work.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nwell obvio you can you paid for it ...there must be a way to crack it\nneed to look\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\ncrackfind\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nreally now i hate myself that i asked you\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nCareful which one you click on I guess.\nhttp://www.crackfind.org/\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nyeah that same one\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nMy computer science bookmarks folder grew too large, this will take me some time to sort out \n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\nreally how big\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nNow it is back down to one full screen.  I am trying to record the application of all the science I know for later reference.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nHard task lol\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "\neven i had good links in google chrome but lost it\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-09T16:42:00.000Z",
+            "message": "Brian\nYeah, that happened to me before.  Amazing how much that sucks and can be prevented.\nI want to write a robot to organize my data.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-09T20:46:00.000Z",
+            "message": "\nhaa haa thought of copying those things\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-11T17:57:00.000Z",
+            "message": "\ngot something interesting about linux\nlike something to try out\nthat terminology is great\nand i sucked at installing arch\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-11T17:57:00.000Z",
+            "message": "Brian\nDid you send me this multilingual terminal?\nhttps://sourceforge.net/projects/mlterm/?source=typ_redirect\nmlterm(Multi Lingual TERMinal emulator)\nmlterm(Multi Lingual TERMinal emulator) download. mlterm(Multi Lingual TERMinal emulator) 2016-08-14 08:50:46 free download. mlterm(Multi Lingual TERMinal emulator) mlterm is a multi-lingual terminal emulator , which supports various character sets and encodings in the world.\nsourceforge.net\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-11T17:57:00.000Z",
+            "message": "\ninstalling arch in uefi mode is totally a headache\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-11T17:59:00.000Z",
+            "message": "Brian\nEveryone sucks at installing Arch, it is ok.\nDo you know the definition of Ubuntu?\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-11T17:59:00.000Z",
+            "message": "\na distro based on debian with a showoff DE\nsorry i don't even know why i sent you that\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-11T19:03:00.000Z",
+            "message": "\nhappy birthday in advance\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-11T21:45:00.000Z",
+            "message": "Brian\nThank you!  You must be ahead of your time!\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-12T03:14:00.000Z",
+            "message": "\nwell yeah a lot ahead actually 12 hrs to the average\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-12T06:15:00.000Z",
+            "message": "Brian\nhttps://en.wikipedia.org/wiki/List_of_Old_Citizens\nhttps://en.wikipedia.org/wiki/Solipsism\nSolipsism - Wikipedia\nSolipsism (i/ˈsɒlᵻpsɪzəm/; from Latin solus, meaning \"alone\", and ipse, meaning \"self\")[1] is the philosophical idea that only one's own mind is sure to exist. As an epistemological position, solipsism holds that knowledge of anything outside one's own mind is unsure; the external world and other mi...\nen.wikipedia.org\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-12T06:15:00.000Z",
+            "message": "\nhttps://www.youtube.com/watch?v=-wkr_vf18cw\nmost are known tricks\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-12T06:15:00.000Z",
+            "message": "Brian\nDid you watch that video on mathematician dissecting a coincidence?\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-12T06:15:00.000Z",
+            "message": "\ngive the link i can't remember at the moment\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-12T06:15:00.000Z",
+            "message": "Brian\nSorry\nhttps://www.youtube.com/watch?v=PQynVVwlcSE&app=desktop\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-12T06:15:00.000Z",
+            "message": "\nreally don't be sorry for anything\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-12T06:15:00.000Z",
+            "message": "Brian\nI think I can solve coincidences in my head and make a statistically sound prediction based on being well informed.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-12T06:15:00.000Z",
+            "message": "\nwell you won't believe a person who was almost like you who used to think that he was more of a person he can reveal every single truth based on this earth his name was Hemp Patrick though i don't know if that hemp part was real or not but he was really intelligent\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-12T06:15:00.000Z",
+            "message": "Brian\nWhere is he now?\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-12T06:15:00.000Z",
+            "message": "\nhe was totally a different person i ever met totally different in his views in his assumption he even said that he predicted 9/11 was going to happen in 1998\ni have no idea where he is ......we used to talk a lot but few months back i saw he deactivated his account\nhe never showed his real pic or disclosed his exact address but he was from USA\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-12T06:15:00.000Z",
+            "message": "Brian\nAny of these? https://www.google.com/search?q=Hemp+Patrick&oq=Hemp+Patrick&aqs=chrome..69i57j0.919j0j9&sourceid=chrome&ie=UTF-8\nI need to know how to stretch my ability.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-12T06:15:00.000Z",
+            "message": "\nmaybe we all need to .......you would really like him but he always used to keep his name related to hemp\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-12T06:15:00.000Z",
+            "message": "\nhemp patrick is a page too\nguess the name was fake\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-19T07:48:00.000Z",
+            "message": "\nhttp://futurism.com/the-secret-is-out-scientists-figured-out-how-tardigrades-became-immune-to-radiation/\nAttachment Unavailable\nThis attachment may have been removed or the person who shared it may not have permission to share it with you.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-11-19T19:49:00.000Z",
+            "message": "Brian\nhttps://www.reddit.com/r/mandellaeffect/\nMoved to /r/Mandela_Effect • /r/mandellaeffect\n**ATTENTION:** **WE HAVE MOVED!** We have broken it down into 2 subs **/r/Mandela_Effect** : theory, meta, and personal experiences...\nreddit.com\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-19T19:49:00.000Z",
+            "message": "\nwell thanks for the link but gonna read later\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-25T00:35:00.000Z",
+            "message": "\nhttps://en.wikipedia.org/wiki/Rh_blood_group_system\nAttachment Unavailable\nThis attachment may have been removed or the person who shared it may not have permission to share it with you.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-11-26T16:23:00.000Z",
+            "message": "\nhey\ndid you found my english broken ??\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-12-04T19:50:00.000Z",
+            "message": "Brian\nHaha, only a little.  \"Do you find my english broken?\"\nEveryone's english is broken.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-12-05T06:04:00.000Z",
+            "message": "\ni guess i made that statement in past tense !!\ni meant previously !!\nanyway\nhow are you\nand where were you\nall this long\nyou don't even attend those group chats anymore\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-12-07T15:53:00.000Z",
+            "message": "Brian\nI read them. Just started working again and with the side project I have been busy.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-12-07T15:53:00.000Z",
+            "message": "\nwell it is quite evident\nso when is it going to get over\ni mean your project\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-12-07T15:53:00.000Z",
+            "message": "Brian\nHopefully by mid January. The new job is a contract for 18 months.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-12-07T15:53:00.000Z",
+            "message": "\nohh wow\nbest of luck then\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-12-07T15:53:00.000Z",
+            "message": "Brian\nThank you. What are you working on?\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-12-07T15:53:00.000Z",
+            "message": "\nmy chemistry portion\nportion or syllabus\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-12-07T15:53:00.000Z",
+            "message": "Brian\nOh good. I took chemistry in college but I was awful at it. I failed 3 times before I finally slipped by.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-12-07T15:53:00.000Z",
+            "message": "\nwell our course is a bit advanced so i guess whatever you did in college we're doing it in school .........anyway then why did you take chemistry\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-12-07T15:53:00.000Z",
+            "message": "Brian\nSeems to be everything is getting faster. I took it out of interest. Everyone said it was harder than physics and biology and we are required to take at least one of the 3\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-12-07T15:53:00.000Z",
+            "message": "\nand we need to take all 3 with an option for bio\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-12-07T15:53:00.000Z",
+            "message": "Brian\nImpressive.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-12-07T15:53:00.000Z",
+            "message": "\nalong with maths\nno it is not\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-12-07T15:53:00.000Z",
+            "message": "Brian\nHave to remove Facebook chat or it will drain my battery.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-12-07T15:53:00.000Z",
+            "message": "\nanyway gonna talk later .......have chem exam tomorrow\nyeah surely and best of luck again\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-12-07T15:53:00.000Z",
+            "message": "Brian\nGod luck!\n*good\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-12-07T17:19:00.000Z",
+            "message": "\nthanks bro\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-12-08T17:27:00.000Z",
+            "message": "\nhttp://www.omgubuntu.co.uk/2016/12/quickly-find-emoji-from-the-command-line\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-12-11T01:25:00.000Z",
+            "message": "Brian\nCool\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-12-11T04:22:00.000Z",
+            "message": "\nwell i sent  you the link to keep track of it\nanyway\ndid you ever try i3 wm\n?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-12-13T03:37:00.000Z",
+            "message": "Brian\nI did keep track of it ;D\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-12-13T03:37:00.000Z",
+            "message": "\nreally wow\ni really liked the features\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-12-13T03:37:00.000Z",
+            "message": "Brian\nFeatures aren't everything.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-12-13T03:37:00.000Z",
+            "message": "\ni know it is one of those wm which uses least amount of RAM\ncomputer load is the least\nit is fast\nyou can keep track of all the things running at the back\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-12-15T05:47:00.000Z",
+            "message": "Brian\nBut does it run Chrome?\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2016-12-15T05:47:00.000Z",
+            "message": "\nyeah\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-07T08:59:00.000Z",
+            "message": "\nhey whats up\nyou okay right ??\nanyway happy new year\nsorry for this late wish !!\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-08T20:03:00.000Z",
+            "message": "Brian\nHey!  Happy new year!\nI am good.  How are you?\nI've been busy, haven't hat time to work on my robot.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-09T00:55:00.000Z",
+            "message": "\nwow you're building a robot\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-09T13:37:00.000Z",
+            "message": "\nso what can it do ?\nand what type is it\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-10T04:07:00.000Z",
+            "message": "Brian\nRight now it can log in to Google timeline through Docker and selenium.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-10T04:07:00.000Z",
+            "message": "\nthen its a bot\ncorrect me if i m wrong\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-11T13:18:00.000Z",
+            "message": "Brian\nI put it here if you want to help me make it do other stuff:\nhttps://github.com/megamindbrian/bots\nmegamindbrian/bots\nContribute to bots development by creating an account on GitHub.\ngithub.com\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-11T13:18:00.000Z",
+            "message": "\ngonna look forward to it after this friday\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-14T22:25:00.000Z",
+            "message": "Brian\nReady to work?\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "\nwait wait let me read it up first\nand i know c++\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "\nfor that facebook automation\nwhat are you using .......graph api ??\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "\nmoreover that storing the password and the username to log in ........don't you think it is going to be a personal threat\nso a password can help\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "Brian\nKeywhiz\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "\nno no\npassword for that bot\nnot another thing to store that password\nif someone is using your computer by chance\nthey can get every bit of info just in seconds\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "Brian\nThat's out of scope. OS should handle\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "\njust it doesn't seems to me totally safe\ndon't mind\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "Brian\nYour computer has a password right?\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "\nyup\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "Brian\nAnd you phone has a pin or fingerprint?\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "\npattern\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "Brian\nSo is that secure?\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "\ni don't use a phone that much\ni don't like them\nbut this computer is secure\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "Brian\nCool docker runs inside the como so it's secure\nComp\nSo it's also secure\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "\nyeah i saw the file .......thats not what i meant\nanyway docker is made just for the debian based systems\nwhat about arch ?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "Brian\nRecompile?\nI didn't know it was debian only\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "\nohh heard it wrong\nanyway it is there for ach\narch\nand what about those using ubuntu repos\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "Brian\nHa\nYou should be able to get docker\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "\nwhy not other repo\nwhat system are you using currently\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "Brian\nMac\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "\nno no in linux which OS you using\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "Brian\nUbuntu\nAre you using arch?\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T00:46:00.000Z",
+            "message": "\nyup\nso those apt-get commands won't run on it\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T01:35:00.000Z",
+            "message": "\nso those apt-get commands won't run on it\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-15T01:35:00.000Z",
+            "message": "Brian\nCool beans\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T01:35:00.000Z",
+            "message": "\nis that an expression or did you mean something\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-15T01:35:00.000Z",
+            "message": "Brian\nDocker installs it side by side\n(expression)\nHahaha\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T01:35:00.000Z",
+            "message": "\ni m too bad in understanding expressions and that too on social networking\nanyway\nso if an arch users downloads that bots\nhe/she would be able to do that ??\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-15T01:35:00.000Z",
+            "message": "Brian\nYes\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T01:35:00.000Z",
+            "message": "\nreally like all the commands in dockerfile starts with apt-get\nand arch doesn't recognize apt-get\nso the installation must fail\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-15T01:35:00.000Z",
+            "message": "Brian\nNope docker runs side by side\nMac doesn't have apt either still works just install docker\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2018-01-15T01:35:00.000Z",
+            "message": "\ni see i see i get it now\ntotally got it\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-15T02:53:00.000Z",
+            "message": "Brian\nRebuild.sh has the commands to setup.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2017-04-07T03:15:00.000Z",
+            "message": "\nhey\nwhats up\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2017-04-07T03:15:00.000Z",
+            "message": "Brian\nnot much.  Working on angular2 what are you up to?\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2017-04-07T03:15:00.000Z",
+            "message": "\nLearnt about vim yesterday currently doing a free course hosted by cisco with a resemblance to the course offered by LPI\nand learning shell\nmoreover bought a pi\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2017-04-07T03:15:00.000Z",
+            "message": "Brian\nAwesome.  Pi is awesome.\nDid you get the new Wifi version?\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2017-04-07T03:15:00.000Z",
+            "message": "\nyup pi 3 B\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2017-04-07T03:15:00.000Z",
+            "message": "Brian\nSweet.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2017-04-07T03:15:00.000Z",
+            "message": "\nits a small one\nand cheap\nbut the screen became useless\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2017-06-15T15:07:00.000Z",
+            "message": "Brian\nHow is it going?\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2017-06-15T15:07:00.000Z",
+            "message": "\njust going on and on learning bash and C\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2017-06-15T15:07:00.000Z",
+            "message": "\nwhat about you ?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2017-06-15T15:07:00.000Z",
+            "message": "Brian\nGood, not learning much though \n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2017-06-15T15:07:00.000Z",
+            "message": "\nwhy what happened to you all of a sudden\nlast time we talked you told me that you were working on a robot or something like that\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2017-06-19T17:01:00.000Z",
+            "message": "Brian\nYeah, still working.  I've pushed some updates to GitHub.  I got it logging in to google and downloading my timeline and restaurant data, also it logs in to linkedIn and downloads all my chat history.\nBeen busy, got a new job.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2017-06-19T17:02:00.000Z",
+            "message": "\nnew job ? wow but where ?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2017-06-19T17:02:00.000Z",
+            "message": "Brian\nSwiftpage\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2017-06-19T17:02:00.000Z",
+            "message": "\nand what's your job there ?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2017-06-19T17:02:00.000Z",
+            "message": "Brian\nProgrammer.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2017-06-19T17:02:00.000Z",
+            "message": "\nwow...any specific language\n?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2017-06-19T17:02:00.000Z",
+            "message": "Brian\nTypescript and Angular 2\nIt's pretty neat.  Still the same old BS you have to deal with using jQuery and plain HTML javascript.\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2017-06-19T17:02:00.000Z",
+            "message": "\nwow that's fun ... I did hear about angular.js\nby the way I was learning about html and css and bit of jquery\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2017-06-19T17:02:00.000Z",
+            "message": "Brian\nGood.  We need more heads on this thing.\nUser experience sucks so much even Amazon has security holes all over the place :\nIf companies interviewed tech recruiters the way they interview programmers\n(The inspiration for this post came from here: https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6)\nmedium.com\noops, http://www.zdnet.com/article/security-lapse-exposes-198-million-united-states-voter-records/\nMassive leak of 198 million US voter records is \"largest ever\"\nPersonal data on 198 million voters, including analytics data that suggests who a person is likely to vote for and why, was stored on an unsecured Amazon server.\nzdnet.com\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2017-06-19T17:02:00.000Z",
+            "message": "\nstill reading the interview\n"
+        },
+        {
+            "from": "Aritra",
+            "time": "2017-06-20T23:42:00.000Z",
+            "message": "\nSomething like that happened in here\nWe were asked to get an adhar card in which they into account every minute details from your thumb print to iris scan\nA huge amount of leak happened few months back\nIt is Apollo considered as a surveillance program\nAlso **\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2017-06-22T17:02:00.000Z",
+            "message": "Brian\nhttps://www.facebook.com/Miegakure\n\n\nMiegakure\nGames/Toys\n\n"
+        }
+    ]
+}

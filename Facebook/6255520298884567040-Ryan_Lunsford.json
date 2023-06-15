@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6255520298884567040/",
+    "participants": [
+        {
+            "name": "Ryan Lunsford",
+            "title": "Senior Corporate Recruiter at The Kudelski Group (Nagra-Kudelski Security-SKIDATA)",
+            "url": "linkedin.com/in/ryan-lunsford-9334211",
+            "phone": null,
+            "email": "ryan.lunsford@nagra.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Ryan Lunsford",
+            "time": "2017-04-05T12:00:00.000Z",
+            "message": "Sr. Web Services Developer opportunity / Nagra-Kudelski (Phoenix, AZ)\n\nHi Brian, \n\nI'll be brief - your profile came up as a top result in a search I'm conducting for Nagra-Kudelski. They are seeking a Sr. Web Services Developer/Lead to be based in Phoenix, AZ\n\nHere is the position summary:\nYou will be responsible for architecting an ambitious and exciting mobile to web enabled kiosk platform for communication, with the NAGRA Innovation Team in Phoenix. Initial tasks will include architecture, technology selection, and basic implementation of the web service framework, iterating the architecture and driving the architecture to deployment. \n\nSome of the architecting tasks include: full stack technology selection, web service API guidelines, Amazon Web Services (AWS), database integration plan, performance/scaling plan, QA strategy and deployment plan. Staff may be added to help implement the architecture, design and manage the databases and handle some of the devOps. This position will become very hands-on after the planning phase.\n\nThe system is unlike anything currently on the market. It will need to support PC, mobile and web client applications. Expect unique and interesting challenges, especially if you are a big media buff.\n\nMore details available via the attached JD. Let me know if you (or someone you know) might have an interest in being considered.\n\nHere is the corporate website: www.nagra.com\n\nRegards,\nRyan\n\nRyan Lunsford\nryan.lunsford@nagra.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-05T22:48:00.000Z",
+            "message": "Sorry I don't think I am qualified.\n"
+        },
+        {
+            "from": "Ryan Lunsford",
+            "time": "2017-04-05T22:49:00.000Z",
+            "message": "There’s another non-senior level role in the same group…see attached and \nlet me know if you’d be interested in this one.\n"
+        }
+    ]
+}

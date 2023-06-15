@@ -1,0 +1,87 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "5Nov17",
+    "participants": "Tim Bangert | IT Business Relationship Manager at OhioHealth > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Tim Bangert",
+        "url": "linkedin.com/in/timbangert",
+        "phone": "614.664.3366 (Work)",
+        "email": "tim@catalyst-ts.com",
+        "title": "IT Business Relationship Manager at OhioHealth"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Congrats on the new role! Hope you're doing well.",
+    "time": "2017-11-05T17:51:00.000Z",
+    "title": "IT Business Relationship Manager at OhioHealth"
+  },
+  {
+    "type": "conversations",
+    "conversations": "5Nov17",
+    "participants": "Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Congrats on the new role! Hope you're doing well.",
+    "time": "2017-11-05T17:51:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "5Nov17",
+    "participants": "Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Thank you.",
+    "time": "2017-11-05T18:35:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "5Nov17",
+    "participants": "Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Weird my phone said that message never sent.",
+    "time": "2017-11-05T18:35:00.000Z",
+    "title": "wizard"
+  }
+]

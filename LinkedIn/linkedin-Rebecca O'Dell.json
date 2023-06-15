@@ -1,0 +1,741 @@
+[
+    {
+        "experience": [
+            "Highlights",
+            [
+                "4 Mutual Connections",
+                "You and Rebecca both know Mark Vange, Shawn Doyle, and 2 others"
+            ],
+            [
+                "Rebecca can introduce you to 8 people at Asurion",
+                "Rebecca worked at Asurion"
+            ],
+            [
+                "Show more",
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Senior iOS Engineer - Contractor",
+                "Company Name",
+                "Capital One",
+                "Dates Employed",
+                "Sep 2016 – Present",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "San Francisco",
+                "Contributing to Capital One's iOS app adding new features and feature refinement in Swift."
+            ],
+            [
+                "Senior iOS Engineer - Contractor",
+                "Company Name",
+                "SEPHORA",
+                "Dates Employed",
+                "May 2016 – Sep 2016",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "Developed and debugged Sephora in-store sales apps (Swift and Objective-C)."
+            ],
+            [
+                "Senior iOS Engineer - Architect - Designer",
+                "Company Name",
+                "StylSavvy, Inc.",
+                "Dates Employed",
+                "Jan 2011 – Jun 2016",
+                "Employment Duration",
+                "5 yrs 6 mos",
+                "Location",
+                "San Francisco",
+                "Solo architect, designer and developer of the StylSavvy platform software consisting of an iOS app and backend server/database.  StylSavvy is a fashion shopping/styling iOS app with a database of over 260,000 products from leading retailers ranging from Macy’s to Saks.  I originally developed and marketed the software platform between 2011-2013 and completely redesigned it this year.  It's turned into my hobby app that I use to keep up with new iOS features and marketing concepts.The Objective C iOS app supports iOS 8 and iOS 9 features including Class Sizes and Auto-Layouts to universally support the iPhone and iPad in all orientations. Animations, custom Presentation Controllers, Core Data, NSOperations, GCD, image manipulation, smooth infinite scrolling. CocoaPods: Facebook, AFNetorking, SDWebImage.Heroku RoR server provides a JSON API to the app. Implemented Memcache to reduce HTTP request/response times. Used Twitter Bootstrap to design the landing page.  Mongo database of product data uses compound indexing to minimize access latency.  Run Ruby scripts on FTP downloaded merchandiser files to generate the product database."
+            ],
+            [
+                "Senior iOS Engineer & Mobile Product",
+                "Company Name",
+                "Madison Reed",
+                "Dates Employed",
+                "May 2015 – Jan 2016",
+                "Employment Duration",
+                "9 mos",
+                "Location",
+                "San Francisco",
+                "Restructured an existing iOS app, reducing its size from 150 Mbytes to 51 Mbytes.  Created a universal app using adaptive layout and size classes.  Replaced the ‘Hamburger’ navigation with the Tab Bar Navigation.  Architected, designed and coded new product features. Implemented HTTP Live Streaming color instruction videos.  Defined and developed a new Color Matching feature.Worked closely with the Design team to refine new designs to conform to Apple’s Human Interface Guidelines resulting in faster software development and cleaner code."
+            ],
+            [
+                "Senior iOS Engineer",
+                "Company Name",
+                "Hover Inc.",
+                "Dates Employed",
+                "Jan 2014 – Apr 2015",
+                "Employment Duration",
+                "1 yr 4 mos",
+                "Location",
+                "San Francisco, CA",
+                "Contributed to the development of a universal iPhone/iPad app that converts 2D pictures of buildings to 3D images.  Designed and developed an m-commerce feature, the map location based search, and the app’s log-in.  Debugged Core Data threading issues. Identified UIWebView JavaScript bridge timing issues."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Purdue University",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "EE and CS"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Fashion Consulting Network",
+                "7,661 members"
+            ],
+            [
+                "Fashion Marketing & Digital Media Group (FMG): A Meeting Place for Fashion & Marketing Professionals",
+                "89,062 members"
+            ],
+            [
+                "L'Oreal Women in Digital",
+                "1,016 members"
+            ],
+            [
+                "Fashion and Business Group",
+                "261 members"
+            ],
+            [
+                "Fashion & Accessory Startups",
+                "93,607 members"
+            ],
+            [
+                "Wearable / IoT",
+                "38,412 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Fashion Consulting Network",
+                "7,661 members"
+            ],
+            [
+                "Fashion Consulting Network",
+                "7,661 members"
+            ],
+            [
+                "Fashion Marketing & Digital Media Group (FMG): A Meeting Place for Fashion & Marketing Professionals",
+                "89,062 members"
+            ],
+            [
+                "Fashion Marketing & Digital Media Group (FMG): A Meeting Place for Fashion & Marketing Professionals",
+                "89,062 members"
+            ],
+            [
+                "L'Oreal Women in Digital",
+                "1,016 members"
+            ],
+            [
+                "L'Oreal Women in Digital",
+                "1,016 members"
+            ],
+            [
+                "Fashion and Business Group",
+                "261 members"
+            ],
+            [
+                "Fashion and Business Group",
+                "261 members"
+            ],
+            [
+                "Fashion & Accessory Startups",
+                "93,607 members"
+            ],
+            [
+                "Fashion & Accessory Startups",
+                "93,607 members"
+            ],
+            [
+                "Wearable / IoT",
+                "38,412 members"
+            ],
+            [
+                "Wearable / IoT",
+                "38,412 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "★ Kateryna Sytnyk",
+                "Lead / Senior iOS Developer - contract only",
+                "June 29, 2017, Rebecca worked with ★ Kateryna in the same group",
+                "I've worked with Rebecca side by side on the app that became a winner of J.D. Power and Associates award for \"Best Mobile Banking App 2017\", and it happened because of engineers like her contributing to the project. Not only Rebecca is a great developer with deep iOS knowledge, she's also a master at navigating the process and complexities of a mature app maintenance with 10mil+ users, 100+ people tech team, and all the nuances associated with that. She took on a role of team lead and I relied heavily on her to represent our team decisions and stay on top of architecture, process and app updates communication. Rebecca would always go an extra mile for the team success and I was lucky to work alongside her at Capital One. I highly recommend Rebecca as a great addition to any engineering team."
+            ],
+            [
+                "★ Kateryna Sytnyk",
+                "Lead / Senior iOS Developer - contract only",
+                "June 29, 2017, Rebecca worked with ★ Kateryna in the same group"
+            ],
+            [
+                "★ Kateryna Sytnyk",
+                "Lead / Senior iOS Developer - contract only",
+                "June 29, 2017, Rebecca worked with ★ Kateryna in the same group"
+            ],
+            [
+                "★ Kateryna Sytnyk",
+                "Lead / Senior iOS Developer - contract only",
+                "June 29, 2017, Rebecca worked with ★ Kateryna in the same group"
+            ],
+            "Lead / Senior iOS Developer - contract only",
+            [
+                "I've worked with Rebecca side by side on the app that became a winner of J.D. Power and Associates award for \"Best Mobile Banking App 2017\", and it happened because of engineers like her contributing to the project. Not only Rebecca is a great developer with deep iOS knowledge, she's also a master at navigating the process and complexities of a mature app maintenance with 10mil+ users, 100+ people tech team, and all the nuances associated with that. She took on a role of team lead and I relied heavily on her to represent our team decisions and stay on top of architecture, process and app updates communication. Rebecca would always go an extra mile for the team success and I was lucky to work alongside her at Capital One. I highly recommend Rebecca as a great addition to any engineering team."
+            ],
+            [
+                "I've worked with Rebecca side by side on the app that became a winner of J.D. Power and Associates award for \"Best Mobile Banking App 2017\", and it happened because of engineers like her contributing to the project. Not only Rebecca is a great developer with deep iOS knowledge, she's also a master at navigating the process and complexities of a mature app maintenance with 10mil+ users, 100+ people tech team, and all the nuances associated with that. She took on a role of team lead and I relied heavily on her to represent our team decisions and stay on top of architecture, process and app updates communication. Rebecca would always go an extra mile for the team success and I was lucky to work alongside her at Capital One. I highly recommend Rebecca as a great addition to any engineering team."
+            ],
+            [
+                "Hannah Camacho",
+                "🤓    Marketing Strategy   👓    Producer   🚀  AR/VR   🦄     #womenintech",
+                "February 7, 2014, Hannah worked with Rebecca but at different companies",
+                "Not only is Rebecca a brilliant developer, she has the determination to continue to pursue excellence in a number of fields many developers shy away from. Her understanding of the competitive nature of the app world give her a wise, critical eye give her a leg up during the critical product development phase. Her relate-ability and brilliance make her a force to be reckoned with and a great team player."
+            ],
+            [
+                "Hannah Camacho",
+                "🤓    Marketing Strategy   👓    Producer   🚀  AR/VR   🦄     #womenintech",
+                "February 7, 2014, Hannah worked with Rebecca but at different companies"
+            ],
+            [
+                "Hannah Camacho",
+                "🤓    Marketing Strategy   👓    Producer   🚀  AR/VR   🦄     #womenintech",
+                "February 7, 2014, Hannah worked with Rebecca but at different companies"
+            ],
+            [
+                "Hannah Camacho",
+                "🤓    Marketing Strategy   👓    Producer   🚀  AR/VR   🦄     #womenintech",
+                "February 7, 2014, Hannah worked with Rebecca but at different companies"
+            ],
+            "🤓    Marketing Strategy   👓    Producer   🚀  AR/VR   🦄     #womenintech",
+            [
+                "Not only is Rebecca a brilliant developer, she has the determination to continue to pursue excellence in a number of fields many developers shy away from. Her understanding of the competitive nature of the app world give her a wise, critical eye give her a leg up during the critical product development phase. Her relate-ability and brilliance make her a force to be reckoned with and a great team player."
+            ],
+            [
+                "Not only is Rebecca a brilliant developer, she has the determination to continue to pursue excellence in a number of fields many developers shy away from. Her understanding of the competitive nature of the app world give her a wise, critical eye give her a leg up during the critical product development phase. Her relate-ability and brilliance make her a force to be reckoned with and a great team player."
+            ],
+            [
+                "Ron Gentile",
+                "Entrepreneur, Startup Executive & Advisor",
+                "May 22, 2011, Ron managed Rebecca directly",
+                "I hired Rebecca to work with me on a new iPhone app. Rebecca did an awesome job! She was a very detailed project planner, used best-practices in building the app, was a pleasure to collaborate with, and was very efficient in her execution. I highly recommend her as evidenced by the fact we are still working together."
+            ],
+            [
+                "Ron Gentile",
+                "Entrepreneur, Startup Executive & Advisor",
+                "May 22, 2011, Ron managed Rebecca directly"
+            ],
+            [
+                "Ron Gentile",
+                "Entrepreneur, Startup Executive & Advisor",
+                "May 22, 2011, Ron managed Rebecca directly"
+            ],
+            [
+                "Ron Gentile",
+                "Entrepreneur, Startup Executive & Advisor",
+                "May 22, 2011, Ron managed Rebecca directly"
+            ],
+            "Entrepreneur, Startup Executive & Advisor",
+            [
+                "I hired Rebecca to work with me on a new iPhone app. Rebecca did an awesome job! She was a very detailed project planner, used best-practices in building the app, was a pleasure to collaborate with, and was very efficient in her execution. I highly recommend her as evidenced by the fact we are still working together."
+            ],
+            [
+                "I hired Rebecca to work with me on a new iPhone app. Rebecca did an awesome job! She was a very detailed project planner, used best-practices in building the app, was a pleasure to collaborate with, and was very efficient in her execution. I highly recommend her as evidenced by the fact we are still working together."
+            ],
+            [
+                "Chirag Chokshi",
+                "Principal Software Build/Release Management,DevOps, System Integrator",
+                "March 16, 2011, Chirag worked with Rebecca in different groups",
+                "Rebecca was self managed, much disciplined and very motivated to drive initiatives on time. Her ability to fully understand all aspects of the business as well as technology and be able to execute flawlessly. I would highly recommended Rebecca for any position and I am confident she knows how to succeed."
+            ],
+            [
+                "Chirag Chokshi",
+                "Principal Software Build/Release Management,DevOps, System Integrator",
+                "March 16, 2011, Chirag worked with Rebecca in different groups"
+            ],
+            [
+                "Chirag Chokshi",
+                "Principal Software Build/Release Management,DevOps, System Integrator",
+                "March 16, 2011, Chirag worked with Rebecca in different groups"
+            ],
+            [
+                "Chirag Chokshi",
+                "Principal Software Build/Release Management,DevOps, System Integrator",
+                "March 16, 2011, Chirag worked with Rebecca in different groups"
+            ],
+            "Principal Software Build/Release Management,DevOps, System Integrator",
+            [
+                "Rebecca was self managed, much disciplined and very motivated to drive initiatives on time. Her ability to fully understand all aspects of the business as well as technology and be able to execute flawlessly. I would highly recommended Rebecca for any position and I am confident she knows how to succeed."
+            ],
+            [
+                "Rebecca was self managed, much disciplined and very motivated to drive initiatives on time. Her ability to fully understand all aspects of the business as well as technology and be able to execute flawlessly. I would highly recommended Rebecca for any position and I am confident she knows how to succeed."
+            ],
+            [
+                "Javier Martínez Moll",
+                "Senior Producer at GameHouse",
+                "February 10, 2009, Javier worked with Rebecca in different groups",
+                "While my time at I-play I had the chance to work with Rebecca and was a real pleasure.She's a highly motivated person, able to inspire people and get real results.It really was pretty easy to align objectives between her US team and my EU QA team.I strongly recommend Rebecca and given the chance, I would definitely work again with her"
+            ],
+            [
+                "Javier Martínez Moll",
+                "Senior Producer at GameHouse",
+                "February 10, 2009, Javier worked with Rebecca in different groups"
+            ],
+            [
+                "Javier Martínez Moll",
+                "Senior Producer at GameHouse",
+                "February 10, 2009, Javier worked with Rebecca in different groups"
+            ],
+            [
+                "Javier Martínez Moll",
+                "Senior Producer at GameHouse",
+                "February 10, 2009, Javier worked with Rebecca in different groups"
+            ],
+            "Senior Producer at GameHouse",
+            [
+                "While my time at I-play I had the chance to work with Rebecca and was a real pleasure.She's a highly motivated person, able to inspire people and get real results.It really was pretty easy to align objectives between her US team and my EU QA team.I strongly recommend Rebecca and given the chance, I would definitely work again with her"
+            ],
+            [
+                "While my time at I-play I had the chance to work with Rebecca and was a real pleasure.She's a highly motivated person, able to inspire people and get real results.It really was pretty easy to align objectives between her US team and my EU QA team.I strongly recommend Rebecca and given the chance, I would definitely work again with her"
+            ],
+            [
+                "Anand Kashikar",
+                "Product Architect and Cofounder , Stealth Mode Startup in Wireless Space",
+                "September 7, 2007, Rebecca was senior to Anand but didn’t manage directly",
+                "Rebecca is very detailed oriented manager. She has this rare talent who is capable of keeping the balance between technology and business side for the company."
+            ],
+            [
+                "Anand Kashikar",
+                "Product Architect and Cofounder , Stealth Mode Startup in Wireless Space",
+                "September 7, 2007, Rebecca was senior to Anand but didn’t manage directly"
+            ],
+            [
+                "Anand Kashikar",
+                "Product Architect and Cofounder , Stealth Mode Startup in Wireless Space",
+                "September 7, 2007, Rebecca was senior to Anand but didn’t manage directly"
+            ],
+            [
+                "Anand Kashikar",
+                "Product Architect and Cofounder , Stealth Mode Startup in Wireless Space",
+                "September 7, 2007, Rebecca was senior to Anand but didn’t manage directly"
+            ],
+            "Product Architect and Cofounder , Stealth Mode Startup in Wireless Space",
+            [
+                "Rebecca is very detailed oriented manager. She has this rare talent who is capable of keeping the balance between technology and business side for the company."
+            ],
+            [
+                "Rebecca is very detailed oriented manager. She has this rare talent who is capable of keeping the balance between technology and business side for the company."
+            ],
+            [
+                "★ Kateryna Sytnyk",
+                "Lead / Senior iOS Developer - contract only",
+                "July 5, 2017, ★ Kateryna worked with Rebecca in the same group",
+                "Kateryna and I worked on a team on the Capital One app that won the J.D. Power Associates award for the \"Best Mobile Banking App 2017\".  And it's easy to understand why the app won the award with people like her contributing. Not only is she a great software engineer with a deep, deep knowledge of iOS, she also has this great understanding of agile development. There were many times when she guided the team to use the proper process, resulting in resulting in a much smoother work flow.  She's always available support people, she taught less experienced teammates with much patience and she practically held my hand to teach me the finer points of GIT, always without judgement or ego. Kateryna has many more qualities that make her one of the best colleagues I've ever worked with. She's a true asset to any engineering team!"
+            ],
+            [
+                "★ Kateryna Sytnyk",
+                "Lead / Senior iOS Developer - contract only",
+                "July 5, 2017, ★ Kateryna worked with Rebecca in the same group"
+            ],
+            [
+                "★ Kateryna Sytnyk",
+                "Lead / Senior iOS Developer - contract only",
+                "July 5, 2017, ★ Kateryna worked with Rebecca in the same group"
+            ],
+            [
+                "★ Kateryna Sytnyk",
+                "Lead / Senior iOS Developer - contract only",
+                "July 5, 2017, ★ Kateryna worked with Rebecca in the same group"
+            ],
+            "Lead / Senior iOS Developer - contract only",
+            [
+                "Kateryna and I worked on a team on the Capital One app that won the J.D. Power Associates award for the \"Best Mobile Banking App 2017\".  And it's easy to understand why the app won the award with people like her contributing. Not only is she a great software engineer with a deep, deep knowledge of iOS, she also has this great understanding of agile development. There were many times when she guided the team to use the proper process, resulting in resulting in a much smoother work flow.  She's always available support people, she taught less experienced teammates with much patience and she practically held my hand to teach me the finer points of GIT, always without judgement or ego. Kateryna has many more qualities that make her one of the best colleagues I've ever worked with. She's a true asset to any engineering team!"
+            ],
+            [
+                "Kateryna and I worked on a team on the Capital One app that won the J.D. Power Associates award for the \"Best Mobile Banking App 2017\".  And it's easy to understand why the app won the award with people like her contributing. Not only is she a great software engineer with a deep, deep knowledge of iOS, she also has this great understanding of agile development. There were many times when she guided the team to use the proper process, resulting in resulting in a much smoother work flow.  She's always available support people, she taught less experienced teammates with much patience and she practically held my hand to teach me the finer points of GIT, always without judgement or ego. Kateryna has many more qualities that make her one of the best colleagues I've ever worked with. She's a true asset to any engineering team!"
+            ],
+            [
+                "Linda Cadigan",
+                "Director of Operations at Luta Security",
+                "May 20, 2013, Rebecca worked with Linda but at different companies",
+                "A consummate public relations and marketing adviser, Linda provides guidance and executive oversight with skill, patience and compassion. Being one of the pioneers of SEO and split testing in the technology space, she has that rare quality to match algorithm with human behavior to increase conversions while also increasing brand awareness and revenue."
+            ],
+            [
+                "Linda Cadigan",
+                "Director of Operations at Luta Security",
+                "May 20, 2013, Rebecca worked with Linda but at different companies"
+            ],
+            [
+                "Linda Cadigan",
+                "Director of Operations at Luta Security",
+                "May 20, 2013, Rebecca worked with Linda but at different companies"
+            ],
+            [
+                "Linda Cadigan",
+                "Director of Operations at Luta Security",
+                "May 20, 2013, Rebecca worked with Linda but at different companies"
+            ],
+            "Director of Operations at Luta Security",
+            [
+                "A consummate public relations and marketing adviser, Linda provides guidance and executive oversight with skill, patience and compassion. Being one of the pioneers of SEO and split testing in the technology space, she has that rare quality to match algorithm with human behavior to increase conversions while also increasing brand awareness and revenue."
+            ],
+            [
+                "A consummate public relations and marketing adviser, Linda provides guidance and executive oversight with skill, patience and compassion. Being one of the pioneers of SEO and split testing in the technology space, she has that rare quality to match algorithm with human behavior to increase conversions while also increasing brand awareness and revenue."
+            ]
+        ],
+        "skills": [
+            [
+                "Mobile Devices",
+                "See 55 endorsements for Mobile Devices",
+                "55",
+                "Mobile Devices",
+                "Endorse",
+                "Endorsed by Joakim Wiklund and 6 others who are highly skilled at this",
+                "Endorsed by 2 of Rebecca’s colleagues at Madison Reed"
+            ],
+            [
+                "Mobile Devices",
+                "See 55 endorsements for Mobile Devices",
+                "55"
+            ],
+            [
+                "Software Project Management",
+                "See 41 endorsements for Software Project Management",
+                "41",
+                "Software Project Management",
+                "Endorse",
+                "Endorsed by Shawn Doyle, who is highly skilled at this",
+                "Endorsed by Shawn Doyle (mutual connection)"
+            ],
+            [
+                "Software Project Management",
+                "See 41 endorsements for Software Project Management",
+                "41"
+            ],
+            [
+                "User Experience",
+                "See 41 endorsements for User Experience",
+                "41",
+                "User Experience",
+                "Endorse",
+                "Endorsed by Wade Vesey and 1 other mutual connection"
+            ],
+            [
+                "User Experience",
+                "See 41 endorsements for User Experience",
+                "41"
+            ],
+            [
+                "Integration",
+                "See 34 endorsements for Integration",
+                "34",
+                "Integration",
+                "Endorse"
+            ],
+            [
+                "Integration",
+                "See 34 endorsements for Integration",
+                "34"
+            ],
+            [
+                "Program Management",
+                "See 31 endorsements for Program Management",
+                "31",
+                "Program Management",
+                "Endorse"
+            ],
+            [
+                "Program Management",
+                "See 31 endorsements for Program Management",
+                "31"
+            ],
+            [
+                "iOS",
+                "See 24 endorsements for iOS",
+                "24",
+                "iOS",
+                "Endorse"
+            ],
+            [
+                "iOS",
+                "See 24 endorsements for iOS",
+                "24"
+            ],
+            [
+                "Mobile Applications",
+                "See 24 endorsements for Mobile Applications",
+                "24",
+                "Mobile Applications",
+                "Endorse"
+            ],
+            [
+                "Mobile Applications",
+                "See 24 endorsements for Mobile Applications",
+                "24"
+            ],
+            [
+                "Quality Assurance",
+                "See 23 endorsements for Quality Assurance",
+                "23",
+                "Quality Assurance",
+                "Endorse"
+            ],
+            [
+                "Quality Assurance",
+                "See 23 endorsements for Quality Assurance",
+                "23"
+            ],
+            [
+                "Android",
+                "See 23 endorsements for Android",
+                "23",
+                "Android",
+                "Endorse"
+            ],
+            [
+                "Android",
+                "See 23 endorsements for Android",
+                "23"
+            ],
+            [
+                "Management",
+                "See 22 endorsements for Management",
+                "22",
+                "Management",
+                "Endorse"
+            ],
+            [
+                "Management",
+                "See 22 endorsements for Management",
+                "22"
+            ],
+            [
+                "Software Development",
+                "See 20 endorsements for Software Development",
+                "20",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development",
+                "See 20 endorsements for Software Development",
+                "20"
+            ],
+            [
+                "Databases",
+                "See 14 endorsements for Databases",
+                "14",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 14 endorsements for Databases",
+                "14"
+            ],
+            [
+                "Product Development",
+                "See 11 endorsements for Product Development",
+                "11",
+                "Product Development",
+                "Endorse"
+            ],
+            [
+                "Product Development",
+                "See 11 endorsements for Product Development",
+                "11"
+            ],
+            [
+                "Ruby on Rails",
+                "See 9 endorsements for Ruby on Rails",
+                "9",
+                "Ruby on Rails",
+                "Endorse"
+            ],
+            [
+                "Ruby on Rails",
+                "See 9 endorsements for Ruby on Rails",
+                "9"
+            ],
+            [
+                "Cross-functional Team Leadership",
+                "See 9 endorsements for Cross-functional Team Leadership",
+                "9",
+                "Cross-functional Team Leadership",
+                "Endorse"
+            ],
+            [
+                "Cross-functional Team Leadership",
+                "See 9 endorsements for Cross-functional Team Leadership",
+                "9"
+            ],
+            [
+                "Mobile Communications",
+                "See 9 endorsements for Mobile Communications",
+                "9",
+                "Mobile Communications",
+                "Endorse"
+            ],
+            [
+                "Mobile Communications",
+                "See 9 endorsements for Mobile Communications",
+                "9"
+            ],
+            [
+                "Scrum",
+                "See 9 endorsements for Scrum",
+                "9",
+                "Scrum",
+                "Endorse"
+            ],
+            [
+                "Scrum",
+                "See 9 endorsements for Scrum",
+                "9"
+            ],
+            [
+                "iPhone",
+                "See 7 endorsements for iPhone",
+                "7",
+                "iPhone",
+                "Endorse"
+            ],
+            [
+                "iPhone",
+                "See 7 endorsements for iPhone",
+                "7"
+            ],
+            [
+                "Account Management",
+                "See 5 endorsements for Account Management",
+                "5",
+                "Account Management",
+                "Endorse"
+            ],
+            [
+                "Account Management",
+                "See 5 endorsements for Account Management",
+                "5"
+            ],
+            [
+                "Software Design",
+                "See 5 endorsements for Software Design",
+                "5",
+                "Software Design",
+                "Endorse"
+            ],
+            [
+                "Software Design",
+                "See 5 endorsements for Software Design",
+                "5"
+            ],
+            [
+                "iOS development",
+                "See 4 endorsements for iOS development",
+                "4",
+                "iOS development",
+                "Endorse"
+            ],
+            [
+                "iOS development",
+                "See 4 endorsements for iOS development",
+                "4"
+            ],
+            [
+                "User Interface Design",
+                "See 3 endorsements for User Interface Design",
+                "3",
+                "User Interface Design",
+                "Endorse"
+            ],
+            [
+                "User Interface Design",
+                "See 3 endorsements for User Interface Design",
+                "3"
+            ],
+            [
+                "VoIP",
+                "See 3 endorsements for VoIP",
+                "3",
+                "VoIP",
+                "Endorse"
+            ],
+            [
+                "VoIP",
+                "See 3 endorsements for VoIP",
+                "3"
+            ],
+            [
+                "MongoDB",
+                "See 2 endorsements for MongoDB",
+                "2",
+                "MongoDB",
+                "Endorse"
+            ],
+            [
+                "MongoDB",
+                "See 2 endorsements for MongoDB",
+                "2"
+            ],
+            [
+                "Photoshop",
+                "See 2 endorsements for Photoshop",
+                "2",
+                "Photoshop",
+                "Endorse"
+            ],
+            [
+                "Photoshop",
+                "See 2 endorsements for Photoshop",
+                "2"
+            ],
+            [
+                "Mobile Internet",
+                "See 2 endorsements for Mobile Internet",
+                "2",
+                "Mobile Internet",
+                "Endorse"
+            ],
+            [
+                "Mobile Internet",
+                "See 2 endorsements for Mobile Internet",
+                "2"
+            ]
+        ],
+        "summary": "    Senior iOS Engineer.  Strengths: Utilizing Cocoa Touch design patterns to architect/develop clean and intuitive UI/UX, efficient network interfaces, low memory footprints, and concurrent processing.   Other skills: Debugging, Instruments, GIT, Ruby on Rails, Mongo, Photoshop/Sketch, Software Management, Program Management, Account Management, QA Management.\n  \n  \n",
+        "name": "Rebecca O'Dell",
+        "title": "Senior iOS Engineer - Contractor at Capital One",
+        "url": "linkedin.com/in/stylsavvyrebecca",
+        "phone": null,
+        "email": "rebecca@stylsavvy.com"
+    }
+]

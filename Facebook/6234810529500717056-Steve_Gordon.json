@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6234810529500717056/",
+    "participants": [
+        {
+            "name": "Steve Gordon",
+            "title": "Superintendent at Valor Public Schools",
+            "url": "linkedin.com/in/steve-gordon-78b00669",
+            "phone": null,
+            "email": "stepheng0725@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-07T19:11:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-07T19:11:00.000Z",
+            "message": "What do you think of this?\nhttp://www.smithsonianmag.com/innovation/peacemaker-david-lynch-winner-smithsonian-ingenuity-awards-education-180961126/\n"
+        }
+    ]
+}

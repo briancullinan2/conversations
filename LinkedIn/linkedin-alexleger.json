@@ -1,0 +1,459 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "53 Mutual Connections",
+                "You and Juan (Alex) both know Peter Reno, Jim Skidmore, and 51 others"
+            ],
+            [
+                "You both worked at Charles Schwab",
+                "Juan (Alex) worked at Charles Schwab before you started"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Senior DevOps Engineer",
+                "Company Name",
+                "Xero",
+                "Dates Employed",
+                "Apr 2016 – Present",
+                "Employment Duration",
+                "1 yr 8 mos",
+                "Location",
+                "San Francisco, CA",
+                "Responsible for build, continuous integration, and continuous delivery and infrastructure automation infrastructure."
+            ],
+            [
+                "Build and Deployment Architect",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "2010 – 2015",
+                "Employment Duration",
+                "5 yrs",
+                "Location",
+                "San Francisco Bay Area",
+                "Responsible for providing overall strategy for release deployment automation, managing day-to-day implementation of continuous integration implementation, continuous delivery, and DevOps across the entire product delivery enterprise. Provided tactical guidance and direction for release deployment for all customer facing web applications across all test and production environments. Accomplishments include:•\tWorked with team members to design and implement infrastructure and application configuration management automation for all test and production environments supporting Schwab.com. Improving the deployment of application release times from hours to under 30 minutes•\tDesigned and implemented release cycle enhancements, reducing the time to deliver releases for Schwab.com from 6 to 4 weeks, and providing a more efficient interface for all Scrum teams to contribute changes to each release•\tDesigned and implemented a branching scheme for a number of (20+) Java applications, enabling greater efficiency and compliance for the delivery of enhancements to hundreds of investment managers•\tConducted successful Puppet proof of concept to automate the provisioning and configuration of the build infrastructure"
+            ],
+            [
+                "Build and Deployment Engineer",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "2006 – 2010",
+                "Employment Duration",
+                "4 yrs",
+                "Responsible for supporting build, deployment, and configuration to all test and production environments for multiple types of applications. Co-owner of all branching, merging, build, and deployment practices. Accomplishments include:•\tResponsible for the successful configuration of servers and application deployment to a new virtual infrastructure for a large web farm supporting tens of thousands of customers a day•\tLed Deployment and Configuration Management team in providing build and deployment services for a complex suite of applications including web, database, console, and desktop applications across multiple development organizations both on Linux and Windows. Promoted to Technical Director in 2010•\tDesign an implemented branching and merging scheme and process for Schwab.com, supporting over 60 developers over 3 geographic locations (San Francisco, Austin, and Bangalore)"
+            ],
+            [
+                "Senior Technical Project Manager",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "2000 – 2006",
+                "Employment Duration",
+                "6 yrs",
+                "Responsible for the successful implementation of a number of projects in various organizations in the Schwab Investor Services Technology organization, including the Project Management Team, Voice Technology team, and customer email organization. Accomplishments include:•\tManaged the successful migration of the Schwab’s voice response units (VRUs) to a new order and trading platform representing savings of thousands of dollars for the firm and included new functionality for VRU users•\tManaged complete rewrite of all of the routing rules to support the firms new service product offering Personal Choice Call. The firm’s complete redesign of all core service offering to clients•\tManaged the redesign of Schwab’s electronic confirm notifications and end of day summary positions summary (My Closing Summary)•\tManaged the implementation of electronic trade notifications"
+            ],
+            [
+                "Production Support and StoryServer Administrator",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "2000 – 2001",
+                "Employment Duration",
+                "1 yr",
+                "Responsible for the installation, upgrade and maintenance of all StoryServer (content management system) environments (development, testing and production) for schwab.com. Accomplishments include:•\tPackaged and installed weekly releases of content and functionality to schwab.com•\tProvided developer and production support with StoryServer issues•\tEstablished processes to improve success rate of StoryServer releases. Increasing successful content pushes from around 50% to over 90%•\tRedesigned the StoryServer production architecture to enable independent releases to each data center improving resilience and availability"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "City University of New York City College",
+                "Degree Name",
+                "Bachelor of Science (B.S.)",
+                "Field Of Study",
+                "Computer Science"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "VMware",
+                "584,986 followers"
+            ],
+            [
+                "Oracle",
+                "2,348,260 followers"
+            ],
+            [
+                "Google",
+                "5,467,342 followers"
+            ],
+            [
+                "TED Conferences",
+                "6,053,027 followers"
+            ],
+            [
+                "Forbes",
+                "5,373,049 followers"
+            ],
+            [
+                "JPMorgan Chase & Co.",
+                "1,015,564 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (373)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "VMware",
+                "584,986 followers"
+            ],
+            [
+                "VMware",
+                "584,986 followers"
+            ],
+            [
+                "Oracle",
+                "2,348,260 followers"
+            ],
+            [
+                "Oracle",
+                "2,348,260 followers"
+            ],
+            [
+                "Google",
+                "5,467,342 followers"
+            ],
+            [
+                "Google",
+                "5,467,342 followers"
+            ],
+            [
+                "TED Conferences",
+                "6,053,027 followers"
+            ],
+            [
+                "TED Conferences",
+                "6,053,027 followers"
+            ],
+            [
+                "Forbes",
+                "5,373,049 followers"
+            ],
+            [
+                "Forbes",
+                "5,373,049 followers"
+            ],
+            [
+                "JPMorgan Chase & Co.",
+                "1,015,564 followers"
+            ],
+            [
+                "JPMorgan Chase & Co.",
+                "1,015,564 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Continuous Delivery",
+                "See 3 endorsements for Continuous Delivery",
+                "3",
+                "Continuous Delivery",
+                "Endorse",
+                "Rudi Weber and 2 connections have given endorsements for this skill"
+            ],
+            [
+                "Continuous Delivery",
+                "See 3 endorsements for Continuous Delivery",
+                "3"
+            ],
+            [
+                "Software Deployment",
+                "See 1 endorsement for Software Deployment",
+                "1",
+                "Software Deployment",
+                "Endorse",
+                "Rudi Weber has given an endorsement for this skill"
+            ],
+            [
+                "Software Deployment",
+                "See 1 endorsement for Software Deployment",
+                "1"
+            ],
+            [
+                "Unix",
+                "See 8 endorsements for Unix",
+                "8",
+                "Unix",
+                "Endorse",
+                "Endorsed by Mark Cwetna, who is highly skilled at this",
+                "Endorsed by 8 of Juan (Alex)’s colleagues at Charles Schwab"
+            ],
+            [
+                "Unix",
+                "See 8 endorsements for Unix",
+                "8"
+            ],
+            [
+                "Release Management",
+                "See 1 endorsement for Release Management",
+                "1",
+                "Release Management",
+                "Endorse"
+            ],
+            [
+                "Release Management",
+                "See 1 endorsement for Release Management",
+                "1"
+            ],
+            [
+                "SDLC",
+                "See 24 endorsements for SDLC",
+                "24",
+                "SDLC",
+                "Endorse"
+            ],
+            [
+                "SDLC",
+                "See 24 endorsements for SDLC",
+                "24"
+            ],
+            [
+                "Agile Methodologies",
+                "See 32 endorsements for Agile Methodologies",
+                "32",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 32 endorsements for Agile Methodologies",
+                "32"
+            ],
+            [
+                "Scrum",
+                "See 14 endorsements for Scrum",
+                "14",
+                "Scrum",
+                "Endorse"
+            ],
+            [
+                "Scrum",
+                "See 14 endorsements for Scrum",
+                "14"
+            ],
+            [
+                "Project Management",
+                "See 9 endorsements for Project Management",
+                "9",
+                "Project Management",
+                "Endorse"
+            ],
+            [
+                "Project Management",
+                "See 9 endorsements for Project Management",
+                "9"
+            ],
+            [
+                "Software Project Management",
+                "See 19 endorsements for Software Project Management",
+                "19",
+                "Software Project Management",
+                "Endorse"
+            ],
+            [
+                "Software Project Management",
+                "See 19 endorsements for Software Project Management",
+                "19"
+            ],
+            [
+                "Agile Project Management",
+                "See 13 endorsements for Agile Project Management",
+                "13",
+                "Agile Project Management",
+                "Endorse"
+            ],
+            [
+                "Agile Project Management",
+                "See 13 endorsements for Agile Project Management",
+                "13"
+            ],
+            [
+                "Integration",
+                "See 12 endorsements for Integration",
+                "12",
+                "Integration",
+                "Endorse"
+            ],
+            [
+                "Integration",
+                "See 12 endorsements for Integration",
+                "12"
+            ],
+            [
+                "Software Development",
+                "See 13 endorsements for Software Development",
+                "13",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development",
+                "See 13 endorsements for Software Development",
+                "13"
+            ],
+            [
+                "Enterprise Architecture",
+                "See 10 endorsements for Enterprise Architecture",
+                "10",
+                "Enterprise Architecture",
+                "Endorse"
+            ],
+            [
+                "Enterprise Architecture",
+                "See 10 endorsements for Enterprise Architecture",
+                "10"
+            ],
+            [
+                "User Acceptance Testing",
+                "See 6 endorsements for User Acceptance Testing",
+                "6",
+                "User Acceptance Testing",
+                "Endorse"
+            ],
+            [
+                "User Acceptance Testing",
+                "See 6 endorsements for User Acceptance Testing",
+                "6"
+            ],
+            [
+                "Business Analysis",
+                "See 9 endorsements for Business Analysis",
+                "9",
+                "Business Analysis",
+                "Endorse"
+            ],
+            [
+                "Business Analysis",
+                "See 9 endorsements for Business Analysis",
+                "9"
+            ],
+            [
+                "Requirements Analysis",
+                "See 11 endorsements for Requirements Analysis",
+                "11",
+                "Requirements Analysis",
+                "Endorse"
+            ],
+            [
+                "Requirements Analysis",
+                "See 11 endorsements for Requirements Analysis",
+                "11"
+            ],
+            [
+                "SOA",
+                "See 6 endorsements for SOA",
+                "6",
+                "SOA",
+                "Endorse"
+            ],
+            [
+                "SOA",
+                "See 6 endorsements for SOA",
+                "6"
+            ],
+            [
+                "Web Services",
+                "See 7 endorsements for Web Services",
+                "7",
+                "Web Services",
+                "Endorse"
+            ],
+            [
+                "Web Services",
+                "See 7 endorsements for Web Services",
+                "7"
+            ],
+            [
+                "Requirements Gathering",
+                "See 7 endorsements for Requirements Gathering",
+                "7",
+                "Requirements Gathering",
+                "Endorse"
+            ],
+            [
+                "Requirements Gathering",
+                "See 7 endorsements for Requirements Gathering",
+                "7"
+            ],
+            [
+                "Vendor Management",
+                "See 7 endorsements for Vendor Management",
+                "7",
+                "Vendor Management",
+                "Endorse"
+            ],
+            [
+                "Vendor Management",
+                "See 7 endorsements for Vendor Management",
+                "7"
+            ],
+            [
+                "Solution Architecture",
+                "See 3 endorsements for Solution Architecture",
+                "3",
+                "Solution Architecture",
+                "Endorse"
+            ],
+            [
+                "Solution Architecture",
+                "See 3 endorsements for Solution Architecture",
+                "3"
+            ],
+            [
+                "Software Development Life Cycle (SDLC)",
+                "See 7 endorsements for Software Development Life Cycle (SDLC)",
+                "7",
+                "Software Development Life Cycle (SDLC)",
+                "Endorse"
+            ],
+            [
+                "Software Development Life Cycle (SDLC)",
+                "See 7 endorsements for Software Development Life Cycle (SDLC)",
+                "7"
+            ]
+        ],
+        "summary": "    Engineer with more than 15 years of experience, specializing in Software Build, Release and DevOps Engineering, and Configuration Management.  Widely recognized for successfully automating the configuration and deployment of Charles Schwab’s web trading server farm, the company’s single largest revenue generating platform.  Engineering with hot passion.SKILLS AND PROFICIENCIESTechnical -• Scripting: Perl 5, Python, and various Linux/Unix shells, Windows PowerShell, and the Batch language• Hypertext Markup Language (HTML), eXtensible Markup Language (XML), JavaScript, Cascading Style Sheets  • Database: Oracle RDBMS, MySQL, SQL Server• Web and Application Servers: IBM IHS Web Server, WebSphere Application Server, Apache Web Server, and Internet Information Server (IIS) 6.x and 7.x• TCP/IP networking  \t• Systems Administration:  Ubuntu, Debian, CentOS, RedHat Enterprise Linux (RHEL), Windows, etc.• Build and Continuous Integration Tools: Jenkins CI, Maven, SonarQube, Nexus, and Team Foundation Sever (TFS) Team Build• Configuration Management: Puppet, infrastructure as code • Version Control Tools: Git, Team Foundation Server, Subversion, and ClearCaseProject Management -• Scrum and the Rational Unified Process• Project Management Institute best practices• Microsoft Office Project and Team Foundation Server Agile Planning tool• Scrum Master certification• Certified to mentor and coach Agile teams\n  \n  \n",
+        "name": "Juan (Alex) Leger",
+        "title": "Build Engineer | Deployment Engineer | Release Manager | DevOps Engineer specializing in continuous deployment.",
+        "url": "linkedin.com/in/alexleger",
+        "phone": "415 218 5589 (Mobile)",
+        "email": "alex.leger@earthlink.net"
+    }
+]

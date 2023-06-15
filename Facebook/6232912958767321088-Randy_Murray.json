@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6232912958767321088/",
+    "participants": [
+        {
+            "name": "Randy Murray",
+            "title": "Owner, Randy Murray Productions",
+            "url": "linkedin.com/in/randy-murray-70ba656",
+            "phone": null,
+            "email": "randy@randymurrayproductions.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-02-02T13:30:00.000Z"
+        }
+    ]
+}

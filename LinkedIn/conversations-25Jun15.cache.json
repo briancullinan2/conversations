@@ -1,0 +1,28 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "25Jun15",
+    "participants": "Brian Cullinan | wizard > Stephanie Paul | Personal Trainer - Hollistic Medicine at Independent Personal Trainer and Fitness Instructor",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Stephanie Paul",
+        "url": "linkedin.com/in/stephanie-paul-1a8119b0",
+        "title": "Personal Trainer - Hollistic Medicine at Independent Personal Trainer and Fitness Instructor"
+      }
+    ],
+    "message": "Thanks, I don't have any children though. Can I dress up like a baby and play with toys and get fed all day? I don't think Mountainside Fitness will accept me in to their daycare program.",
+    "time": "2015-06-25T20:55:00.000Z",
+    "title": "wizard"
+  }
+]

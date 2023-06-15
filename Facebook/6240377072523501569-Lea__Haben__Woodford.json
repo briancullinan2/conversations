@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6240377072523501569/",
+    "participants": [
+        {
+            "name": "Lea (Haben) Woodford",
+            "title": "CEO of SmartFem Media★Motivational Speaker★Media Personality★ Branding Expert ★Author★TV Host SmartFem TV★C-Suite TV",
+            "url": "linkedin.com/in/leahaben",
+            "phone": "480-269-6636 (Work)",
+            "email": "lea@smartfem.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-23T03:50:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Lea Woodford",
+            "time": "2018-02-23T03:52:00.000Z",
+            "message": "You're most welcome.\n"
+        }
+    ]
+}

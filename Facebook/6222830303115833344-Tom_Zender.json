@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6222830303115833344/",
+    "participants": [
+        {
+            "name": "Tom Zender",
+            "title": "Experienced CEO Mentor and Business Coach, Bestselling Author, Professional Speaker",
+            "url": "linkedin.com/in/tomzender",
+            "phone": "949-910-5075 (Work)",
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Tom Zender",
+            "message": "Hi Brian,\nMany thanks for this new LinkedIn connection.\nBest always,\nTom\n",
+            "time": "2018-01-05T17:45:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-05T18:43:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6309772346550992896/",
+    "participants": [
+        {
+            "name": "David Bradford",
+            "title": "CEO FluentWorlds",
+            "url": "linkedin.com/in/davidbradford",
+            "phone": "801-231-0009 (Mobile)",
+            "email": "david.bradford@fluentworlds.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "David Bradford",
+            "message": "Congrats on your success at Swiftpage, Brian. I'm CEO for one of the fastest growing English learning apps globally, FluentWorlds. It has over 54 3D levels, advanced accent reduction, a 4.9 iTunes rating & web version. Expanding dev team, needs: Java,Linux,PhP,Python,Unity,WordPress. Thanks!",
+            "time": "2017-09-01T20:47:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-09-02T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Thank you for reaching out David.  I've spent years working on an education app called \nStudySauce.com\n . It's like flashcard but it uses the forgetting curve to remind you of what material you're about to forget.  I certainly appreciate the pursuit of bettering education.",
+            "time": "2017-09-04T17:35:00.000Z"
+        },
+        {
+            "from": "David Bradford",
+            "message": "How many downloads have you had for your app? How do you charge for?",
+            "time": "2017-11-04T20:29:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "We did a few pilots with less than 1000 users total. We would charge a small monthly subscription or a one time fee depending on the client. Anyone can contribute new material.",
+            "time": "2017-11-04T20:31:00.000Z"
+        }
+    ]
+}

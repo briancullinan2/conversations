@@ -1,0 +1,148 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "17Oct17",
+    "participants": "Brian Cullinan | wizard > Dale Moberg | Chief Architect at Orion Health",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Dale Moberg",
+        "url": "linkedin.com/in/dale-moberg-5aaba",
+        "email": "dale.moberg@gmail.com",
+        "title": "Chief Architect at Orion Health"
+      }
+    ],
+    "message": "Had a technical interview at Orion despite the referral they still have not emailed me back. This is rudeness for the second time I have reached out. I hope you apply somewhere new soon, \"[happy employees make the best candidates]\" - Lou Adler :)",
+    "time": "2017-10-17T18:05:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "17Oct17",
+    "participants": "Brian Cullinan | wizard > Kelly Smith | Founder and CEO at Prenda",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Kelly Smith",
+        "url": "linkedin.com/in/kellysmith35",
+        "email": "krsmith35@gmail.com",
+        "title": "Founder and CEO at Prenda"
+      }
+    ],
+    "message": "How are things going?",
+    "time": "2017-10-17T17:48:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "17Oct17",
+    "participants": "Kelly Smith | Founder and CEO at Prenda > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Kelly Smith",
+        "url": "linkedin.com/in/kellysmith35",
+        "email": "krsmith35@gmail.com",
+        "title": "Founder and CEO at Prenda"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Hi Brian,",
+    "time": "2017-10-17T19:33:00.000Z",
+    "title": "Founder and CEO at Prenda"
+  },
+  {
+    "type": "conversations",
+    "conversations": "17Oct17",
+    "participants": "Kelly Smith | Founder and CEO at Prenda > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Kelly Smith",
+        "url": "linkedin.com/in/kellysmith35",
+        "email": "krsmith35@gmail.com",
+        "title": "Founder and CEO at Prenda"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Things are good - busy, hustling to get more customers signed up. I don't check linked in very often, so here's my email for future communication: kelly@prenda.co",
+    "time": "2017-10-17T19:33:00.000Z",
+    "title": "Founder and CEO at Prenda"
+  },
+  {
+    "type": "conversations",
+    "conversations": "17Oct17",
+    "participants": "Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Talk to you soon! Thank you!",
+    "time": "2017-10-17T15:29:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "17Oct17",
+    "participants": "Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "I believe you are a genius!",
+    "time": "2017-10-17T15:28:00.000Z",
+    "title": "wizard"
+  }
+]

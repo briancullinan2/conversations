@@ -1,0 +1,102 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "7Jan17",
+    "participants": "Tania Katan | Creative Instigator Seeks Innovative Companies Looking to Spark Small-to-Gigantic Cultural Revolutions! > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Tania Katan",
+        "url": "linkedin.com/in/tania-katan-6b913561",
+        "email": "info@taniakatan.com",
+        "title": "Creative Instigator Seeks Innovative Companies Looking to Spark Small-to-Gigantic Cultural Revolutions!"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Yes, I will consider voting for you in 2020!",
+    "time": "2017-01-07T21:07:00.000Z",
+    "title": "Creative Instigator Seeks Innovative Companies Looking to Spark Small-to-Gigantic Cultural Revolutions!"
+  },
+  {
+    "type": "conversations",
+    "conversations": "7Jan17",
+    "participants": "Brian Cullinan | wizard > Tania Katan | Creative Instigator Seeks Innovative Companies Looking to Spark Small-to-Gigantic Cultural Revolutions!",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Tania Katan",
+        "url": "linkedin.com/in/tania-katan-6b913561",
+        "email": "info@taniakatan.com",
+        "title": "Creative Instigator Seeks Innovative Companies Looking to Spark Small-to-Gigantic Cultural Revolutions!"
+      }
+    ],
+    "message": "What is your ambition?",
+    "time": "2017-01-07T21:29:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "7Jan17",
+    "participants": "'Luni' Libes | Entreprenuer, Author, Mentor, Advisor, Investor > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "'Luni' Libes",
+        "url": "linkedin.com/in/lunarmobiscuit",
+        "email": "lunarmobiscuit@gmail.com",
+        "title": "Entreprenuer, Author, Mentor, Advisor, Investor"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "LinkedIn doesn't have any APIs to automate the process, otherwise I'd use Zapier. I presume its scrapable, but they do change the UI quite often too. Cheaper to hire Filipino humans than to write code.",
+    "time": "2017-01-07T01:25:00.000Z",
+    "title": "Entreprenuer, Author, Mentor, Advisor, Investor"
+  },
+  {
+    "type": "conversations",
+    "conversations": "7Jan17",
+    "participants": "Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-07T00:48:00.000Z",
+    "title": "wizard"
+  }
+]

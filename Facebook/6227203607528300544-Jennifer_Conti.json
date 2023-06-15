@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6227203607528300544/",
+    "participants": [
+        {
+            "name": "Jennifer Conti",
+            "title": "Strategic Finance Analyst, Intel Corp",
+            "url": "linkedin.com/in/jennifer-conti-aa7b09112",
+            "phone": "",
+            "email": "jbconti39@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-01-17T19:23:00.000Z",
+            "message": "Thank you for connecting! I love Intel\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-28T01:27:00.000Z",
+            "message": "Congrats on your work anniversary!\n"
+        }
+    ]
+}

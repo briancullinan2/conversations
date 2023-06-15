@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6234511958930976768/",
+    "participants": [
+        {
+            "name": "Chuck Gutro",
+            "title": "Executive Asst. at Salesforce.com",
+            "url": "linkedin.com/in/chuckgutro",
+            "phone": null,
+            "email": "cgutro@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-06T23:24:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6237655313747636224/",
+    "participants": [
+        {
+            "name": "Pamela Fleming",
+            "title": "CEO at On-Demand Talent Management",
+            "url": "linkedin.com/in/pamela-fleming-5799325",
+            "phone": null,
+            "email": "pam@ondemandtm.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-15T15:35:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Pamela Fleming",
+            "time": "2018-02-15T15:39:00.000Z",
+            "message": "A pleasure Brian! Thank you as well!!\n"
+        }
+    ]
+}

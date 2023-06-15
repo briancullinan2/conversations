@@ -1,0 +1,92 @@
+------------ session 62291328 begin Sun Sep 30 01:05:05 2007 ------------
+av_control_initialize: incoming 1
+av_control_initialize: medium AIM
+av_control_initialize: remote user twcz3
+av_control_initialize: local user bjcullinan
+av_control_initialize: local ip internal 3232235896
+av_control_initialize: local sip port internal 5060
+av_control_initialize: remote pair (ext) 16777343/0
+av_control_initialize: remote pair (int) 1597469318/50195
+sess: queued 134
+------------ session 62291328 end Sun Sep 30 01:05:31 2007 ------------
+------------ session 62482352 begin Wed Oct 17 21:35:24 2007 ------------
+av_control_initialize: incoming 1
+av_control_initialize: medium AIM
+av_control_initialize: remote user tahititinamarie
+av_control_initialize: local user bjcullinan
+av_control_initialize: local ip internal 3232235896
+av_control_initialize: local sip port internal 5060
+av_control_initialize: remote pair (ext) 16777343/0
+av_control_initialize: remote pair (ext) 3832916811/50195
+av_control_initialize: remote pair (int) 1073785024/50195
+sess: queued 134
+------------ session 62482352 end Wed Oct 17 21:35:32 2007 ------------
+------------ session 62482352 begin Wed Oct 17 21:35:44 2007 ------------
+av_control_initialize: incoming 1
+av_control_initialize: medium AIM
+av_control_initialize: remote user tahititinamarie
+av_control_initialize: local user bjcullinan
+av_control_initialize: local ip internal 3232235896
+av_control_initialize: local sip port internal 5060
+av_control_initialize: remote pair (ext) 16777343/0
+av_control_initialize: remote pair (ext) 3832916811/50195
+av_control_initialize: remote pair (int) 1073785024/50195
+sess: queued 148
+------------ session 62482352 end Wed Oct 17 21:35:48 2007 ------------
+------------ session 62942472 begin Mon Nov 19 13:55:05 2007 ------------
+av_control_initialize: incoming 1
+av_control_initialize: medium AIM
+av_control_initialize: remote user travis14489
+av_control_initialize: local user bjcullinan
+av_control_initialize: local ip internal 3232235896
+av_control_initialize: local sip port internal 5060
+sess: queued 117
+------------ session 62942472 end Mon Nov 19 13:55:06 2007 ------------
+sess: queued 3
+------------ session 62942472 end Mon Nov 19 15:13:19 2007 ------------
+------------ session 65628560 begin Fri Feb 29 00:11:34 2008 ------------
+av_control_initialize: incoming 0
+av_control_initialize: medium AIM
+av_control_initialize: remote user abepralle
+av_control_initialize: local user bjcullinan
+av_control_initialize: local ip internal 3232235896
+av_control_initialize: local sip port internal 5060
+sess: audio input requesting...
+sess: audio input ACHIEVED!
+av_control_initialize: nat 5060 results: 335587520:5060
+sess: queued 3
+------------ session 65628560 end Fri Feb 29 00:11:43 2008 ------------
+------------ session 65628768 begin Tue Apr 22 16:49:48 2008 ------------
+av_control_initialize: incoming 1
+av_control_initialize: medium AIM
+av_control_initialize: remote user cryptelligencia
+av_control_initialize: local user bjcullinan
+av_control_initialize: local ip internal 3232235896
+av_control_initialize: local sip port internal 5060
+av_control_initialize: remote pair (ext) 16777343/0
+av_control_initialize: remote pair (int) 1111490826/4672
+sess: queued 134
+------------ session 65628768 end Tue Apr 22 16:50:10 2008 ------------
+------------ session 65759648 begin Sat May 17 21:22:00 2008 ------------
+av_control_initialize: incoming 1
+av_control_initialize: medium AIM
+av_control_initialize: remote user travis14489
+av_control_initialize: local user bjcullinan
+av_control_initialize: local ip internal 3232235896
+av_control_initialize: local sip port internal 5060
+av_control_initialize: remote pair (ext) 16777343/0
+av_control_initialize: remote pair (int) 1497366794/4672
+av_control_initialize: remote pair (int) 28158144/4672
+av_control_initialize: remote pair (int) 32942272/4672
+av_control_initialize: remote pair (int) 37212938/4672
+av_control_initialize: remote pair (int) 42018058/4672
+av_control_initialize: remote pair (int) 4266809151/4672
+av_control_initialize: remote pair (int) 4262025023/4672
+video input just requested
+sess: audio input requesting...
+sess: audio input ACHIEVED!
+stun failure 2
+sess: queued 139
+sess: queued 46
+sess: queued 999
+------------ session 65759648 end Sat May 17 21:22:40 2008 ------------

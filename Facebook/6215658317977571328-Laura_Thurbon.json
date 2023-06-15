@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6215658317977571328/",
+    "participants": [
+        {
+            "name": "Laura Thurbon",
+            "title": "Artist ✎ Fine Art ✎ Murals ✎ Faux Finishes ✎ Trompe L'oeil, ✎Pet Art ✎ Photography",
+            "url": "linkedin.com/in/laura-t-303189a9",
+            "phone": "4804529229 (Mobile)",
+            "email": "latomb@cox.net"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-12-16T22:47:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Laura Thurbon",
+            "time": "2017-03-08T17:50:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-08T18:38:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

@@ -1,0 +1,1002 @@
+[
+    {
+        "resourceName": "people/c7877017993714126271",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgxBM3c5Q1ppMVRyMD0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "6d50ca218cb0cdbf"
+                    }
+                },
+                "displayName": "Mr. and Mrs. Dale Moberg",
+                "familyName": "Moberg",
+                "givenName": "and Mrs.",
+                "middleName": "Dale",
+                "honorificPrefix": "Mr",
+                "displayNameLastFirst": "Moberg, Mr and Mrs. Dale"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "110502246223303049105"
+                    }
+                },
+                "displayName": "Dale Moberg",
+                "familyName": "Moberg",
+                "givenName": "Dale",
+                "displayNameLastFirst": "Moberg, Dale"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "6d50ca218cb0cdbf"
+                    }
+                },
+                "value": "ginny.moberg@cox.net",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "6d50ca218cb0cdbf"
+                    }
+                },
+                "value": "(480) 239-1400",
+                "canonicalForm": "+14802391400",
+                "type": "work",
+                "formattedType": "Work"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "6d50ca218cb0cdbf"
+                    }
+                },
+                "value": "+1 480-473-0627",
+                "canonicalForm": "+14804730627",
+                "type": "home",
+                "formattedType": "Home"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "6d50ca218cb0cdbf"
+                    }
+                },
+                "value": "(614) 440-2590",
+                "canonicalForm": "+16144402590",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "15 Mutual Connections",
+                "You and Dale both know Luke Hohmann, Thomas Blondi, and 13 others"
+            ],
+            [
+                "1 Mutual Group",
+                "You and Dale are both in the Scala Enthusiasts group"
+            ],
+            [
+                "Show more",
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Independent Consultant",
+                "Company Name",
+                "Independent Consultant",
+                "Dates Employed",
+                "Jun 2017 – Present",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "Scottsdale Arizona"
+            ],
+            [
+                "Chief Architect",
+                "Company Name",
+                "Orion Health",
+                "Dates Employed",
+                "Jun 2014 – Jun 2017",
+                "Employment Duration",
+                "3 yrs 1 mo",
+                "Location",
+                "Scottsdale",
+                "Analytics and Data Mining. Starting June 16Also, educational consultant for STEM program curriculum design at Grand Canyon University."
+            ],
+            [
+                "Chief Architect",
+                "Company Name",
+                "Axway",
+                "Dates Employed",
+                "Jan 2006 – Jun 2014",
+                "Employment Duration",
+                "8 yrs 6 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Review innovative technologies, lead standards development, prototype designs, collaborate with architectural teams."
+            ],
+            [
+                "Chief Architect",
+                "Company Name",
+                "Cyclone",
+                "Dates Employed",
+                "Apr 2000 – Dec 2005",
+                "Employment Duration",
+                "5 yrs 9 mos"
+            ],
+            [
+                "Chief Architect",
+                "Company Name",
+                "Cyclone Commerce",
+                "Dates Employed",
+                "2000 – 2005",
+                "Employment Duration",
+                "5 yrs"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "The Ohio State University",
+                "Degree Name",
+                "MS",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "1986 – 1988"
+            ],
+            [
+                "The Ohio State University",
+                "Degree Name",
+                "MS",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "1986 – 1988"
+            ],
+            [
+                "Northwestern University",
+                "Degree Name",
+                "Ph.D.",
+                "Field Of Study",
+                "Philosophy",
+                "Dates attended or expected graduation",
+                "1970 – 1976"
+            ],
+            [
+                "Northwestern University",
+                "Degree Name",
+                "Ph.D.",
+                "Field Of Study",
+                "Philosophy",
+                "Dates attended or expected graduation",
+                "1970 – 1976"
+            ],
+            [
+                "Carleton College",
+                "Degree Name",
+                "BA",
+                "Field Of Study",
+                "Philosophy",
+                "Dates attended or expected graduation",
+                "1966 – 1970"
+            ],
+            [
+                "Carleton College",
+                "Degree Name",
+                "BA",
+                "Field Of Study",
+                "Philosophy",
+                "Dates attended or expected graduation",
+                "1966 – 1970"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "History and Philosophy of Science",
+                "28,471 members"
+            ],
+            [
+                "Orion Health",
+                "31,988 followers"
+            ],
+            [
+                "Cyberspace Situational Awareness",
+                "4,890 members"
+            ],
+            [
+                "Cloud Computing, SaaS & Virtualization",
+                "485,012 members"
+            ],
+            [
+                "Chief Technology Consultants Group",
+                "3,558 members"
+            ],
+            [
+                "Description Logic",
+                "767 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "History and Philosophy of Science",
+                "28,471 members"
+            ],
+            [
+                "History and Philosophy of Science",
+                "28,471 members"
+            ],
+            [
+                "Orion Health",
+                "31,988 followers"
+            ],
+            [
+                "Orion Health",
+                "31,988 followers"
+            ],
+            [
+                "Cyberspace Situational Awareness",
+                "4,890 members"
+            ],
+            [
+                "Cyberspace Situational Awareness",
+                "4,890 members"
+            ],
+            [
+                "Cloud Computing, SaaS & Virtualization",
+                "485,012 members"
+            ],
+            [
+                "Cloud Computing, SaaS & Virtualization",
+                "485,012 members"
+            ],
+            [
+                "Chief Technology Consultants Group",
+                "3,558 members"
+            ],
+            [
+                "Chief Technology Consultants Group",
+                "3,558 members"
+            ],
+            [
+                "Description Logic",
+                "767 members"
+            ],
+            [
+                "Description Logic",
+                "767 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Dirk Rodgers",
+                "Regulatory Strategist at Systech International - Only One",
+                "May 28, 2007, Dirk worked with Dale but at different companies",
+                "I worked with Dale on the development of the EPCglobal Drug Pedigree Messaging standard, 1.0 version.  Dale's long experience with B2B systems design and development and with standards development enabled him to make a solid contribution to this new standard.  I learned early on that if Dale speaks, you'd better listen because he has something valuable and important to say.  The final standard was made better by his contribution."
+            ],
+            [
+                "Dirk Rodgers",
+                "Regulatory Strategist at Systech International - Only One",
+                "May 28, 2007, Dirk worked with Dale but at different companies"
+            ],
+            [
+                "Dirk Rodgers",
+                "Regulatory Strategist at Systech International - Only One",
+                "May 28, 2007, Dirk worked with Dale but at different companies"
+            ],
+            [
+                "Dirk Rodgers",
+                "Regulatory Strategist at Systech International - Only One",
+                "May 28, 2007, Dirk worked with Dale but at different companies"
+            ],
+            "Regulatory Strategist at Systech International - Only One",
+            [
+                "I worked with Dale on the development of the EPCglobal Drug Pedigree Messaging standard, 1.0 version.  Dale's long experience with B2B systems design and development and with standards development enabled him to make a solid contribution to this new standard.  I learned early on that if Dale speaks, you'd better listen because he has something valuable and important to say.  The final standard was made better by his contribution."
+            ],
+            [
+                "I worked with Dale on the development of the EPCglobal Drug Pedigree Messaging standard, 1.0 version.  Dale's long experience with B2B systems design and development and with standards development enabled him to make a solid contribution to this new standard.  I learned early on that if Dale speaks, you'd better listen because he has something valuable and important to say.  The final standard was made better by his contribution."
+            ],
+            [
+                "Brian Gibb",
+                "Strategy & Business Development at Drummond Group",
+                "June 22, 2016, Brian was senior to Dale but didn’t manage directly",
+                "I worked with Brian Gibb at Sterling Commerce during the late 90s. At that time I was concerned with B2B protocol and system development for secure and reliable communications. Brian was supportive of these efforts within the corporate structure, and recognized that new approaches to network cryptography would make authentication and data confidentiality available. EDIINT, RosettaNet, and ebXML were all initiatives Brian drove through the corporation. Brian contributed to make ideas available in books and articles on these initiatives that moved both software industries and their customers forward. Brian is personally engaging and a consensus builder. He was a great ally during the time we worked together."
+            ],
+            [
+                "Brian Gibb",
+                "Strategy & Business Development at Drummond Group",
+                "June 22, 2016, Brian was senior to Dale but didn’t manage directly"
+            ],
+            [
+                "Brian Gibb",
+                "Strategy & Business Development at Drummond Group",
+                "June 22, 2016, Brian was senior to Dale but didn’t manage directly"
+            ],
+            [
+                "Brian Gibb",
+                "Strategy & Business Development at Drummond Group",
+                "June 22, 2016, Brian was senior to Dale but didn’t manage directly"
+            ],
+            "Strategy & Business Development at Drummond Group",
+            [
+                "I worked with Brian Gibb at Sterling Commerce during the late 90s. At that time I was concerned with B2B protocol and system development for secure and reliable communications. Brian was supportive of these efforts within the corporate structure, and recognized that new approaches to network cryptography would make authentication and data confidentiality available. EDIINT, RosettaNet, and ebXML were all initiatives Brian drove through the corporation. Brian contributed to make ideas available in books and articles on these initiatives that moved both software industries and their customers forward. Brian is personally engaging and a consensus builder. He was a great ally during the time we worked together."
+            ],
+            [
+                "I worked with Brian Gibb at Sterling Commerce during the late 90s. At that time I was concerned with B2B protocol and system development for secure and reliable communications. Brian was supportive of these efforts within the corporate structure, and recognized that new approaches to network cryptography would make authentication and data confidentiality available. EDIINT, RosettaNet, and ebXML were all initiatives Brian drove through the corporation. Brian contributed to make ideas available in books and articles on these initiatives that moved both software industries and their customers forward. Brian is personally engaging and a consensus builder. He was a great ally during the time we worked together."
+            ],
+            [
+                "Andreas Schoenberger",
+                "Software Architect at Siemens Corporate Technology",
+                "September 9, 2011, Dale worked with Andreas but at different companies",
+                "Andreas Schoenberger's analysis and review of business process descriptions served as the foundation for RosettaNet's recent Message Control and Choreography documentation. Schoenberger authored most of the material, drawing upon use cases provided by industries, and aligning those descriptions with BPMN 2.0 choreographies and semantics as well as ebXML ebBP captures of quality of service annotations and state alignment through signal messages. The result was an exceptional blend of theory and practice, and will serve as the basis for future business process management initiatives for RosettaNet. It will be consulted by other initiatives seeking to enhance process descriptions with QOS, visibility, and manageability information."
+            ],
+            [
+                "Andreas Schoenberger",
+                "Software Architect at Siemens Corporate Technology",
+                "September 9, 2011, Dale worked with Andreas but at different companies"
+            ],
+            [
+                "Andreas Schoenberger",
+                "Software Architect at Siemens Corporate Technology",
+                "September 9, 2011, Dale worked with Andreas but at different companies"
+            ],
+            [
+                "Andreas Schoenberger",
+                "Software Architect at Siemens Corporate Technology",
+                "September 9, 2011, Dale worked with Andreas but at different companies"
+            ],
+            "Software Architect at Siemens Corporate Technology",
+            [
+                "Andreas Schoenberger's analysis and review of business process descriptions served as the foundation for RosettaNet's recent Message Control and Choreography documentation. Schoenberger authored most of the material, drawing upon use cases provided by industries, and aligning those descriptions with BPMN 2.0 choreographies and semantics as well as ebXML ebBP captures of quality of service annotations and state alignment through signal messages. The result was an exceptional blend of theory and practice, and will serve as the basis for future business process management initiatives for RosettaNet. It will be consulted by other initiatives seeking to enhance process descriptions with QOS, visibility, and manageability information."
+            ],
+            [
+                "Andreas Schoenberger's analysis and review of business process descriptions served as the foundation for RosettaNet's recent Message Control and Choreography documentation. Schoenberger authored most of the material, drawing upon use cases provided by industries, and aligning those descriptions with BPMN 2.0 choreographies and semantics as well as ebXML ebBP captures of quality of service annotations and state alignment through signal messages. The result was an exceptional blend of theory and practice, and will serve as the basis for future business process management initiatives for RosettaNet. It will be consulted by other initiatives seeking to enhance process descriptions with QOS, visibility, and manageability information."
+            ]
+        ],
+        "skills": [
+            [
+                "Business Intelligence",
+                "See 39 endorsements for Business Intelligence",
+                "39",
+                "Business Intelligence",
+                "Remove Endorsement",
+                "Endorsed by Richard Lawrence, who is highly skilled at this",
+                "Endorsed by 4 of Dale’s colleagues at Orion Health"
+            ],
+            [
+                "Business Intelligence",
+                "See 39 endorsements for Business Intelligence",
+                "39"
+            ],
+            [
+                "Software Development",
+                "See 36 endorsements for Software Development",
+                "36",
+                "Software Development",
+                "Remove Endorsement",
+                "Endorsed by Jeff Turpin and 3 others who are highly skilled at this",
+                "Endorsed by 5 of Dale’s colleagues at Orion Health"
+            ],
+            [
+                "Software Development",
+                "See 36 endorsements for Software Development",
+                "36"
+            ],
+            [
+                "Enterprise Architecture",
+                "See 35 endorsements for Enterprise Architecture",
+                "35",
+                "Enterprise Architecture",
+                "Remove Endorsement",
+                "Endorsed by David R.R. Webber, who is highly skilled at this",
+                "Endorsed by 5 of Dale’s colleagues at Orion Health"
+            ],
+            [
+                "Enterprise Architecture",
+                "See 35 endorsements for Enterprise Architecture",
+                "35"
+            ],
+            [
+                "Architecture",
+                "See 31 endorsements for Architecture",
+                "31",
+                "Architecture",
+                "Remove Endorsement"
+            ],
+            [
+                "Architecture",
+                "See 31 endorsements for Architecture",
+                "31"
+            ],
+            [
+                "Enterprise Software",
+                "See 31 endorsements for Enterprise Software",
+                "31",
+                "Enterprise Software",
+                "Remove Endorsement"
+            ],
+            [
+                "Enterprise Software",
+                "See 31 endorsements for Enterprise Software",
+                "31"
+            ],
+            [
+                "SOA",
+                "See 30 endorsements for SOA",
+                "30",
+                "SOA",
+                "Remove Endorsement"
+            ],
+            [
+                "SOA",
+                "See 30 endorsements for SOA",
+                "30"
+            ],
+            [
+                "SaaS",
+                "See 23 endorsements for SaaS",
+                "23",
+                "SaaS",
+                "Remove Endorsement"
+            ],
+            [
+                "SaaS",
+                "See 23 endorsements for SaaS",
+                "23"
+            ],
+            [
+                "Security",
+                "See 20 endorsements for Security",
+                "20",
+                "Security",
+                "Remove Endorsement"
+            ],
+            [
+                "Security",
+                "See 20 endorsements for Security",
+                "20"
+            ],
+            [
+                "Distributed Systems",
+                "See 20 endorsements for Distributed Systems",
+                "20",
+                "Distributed Systems",
+                "Remove Endorsement"
+            ],
+            [
+                "Distributed Systems",
+                "See 20 endorsements for Distributed Systems",
+                "20"
+            ],
+            [
+                "Architectures",
+                "See 20 endorsements for Architectures",
+                "20",
+                "Architectures",
+                "Remove Endorsement"
+            ],
+            [
+                "Architectures",
+                "See 20 endorsements for Architectures",
+                "20"
+            ],
+            [
+                "Agile Methodologies",
+                "See 17 endorsements for Agile Methodologies",
+                "17",
+                "Agile Methodologies",
+                "Remove Endorsement"
+            ],
+            [
+                "Agile Methodologies",
+                "See 17 endorsements for Agile Methodologies",
+                "17"
+            ],
+            [
+                "EAI",
+                "See 16 endorsements for EAI",
+                "16",
+                "EAI",
+                "Remove Endorsement"
+            ],
+            [
+                "EAI",
+                "See 16 endorsements for EAI",
+                "16"
+            ],
+            [
+                "Cloud Computing",
+                "See 13 endorsements for Cloud Computing",
+                "13",
+                "Cloud Computing",
+                "Remove Endorsement"
+            ],
+            [
+                "Cloud Computing",
+                "See 13 endorsements for Cloud Computing",
+                "13"
+            ],
+            [
+                "XML",
+                "See 12 endorsements for XML",
+                "12",
+                "XML",
+                "Remove Endorsement"
+            ],
+            [
+                "XML",
+                "See 12 endorsements for XML",
+                "12"
+            ],
+            [
+                "Integration",
+                "See 11 endorsements for Integration",
+                "11",
+                "Integration",
+                "Remove Endorsement"
+            ],
+            [
+                "Integration",
+                "See 11 endorsements for Integration",
+                "11"
+            ],
+            [
+                "Web Services",
+                "See 11 endorsements for Web Services",
+                "11",
+                "Web Services",
+                "Remove Endorsement"
+            ],
+            [
+                "Web Services",
+                "See 11 endorsements for Web Services",
+                "11"
+            ],
+            [
+                "Software Design",
+                "See 9 endorsements for Software Design",
+                "9",
+                "Software Design",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Design",
+                "See 9 endorsements for Software Design",
+                "9"
+            ],
+            [
+                "Software Engineering",
+                "See 8 endorsements for Software Engineering",
+                "8",
+                "Software Engineering",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Engineering",
+                "See 8 endorsements for Software Engineering",
+                "8"
+            ],
+            [
+                "Analytics",
+                "See 7 endorsements for Analytics",
+                "7",
+                "Analytics",
+                "Remove Endorsement"
+            ],
+            [
+                "Analytics",
+                "See 7 endorsements for Analytics",
+                "7"
+            ],
+            [
+                "REST",
+                "See 7 endorsements for REST",
+                "7",
+                "REST",
+                "Remove Endorsement"
+            ],
+            [
+                "REST",
+                "See 7 endorsements for REST",
+                "7"
+            ],
+            [
+                "Solution Architecture",
+                "See 7 endorsements for Solution Architecture",
+                "7",
+                "Solution Architecture",
+                "Remove Endorsement"
+            ],
+            [
+                "Solution Architecture",
+                "See 7 endorsements for Solution Architecture",
+                "7"
+            ],
+            [
+                "Unix",
+                "See 7 endorsements for Unix",
+                "7",
+                "Unix",
+                "Remove Endorsement"
+            ],
+            [
+                "Unix",
+                "See 7 endorsements for Unix",
+                "7"
+            ],
+            [
+                "Software Project Management",
+                "See 6 endorsements for Software Project Management",
+                "6",
+                "Software Project Management",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Project Management",
+                "See 6 endorsements for Software Project Management",
+                "6"
+            ],
+            [
+                "Middleware",
+                "See 6 endorsements for Middleware",
+                "6",
+                "Middleware",
+                "Remove Endorsement"
+            ],
+            [
+                "Middleware",
+                "See 6 endorsements for Middleware",
+                "6"
+            ],
+            [
+                "Object Oriented Design",
+                "See 6 endorsements for Object Oriented Design",
+                "6",
+                "Object Oriented Design",
+                "Remove Endorsement"
+            ],
+            [
+                "Object Oriented Design",
+                "See 6 endorsements for Object Oriented Design",
+                "6"
+            ],
+            [
+                "Product Management",
+                "See 5 endorsements for Product Management",
+                "5",
+                "Product Management",
+                "Remove Endorsement"
+            ],
+            [
+                "Product Management",
+                "See 5 endorsements for Product Management",
+                "5"
+            ],
+            [
+                "System Architecture",
+                "See 5 endorsements for System Architecture",
+                "5",
+                "System Architecture",
+                "Remove Endorsement"
+            ],
+            [
+                "System Architecture",
+                "See 5 endorsements for System Architecture",
+                "5"
+            ],
+            [
+                "Testing",
+                "See 4 endorsements for Testing",
+                "4",
+                "Testing",
+                "Remove Endorsement"
+            ],
+            [
+                "Testing",
+                "See 4 endorsements for Testing",
+                "4"
+            ],
+            [
+                "Agile Project Management",
+                "See 4 endorsements for Agile Project Management",
+                "4",
+                "Agile Project Management",
+                "Remove Endorsement"
+            ],
+            [
+                "Agile Project Management",
+                "See 4 endorsements for Agile Project Management",
+                "4"
+            ],
+            [
+                "Scrum",
+                "See 4 endorsements for Scrum",
+                "4",
+                "Scrum",
+                "Remove Endorsement"
+            ],
+            [
+                "Scrum",
+                "See 4 endorsements for Scrum",
+                "4"
+            ],
+            [
+                "Web Applications",
+                "See 4 endorsements for Web Applications",
+                "4",
+                "Web Applications",
+                "Remove Endorsement"
+            ],
+            [
+                "Web Applications",
+                "See 4 endorsements for Web Applications",
+                "4"
+            ],
+            [
+                "B2B",
+                "See 4 endorsements for B2B",
+                "4",
+                "B2B",
+                "Remove Endorsement"
+            ],
+            [
+                "B2B",
+                "See 4 endorsements for B2B",
+                "4"
+            ],
+            [
+                "Java Enterprise Edition",
+                "See 4 endorsements for Java Enterprise Edition",
+                "4",
+                "Java Enterprise Edition",
+                "Remove Endorsement"
+            ],
+            [
+                "Java Enterprise Edition",
+                "See 4 endorsements for Java Enterprise Edition",
+                "4"
+            ],
+            [
+                "SOAP",
+                "See 4 endorsements for SOAP",
+                "4",
+                "SOAP",
+                "Remove Endorsement"
+            ],
+            [
+                "SOAP",
+                "See 4 endorsements for SOAP",
+                "4"
+            ],
+            [
+                "Java",
+                "See 3 endorsements for Java",
+                "3",
+                "Java",
+                "Remove Endorsement"
+            ],
+            [
+                "Java",
+                "See 3 endorsements for Java",
+                "3"
+            ],
+            [
+                "Linux",
+                "See 3 endorsements for Linux",
+                "3",
+                "Linux",
+                "Remove Endorsement"
+            ],
+            [
+                "Linux",
+                "See 3 endorsements for Linux",
+                "3"
+            ],
+            [
+                "UML",
+                "See 3 endorsements for UML",
+                "3",
+                "UML",
+                "Remove Endorsement"
+            ],
+            [
+                "UML",
+                "See 3 endorsements for UML",
+                "3"
+            ],
+            [
+                "Open Source",
+                "See 3 endorsements for Open Source",
+                "3",
+                "Open Source",
+                "Remove Endorsement"
+            ],
+            [
+                "Open Source",
+                "See 3 endorsements for Open Source",
+                "3"
+            ],
+            [
+                "MySQL",
+                "See 2 endorsements for MySQL",
+                "2",
+                "MySQL",
+                "Remove Endorsement"
+            ],
+            [
+                "MySQL",
+                "See 2 endorsements for MySQL",
+                "2"
+            ],
+            [
+                "Product Development",
+                "See 2 endorsements for Product Development",
+                "2",
+                "Product Development",
+                "Remove Endorsement"
+            ],
+            [
+                "Product Development",
+                "See 2 endorsements for Product Development",
+                "2"
+            ],
+            [
+                "BPMN",
+                "See 2 endorsements for BPMN",
+                "2",
+                "BPMN",
+                "Remove Endorsement"
+            ],
+            [
+                "BPMN",
+                "See 2 endorsements for BPMN",
+                "2"
+            ],
+            [
+                "Tomcat",
+                "See 2 endorsements for Tomcat",
+                "2",
+                "Tomcat",
+                "Remove Endorsement"
+            ],
+            [
+                "Tomcat",
+                "See 2 endorsements for Tomcat",
+                "2"
+            ],
+            [
+                "Business Strategy",
+                "See 2 endorsements for Business Strategy",
+                "2",
+                "Business Strategy",
+                "Remove Endorsement"
+            ],
+            [
+                "Business Strategy",
+                "See 2 endorsements for Business Strategy",
+                "2"
+            ],
+            [
+                "Maven",
+                "See 2 endorsements for Maven",
+                "2",
+                "Maven",
+                "Remove Endorsement"
+            ],
+            [
+                "Maven",
+                "See 2 endorsements for Maven",
+                "2"
+            ],
+            [
+                "Software as a Service (SaaS)",
+                "See 2 endorsements for Software as a Service (SaaS)",
+                "2",
+                "Software as a Service (SaaS)",
+                "Endorse"
+            ],
+            [
+                "Software as a Service (SaaS)",
+                "See 2 endorsements for Software as a Service (SaaS)",
+                "2"
+            ],
+            [
+                "Scalability",
+                "See 1 endorsement for Scalability",
+                "1",
+                "Scalability",
+                "Remove Endorsement"
+            ],
+            [
+                "Scalability",
+                "See 1 endorsement for Scalability",
+                "1"
+            ],
+            [
+                "Consulting",
+                "See 1 endorsement for Consulting",
+                "1",
+                "Consulting",
+                "Remove Endorsement"
+            ],
+            [
+                "Consulting",
+                "See 1 endorsement for Consulting",
+                "1"
+            ],
+            [
+                "Service-Oriented Architecture (SOA)",
+                "See 1 endorsement for Service-Oriented Architecture (SOA)",
+                "1",
+                "Service-Oriented Architecture (SOA)",
+                "Endorse"
+            ],
+            [
+                "Service-Oriented Architecture (SOA)",
+                "See 1 endorsement for Service-Oriented Architecture (SOA)",
+                "1"
+            ],
+            [
+                "Health Information Exchange",
+                "See 1 endorsement for Health Information Exchange",
+                "1",
+                "Health Information Exchange",
+                "Endorse"
+            ],
+            [
+                "Health Information Exchange",
+                "See 1 endorsement for Health Information Exchange",
+                "1"
+            ]
+        ],
+        "summary": "    Dale Moberg has been involved in defining or enabling secure systems for business collaboration since 1993. He has worked in product development, architecture, business development, business strategy, and as standards author and committee chair. He currently works on designs and functional requirements for products in areas of application integration, b2b gateways, business activity monitoring, and business intelligence.Prior to 1993, he was a consultant, taught in colleges or universities for 10 years, and spent 7 years as a researcher at a university (object oriented modeling, distributed simulation, and practical uses for knowledge representation). He has authored over 50 publications in three fields, and has a M.S in Computer Science and a M.A and Ph.D in Philosophy and Logic.Specialties: Business collaboration, automation, security, reliability, translation, modeling, testing, monitoring, processing, analytics.\n  \n  \n",
+        "name": "Dale Moberg",
+        "title": "Currently on projects in predictive statistics, security and protocol standardization, STEM university planning.",
+        "url": "linkedin.com/in/dale-moberg-5aaba",
+        "phone": null,
+        "email": "dale.moberg@gmail.com"
+    }
+]

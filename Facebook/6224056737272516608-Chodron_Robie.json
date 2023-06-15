@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6224056737272516608/",
+    "participants": [
+        {
+            "name": "Chodron Robie",
+            "title": "Network Administrator",
+            "url": "linkedin.com/in/chorobie",
+            "phone": null,
+            "email": "cho.robie@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-09T02:59:00.000Z"
+        },
+        {
+            "from": "Chodron Robie",
+            "message": "Sure. No prob.\n",
+            "time": "2018-01-09T07:00:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "How have you been?\n",
+            "time": "2018-01-09T13:25:00.000Z"
+        }
+    ]
+}

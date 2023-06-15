@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6237379121400344576/",
+    "participants": [
+        {
+            "name": "Dr. Steven Rodriguez",
+            "title": "Founder at EPIC Career",
+            "url": "linkedin.com/in/dr-steven-rodriguez-7795a68",
+            "phone": "832-4CAREER (Work)",
+            "email": "srodriguez@epiccareer.net"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-14T21:17:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

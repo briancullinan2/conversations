@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6222847195717124096/",
+    "participants": [
+        {
+            "name": "Mark Brooks",
+            "title": "CEO of Courtland Brooks",
+            "url": "linkedin.com/in/mcbrooks",
+            "phone": "212-444-1636 (Work)",
+            "email": "markbrooks@alumni.harvard.edu"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-05T18:53:00.000Z"
+        }
+    ]
+}

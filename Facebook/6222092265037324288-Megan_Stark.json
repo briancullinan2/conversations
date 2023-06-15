@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6222092265037324288/",
+    "participants": [
+        {
+            "name": "Megan Stark",
+            "title": "Senior Copywriter at BIG YAM, The Parsons Agency",
+            "url": "linkedin.com/in/megan-stark-9ab425a",
+            "phone": null,
+            "email": "meganmstark@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-03T16:53:00.000Z"
+        },
+        {
+            "from": "Megan Stark",
+            "message": "Of course! Happy New Year :)\n",
+            "time": "2018-01-03T17:11:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,874 @@
+﻿Session Start (bjcullinan@gmail.com:Christian McHugh): Wed Feb 27 11:09:26 2008
+[02/27/2008 11:09:30 AM] bjcullinan: you there?
+[02/27/2008 11:09:42 AM] Christian McHugh: yep                  
+[02/27/2008 11:11:23 AM] bjcullinan: amy at the front desk needs access to a copyer
+[02/27/2008 11:11:38 AM] Christian McHugh: at egr?
+[02/27/2008 11:11:46 AM] bjcullinan: she says in the list from yavin it is, km750 122q
+[02/27/2008 11:11:48 AM] bjcullinan: yes
+[02/27/2008 11:12:17 AM] Christian McHugh: oik
+[02/27/2008 11:12:19 AM] Christian McHugh: ok
+Session Close (Christian McHugh): Wed Feb 27 12:51:08 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Fri Feb 29 11:27:07 2008
+[02/29/2008 11:27:09 AM] bjcullinan: First floor copy room printer is having problems.
+[02/29/2008 11:27:15 AM] bjcullinan: you there?
+[02/29/2008 11:27:16 AM] Christian McHugh: ok                  
+[02/29/2008 11:27:24 AM] Christian McHugh: who called?                  
+[02/29/2008 11:27:36 AM] bjcullinan: front desk girl
+[02/29/2008 11:27:40 AM] Christian McHugh: ok
+[02/29/2008 11:27:43 AM] bjcullinan: who is headlee?
+[02/29/2008 11:27:50 AM] Christian McHugh: one of the student workers 
+[02/29/2008 11:27:55 AM] Christian McHugh: he works here and up there
+[02/29/2008 11:28:54 AM] bjcullinan: i don't think i have ever met him
+[02/29/2008 11:29:04 AM] Christian McHugh: I don't think you have either
+[02/29/2008 11:29:19 AM] Christian McHugh: he started when david smith did, a few weeks after the start of the semester
+[02/29/2008 11:36:36 AM] bjcullinan: david is a cool guy
+[02/29/2008 11:36:45 AM] Christian McHugh: I think so too
+[02/29/2008 11:38:14 AM] bjcullinan: he is really funny if you can catch on to his sarcasm
+[02/29/2008 11:38:32 AM] bjcullinan: you coming up for the meeting?
+[02/29/2008 11:38:33 AM] Christian McHugh: yeah, reminds me of some of my friends back east 
+[02/29/2008 11:38:35 AM] Christian McHugh: yep
+[02/29/2008 11:38:41 AM] bjcullinan: i broke my entire game
+[02/29/2008 11:38:45 AM] bjcullinan: thoroughly
+[02/29/2008 11:38:46 AM] Christian McHugh: on purpose?
+[02/29/2008 11:39:02 AM] bjcullinan: i am writing a binary serializer for the recording mechanism
+[02/29/2008 11:39:13 AM] Christian McHugh: I don't even know what that means 
+[02/29/2008 11:41:33 AM] bjcullinan: a serializer takes information and converts it to something it can read in later
+[02/29/2008 11:42:00 AM] bjcullinan: so if i have something that says Block: name is "example", value is 100
+[02/29/2008 11:42:22 AM] bjcullinan: a serializer will convert that information to maybe block,"example",100
+[02/29/2008 11:42:35 AM] bjcullinan: and it will know how to read that in later and make an object out of it
+[02/29/2008 11:42:43 AM] Christian McHugh: gocha
+[02/29/2008 11:44:15 AM] bjcullinan: so i am doing it in binary because it is really fast
+Session Close (Christian McHugh): Fri Feb 29 12:18:13 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Wed Mar 05 16:15:37 2008
+Session Close (Christian McHugh): Wed Mar 05 16:15:50 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Fri Mar 14 12:45:23 2008
+[03/14/2008 12:45:34 PM] bjcullinan: Will you check the image server for a vista image?
+Session Close (Christian McHugh): Fri Mar 14 12:46:22 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Wed Mar 26 09:22:16 2008
+[03/26/2008 09:22:17 AM] Christian McHugh: Morning Brian. You are in bio now right?                  
+[03/26/2008 09:22:21 AM] Christian McHugh: just got a call that ps232 is out of paper                  
+[03/26/2008 09:26:06 AM] Christian McHugh: If you are there please answer the phone                  
+[03/26/2008 09:33:56 AM] bjcullinan: i just added some
+[03/26/2008 09:34:04 AM] bjcullinan: and they weren't they had a whole nother bin
+[03/26/2008 09:34:09 AM] bjcullinan: who gives you these calls?
+[03/26/2008 09:34:17 AM] Christian McHugh: that was some student
+[03/26/2008 09:34:25 AM] bjcullinan: some students are morons
+[03/26/2008 09:34:44 AM] Christian McHugh: perhaps
+[03/26/2008 09:34:53 AM] bjcullinan: anywho have a nice spring break?
+[03/26/2008 09:35:00 AM] Christian McHugh: yeah, considering
+[03/26/2008 09:35:12 AM] Christian McHugh: still worked though the whole thing, but I did not have school, so it was kind of a break
+[03/26/2008 09:35:18 AM] Christian McHugh: got to actually go home, which is sweet
+[03/26/2008 09:35:18 AM] bjcullinan: mine was pretty uneventful too
+[03/26/2008 09:35:20 AM] Christian McHugh: how about you?
+[03/26/2008 09:35:23 AM] Christian McHugh: mexico awesome?
+[03/26/2008 09:35:29 AM] bjcullinan: it was mexico
+[03/26/2008 09:35:50 AM] bjcullinan: didn't see any boobies, and didn't hook up with any girls
+[03/26/2008 09:35:55 AM] bjcullinan: so pretty uneventful
+[03/26/2008 09:35:59 AM] bjcullinan: relatively
+[03/26/2008 09:35:59 AM] Christian McHugh: no arrests and spending three days in jail while cops steal you money while "looking for drugs"?
+[03/26/2008 09:36:08 AM] bjcullinan: nope
+[03/26/2008 09:36:15 AM] Christian McHugh: that's probably for the best
+[03/26/2008 09:36:39 AM] bjcullinan: meh
+[03/26/2008 09:36:50 AM] bjcullinan: anything would have made it more exciting
+[03/26/2008 09:44:54 AM] bjcullinan: I did smuggle back some Cuban Cigars i look forward to later today
+[03/26/2008 09:45:02 AM] Christian McHugh: haha sweet
+Session Close (Christian McHugh): Wed Mar 26 10:04:10 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Mar 31 09:35:51 2008
+[03/31/2008 09:35:54 AM] bjcullinan: question
+Session Close (Christian McHugh): Mon Mar 31 09:35:56 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Wed Apr 02 09:51:43 2008
+[04/02/2008 09:51:54 AM] bjcullinan: Why does the phone keep going straight to your office?
+[04/02/2008 09:51:59 AM] bjcullinan: You know i am here right?
+[04/02/2008 09:52:23 AM] Christian McHugh: Tim was calling me from egr                  
+[04/02/2008 09:52:33 AM] bjcullinan: ok
+Session Close (Christian McHugh): Wed Apr 02 10:39:45 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Fri Apr 04 12:30:47 2008
+[04/04/2008 12:30:53 PM] bjcullinan: ZOMG
+[04/04/2008 12:30:59 PM] bjcullinan: new BSG party at my place tonight
+[04/04/2008 12:31:10 PM] Christian McHugh: ha sweet                  
+[04/04/2008 12:31:32 PM] bjcullinan: want to come watching it on a 100" projector and surround sound?
+[04/04/2008 12:31:43 PM] Christian McHugh: that does sound sweet, but I'll have to be in phoneix
+[04/04/2008 12:31:57 PM] bjcullinan: bummer
+[04/04/2008 12:32:01 PM] bjcullinan: make sure you watch it
+[04/04/2008 12:32:06 PM] bjcullinan: scifi at 10
+[04/04/2008 12:32:10 PM] Christian McHugh: awesome
+[04/04/2008 12:32:13 PM] Christian McHugh: thanks
+[04/04/2008 12:34:43 PM] bjcullinan: omg new Dune movie!!!!!!!!!1111111111one
+[04/04/2008 12:34:55 PM] Christian McHugh: I know it
+[04/04/2008 12:35:07 PM] Christian McHugh: I was not impressed with the sci fi mini series one
+[04/04/2008 12:35:15 PM] Christian McHugh: and I guess the new movie won't have sting
+[04/04/2008 12:37:21 PM] bjcullinan: the miniseries?
+[04/04/2008 12:37:48 PM] bjcullinan: are you refering to children on dune? or was there something else?
+[04/04/2008 12:38:58 PM] Christian McHugh: no, not children
+[04/04/2008 12:39:02 PM] Christian McHugh: there was something else
+[04/04/2008 12:40:11 PM] bjcullinan: hmmm, children of Dune was pretty good
+[04/04/2008 12:40:30 PM] bjcullinan: and the non-original Original was really good
+[04/04/2008 12:53:43 PM] bjcullinan: dude i've been following the latest RIAA lawsuits, "making available not infringement" sounds awesome
+[04/04/2008 12:57:01 PM] Christian McHugh: yeah, I'm excited
+[04/04/2008 01:00:59 PM] bjcullinan: i make available all the time
+[04/04/2008 01:01:18 PM] bjcullinan: i am rewriting my media server website
+Session Close (Christian McHugh): Fri Apr 04 13:32:51 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Thu Apr 10 15:03:15 2008
+[04/10/2008 03:03:21 PM] bjcullinan: invite me to the gchat room
+[04/10/2008 03:03:41 PM] Christian McHugh: one sec                  
+Session Close (Christian McHugh): Thu Apr 10 15:13:11 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Fri Apr 11 16:46:16 2008
+[04/11/2008 04:46:24 PM] bjcullinan: BSG party tonight
+[04/11/2008 04:47:51 PM] bjcullinan: !!!!!!1111one
+Session Close (Christian McHugh): Fri Apr 11 16:50:17 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Apr 14 09:49:59 2008
+[04/14/2008 09:50:18 AM] bjcullinan: How do i send stuff to the cens-it list serve it keeps rejecting my e-mail?
+[04/14/2008 09:51:00 AM] Christian McHugh: I believe the address is...                  
+[04/14/2008 09:51:14 AM] Christian McHugh: (Link: mailto:cens-it@lists.nau.edu)cens-it@lists.nau.edu
+[04/14/2008 09:51:19 AM] Christian McHugh: is that what you are using?                  
+[04/14/2008 09:52:06 AM] bjcullinan: it changes it when you recieve it
+[04/14/2008 09:52:08 AM] bjcullinan: thats gay
+[04/14/2008 09:52:13 AM] bjcullinan: not gay gay
+[04/14/2008 09:52:15 AM] bjcullinan: sry
+[04/14/2008 09:52:17 AM] Christian McHugh: haha
+[04/14/2008 09:52:26 AM] Christian McHugh: yeah, it is lame
+[04/14/2008 09:53:32 AM] bjcullinan: do special permissions need to be set to allow software to access the nt profile
+[04/14/2008 09:53:38 AM] bjcullinan: and how do we rebuild that
+[04/14/2008 09:53:52 AM] bjcullinan: because there is a guy that keeps getting errors when it is trying to be accessed
+[04/14/2008 09:54:03 AM] Christian McHugh: hmmm, just sounds broken
+[04/14/2008 09:54:13 AM] Christian McHugh: the nt profile permissions should not need to be messed with
+[04/14/2008 09:54:30 AM] bjcullinan: yeah it happens on multiple software
+[04/14/2008 09:54:39 AM] Christian McHugh: What types of problems are happening?
+[04/14/2008 09:54:40 AM] bjcullinan: the programs can't access settings in the profile
+[04/14/2008 09:54:43 AM] Christian McHugh: weird
+[04/14/2008 09:54:50 AM] bjcullinan: just gives like a read write error
+[04/14/2008 09:54:51 AM] Christian McHugh: maybe bug pete on that one
+[04/14/2008 09:55:03 AM] bjcullinan: i deleted it from the local computer but didn't help
+[04/14/2008 09:55:08 AM] bjcullinan: ok
+[04/14/2008 09:55:11 AM] Christian McHugh: very weird
+[04/14/2008 09:56:43 AM] bjcullinan: i think he might have mentioned it works on his desktop
+[04/14/2008 09:56:47 AM] bjcullinan: just not in any of the labs
+[04/14/2008 09:56:49 AM] bjcullinan: very strange
+[04/14/2008 09:57:12 AM] bjcullinan: nope, i am not on the list serve it keeps sending it back says i don't have permission
+[04/14/2008 09:57:33 AM] Christian McHugh: lets see...
+[04/14/2008 09:58:26 AM] bjcullinan: ohhh i know what the problem is
+[04/14/2008 09:58:36 AM] bjcullinan: i keep trying to send from my gmail
+[04/14/2008 09:58:46 AM] Christian McHugh: ah, that might do it
+[04/14/2008 09:59:00 AM] bjcullinan: and i am not on campus, so i have to use the vpn to send from my nau account
+[04/14/2008 09:59:15 AM] bjcullinan: because the stupid smtp doesn't accept mail from off the network
+[04/14/2008 09:59:22 AM] bjcullinan: and i can't do any of that through remote desktop
+[04/14/2008 09:59:28 AM] Christian McHugh: yeah, looks like only nau.edu accounts can send to that list
+[04/14/2008 09:59:47 AM] Christian McHugh: you could try webmail and see if that will let you
+[04/14/2008 09:59:48 AM] bjcullinan: will you forward the e-mail to the list serve?
+[04/14/2008 09:59:52 AM] bjcullinan: i sent it to you too
+[04/14/2008 09:59:57 AM] Christian McHugh: sure think
+[04/14/2008 09:59:58 AM] Christian McHugh: thing
+[04/14/2008 10:00:18 AM] bjcullinan: thank you
+[04/14/2008 10:11:20 AM] bjcullinan: shoot spelling error
+Session Close (Christian McHugh): Mon Apr 14 10:59:40 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Apr 14 11:53:08 2008
+Session Close (Christian McHugh): Mon Apr 14 11:53:19 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Apr 14 11:59:21 2008
+[04/14/2008 11:59:25 AM] bjcullinan: is e-mail down
+[04/14/2008 11:59:44 AM] Christian McHugh: I don't think so
+[04/14/2008 11:59:52 AM] bjcullinan: this lady is driving me nuts
+[04/14/2008 12:01:02 PM] Christian McHugh: fyi, you can check ITS status by going to (Link: https://www.cens.nau.edu/it/workers/)https://www.cens.nau.edu/it/workers/
+[04/14/2008 12:01:08 PM] Christian McHugh: and clicking the its system status link 
+[04/14/2008 12:01:19 PM] Christian McHugh: or go directly to (Link: https://systemsstatus.nau.edu/ItssServlets/ItssHome)https://systemsstatus.nau.edu/ItssServlets/ItssHome
+[04/14/2008 12:02:08 PM] bjcullinan: wow thats really useful
+[04/14/2008 12:02:45 PM] bjcullinan: it's almost like there should be a place that we can go and get all these useful links
+[04/14/2008 12:02:58 PM] Christian McHugh: that's what the worker page is for
+[04/14/2008 12:03:06 PM] Christian McHugh: but there arn't that many useful links :)
+[04/14/2008 12:03:21 PM] bjcullinan: there should be a link to the schedule too
+[04/14/2008 12:03:30 PM] bjcullinan: how do we dial out
+[04/14/2008 12:03:33 PM] bjcullinan: ?
+[04/14/2008 12:03:36 PM] Christian McHugh: 8, then number
+[04/14/2008 12:03:43 PM] bjcullinan: this lady gave me a 610 number
+[04/14/2008 12:03:46 PM] bjcullinan: long distance?
+[04/14/2008 12:03:56 PM] Christian McHugh: I guess so
+[04/14/2008 12:04:02 PM] bjcullinan: we have her computer here
+[04/14/2008 12:04:05 PM] bjcullinan: it is fixed
+[04/14/2008 12:04:07 PM] Christian McHugh: I don't think any of our phones have long distance capability
+[04/14/2008 12:04:13 PM] bjcullinan: now we have to wait for her to call us back
+[04/14/2008 12:04:16 PM] Christian McHugh: you can try my line and see if it lets you
+[04/14/2008 12:04:28 PM] bjcullinan: i'll just use my phone
+[04/14/2008 12:04:36 PM] Christian McHugh: at will work too
+[04/14/2008 12:07:18 PM] bjcullinan: she even has an office phone
+[04/14/2008 12:07:21 PM] bjcullinan: silly girl
+[04/14/2008 12:07:52 PM] bjcullinan: i told her some of us don't have cell phones and to give out her office phone when calling on campus
+[04/14/2008 12:08:03 PM] bjcullinan: and by some of us, i mean 1 person in the whole world
+[04/14/2008 12:08:10 PM] bjcullinan: that works in the it department
+[04/14/2008 12:08:15 PM] Christian McHugh: :)
+[04/14/2008 12:19:32 PM] bjcullinan: is there a couple power strips we could bring up here
+[04/14/2008 12:19:43 PM] Christian McHugh: last I heard we were all out
+[04/14/2008 12:19:54 PM] bjcullinan: lol order more?
+[04/14/2008 12:20:08 PM] Christian McHugh: yeah 
+[04/14/2008 12:20:11 PM] bjcullinan: i know this university has money
+[04/14/2008 12:20:12 PM] Christian McHugh: how many do we need?
+[04/14/2008 12:20:16 PM] bjcullinan: tuition is outstanding
+[04/14/2008 12:20:21 PM] Christian McHugh: the university might, but we don't :)
+[04/14/2008 12:21:21 PM] bjcullinan: get like 10 to split up between up here and down there, there have been a lot of incidents where they get old and die
+[04/14/2008 12:21:54 PM] Christian McHugh: looks like pete is in the chat if you want to post it there
+[04/14/2008 12:25:32 PM] Christian McHugh: know much about window power managment?
+[04/14/2008 12:25:54 PM] Christian McHugh: there is a lady, Sandy, that has a machine that won't wake up from power save
+[04/14/2008 12:26:05 PM] Christian McHugh: she has to hold the power button to restart
+[04/14/2008 12:26:19 PM] Christian McHugh: I tried turning off power save last week, but I guess I was unsuccessful
+[04/14/2008 12:26:53 PM] bjcullinan: Is it in hibernate?
+[04/14/2008 12:27:03 PM] Christian McHugh: I have never seen it, so I don't know
+[04/14/2008 12:27:07 PM] bjcullinan: hibernate you have to press it to start it up again
+[04/14/2008 12:27:11 PM] Christian McHugh: she was just telling me about it
+[04/14/2008 12:27:15 PM] bjcullinan: it is on a different tab in the settings
+[04/14/2008 12:27:25 PM] bjcullinan: also i have heard of that problem before
+[04/14/2008 12:27:29 PM] Christian McHugh: working much longer?
+[04/14/2008 12:27:31 PM] bjcullinan: it is totally because dell sucks
+[04/14/2008 12:27:38 PM] Christian McHugh: they sure do
+[04/14/2008 12:27:42 PM] bjcullinan: it gets tired of working and shuts off completely in sleep mode
+[04/14/2008 12:27:52 PM] bjcullinan: had that problem under linux too
+[04/14/2008 12:28:10 PM] Christian McHugh: she is in the trailers next to peterson, in the parking lot, just south of the english building
+[04/14/2008 12:28:12 PM] Christian McHugh: room 23a
+[04/14/2008 12:28:15 PM] bjcullinan: you have to do some crazy hack in linux so that it can detect the signal to wake up
+[04/14/2008 12:28:33 PM] bjcullinan: i will go take a look
+[04/14/2008 12:28:35 PM] Christian McHugh: she said she should be between offices, so give her a call at 3-1718 and she'll make sure she's there
+[04/14/2008 12:28:38 PM] Christian McHugh: thanks
+Session Close (Christian McHugh): Mon Apr 14 12:59:21 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Fri Apr 18 10:47:10 2008
+[04/18/2008 10:47:18 AM] bjcullinan: no one is in the group :-(
+[04/18/2008 10:47:32 AM] Christian McHugh: weird                  
+[04/18/2008 10:47:33 AM] Christian McHugh: I am                  
+[04/18/2008 10:47:51 AM] Christian McHugh: log thingy says you left at 10:41                  
+[04/18/2008 10:48:22 AM] bjcullinan: weird
+[04/18/2008 10:49:10 AM] bjcullinan: wow it is really quiet today
+[04/18/2008 10:49:32 AM] Christian McHugh: yeah it is
+[04/18/2008 10:51:03 AM] bjcullinan: So i got a new fuse for my receiver.  I put it in and turned it on and sparks and fire started shooting out of it
+Session Close (Christian McHugh): Fri Apr 18 12:12:55 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Fri Apr 18 12:21:07 2008
+[04/18/2008 12:21:09 PM] bjcullinan: hey
+[04/18/2008 12:21:12 PM] bjcullinan: got a question
+[04/18/2008 12:21:36 PM] bjcullinan: a lady has created an e-mail folder in my nau, and when she changes computers the folder does not show up
+[04/18/2008 12:28:11 PM] bjcullinan: nvm
+Session Close (Christian McHugh): Fri Apr 18 12:28:12 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Apr 21 10:34:38 2008
+[04/21/2008 10:34:49 AM] bjcullinan: so you know what would be super cool?
+[04/21/2008 10:35:00 AM] bjcullinan: i just read an article about shutting down your mac with an e-mail
+[04/21/2008 10:35:05 AM] Christian McHugh: woah                  
+[04/21/2008 10:35:14 AM] Christian McHugh: sounds scary                  
+[04/21/2008 10:35:17 AM] bjcullinan: i should make something for windows and linux that does that
+[04/21/2008 10:35:32 AM] Christian McHugh: what's wrong with ssh and shutting down?
+[04/21/2008 10:35:46 AM] bjcullinan: do it from your cell phone, that was the objective
+[04/21/2008 10:35:55 AM] bjcullinan: and the iphone doesn't yet support ssh
+[04/21/2008 10:35:56 AM] Christian McHugh: ah
+[04/21/2008 10:36:24 AM] bjcullinan: but it might be coming because iphone went open source
+[04/21/2008 10:36:47 AM] Christian McHugh: I know they released an sdk but it is open source now?
+[04/21/2008 10:37:12 AM] bjcullinan: well i meant the sdk
+[04/21/2008 10:37:28 AM] bjcullinan: it seems pretty comprehensive
+[04/21/2008 10:38:17 AM] bjcullinan: anywho i am thinking it might be easier to do through jabber, using a script similar to that one you found
+[04/21/2008 10:38:28 AM] bjcullinan: or possibly using a chat client to do it
+[04/21/2008 10:38:39 AM] Christian McHugh: perhaps
+Session Close (Christian McHugh): Mon Apr 21 11:11:01 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Apr 21 13:03:01 2008
+[04/21/2008 01:03:04 PM] bjcullinan: you there?
+[04/21/2008 01:06:01 PM] bjcullinan: so Emma dropped her laptop off and said you made an "appointment" with her.
+[04/21/2008 01:06:19 PM] bjcullinan: i assume it was just finding a time to pick up the laptop
+[04/21/2008 01:06:58 PM] bjcullinan: so we image, set it up on the network, and then..... what?
+Session Close (Christian McHugh): Mon Apr 21 13:27:13 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Apr 21 15:06:05 2008
+[04/21/2008 03:06:05 PM] Christian McHugh: hey Brian, still wondering about the laptop
+[04/21/2008 03:06:23 PM] Christian McHugh: John should have given you a ticket about it on friday, so you should have gotten an email about it
+[04/21/2008 03:06:36 PM] Christian McHugh: basically it is a new laptop so all we have to do is image it
+[04/21/2008 03:19:50 PM] *** Disconnected from server.
+[04/21/2008 07:23:05 PM] *** Disconnected from server.
+Session Close (Christian McHugh): Mon Apr 21 20:00:46 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Tue Apr 22 07:31:46 2008
+[04/22/2008 07:31:52 AM] bjcullinan: i am having a beer for breakfast
+[04/22/2008 07:32:10 AM] Christian McHugh: sounds like the breakfast of champions
+[04/22/2008 07:32:24 AM] bjcullinan: most definitely, it is an apricot qeizen
+[04/22/2008 07:32:30 AM] bjcullinan: *weizen
+Session Close (Christian McHugh): Tue Apr 22 07:34:19 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Apr 28 09:31:54 2008
+[04/28/2008 09:32:04 AM] bjcullinan: so i am not in the office right now
+[04/28/2008 09:32:18 AM] bjcullinan: for good reason, if you feel the need to relay this, or let it slide
+[04/28/2008 09:32:38 AM] Christian McHugh: what's up?                  
+[04/28/2008 09:32:59 AM] bjcullinan: my dryer just stopped working, the sensor i believe is not detecting when something is dry, so it is shutting off to soon
+[04/28/2008 09:33:14 AM] bjcullinan: so i have no dry pants
+[04/28/2008 09:33:38 AM] Christian McHugh: so you plan on comming in when you get pants?
+[04/28/2008 09:33:43 AM] bjcullinan: absolutely
+[04/28/2008 09:33:47 AM] Christian McHugh: heh, alright
+[04/28/2008 09:33:52 AM] Christian McHugh: I'll let Pete know
+[04/28/2008 09:34:05 AM] bjcullinan: but i will be about an hour late because the dryer is so slow
+[04/28/2008 09:35:12 AM] bjcullinan: as far as the time goes, i can make up for it by staying 15 minutes later every day i work
+[04/28/2008 09:35:24 AM] Christian McHugh: no problem
+Session Close (Christian McHugh): Mon Apr 28 10:05:27 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Apr 28 11:00:40 2008
+[04/28/2008 11:00:49 AM] bjcullinan: anything to catch up on?
+[04/28/2008 11:00:59 AM] Christian McHugh: nope, it's been quiet
+[04/28/2008 11:01:02 AM] Christian McHugh: as far as I know that is
+[04/28/2008 11:01:08 AM] Christian McHugh: got dry pants?
+[04/28/2008 11:01:16 AM] bjcullinan: i have dry pants
+[04/28/2008 11:01:21 AM] Christian McHugh: excellent
+[04/28/2008 11:03:12 AM] bjcullinan: this is a ridiculous occurrence, seems like i miss work once a semester, i realize i am expendable, but i do value this job
+[04/28/2008 11:03:26 AM] Christian McHugh: :) no problem
+[04/28/2008 11:04:17 AM] Christian McHugh: are you a css wizard?
+[04/28/2008 11:04:34 AM] bjcullinan: somewhat
+[04/28/2008 11:04:50 AM] Christian McHugh: on the cens website there is a stylesheet that defines {background:url(somepic.gif);}
+[04/28/2008 11:04:50 AM] bjcullinan: dreamweaver makes it easy, but w3schools works too
+[04/28/2008 11:04:59 AM] bjcullinan: yes
+[04/28/2008 11:05:06 AM] Christian McHugh: but on some pages I want to override that with nothing
+[04/28/2008 11:05:10 AM] Christian McHugh: I don't want it defined
+[04/28/2008 11:05:17 AM] Christian McHugh: currently I've done that with {background:url(none);}
+[04/28/2008 11:05:20 AM] Christian McHugh: which works great
+[04/28/2008 11:05:29 AM] bjcullinan: that will give a missing file error
+[04/28/2008 11:05:30 AM] Christian McHugh: except that the logs are then filled with 404 can'
+[04/28/2008 11:05:40 AM] bjcullinan: you can actually just leave the none out and leave it blank
+[04/28/2008 11:05:42 AM] Christian McHugh: can't find ./none errors
+[04/28/2008 11:05:46 AM] bjcullinan: it should still work
+[04/28/2008 11:05:49 AM] bjcullinan: yeah makes sense
+[04/28/2008 11:05:52 AM] Christian McHugh: so just {background:url();}
+[04/28/2008 11:05:53 AM] Christian McHugh: should do it?
+[04/28/2008 11:06:09 AM] bjcullinan: i would leave off the url too so background:;
+[04/28/2008 11:06:19 AM] Christian McHugh: cool, thanks
+[04/28/2008 11:10:45 AM] bjcullinan: also maybe try leaving out url() and just putting none there
+[04/28/2008 11:11:11 AM] bjcullinan: it should not be standard css, but it will stop the missing file in the logs
+[04/28/2008 11:11:21 AM] Christian McHugh: cool
+[04/28/2008 11:11:33 AM] bjcullinan: you can also use background-image if you still want to use a color for the background
+[04/28/2008 11:13:02 AM] bjcullinan: frak, i haven't read slashdot for like 3 days, i am going to start convulsing 
+Session Close (Christian McHugh): Mon Apr 28 11:43:04 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Apr 28 11:56:29 2008
+[04/28/2008 11:56:42 AM] bjcullinan: Is there going to be any work this summer in CENS?
+Session Close (Christian McHugh): Mon Apr 28 12:26:46 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Apr 28 13:51:12 2008
+[04/28/2008 01:51:12 PM] Christian McHugh: most likely
+[04/28/2008 01:51:36 PM] Christian McHugh: when you get down south next, try bugging Pete with your schedule of how much you might be willing to work
+[04/28/2008 01:59:24 PM] bjcullinan: ok, so wtf is with the sign in sheet?
+[04/28/2008 02:01:59 PM] Christian McHugh: We've been getting complaints that the north campus office is not being staffed when it should
+[04/28/2008 02:02:21 PM] Christian McHugh: this gives us a paper trail to say, yes it is but the tech's are out helping people
+[04/28/2008 02:02:58 PM] Christian McHugh: as of right now we don't know if you guys are arriving late or if you are out helping, the sign out sheet gives just that report
+[04/28/2008 02:10:34 PM] bjcullinan: it seems like a better solution is that if we are needed during those times, they should leave us messages as evidence
+[04/28/2008 02:11:16 PM] bjcullinan: i never understand that about outsiders look on IT departments, they want the tech guys to be there just to be there, not because they atually have a problem or are inconvenienced
+[04/28/2008 02:13:45 PM] bjcullinan: but that is just the experience i have had
+Session Close (Christian McHugh): Mon Apr 28 14:21:07 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Apr 28 16:49:49 2008
+Session Close (Christian McHugh): Mon Apr 28 16:51:26 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Wed Jul 23 14:52:55 2008
+[07/23/2008 02:53:04 PM] bjcullinan: So i sent an e-mail requesting to work this summer
+[07/23/2008 02:53:09 PM] bjcullinan: haven't gotten a reply
+[07/23/2008 02:53:13 PM] Christian McHugh: hmmm                  
+[07/23/2008 02:53:17 PM] bjcullinan: are you guys still offering hours?
+[07/23/2008 02:53:21 PM] Christian McHugh: did you send to the help desk or to pete?
+[07/23/2008 02:53:23 PM] bjcullinan: maybe i should just call pete?
+[07/23/2008 02:53:23 PM] Christian McHugh: I'm not sure
+[07/23/2008 02:53:28 PM] Christian McHugh: Pete has been taking care of that
+[07/23/2008 02:53:30 PM] Christian McHugh: worth a short
+[07/23/2008 02:53:31 PM] bjcullinan: to pete
+[07/23/2008 02:53:33 PM] Christian McHugh: err shot
+[07/23/2008 02:53:39 PM] Christian McHugh: 523-6877
+[07/23/2008 02:53:43 PM] bjcullinan: and also clint
+[07/23/2008 02:53:50 PM] bjcullinan: is there work to be done?
+[07/23/2008 02:53:53 PM] Christian McHugh: Clint might know what is going on as well
+[07/23/2008 02:54:00 PM] bjcullinan: i don't just want to be there just to be there, i want to do something
+[07/23/2008 02:54:06 PM] bjcullinan: make a difference in the department
+[07/23/2008 02:54:06 PM] Christian McHugh: usually there is
+[07/23/2008 02:54:07 PM] bjcullinan: you know?
+[07/23/2008 02:54:25 PM] bjcullinan: is pete around now?
+[07/23/2008 02:54:38 PM] Christian McHugh: yeah
+[07/23/2008 02:54:41 PM] Christian McHugh: he is
+[07/23/2008 02:54:49 PM] bjcullinan: ok i'll give him a call
+[07/23/2008 02:54:51 PM] bjcullinan: thanks
+[07/23/2008 02:58:45 PM] bjcullinan: hmm
+[07/23/2008 02:58:55 PM] Christian McHugh: what's up?
+[07/23/2008 02:59:08 PM] bjcullinan: "cutting back on the work because of the budget"
+[07/23/2008 02:59:18 PM] Christian McHugh: crap. really?!
+[07/23/2008 02:59:26 PM] Christian McHugh: they took my pager because we could not afford it
+[07/23/2008 02:59:30 PM] bjcullinan: guess i better have a backup plan incase there isn't a job for me when school stats again
+[07/23/2008 02:59:36 PM] bjcullinan: that stinks man
+[07/23/2008 02:59:40 PM] Christian McHugh: since Clint is the only one with a cell phone, he is now the only guy on call :)
+[07/23/2008 03:00:02 PM] bjcullinan: we are the coolest department evar!!11 and the school of forestry is joining us, we should be getting a bigger budget
+[07/23/2008 03:00:08 PM] Christian McHugh: I had better start looking for a job too
+[07/23/2008 03:00:14 PM] Christian McHugh: you would think so
+[07/23/2008 03:00:54 PM] bjcullinan: ah well, i just don't want to go begging to ITS for a job, they shot me down too many times
+[07/23/2008 03:01:03 PM] Christian McHugh: hmmm
+[07/23/2008 03:01:12 PM] Christian McHugh: business also hires, and I think english
+[07/23/2008 03:01:49 PM] bjcullinan: yeah those would be less interesting then cens
+Session Close (Christian McHugh): Wed Jul 23 15:02:02 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Wed Jul 23 15:02:13 2008
+[07/23/2008 03:02:13 PM] Christian McHugh: cefns now, heh
+[07/23/2008 03:02:24 PM] bjcullinan: oh of course
+[07/23/2008 03:02:47 PM] bjcullinan: (Link: http://209.250.30.30/mediaserver/)http://209.250.30.30/mediaserver/
+[07/23/2008 03:03:20 PM] bjcullinan: lots of functionality is still broken because i just made some big changes
+[07/23/2008 03:03:34 PM] bjcullinan: but they are all files and folders on my server
+[07/23/2008 03:03:37 PM] bjcullinan: pretty cool
+[07/23/2008 03:03:46 PM] bjcullinan: *oh sorry, click the portal icon
+[07/23/2008 03:03:57 PM] Christian McHugh: still says loading ui
+[07/23/2008 03:04:07 PM] Christian McHugh: it works in firefox right?
+[07/23/2008 03:04:07 PM] bjcullinan: it will come up
+[07/23/2008 03:04:10 PM] bjcullinan: yeah
+[07/23/2008 03:04:15 PM] bjcullinan: takes a little bit
+[07/23/2008 03:04:20 PM] bjcullinan: lots of js
+[07/23/2008 03:04:26 PM] Christian McHugh: gocha
+[07/23/2008 03:05:57 PM] Christian McHugh: woah, cool
+[07/23/2008 03:06:23 PM] Christian McHugh: did you make this, or is this an existing project?
+[07/23/2008 03:06:57 PM] bjcullinan: there is an available api called Ext JS
+[07/23/2008 03:07:07 PM] bjcullinan: that is already super impressive
+[07/23/2008 03:07:41 PM] bjcullinan: and aside from the desktop/startmenu idea everything else i came up with myself
+[07/23/2008 03:07:46 PM] Christian McHugh: wow
+[07/23/2008 03:07:54 PM] Christian McHugh: so the portal app is yours?
+[07/23/2008 03:07:57 PM] bjcullinan: all the concepts for combining the little controls/buttons/windows api
+[07/23/2008 03:08:18 PM] bjcullinan: all the functionality is mine really
+[07/23/2008 03:08:26 PM] bjcullinan: but the design is all the api
+[07/23/2008 03:08:45 PM] bjcullinan: (Link: http://extjs.com/deploy/dev/examples/samples.html)http://extjs.com/deploy/dev/examples/samples.html
+[07/23/2008 03:09:02 PM] bjcullinan: if you are really interested that will give you an idea of what i started with
+[07/23/2008 03:09:30 PM] bjcullinan: the little address bar is probably my biggest pride
+[07/23/2008 03:09:38 PM] bjcullinan: i designed it like the vista one
+[07/23/2008 03:09:51 PM] Christian McHugh: wow
+[07/23/2008 03:09:52 PM] bjcullinan: so if you click on the whitespace is switches to text
+[07/23/2008 03:09:52 PM] Christian McHugh: looks cool
+[07/23/2008 03:09:58 PM] bjcullinan: then switches back to buttons
+[07/23/2008 03:12:34 PM] bjcullinan: the search functionality is the most important, it is currently implemented but it is not hooked up the file display
+Session Close (Christian McHugh): Wed Jul 23 15:42:36 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Wed Sep 03 11:00:15 2008
+[09/03/2008 11:00:24 AM] bjcullinan: do our keys work on the telecom storage room?
+Session Close (Christian McHugh): Wed Sep 03 11:02:03 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Wed Sep 03 11:37:23 2008
+[09/03/2008 11:37:23 AM] Christian McHugh: I don't think so                  
+[09/03/2008 11:37:31 AM] bjcullinan: ok, thanks
+Session Close (Christian McHugh): Wed Sep 03 11:42:35 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Sep 08 10:10:33 2008
+[09/08/2008 10:10:41 AM] bjcullinan: you going to look at 256 room?
+Session Close (Christian McHugh): Mon Sep 08 10:22:34 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Sep 08 10:22:50 2008
+[09/08/2008 10:23:27 AM] bjcullinan: Some jerkoff called me about it, said he talked to you.  People don't realize we have stuff to do, not fix the projector for every teacher that doesn't know how to plug in a VGA cable.
+[09/08/2008 10:23:52 AM] bjcullinan: I called Richard a professor in there that uses it, his class it at 11, we will take a look at it together.
+[09/08/2008 10:30:42 AM] Christian McHugh: I emailed Shawn about it                  
+[09/08/2008 10:30:50 AM] Christian McHugh: he is stuck ps232 most of the day                  
+[09/08/2008 10:31:08 AM] Christian McHugh: I even called up the phyics office to go get him, since I could not get a hold of him                  
+[09/08/2008 10:31:44 AM] bjcullinan: hmm, the guy called back claiming no one tried the room.  I guess we wil see.
+[09/08/2008 10:31:52 AM] Christian McHugh: stopping by at 11:00 is good. I'm not sure if Shawn got the message
+Session Close (Christian McHugh): Mon Sep 08 11:03:05 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Sep 08 11:15:05 2008
+[09/08/2008 11:15:08 AM] bjcullinan: So!
+[09/08/2008 11:16:08 AM] bjcullinan: There is an exposed orange extension cable in the back of the room that was unplugged from the room being freshly painted.  We should let the other guys know to check that from now on.  Or maybe we could have electrical rewire it for us?
+Session Close (Christian McHugh): Mon Sep 08 11:16:08 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Sep 08 11:49:29 2008
+[09/08/2008 11:49:43 AM] bjcullinan: there is a lady in building 53 that needs help with her printer
+[09/08/2008 11:50:25 AM] Christian McHugh: what is 53?
+[09/08/2008 11:50:44 AM] Christian McHugh: oh got it
+[09/08/2008 11:51:01 AM] Christian McHugh: is that a doorm?
+[09/08/2008 11:51:10 AM] Christian McHugh: err dorm
+[09/08/2008 11:51:23 AM] bjcullinan: i meant 56
+[09/08/2008 11:51:25 AM] Christian McHugh: is she CEFNS staff or faculty?
+[09/08/2008 11:51:31 AM] bjcullinan: applied reaserch and development
+[09/08/2008 11:51:37 AM] bjcullinan: i guess that is closer to me
+[09/08/2008 11:52:51 AM] bjcullinan: Should i take care of it now or when i am on my way to south campus?
+[09/08/2008 11:53:50 AM] Christian McHugh: what is 56?
+[09/08/2008 11:55:22 AM] Christian McHugh: and when are you going to south campus?
+[09/08/2008 11:55:35 AM] bjcullinan: at 12:00
+[09/08/2008 11:55:44 AM] bjcullinan: 56 is applied research building
+[09/08/2008 11:56:09 AM] bjcullinan: i guess i should leave now
+[09/08/2008 11:56:44 AM] Christian McHugh: alright
+[09/08/2008 11:56:45 AM] Christian McHugh: good luck
+[09/08/2008 11:56:49 AM] bjcullinan: ttyl
+Session Close (Christian McHugh): Mon Sep 08 11:56:49 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Tue Sep 16 16:47:38 2008
+[09/16/2008 04:47:38 PM] Christian McHugh: hey Brian                  
+[09/16/2008 04:47:56 PM] Christian McHugh: Just got a call from Signe in the bio office about a sunray keyboard not working                  
+[09/16/2008 04:48:02 PM] Christian McHugh: can you run up and take a look?                  
+[09/16/2008 04:48:46 PM] Christian McHugh: whoops                  
+[09/16/2008 04:48:54 PM] Christian McHugh: looks like you are not working :) sorry for the noise                  
+Session Close (Christian McHugh): Tue Sep 16 16:53:23 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Sep 22 10:03:20 2008
+[09/22/2008 10:03:42 AM] bjcullinan: So, could we register a new computer on the network
+[09/22/2008 10:03:55 AM] Christian McHugh: nope                  
+[09/22/2008 10:04:02 AM] bjcullinan: I am not sure how to do all the parts of the process
+[09/22/2008 10:04:10 AM] Christian McHugh: only pete, clint, shawn, and I can add entried into dns
+[09/22/2008 10:04:17 AM] Christian McHugh: what process?
+[09/22/2008 10:04:19 AM] bjcullinan: ok
+[09/22/2008 10:04:39 AM] bjcullinan: some logging in to the server and putting the name in, seperate from dns registration
+[09/22/2008 10:05:17 AM] bjcullinan: i'll get you a name and mac address
+[09/22/2008 10:05:21 AM] Christian McHugh: like ad machine account stuff?
+[09/22/2008 10:05:22 AM] Christian McHugh: ok
+Session Close (Christian McHugh): Mon Sep 22 10:43:17 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Wed Sep 24 10:42:35 2008
+[09/24/2008 10:42:38 AM] bjcullinan: You there?
+Session Close (Christian McHugh): Wed Sep 24 11:05:25 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Thu Sep 25 09:21:45 2008
+[09/25/2008 09:21:45 AM] Christian McHugh: Howdy Brian                  
+[09/25/2008 09:22:06 AM] Christian McHugh: it looks like you are on north campus later today                  
+[09/25/2008 09:22:30 AM] Christian McHugh: Cathy Klock has a student stopping by her office at 11:00 and needs access to the vpn                  
+[09/25/2008 09:22:43 AM] Christian McHugh: but the ITS webpage 'o directions seems to be down                  
+[09/25/2008 09:23:10 AM] Christian McHugh: Kathy would like you to stop by her office at 11:00 in bio 424 to try helping out with vpn setting up'ing                  
+[09/25/2008 09:23:13 AM] Christian McHugh: thanks                  
+[09/25/2008 10:52:14 AM] bjcullinan: is there a phone number i can reach her at, i will be a little late from another ticket i have to take care of
+[09/25/2008 10:54:28 AM] Christian McHugh: yeah...
+[09/25/2008 10:54:38 AM] Christian McHugh: 35448
+[09/25/2008 10:56:13 AM] bjcullinan: See that's what the website said, but the room number was wrong. Thanks for the verification.
+[09/25/2008 10:58:05 AM] bjcullinan: Ah i totally forgot she is the crazy lady.
+Session Close (Christian McHugh): Thu Sep 25 11:28:07 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Thu Oct 09 11:52:44 2008
+[10/09/2008 11:52:52 AM] bjcullinan: what is the name of the its printsrv?
+[10/09/2008 11:53:02 AM] Christian McHugh: uh...                  
+[10/09/2008 11:53:11 AM] Christian McHugh: acadress or acadresn                  
+[10/09/2008 11:54:26 AM] bjcullinan: hmm i am trying to find the one in the ITS annex
+[10/09/2008 11:55:53 AM] bjcullinan: acadprintsrv
+[10/09/2008 11:55:58 AM] bjcullinan: acadprintsrv1?
+[10/09/2008 11:56:36 AM] Christian McHugh: that is the new one
+[10/09/2008 11:56:49 AM] bjcullinan: oh
+[10/09/2008 11:56:56 AM] Christian McHugh: might work, might not
+[10/09/2008 11:57:11 AM] Christian McHugh: we stopped using it because it took 8 minutes from printing to paper shooting out
+[10/09/2008 11:57:15 AM] Christian McHugh: maybe it is better now
+[10/09/2008 11:57:17 AM] Christian McHugh: no idea
+[10/09/2008 11:57:22 AM] bjcullinan: hm, interesting
+Session Close (Christian McHugh): Thu Oct 09 12:35:44 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Oct 27 10:44:25 2008
+[10/27/2008 10:44:50 AM] bjcullinan: Bridget called, said she can't get the scanner to work and can't spend anymore time on it, if you can get it to work call her at 3-2051
+Session Close (Christian McHugh): Mon Oct 27 10:44:52 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Nov 17 10:16:49 2008
+[11/17/2008 10:16:49 AM] Christian McHugh: don't forget to vote on the new student email system today                  
+[11/17/2008 11:16:47 AM] bjcullinan: where do i vote?
+[11/17/2008 11:17:01 AM] Christian McHugh: did you sign up for the vista class?
+[11/17/2008 11:17:12 AM] bjcullinan: which vista class?
+[11/17/2008 11:17:16 AM] bjcullinan: the one for voting?
+[11/17/2008 11:17:25 AM] Christian McHugh: yeah, called student-email or something
+[11/17/2008 11:18:06 AM] bjcullinan: hmmm haven't done that, is it too late?
+[11/17/2008 11:18:14 AM] Christian McHugh: nope
+[11/17/2008 11:20:20 AM] bjcullinan: so how do i sign up?
+[11/17/2008 11:20:22 AM] Christian McHugh: hmmm, I think the link used to be on (Link: www.nau.edu/studentemail/)www.nau.edu/studentemail/ but it looks like that's broken now
+[11/17/2008 11:20:28 AM] Christian McHugh: perhaps they turned it off?
+[11/17/2008 11:20:31 AM] bjcullinan: hmm
+[11/17/2008 11:20:37 AM] Christian McHugh: can you try calling the student help desk and ask?
+[11/17/2008 11:21:37 AM] bjcullinan: ok
+[11/17/2008 11:22:57 AM] bjcullinan: wow
+[11/17/2008 11:23:07 AM] bjcullinan: they are probably more out of the loop then us
+[11/17/2008 11:23:11 AM] Christian McHugh: haha
+[11/17/2008 11:23:20 AM] Christian McHugh: they did not know the server was down?
+[11/17/2008 11:23:53 AM] bjcullinan: haven't gotten that far, i am on hold
+[11/17/2008 11:23:57 AM] Christian McHugh: neat'o
+[11/17/2008 11:23:59 AM] bjcullinan: i used to work there you know
+[11/17/2008 11:24:06 AM] Christian McHugh: answering the phone?
+[11/17/2008 11:24:22 AM] Christian McHugh: much different than answering the phone here?
+[11/17/2008 11:24:29 AM] Christian McHugh: they might have a better training program
+[11/17/2008 11:24:35 AM] Christian McHugh: and by better, I mean actually have one
+[11/17/2008 11:25:32 AM] bjcullinan: "it's sort of closed for registering"
+[11/17/2008 11:25:45 AM] Christian McHugh: uh... does that mean you can't vote?
+[11/17/2008 11:26:09 AM] Christian McHugh: I like the definatiness over there
+[11/17/2008 11:27:20 AM] bjcullinan: yes, i can't vote
+[11/17/2008 11:27:21 AM] bjcullinan: answering the phone was a pain, they log every single call, i didn't do it much, i did appointments and fixed computers.  i made me hate computers, faculty at least understands that they should screw stuff up, students don't get that.  and they did have a training session, and by training i mean team building exercise.
+[11/17/2008 11:27:25 AM] Christian McHugh: yay
+[11/17/2008 11:27:39 AM] bjcullinan: *it made me hate computers
+[11/17/2008 11:27:41 AM] Christian McHugh: haha
+[11/17/2008 11:27:48 AM] bjcullinan: *shouldn't
+[11/17/2008 11:27:50 AM] Christian McHugh: how are you supposed to vote then?
+[11/17/2008 11:28:04 AM] Christian McHugh: I don't think we have money for a team building excerise :(
+[11/17/2008 11:28:07 AM] bjcullinan: i guess you have to register at the beginning of the semester
+[11/17/2008 11:28:25 AM] Christian McHugh: I guess we could all come in sunday with airsoft guns or something
+[11/17/2008 11:28:34 AM] Christian McHugh: since paintballs would suck to cleanup
+[11/17/2008 11:29:11 AM] bjcullinan: yeah, but airsoft could get caught in the AC units and make the fans stop.  we should just go to like buffalo wild wings or something
+[11/17/2008 11:29:17 AM] Christian McHugh: haha
+[11/17/2008 11:29:18 AM] Christian McHugh: also good
+Session Close (Christian McHugh): Mon Nov 17 12:20:03 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Thu Nov 20 12:03:01 2008
+[11/20/2008 12:33:01 PM] bjcullinan: Hey, you around?
+Session Close (Christian McHugh): Thu Nov 20 12:34:55 2008
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Fri Feb 06 11:46:15 2009
+[02/06/2009 11:46:31 AM] bjcullinan: will you give me a network path to the software to install?
+[02/06/2009 11:46:44 AM] bjcullinan: i assume it starts with \\area51\
+[02/06/2009 12:03:32 PM] Christian McHugh: \\area51\software                  
+[02/06/2009 12:03:48 PM] Christian McHugh: I'm not convinced permissions are totally set up right, and you would need to talk to Pete if you can't access something :(                  
+[02/06/2009 12:54:42 PM] bjcullinan: do we have latex?
+[02/06/2009 12:54:49 PM] bjcullinan: a liscense for it?
+Session Close (Christian McHugh): Fri Feb 06 13:26:46 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Fri Feb 06 13:52:28 2009
+[02/06/2009 01:52:29 PM] Christian McHugh: it is free
+Session Close (Christian McHugh): Fri Feb 06 15:39:17 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Fri Feb 06 18:37:50 2009
+[02/06/2009 06:38:02 PM] bjcullinan: so i've gotten the install process down to about 20 minutes
+[02/06/2009 06:38:24 PM] bjcullinan: including installing some packages and creating a database and going through a few settings
+Session Close (Christian McHugh): Fri Feb 06 18:38:31 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Wed Feb 11 15:52:08 2009
+[02/11/2009 03:52:22 PM] bjcullinan: how do you mark a message to be deleted on the voicemail system
+[02/11/2009 03:54:59 PM] Christian McHugh: It is automatically set to delete after listening. Just use 9 to end the session (don't immdiately hang up). Otherwise, call back in and I believe 33 marks the message to be deleted.
+[02/11/2009 04:02:55 PM] bjcullinan: yeah
+Session Close (Christian McHugh): Wed Feb 11 16:34:18 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Thu Feb 12 12:18:27 2009
+[02/12/2009 12:18:49 PM] bjcullinan: do you have the acm server backup disk?
+Session Close (Christian McHugh): Thu Feb 12 12:50:04 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Thu Feb 12 13:06:58 2009
+[02/12/2009 01:07:04 PM] bjcullinan: Are you back from lunch yet?
+Session Close (Christian McHugh): Thu Feb 12 13:37:06 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Thu Feb 12 14:00:53 2009
+[02/12/2009 02:00:58 PM] bjcullinan: hi
+Session Close (Christian McHugh): Thu Feb 12 14:01:08 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Thu Feb 12 14:01:13 2009
+[02/12/2009 02:01:15 PM] Christian McHugh: Hi
+[02/12/2009 02:01:34 PM] bjcullinan: can you help me put centrify on the ubuntu box in the acm room?
+[02/12/2009 02:02:17 PM] Christian McHugh: Talking to Clint about that
+[02/12/2009 02:04:08 PM] Christian McHugh: Have to talk about what you want/need
+[02/12/2009 02:04:47 PM] *** Christian McHugh went online at Thu Feb 12 14:04:47 2009.
+[02/12/2009 03:04:29 PM] *** Christian McHugh <christian.mchugh@gmail.com/androidyqgERL6j2Ew2> signed off at Thu Feb 12 15:04:29 2009.
+[02/12/2009 03:06:37 PM] *** Christian McHugh went online at Thu Feb 12 15:06:37 2009.
+[02/12/2009 03:07:32 PM] *** Christian McHugh <christian.mchugh@gmail.com/androidyqgERL6j2Ew2> signed off at Thu Feb 12 15:07:32 2009.
+[02/12/2009 03:13:38 PM] *** Christian McHugh went online at Thu Feb 12 15:13:38 2009.
+[02/12/2009 03:17:21 PM] *** Christian McHugh <christian.mchugh@gmail.com/androidyqgERL6j2Ew2> signed off at Thu Feb 12 15:17:21 2009.
+[02/12/2009 03:21:06 PM] *** Christian McHugh went online at Thu Feb 12 15:21:06 2009.
+Session Close (Christian McHugh): Thu Feb 12 16:49:09 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Thu Feb 12 17:43:07 2009
+[02/12/2009 05:43:08 PM] *** Disconnected from server.
+[02/12/2009 05:43:09 PM] bjcullinan: help!
+[02/12/2009 05:43:11 PM] bjcullinan: you there?
+Session Close (Christian McHugh): Thu Feb 12 18:06:34 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Wed Feb 18 13:33:12 2009
+Session Close (Christian McHugh): Wed Feb 18 14:13:09 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Wed Feb 18 20:00:02 2009
+[02/18/2009 08:00:13 PM] bjcullinan: Do you think they would have thin clients at surplus?
+Session Close (Christian McHugh): Wed Feb 18 20:00:14 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Wed Feb 18 20:00:19 2009
+[02/18/2009 08:00:46 PM] bjcullinan: What do we do with our old ones?  The ones that were a rounder shape instead of the book looking ones we have now.
+[02/18/2009 08:02:18 PM] Christian McHugh: Hmm no idea
+[02/18/2009 08:02:18 PM] Christian McHugh: It would depend if anyone ever threw any out
+[02/18/2009 08:02:56 PM] Christian McHugh: Ours are still in production :)
+[02/18/2009 11:46:43 PM] bjcullinan: how much are they from sun?
+[02/18/2009 11:46:51 PM] bjcullinan: can i order some through the department?
+[02/18/2009 11:47:01 PM] bjcullinan: like i would a copy of vista or a new laptop?
+[02/18/2009 11:51:24 PM] bjcullinan: really? 350 bucks for a shitty 100BASE-T connection, its practically a video card and an ethernet card
+[02/18/2009 11:51:34 PM] bjcullinan: man server components are expensive
+[02/18/2009 11:51:52 PM] bjcullinan: those little drawers and shelves for racks are 200 bucks
+[02/18/2009 11:52:04 PM] bjcullinan: for something i could have my dad bend out of aluminum
+[02/18/2009 11:52:12 PM] bjcullinan: granted they hold a lot of weight
+Session Close (Christian McHugh): Thu Feb 19 00:22:55 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Thu Feb 26 15:39:03 2009
+[02/26/2009 03:39:53 PM] bjcullinan: I finished the searching functionality and the output type based on extension
+[02/26/2009 03:40:01 PM] bjcullinan: so this link (Link: http://dev.bjcullinan.com/plugins/query/01%20-%20Edward%20Carnby%20(Tiesto%20Radio%20Edit)http://dev.bjcullinan.com/plugins/query/01%20-%20Edward%20Carnby%20(Link: http://dev.bjcullinan.com/plugins/query/01%20-%20Edward%20Carnby%20(Tiesto%20Radio%20Edit)(Tiesto%20Radio%20Edit).mp3
+[02/26/2009 03:40:03 PM] Christian McHugh: nice                  
+[02/26/2009 03:40:20 PM] bjcullinan: shows you a list of found items and the template outputs a nice little search area
+[02/26/2009 03:40:26 PM] bjcullinan: select default template if it asks
+[02/26/2009 03:42:26 PM] bjcullinan: and this link (Link: http://dev.bjcullinan.com/plugins/encode/01%20-%20Edward%20Carnby.mp3)http://dev.bjcullinan.com/plugins/encode/01%20-%20Edward%20Carnby.mp3 will imediately search for the filename specified and encode it(Link: http://dev.bjcullinan.com/plugins/query/01%20-%20Edward%20Carnby%20(Tiesto%20Radio%20Edit)(Link: http://dev.bjcullinan.com/plugins/encode/01%20-%20Edward%20Carnby.mp3)(Link: http://dev.bjcullinan.com/plugins/query/01%20-%20Edward%20Carnby%20(Tiesto%20Radio%20Edit)
+[02/26/2009 04:29:48 PM] bjcullinan: want to see something cool?  even this (Link: http://dev.bjcullinan.com/plugins/query/01%20-%20Edward%20Carnby%20(Tiesto%20Radio%20Edit)http://dev.bjcullinan.com/plugins/query/01%20-(Link: http://dev.bjcullinan.com/plugins/query/01%20-%20Edward%20Carnby%20(Tiesto%20Radio%20Edit)%20Edward%20Carnby%20(Tiesto%20Radio%20Edit is a valid link
+[02/26/2009 04:30:28 PM] bjcullinan: i turned off mod_rewrite, so i shouldn't be able to use pretty dirs, but because of apache's security flaws/features i still get to the page i want
+[02/26/2009 04:30:44 PM] bjcullinan: even though that is not an actual valid path to my server
+[02/26/2009 04:30:44 PM] *** Disconnected from server.
+Session Close (Christian McHugh): Thu Feb 26 17:18:22 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Sat Feb 28 21:33:26 2009
+[02/28/2009 09:33:36 PM] bjcullinan: do you know where i could order rack screws
+[02/28/2009 09:33:37 PM] bjcullinan: ?
+[02/28/2009 09:33:46 PM] Christian McHugh: woah. No idea
+[02/28/2009 09:33:46 PM] Christian McHugh: sorry
+[02/28/2009 10:05:03 PM] *** Christian McHugh <christian.mchugh@gmail.com/gmail.B6988B2F> signed off at Sat Feb 28 22:05:03 2009.
+Session Close (Christian McHugh): Sat Feb 28 22:37:59 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Tue Mar 03 15:40:27 2009
+[03/03/2009 03:40:27 PM] Christian McHugh: when you get back, room 112 needs paper                  
+Session Close (Christian McHugh): Tue Mar 03 16:11:42 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Thu Mar 26 16:31:39 2009
+[03/26/2009 04:32:06 PM] bjcullinan: everyone gets read, charlie schlinger gets write, on 
+ \\kashyyyk.cefns.nau.edu\shared\class_folders\cene\CENE 333
+ \\kashyyyk.cefns.nau.edu\shared\class_folders\cene\CENE 333L
+Session Close (Christian McHugh): Thu Mar 26 17:02:08 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Wed Apr 08 01:40:30 2009
+[04/08/2009 01:40:44 AM] bjcullinan: how do i change the default priority for programs using nice?
+Session Close (Christian McHugh): Wed Apr 08 02:43:30 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Fri May 08 12:51:10 2009
+[05/08/2009 12:51:19 PM] bjcullinan: get my e-mail?
+Session Close (Christian McHugh): Fri May 08 12:52:18 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Tue May 19 06:05:17 2009
+[05/19/2009 06:05:38 AM] bjcullinan: so for some reason the last two days i've woken up at 4 AM
+[05/19/2009 06:05:56 AM] bjcullinan: oh yeah, did you ever get my pictures for the website?
+Session Close (Christian McHugh): Tue May 19 06:35:58 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Wed May 20 23:07:00 2009
+[05/20/2009 11:07:13 PM] bjcullinan: when do you think ITS is sending stuff to surplus?
+Session Close (Christian McHugh): Wed May 20 23:07:24 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Jun 22 17:40:58 2009
+Session Close (Christian McHugh): Mon Jun 22 17:41:00 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Jun 22 17:50:04 2009
+[06/22/2009 05:50:05 PM] bjcullinan: (Link: http://webtest.cefns.nau.edu/404.phps)http://webtest.cefns.nau.edu/404.phps
+[06/22/2009 05:50:43 PM] Christian McHugh: neat'o
+[06/22/2009 05:50:58 PM] bjcullinan: (Link: http://webtest.cefns.nau.edu/Faculty/AdvisingFormsTips.php)http://webtest.cefns.nau.edu/Faculty/AdvisingFormsTips.php
+[06/22/2009 05:51:14 PM] bjcullinan: try changing the case on any part of the address after the site
+[06/22/2009 05:51:34 PM] Christian McHugh: woah. That's pretty rad
+[06/22/2009 05:51:50 PM] bjcullinan: :-D
+Session Close (Christian McHugh): Mon Jun 22 17:53:47 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Thu Jun 25 19:00:14 2009
+[06/25/2009 07:01:00 PM] bjcullinan: So, i started on this amarok and ampache library thing, but i am having trouble reverse engineering it, you think i could connect to yours so i can get some valid data?
+Session Close (Christian McHugh): Thu Jun 25 19:54:40 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Fri Jun 26 13:26:06 2009
+[06/26/2009 01:26:14 PM] bjcullinan: is there a space between fluffy bunny?
+[06/26/2009 01:26:21 PM] Christian McHugh: nope                  
+[06/26/2009 01:26:32 PM] bjcullinan: and it is kix.selfip.org?
+[06/26/2009 01:26:41 PM] Christian McHugh: yep
+[06/26/2009 01:26:46 PM] Christian McHugh: (Link: http://kix.selfip.org/ampache)http://kix.selfip.org/ampache
+[06/26/2009 01:30:01 PM] bjcullinan: yeah, this traffic viewer is not going to work
+[06/26/2009 01:30:12 PM] bjcullinan: i will probably have to set up ampache myself
+[06/26/2009 01:30:34 PM] Christian McHugh: for debian/ubuntu, there is a package if that helps
+[06/26/2009 01:30:44 PM] Christian McHugh: but I think you said you were already running an iis server or something
+[06/26/2009 01:30:49 PM] Christian McHugh: that should work too
+[06/26/2009 01:31:01 PM] bjcullinan: nah, running on ubuntu
+[06/26/2009 01:31:10 PM] bjcullinan: that might make set up quicker
+Session Close (Christian McHugh): Fri Jun 26 14:01:12 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Sat Jun 27 22:26:19 2009
+[06/27/2009 10:26:27 PM] bjcullinan: Hey
+[06/27/2009 10:26:47 PM] bjcullinan: are servers supposed to be up?  because ACM is not, and they need it for their competition.
+[06/27/2009 10:26:49 PM] bjcullinan: i can't ping it
+[06/27/2009 10:27:05 PM] bjcullinan: is it possible it got plugged in to the wrong port just like i did at first
+[06/27/2009 10:27:26 PM] bjcullinan: in which case it would show up as running on the connected terminal but ssh and website wouldn't work
+Session Close (Christian McHugh): Sat Jun 27 23:05:59 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Tue Jun 30 10:53:52 2009
+[06/30/2009 10:54:05 AM] bjcullinan: let clint and pete know i will be in this afternnon
+[06/30/2009 10:54:12 AM] bjcullinan: i just got a little hung up in phoenix
+[06/30/2009 10:54:17 AM] bjcullinan: *afternoon
+Session Close (Christian McHugh): Tue Jun 30 11:45:17 2009
+
+
+Session Start (bjcullinan@gmail.com:Christian McHugh): Mon Jul 13 13:01:25 2009
+[07/13/2009 01:01:47 PM] bjcullinan: Hey, i got some questions concerning DNS and iptables
+[07/13/2009 01:02:29 PM] Christian McHugh: Shoot
+[07/13/2009 01:02:51 PM] bjcullinan: in engineering we can long in to windows.cefns.nau.edu using the default port 3389 for terminal services, and we can also log in to multiple terminals like sftp.cefns.nau.edu and acm.cefns.nau.edu
+[07/13/2009 01:03:03 PM] Christian McHugh: Or i'l be back tomorrow if you want to wait
+[07/13/2009 01:03:12 PM] Christian McHugh: Yeah
+[07/13/2009 01:03:13 PM] bjcullinan: how do you rewrite an entire subdomain to a different server?  is it using ip tables?
+[07/13/2009 01:03:37 PM] Christian McHugh: What do you mean?
+[07/13/2009 01:03:44 PM] bjcullinan: because i should only have to use one DNS server
+[07/13/2009 01:03:57 PM] Christian McHugh: Like try to logon to wacky.stuff and have that be acm?
+[07/13/2009 01:04:04 PM] Christian McHugh: Oh!
+[07/13/2009 01:04:05 PM] bjcullinan: yeah
+[07/13/2009 01:04:11 PM] Christian McHugh: It is dns forwarding
+[07/13/2009 01:04:27 PM] bjcullinan: DNS forwarding?  so not using ip tables?
+[07/13/2009 01:04:53 PM] Christian McHugh: On your server it is only authorative for its own stuff so you have a line that for all other queries ask ****
+[07/13/2009 01:04:56 PM] Christian McHugh: Yeah
+[07/13/2009 01:05:03 PM] bjcullinan: so there is a DNS configuration that says when this name is hit make everything go somewhere else
+[07/13/2009 01:05:09 PM] Christian McHugh: It is handled by the dns server
+[07/13/2009 01:05:29 PM] bjcullinan: ohhh
+[07/13/2009 01:05:36 PM] Christian McHugh: If you are authorative for the name being hit, yeah
+[07/13/2009 01:06:07 PM] bjcullinan: so like if i had a subdomain for bjcullinan.com instead of putting my public IP address i could put an internal ip addess and it will send all traffic to that computer?
+[07/13/2009 01:06:48 PM] bjcullinan: you know it's like <subdomain>     NS     <ip>
+[07/13/2009 01:07:09 PM] bjcullinan: so i could put <some server>     NS      <192.168.**>
+[07/13/2009 01:08:21 PM] Christian McHugh: I have not figured how to mix internal addresses with an externally accessable dns server
+[07/13/2009 01:12:29 PM] Christian McHugh: So I'm not really too sure
+[07/13/2009 01:12:43 PM] bjcullinan: hmmm i'll figure it out
+[07/13/2009 01:12:43 PM] *** Disconnected from server.
+[07/13/2009 01:13:00 PM] Christian McHugh: So I'm not really too sure
+[07/13/2009 01:13:00 PM] *** Christian McHugh went online at Mon Jul 13 13:13:00 2009.
+[07/13/2009 01:27:25 PM] *** Christian McHugh <christian.mchugh@gmail.com/androidyqgERL6j2Ew2> signed off at Mon Jul 13 13:27:25 2009.
+Session Close (Christian McHugh): Mon Jul 13 14:13:43 2009
+
+

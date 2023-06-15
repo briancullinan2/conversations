@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6197059961642643459/",
+    "participants": [
+        {
+            "name": "Jolene Larson",
+            "title": "Technical Recruiter at Facebook... Connecting the world",
+            "url": "linkedin.com/in/jolene-larson-6025991b",
+            "phone": "",
+            "email": "jolenel@fb.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2016-10-26T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I want to work on Facebook.",
+            "time": "2017-10-30T15:09:00.000Z"
+        },
+        {
+            "from": "Jolene Larson",
+            "message": "Thats great to hear! Would you mind emailing me your resume to my work \nemail-jolenel@b.com\n/ We can also set-up some time to chat.\nthanks,\nJolene",
+            "time": "2017-10-30T22:24:00.000Z"
+        }
+    ]
+}

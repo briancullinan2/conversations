@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6004404581704953856/",
+    "participants": [
+        {
+            "name": "Savanah Diederich",
+            "title": "Technical Events Recruiter at Amazon",
+            "url": "linkedin.com/in/savanahdiederich",
+            "phone": "7042876959 (Mobile)",
+            "email": "diederi@amazon.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Savanah Diederich",
+            "message": "Amazon Opportunity - PHX\ndiederi@amazon.com\ndiederi@amazon.com",
+            "time": "2015-05-14T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-10-31T20:15:00.000Z"
+        }
+    ]
+}

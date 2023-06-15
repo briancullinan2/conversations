@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6319268645759520769/",
+    "participants": [
+        {
+            "name": "Lauren Carter",
+            "title": "Technical Recruiter at Randstad Technologies US",
+            "url": "linkedin.com/in/laurenecarter",
+            "phone": "(602) 635-1339 (Work)",
+            "email": "lauren.carter1@randstadusa.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-09-28T20:37:00.000Z"
+        },
+        {
+            "from": "Lauren Carter",
+            "message": "No, thank you! haha",
+            "time": "2017-09-28T20:37:00.000Z"
+        },
+        {
+            "from": "Lauren Carter",
+            "message": "Are you pretty happy where you're at or interested in seeing whatelse is out there?",
+            "time": "2017-10-11T21:09:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I just run out of time to talk to people.  I feel like I'd be so much more productive if I didn't have to go to work, but it is what it is.  I can't possibly talk to every single recruiter that knows how to search job sites.  And I can't possibly search and find all the jobs I would enjoy doing.",
+            "time": "2017-10-11T21:43:00.000Z"
+        },
+        {
+            "from": "Lauren Carter",
+            "message": "yeah totally!",
+            "time": "2017-10-11T21:43:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "So, how do I prioritize?",
+            "time": "2017-10-11T21:44:00.000Z"
+        }
+    ]
+}

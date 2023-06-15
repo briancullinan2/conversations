@@ -1,0 +1,319 @@
+[
+    {
+        "resourceName": "people/c2831652542410291598",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgxJRW9IYXROQ2Nabz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "274c0cfc0db2798e"
+                    }
+                },
+                "displayName": "Jake Stoll (Mindspree)",
+                "familyName": "(Mindspree)",
+                "givenName": "Jake",
+                "middleName": "Stoll",
+                "displayNameLastFirst": "(Mindspree), Jake Stoll"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "106212039144853376822"
+                    }
+                },
+                "displayName": "Jacob Stoll",
+                "familyName": "Stoll",
+                "givenName": "Jacob",
+                "displayNameLastFirst": "Stoll, Jacob"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "274c0cfc0db2798e"
+                    }
+                },
+                "value": "+1 480-459-1338",
+                "canonicalForm": "+14804591338",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "34 Mutual Connections",
+                "You and Jake both know Jeremy Young, Chase Norlin, and 32 others"
+            ],
+            [
+                "You both worked at MindSpree Inc.",
+                "Jake worked at MindSpree Inc. before you started"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "Acme Technologies",
+                "Dates Employed",
+                "Feb 2017 – Present",
+                "Employment Duration",
+                "9 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "With in this company I am currently working on a project that involves creating a scalable API that sever client applications can connect to. Our current server application is built in Node js built around the Hapi JS framework.Two client application are currently in development, one written in Swift/IOS the other is a React web based application."
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "Resa",
+                "Dates Employed",
+                "Oct 2016 – Present",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "Tempe, Arizona",
+                "As a software engineer with Resa, my responsibilities include developing the software that is included in Resa's custom 3D printing machines. Technologies Used: React, Node JS, MongoDB."
+            ],
+            [
+                "Junior Software Engineer",
+                "Company Name",
+                "MindSpree Inc.",
+                "Dates Employed",
+                "Jan 2015 – Dec 2016",
+                "Employment Duration",
+                "2 yrs",
+                "Location",
+                "Scottsdale, Arizona",
+                "As a Web Designer Developer I understands how to conceive and implement online experiences that move users through the demand generation funnel from awareness to purchase.My Responsibilities Include:-Coding, designing, and modifying websites from layout to function and according to the business need. I try to create visually appealing sites that feature user-friendly design and clear navigation.- I work with the following current technologies; HTML, CSS, JavaScript, JQuery, React, PHP, Symphony, SQL and API's (AWS, Mail Gun, Stripe, Checkr).- I work in a high pace environment, following an agile workflow. - I work with other developers, designers and Project Managers to build and refine designs and experiences for websites.- I have a passion for staying up to dat and using emerging technologies.- I have experience designing low and high fidelity wire-frames and comps.- Search Engine Optimization best practices while coding pages- Familiar with programming across several platforms including mobile."
+            ],
+            [
+                "Swim Captain",
+                "Company Name",
+                "St. Cloud State University",
+                "Dates Employed",
+                "May 2014 – May 2015",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "St. Cloud, Minnesota Area",
+                "Duties Included:Regular communications and meetings with the head coach; Promoting the mission and vision of the team among the athletes; Understanding all team policies and procedures; Acting as a liaison between coaches and swimmers; Acting in a leadership role."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "St. Cloud State University",
+                "Degree Name",
+                "Bachelor's Degree",
+                "Field Of Study",
+                "Marketing",
+                "Grade",
+                "3.4",
+                "Dates attended or expected graduation",
+                "2011 – 2015",
+                "Activities and Societies:",
+                "St. Cloud State Swimming",
+                "Graduated with a major in Marketing and a minor in International Business from SCSU. While attending school, participated in Swimming, achieving CSCAA All-American Academic Honors. Spent time consulting on marketing projects with outside firms."
+            ],
+            [
+                "Skills"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Grubhub",
+                "17,648 followers"
+            ],
+            [
+                "Park Hudson",
+                "11,656 followers"
+            ],
+            [
+                "Bisnow",
+                "5,702 followers"
+            ],
+            [
+                "FILD",
+                "90,865 followers"
+            ],
+            [
+                "Renaissance Personnel Group",
+                "1,938 followers"
+            ],
+            [
+                "Investment Management",
+                "2,938 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (356)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Grubhub",
+                "17,648 followers"
+            ],
+            [
+                "Grubhub",
+                "17,648 followers"
+            ],
+            [
+                "Park Hudson",
+                "11,656 followers"
+            ],
+            [
+                "Park Hudson",
+                "11,656 followers"
+            ],
+            [
+                "Bisnow",
+                "5,702 followers"
+            ],
+            [
+                "Bisnow",
+                "5,702 followers"
+            ],
+            [
+                "FILD",
+                "90,865 followers"
+            ],
+            [
+                "FILD",
+                "90,865 followers"
+            ],
+            [
+                "Renaissance Personnel Group",
+                "1,938 followers"
+            ],
+            [
+                "Renaissance Personnel Group",
+                "1,938 followers"
+            ],
+            [
+                "Investment Management",
+                "2,938 followers"
+            ],
+            [
+                "Investment Management",
+                "2,938 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Marketing",
+                "Marketing"
+            ],
+            [
+                "Marketing"
+            ],
+            [
+                "International Business",
+                "International Business"
+            ],
+            [
+                "International Business"
+            ],
+            [
+                "Business Development",
+                "Business Development"
+            ],
+            [
+                "Business Development"
+            ],
+            [
+                "Business Strategy",
+                "Business Strategy"
+            ],
+            [
+                "Business Strategy"
+            ],
+            [
+                "Social Media Marketing",
+                "Social Media Marketing"
+            ],
+            [
+                "Social Media Marketing"
+            ],
+            [
+                "Search Engine Technology",
+                "Search Engine Technology"
+            ],
+            [
+                "Search Engine Technology"
+            ],
+            [
+                "Electronic Marketing",
+                "Electronic Marketing"
+            ],
+            [
+                "Electronic Marketing"
+            ],
+            [
+                "E-commerce",
+                "E-commerce"
+            ],
+            [
+                "E-commerce"
+            ],
+            [
+                "Market Research",
+                "Market Research"
+            ],
+            [
+                "Market Research"
+            ],
+            [
+                "Product Development",
+                "Product Development"
+            ],
+            [
+                "Product Development"
+            ],
+            [
+                "Product Promotion",
+                "Product Promotion"
+            ],
+            [
+                "Product Promotion"
+            ],
+            [
+                "Google Adwords",
+                "Google Adwords"
+            ],
+            [
+                "Google Adwords"
+            ]
+        ],
+        "summary": "    As a Web Designer Developer I understands how to conceive and implement online experiences that move users through the demand generation funnel from awareness to purchase.My Responsibilities Include:-Coding, designing, and modifying websites from layout to function and according to the business need. I try to create visually appealing sites that feature user-friendly design and clear navigation.- I work with the following current technologies; HTML, CSS, JavaScript, JQuery, React, PHP, Symphony, SQL and API's (AWS, Mail Gun, Stripe, Checkr).- I work in a high pace environment, following an agile workflow. - Familiar with version control and GIT.- I work with other developers, designers and Project Managers to build and refine designs and experiences for websites.- I have a passion for staying up to dat and using emerging technologies.- I have experience designing low and high fidelity wire-frames and comps.- Search Engine Optimization best practices while coding pages- Familiar with programming across several platforms including mobile. \n  \n  \n",
+        "name": "Jake Stoll",
+        "title": "Software Engineer at Resa",
+        "url": "linkedin.com/in/jake-stoll-aa462295",
+        "phone": "4804591338 (Home)",
+        "email": "jake.r.stoll@outlook.com"
+    }
+]

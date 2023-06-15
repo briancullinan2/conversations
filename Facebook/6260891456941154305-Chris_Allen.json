@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6260891456941154305/",
+    "participants": [
+        {
+            "name": "Chris Allen",
+            "title": "Account Manager at Apex Systems",
+            "url": "linkedin.com/in/chrisallenlv",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Chris Allen",
+            "time": "2017-04-20T12:00:00.000Z",
+            "message": "Fortune 10 company needs a Sr. API Developer\n\nHi Brian, \n\nHope you're doing well! Just came across your profile here and wanted to see if you'd be interested in a 1 year contract position with one of our healthcare partners in Las Vegas? \n\nThis position requires Sr. experience developing API's from scratch, RESTful Web Services, ASP.NET, Dependency Injection, and Entity Framework (code first). \n\nLet me know if you're in a position to consider this opportunity. I know 1 yr contracts can be difficult to consider, but this position will allow remote work after the first month, and the compensation is through the roof. \n\nHope to hear from you soon, \n\nChris\n\nChris Allen\n702-904-7432\ncallen@apexsystemsinc.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-20T18:30:00.000Z",
+            "message": "Sorry I don't do contracts because I don't want the company to think I am not a part of the team and I am even more disposable than normal.\n"
+        }
+    ]
+}

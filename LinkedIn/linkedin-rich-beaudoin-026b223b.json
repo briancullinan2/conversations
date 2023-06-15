@@ -1,0 +1,492 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "10 Mutual Connections",
+                "You and Rich both know Bart Rupert, Brent Stork, and 8 others"
+            ],
+            [
+                "PostgreSQL 10 is now available in beta on Heroku, with a number of notable feature and performance improvements: http://hrku.co/MVWk2x",
+                "Rich shared this"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Lead Platform Engineer",
+                "Company Name",
+                "Heroku",
+                "Dates Employed",
+                "Oct 2016 – Present",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "Greater Denver Area",
+                "Lead Platform Engineer on the Cedar team at Heroku, working with an amazing group of people to evolve and maintain the Cedar runtime which provides the foundation for our application platform. Responsibilities include backend development in Go, work in Postgres and Redis, oncall support and maintenance, and troubleshooting. I was a part of a small team that delivered the ACM (Automatic Certificate Management) feature of our platform, which provides integration with Let's Encrypt to automatically provision and renew X.509 TLS certificates for user-created applications. I was also fortunate to help build our a new platform control plane using gRPC, Go, and Kafka.Currently I'm working with system architects to design and prove-out our next generation, Kubernetes based application platform. The goal is to converge our Private Space offering with our Common Runtime application platform."
+            ],
+            [
+                "Platform Architect",
+                "Company Name",
+                "Craftsy",
+                "Dates Employed",
+                "Jan 2015 – Jan 2016",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "Denver",
+                "-Designed and implemented a Search-as-a-Service solution using Algolia. Wrote a custom search client, and an indexer in Java-Addressed issues with a homegrown Kafka solution, and performance tuning of the Craftsy Tomcat web application (reduced JVM garbage collection time significantly).-Took ownership of technical leads meetings, led effort to migrate engineering teams to a unified communication platform-Led effort to move engineering to a pull-request model for feature development, and actively participated in pull request code reviews-Responsible for high-level architecture for rewrite of our monolithic application to loosely-coupled REST services-Addressed Postgres scalability issue by proving out an approach to dynamically configured load balancing across database read slaves-Implemented initial Cloud infrastructure in AWS, including networking/subnets, IAM roles, security groups, DNS, and dynamic service discovery via Consul -Implemented CI pipeline via Jenkins to build RPM artifacts, create AMIs via Packer, run automated tests, and deploy to EC2 using Terraform-Designed initial identity/security approach using JWT, and implemented initial version of the service in Java"
+            ],
+            [
+                "Sr. Software Engineer/Team Lead",
+                "Company Name",
+                "Pearson North America",
+                "Dates Employed",
+                "Apr 2013 – Jan 2015",
+                "Employment Duration",
+                "1 yr 10 mos",
+                "Location",
+                "Greater Denver Area",
+                "-Acted as team lead, getting team members up and running on an open-source, cloud based tech stack (AWS, Git, Python, Jenkins, Java, Cassandra) which was used to implement REST services-Acted as subject matter expert for Cassandra operations and integrations. Attended operations and data modeling training at Cassandra Summit 2014-Took ownership over our open source, Node.js, A/B deployment tool Thalassa. Addressed scalability and deployment issues, and addressed pull requests and defects via GitHub -Worked in POC related to using Consul as a potential service discovery mechanism for our service platform-Moved to the Data Channels architecture team to collaborate on our RabbitMQ pub/sub messaging system to improve alerting/monitoring and prepare for migration to our AWS VPC-Created reference architecture and POC for an edge solution using custom Varnish modules and Redis to support rate-limiting, analytics, and caching of consumer service calls"
+            ],
+            [
+                "Contract Software Engineer",
+                "Company Name",
+                "Independent Contractor/Consultant",
+                "Dates Employed",
+                "Jan 2011 – Apr 2013",
+                "Employment Duration",
+                "2 yrs 4 mos",
+                "Location",
+                "Greater Denver Area",
+                "-Worked as an independent contractor/consultant for a variety of companies in the Denver area, focusing on the design and implementation of web, and service-oriented applications-Project based experience working with JavaScript, Java/C#, relational databases development, as well as REST and SOAP servicesProject highlights include:-Architecture, design and implementation of a Rich Internet Application (RIA) used to display organizational information and provide succession-based planning. I was responsible for front end development, SOAP services, and database development. I finished the project on time despite losing an additional development resource.-Building enhancements to a custom SOA solution designed to deliver media content to multiple business channels, while simultaneously providing mentoring and development expertise in the areas of REST, JavaScript, jQuery, and web application development."
+            ],
+            [
+                "Practice Consultant - Application Design and Development",
+                "Company Name",
+                "EMC",
+                "Dates Employed",
+                "Aug 2007 – Dec 2010",
+                "Employment Duration",
+                "3 yrs 5 mos",
+                "Location",
+                "Greater Boston Area",
+                "-Worked as a Practice Consultant in the Custom Application Development branch of EMC Consulting-Gained valuable experience working as a Software developer on a variety of custom app dev projects focused on web application development.-Project experience, and development fundamentals in HTTP, JavaScript, REST, SOAP, database development, and Agile working environments-Started as one of 30 entry-level consultants, and was promoted from Associate Practice Consultant to Practice Consultant-Learned about complex software projects, and approaches to the software development lifecycle"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of Colorado at Boulder",
+                "Degree Name",
+                "B.S.",
+                "Field Of Study",
+                "Computer Science and Engineering"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See 29 more skills"
+            ],
+            "Recommendations",
+            [
+                "Craftsy Connections",
+                "245 members"
+            ],
+            [
+                "University of Colorado Boulder",
+                "206,744 followers"
+            ],
+            [
+                "Pearson",
+                "168,062 followers"
+            ],
+            [
+                "Blockchain, CryptoCurrencies & IoT Experts ✔",
+                "2,086 members"
+            ],
+            [
+                "Craftsy",
+                "8,146 followers"
+            ],
+            [
+                "Crafted Education",
+                "109 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Craftsy Connections",
+                "245 members"
+            ],
+            [
+                "Craftsy Connections",
+                "245 members"
+            ],
+            [
+                "University of Colorado Boulder",
+                "206,744 followers"
+            ],
+            [
+                "University of Colorado Boulder",
+                "206,744 followers"
+            ],
+            [
+                "Pearson",
+                "168,062 followers"
+            ],
+            [
+                "Pearson",
+                "168,062 followers"
+            ],
+            [
+                "Blockchain, CryptoCurrencies & IoT Experts ✔",
+                "2,086 members"
+            ],
+            [
+                "Blockchain, CryptoCurrencies & IoT Experts ✔",
+                "2,086 members"
+            ],
+            [
+                "Craftsy",
+                "8,146 followers"
+            ],
+            [
+                "Craftsy",
+                "8,146 followers"
+            ],
+            [
+                "Crafted Education",
+                "109 followers"
+            ],
+            [
+                "Crafted Education",
+                "109 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Clark Hobbie",
+                "Owner at Long Term Software, LLC",
+                "January 23, 2015, Rich worked with Clark in the same group",
+                "Rich is a very adept engineer with a wide range of expertise.  His technical competence would make him a fine addition to any team but two other aspects make him an exceptional engineer: his drive to contribute and his interpersonal skills.  Rich consistently strove to make a meaningful contribution to the team.  Where many people would call it a day, Rich would go the extra mile.  He is also fun and easy to work with, something that is rare in a technical person.  I would not hesitate to recommend Rich to any team that might be considering him."
+            ],
+            [
+                "Clark Hobbie",
+                "Owner at Long Term Software, LLC",
+                "January 23, 2015, Rich worked with Clark in the same group"
+            ],
+            [
+                "Clark Hobbie",
+                "Owner at Long Term Software, LLC",
+                "January 23, 2015, Rich worked with Clark in the same group"
+            ],
+            [
+                "Clark Hobbie",
+                "Owner at Long Term Software, LLC",
+                "January 23, 2015, Rich worked with Clark in the same group"
+            ],
+            "Owner at Long Term Software, LLC",
+            [
+                "Rich is a very adept engineer with a wide range of expertise.  His technical competence would make him a fine addition to any team but two other aspects make him an exceptional engineer: his drive to contribute and his interpersonal skills.  Rich consistently strove to make a meaningful contribution to the team.  Where many people would call it a day, Rich would go the extra mile.  He is also fun and easy to work with, something that is rare in a technical person.  I would not hesitate to recommend Rich to any team that might be considering him."
+            ],
+            [
+                "Rich is a very adept engineer with a wide range of expertise.  His technical competence would make him a fine addition to any team but two other aspects make him an exceptional engineer: his drive to contribute and his interpersonal skills.  Rich consistently strove to make a meaningful contribution to the team.  Where many people would call it a day, Rich would go the extra mile.  He is also fun and easy to work with, something that is rare in a technical person.  I would not hesitate to recommend Rich to any team that might be considering him."
+            ],
+            [
+                "Sumitro Palit",
+                "Solutions Architect",
+                "January 18, 2015, Rich worked with Sumitro in the same group",
+                "I have known Rich as an architect/developer at Pearson's DataChannels/Enterprise Architecture group. He is a consummate technologist - with the ability learn any technology at short notice and see projects through from architectural design to finish. I have seen him to be extremely motivated to learn new languages and technologies - ranging from Scala, Machine Learning to Spark. He is also very active in the open-source meetup communities and has started  several meetup groups. I would recommend Rich for any hands-on architectural work and see him in succeed in leadership roles."
+            ],
+            [
+                "Sumitro Palit",
+                "Solutions Architect",
+                "January 18, 2015, Rich worked with Sumitro in the same group"
+            ],
+            [
+                "Sumitro Palit",
+                "Solutions Architect",
+                "January 18, 2015, Rich worked with Sumitro in the same group"
+            ],
+            [
+                "Sumitro Palit",
+                "Solutions Architect",
+                "January 18, 2015, Rich worked with Sumitro in the same group"
+            ],
+            "Solutions Architect",
+            [
+                "I have known Rich as an architect/developer at Pearson's DataChannels/Enterprise Architecture group. He is a consummate technologist - with the ability learn any technology at short notice and see projects through from architectural design to finish. I have seen him to be extremely motivated to learn new languages and technologies - ranging from Scala, Machine Learning to Spark. He is also very active in the open-source meetup communities and has started  several meetup groups. I would recommend Rich for any hands-on architectural work and see him in succeed in leadership roles."
+            ],
+            [
+                "I have known Rich as an architect/developer at Pearson's DataChannels/Enterprise Architecture group. He is a consummate technologist - with the ability learn any technology at short notice and see projects through from architectural design to finish. I have seen him to be extremely motivated to learn new languages and technologies - ranging from Scala, Machine Learning to Spark. He is also very active in the open-source meetup communities and has started  several meetup groups. I would recommend Rich for any hands-on architectural work and see him in succeed in leadership roles."
+            ],
+            [
+                "Hans Windhoff",
+                "Software Engineer",
+                "April 2, 2014, Hans worked with Rich in different groups",
+                "I met Rich about one year ago though our common interest in AngularJS and our work at Pearson. He is a highly skilled software engineer with an exceptionally deep understanding of the technologies he is using. His comprehension of software engineering goes far beyond being familiar. He rather understands tools in depth. When other people might be satisfied with understanding how to use a library he will strive to analyze the inner workings of the component. Prime example here is his low-level knowledge of nodeJS - a JavaScript platform for building network applications. Rich does in fact understand the inner workings of nodeJS on the “C” level and is happy to discuss and share his knowledge with other. He is a great part of the community."
+            ],
+            [
+                "Hans Windhoff",
+                "Software Engineer",
+                "April 2, 2014, Hans worked with Rich in different groups"
+            ],
+            [
+                "Hans Windhoff",
+                "Software Engineer",
+                "April 2, 2014, Hans worked with Rich in different groups"
+            ],
+            [
+                "Hans Windhoff",
+                "Software Engineer",
+                "April 2, 2014, Hans worked with Rich in different groups"
+            ],
+            "Software Engineer",
+            [
+                "I met Rich about one year ago though our common interest in AngularJS and our work at Pearson. He is a highly skilled software engineer with an exceptionally deep understanding of the technologies he is using. His comprehension of software engineering goes far beyond being familiar. He rather understands tools in depth. When other people might be satisfied with understanding how to use a library he will strive to analyze the inner workings of the component. Prime example here is his low-level knowledge of nodeJS - a JavaScript platform for building network applications. Rich does in fact understand the inner workings of nodeJS on the “C” level and is happy to discuss and share his knowledge with other. He is a great part of the community."
+            ],
+            [
+                "I met Rich about one year ago though our common interest in AngularJS and our work at Pearson. He is a highly skilled software engineer with an exceptionally deep understanding of the technologies he is using. His comprehension of software engineering goes far beyond being familiar. He rather understands tools in depth. When other people might be satisfied with understanding how to use a library he will strive to analyze the inner workings of the component. Prime example here is his low-level knowledge of nodeJS - a JavaScript platform for building network applications. Rich does in fact understand the inner workings of nodeJS on the “C” level and is happy to discuss and share his knowledge with other. He is a great part of the community."
+            ],
+            [
+                "Mike Benson",
+                "★Transformational Leader ★Technology Change Agent ★Strategic IT Executive with Organizational Vision ★DevOps Advocate",
+                "April 23, 2013, Mike was senior to Rich but didn’t manage directly",
+                "Rich brought an immense amount of knowledge and energy to our team.  He was able to bring up new ideas, help train other developers and in general bring up the level of the entire team. When he left, the team was fully trained on technologies, architectures and designs that he introduced.  He was a great asset to our team."
+            ],
+            [
+                "Mike Benson",
+                "★Transformational Leader ★Technology Change Agent ★Strategic IT Executive with Organizational Vision ★DevOps Advocate",
+                "April 23, 2013, Mike was senior to Rich but didn’t manage directly"
+            ],
+            [
+                "Mike Benson",
+                "★Transformational Leader ★Technology Change Agent ★Strategic IT Executive with Organizational Vision ★DevOps Advocate",
+                "April 23, 2013, Mike was senior to Rich but didn’t manage directly"
+            ],
+            [
+                "Mike Benson",
+                "★Transformational Leader ★Technology Change Agent ★Strategic IT Executive with Organizational Vision ★DevOps Advocate",
+                "April 23, 2013, Mike was senior to Rich but didn’t manage directly"
+            ],
+            "★Transformational Leader ★Technology Change Agent ★Strategic IT Executive with Organizational Vision ★DevOps Advocate",
+            [
+                "Rich brought an immense amount of knowledge and energy to our team.  He was able to bring up new ideas, help train other developers and in general bring up the level of the entire team. When he left, the team was fully trained on technologies, architectures and designs that he introduced.  He was a great asset to our team."
+            ],
+            [
+                "Rich brought an immense amount of knowledge and energy to our team.  He was able to bring up new ideas, help train other developers and in general bring up the level of the entire team. When he left, the team was fully trained on technologies, architectures and designs that he introduced.  He was a great asset to our team."
+            ],
+            [
+                "Newsha Makooi",
+                "Software Development Manager at Amazon",
+                "April 23, 2013, Newsha was a client of Rich’s",
+                "Rich is an outstanding technologist, developer and researcher.  I hired Rich to help our software development team efforts at Starz. He not only developed solid code and great solutions, but also brought great expertise, talent and thought leadership to our new projects.  His contribution springboarded our efforts forward significantly.  I highly recommend Rich and hope to work with him again."
+            ],
+            [
+                "Newsha Makooi",
+                "Software Development Manager at Amazon",
+                "April 23, 2013, Newsha was a client of Rich’s"
+            ],
+            [
+                "Newsha Makooi",
+                "Software Development Manager at Amazon",
+                "April 23, 2013, Newsha was a client of Rich’s"
+            ],
+            [
+                "Newsha Makooi",
+                "Software Development Manager at Amazon",
+                "April 23, 2013, Newsha was a client of Rich’s"
+            ],
+            "Software Development Manager at Amazon",
+            [
+                "Rich is an outstanding technologist, developer and researcher.  I hired Rich to help our software development team efforts at Starz. He not only developed solid code and great solutions, but also brought great expertise, talent and thought leadership to our new projects.  His contribution springboarded our efforts forward significantly.  I highly recommend Rich and hope to work with him again."
+            ],
+            [
+                "Rich is an outstanding technologist, developer and researcher.  I hired Rich to help our software development team efforts at Starz. He not only developed solid code and great solutions, but also brought great expertise, talent and thought leadership to our new projects.  His contribution springboarded our efforts forward significantly.  I highly recommend Rich and hope to work with him again."
+            ],
+            [
+                "Danny Lui",
+                "Senior Manager at Accenture",
+                "November 28, 2012, Rich worked with Danny in the same group",
+                "I worked with Rich at the City and County of Denver on a project implementing Oracle Identity Management.  I was impressed by Rich's professionalism and his strong .NET skills.  During the project, Rich was very detailed during the implementation and he was accredited with finding a security vulnerability with the Oracle software.  Another impression that I have of Rich is his ability to constantly think up alternative solutions to resolve our challenges.  After working with him on this project, I highly recommend Rich on any development project.  He has impressed me and many others on our development team.  Thank you for your great work at CCD."
+            ],
+            [
+                "Danny Lui",
+                "Senior Manager at Accenture",
+                "November 28, 2012, Rich worked with Danny in the same group"
+            ],
+            [
+                "Danny Lui",
+                "Senior Manager at Accenture",
+                "November 28, 2012, Rich worked with Danny in the same group"
+            ],
+            [
+                "Danny Lui",
+                "Senior Manager at Accenture",
+                "November 28, 2012, Rich worked with Danny in the same group"
+            ],
+            "Senior Manager at Accenture",
+            [
+                "I worked with Rich at the City and County of Denver on a project implementing Oracle Identity Management.  I was impressed by Rich's professionalism and his strong .NET skills.  During the project, Rich was very detailed during the implementation and he was accredited with finding a security vulnerability with the Oracle software.  Another impression that I have of Rich is his ability to constantly think up alternative solutions to resolve our challenges.  After working with him on this project, I highly recommend Rich on any development project.  He has impressed me and many others on our development team.  Thank you for your great work at CCD."
+            ],
+            [
+                "I worked with Rich at the City and County of Denver on a project implementing Oracle Identity Management.  I was impressed by Rich's professionalism and his strong .NET skills.  During the project, Rich was very detailed during the implementation and he was accredited with finding a security vulnerability with the Oracle software.  Another impression that I have of Rich is his ability to constantly think up alternative solutions to resolve our challenges.  After working with him on this project, I highly recommend Rich on any development project.  He has impressed me and many others on our development team.  Thank you for your great work at CCD."
+            ],
+            [
+                "Lori Cizeski",
+                "Business Systems Consultant at CCI",
+                "November 10, 2011, Rich worked with Lori in the same group",
+                "Rich and I worked together at MassMutual as consultants from different vendors on a high profile project with tight deadlines. His role was lead programmer and I was the business analyst.  Rich consistently worked long hours to ensure the deadlines were met, was a favorite with the customers and a role model for the team.  His technical aptitude, leadership skills, honesty and motivation to excel made him one of my favorite people to work with and I’m looking forward to our paths crossing again."
+            ],
+            [
+                "Lori Cizeski",
+                "Business Systems Consultant at CCI",
+                "November 10, 2011, Rich worked with Lori in the same group"
+            ],
+            [
+                "Lori Cizeski",
+                "Business Systems Consultant at CCI",
+                "November 10, 2011, Rich worked with Lori in the same group"
+            ],
+            [
+                "Lori Cizeski",
+                "Business Systems Consultant at CCI",
+                "November 10, 2011, Rich worked with Lori in the same group"
+            ],
+            "Business Systems Consultant at CCI",
+            [
+                "Rich and I worked together at MassMutual as consultants from different vendors on a high profile project with tight deadlines. His role was lead programmer and I was the business analyst.  Rich consistently worked long hours to ensure the deadlines were met, was a favorite with the customers and a role model for the team.  His technical aptitude, leadership skills, honesty and motivation to excel made him one of my favorite people to work with and I’m looking forward to our paths crossing again."
+            ],
+            [
+                "Rich and I worked together at MassMutual as consultants from different vendors on a high profile project with tight deadlines. His role was lead programmer and I was the business analyst.  Rich consistently worked long hours to ensure the deadlines were met, was a favorite with the customers and a role model for the team.  His technical aptitude, leadership skills, honesty and motivation to excel made him one of my favorite people to work with and I’m looking forward to our paths crossing again."
+            ],
+            [
+                "Jason Brant",
+                "Software Engineer at Wayin",
+                "January 24, 2015, Jason worked with Rich in the same group",
+                "Jason may be one of the most humble, talented people I've had the pleasure of working with in my career. He always goes the extra mile to make sure that people felt respected, and heard. A calming force in the sometimes stressful workplace, he is able to share his in-depth technical knowledge in a way that is always well-received. He is basically the guy who knows a ton about Software Engineering and emerging technologies, but makes it his priority to communicate to you in a way that you appreciate and understand. Every team would benefit from adding someone with Jason's skills and demeanor, and I only wish I had the opportunity to continue working with him every day."
+            ],
+            [
+                "Jason Brant",
+                "Software Engineer at Wayin",
+                "January 24, 2015, Jason worked with Rich in the same group"
+            ],
+            [
+                "Jason Brant",
+                "Software Engineer at Wayin",
+                "January 24, 2015, Jason worked with Rich in the same group"
+            ],
+            [
+                "Jason Brant",
+                "Software Engineer at Wayin",
+                "January 24, 2015, Jason worked with Rich in the same group"
+            ],
+            "Software Engineer at Wayin",
+            [
+                "Jason may be one of the most humble, talented people I've had the pleasure of working with in my career. He always goes the extra mile to make sure that people felt respected, and heard. A calming force in the sometimes stressful workplace, he is able to share his in-depth technical knowledge in a way that is always well-received. He is basically the guy who knows a ton about Software Engineering and emerging technologies, but makes it his priority to communicate to you in a way that you appreciate and understand. Every team would benefit from adding someone with Jason's skills and demeanor, and I only wish I had the opportunity to continue working with him every day."
+            ],
+            [
+                "Jason may be one of the most humble, talented people I've had the pleasure of working with in my career. He always goes the extra mile to make sure that people felt respected, and heard. A calming force in the sometimes stressful workplace, he is able to share his in-depth technical knowledge in a way that is always well-received. He is basically the guy who knows a ton about Software Engineering and emerging technologies, but makes it his priority to communicate to you in a way that you appreciate and understand. Every team would benefit from adding someone with Jason's skills and demeanor, and I only wish I had the opportunity to continue working with him every day."
+            ],
+            [
+                "Clark Hobbie",
+                "Owner at Long Term Software, LLC",
+                "January 24, 2015, Clark was senior to Rich but didn’t manage directly",
+                "Clark may be one of the brightest, most knowledgeable people I've had the pleasure of meeting. As a Principal Engineer he demonstrated the ability to think at a very high technical level while simultaneously being able to describe things to the team in a a clear, coherent manner. Add to that his sharp wit and positive attitude, and he ends up being a teammate that you look forward to working with everyday. Clark is great, and comes highly reccommended."
+            ],
+            [
+                "Clark Hobbie",
+                "Owner at Long Term Software, LLC",
+                "January 24, 2015, Clark was senior to Rich but didn’t manage directly"
+            ],
+            [
+                "Clark Hobbie",
+                "Owner at Long Term Software, LLC",
+                "January 24, 2015, Clark was senior to Rich but didn’t manage directly"
+            ],
+            [
+                "Clark Hobbie",
+                "Owner at Long Term Software, LLC",
+                "January 24, 2015, Clark was senior to Rich but didn’t manage directly"
+            ],
+            "Owner at Long Term Software, LLC",
+            [
+                "Clark may be one of the brightest, most knowledgeable people I've had the pleasure of meeting. As a Principal Engineer he demonstrated the ability to think at a very high technical level while simultaneously being able to describe things to the team in a a clear, coherent manner. Add to that his sharp wit and positive attitude, and he ends up being a teammate that you look forward to working with everyday. Clark is great, and comes highly reccommended."
+            ],
+            [
+                "Clark may be one of the brightest, most knowledgeable people I've had the pleasure of meeting. As a Principal Engineer he demonstrated the ability to think at a very high technical level while simultaneously being able to describe things to the team in a a clear, coherent manner. Add to that his sharp wit and positive attitude, and he ends up being a teammate that you look forward to working with everyday. Clark is great, and comes highly reccommended."
+            ]
+        ],
+        "skills": [
+            [
+                "Agile Methodologies",
+                "See 48 endorsements for Agile Methodologies",
+                "48",
+                "Agile Methodologies",
+                "Endorse",
+                "Endorsed by Aaron Kerwin and 1 other who is highly skilled at this",
+                "Endorsed by 6 of Rich’s colleagues at Craftsy"
+            ],
+            [
+                "Agile Methodologies",
+                "See 48 endorsements for Agile Methodologies",
+                "48"
+            ],
+            [
+                "Web Applications",
+                "See 30 endorsements for Web Applications",
+                "30",
+                "Web Applications",
+                "Endorse",
+                "Endorsed by Tom Chen, who is highly skilled at this",
+                "Endorsed by 7 of Rich’s colleagues at Craftsy"
+            ],
+            [
+                "Web Applications",
+                "See 30 endorsements for Web Applications",
+                "30"
+            ],
+            [
+                "Software Development",
+                "See 36 endorsements for Software Development",
+                "36",
+                "Software Development",
+                "Endorse",
+                "Endorsed by Todd Fredrich and 7 others who are highly skilled at this",
+                "Endorsed by 6 of Rich’s colleagues at Craftsy"
+            ],
+            [
+                "Software Development",
+                "See 36 endorsements for Software Development",
+                "36"
+            ]
+        ],
+        "summary": "    Software Engineer and Ops guy with experience working at both the infrastructure, and systems level. I spend most of my time on backend engineering in Linux based environments, writing software in Go. I'm familiar with a variety of data persistence technologies including Kafka, Postgres, Cassandra, and Redis, and love learning about distributed and decentralized systems. Most recently I've helped build, run, and maintain scalable backend platforms in a technical lead capacity.I currently work as a Platform Engineer at Heroku doing my part to evolve and build out the underlying platform that supports all of our user's applications.\n  \n  \n",
+        "name": "Rich Beaudoin",
+        "title": "Lead Platform Engineer at Heroku",
+        "url": "linkedin.com/in/rich-beaudoin-026b223b",
+        "phone": "",
+        "email": "rich.beaudoin.jr@gmail.com"
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6280793608203362304/",
+    "participants": [
+        {
+            "name": "Donna Johnson",
+            "title": "Recruiter/Account Manager at Solü Technology",
+            "url": "linkedin.com/in/donna-johnson-122773",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Donna Johnson",
+            "time": "2017-06-14T12:00:00.000Z",
+            "message": "Sr. Developer - PHP\n\nDear Brian, \n\nI found your profile on LinkedIn today and wanted to check and see if you are still interested in opportunities. I have a client that is asking me to find a PHP Developer and I'd like to discuss it with you if possible. Also, I noticed that you did a Raspberry Pi project and I'm very interested in picking your brain about that if I could. I have another client that is talking to us about a need for a Pi professional and to be honest with you, it is not a technology that I am overly familiar with. I've been recruiting a long time but haven't had anyone ask for this before. So, it would be interesting to chat with you.\n\nThank you for your time and I look forward to your response.\n\nDonna Johnson\nSolu Technology Partners\nScottsdale, AZ\n602-723-1120 | djohnson@solutechnology.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-14T17:07:00.000Z",
+            "message": "Raspberry pi is awesome, it's a microcontroller. Kind of like your cell phone without the nice screen and an engineer can plug anything in to it.\n"
+        },
+        {
+            "from": "Donna Johnson",
+            "time": "2017-06-14T22:05:00.000Z",
+            "message": "thank you regarding PI!....hey, I am attaching this job description on the PHP need...if you know of anyone looking or would be interested, let me know. It's direct hire, not contract....\n"
+        }
+    ]
+}

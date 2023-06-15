@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6239816047243902976/",
+    "participants": [
+        {
+            "name": "Amy Bangert, PHR",
+            "title": "Manager of Workforce Initiatives",
+            "url": "linkedin.com/in/amybangert",
+            "phone": null,
+            "email": "ajbangert@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-21T14:41:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Amy Bangert, PHR",
+            "time": "2018-02-21T15:19:00.000Z",
+            "message": "You bet, Brian! Hope you are doing well.\n"
+        }
+    ]
+}

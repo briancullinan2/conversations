@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6203179705093488640/",
+    "participants": [
+        {
+            "name": "Julie Mifsud",
+            "title": "Executive Assistant at National Sign Systems",
+            "url": "linkedin.com/in/julie-mifsud-ba57653",
+            "phone": "614-850-2550 (Work)",
+            "email": "summerbuckeyes@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Julie Mifsud",
+            "time": "2017-11-12T12:21:00.000Z",
+            "message": "Happy birthday Brian! Hope you have a great day!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-11-12T18:20:00.000Z",
+            "message": "Brilliant! Thank you :)\n"
+        },
+        {
+            "from": "Julie Mifsud",
+            "time": "2017-03-08T12:04:00.000Z",
+            "message": "Congrats on the new position! Have a great day!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-11T16:25:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

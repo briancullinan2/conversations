@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6214255394714370048/",
+    "participants": [
+        {
+            "name": "Troy Shank",
+            "title": "Site Reliability Engineer III at GoDaddy",
+            "url": "linkedin.com/in/troyshank",
+            "phone": "623-687-7854 (Mobile)",
+            "email": "t.d.shank@me.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting! How is GoDaddy reliable?",
+            "time": "2017-12-13T01:52:00.000Z"
+        }
+    ]
+}

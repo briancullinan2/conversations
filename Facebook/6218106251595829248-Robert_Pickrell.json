@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6218106251595829248/",
+    "participants": [
+        {
+            "name": "Robert Pickrell",
+            "title": "WordPress Teachers LLC",
+            "url": "linkedin.com/in/rjpickrell",
+            "phone": "4802867193 (Mobile)",
+            "email": "lonewolfeprinting@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-23T16:54:00.000Z"
+        },
+        {
+            "from": "Robert Pickrell",
+            "message": "Of course man have a great day today and holiday\n",
+            "time": "2017-12-23T16:59:00.000Z"
+        }
+    ]
+}

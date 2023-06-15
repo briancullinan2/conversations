@@ -1,0 +1,22 @@
+{
+    "thread": "https://www.facebook.com/messages/archived/t/brad.mccann",
+    "participants": [
+        {
+            "name": "Brad McCann",
+            "description": "Lives in Grand Prairie, Texas",
+            "url": "Married to Jessica McCann"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Brad",
+            "time": "2006-11-16T00:44:00.000Z",
+            "message": "\nHey, I remember you telling me way back that the NAU Hub was still up.  Everytime I search for it, it won't come up.  Do you have the exact IP address?\n\nBrad\n\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2006-11-19T20:16:00.000Z",
+            "message": "Brian\nIt's definitely still nauhub.dyndns.org but you can't open it off campus and if you are behind a router you have to use the port forwarding in the settings of your router and for DC++.  You can run a trace on that domain if you really want but i dont know the IP of it.\n"
+        }
+    ]
+}

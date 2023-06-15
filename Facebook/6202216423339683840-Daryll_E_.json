@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6202216423339683840/",
+    "participants": [
+        {
+            "name": "Daryll E.",
+            "title": "Resource Manager at One of the Best Staffing Firms to Work For!",
+            "url": "linkedin.com/in/daryllestabillo",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Daryll E.",
+            "message": "Urgent Hiring! Prosum Career Opportunity: Software Engineer role in Tempe, AZ\ndaryll.estabillo@prosum.com",
+            "time": "2017-11-09T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Daryll Estabillo, thanks for reaching out. I’d love to hear more about this.",
+            "time": "2017-10-04T21:18:00.000Z"
+        },
+        {
+            "from": "Daryll E.",
+            "message": "",
+            "time": "2017-10-04T23:07:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Megamindbrian@gmail.com",
+            "time": "2017-10-04T23:07:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "4804660856",
+            "time": "2017-10-04T23:10:00.000Z"
+        }
+    ]
+}

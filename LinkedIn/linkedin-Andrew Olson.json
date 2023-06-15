@@ -1,0 +1,425 @@
+[
+    {
+        "resourceName": "people/c3690545108534236893",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "333773390dbd16dd"
+                    }
+                },
+                "displayName": "Andrew Olson",
+                "familyName": "Olson",
+                "givenName": "Andrew",
+                "displayNameLastFirst": "Olson, Andrew"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "113125693622253249631"
+                    }
+                },
+                "displayName": "Andrew Olson",
+                "familyName": "Olson",
+                "givenName": "Andrew",
+                "displayNameLastFirst": "Olson, Andrew"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "333773390dbd16dd"
+                    }
+                },
+                "value": "+1-520-331-5110",
+                "canonicalForm": "+15203315110",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "3 Mutual Connections",
+                "You and Andrew both know David McArthur, Xiangmiao Yuan, and 1 other"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Stress Engineer / ODA UM Structures",
+                "Company Name",
+                "Piper Aircraft",
+                "Dates Employed",
+                "Sep 2012 – Present",
+                "Employment Duration",
+                "5 yrs 2 mos",
+                "Location",
+                "Vero Beach, FL",
+                "Providing engineering services for support of Major Repairs and Major Alterations to primary structure of Part 23 aircraft, as well as providing stress analysis for internal product development."
+            ],
+            [
+                "Engineer/Stress Analyst",
+                "Company Name",
+                "Aero Flite Aerospace Group LLC",
+                "Dates Employed",
+                "Aug 2012 – Present",
+                "Employment Duration",
+                "5 yrs 3 mos",
+                "Location",
+                "Vero Beach, FL",
+                "Assist in providing FAA DER services for fixed wing aircraft, as well as support design, analysis and certification efforts for Major Repairs, Major Alterations, and STC projects. Provide damage assessment, inspection recommendations and development of instructions for continued airworthiness."
+            ],
+            [
+                "Structures Engineer",
+                "Company Name",
+                "NAVAIR",
+                "Dates Employed",
+                "2016 – 2016",
+                "Employment Duration",
+                "less than a year"
+            ],
+            [
+                "Engineer/Stress Analyst",
+                "Company Name",
+                "Aero-Flite Inc.",
+                "Dates Employed",
+                "Jul 2008 – Aug 2012",
+                "Employment Duration",
+                "4 yrs 2 mos",
+                "Assist in providing FAA DER services for fixed wing aircraft, as well as support design, analysis and certification efforts for Major Repairs, Major Alterations, and STC projects. Provide damage assessment, inspection recommendations and development of instructions for continued airworthiness."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of Arizona",
+                "Degree Name",
+                "Bachelor’s Degree",
+                "Field Of Study",
+                "Biological/Biosystems Engineering",
+                "Dates attended or expected graduation",
+                "2003 – 2008"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "University of Arizona",
+                "228,599 followers"
+            ],
+            [
+                "University of Arizona",
+                "213,831 followers"
+            ],
+            [
+                "Aero Flite Aerospace Group LLC",
+                "183 followers"
+            ],
+            [
+                "Piper Aircraft",
+                "11,257 followers"
+            ],
+            [
+                "See connections (218)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "University of Arizona",
+                "228,599 followers"
+            ],
+            [
+                "University of Arizona",
+                "228,599 followers"
+            ],
+            [
+                "University of Arizona",
+                "213,831 followers"
+            ],
+            [
+                "University of Arizona",
+                "213,831 followers"
+            ],
+            [
+                "Aero Flite Aerospace Group LLC",
+                "183 followers"
+            ],
+            [
+                "Aero Flite Aerospace Group LLC",
+                "183 followers"
+            ],
+            [
+                "Piper Aircraft",
+                "11,257 followers"
+            ],
+            [
+                "Piper Aircraft",
+                "11,257 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Aircraft",
+                "See 21 endorsements for Aircraft",
+                "21",
+                "Aircraft",
+                "Endorse",
+                "Endorsed by 2 of Andrew’s colleagues at Aero-Flite, Inc."
+            ],
+            [
+                "Aircraft",
+                "See 21 endorsements for Aircraft",
+                "21"
+            ],
+            [
+                "Engineering",
+                "See 21 endorsements for Engineering",
+                "21",
+                "Engineering",
+                "Endorse",
+                "Endorsed by Neal McFall and 1 other who is highly skilled at this",
+                "Endorsed by 14 of Andrew’s colleagues at Piper Aircraft"
+            ],
+            [
+                "Engineering",
+                "See 21 endorsements for Engineering",
+                "21"
+            ],
+            [
+                "Aerospace",
+                "See 20 endorsements for Aerospace",
+                "20",
+                "Aerospace",
+                "Endorse",
+                "Endorsed by Ian Atkinson PMP and 2 others who are highly skilled at this",
+                "Endorsed by 13 of Andrew’s colleagues at Piper Aircraft"
+            ],
+            [
+                "Aerospace",
+                "See 20 endorsements for Aerospace",
+                "20"
+            ],
+            [
+                "Airworthiness",
+                "See 18 endorsements for Airworthiness",
+                "18",
+                "Airworthiness",
+                "Endorse"
+            ],
+            [
+                "Airworthiness",
+                "See 18 endorsements for Airworthiness",
+                "18"
+            ],
+            [
+                "Stress Analysis",
+                "See 16 endorsements for Stress Analysis",
+                "16",
+                "Stress Analysis",
+                "Endorse"
+            ],
+            [
+                "Stress Analysis",
+                "See 16 endorsements for Stress Analysis",
+                "16"
+            ],
+            [
+                "Aircraft Design",
+                "See 14 endorsements for Aircraft Design",
+                "14",
+                "Aircraft Design",
+                "Endorse"
+            ],
+            [
+                "Aircraft Design",
+                "See 14 endorsements for Aircraft Design",
+                "14"
+            ],
+            [
+                "Inspection",
+                "See 9 endorsements for Inspection",
+                "9",
+                "Inspection",
+                "Endorse"
+            ],
+            [
+                "Inspection",
+                "See 9 endorsements for Inspection",
+                "9"
+            ],
+            [
+                "Composites",
+                "See 9 endorsements for Composites",
+                "9",
+                "Composites",
+                "Endorse"
+            ],
+            [
+                "Composites",
+                "See 9 endorsements for Composites",
+                "9"
+            ],
+            [
+                "Finite Element Analysis",
+                "See 7 endorsements for Finite Element Analysis",
+                "7",
+                "Finite Element Analysis",
+                "Endorse"
+            ],
+            [
+                "Finite Element Analysis",
+                "See 7 endorsements for Finite Element Analysis",
+                "7"
+            ],
+            [
+                "Damage Tolerance",
+                "See 7 endorsements for Damage Tolerance",
+                "7",
+                "Damage Tolerance",
+                "Endorse"
+            ],
+            [
+                "Damage Tolerance",
+                "See 7 endorsements for Damage Tolerance",
+                "7"
+            ],
+            [
+                "Nastran",
+                "See 6 endorsements for Nastran",
+                "6",
+                "Nastran",
+                "Endorse"
+            ],
+            [
+                "Nastran",
+                "See 6 endorsements for Nastran",
+                "6"
+            ],
+            [
+                "Fatigue Analysis",
+                "See 6 endorsements for Fatigue Analysis",
+                "6",
+                "Fatigue Analysis",
+                "Endorse"
+            ],
+            [
+                "Fatigue Analysis",
+                "See 6 endorsements for Fatigue Analysis",
+                "6"
+            ],
+            [
+                "MSC.Patran",
+                "See 5 endorsements for MSC.Patran",
+                "5",
+                "MSC.Patran",
+                "Endorse"
+            ],
+            [
+                "MSC.Patran",
+                "See 5 endorsements for MSC.Patran",
+                "5"
+            ],
+            [
+                "FEMAP",
+                "See 4 endorsements for FEMAP",
+                "4",
+                "FEMAP",
+                "Endorse"
+            ],
+            [
+                "FEMAP",
+                "See 4 endorsements for FEMAP",
+                "4"
+            ],
+            [
+                "Catia",
+                "See 3 endorsements for Catia",
+                "3",
+                "Catia",
+                "Endorse"
+            ],
+            [
+                "Catia",
+                "See 3 endorsements for Catia",
+                "3"
+            ],
+            [
+                "MSC Patran",
+                "See 3 endorsements for MSC Patran",
+                "3",
+                "MSC Patran",
+                "Endorse"
+            ],
+            [
+                "MSC Patran",
+                "See 3 endorsements for MSC Patran",
+                "3"
+            ],
+            [
+                "CATIA",
+                "See 3 endorsements for CATIA",
+                "3",
+                "CATIA",
+                "Endorse"
+            ],
+            [
+                "CATIA",
+                "See 3 endorsements for CATIA",
+                "3"
+            ],
+            [
+                "Aviation",
+                "See 3 endorsements for Aviation",
+                "3",
+                "Aviation",
+                "Endorse"
+            ],
+            [
+                "Aviation",
+                "See 3 endorsements for Aviation",
+                "3"
+            ],
+            [
+                "Aerospace Engineering",
+                "See 1 endorsement for Aerospace Engineering",
+                "1",
+                "Aerospace Engineering",
+                "Endorse"
+            ],
+            [
+                "Aerospace Engineering",
+                "See 1 endorsement for Aerospace Engineering",
+                "1"
+            ]
+        ],
+        "summary": "",
+        "name": "Andrew Olson",
+        "title": "Stress Engineer at Piper Aircraft",
+        "url": "linkedin.com/in/andrew-olson-8a509635",
+        "phone": null,
+        "email": "agolson@gmail.com"
+    }
+]

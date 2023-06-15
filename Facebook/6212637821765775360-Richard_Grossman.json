@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6212637821765775360/",
+    "participants": [
+        {
+            "name": "Richard Grossman",
+            "title": "CTO TEAM LEADER at Expert Dojo",
+            "url": "linkedin.com/in/richardgrossman",
+            "phone": null,
+            "email": "Richard.Grossman@SystemsEngine.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-08T14:44:00.000Z"
+        }
+    ]
+}

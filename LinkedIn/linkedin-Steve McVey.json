@@ -1,0 +1,787 @@
+[
+    {
+        "resourceName": "people/c1630091815154863882",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgxmMjRTY0lUY055az0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "169f3fde8993cf0a"
+                    }
+                },
+                "displayName": "Steve McVey",
+                "familyName": "McVey",
+                "givenName": "Steve",
+                "displayNameLastFirst": "McVey, Steve"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "103039302230937649856"
+                    }
+                },
+                "displayName": "Steve McVey",
+                "familyName": "McVey",
+                "givenName": "Steve",
+                "displayNameLastFirst": "McVey, Steve"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "169f3fde8993cf0a"
+                    }
+                },
+                "value": "smcvey.com@gmail.com",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "169f3fde8993cf0a"
+                    }
+                },
+                "value": "(480) 445-9465",
+                "canonicalForm": "+14804459465",
+                "type": "work",
+                "formattedType": "Work"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "169f3fde8993cf0a"
+                    }
+                },
+                "value": "+1-480-513-1717",
+                "canonicalForm": "+14805131717",
+                "type": "home",
+                "formattedType": "Home"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "169f3fde8993cf0a"
+                    }
+                },
+                "value": "(480) 227-6021",
+                "canonicalForm": "+14802276021",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "34 Mutual Connections",
+                "You and Steve both know Thomas Blondi, Dale Moberg, and 32 others"
+            ],
+            [
+                "ServiceNow Announces Product Integration with SAP® SuccessFactors® Employee Central",
+                "Steve liked"
+            ],
+            [
+                "Now on Now: How ServiceNow uses the Now Platform™ to achieve a 13-point increase in NPS and a 25% case deflection rate - Service Matters",
+                "Steve liked"
+            ],
+            [
+                "Cloud Leaders ServiceNow and SAP SuccessFactors team up to deliver great employee service experiences. Learn more: http://bit.ly/2g9AfQ0",
+                "Steve liked"
+            ],
+            [
+                "ServiceNow in the news: Enterprise SaaS market grew 31 percent YOY",
+                "Steve liked"
+            ],
+            [
+                "Elevating Life’s Experiences at Lightspeed",
+                "Steve liked"
+            ],
+            [
+                "Virtual Visions",
+                "Steve liked"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Sales Director",
+                "Company Name",
+                "Volteo",
+                "Dates Employed",
+                "Mar 2017 – Present",
+                "Employment Duration",
+                "8 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Software sales and implementation services for ServiceNow, Okta, IoT, and Big Data projects.Volteo is a recognized leader in ServiceNow sales, services, training and Internet of Things (IoT) solutions . With more than 60 successful implementations, we are ranked in the top-10 for customer satisfaction by ServiceNow. Our team of consultants, engineers and solution architects span the globe with offices in the U.S., Mexico, India and Costa Rica. We believe in strategic partnerships with our customers to ensure solutions that will grow with your evolving needs and our service delivery success stories include a global footprint of companies."
+            ],
+            [
+                "Channel Sales Manager",
+                "Company Name",
+                "IBM",
+                "Dates Employed",
+                "Jan 2015 – Dec 2016",
+                "Employment Duration",
+                "2 yrs",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Drove partner revenue for the Hybrid Cloud product brand in 2016. Created and implemented programs for opportunity identification. Provided support and resources for partner-led opportunity progression. Assigned full-time to an IBM business partner in 2015 to assist them with the transition from infrastructure-centric sales to software and solutions sales."
+            ],
+            [
+                "Software Client Leader",
+                "Company Name",
+                "IBM",
+                "Dates Employed",
+                "Sep 2006 – Dec 2014",
+                "Employment Duration",
+                "8 yrs 4 mos",
+                "Sold IBM's entire portfolio of software products (Big Data, Cloud and Smarter Infrastructure, WebSphere, Collaboration/Social, Rational, Security, Business Analytics, Mobile, etc.) to Enterprise accounts in Arizona and Southern California."
+            ],
+            [
+                "Major Account Executive",
+                "Company Name",
+                "BEA Systems, Inc.",
+                "Dates Employed",
+                "Nov 2005 – Sep 2006",
+                "Employment Duration",
+                "11 mos",
+                "Launched SOA and BPM Software products under the AquaLogic brand.  As an overlay specialist for the West Region, I worked with existing sellers to expand the conversations with their clients and to find new opportunities."
+            ],
+            [
+                "Senior Solutions Architect",
+                "Company Name",
+                "Axway (Formerly Cyclone Commerce)",
+                "Dates Employed",
+                "May 2004 – Nov 2005",
+                "Employment Duration",
+                "1 yr 7 mos",
+                "Sold Cyclone’s B2B and BAM solutions in the retail, consumer goods, and transportation vertical industries."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Columbus State Community College"
+            ],
+            [
+                "Columbus State Community College"
+            ],
+            [
+                "The Ohio State University"
+            ],
+            [
+                "The Ohio State University"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "TEKNOVARE Inc.",
+                "52 followers"
+            ],
+            [
+                "Element Blue",
+                "436 followers"
+            ],
+            [
+                "Columbus State Community College",
+                "50,012 followers"
+            ],
+            [
+                "321 Gang",
+                "309 followers"
+            ],
+            [
+                "Corso",
+                "552 followers"
+            ],
+            [
+                "IBM Security",
+                "54,606 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "TEKNOVARE Inc.",
+                "52 followers"
+            ],
+            [
+                "TEKNOVARE Inc.",
+                "52 followers"
+            ],
+            [
+                "Element Blue",
+                "436 followers"
+            ],
+            [
+                "Element Blue",
+                "436 followers"
+            ],
+            [
+                "Columbus State Community College",
+                "50,012 followers"
+            ],
+            [
+                "Columbus State Community College",
+                "50,012 followers"
+            ],
+            [
+                "321 Gang",
+                "309 followers"
+            ],
+            [
+                "321 Gang",
+                "309 followers"
+            ],
+            [
+                "Corso",
+                "552 followers"
+            ],
+            [
+                "Corso",
+                "552 followers"
+            ],
+            [
+                "IBM Security",
+                "54,606 followers"
+            ],
+            [
+                "IBM Security",
+                "54,606 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Jeff Haley",
+                "Senior Manager, Pre-Sales",
+                "January 13, 2009, Jeff worked with Steve in different groups",
+                "It is my pleasure to recommend Steve McVey.  I worked with Steve on many large accounts within IBM.  Steve's knowledge and experience of the business-to-business (B2B) environment is outstanding.  He is very detail oriented and has the unique ability to listen to the customers' requirements, ask the right questions, and translate the responses and business goals into solid B2B solutions.  His understanding of the business processes, coupled with the technical knowledge of systems communication and integration add great value in the sales and solution definition process.  Steve's strength in the industry is recognized by all customers and colleagues that he has worked with."
+            ],
+            [
+                "Jeff Haley",
+                "Senior Manager, Pre-Sales",
+                "January 13, 2009, Jeff worked with Steve in different groups"
+            ],
+            [
+                "Jeff Haley",
+                "Senior Manager, Pre-Sales",
+                "January 13, 2009, Jeff worked with Steve in different groups"
+            ],
+            [
+                "Jeff Haley",
+                "Senior Manager, Pre-Sales",
+                "January 13, 2009, Jeff worked with Steve in different groups"
+            ],
+            "Senior Manager, Pre-Sales",
+            [
+                "It is my pleasure to recommend Steve McVey.  I worked with Steve on many large accounts within IBM.  Steve's knowledge and experience of the business-to-business (B2B) environment is outstanding.  He is very detail oriented and has the unique ability to listen to the customers' requirements, ask the right questions, and translate the responses and business goals into solid B2B solutions.  His understanding of the business processes, coupled with the technical knowledge of systems communication and integration add great value in the sales and solution definition process.  Steve's strength in the industry is recognized by all customers and colleagues that he has worked with."
+            ],
+            [
+                "It is my pleasure to recommend Steve McVey.  I worked with Steve on many large accounts within IBM.  Steve's knowledge and experience of the business-to-business (B2B) environment is outstanding.  He is very detail oriented and has the unique ability to listen to the customers' requirements, ask the right questions, and translate the responses and business goals into solid B2B solutions.  His understanding of the business processes, coupled with the technical knowledge of systems communication and integration add great value in the sales and solution definition process.  Steve's strength in the industry is recognized by all customers and colleagues that he has worked with."
+            ],
+            [
+                "Hugh Collins",
+                "Client Executive at Liaison Technologies",
+                "May 30, 2008, Steve worked with Hugh in the same group",
+                "Steve is a very sharp sales professional with a rare ability to master the technical and business components of solution sales.  Steve has been successful in Pre-Sales Support, Sales and Channel Sales and has a tremendous grasp of the key tools necessary for success in solution sales.I have recommended Steve for two seperate positions and in both instances Steve delivered results.  Steve has a can-do attitude and can be counted on for consistently excellent performance."
+            ],
+            [
+                "Hugh Collins",
+                "Client Executive at Liaison Technologies",
+                "May 30, 2008, Steve worked with Hugh in the same group"
+            ],
+            [
+                "Hugh Collins",
+                "Client Executive at Liaison Technologies",
+                "May 30, 2008, Steve worked with Hugh in the same group"
+            ],
+            [
+                "Hugh Collins",
+                "Client Executive at Liaison Technologies",
+                "May 30, 2008, Steve worked with Hugh in the same group"
+            ],
+            "Client Executive at Liaison Technologies",
+            [
+                "Steve is a very sharp sales professional with a rare ability to master the technical and business components of solution sales.  Steve has been successful in Pre-Sales Support, Sales and Channel Sales and has a tremendous grasp of the key tools necessary for success in solution sales.I have recommended Steve for two seperate positions and in both instances Steve delivered results.  Steve has a can-do attitude and can be counted on for consistently excellent performance."
+            ],
+            [
+                "Steve is a very sharp sales professional with a rare ability to master the technical and business components of solution sales.  Steve has been successful in Pre-Sales Support, Sales and Channel Sales and has a tremendous grasp of the key tools necessary for success in solution sales.I have recommended Steve for two seperate positions and in both instances Steve delivered results.  Steve has a can-do attitude and can be counted on for consistently excellent performance."
+            ],
+            [
+                "Mark Zembal",
+                "Founder/Principal at Parasol Consulting LLC",
+                "February 12, 2009, Steve worked with Mark in different groups",
+                "Mark understands the details, but sees the big picture. He's very creative, yet business savvy. Very productive and a joy to work with. Hope our paths will cross again!"
+            ],
+            [
+                "Mark Zembal",
+                "Founder/Principal at Parasol Consulting LLC",
+                "February 12, 2009, Steve worked with Mark in different groups"
+            ],
+            [
+                "Mark Zembal",
+                "Founder/Principal at Parasol Consulting LLC",
+                "February 12, 2009, Steve worked with Mark in different groups"
+            ],
+            [
+                "Mark Zembal",
+                "Founder/Principal at Parasol Consulting LLC",
+                "February 12, 2009, Steve worked with Mark in different groups"
+            ],
+            "Founder/Principal at Parasol Consulting LLC",
+            [
+                "Mark understands the details, but sees the big picture. He's very creative, yet business savvy. Very productive and a joy to work with. Hope our paths will cross again!"
+            ],
+            [
+                "Mark understands the details, but sees the big picture. He's very creative, yet business savvy. Very productive and a joy to work with. Hope our paths will cross again!"
+            ],
+            [
+                "Liz F.",
+                "Systems Architect",
+                "February 9, 2009, Liz worked with Steve in the same group",
+                "As her title suggests, Liz has mastered both the technical and the sales sides of software. She is detail-oriented, customer-focused, and a delight to work with."
+            ],
+            [
+                "Liz F.",
+                "Systems Architect",
+                "February 9, 2009, Liz worked with Steve in the same group"
+            ],
+            [
+                "Liz F.",
+                "Systems Architect",
+                "February 9, 2009, Liz worked with Steve in the same group"
+            ],
+            [
+                "Liz F.",
+                "Systems Architect",
+                "February 9, 2009, Liz worked with Steve in the same group"
+            ],
+            "Systems Architect",
+            [
+                "As her title suggests, Liz has mastered both the technical and the sales sides of software. She is detail-oriented, customer-focused, and a delight to work with."
+            ],
+            [
+                "As her title suggests, Liz has mastered both the technical and the sales sides of software. She is detail-oriented, customer-focused, and a delight to work with."
+            ]
+        ],
+        "skills": [
+            [
+                "Solution Selling",
+                "See 38 endorsements for Solution Selling",
+                "38",
+                "Solution Selling",
+                "Remove Endorsement",
+                "Endorsed by Mark Dallmeier and 2 others who are highly skilled at this",
+                "Endorsed by pamela carrus and 3 other mutual connections"
+            ],
+            [
+                "Solution Selling",
+                "See 38 endorsements for Solution Selling",
+                "38"
+            ],
+            [
+                "Enterprise Software",
+                "See 29 endorsements for Enterprise Software",
+                "29",
+                "Enterprise Software",
+                "Remove Endorsement",
+                "Endorsed by Kathy Terry and 6 others who are highly skilled at this",
+                "Endorsed by Fred Taylor and 2 other mutual connections"
+            ],
+            [
+                "Enterprise Software",
+                "See 29 endorsements for Enterprise Software",
+                "29"
+            ],
+            [
+                "Product Management",
+                "See 25 endorsements for Product Management",
+                "25",
+                "Product Management",
+                "Remove Endorsement",
+                "Endorsed by Joe Speed, who is highly skilled at this",
+                "Endorsed by Fred Taylor and 1 other mutual connection"
+            ],
+            [
+                "Product Management",
+                "See 25 endorsements for Product Management",
+                "25"
+            ],
+            [
+                "Cloud Computing",
+                "See 20 endorsements for Cloud Computing",
+                "20",
+                "Cloud Computing",
+                "Remove Endorsement"
+            ],
+            [
+                "Cloud Computing",
+                "See 20 endorsements for Cloud Computing",
+                "20"
+            ],
+            [
+                "Business Development",
+                "See 17 endorsements for Business Development",
+                "17",
+                "Business Development",
+                "Remove Endorsement"
+            ],
+            [
+                "Business Development",
+                "See 17 endorsements for Business Development",
+                "17"
+            ],
+            [
+                "SaaS",
+                "See 15 endorsements for SaaS",
+                "15",
+                "SaaS",
+                "Remove Endorsement"
+            ],
+            [
+                "SaaS",
+                "See 15 endorsements for SaaS",
+                "15"
+            ],
+            [
+                "Enterprise Architecture",
+                "See 10 endorsements for Enterprise Architecture",
+                "10",
+                "Enterprise Architecture",
+                "Remove Endorsement"
+            ],
+            [
+                "Enterprise Architecture",
+                "See 10 endorsements for Enterprise Architecture",
+                "10"
+            ],
+            [
+                "Business Intelligence",
+                "See 10 endorsements for Business Intelligence",
+                "10",
+                "Business Intelligence",
+                "Remove Endorsement"
+            ],
+            [
+                "Business Intelligence",
+                "See 10 endorsements for Business Intelligence",
+                "10"
+            ],
+            [
+                "Sales Enablement",
+                "See 9 endorsements for Sales Enablement",
+                "9",
+                "Sales Enablement",
+                "Remove Endorsement"
+            ],
+            [
+                "Sales Enablement",
+                "See 9 endorsements for Sales Enablement",
+                "9"
+            ],
+            [
+                "Security",
+                "See 9 endorsements for Security",
+                "9",
+                "Security",
+                "Remove Endorsement"
+            ],
+            [
+                "Security",
+                "See 9 endorsements for Security",
+                "9"
+            ],
+            [
+                "Pre-sales",
+                "See 7 endorsements for Pre-sales",
+                "7",
+                "Pre-sales",
+                "Remove Endorsement"
+            ],
+            [
+                "Pre-sales",
+                "See 7 endorsements for Pre-sales",
+                "7"
+            ],
+            [
+                "Integration",
+                "See 7 endorsements for Integration",
+                "7",
+                "Integration",
+                "Remove Endorsement"
+            ],
+            [
+                "Integration",
+                "See 7 endorsements for Integration",
+                "7"
+            ],
+            [
+                "E-commerce",
+                "See 6 endorsements for E-commerce",
+                "6",
+                "E-commerce",
+                "Remove Endorsement"
+            ],
+            [
+                "E-commerce",
+                "See 6 endorsements for E-commerce",
+                "6"
+            ],
+            [
+                "Software Industry",
+                "See 6 endorsements for Software Industry",
+                "6",
+                "Software Industry",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Industry",
+                "See 6 endorsements for Software Industry",
+                "6"
+            ],
+            [
+                "Solution Architecture",
+                "See 5 endorsements for Solution Architecture",
+                "5",
+                "Solution Architecture",
+                "Remove Endorsement"
+            ],
+            [
+                "Solution Architecture",
+                "See 5 endorsements for Solution Architecture",
+                "5"
+            ],
+            [
+                "Customer Service",
+                "See 4 endorsements for Customer Service",
+                "4",
+                "Customer Service",
+                "Remove Endorsement"
+            ],
+            [
+                "Customer Service",
+                "See 4 endorsements for Customer Service",
+                "4"
+            ],
+            [
+                "Software Quality Assurance",
+                "See 3 endorsements for Software Quality Assurance",
+                "3",
+                "Software Quality Assurance",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Quality Assurance",
+                "See 3 endorsements for Software Quality Assurance",
+                "3"
+            ],
+            [
+                "Websphere",
+                "See 2 endorsements for Websphere",
+                "2",
+                "Websphere",
+                "Remove Endorsement"
+            ],
+            [
+                "Websphere",
+                "See 2 endorsements for Websphere",
+                "2"
+            ],
+            [
+                "Software Sales",
+                "See 2 endorsements for Software Sales",
+                "2",
+                "Software Sales",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Sales",
+                "See 2 endorsements for Software Sales",
+                "2"
+            ],
+            [
+                "E-business",
+                "See 2 endorsements for E-business",
+                "2",
+                "E-business",
+                "Remove Endorsement"
+            ],
+            [
+                "E-business",
+                "See 2 endorsements for E-business",
+                "2"
+            ],
+            [
+                "Account Management",
+                "See 2 endorsements for Account Management",
+                "2",
+                "Account Management",
+                "Remove Endorsement"
+            ],
+            [
+                "Account Management",
+                "See 2 endorsements for Account Management",
+                "2"
+            ],
+            [
+                "Leadership",
+                "See 2 endorsements for Leadership",
+                "2",
+                "Leadership",
+                "Remove Endorsement"
+            ],
+            [
+                "Leadership",
+                "See 2 endorsements for Leadership",
+                "2"
+            ],
+            [
+                "Software as a Service (SaaS)",
+                "See 2 endorsements for Software as a Service (SaaS)",
+                "2",
+                "Software as a Service (SaaS)",
+                "Endorse"
+            ],
+            [
+                "Software as a Service (SaaS)",
+                "See 2 endorsements for Software as a Service (SaaS)",
+                "2"
+            ],
+            [
+                "Strategic Partnerships",
+                "See 1 endorsement for Strategic Partnerships",
+                "1",
+                "Strategic Partnerships",
+                "Remove Endorsement"
+            ],
+            [
+                "Strategic Partnerships",
+                "See 1 endorsement for Strategic Partnerships",
+                "1"
+            ],
+            [
+                "Sales Management",
+                "See 1 endorsement for Sales Management",
+                "1",
+                "Sales Management",
+                "Remove Endorsement"
+            ],
+            [
+                "Sales Management",
+                "See 1 endorsement for Sales Management",
+                "1"
+            ],
+            [
+                "Channel Partners",
+                "See 1 endorsement for Channel Partners",
+                "1",
+                "Channel Partners",
+                "Remove Endorsement"
+            ],
+            [
+                "Channel Partners",
+                "See 1 endorsement for Channel Partners",
+                "1"
+            ],
+            [
+                "New Business Development",
+                "See 1 endorsement for New Business Development",
+                "1",
+                "New Business Development",
+                "Remove Endorsement"
+            ],
+            [
+                "New Business Development",
+                "See 1 endorsement for New Business Development",
+                "1"
+            ],
+            [
+                "Sales",
+                "Sales",
+                "Endorse"
+            ],
+            [
+                "Sales"
+            ],
+            [
+                "Sales Process",
+                "Sales Process",
+                "Endorse"
+            ],
+            [
+                "Sales Process"
+            ],
+            [
+                "Negotiation",
+                "Negotiation",
+                "Endorse"
+            ],
+            [
+                "Negotiation"
+            ],
+            [
+                "Business-to-Business (B2B)",
+                "Business-to-Business (B2B)",
+                "Endorse"
+            ],
+            [
+                "Business-to-Business (B2B)"
+            ],
+            [
+                "Partner Management",
+                "Partner Management",
+                "Endorse"
+            ],
+            [
+                "Partner Management"
+            ],
+            [
+                "Channel Sales",
+                "Channel Sales",
+                "Endorse"
+            ],
+            [
+                "Channel Sales"
+            ]
+        ],
+        "summary": "    With a background in software development and management of data center architecture teams, I joined my first software company in a Sales role and have held several customer-centric positions in Sales, Sales Management, and Pre-Sales Management in software and services firms. Among the highlights of my career are:- Successful Software Sales career with multiple quota club performances- Deep knowledge and experience in Security, BPM, Electronic Commerce, Integration, SOA, Big Data/Analytics, and software markets- Marketing and Sales Enablement experience, including developing and coaching Solution Selling sessions- Technical background and aptitude in mainframe, distributed, and SaaS environments- People management experience, including groups as large as 50+\n  \n  \n",
+        "name": "Steve McVey",
+        "title": "Enterprise Software Sales Executive",
+        "url": "linkedin.com/in/steve-mcvey-896a07",
+        "phone": "480-445-9465 (Work)",
+        "email": "smcvey.com@gmail.com"
+    }
+]

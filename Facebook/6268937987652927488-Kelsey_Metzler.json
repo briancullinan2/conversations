@@ -1,0 +1,49 @@
+{
+    "thread": "/messaging/thread/6268937987652927488/",
+    "participants": [
+        {
+            "name": "Kelsey Metzler",
+            "title": "Technical Recruiter at Apex Systems",
+            "url": "linkedin.com/in/kelsey-metzler-b7596997",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Kelsey Metzler",
+            "time": "2017-05-12T12:00:00.000Z",
+            "message": "Sr. Systems Engineer Position\n\nDear Brian, \n\nMy name is Kelsey and I’m a Technical Recruiter with Apex Systems. I came across your online resume and wanted to reach out to you to see if you were on the job market. I have a Sr. Systems Engineer position with a large client in Chandler, AZ and you appear to be a perfect fit for what the manager is looking for. Please give me a call at 480-368-2480 or email me directly at kmetzler@apexsystemsinc.com. I am looking forward to hearing from you!\n\nRequired Skill Set/Experience:\n•\t5+ years of experience in security applications and systems\n•\tAdvanced technical proficiency with Windows/Unix Server/Infrastructure systems administration, engineering and support\n•\tIntermediate to advanced capability with Windows/Unix/DB scripting and server/application process automation\n•\tAdvanced problem solving and technical troubleshooting capabilities\n•\tMust be organized and have rigorous attention to detail\n•\tProven written and verbal communication skills with both Business/Management and Technical/Engineering resources\n•\tAbility to work effectively under aggressive timelines\n\nKelsey Metzler\nkmetzler@apexsystemsinc.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-12T23:33:00.000Z",
+            "message": "What company?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-12T23:33:00.000Z",
+            "message": "I promise to keep you in the loop.\n"
+        },
+        {
+            "from": "Kelsey Metzler",
+            "time": "2017-05-22T12:00:00.000Z",
+            "message": "Application Engineer\n\nDear Brian, \n\nMy name is Kelsey and I’m a Technical Recruiter with Apex Systems. I came across your online resume and wanted to reach out to you to see if you were on the job market. I have an Application Engineer position with a large client in Chandler, AZ and you appear to be a perfect fit for what the manager is looking for. If you are open to exploring a new role at this time, please feel free to contact me at your earliest convenience and we can discuss this position further. If you are not on the job market, but know someone who has a similar background and experience, please feel free to pass my contact information along. Apex does offer a referral incentive!\n\nKelsey Metzler\nkmetzler@apexsystemsinc.com\n480-368-2480\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-22T21:50:00.000Z",
+            "message": "For StrongMind?\n"
+        },
+        {
+            "from": "Kelsey Metzler",
+            "time": "2017-05-22T21:50:00.000Z",
+            "message": "Hi Brian,\n\nNo the position is with Wells Fargo.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-22T21:52:00.000Z",
+            "message": "Thank you for thinking of me but I don't want to work for a company full of fraud.\n"
+        }
+    ]
+}

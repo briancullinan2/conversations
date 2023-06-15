@@ -1,0 +1,4 @@
+<session type="start" time="1105595644" medium="IRC" to="MidgetKiller%7CSleeping" from="WG_Wise_Master"/>
+<message type="outgoing_privateMessage" time="1105595649" medium="IRC" to="MidgetKiller%7CSleeping" from="WG_Wise_Master" from_display="WG_Wise_Master" text="you%20there%3F"/>
+<message type="information_standard" time="1105595690" medium="IRC" text="MidgetKiller%7CSleeping%20is%20now%20known%20as%20MidgetKiller%2E"/>
+<session type="stop" time="1105595690" medium="IRC" to="MidgetKiller%7CSleeping" from="WG_Wise_Master"/>

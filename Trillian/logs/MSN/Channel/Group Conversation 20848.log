@@ -1,0 +1,301 @@
+﻿Session Start (b.cullinan@cox.net:Group Conversation 20848): Mon May 21 11:21:30 2007
+[05/21/2007 11:21:30 AM] Robert Douglas: ur ISP blows
+[05/21/2007 11:21:39 AM] Robert Douglas: maybe rps will buy u a better internet or something
+[05/21/2007 11:21:40 AM] Alex Markov: did u see what i wrote brian?
+[05/21/2007 11:21:43 AM] b.cullinan@cox.net: i should have just written the document protocol now
+[05/21/2007 11:22:15 AM] Robert Douglas: i think sugar handles the document stuff better
+[05/21/2007 11:22:21 AM] Robert Douglas: it also keeps it organized on a project by project basis
+[05/21/2007 11:22:32 AM] Robert Douglas: so we dont have to worry about ANOTHER set of organization
+[05/21/2007 11:22:52 AM] Alex Markov: brian... i think word files should be kept in sugar documents. like word files for clients. mainly because they will be linked to projects soon in sugar.
+[05/21/2007 11:23:16 AM] b.cullinan@cox.net: ok there is a misunderstanding here
+[05/21/2007 11:23:22 AM] Robert Douglas: yeah, documents imo should be completely handled via sugar
+[05/21/2007 11:23:24 AM] Alex Markov: so for example. when we develop a project overview. it is in a word file. ususally we have like 10 versions of it. and that should be linked in the sugar project area for that specific project
+[05/21/2007 11:23:34 AM] b.cullinan@cox.net: and i don't have time to explain before you guys have more to say
+[05/21/2007 11:23:41 AM] Robert Douglas: lol
+[05/21/2007 11:23:44 AM] Alex Markov: hehe sry
+[05/21/2007 11:23:45 AM] Alex Markov: explain
+[05/21/2007 11:23:50 AM] Robert Douglas: i told u to bring ur A game with the writuep!!!!!
+[05/21/2007 11:24:02 AM] b.cullinan@cox.net: i did fucking explain it in the writeup
+[05/21/2007 11:24:05 AM] Robert Douglas: but go on with the document stuff
+[05/21/2007 11:24:08 AM] Robert Douglas: lol
+[05/21/2007 11:24:09 AM] Alex Markov: i think it was an a game. i rly like the writeup. we should use SVN 100%
+[05/21/2007 11:24:10 AM] b.cullinan@cox.net: you guy must just have selective fucking reading
+[05/21/2007 11:24:16 AM] Robert Douglas: lol
+[05/21/2007 11:24:27 AM] Robert Douglas: k,brian, u can have the floor
+[05/21/2007 11:24:40 AM] Alex Markov: § Sugar should be used to manage everything, even some documents related to projects 
+§ However SVN will allow us to keep track of versions of documents and a broader range of files 
+
+[05/21/2007 11:24:43 AM] Alex Markov: from brian;s writeup
+[05/21/2007 11:24:57 AM] Alex Markov: he did say that sugar shoul;d bne used for documents related to projects. specifically word files
+[05/21/2007 11:25:17 AM] Robert Douglas: but sugar also keeps tracks of versions
+[05/21/2007 11:25:23 AM] Robert Douglas: so why have both
+[05/21/2007 11:25:25 AM] Alex Markov: but svn should be used for rps documents liek our service handouts. and PSDs and client code files. 
+[05/21/2007 11:25:31 AM] Alex Markov: because sugar cannot touch html files
+[05/21/2007 11:25:38 AM] Robert Douglas: html files can be done via SVN
+[05/21/2007 11:25:44 AM] Alex Markov: that is what brian is saying
+[05/21/2007 11:25:45 AM] Robert Douglas: but documents, excel, etc... should be in sugar
+[05/21/2007 11:26:08 AM] Alex Markov: only Word and Excel in sugar and only those related to projects
+[05/21/2007 11:26:15 AM] Alex Markov: everything else should be in SVN 
+[05/21/2007 11:26:18 AM] Alex Markov: protocols in forums
+[05/21/2007 11:26:19 AM] Robert Douglas: yes, but rps internal projects are also in sugar
+[05/21/2007 11:26:24 AM] Alex Markov: do we udnerstand correctly biran?
+[05/21/2007 11:26:27 AM] Alex Markov: sry. its ur floor
+[05/21/2007 11:26:27 AM] Robert Douglas: only thing in svn i think should be client websites
+[05/21/2007 11:26:29 AM] Robert Douglas: nothing else
+[05/21/2007 11:26:36 AM] Robert Douglas: client websites in svn
+[05/21/2007 11:26:44 AM] Robert Douglas: then docuemtns and excel, etc.. will be in sugar
+[05/21/2007 11:26:48 AM] b.cullinan@cox.net: both can be use harmoniously, as it will be explained in the document protocol, individual documents should be uploaded to their respective project in sugar, but as a whole, all business documents should be kept in the SVN, which client programs such as tortoiseSVN it will allow us to commit changes to the SVN one file at a time, or in bulk, every document or website at a time
+[05/21/2007 11:27:13 AM] b.cullinan@cox.net: so there is an extra step, but i don't see a place to access the previous revision on Sugar?
+[05/21/2007 11:27:13 AM] Robert Douglas: yeah, but we dont need documents in the svn
+[05/21/2007 11:27:20 AM] b.cullinan@cox.net: is there a way to do that?
+[05/21/2007 11:27:30 AM] Robert Douglas: yes, look at the version number
+[05/21/2007 11:27:44 AM] b.cullinan@cox.net: to me it looks like the document is replaced, and the revision is incremented
+[05/21/2007 11:27:55 AM] Alex Markov: here is a good question. can u access the documents stored in web svn from any computer in the world. for example. we need a place to keep our RPS marketing documents such as our service list and service handouts.
+[05/21/2007 11:28:00 AM] b.cullinan@cox.net: oh nvm, i see
+[05/21/2007 11:28:06 AM] Alex Markov: but i want thos eccessible form anywher.e if we keep them in sugar. then we can
+[05/21/2007 11:28:17 AM] Robert Douglas: but also, we sometimes have like 10 versions of a PO until it is finally done
+[05/21/2007 11:28:23 AM] Robert Douglas: i think it would be a waste of storage to put it all online
+[05/21/2007 11:28:35 AM] Robert Douglas: i thionk we should put the final version in sugar
+[05/21/2007 11:28:41 AM] Alex Markov: its rly not that big bobby. and i always go abck to previous versions
+[05/21/2007 11:28:43 AM] Robert Douglas: maybe use the svn until it is final
+[05/21/2007 11:28:52 AM] Robert Douglas: then once it is final, use sugar
+[05/21/2007 11:28:56 AM] Alex Markov: hummm
+[05/21/2007 11:29:02 AM] Alex Markov: what do u think bria?
+[05/21/2007 11:29:05 AM] b.cullinan@cox.net: its not a waste of storage because it can be accessed by anyone that needs it, and it uses diff files, so only the changes are saved
+[05/21/2007 11:29:15 AM] b.cullinan@cox.net: final versions should go in sugar like i said
+[05/21/2007 11:29:18 AM] Robert Douglas: we're talking about .doc files though brian
+[05/21/2007 11:29:27 AM] b.cullinan@cox.net: but as its being developed it should be saved in the svn
+[05/21/2007 11:29:27 AM] Robert Douglas: svn handles them differently from what i udnerstand
+[05/21/2007 11:30:04 AM] b.cullinan@cox.net: svn handles all files that are not plain text as binary files, that doesn't change the fact that we can still view previous versions and other people can access it
+[05/21/2007 11:30:09 AM] b.cullinan@cox.net: you are missing the entire point
+[05/21/2007 11:30:23 AM] b.cullinan@cox.net: we can view previous versions and everyone can access it
+[05/21/2007 11:30:29 AM] b.cullinan@cox.net: that is what is most important
+[05/21/2007 11:30:32 AM] b.cullinan@cox.net: that is what we need
+[05/21/2007 11:30:35 AM] b.cullinan@cox.net: we can view previous versions and everyone can access it
+[05/21/2007 11:30:42 AM] Robert Douglas: all it will be doing, is storing the file, and providing a version name for it
+[05/21/2007 11:31:23 AM] b.cullinan@cox.net: no it stores it as diff files
+[05/21/2007 11:31:28 AM] Alex Markov: is there a way to archive and backup old files and take them off server
+[05/21/2007 11:31:32 AM] Alex Markov: because here is a good example
+[05/21/2007 11:31:43 AM] Alex Markov: for the MAB PC.... the whoile folder with revisions is 2.45mb
+[05/21/2007 11:31:49 AM] Alex Markov: that is alot per client per PC
+[05/21/2007 11:31:52 AM] Alex Markov: we gonna eat up our server space
+[05/21/2007 11:31:59 AM] Alex Markov: unless we house it on brian's server
+[05/21/2007 11:32:01 AM] Robert Douglas: i dont want to store versions online
+[05/21/2007 11:32:08 AM] b.cullinan@cox.net: thats really not very much space at all
+[05/21/2007 11:32:09 AM] Robert Douglas: and we are NOT going to store it on brian'scomputer
+[05/21/2007 11:32:20 AM] Alex Markov: yeah true we need it in a datacenter
+[05/21/2007 11:32:27 AM] Robert Douglas: yeha,for sure
+[05/21/2007 11:33:09 AM] Alex Markov: well for MAB... i document files alone we have roughly 5mb
+[05/21/2007 11:33:23 AM] Robert Douglas: i think it is a waste to have that stored on the server
+[05/21/2007 11:33:31 AM] b.cullinan@cox.net: well robert has shot down every explanation that i have made about keeping track of versions, and has not provided me with any reason NOT to do it, so i am done trying to explain why we need it
+[05/21/2007 11:33:54 AM] Robert Douglas: i dont think svn is needed for documents at all
+[05/21/2007 11:33:55 AM] Alex Markov: it is difficult to visualize
+[05/21/2007 11:34:04 AM] b.cullinan@cox.net: i use it on my computer currently when i am working on projects and i have considered moving all my documents into my SVN, but you guys obviously don't agree
+[05/21/2007 11:34:10 AM] Robert Douglas: i think sugar will handle our documents perfectly
+[05/21/2007 11:34:10 AM] b.cullinan@cox.net: so i am done
+[05/21/2007 11:34:32 AM] Alex Markov: brian stop being dramatic. we are disucssing and aretrying to find the best solutions for the company
+[05/21/2007 11:35:06 AM] Alex Markov: ok i think we cannot make a clear decision unless we see somehwat of a demo in action. i have never succesfully used SVN
+[05/21/2007 11:35:12 AM] Alex Markov: i agree we need SVN for client websites 100%
+[05/21/2007 11:35:29 AM] Robert Douglas: yeah, i agree with that too, but we need to discuss the proper implementation for the SVN for client websites
+[05/21/2007 11:35:47 AM] Alex Markov: brian can u set it up to handle client websites. and give us a brief demo of how it may psosibly manage the .doc files too in a couple of days?
+[05/21/2007 11:36:13 AM] Alex Markov: once we have the setup done right we can write a protocol for it
+[05/21/2007 11:36:33 AM] b.cullinan@cox.net: you guys are missing the point
+[05/21/2007 11:36:37 AM] b.cullinan@cox.net: it doesn't handle websites
+[05/21/2007 11:36:41 AM] b.cullinan@cox.net: it doesn't have clients
+[05/21/2007 11:36:46 AM] b.cullinan@cox.net: it handles files
+[05/21/2007 11:36:48 AM] b.cullinan@cox.net: thats it
+[05/21/2007 11:36:51 AM] Robert Douglas: yes, we know that
+[05/21/2007 11:36:59 AM] Alex Markov: yes but the files will be separated
+[05/21/2007 11:37:01 AM] Alex Markov: by clients
+[05/21/2007 11:37:02 AM] b.cullinan@cox.net: we can set it up so that the documents are organized into client folders
+[05/21/2007 11:37:10 AM] Alex Markov: so it will handle client websites and files
+[05/21/2007 11:37:11 AM] b.cullinan@cox.net: just like how it in on your computer
+[05/21/2007 11:37:22 AM] b.cullinan@cox.net: and it can be accessed by everyone
+[05/21/2007 11:37:22 AM] Alex Markov: yes i perfectly understand that
+[05/21/2007 11:38:07 AM] Alex Markov: however.... sugar has a really nice document management addition which in the next version of sugar willbe linked to projects and accounts in sugar
+[05/21/2007 11:38:12 AM] b.cullinan@cox.net: so for sugar we will use the document manager for final versions, but when you have to ability to upload anything you want as a "revision" things will get clustered
+[05/21/2007 11:38:15 AM] Alex Markov: yes
+[05/21/2007 11:38:30 AM] Alex Markov: well see the problem is this brian. we both dont know how it works in reality. we need to visualize it
+[05/21/2007 11:38:38 AM] Alex Markov: its hard tos ee how it will keep track of changes EXACTLY
+[05/21/2007 11:38:51 AM] Alex Markov: and for us to keep going back and forth about this is not productive
+[05/21/2007 11:38:59 AM] b.cullinan@cox.net: fine, i will create an example
+[05/21/2007 11:39:03 AM] Alex Markov: i thinkw e should set it up for client websites now
+[05/21/2007 11:39:12 AM] Alex Markov: so u should go ahead with that
+[05/21/2007 11:39:24 AM] Alex Markov: in one of the folders... make a brief example
+[05/21/2007 11:39:34 AM] Alex Markov: using .doc files
+[05/21/2007 11:39:39 AM] b.cullinan@cox.net: i will need login information to the rps account
+[05/21/2007 11:39:47 AM] b.cullinan@cox.net: or what ever account we want to store it under
+[05/21/2007 11:39:49 AM] Robert Douglas: we're not gunna implemnet anything yet
+[05/21/2007 11:39:54 AM] Robert Douglas: we need to talk about how it is gunna be done
+[05/21/2007 11:40:05 AM] b.cullinan@cox.net: i suggested making an svn account, then we could set up the web side of it there
+[05/21/2007 11:40:10 AM] Robert Douglas: brian and I need to discuss it, so alex, u dont have to be here for that part
+[05/21/2007 11:40:14 AM] Alex Markov: i think it is very difficult to talk about it unless we see it installed and working
+[05/21/2007 11:40:15 AM] Robert Douglas: to implement it for client websites
+[05/21/2007 11:40:21 AM] Alex Markov: i want to see it too
+[05/21/2007 11:40:23 AM] Robert Douglas: brian and I already know how it works
+[05/21/2007 11:40:49 AM] Alex Markov: ok. but are we decided that we will use svn for client websites and images?
+[05/21/2007 11:41:15 AM] Alex Markov: i rly like the diea of versiont racking and such
+[05/21/2007 11:41:15 AM] Robert Douglas: what do u mean images?
+[05/21/2007 11:41:15 AM] Robert Douglas: images associated with client sites?
+[05/21/2007 11:41:15 AM] Alex Markov: PSDs jpgs
+[05/21/2007 11:41:24 AM] Alex Markov: right now we literally have 10 versions ofg the DCITP psd floating around
+[05/21/2007 11:41:30 AM] Robert Douglas: lol
+[05/21/2007 11:41:31 AM] Alex Markov: thats not good
+[05/21/2007 11:41:35 AM] Robert Douglas: hmmm dunno about that
+[05/21/2007 11:41:41 AM] Alex Markov: we need brian;'s solution to handle those too
+[05/21/2007 11:41:46 AM] Robert Douglas: svn doesnt handle images the same way it does with html files
+[05/21/2007 11:41:50 AM] Alex Markov: hummm
+[05/21/2007 11:41:54 AM] Robert Douglas: svn basically tells you what changed with the html file
+[05/21/2007 11:41:57 AM] b.cullinan@cox.net: but it still handles them
+[05/21/2007 11:42:06 AM] Alex Markov: well see thats why ita hard to discusss this. i cant see the features and abilities of this svn in front of me
+[05/21/2007 11:42:06 AM] Robert Douglas: if it was an image, it would just list the new version of it
+[05/21/2007 11:42:13 AM] Robert Douglas: let me try to find a demo of svn
+[05/21/2007 11:42:17 AM] Alex Markov: thats better than we have it now
+[05/21/2007 11:42:20 AM] b.cullinan@cox.net: no it would store the change
+[05/21/2007 11:42:30 AM] Robert Douglas: svn doesnt list the changes though to images
+[05/21/2007 11:42:31 AM] Alex Markov: what do u mean exactly by that brian. please explain
+[05/21/2007 11:42:34 AM] Robert Douglas: it only replace it
+[05/21/2007 11:42:35 AM] Robert Douglas: right?
+[05/21/2007 11:42:36 AM] b.cullinan@cox.net: and it would only save the diff, so its incredibly space efficient
+[05/21/2007 11:42:46 AM] Alex Markov: is the old file deleted?
+[05/21/2007 11:42:48 AM] Robert Douglas: are u sure it does it with images too?
+[05/21/2007 11:42:54 AM] b.cullinan@cox.net: no a diff is a file that contains all the change
+[05/21/2007 11:42:57 AM] b.cullinan@cox.net: let me explain
+[05/21/2007 11:43:01 AM] Alex Markov: please
+[05/21/2007 11:43:24 AM] b.cullinan@cox.net: same we have a plain text file with the following contents:
+ some
+ test
+[05/21/2007 11:44:00 AM] b.cullinan@cox.net: then i commit changes to that file and now it includes:
+ sost
+[05/21/2007 11:44:37 AM] b.cullinan@cox.net: on the server all the change would store is:
+ {
+ some
+ test
+ }
+ {
+ -me
+ te
+ }
+[05/21/2007 11:45:02 AM] b.cullinan@cox.net: so i can view the entire file, but i can see them as two seperate copies
+[05/21/2007 11:45:11 AM] Alex Markov: u lost me. what is the -me 
+te
+[05/21/2007 11:45:18 AM] Alex Markov: oh ok
+[05/21/2007 11:45:19 AM] Robert Douglas: - means remove
+[05/21/2007 11:45:26 AM] b.cullinan@cox.net: it just means that me
+ te was removed
+[05/21/2007 11:45:32 AM] b.cullinan@cox.net: yeah
+[05/21/2007 11:45:39 AM] Robert Douglas: - = remove 
++ = add
+[05/21/2007 11:45:50 AM] b.cullinan@cox.net: so it takes up very little space, but i can view either version i want
+[05/21/2007 11:45:54 AM] Alex Markov: see if it did that for .doc files that would be a GREAT addition
+[05/21/2007 11:45:56 AM] Robert Douglas: i asked brian to link u to an example
+[05/21/2007 11:46:12 AM] Robert Douglas: the way .doc files are coded, it doesn't work the way you think it does
+[05/21/2007 11:46:17 AM] b.cullinan@cox.net: sec
+[05/21/2007 11:46:27 AM] Alex Markov: well we need to confirm that 100%
+[05/21/2007 11:46:38 AM] Robert Douglas: i asked brian to research it earlier
+[05/21/2007 11:46:52 AM] b.cullinan@cox.net: so say i forgot what was in the last file and i really need to know because the most current one doesn't have it anymore, i can go view the last one, and compare it to the new one
+[05/21/2007 11:47:06 AM] b.cullinan@cox.net: i can view both versions
+[05/21/2007 11:47:08 AM] Alex Markov: for page code i believe that is invaliable
+[05/21/2007 11:47:16 AM] Alex Markov: i think its a go for html files
+[05/21/2007 11:47:25 AM] Robert Douglas: yeah, i feelthe same
+[05/21/2007 11:47:27 AM] Alex Markov: however we need to research the .doc and .psd issue
+[05/21/2007 11:47:30 AM] Alex Markov: further
+[05/21/2007 11:47:33 AM] Alex Markov: make tests
+[05/21/2007 11:47:39 AM] Alex Markov: to see how svn handles thoe two files
+[05/21/2007 11:47:55 AM] Robert Douglas: i asked brian to link to a demo
+[05/21/2007 11:47:57 AM] b.cullinan@cox.net: ok here is the thing with doc and psd
+[05/21/2007 11:48:03 AM] b.cullinan@cox.net: those are binary files
+[05/21/2007 11:48:13 AM] b.cullinan@cox.net: so it still saves all the changes that are made
+[05/21/2007 11:48:22 AM] b.cullinan@cox.net: and we can still view every previous version
+[05/21/2007 11:48:24 AM] Alex Markov: perhaps at the end of each project... all excess files should be archived by the PM and deleted fromt he server. in like a "Cleanup phase"
+[05/21/2007 11:48:29 AM] Robert Douglas: but u dont see a difference fiel
+[05/21/2007 11:48:37 AM] Alex Markov: and monthly burned into a DVD and sent to RPS headquarters to be filled away
+[05/21/2007 11:48:42 AM] Robert Douglas: you cant see  
++ some text was added 
+- some other text here was removed
+[05/21/2007 11:48:48 AM] b.cullinan@cox.net: it still makes a diff file
+[05/21/2007 11:48:56 AM] b.cullinan@cox.net: it doesn't upload it as a completely new file
+[05/21/2007 11:48:56 AM] Robert Douglas: yeah, but u cant actually see the changes
+[05/21/2007 11:48:57 AM] Alex Markov: does it rename it?
+[05/21/2007 11:49:12 AM] Robert Douglas: brian, ur wasting time going over svn, u would be much bettter off with a demo
+[05/21/2007 11:49:15 AM] Alex Markov: well this is moot. we should see a demo. brian we need a demo
+[05/21/2007 11:49:20 AM] b.cullinan@cox.net: view the changes would not be any more complex then using sugar
+[05/21/2007 11:49:20 AM] Robert Douglas: ya
+[05/21/2007 11:49:46 AM] b.cullinan@cox.net: sugar shows each individual file, it would be the same thing, you could download the current one, and download a previous one
+[05/21/2007 11:49:52 AM] b.cullinan@cox.net: in exactly the same way
+[05/21/2007 11:49:58 AM] Robert Douglas: demo?
+[05/21/2007 11:50:17 AM] Robert Douglas: we've gone an hour over the meeting so far
+[05/21/2007 11:50:18 AM] b.cullinan@cox.net: robert the fucking demo is going to have to wait
+[05/21/2007 11:50:19 AM] Alex Markov: but sugar links it to the project and account so u can see all relevant project meetings, calls, tasks, doucments on one page
+[05/21/2007 11:50:21 AM] b.cullinan@cox.net: shut the fuck up
+[05/21/2007 11:50:34 AM] Robert Douglas: demo helps explain, so u dont waste another hour of ur time
+[05/21/2007 11:50:35 AM] b.cullinan@cox.net: except with svn, it is stored more efficiently with the diff files
+[05/21/2007 11:50:44 AM] Alex Markov: brian please be patient. all u need to say is "i will try to get a demo for u guys in a coupel of days"
+[05/21/2007 11:50:56 AM] Robert Douglas: we need to finish this meeting up, brian, let us know when u find a demo so we can continue
+[05/21/2007 11:51:00 AM] Alex Markov: no need to lose our cool
+[05/21/2007 11:51:13 AM] b.cullinan@cox.net: if robert was really paying attention he would have read that you previously explained that i should have a few days to set up a demo
+[05/21/2007 11:51:15 AM] Robert Douglas: a demo is very helpful
+[05/21/2007 11:51:24 AM] Robert Douglas: dont set a demo up
+[05/21/2007 11:51:26 AM] Robert Douglas: find one online
+[05/21/2007 11:51:48 AM] Alex Markov: yeah perhaps there is one avaialble
+[05/21/2007 11:52:00 AM] Alex Markov: so no time is wasted in setup
+[05/21/2007 11:52:06 AM] Robert Douglas: yeah
+[05/21/2007 11:52:11 AM] Alex Markov: however... time wont be wasted ebcause we will be setting it up for cleitn html code. so the .doc files can jsut be a piggy back
+[05/21/2007 11:52:19 AM] b.cullinan@cox.net: if you would like to look into just like i have feel free
+[05/21/2007 11:52:33 AM] Robert Douglas: we need to finish this up so i can go work
+[05/21/2007 11:52:37 AM] b.cullinan@cox.net: i would just be wasting my time trying to search around google to find a demo
+[05/21/2007 11:52:50 AM] b.cullinan@cox.net: i have made my pitch and explained it thoroughly
+[05/21/2007 11:53:05 AM] Robert Douglas: a demo/example is ALWAYS the best way to explain something
+[05/21/2007 11:53:06 AM] Alex Markov: brian u are PM of this project. u know alot more about this than me or bobby.u should provide a demo just liek i will provide a demo of the accounting pocedures in the next couople of weeks
+[05/21/2007 11:53:36 AM] b.cullinan@cox.net: ok i will say this plainly, i cannot provide a demo within the time restraints of this meeting
+[05/21/2007 11:53:45 AM] Robert Douglas: nononono
+[05/21/2007 11:53:47 AM] Alex Markov: ok that is fine. that is all we ened to know
+[05/21/2007 11:53:47 AM] Robert Douglas: that's fine
+[05/21/2007 11:53:56 AM] Robert Douglas: just send us a demo and we'll look at it again
+[05/21/2007 11:54:07 AM] Robert Douglas: we spent an hour going over what it is,andthere are still questions
+[05/21/2007 11:54:13 AM] b.cullinan@cox.net: i don't know where to find one, i don't know if when i do find one it will even be relevant to our set up
+[05/21/2007 11:54:16 AM] Robert Douglas: a demo would have taken like 5 mintues to answer all those questions
+[05/21/2007 11:54:21 AM] Alex Markov: yep. a demo will help us better udnerstand the abilities of the system
+[05/21/2007 11:54:28 AM] Robert Douglas: we dont need one relevant to our setup, just an svn demo
+[05/21/2007 11:54:34 AM] b.cullinan@cox.net: if you guys would like me to find a demo we can all sit around and wait for another hour
+[05/21/2007 11:54:43 AM] Robert Douglas: we're not going to wait, we have other stuff to do
+[05/21/2007 11:54:56 AM] Alex Markov: nono brian. find it and show us when u can sometime later in the week
+[05/21/2007 11:55:07 AM] b.cullinan@cox.net: but right now i am annoyed because we have wasted even more time trying to explain to you guys the difficulty of finding a relevant demo
+[05/21/2007 11:55:10 AM] Alex Markov: a big thing with companies is they do things in stages
+[05/21/2007 11:55:27 AM] Alex Markov: be patient. we will get better at working and disucssing things together over time
+[05/21/2007 11:55:47 AM] Robert Douglas: we will need a protocol that says what is required in order to bring up new ideas and such
+[05/21/2007 11:55:48 AM] b.cullinan@cox.net: why do we focus so much on one detail?
+[05/21/2007 11:55:56 AM] b.cullinan@cox.net: we spent an hour picking out a banner
+[05/21/2007 11:56:00 AM] Alex Markov: we will get better at this brian i promise
+[05/21/2007 11:56:06 AM] b.cullinan@cox.net: we spent 20 minutes discussing why i should have a demo
+[05/21/2007 11:56:10 AM] Alex Markov: its all part of learnign to work together
+[05/21/2007 11:56:15 AM] b.cullinan@cox.net: this is absolutely ridiculous
+[05/21/2007 11:56:23 AM] Robert Douglas: that's because you dont listen
+[05/21/2007 11:56:26 AM] Robert Douglas: we said we needed a demo
+[05/21/2007 11:56:29 AM] Robert Douglas: and you still dont understand
+[05/21/2007 11:56:36 AM] Robert Douglas: so we waste time trying to explain to u why we need it
+[05/21/2007 11:56:39 AM] Robert Douglas: and in the end,we still need it
+[05/21/2007 11:56:43 AM] Alex Markov: i say we jsut set it up for client HTML files and we can thend emo it from there. 
+[05/21/2007 11:56:54 AM] Alex Markov: we can play around with it
+[05/21/2007 11:56:57 AM] b.cullinan@cox.net: no i do understand, and you will get your demo, its because you are stubborn and can't move on unless you get exactly what you want
+[05/21/2007 11:57:07 AM] Alex Markov: :P i say that all the time
+[05/21/2007 11:57:07 AM] Robert Douglas: demo is for alex, not me
+[05/21/2007 11:57:17 AM] b.cullinan@cox.net: then stop worrying about your demo
+[05/21/2007 11:57:18 AM] Alex Markov: yes i ened the demo. i am stupido :(
+[05/21/2007 11:57:24 AM] b.cullinan@cox.net: you will both get one
+[05/21/2007 11:57:27 AM] Alex Markov: lol
+[05/21/2007 11:57:28 AM] Robert Douglas: i dont care abut the demo for me, i care about it for alex
+[05/21/2007 11:57:34 AM] b.cullinan@cox.net: but thats not within the context of this meeting
+[05/21/2007 11:57:40 AM] Robert Douglas: yes it is
+[05/21/2007 11:57:43 AM] Robert Douglas: you need to provide everything
+[05/21/2007 11:57:45 AM] Robert Douglas: in ur pitch
+[05/21/2007 11:57:52 AM] Robert Douglas: reasons why we need it, reasons why other stuff wont work
+[05/21/2007 11:58:04 AM] Alex Markov: ok we will continue with all this stuff next meeting. we have one final thing to say. per the request of the BM we must alls tart using sugar and outlook sync
+[05/21/2007 11:58:12 AM] Alex Markov: all meetings should be in sugar now
+[05/21/2007 11:58:12 AM] b.cullinan@cox.net: i made the pitch, and i explain things very detailed and thoroughly
+[05/21/2007 11:58:23 AM] Robert Douglas: we need to have a meeting for sugar
+[05/21/2007 11:58:27 AM] Robert Douglas: let's do tomorrow
+[05/21/2007 11:58:29 AM] Robert Douglas: k?
+Session Close (Group Conversation 20848): Mon May 21 11:58:33 2007
+
+

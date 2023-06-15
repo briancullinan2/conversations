@@ -1,0 +1,303 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "12Oct17",
+    "participants": "Brian Cullinan | wizard > Scott Hathcock | CEO/President at Northern Arizona Center for Entrepreneurship and Technology",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Scott Hathcock",
+        "url": "linkedin.com/in/scotthathcock",
+        "email": "hathcock.scott@gmail.com",
+        "title": "CEO/President at Northern Arizona Center for Entrepreneurship and Technology"
+      }
+    ],
+    "message": "Congrats on the new gig! Hope you’re doing well.",
+    "time": "2017-10-12T16:14:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "12Oct17",
+    "participants": "Aaron Boushley | Staff Software Engineer at AXON > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Aaron Boushley",
+        "url": "linkedin.com/in/aaron-boushley-6366159",
+        "email": "boushley@gmail.com",
+        "title": "Staff Software Engineer at AXON"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "What kind of things do you like to do? It's been a while since we worked together it's hard to know what you would be a good fit for :)",
+    "time": "2017-10-12T14:15:00.000Z",
+    "title": "Staff Software Engineer at AXON"
+  },
+  {
+    "type": "conversations",
+    "conversations": "12Oct17",
+    "participants": "Brian Cullinan | wizard > Aaron Boushley | Staff Software Engineer at AXON",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Aaron Boushley",
+        "url": "linkedin.com/in/aaron-boushley-6366159",
+        "email": "boushley@gmail.com",
+        "title": "Staff Software Engineer at AXON"
+      }
+    ],
+    "message": "Software development. I do UX/Frontend and backends. Any languages, they are all the same ;) I can talk my way in to it. I've done a bunch of IT like when we were at engineering but more since then. What does Blueshift do?",
+    "time": "2017-10-12T14:43:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "12Oct17",
+    "participants": "Aaron Boushley | Staff Software Engineer at AXON > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Aaron Boushley",
+        "url": "linkedin.com/in/aaron-boushley-6366159",
+        "email": "boushley@gmail.com",
+        "title": "Staff Software Engineer at AXON"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Blueshift is my consulting company. I'm focused primarily on Web development, with an emphasis on video lately. But I also do a lot of architecture and director work too.\n\nSoftware Development is way too broad :) Sounds like full stack web development? I have friends that do embedded system work, and friends who do IT and friends who do Dev Ops... it's all very big and I haven't met anyone that truly specializes in it all :)\n\nAaron",
+    "time": "2017-10-12T16:05:00.000Z",
+    "title": "Staff Software Engineer at AXON"
+  },
+  {
+    "type": "conversations",
+    "conversations": "12Oct17",
+    "participants": "Brian Cullinan | wizard > Aaron Boushley | Staff Software Engineer at AXON",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Aaron Boushley",
+        "url": "linkedin.com/in/aaron-boushley-6366159",
+        "email": "boushley@gmail.com",
+        "title": "Staff Software Engineer at AXON"
+      }
+    ],
+    "message": "Hi Aaron! My name is Brian. I like to call myself Jack of all trades, and master of many! ;)\nYes, I have done full stack development. We've used Jira and Agile for years. Before that I set up an entire IT network and domain policy, just like Pete did at NAU (also at EPIC). In the meantime I like to build robots that respond to inputs like temperature and motion sensors. I've pretty much been holding the keys to the kingdom with this company propped up by AWS. I just started using Bluemix (that's why I noticed the name of the company is similar to something I've heard of long before). I engineered a medical device that scans your finger tips using a low light level camera and uses MatLab to interpret images and report back to .Net as EPIC. I love PHP and Angular (Javascript). Before that I learned about computer security using tools like NMap and Nessus, and I've attended many security conferences to broaden my range. Thank you so much for taking the time to read this, this is saving me time (DevOps) and I am learning how to introduce myself to CEOs. I believe it takes too long to find the right people and I've learned to ask the right questions. (Recruiting and Staffing).",
+    "time": "2017-10-12T16:35:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "12Oct17",
+    "participants": "Brian Cullinan | wizard > Aaron Boushley | Staff Software Engineer at AXON",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Aaron Boushley",
+        "url": "linkedin.com/in/aaron-boushley-6366159",
+        "email": "boushley@gmail.com",
+        "title": "Staff Software Engineer at AXON"
+      }
+    ],
+    "message": "What can I do for you?",
+    "time": "2017-10-12T16:35:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "12Oct17",
+    "participants": "Brian Cullinan | wizard > Joey Meyer | Recruiting Director at Decton IT",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Joey Meyer",
+        "url": "linkedin.com/in/joey-meyer-1970b317",
+        "phone": "480-686-5226 (Mobile)",
+        "email": "jmeyer@decton.it",
+        "title": "Recruiting Director at Decton IT"
+      }
+    ],
+    "message": "Thanks for the connect!",
+    "time": "2017-10-12T18:40:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "12Oct17",
+    "participants": "Brian Cullinan | wizard > Mark Schluter | Team Lead, Executive Recruiter at CyberCoders - Hiring Recruiters & B2B Sales Professionals",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Mark Schluter",
+        "url": "linkedin.com/in/mschluter",
+        "phone": "9493365946 (Home)",
+        "email": "marks@cybercoders.com",
+        "title": "Team Lead, Executive Recruiter at CyberCoders - Hiring Recruiters & B2B Sales Professionals"
+      }
+    ],
+    "message": "Thanks for reaching out! I'd love to hear more about this.",
+    "time": "2017-10-12T20:16:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "12Oct17",
+    "participants": "Mark Schluter | Team Lead, Executive Recruiter at CyberCoders - Hiring Recruiters & B2B Sales Professionals > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Mark Schluter",
+        "url": "linkedin.com/in/mschluter",
+        "phone": "9493365946 (Home)",
+        "email": "marks@cybercoders.com",
+        "title": "Team Lead, Executive Recruiter at CyberCoders - Hiring Recruiters & B2B Sales Professionals"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Do you know my client, Unkefer & Associates?\n\nPlease send me your resume...\n\nmarks@cybercoders.com\n\n>On October 12, 2016, 1:16 PM, Brian Cullinan wrote:\n>Thanks for reaching out! I'd love to hear more about this.",
+    "time": "2017-10-12T20:29:00.000Z",
+    "title": "Team Lead, Executive Recruiter at CyberCoders - Hiring Recruiters & B2B Sales Professionals"
+  },
+  {
+    "type": "conversations",
+    "conversations": "12Oct17",
+    "participants": "Brian Cullinan | wizard > Mark Schluter | Team Lead, Executive Recruiter at CyberCoders - Hiring Recruiters & B2B Sales Professionals",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Mark Schluter",
+        "url": "linkedin.com/in/mschluter",
+        "phone": "9493365946 (Home)",
+        "email": "marks@cybercoders.com",
+        "title": "Team Lead, Executive Recruiter at CyberCoders - Hiring Recruiters & B2B Sales Professionals"
+      }
+    ],
+    "message": "I do now.\nForward attachment\nDownload Resume - Google Docs.pdf\nPDF\nResume - Google Docs.pdf\n78 KB",
+    "time": "2017-10-12T21:53:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "12Oct17",
+    "participants": "Brian Cullinan | wizard > Andrea Blasdale | Recruitment Partner at Lonza",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Andrea Blasdale",
+        "url": "linkedin.com/in/andreablasdale",
+        "email": "andrea.blasdale@lonza.com",
+        "title": "Recruitment Partner at Lonza"
+      }
+    ],
+    "message": "I heard about your staffing problems from Melissa Ernst at York Solutions, I really think I can help! Thank you for the connect!",
+    "time": "2017-10-12T20:18:00.000Z",
+    "title": "wizard"
+  }
+]

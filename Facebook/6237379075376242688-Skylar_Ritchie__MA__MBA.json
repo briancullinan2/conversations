@@ -1,0 +1,59 @@
+{
+    "thread": "/messaging/thread/6237379075376242688/",
+    "participants": [
+        {
+            "name": "Skylar Ritchie, MA, MBA",
+            "title": "Business Analysis | Human Resource Management",
+            "url": "linkedin.com/in/skylarritchie",
+            "phone": null,
+            "email": "skylarwritchie@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-14T21:17:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Skylar Ritchie, MA, MBA",
+            "time": "2018-02-15T22:53:00.000Z",
+            "message": "Hi, Brian! Of course, pleased to meet you. If you do not mind my asking, what made you reach out to me? I am fascinated by your education, background, and interests.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-15T23:32:00.000Z",
+            "message": "Your presentation on Data Exploration came up in my search. Interesting stuff.\n"
+        },
+        {
+            "from": "Skylar Ritchie, MA, MBA",
+            "time": "2018-02-17T00:17:00.000Z",
+            "message": "Thank you! To be honest, I am a little embarrassed to have someone as tech savvy as you look at it. It was something I threw together for one of my professors, who was going to speak at an annual Safety Summit consisting mostly of production managers and safety specialists with a lot of data (some of it missing) and little sense for what to do with it. I tried to give them some hands-on advice for how to explore and visualize what they had, and while I was not there for the presentation, my professor said it was a success.\n\nI am really interested in your work with Study Sauce--it sounds like a really interesting marriage of technology, education, and cognitive psychology. Can you tell me more about it?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-17T00:57:00.000Z",
+            "message": "I just got in to data science do not so tech savvy.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-17T00:57:00.000Z",
+            "message": "Cognitive psychology is right. 15 learning topics. I could send you an invite if you want, it would only take someone about 2 hours to complete the course.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-17T00:57:00.000Z",
+            "message": "I learned about accountability partners and setting short term goals.\n"
+        },
+        {
+            "from": "Skylar Ritchie, MA, MBA",
+            "time": "2018-02-20T22:16:00.000Z",
+            "message": "Hey, Brian, sorry it has taken me awhile to get back to you: I was crazy busy last week, and my wife's birthday was over the weekend, so I took some time off. \n\nTo tell you the truth, I am relatively new to data science myself. In my degree programs, we take several classes in data analytics and research and quantitative methods, but I have also been exploring it on my own to satisfy my own curiosity. Right now, my goal is to improve my fluency with R, but because I am taking a full load of classes, studying for our comprehensive exams, and doing two assistantships, I am usually only able to carve out a little bit of time each morning.\n\nI would love to take a look, although it might take me awhile to complete it. This second to last semester of grad school is tough, but my summer should be considerably easier.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-20T23:05:00.000Z",
+            "message": "Happy birthday to the wifey! My wife's birthday was last weekend so we went to Love Beatles in Vegas.\n"
+        }
+    ]
+}

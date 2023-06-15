@@ -1,0 +1,422 @@
+[
+    {
+        "resourceName": "people/c3963734217075526025",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMTWJMQ3VQWVBNVVE9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3702034508d90989"
+                    }
+                },
+                "displayName": "Mr. and Mrs. Marv Thornsberry",
+                "familyName": "Thornsberry",
+                "givenName": "and Mrs.",
+                "middleName": "Marv",
+                "honorificPrefix": "Mr",
+                "displayNameLastFirst": "Thornsberry, Mr and Mrs. Marv"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3702034508d90989"
+                    }
+                },
+                "value": "deannat@insightbb.com",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3702034508d90989"
+                    }
+                },
+                "value": "+1-317-861-4050",
+                "canonicalForm": "+13178614050",
+                "type": "home",
+                "formattedType": "Home"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3702034508d90989"
+                    }
+                },
+                "value": "(317) 850-0987",
+                "canonicalForm": "+13178500987",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "1 Mutual Connection",
+                "You and Marv both know Linda McVey"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Vice-President of Operations",
+                "Company Name",
+                "Daniels Associates, Inc. DAI",
+                "Dates Employed",
+                "Jan 1980 – Present",
+                "Employment Duration",
+                "37 yrs 11 mos"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Xavier University"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Xavier University",
+                "55,469 followers"
+            ],
+            [
+                "Xavier University",
+                "51,552 followers"
+            ],
+            [
+                "Daniels Associates Inc.",
+                "83 followers"
+            ],
+            [
+                "Novisync, Inc",
+                "278 followers"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Xavier University",
+                "55,469 followers"
+            ],
+            [
+                "Xavier University",
+                "55,469 followers"
+            ],
+            [
+                "Xavier University",
+                "51,552 followers"
+            ],
+            [
+                "Xavier University",
+                "51,552 followers"
+            ],
+            [
+                "Daniels Associates Inc.",
+                "83 followers"
+            ],
+            [
+                "Daniels Associates Inc.",
+                "83 followers"
+            ],
+            [
+                "Novisync, Inc",
+                "278 followers"
+            ],
+            [
+                "Novisync, Inc",
+                "278 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Program Management",
+                "See 11 endorsements for Program Management",
+                "11",
+                "Program Management",
+                "Endorse",
+                "Keith Connor and 10 connections have given endorsements for this skill"
+            ],
+            [
+                "Program Management",
+                "See 11 endorsements for Program Management",
+                "11"
+            ],
+            [
+                "Leadership",
+                "See 11 endorsements for Leadership",
+                "11",
+                "Leadership",
+                "Endorse",
+                "Keith Connor and 10 connections have given endorsements for this skill"
+            ],
+            [
+                "Leadership",
+                "See 11 endorsements for Leadership",
+                "11"
+            ],
+            [
+                "Operations Management",
+                "See 10 endorsements for Operations Management",
+                "10",
+                "Operations Management",
+                "Endorse",
+                "Soundappan Murugesan and 9 connections have given endorsements for this skill"
+            ],
+            [
+                "Operations Management",
+                "See 10 endorsements for Operations Management",
+                "10"
+            ],
+            [
+                "Vendor Management",
+                "See 10 endorsements for Vendor Management",
+                "10",
+                "Vendor Management",
+                "Endorse"
+            ],
+            [
+                "Vendor Management",
+                "See 10 endorsements for Vendor Management",
+                "10"
+            ],
+            [
+                "Cross-functional Team Leadership",
+                "See 9 endorsements for Cross-functional Team Leadership",
+                "9",
+                "Cross-functional Team Leadership",
+                "Endorse"
+            ],
+            [
+                "Cross-functional Team Leadership",
+                "See 9 endorsements for Cross-functional Team Leadership",
+                "9"
+            ],
+            [
+                "Project Management",
+                "See 8 endorsements for Project Management",
+                "8",
+                "Project Management",
+                "Endorse"
+            ],
+            [
+                "Project Management",
+                "See 8 endorsements for Project Management",
+                "8"
+            ],
+            [
+                "Team Leadership",
+                "See 8 endorsements for Team Leadership",
+                "8",
+                "Team Leadership",
+                "Endorse"
+            ],
+            [
+                "Team Leadership",
+                "See 8 endorsements for Team Leadership",
+                "8"
+            ],
+            [
+                "Management",
+                "See 7 endorsements for Management",
+                "7",
+                "Management",
+                "Endorse"
+            ],
+            [
+                "Management",
+                "See 7 endorsements for Management",
+                "7"
+            ],
+            [
+                "Strategic Planning",
+                "See 7 endorsements for Strategic Planning",
+                "7",
+                "Strategic Planning",
+                "Endorse"
+            ],
+            [
+                "Strategic Planning",
+                "See 7 endorsements for Strategic Planning",
+                "7"
+            ],
+            [
+                "Process Improvement",
+                "See 6 endorsements for Process Improvement",
+                "6",
+                "Process Improvement",
+                "Endorse"
+            ],
+            [
+                "Process Improvement",
+                "See 6 endorsements for Process Improvement",
+                "6"
+            ],
+            [
+                "Team Building",
+                "See 6 endorsements for Team Building",
+                "6",
+                "Team Building",
+                "Endorse"
+            ],
+            [
+                "Team Building",
+                "See 6 endorsements for Team Building",
+                "6"
+            ],
+            [
+                "Business Analysis",
+                "See 6 endorsements for Business Analysis",
+                "6",
+                "Business Analysis",
+                "Endorse"
+            ],
+            [
+                "Business Analysis",
+                "See 6 endorsements for Business Analysis",
+                "6"
+            ],
+            [
+                "Customer Service",
+                "See 5 endorsements for Customer Service",
+                "5",
+                "Customer Service",
+                "Endorse"
+            ],
+            [
+                "Customer Service",
+                "See 5 endorsements for Customer Service",
+                "5"
+            ],
+            [
+                "Business Process Improvement",
+                "See 4 endorsements for Business Process Improvement",
+                "4",
+                "Business Process Improvement",
+                "Endorse"
+            ],
+            [
+                "Business Process Improvement",
+                "See 4 endorsements for Business Process Improvement",
+                "4"
+            ],
+            [
+                "Budgets",
+                "See 3 endorsements for Budgets",
+                "3",
+                "Budgets",
+                "Endorse"
+            ],
+            [
+                "Budgets",
+                "See 3 endorsements for Budgets",
+                "3"
+            ],
+            [
+                "Project Planning",
+                "See 3 endorsements for Project Planning",
+                "3",
+                "Project Planning",
+                "Endorse"
+            ],
+            [
+                "Project Planning",
+                "See 3 endorsements for Project Planning",
+                "3"
+            ],
+            [
+                "Change Management",
+                "See 2 endorsements for Change Management",
+                "2",
+                "Change Management",
+                "Endorse"
+            ],
+            [
+                "Change Management",
+                "See 2 endorsements for Change Management",
+                "2"
+            ],
+            [
+                "Supply Chain Management",
+                "See 2 endorsements for Supply Chain Management",
+                "2",
+                "Supply Chain Management",
+                "Endorse"
+            ],
+            [
+                "Supply Chain Management",
+                "See 2 endorsements for Supply Chain Management",
+                "2"
+            ],
+            [
+                "Business Development",
+                "See 1 endorsement for Business Development",
+                "1",
+                "Business Development",
+                "Endorse"
+            ],
+            [
+                "Business Development",
+                "See 1 endorsement for Business Development",
+                "1"
+            ],
+            [
+                "New Business Development",
+                "See 1 endorsement for New Business Development",
+                "1",
+                "New Business Development",
+                "Endorse"
+            ],
+            [
+                "New Business Development",
+                "See 1 endorsement for New Business Development",
+                "1"
+            ],
+            [
+                "Strategic Partnerships",
+                "See 1 endorsement for Strategic Partnerships",
+                "1",
+                "Strategic Partnerships",
+                "Endorse"
+            ],
+            [
+                "Strategic Partnerships",
+                "See 1 endorsement for Strategic Partnerships",
+                "1"
+            ]
+        ],
+        "summary": "",
+        "name": "Marv Thornsberry",
+        "title": "Vice-President of Operations at Daniels Associates Inc.",
+        "url": "linkedin.com/in/marv-thornsberry-15077857",
+        "phone": "",
+        "email": "mthornsberry@dainc.com"
+    }
+]

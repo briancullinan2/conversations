@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6203986126525472768/",
+    "participants": [
+        {
+            "name": "Allison Martin",
+            "title": "Connecting Hiring Managers to Top IT Candidates",
+            "url": "linkedin.com/in/allison-martin-4b8787a7",
+            "phone": null,
+            "email": "amartin@brooksource.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Allison Martin",
+            "message": "Hi Brian!\namartin@brooksource.com",
+            "time": "2017-11-14T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Thank you Allison, what is the name of the company?",
+            "time": "2017-10-04T18:27:00.000Z"
+        },
+        {
+            "from": "Allison Martin",
+            "message": "Our client is Verizon",
+            "time": "2017-10-04T19:31:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "OK I could convince them to hire me.",
+            "time": "2017-10-04T21:12:00.000Z"
+        },
+        {
+            "from": "Allison Martin",
+            "message": "I have attached the job description for you to review. If you are still interested please send your resume to my email at \namartin@brooksource.com",
+            "time": "2017-10-04T21:17:00.000Z"
+        }
+    ]
+}

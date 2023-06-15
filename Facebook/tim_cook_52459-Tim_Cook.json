@@ -1,0 +1,27 @@
+{
+    "thread": "https://www.facebook.com/messages/t/tim.cook.52459",
+    "participants": [
+        {
+            "name": "Tim Cook",
+            "description": "Lives in Boise, Idaho",
+            "url": "Married"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Tim",
+            "time": "2015-12-17T22:01:00.000Z",
+            "message": "\nhttp://blog.cloud-elements.com/introducing-our-facebook-api-integration-bringing-social-sharing-to-your-app?utm_campaign=All%20Things%20APIs&utm_content=24615110&utm_medium=social&utm_source=facebook\nIntroducing our Facebook API integration: bringing social sharing to your app\nThe leader in social media has finally arrived at Cloud Elements. Facebook can now be easily integrated into your app.\nblog.cloud-elements.com\n"
+        },
+        {
+            "from": "",
+            "time": "2017-06-07T17:50:00.000Z",
+            "message": "You accepted Tim's request."
+        },
+        {
+            "from": "Brian",
+            "time": "2017-06-07T17:50:00.000Z",
+            "message": "Brian\nCool.\n\n"
+        }
+    ]
+}

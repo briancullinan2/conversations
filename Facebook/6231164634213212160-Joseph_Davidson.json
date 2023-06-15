@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6231164634213212160/",
+    "participants": [
+        {
+            "name": "Joseph Davidson",
+            "title": "Founder and Lead Engineer at ElectricLIFE Engineering, and founder at Local Works",
+            "url": "linkedin.com/in/joseph-davidson-5b889b21",
+            "phone": null,
+            "email": "josephraydavidson@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-01-28T17:43:00.000Z",
+            "message": "Congrats on your work anniversary!\n"
+        },
+        {
+            "from": "Joseph Davidson",
+            "time": "2018-02-09T23:53:00.000Z",
+            "message": "Thanks Man! How's everything?\n"
+        }
+    ]
+}

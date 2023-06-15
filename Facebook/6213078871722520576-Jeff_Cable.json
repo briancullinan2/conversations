@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6213078871722520576/",
+    "participants": [
+        {
+            "name": "Jeff Cable",
+            "title": "Owner, Jeff Cable Photography",
+            "url": "linkedin.com/in/jeffcable",
+            "phone": null,
+            "email": "jcable@jeffcable.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-09T19:57:00.000Z"
+        }
+    ]
+}

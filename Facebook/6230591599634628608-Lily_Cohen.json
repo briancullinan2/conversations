@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6230591599634628608/",
+    "participants": [
+        {
+            "name": "Lily Cohen",
+            "title": "Sales Coordinator at Lotte New York Palace",
+            "url": "linkedin.com/in/lily-cohen-94049b92",
+            "phone": null,
+            "email": "lily.cohen@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-27T03:46:00.000Z"
+        }
+    ]
+}

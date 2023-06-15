@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6227659922369241088/",
+    "participants": [
+        {
+            "name": "Thomas Kuiper",
+            "title": "General Manager, Asia at Gandi.net",
+            "url": "linkedin.com/in/engerim",
+            "phone": "+886-2-26576515 (Work)",
+            "email": "tkuiper-linkedin@inxsoft.net"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-19T01:37:00.000Z"
+        },
+        {
+            "from": "Thomas Kuiper",
+            "message": "took me a while :)\n",
+            "time": "2018-01-19T01:37:00.000Z"
+        }
+    ]
+}

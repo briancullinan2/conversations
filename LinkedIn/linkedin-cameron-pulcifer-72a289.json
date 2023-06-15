@@ -1,0 +1,367 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "37 Mutual Connections",
+                "You and Cameron both know Dimitri Ponomareff, Glen Chamberlain, and 35 others"
+            ],
+            [
+                "Cameron can introduce you to 3 people at Arizona Department of Corrections",
+                "Cameron worked at Arizona Department of Corrections"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Senior Digital Consultant",
+                "Company Name",
+                "McKinsey & Company",
+                "Dates Employed",
+                "May 2015 – Present",
+                "Employment Duration",
+                "2 yrs 7 mos",
+                "Location",
+                "Phoenix, Arizona (remote)",
+                "Full-Stack Generalist, Team LeadAngular JS 1.x, Angular 2+, TypeScript, JavaScript ES2015, React Native, D3.js, Ionic, Node.js, Express, HapiJS, Socket.io, Ruby on Rails, MySQL, Postgres, Couchbase, Sequelize, ASP.NET Web API, Entity Framework, PetaPoco, Swift, WatchKit 2.0, Realm.io, Git, GitHub, Huboard, and Enterprise design patterns• Team Lead and Full-Stack polyglot developer for multiple client engagements and development teams with varying technical stacks including Angular JS 1.x, Angular 2+, React Native, .NET, Ruby on Rails, Node.js, Express, HapiJS, Ionic, Swift with WatchKit 2.0, Phoenix Framework, and more.• Expected to learn new stacks, frameworks, and languages on a consistent basis for projects.• Assigned to the Data Engineering Practice, which is responsible for digital transformation with Big Data technologies.• Remote work managed using collaboration tools: Slack, WebEx, conference line, GitHub, Huboard, and Box.• Projects include a cost negotiation tool, transportation route optimization, a real-time iOS mobile/watch app, pharmaceutical analytics, React Native and Ionic iPhone apps, line of business apps, analytical charts, and configuration tools.• Developed style guide for Angular and Node apps including common structure for JavaScript patterns for ease of development and maintenance.• Repository patterns and interfaces for Node and Angular apps• Charting with D3.js in Angular web apps and React Native environments• Developed standards for Scrum board management and card details to guarantee Definition of Done and Definition of Ready. Now being adopted Firm-wide, including the Agile Transformation practice.---Other Projects:• Ionic 2 app"
+            ],
+            [
+                "Angular JS and .NET Developer (Consulting)",
+                "Company Name",
+                "Avnet",
+                "Dates Employed",
+                "Mar 2015 – May 2015",
+                "Employment Duration",
+                "3 mos",
+                "Location",
+                "Tempe, AZ",
+                "Senior Consultant(Angular JS 1.3, Web API 2, Kendo UI, C# 4.5, WCF, LINQ, Entity Framework 6, TPL, TFS 2013, design patterns)• Senior developer on internal Silverlight rewrite project, Request-to-Order, a reseller tracking tool with SOA integration to SAP CRM/ECC and other subsystems.• Responsible for porting and adding new features on the full Angular/Web API stack, using controllers, factories, custom directives, and RESTful Web API services.• Introduction of Repository and Unit of Work design patterns."
+            ],
+            [
+                "Team Lead, Scrum Master (Consulting)",
+                "Company Name",
+                "Arizona Department of Health Services",
+                "Dates Employed",
+                "Jun 2012 – Feb 2015",
+                "Employment Duration",
+                "2 yrs 9 mos",
+                "Location",
+                "Phoenix, Arizona",
+                "Lead Developer, Scrum Master C#, MVC 4, DDD, StructureMap, AutoMapper, WCF, AppFabric, jQuery, Twitter Bootstrap, LINQ, Entity Framework 5 Code-First, Repository, Unit of Work, Dependency Injection, TPL, WPF, TFS 2012, Oracle, UML, design patterns• Lead developer on the State Birth Registration application. MVC 4 and WCF with Domain-Driven Design N-Layered Architecture.• Identified technical debt. Large refactoring effort in Brownfield environment.• Introduced industry-standard programming practices and concepts. Team mentoring and pair programming.• Dependency Injection, Inversion of Control, Adaptor/DTO using AutoMapper, composite ViewModels and other design patterns.• Implemented enterprise architecture application stack and applied patterns: enterprise caching, service oriented architecture, etc.• Source Control Manager. Implemented a customized Scrum-Ban process, TFS Application Lifecycle Management (ALM), Branching Strategy, deployment targets for automated builds, and check-in policies. Coached and trained the team and organization in proper source control management, branching strategy, and Scrum ALM process. • Introduced and developed the Domain-Driven Design, Cross-Cutting, Unit of Work, Repository, • Developed several processes, including a business rules engine. Architecture using UML.• Composable reporting framework, using LINQ expressions, generics, reflection, specification pattern."
+            ],
+            [
+                "Lead Developer (Consulting)",
+                "Company Name",
+                "Beeond",
+                "Dates Employed",
+                "Jan 2013 – Sep 2013",
+                "Employment Duration",
+                "9 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "NRG Real-Time Distributed Solar Project: Lead Developer on a bootstrapped Real-Time distributed data collection system for solar, wind, and diesel.C#, MVC 4, SignalR, Windows Service Bus, OPC UA, WCF, jQuery, Twitter Bootstrap, LINQ, Entity Framework 5 Code-First, SQL 2012, SVG, TPL, SQL CTE, Repository, Unit of Work, Dependency Injection, TFS 2012, Scrum, design patterns• Pilot project doing real-time data collection for distributed solar, stand-by generation, and wind.• Microsoft stack over Enterprise Service Bus talking to OPC on in-house built hardware modules installed in Phoenix, Minnesota, California, and Texas with datacenter deployed in Texas.• Lead developer, choosing and implementing the Microsoft and database side of the technology stack for real-time data collection, storage and transmission to live web application.• Real-Time over web using ASP.NET SignalR, displaying data in charts, grids, and SVG.• Windows Service Bus for distributed messaging of binary data storage and push to web.• Hierarchical Asset/Equipment model for configuration and data warehousing.• Sub-second data stored in binary time-series database for multiple data points.• Developed .NET wrapper for time-series data recovery and asynchronous querying.• Data warehousing using SQL CLR over web services to binary time series database.• NERC-compliant architecture."
+            ],
+            [
+                "Scrum Coach, Sales Engineer (Consulting)",
+                "Company Name",
+                "Apex Systems",
+                "Dates Employed",
+                "Jul 2012 – Sep 2012",
+                "Employment Duration",
+                "3 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Responsible for creating the Apex Clear Scrum process, a custom on-boarding and Scrum adoption process for consulting design-build projects, used by Apex for all global projects. Sales engineer with one of Apex preferred clients for adopting the process."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Estrella Mountain Community College"
+            ],
+            "Recommendations",
+            [
+                "Eric RiesEric Ries is a LinkedIn Influencer",
+                "CEO at Long-Term Stock Exchange",
+                "500,927 followers"
+            ],
+            [
+                "Microsoft Developers",
+                "62,326 members"
+            ],
+            [
+                "Arizona Department of Health Services",
+                "3,584 followers"
+            ],
+            [
+                "Microsoft",
+                "4,341,136 followers"
+            ],
+            [
+                "Steve BlankSteve Blank is a LinkedIn Influencer",
+                "Adjunct Professor at Stanford University",
+                "526,909 followers"
+            ],
+            [
+                "On Startups - The Community For Entrepreneurs",
+                "899,944 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (473)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Eric RiesEric Ries is a LinkedIn Influencer",
+                "CEO at Long-Term Stock Exchange",
+                "500,927 followers"
+            ],
+            [
+                "Eric RiesEric Ries is a LinkedIn Influencer",
+                "CEO at Long-Term Stock Exchange",
+                "500,927 followers"
+            ],
+            [
+                "Eric Ries is a LinkedIn Influencer"
+            ],
+            [
+                "Microsoft Developers",
+                "62,326 members"
+            ],
+            [
+                "Microsoft Developers",
+                "62,326 members"
+            ],
+            [
+                "Arizona Department of Health Services",
+                "3,584 followers"
+            ],
+            [
+                "Arizona Department of Health Services",
+                "3,584 followers"
+            ],
+            [
+                "Microsoft",
+                "4,341,136 followers"
+            ],
+            [
+                "Microsoft",
+                "4,341,136 followers"
+            ],
+            [
+                "Steve BlankSteve Blank is a LinkedIn Influencer",
+                "Adjunct Professor at Stanford University",
+                "526,909 followers"
+            ],
+            [
+                "Steve BlankSteve Blank is a LinkedIn Influencer",
+                "Adjunct Professor at Stanford University",
+                "526,909 followers"
+            ],
+            [
+                "Steve Blank is a LinkedIn Influencer"
+            ],
+            [
+                "On Startups - The Community For Entrepreneurs",
+                "899,944 members"
+            ],
+            [
+                "On Startups - The Community For Entrepreneurs",
+                "899,944 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Costantino Pipero",
+                "Partner and Technology Lead at Beeond.",
+                "February 8, 2016, Cameron worked with Costantino in the same group",
+                "Cameron and I worked directly together in the design and development of a remote data acquisition and monitoring system for a big power generation company. He was in charge of the creation of a service bus transport to get the data from OPC UA data sources to be delivered to a SignalR enable Web front-end (he found that architecture to be the best fit). The project was delivered successfully and performed as per requirements.Cameron strong feature is commitment: he strives to deliver the best solution possible. And that means that he is not boxed in a given technology, in fact he  has quite an impressive portfolio of skills.That knowledge also gives him the extra edge in offer him an higher point of view when it comes to envision the right fit for a customer requirement.Needless to say, I am always looking forward to the next opportunity to work with Cameron."
+            ],
+            [
+                "Costantino Pipero",
+                "Partner and Technology Lead at Beeond.",
+                "February 8, 2016, Cameron worked with Costantino in the same group"
+            ],
+            [
+                "Costantino Pipero",
+                "Partner and Technology Lead at Beeond.",
+                "February 8, 2016, Cameron worked with Costantino in the same group"
+            ],
+            [
+                "Costantino Pipero",
+                "Partner and Technology Lead at Beeond.",
+                "February 8, 2016, Cameron worked with Costantino in the same group"
+            ],
+            "Partner and Technology Lead at Beeond.",
+            [
+                "Cameron and I worked directly together in the design and development of a remote data acquisition and monitoring system for a big power generation company. He was in charge of the creation of a service bus transport to get the data from OPC UA data sources to be delivered to a SignalR enable Web front-end (he found that architecture to be the best fit). The project was delivered successfully and performed as per requirements.Cameron strong feature is commitment: he strives to deliver the best solution possible. And that means that he is not boxed in a given technology, in fact he  has quite an impressive portfolio of skills.That knowledge also gives him the extra edge in offer him an higher point of view when it comes to envision the right fit for a customer requirement.Needless to say, I am always looking forward to the next opportunity to work with Cameron."
+            ],
+            [
+                "Cameron and I worked directly together in the design and development of a remote data acquisition and monitoring system for a big power generation company. He was in charge of the creation of a service bus transport to get the data from OPC UA data sources to be delivered to a SignalR enable Web front-end (he found that architecture to be the best fit). The project was delivered successfully and performed as per requirements.Cameron strong feature is commitment: he strives to deliver the best solution possible. And that means that he is not boxed in a given technology, in fact he  has quite an impressive portfolio of skills.That knowledge also gives him the extra edge in offer him an higher point of view when it comes to envision the right fit for a customer requirement.Needless to say, I am always looking forward to the next opportunity to work with Cameron."
+            ],
+            [
+                "Jeff Hagen",
+                ".NET Developer (Consultant)",
+                "October 15, 2014, Cameron worked with Jeff in the same group",
+                "I had the great pleasure of working with Cameron for the Arizona Department of Health.  Not only did Cameron bring a sense of enthusiasm to the team, but his advanced skills as a developer and in Microsoft technologies proved to be very valuable to the project and the team.Cameron is extremely knowledgeable on the technical side and is great mentor to me and other individuals on the team.  Cameron consistently produced finished products on time and above expectations.I would highly recommend Mr. Pulsifer as both a leader and .NET guru who is able to lead a team and encourage best practices thereby improving overall customer satisfaction upon delivery."
+            ],
+            [
+                "Jeff Hagen",
+                ".NET Developer (Consultant)",
+                "October 15, 2014, Cameron worked with Jeff in the same group"
+            ],
+            [
+                "Jeff Hagen",
+                ".NET Developer (Consultant)",
+                "October 15, 2014, Cameron worked with Jeff in the same group"
+            ],
+            [
+                "Jeff Hagen",
+                ".NET Developer (Consultant)",
+                "October 15, 2014, Cameron worked with Jeff in the same group"
+            ],
+            ".NET Developer (Consultant)",
+            [
+                "I had the great pleasure of working with Cameron for the Arizona Department of Health.  Not only did Cameron bring a sense of enthusiasm to the team, but his advanced skills as a developer and in Microsoft technologies proved to be very valuable to the project and the team.Cameron is extremely knowledgeable on the technical side and is great mentor to me and other individuals on the team.  Cameron consistently produced finished products on time and above expectations.I would highly recommend Mr. Pulsifer as both a leader and .NET guru who is able to lead a team and encourage best practices thereby improving overall customer satisfaction upon delivery."
+            ],
+            [
+                "I had the great pleasure of working with Cameron for the Arizona Department of Health.  Not only did Cameron bring a sense of enthusiasm to the team, but his advanced skills as a developer and in Microsoft technologies proved to be very valuable to the project and the team.Cameron is extremely knowledgeable on the technical side and is great mentor to me and other individuals on the team.  Cameron consistently produced finished products on time and above expectations.I would highly recommend Mr. Pulsifer as both a leader and .NET guru who is able to lead a team and encourage best practices thereby improving overall customer satisfaction upon delivery."
+            ],
+            [
+                "Bon Franklin",
+                "CTO at Simplify Solar",
+                "July 8, 2013, Bon worked with Cameron in different groups",
+                "Cameron is a top notch problem solver with a keen eye for the enterprise. He has fantastic overlap of knowledge and experience from both the business and implementation side of software development. This experience allows him to zero in on exactly what the customer wants, and his superior programming ability makes him able to implement it in a scaleable and maintainable way.I am happy to work with Cameron on any problem since I know he will both make sure we are following best practices and using KISS/DRY principles, while also thinking outside the box for innovation."
+            ],
+            [
+                "Bon Franklin",
+                "CTO at Simplify Solar",
+                "July 8, 2013, Bon worked with Cameron in different groups"
+            ],
+            [
+                "Bon Franklin",
+                "CTO at Simplify Solar",
+                "July 8, 2013, Bon worked with Cameron in different groups"
+            ],
+            [
+                "Bon Franklin",
+                "CTO at Simplify Solar",
+                "July 8, 2013, Bon worked with Cameron in different groups"
+            ],
+            "CTO at Simplify Solar",
+            [
+                "Cameron is a top notch problem solver with a keen eye for the enterprise. He has fantastic overlap of knowledge and experience from both the business and implementation side of software development. This experience allows him to zero in on exactly what the customer wants, and his superior programming ability makes him able to implement it in a scaleable and maintainable way.I am happy to work with Cameron on any problem since I know he will both make sure we are following best practices and using KISS/DRY principles, while also thinking outside the box for innovation."
+            ],
+            [
+                "Cameron is a top notch problem solver with a keen eye for the enterprise. He has fantastic overlap of knowledge and experience from both the business and implementation side of software development. This experience allows him to zero in on exactly what the customer wants, and his superior programming ability makes him able to implement it in a scaleable and maintainable way.I am happy to work with Cameron on any problem since I know he will both make sure we are following best practices and using KISS/DRY principles, while also thinking outside the box for innovation."
+            ],
+            [
+                "Marc Nechtman",
+                "Special Projects Manager, Associate Director of Technology, Engineer at ASRS Participating Employers",
+                "October 29, 2012, Marc worked with Cameron in different groups",
+                "I highly recommend Cameron for any software engineer position you may be considering him for. Cameron made a huge impact on our sofware deliverables. In addition to having excellent programming skills, Cameron is a great team player. He eagerly participates with the other members of the team, sharing his ideas and expertise. He is always ready to jump in anywhere we need help. \"If you would like any more information about Cameron, please feel free to contact me.” October, 29th, 2012."
+            ],
+            [
+                "Marc Nechtman",
+                "Special Projects Manager, Associate Director of Technology, Engineer at ASRS Participating Employers",
+                "October 29, 2012, Marc worked with Cameron in different groups"
+            ],
+            [
+                "Marc Nechtman",
+                "Special Projects Manager, Associate Director of Technology, Engineer at ASRS Participating Employers",
+                "October 29, 2012, Marc worked with Cameron in different groups"
+            ],
+            [
+                "Marc Nechtman",
+                "Special Projects Manager, Associate Director of Technology, Engineer at ASRS Participating Employers",
+                "October 29, 2012, Marc worked with Cameron in different groups"
+            ],
+            "Special Projects Manager, Associate Director of Technology, Engineer at ASRS Participating Employers",
+            [
+                "I highly recommend Cameron for any software engineer position you may be considering him for. Cameron made a huge impact on our sofware deliverables. In addition to having excellent programming skills, Cameron is a great team player. He eagerly participates with the other members of the team, sharing his ideas and expertise. He is always ready to jump in anywhere we need help. \"If you would like any more information about Cameron, please feel free to contact me.” October, 29th, 2012."
+            ],
+            [
+                "I highly recommend Cameron for any software engineer position you may be considering him for. Cameron made a huge impact on our sofware deliverables. In addition to having excellent programming skills, Cameron is a great team player. He eagerly participates with the other members of the team, sharing his ideas and expertise. He is always ready to jump in anywhere we need help. \"If you would like any more information about Cameron, please feel free to contact me.” October, 29th, 2012."
+            ],
+            [
+                "Jeff Hagen",
+                ".NET Developer (Consultant)",
+                "October 8, 2014, Jeff worked with Cameron in the same group",
+                "It was a great pleasure working with Jeff at the Department of Health Services.  Jeff is very dedicated and skilled developer who brings creativity and efficiency to projects and does what is necessary to get the job done. His strong enthusiasm and ability to pick up on things quickly has had a very positive impact on our team.He is undoubtedly one of the most dedicated software professionals I have worked with and without hesitation I give him my highest recommendation."
+            ],
+            [
+                "Jeff Hagen",
+                ".NET Developer (Consultant)",
+                "October 8, 2014, Jeff worked with Cameron in the same group"
+            ],
+            [
+                "Jeff Hagen",
+                ".NET Developer (Consultant)",
+                "October 8, 2014, Jeff worked with Cameron in the same group"
+            ],
+            [
+                "Jeff Hagen",
+                ".NET Developer (Consultant)",
+                "October 8, 2014, Jeff worked with Cameron in the same group"
+            ],
+            ".NET Developer (Consultant)",
+            [
+                "It was a great pleasure working with Jeff at the Department of Health Services.  Jeff is very dedicated and skilled developer who brings creativity and efficiency to projects and does what is necessary to get the job done. His strong enthusiasm and ability to pick up on things quickly has had a very positive impact on our team.He is undoubtedly one of the most dedicated software professionals I have worked with and without hesitation I give him my highest recommendation."
+            ],
+            [
+                "It was a great pleasure working with Jeff at the Department of Health Services.  Jeff is very dedicated and skilled developer who brings creativity and efficiency to projects and does what is necessary to get the job done. His strong enthusiasm and ability to pick up on things quickly has had a very positive impact on our team.He is undoubtedly one of the most dedicated software professionals I have worked with and without hesitation I give him my highest recommendation."
+            ],
+            [
+                "Jon Young",
+                "Experienced Voice and Data Networking Professional - Open to new opportunities",
+                "February 12, 2009, Cameron worked with Jon in different groups",
+                "Jon has excellent relationships with everyone around. He gains a lot of respect for his technical knowledge and leadership. He has a lot of experience and has shared jobs with several engineers at a previous company. He was very helpful to me personally when I had questions about his responsibilities on the project.I would say Jon is definitely well worth having in any organization. He maintains a longevity at his jobs as well in his professional and personal relationships. I would gladly work with Jon again.Thanks,Cameron PulciferSoftware Engineer, ASP.NET C#"
+            ],
+            [
+                "Jon Young",
+                "Experienced Voice and Data Networking Professional - Open to new opportunities",
+                "February 12, 2009, Cameron worked with Jon in different groups"
+            ],
+            [
+                "Jon Young",
+                "Experienced Voice and Data Networking Professional - Open to new opportunities",
+                "February 12, 2009, Cameron worked with Jon in different groups"
+            ],
+            [
+                "Jon Young",
+                "Experienced Voice and Data Networking Professional - Open to new opportunities",
+                "February 12, 2009, Cameron worked with Jon in different groups"
+            ],
+            "Experienced Voice and Data Networking Professional - Open to new opportunities",
+            [
+                "Jon has excellent relationships with everyone around. He gains a lot of respect for his technical knowledge and leadership. He has a lot of experience and has shared jobs with several engineers at a previous company. He was very helpful to me personally when I had questions about his responsibilities on the project.I would say Jon is definitely well worth having in any organization. He maintains a longevity at his jobs as well in his professional and personal relationships. I would gladly work with Jon again.Thanks,Cameron PulciferSoftware Engineer, ASP.NET C#"
+            ],
+            [
+                "Jon has excellent relationships with everyone around. He gains a lot of respect for his technical knowledge and leadership. He has a lot of experience and has shared jobs with several engineers at a previous company. He was very helpful to me personally when I had questions about his responsibilities on the project.I would say Jon is definitely well worth having in any organization. He maintains a longevity at his jobs as well in his professional and personal relationships. I would gladly work with Jon again.Thanks,Cameron PulciferSoftware Engineer, ASP.NET C#"
+            ]
+        ],
+        "skills": [],
+        "summary": "    • 18 years of professional experience in Leadership, Change Management, Process Improvement, Software Development, Software Architecture and Design, Project Management, Business Analysis.• 8 years in a Scrum environment as a Scrum Master (CSM since 06/2012), Developer, and Coach.• Strong leadership, design, and development skills with a focus on continuous improvement. Lean Software Development, Lean Start-Up, and Scrum cultural practices. Inspect and adapt!• Line of Business application developer with strong analytical skills.• Proven ability to assess technical issues and provide effective, solid solutions.• Ability to translate the needs of the business into real solutions.• Well organized and seasoned developer with proven experience.• Practice of SOLID, DRY, and Separation of Concerns design principles. Applied Gang of Four Design Patterns. Enterprise Patterns: Repository, Unit of Work, Dependency Injection, Inversion of Control, Domain Driven Design.Specialties: Lean Start-Up, Leadership, Collaboration, Intrapreneur, Certified Scrum Master (CSM), Lead Senior Developer, TFS 2012 with ALM and Scrum 2.0, Software Architecture, DDD N-Layered Architecture, Line of Business apps, Source Control Manager, Enterprise Design Patterns, Microsoft technology stack, and more.\n  \n  \n",
+        "name": "Cameron Pulcifer",
+        "title": "Principal Consultant at Emagen",
+        "url": "linkedin.com/in/cameron-pulcifer-72a289",
+        "phone": "480-442-7055 (Home)",
+        "email": "cameronbpulcifer@gmail.com"
+    }
+]

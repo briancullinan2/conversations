@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6236251051532566529/",
+    "participants": [
+        {
+            "name": "Michaela Alexis",
+            "title": "Linkedin Lover, Published Writer, Social Media and Content Marketing Expert",
+            "url": "linkedin.com/in/michaelaalexis",
+            "phone": "613-696-0224 (Work)",
+            "email": "michaeladalexis@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-11T18:35:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-22T14:15:00.000Z",
+            "message": "Congrats on the new job!\n"
+        }
+    ]
+}

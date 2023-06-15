@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6222041980784963584/",
+    "participants": [
+        {
+            "name": "Michael Johnson",
+            "title": "Co-Founder at NeoCaddie Inc",
+            "url": "linkedin.com/in/mtjmichaeljohnson",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-03T13:33:00.000Z"
+        }
+    ]
+}

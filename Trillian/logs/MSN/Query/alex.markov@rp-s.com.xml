@@ -1,0 +1,161 @@
+<session type="start" time="1182460962" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet"/>
+<message type="incoming_privateMessage" time="1182460962" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="hey%20bro"/>
+<message type="outgoing_privateMessage" time="1182460972" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="hey"/>
+<message type="incoming_privateMessage" time="1182461006" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="in%20a%20car%20on%20the%20treo%20%3A%2D%23"/>
+<message type="incoming_privateMessage" time="1182461013" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="5%20hour%20car%20ride"/>
+<message type="outgoing_privateMessage" time="1182461016" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="suck"/>
+<message type="incoming_privateMessage" time="1182461154" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="whatcha%20doin"/>
+<message type="outgoing_privateMessage" time="1182461213" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="working%20on%20jambonie"/>
+<message type="incoming_privateMessage" time="1182461301" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="anything%20interesting%3F%20let%20me%20get%20some%20details%2E%20I%27m%20just%20curious%20what%27s%20going%20on%20with%20jam"/>
+<message type="outgoing_privateMessage" time="1182461336" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="i%20am%20making%20big%20changes%20to%20the%20way%20bands%2C%20songs%2C%20events%2C%20and%20users%20are%20displayed"/>
+<message type="incoming_privateMessage" time="1182461347" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="how"/>
+<message type="outgoing_privateMessage" time="1182461376" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="instead%20of%20writing%20custom%20code%20to%20display%20certain%20songs%20that%20a%20band%20has%20uploaded%2C%20it%20uses%20the%20search%20engine%20to%20output%20the%20edit%20fields"/>
+<message type="incoming_privateMessage" time="1182461413" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="interesting"/>
+<message type="incoming_privateMessage" time="1182461450" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="the%20media%20player%20area%20doesn%27t%20look%20as%20fresh%20as%20it%20can%20I%20think%2E%20and%20it%20sucks%20that%20its%20in%20a%20separate%20page"/>
+<message type="outgoing_privateMessage" time="1182461455" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="since%20its%20always%20putting%20out%20the%20same%20information%20just%20in%20different%20ways%2C%20i%20can%20completely%20customize%20the%20output%20in%20only%201%20line%20of%20code%2C%20and%20that%20is%20processed%20by%20the%20search%20engine"/>
+<message type="incoming_privateMessage" time="1182461536" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="very%20nice%20changes%2E%20good%20stuff"/>
+<message type="information_standard" time="1182461564" medium="MSN" text="%22Alex%20Markov%22%20signed%20off%20at%20Thu%20Jun%2021%2014%3A32%3A44%202007%2E"/>
+<status type="Offline" time="1182461564" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1182461962" medium="MSN" text="%22Alex%20Markov%22%20signed%20on%20at%20Thu%20Jun%2021%2014%3A39%3A22%202007%2E"/>
+<status type="online" time="1182461962" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1182463539" medium="MSN" text="%22Alex%20Markov%22%20signed%20off%20at%20Thu%20Jun%2021%2015%3A05%3A39%202007%2E"/>
+<status type="Offline" time="1182463539" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<session type="stop" time="1182466383" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet"/>
+<session type="start" time="1186072687" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet"/>
+<message type="outgoing_privateMessage" time="1186072697" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="are%20you%20using%20your%20other%20screen%20name%20anymore%3F"/>
+<message type="incoming_privateMessage" time="1186072713" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="rps%2Dalex%20markov%3F"/>
+<message type="outgoing_privateMessage" time="1186072717" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="theday"/>
+<message type="incoming_privateMessage" time="1186072722" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="eventually%20im%20gonna%20make%20that%20my%20primary"/>
+<icon time="1186072723" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom" link="c%3A%5Cprogram%20files%5Ctrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CMSN%2Dalex%2Emarkov%40rp%2Ds%2Ecom%2D1186072723%2Epng"/>
+<message type="incoming_privateMessage" time="1186072729" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="oh"/>
+<message type="incoming_privateMessage" time="1186072731" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="yes"/>
+<message type="incoming_privateMessage" time="1186072736" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="i%20am%20on%20laptop%20in%20client%27s%20office"/>
+<message type="incoming_privateMessage" time="1186072748" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="this%20will%20eventgualyl%20be%20my%20primary%20one"/>
+<message type="outgoing_privateMessage" time="1186072826" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="ok"/>
+<message type="outgoing_privateMessage" time="1186072847" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="i%20have%20to%20get%20shit%20installed%20on%20my%20new%20laptop"/>
+<message type="outgoing_privateMessage" time="1186072890" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="but%20i%20don%27t%20think%20i%20should%20bother%20until%20i%20get%20back%20where%20my%20server%20is%20on%20a%20LAN%2C%20because%20right%20now%20i%20would%20have%20to%20download%20all%20the%20stuff%20from%20my%20server"/>
+<message type="outgoing_privateMessage" time="1186072895" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="that%20would%20take%20forever"/>
+<message type="incoming_privateMessage" time="1186073206" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="are%20u%20by%20anychance%20rly%20good%20at%20outlook%3F"/>
+<message type="incoming_privateMessage" time="1186073226" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="errr"/>
+<message type="incoming_privateMessage" time="1186073229" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="excel%20i%20mean"/>
+<message type="incoming_privateMessage" time="1186073231" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="not%20outlook"/>
+<message type="outgoing_privateMessage" time="1186073431" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="excel"/>
+<message type="information_standard" time="1186073439" medium="MSN" text="One%20or%20more%20messages%20may%20have%20been%20undeliverable%2E"/>
+<message type="outgoing_privateMessage" time="1186073439" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="i%20used%20to%20do%20VB%20programming%20in%20excel"/>
+<message type="information_standard" time="1186073443" medium="MSN" text="One%20or%20more%20messages%20may%20have%20been%20undeliverable%2E"/>
+<message type="outgoing_privateMessage" time="1186073443" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="what%20do%20you%20need%3F"/>
+<session type="stop" time="1186073446" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet"/>
+<session type="start" time="1186073448" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet"/>
+<message type="information_standard" time="1186073455" medium="MSN" text="%22Alex%20Markov%22%20signed%20off%20at%20Thu%20Aug%2002%2009%3A50%3A55%202007%2E"/>
+<status type="Offline" time="1186073455" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<session type="stop" time="1186073461" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet"/>
+<session type="start" time="1186073913" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet"/>
+<message type="incoming_privateMessage" time="1186073913" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="i%20am%20doing%20some%20consulting%20work%20in%20our%20property%20manager%20office"/>
+<message type="incoming_privateMessage" time="1186073930" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="right%20now%20they%20keep%20like%20roperty%20overview%20sheets"/>
+<message type="incoming_privateMessage" time="1186073932" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="in%20excel"/>
+<message type="incoming_privateMessage" time="1186073943" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="but%20each%20property%20is%20layed%20out%20all%20differently"/>
+<message type="incoming_privateMessage" time="1186073949" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="no%20standardized%20layout"/>
+<message type="information_standard" time="1186073952" medium="MSN" text="Alex%20Markov%20is%20trying%20to%20send%20you%20%22PROPERTY%20OVERVIEW%2Exlt%22"/>
+<message type="incoming_privateMessage" time="1186073959" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="so%20i%20am%20proposing%20this%20layout"/>
+<message type="incoming_privateMessage" time="1186073982" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="should%20i%20like%20make%20a%20template%20for%20them%3F"/>
+<message type="incoming_privateMessage" time="1186074017" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="is%20there%20anythings%20u%20can%20suggest%20to%20make%20it%20easier%20for%20them%20to%20input%20into%20this%3F"/>
+<filetransfer type="incoming_filetransferInitialize" time="1186074044" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" link="C%3A%5CDocuments%20and%20Settings%5CBrian%20Cullinan%5CDesktop%5CPROPERTY%20OVERVIEW%2Exlt"/>
+<filetransfer type="incoming_filetransferStart" time="1186074050" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" link="C%3A%5CDocuments%20and%20Settings%5CBrian%20Cullinan%5CDesktop%5CPROPERTY%20OVERVIEW%2Exlt"/>
+<filetransfer type="incoming_filetransferUninitialize" time="1186074052" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" link="C%3A%5CDocuments%20and%20Settings%5CBrian%20Cullinan%5CDesktop%5CPROPERTY%20OVERVIEW%2Exlt"/>
+<message type="outgoing_privateMessage" time="1186074056" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="for%20once%20you%20are%20not%20sending%20me%20some%20stupid%20image"/>
+<message type="outgoing_privateMessage" time="1186074133" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="looks%20kind%20of%20simple%20does%20it%20cover%20all%20their%20information%20needs%3F"/>
+<status type="idle" time="1186074339" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<status type="online" time="1186074400" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="incoming_privateMessage" time="1186074409" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="yes%2Eits%20like%20a%20brief%20overview%20that%20everyone%20can%20print"/>
+<message type="incoming_privateMessage" time="1186074420" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="its%20gonna%20be%20on%20server"/>
+<message type="incoming_privateMessage" time="1186074432" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="so%20there%20will%20be%201%20central%20overview%20of%20the%20property"/>
+<message type="incoming_privateMessage" time="1186074453" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="should%20i%20make%20it%20into%20a%20tempalte%20file%3F%20or%20no%20reason%20for%20it"/>
+<message type="incoming_privateMessage" time="1186074459" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="any%20features%20u%20think%20i%20should%20use%3F"/>
+<message type="outgoing_privateMessage" time="1186074638" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="looks%20good"/>
+<message type="incoming_privateMessage" time="1186075044" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="k%20thanks"/>
+<message type="information_standard" time="1186075373" medium="MSN" text="%22Alex%20Markov%22%20signed%20off%20at%20Thu%20Aug%2002%2010%3A22%3A53%202007%2E"/>
+<status type="Offline" time="1186075373" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<session type="stop" time="1186077426" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet"/>
+<session type="start" time="1187291860" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet"/>
+<message type="incoming_privateMessage" time="1187291860" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="hi"/>
+<message type="outgoing_privateMessage" time="1187291865" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="hi"/>
+<message type="incoming_privateMessage" time="1187291904" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="next%20time%20when%20u%20get%20up%20and%20start%20work%2E%2E%2E%20and%20I%27m%20not%20answering%20on%20msn%20txt%20me"/>
+<message type="incoming_privateMessage" time="1187291942" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="I%20had%20meeting%20with%20rps%20accountant%20all%20morning"/>
+<message type="outgoing_privateMessage" time="1187291954" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="k"/>
+<message type="incoming_privateMessage" time="1187291981" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="what%27s%20going%20on%20in%20general"/>
+<message type="outgoing_privateMessage" time="1187291996" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="getting%20my%20desktop%20set%20up"/>
+<message type="outgoing_privateMessage" time="1187292003" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="been%20installing%20updates%20all%20morning"/>
+<message type="incoming_privateMessage" time="1187292006" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="how%27s%20it%20going"/>
+<message type="outgoing_privateMessage" time="1187292010" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="helped%20robert%20with%20a%20server%20question"/>
+<message type="outgoing_privateMessage" time="1187292026" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="going%20good%2C%20also%20both%20my%20packages%20from%20UPS%20come%20today"/>
+<message type="incoming_privateMessage" time="1187292033" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="make%20sure%20u%20put%20details%20in%20worklog"/>
+<message type="outgoing_privateMessage" time="1187292034" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="i%20am%20ecstatic%20"/>
+<message type="incoming_privateMessage" time="1187292043" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="put%20reformat%20desktop%20in%20there"/>
+<message type="outgoing_privateMessage" time="1187292053" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="yesh%20i%20will"/>
+<message type="outgoing_privateMessage" time="1187292073" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="didn%27t%20mean%20to%20put%20the%20h%20in%20yesh"/>
+<message type="incoming_privateMessage" time="1187292078" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="k"/>
+<message type="outgoing_privateMessage" time="1187292087" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="but%20it%20kind%20of%20shounds%20like%20shean%20connery"/>
+<message type="incoming_privateMessage" time="1187292105" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="lol"/>
+<message type="outgoing_privateMessage" time="1187292257" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="oh%20yeah%20forgot%20to%20mention%2C%20i%20installed%20adobe%20master%20collection%20yesterday%20only%20to%20find%20the%20crack%20didn%27t%20fucking%20work"/>
+<message type="outgoing_privateMessage" time="1187292263" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="so%20i%20uninstalled%20and%20reinstalled"/>
+<message type="incoming_privateMessage" time="1187292271" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="I%20have%20working%20version"/>
+<message type="outgoing_privateMessage" time="1187292276" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="now%20i%20am%20testing%20to%20make%20sure%20it%20works"/>
+<message type="outgoing_privateMessage" time="1187292282" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="it%20worked%20on%20my%20friends%20computer"/>
+<message type="incoming_privateMessage" time="1187292283" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="k"/>
+<message type="outgoing_privateMessage" time="1187292328" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="daemon%20tools%20crapped%20out%20on%20me%20brb%20restart"/>
+<message type="incoming_privateMessage" time="1187292334" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="k"/>
+<message type="incoming_privateMessage" time="1187292335" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="brb"/>
+<session type="stop" time="1187292362" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet"/>
+<session type="start" time="1187616642" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet"/>
+<message type="incoming_privateMessage" time="1187616642" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="hi"/>
+<message type="information_standard" time="1187617752" medium="MSN" text="%22Alex%20Markov%22%20signed%20off%20at%20Mon%20Aug%2020%2006%3A49%3A12%202007%2E"/>
+<status type="Offline" time="1187617752" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1187618774" medium="MSN" text="%22Alex%20Markov%22%20signed%20on%20at%20Mon%20Aug%2020%2007%3A06%3A14%202007%2E"/>
+<status type="online" time="1187618774" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1187618816" medium="MSN" text="%22Alex%20Markov%22%20signed%20off%20at%20Mon%20Aug%2020%2007%3A06%3A56%202007%2E"/>
+<status type="Offline" time="1187618816" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1187619011" medium="MSN" text="%22Alex%20Markov%22%20signed%20on%20at%20Mon%20Aug%2020%2007%3A10%3A11%202007%2E"/>
+<status type="online" time="1187619011" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1187619026" medium="MSN" text="%22Alex%20Markov%22%20signed%20off%20at%20Mon%20Aug%2020%2007%3A10%3A26%202007%2E"/>
+<status type="Offline" time="1187619026" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1187619501" medium="MSN" text="%22Alex%20Markov%22%20signed%20on%20at%20Mon%20Aug%2020%2007%3A18%3A21%202007%2E"/>
+<status type="online" time="1187619501" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1187621267" medium="MSN" text="%22Alex%20Markov%22%20signed%20off%20at%20Mon%20Aug%2020%2007%3A47%3A47%202007%2E"/>
+<status type="Offline" time="1187621267" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1187622265" medium="MSN" text="%22Alex%20Markov%22%20signed%20on%20at%20Mon%20Aug%2020%2008%3A04%3A25%202007%2E"/>
+<status type="online" time="1187622265" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1187622317" medium="MSN" text="%22Alex%20Markov%22%20signed%20off%20at%20Mon%20Aug%2020%2008%3A05%3A17%202007%2E"/>
+<status type="Offline" time="1187622317" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1187626091" medium="MSN" text="%22Alex%20Markov%22%20signed%20on%20at%20Mon%20Aug%2020%2009%3A08%3A11%202007%2E"/>
+<status type="online" time="1187626091" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1187627684" medium="MSN" text="%22Alex%20Markov%22%20signed%20off%20at%20Mon%20Aug%2020%2009%3A34%3A44%202007%2E"/>
+<status type="Offline" time="1187627684" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1187627696" medium="MSN" text="%22Alex%20Markov%22%20signed%20on%20at%20Mon%20Aug%2020%2009%3A34%3A56%202007%2E"/>
+<status type="online" time="1187627696" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1187628004" medium="MSN" text="%22Alex%20Markov%22%20signed%20off%20at%20Mon%20Aug%2020%2009%3A40%3A04%202007%2E"/>
+<status type="Offline" time="1187628004" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1187628007" medium="MSN" text="%22Alex%20Markov%22%20signed%20on%20at%20Mon%20Aug%2020%2009%3A40%3A07%202007%2E"/>
+<status type="online" time="1187628007" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1187630367" medium="MSN" text="%22Alex%20Markov%22%20signed%20off%20at%20Mon%20Aug%2020%2010%3A19%3A27%202007%2E"/>
+<status type="Offline" time="1187630367" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1187630747" medium="MSN" text="%22Alex%20Markov%22%20signed%20on%20at%20Mon%20Aug%2020%2010%3A25%3A47%202007%2E"/>
+<status type="online" time="1187630747" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<message type="information_standard" time="1187634290" medium="MSN" text="%22Alex%20Markov%22%20signed%20off%20at%20Mon%20Aug%2020%2011%3A24%3A50%202007%2E"/>
+<status type="Offline" time="1187634290" medium="MSN" from="alex%2Emarkov%40rp%2Ds%2Ecom"/>
+<session type="stop" time="1187637191" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet"/>
+<session type="start" time="1187726485" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet"/>
+<message type="incoming_privateMessage" time="1187726485" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="yo"/>
+<message type="incoming_privateMessage" time="1187726509" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="ill%20be%20back%20soon"/>
+<message type="incoming_privateMessage" time="1187726526" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="what%20needs%20to%20be%20done%20for%20svn"/>
+<message type="incoming_privateMessage" time="1187726536" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="this%20back%20and%20forth%20would%20be%20easier"/>
+<message type="outgoing_privateMessage" time="1187726544" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="just%20have%20to%20log%20in%20and%20start%20it"/>
+<message type="incoming_privateMessage" time="1187726555" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="so%20lets%20do%20this"/>
+<message type="outgoing_privateMessage" time="1187726557" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="then%20you%20guys%20follow%20the%20instructions"/>
+<message type="incoming_privateMessage" time="1187726564" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="setup%20a%20client%20folder%20for%20bart"/>
+<message type="incoming_privateMessage" time="1187726573" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="upload%20docs"/>
+<message type="incoming_privateMessage" time="1187726582" medium="MSN" to="b%2Ecullinan%40cox%2Enet" from="alex%2Emarkov%40rp%2Ds%2Ecom" from_display="Alex%20Markov" text="and%20lets%20start%20it"/>
+<message type="outgoing_privateMessage" time="1187726601" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="Brian%20Cullinan" text="not%20sure%20how%20to%20set%20up%20client%20folder%2C%20robert%20always%20does%20that%20on%20the%20server"/>
+<session type="stop" time="1187726803" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet"/>
+<session type="start" time="1231207462" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet"/>
+<message type="outgoing_privateMessage" time="1231207467" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet" from_display="b%2Ecullinan%40cox%2Enet" text="Are%20you%20on%20LinkedIn%3F"/>
+<session type="stop" time="1231209754" medium="MSN" to="alex%2Emarkov%40rp%2Ds%2Ecom" from="b%2Ecullinan%40cox%2Enet"/>

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6215247627089436672/",
+    "participants": [
+        {
+            "name": "Joe Michels",
+            "title": "Founder & CEO, Software Ops LLC",
+            "url": "linkedin.com/in/joe-michels-3245a04",
+            "phone": null,
+            "email": "joe@softwareops.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-15T19:35:00.000Z"
+        }
+    ]
+}

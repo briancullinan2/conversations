@@ -1,0 +1,541 @@
+[
+    {
+        "resourceName": "people/c3863140823866325090",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "359ca21c8bdcb862"
+                    }
+                },
+                "displayName": "Shane Faulkner",
+                "familyName": "Faulkner",
+                "givenName": "Shane",
+                "displayNameLastFirst": "Faulkner, Shane"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "104743462828458495313"
+                    }
+                },
+                "displayName": "Shane Faulkner",
+                "familyName": "Faulkner",
+                "givenName": "Shane",
+                "displayNameLastFirst": "Faulkner, Shane"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "359ca21c8bdcb862"
+                    }
+                },
+                "value": "9285256166",
+                "canonicalForm": "+19285256166",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "5 Mutual Connections",
+                "You and Shane both know Kelsi Kennedy, Shannon Grimes, and 3 others"
+            ],
+            [
+                "You both worked at Northern Arizona University",
+                "You both worked at Northern Arizona University from Feb 2009 to May 2009"
+            ],
+            [
+                "Show more",
+                "Show more highlights"
+            ],
+            [
+                "What is DevOps? Fox in the Henhouse...",
+                "Shane liked"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Lead System Engineer",
+                "Company Name",
+                "Cerner Corporation",
+                "Dates Employed",
+                "Oct 2017 – Present",
+                "Employment Duration",
+                "1 mo",
+                "Location",
+                "Kansas City, Missouri"
+            ],
+            [
+                "System Engineer",
+                "Company Name",
+                "Cerner Corporation",
+                "Dates Employed",
+                "Oct 2015 – Sep 2017",
+                "Employment Duration",
+                "2 yrs",
+                "Location",
+                "Kansas City, Missouri"
+            ],
+            [
+                "Business Process Specialist",
+                "Company Name",
+                "Cigna",
+                "Dates Employed",
+                "May 2014 – Oct 2015",
+                "Employment Duration",
+                "1 yr 6 mos",
+                "Location",
+                "Remotely in Flagstaff, AZ"
+            ],
+            [
+                "Senior Tech",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Feb 2009 – Dec 2013",
+                "Employment Duration",
+                "4 yrs 11 mos",
+                "Location",
+                "Student Technology Center at NAU",
+                "Provide technical software and hardware support to all students and faculty (15,000+) of Northern Arizona University in person, remotely and over the phone.Highlights: Diagnose and repair software, hardware and networking issues for students Developed software to activate Windows on machines with unreadable OEM stickers Train and provide technical and non-technical guidance for 40 Student Techs Formally document calls and technical work done through in-house ticket systems Administer student network access using the Network Access Control software Impusle SafeConnect"
+            ],
+            [
+                "System Administrator",
+                "Company Name",
+                "CruzerLite",
+                "Dates Employed",
+                "Feb 2012 – Feb 2013",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "Remotely in Flagstaff, AZ",
+                "Transferred the CruzerLite web store from an Amazon Web Stores to a Gentoo VPS running NGINX and maintained the server and Magento Commerce software."
+            ],
+            [
+                "Team Lead",
+                "Company Name",
+                "Jamba Juice",
+                "Dates Employed",
+                "May 2006 – Dec 2008",
+                "Employment Duration",
+                "2 yrs 8 mos",
+                "In charge of the store and employees during my shift.  Making sure the store was running smoothly and the customers were satisfied making sure no customer left unhappy."
+            ],
+            [
+                "Waiters Assistant",
+                "Company Name",
+                "Buca di Beppo",
+                "Dates Employed",
+                "Sep 2006 – Oct 2007",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Assisted the waters and waitresses with refilling drinks, running bread, cleaning tables, running places and food, cleaning and setting up the tables."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Computer Information Systems",
+                "Field Of Study",
+                "Business Administration",
+                "Dates attended or expected graduation",
+                "2008 – 2013",
+                "Activities and Societies:",
+                "CIS Club"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Computer Information Systems",
+                "Field Of Study",
+                "Business Administration",
+                "Dates attended or expected graduation",
+                "2008 – 2013",
+                "Activities and Societies:",
+                "CIS Club"
+            ],
+            [
+                "Centennial High School",
+                "Degree Name",
+                "Diploma",
+                "Field Of Study",
+                "General",
+                "Dates attended or expected graduation",
+                "2004 – 2008",
+                "Activities and Societies:",
+                "Key Club"
+            ],
+            [
+                "Centennial High School",
+                "Degree Name",
+                "Diploma",
+                "Field Of Study",
+                "General",
+                "Dates attended or expected graduation",
+                "2004 – 2008",
+                "Activities and Societies:",
+                "Key Club"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Android",
+                "32,739 members"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,809 followers"
+            ],
+            [
+                "Cerner Corporation",
+                "122,623 followers"
+            ],
+            [
+                "See connections (214)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Android",
+                "32,739 members"
+            ],
+            [
+                "Android",
+                "32,739 members"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,809 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,809 followers"
+            ],
+            [
+                "Cerner Corporation",
+                "122,623 followers"
+            ],
+            [
+                "Cerner Corporation",
+                "122,623 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Linux",
+                "See 18 endorsements for Linux",
+                "18",
+                "Linux",
+                "Remove Endorsement",
+                "Endorsed by 6 of Shane’s colleagues at Northern Arizona University"
+            ],
+            [
+                "Linux",
+                "See 18 endorsements for Linux",
+                "18"
+            ],
+            [
+                "Microsoft Office",
+                "See 14 endorsements for Microsoft Office",
+                "14",
+                "Microsoft Office",
+                "Endorse",
+                "Endorsed by 3 of Shane’s colleagues at Northern Arizona University"
+            ],
+            [
+                "Microsoft Office",
+                "See 14 endorsements for Microsoft Office",
+                "14"
+            ],
+            [
+                "Windows",
+                "See 13 endorsements for Windows",
+                "13",
+                "Windows",
+                "Endorse",
+                "Endorsed by Chase Keenan, who is highly skilled at this",
+                "Endorsed by 2 of Shane’s colleagues at Northern Arizona University"
+            ],
+            [
+                "Windows",
+                "See 13 endorsements for Windows",
+                "13"
+            ],
+            [
+                "CSS",
+                "See 11 endorsements for CSS",
+                "11",
+                "CSS",
+                "Endorse"
+            ],
+            [
+                "CSS",
+                "See 11 endorsements for CSS",
+                "11"
+            ],
+            [
+                "Microsoft Excel",
+                "See 11 endorsements for Microsoft Excel",
+                "11",
+                "Microsoft Excel",
+                "Endorse"
+            ],
+            [
+                "Microsoft Excel",
+                "See 11 endorsements for Microsoft Excel",
+                "11"
+            ],
+            [
+                "Customer Service",
+                "See 10 endorsements for Customer Service",
+                "10",
+                "Customer Service",
+                "Endorse"
+            ],
+            [
+                "Customer Service",
+                "See 10 endorsements for Customer Service",
+                "10"
+            ],
+            [
+                "PowerPoint",
+                "See 9 endorsements for PowerPoint",
+                "9",
+                "PowerPoint",
+                "Endorse"
+            ],
+            [
+                "PowerPoint",
+                "See 9 endorsements for PowerPoint",
+                "9"
+            ],
+            [
+                "Microsoft Word",
+                "See 8 endorsements for Microsoft Word",
+                "8",
+                "Microsoft Word",
+                "Endorse"
+            ],
+            [
+                "Microsoft Word",
+                "See 8 endorsements for Microsoft Word",
+                "8"
+            ],
+            [
+                "HTML",
+                "See 7 endorsements for HTML",
+                "7",
+                "HTML",
+                "Endorse"
+            ],
+            [
+                "HTML",
+                "See 7 endorsements for HTML",
+                "7"
+            ],
+            [
+                "Networking",
+                "See 7 endorsements for Networking",
+                "7",
+                "Networking",
+                "Endorse"
+            ],
+            [
+                "Networking",
+                "See 7 endorsements for Networking",
+                "7"
+            ],
+            [
+                "Time Management",
+                "See 6 endorsements for Time Management",
+                "6",
+                "Time Management",
+                "Endorse"
+            ],
+            [
+                "Time Management",
+                "See 6 endorsements for Time Management",
+                "6"
+            ],
+            [
+                "Technical Support",
+                "See 6 endorsements for Technical Support",
+                "6",
+                "Technical Support",
+                "Endorse"
+            ],
+            [
+                "Technical Support",
+                "See 6 endorsements for Technical Support",
+                "6"
+            ],
+            [
+                "jQuery",
+                "See 5 endorsements for jQuery",
+                "5",
+                "jQuery",
+                "Endorse"
+            ],
+            [
+                "jQuery",
+                "See 5 endorsements for jQuery",
+                "5"
+            ],
+            [
+                "Photoshop",
+                "See 5 endorsements for Photoshop",
+                "5",
+                "Photoshop",
+                "Endorse"
+            ],
+            [
+                "Photoshop",
+                "See 5 endorsements for Photoshop",
+                "5"
+            ],
+            [
+                "Team Leadership",
+                "See 5 endorsements for Team Leadership",
+                "5",
+                "Team Leadership",
+                "Endorse"
+            ],
+            [
+                "Team Leadership",
+                "See 5 endorsements for Team Leadership",
+                "5"
+            ],
+            [
+                "Access",
+                "See 5 endorsements for Access",
+                "5",
+                "Access",
+                "Endorse"
+            ],
+            [
+                "Access",
+                "See 5 endorsements for Access",
+                "5"
+            ],
+            [
+                "Social Networking",
+                "See 5 endorsements for Social Networking",
+                "5",
+                "Social Networking",
+                "Endorse"
+            ],
+            [
+                "Social Networking",
+                "See 5 endorsements for Social Networking",
+                "5"
+            ],
+            [
+                "Data Entry",
+                "See 4 endorsements for Data Entry",
+                "4",
+                "Data Entry",
+                "Endorse"
+            ],
+            [
+                "Data Entry",
+                "See 4 endorsements for Data Entry",
+                "4"
+            ],
+            [
+                "Outlook",
+                "See 4 endorsements for Outlook",
+                "4",
+                "Outlook",
+                "Endorse"
+            ],
+            [
+                "Outlook",
+                "See 4 endorsements for Outlook",
+                "4"
+            ],
+            [
+                "Social Media",
+                "See 2 endorsements for Social Media",
+                "2",
+                "Social Media",
+                "Endorse"
+            ],
+            [
+                "Social Media",
+                "See 2 endorsements for Social Media",
+                "2"
+            ],
+            [
+                "Microsoft PowerPoint",
+                "See 1 endorsement for Microsoft PowerPoint",
+                "1",
+                "Microsoft PowerPoint",
+                "Endorse"
+            ],
+            [
+                "Microsoft PowerPoint",
+                "See 1 endorsement for Microsoft PowerPoint",
+                "1"
+            ],
+            [
+                "Organization",
+                "See 3 endorsements for Organization",
+                "3",
+                "Organization",
+                "Endorse"
+            ],
+            [
+                "Organization",
+                "See 3 endorsements for Organization",
+                "3"
+            ]
+        ],
+        "summary": "  I am a well rounded individual who has a strong passion for technology.   Specialties: Linux, Windows, OS X, and Android\n  \n  \n",
+        "name": "Shane Faulkner",
+        "title": "Lead System Engineer at Cerner",
+        "url": "linkedin.com/in/faulknershane",
+        "phone": "1 (928) 525-6166 (Home)",
+        "email": "contact@shanefaulkner.com"
+    }
+]

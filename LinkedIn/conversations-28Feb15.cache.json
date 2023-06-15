@@ -1,0 +1,29 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "28Feb15",
+    "participants": "Lacey Dankovich | Co-Founder @ Hera > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Lacey Dankovich",
+        "url": "linkedin.com/in/laceydankovich",
+        "email": "lacey.dankovich@gmail.com",
+        "title": "Co-Founder @ Hera"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Passion trumps all and you've got it Brian\n\nWe can help w the $180k. Email me your resume. If you don't have one, lmk and I can use your LinkedIn profile \n\nSent from my iPhone",
+    "time": "2015-02-28T01:34:00.000Z",
+    "title": "Co-Founder @ Hera"
+  }
+]

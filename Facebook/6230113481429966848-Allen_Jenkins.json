@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6230113481429966848/",
+    "participants": [
+        {
+            "name": "Allen Jenkins",
+            "title": "Web Developer",
+            "url": "linkedin.com/in/allenrjenkins",
+            "phone": null,
+            "email": "allenrjenkins@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-25T20:06:00.000Z"
+        },
+        {
+            "from": "Allen Jenkins",
+            "message": "No problem. Thanks for the request!\n",
+            "time": "2018-01-25T20:11:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "What is DevOps?\n",
+            "time": "2018-01-25T20:29:00.000Z"
+        },
+        {
+            "from": "Allen Jenkins",
+            "message": "System administration and development pretty much. Theres a wide scope of things you're responsible for but depends on the company really. From specifications and processes of the project, to development, deployment, and maintaining systems that the applications run on\n",
+            "time": "2018-01-25T21:52:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Good answer. I use to just call that development but now there are all these buzz words hiring managers like to hear.\n",
+            "time": "2018-01-25T22:24:00.000Z"
+        }
+    ]
+}

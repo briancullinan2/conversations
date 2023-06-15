@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6323941908498513920/",
+    "participants": [
+        {
+            "name": "Patty Disch",
+            "title": "Sr. Recruiter at Island Staffing / Owner Recruitment Options, Inc.",
+            "url": "linkedin.com/in/patty-disch-2896832",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Patty Disch",
+            "message": "Principal Engineer (full Stack)\npdisch@islandstaffing.us",
+            "time": "2017-10-11T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "What company?",
+            "time": "2017-11-04T18:55:00.000Z"
+        },
+        {
+            "from": "Patty Disch",
+            "message": "imanage.com",
+            "time": "2017-11-04T19:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I am not a big fan of Java, but I understand how valuable a fresh perspective can be on a product like this.",
+            "time": "2017-11-04T19:56:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6222091096739110912/",
+    "participants": [
+        {
+            "name": "Ric Leutwyler",
+            "title": "Board Director at Orchard: Africa",
+            "url": "linkedin.com/in/ricleutwyler",
+            "phone": null,
+            "email": "ric.leutwyler@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-03T16:48:00.000Z"
+        },
+        {
+            "from": "Ric Leutwyler",
+            "message": "My pleasure. Happy New Year!\n",
+            "time": "2018-01-03T17:50:00.000Z"
+        }
+    ]
+}

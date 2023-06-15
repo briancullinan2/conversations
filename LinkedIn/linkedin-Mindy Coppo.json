@@ -1,0 +1,676 @@
+[
+    {
+        "resourceName": "people/c1527293636964184456",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw3VFNYUFdUV3BzQT0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "153209788af6f188"
+                    }
+                },
+                "displayName": "Mindy Coppo",
+                "familyName": "Coppo",
+                "givenName": "Mindy",
+                "displayNameLastFirst": "Coppo, Mindy"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "103952049332907678653"
+                    }
+                },
+                "displayName": "Mindy Coppo",
+                "familyName": "Coppo",
+                "givenName": "Mindy",
+                "displayNameLastFirst": "Coppo, Mindy"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "153209788af6f188"
+                    }
+                },
+                "value": "mindy@digit.co",
+                "type": "other",
+                "formattedType": "Other"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "103952049332907678653"
+                    }
+                },
+                "value": "Info@mindycoppo.com",
+                "type": "work",
+                "formattedType": "Work"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "153209788af6f188"
+                    }
+                },
+                "value": "415 889 7889",
+                "canonicalForm": "+14158897889",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Executive Assistant to CEO",
+                "Company Name",
+                "Digit.co",
+                "Dates Employed",
+                "Oct 2015 – Present",
+                "Employment Duration",
+                "2 yrs 1 mo",
+                "Location",
+                "San Francisco, CA"
+            ],
+            [
+                "Proprietor",
+                "Company Name",
+                "Mindy Coppo Photo",
+                "Dates Employed",
+                "2013 – Present",
+                "Employment Duration",
+                "4 yrs"
+            ],
+            [
+                "Project Manager",
+                "Company Name",
+                "Smart Sparrow",
+                "Dates Employed",
+                "Jul 2015 – Oct 2015",
+                "Employment Duration",
+                "4 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "Contracted July to October 2015"
+            ],
+            [
+                "Executive Assistant",
+                "Company Name",
+                "Jeffers Design Group",
+                "Dates Employed",
+                "Jul 2014 – Jun 2015",
+                "Employment Duration",
+                "1 yr",
+                "Location",
+                "San Francisco Bay Area"
+            ],
+            [
+                "Executive Assistant",
+                "Company Name",
+                "SEPHORA",
+                "Dates Employed",
+                "Aug 2013 – Oct 2013",
+                "Employment Duration",
+                "3 mos",
+                "Contracted. Providing administrative support to four executives in the Marketing department."
+            ],
+            [
+                "Senior Administrative Assistant",
+                "Company Name",
+                "JPMorgan",
+                "Dates Employed",
+                "Jan 2012 – May 2013",
+                "Employment Duration",
+                "1 yr 5 mos",
+                "Location",
+                "San Francisco, CA",
+                "Provides administrative support to top executives and bankers in the Middle Market Commercial Bank."
+            ],
+            [
+                "Executive Assistant & Property Manager",
+                "Company Name",
+                "City Center Realty Partners, LLC",
+                "Dates Employed",
+                "May 2010 – Jan 2012",
+                "Employment Duration",
+                "1 yr 9 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "Manage commercial buildings in the city of San Francisco. Workload includes but is not limited to budgeting, coordinating and overseeing retail build-outs, attending to tenant needs, due diligence, correspondence with legal team for building sale and acquisitions, creation of press releases, relationship management, vendor selection process."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Colorado State University",
+                "Degree Name",
+                "Bachelor of Science",
+                "Field Of Study",
+                "Restaurant & Resort Management",
+                "Dates attended or expected graduation",
+                "2002 – 2007"
+            ],
+            [
+                "Colorado State University",
+                "Degree Name",
+                "Bachelor of Science",
+                "Field Of Study",
+                "Restaurant & Resort Management",
+                "Dates attended or expected graduation",
+                "2002 – 2007"
+            ],
+            [
+                "Colorado State University",
+                "Degree Name",
+                "Bachelor of Arts",
+                "Field Of Study",
+                "Languages, Literatures, & Cultures - French",
+                "Dates attended or expected graduation",
+                "2002 – 2007"
+            ],
+            [
+                "Colorado State University",
+                "Degree Name",
+                "Bachelor of Arts",
+                "Field Of Study",
+                "Languages, Literatures, & Cultures - French",
+                "Dates attended or expected graduation",
+                "2002 – 2007"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Beach Cleanup",
+                "Company Name",
+                "Sea Scavenger Conservancy",
+                "Cause",
+                "Environment"
+            ],
+            [
+                "Beach Cleanup",
+                "Company Name",
+                "Sea Scavenger Conservancy",
+                "Cause",
+                "Environment"
+            ],
+            [
+                "Volunteer",
+                "Company Name",
+                "Friends of the Urban Forest",
+                "Cause",
+                "Environment"
+            ],
+            [
+                "Volunteer",
+                "Company Name",
+                "Friends of the Urban Forest",
+                "Cause",
+                "Environment"
+            ],
+            [
+                "Volunteer",
+                "Company Name",
+                "SF-Marin Food Bank"
+            ],
+            [
+                "Volunteer",
+                "Company Name",
+                "SF-Marin Food Bank"
+            ],
+            [
+                "Skills"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "SEPHORA",
+                "458,540 followers"
+            ],
+            [
+                "AngelList",
+                "17,762 followers"
+            ],
+            [
+                "Digit.co",
+                "1,239 followers"
+            ],
+            [
+                "Colorado State University",
+                "190,839 followers"
+            ],
+            [
+                "Professional Photographers of the Greater Bay Area Members (PPGBA)",
+                "72 members"
+            ],
+            [
+                "Earnest Inc.",
+                "3,958 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (468)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "SEPHORA",
+                "458,540 followers"
+            ],
+            [
+                "SEPHORA",
+                "458,540 followers"
+            ],
+            [
+                "AngelList",
+                "17,762 followers"
+            ],
+            [
+                "AngelList",
+                "17,762 followers"
+            ],
+            [
+                "Digit.co",
+                "1,239 followers"
+            ],
+            [
+                "Digit.co",
+                "1,239 followers"
+            ],
+            [
+                "Colorado State University",
+                "190,839 followers"
+            ],
+            [
+                "Colorado State University",
+                "190,839 followers"
+            ],
+            [
+                "Professional Photographers of the Greater Bay Area Members (PPGBA)",
+                "72 members"
+            ],
+            [
+                "Professional Photographers of the Greater Bay Area Members (PPGBA)",
+                "72 members"
+            ],
+            [
+                "Earnest Inc.",
+                "3,958 followers"
+            ],
+            [
+                "Earnest Inc.",
+                "3,958 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Elisabeth Novak",
+                "Relationship Manager at JPMorgan Chase (PMP)",
+                "July 8, 2014, Mindy worked with Elisabeth in the same group",
+                "Creativity lies at Mindy’s core.  She is also a dependable problem solver who adds a polished flair to every project.  Any team that Mindy is on can count on her to get the work done efficiently and with extreme attention to detail."
+            ],
+            [
+                "Elisabeth Novak",
+                "Relationship Manager at JPMorgan Chase (PMP)",
+                "July 8, 2014, Mindy worked with Elisabeth in the same group"
+            ],
+            [
+                "Elisabeth Novak",
+                "Relationship Manager at JPMorgan Chase (PMP)",
+                "July 8, 2014, Mindy worked with Elisabeth in the same group"
+            ],
+            [
+                "Elisabeth Novak",
+                "Relationship Manager at JPMorgan Chase (PMP)",
+                "July 8, 2014, Mindy worked with Elisabeth in the same group"
+            ],
+            "Relationship Manager at JPMorgan Chase (PMP)",
+            [
+                "Creativity lies at Mindy’s core.  She is also a dependable problem solver who adds a polished flair to every project.  Any team that Mindy is on can count on her to get the work done efficiently and with extreme attention to detail."
+            ],
+            [
+                "Creativity lies at Mindy’s core.  She is also a dependable problem solver who adds a polished flair to every project.  Any team that Mindy is on can count on her to get the work done efficiently and with extreme attention to detail."
+            ],
+            [
+                "Ashley Kidder",
+                "Wedding + Portrait Photographer",
+                "January 18, 2017, Mindy and Ashley were students together",
+                "Ashley has the most extensive Bangerz knowledge of anyone I know, and I have over 150 connections on LinkedIn. She curates Spotify playlists as fast as you can say the words \"electronic dance music\". She really delivers."
+            ],
+            [
+                "Ashley Kidder",
+                "Wedding + Portrait Photographer",
+                "January 18, 2017, Mindy and Ashley were students together"
+            ],
+            [
+                "Ashley Kidder",
+                "Wedding + Portrait Photographer",
+                "January 18, 2017, Mindy and Ashley were students together"
+            ],
+            [
+                "Ashley Kidder",
+                "Wedding + Portrait Photographer",
+                "January 18, 2017, Mindy and Ashley were students together"
+            ],
+            "Wedding + Portrait Photographer",
+            [
+                "Ashley has the most extensive Bangerz knowledge of anyone I know, and I have over 150 connections on LinkedIn. She curates Spotify playlists as fast as you can say the words \"electronic dance music\". She really delivers."
+            ],
+            [
+                "Ashley has the most extensive Bangerz knowledge of anyone I know, and I have over 150 connections on LinkedIn. She curates Spotify playlists as fast as you can say the words \"electronic dance music\". She really delivers."
+            ],
+            [
+                "Elisabeth Novak",
+                "Relationship Manager at JPMorgan Chase (PMP)",
+                "June 18, 2014, Elisabeth worked with Mindy in the same group",
+                "Elisabeth is a dedicated and highly-efficient worker who always puts others' needs before her own. She carries out every project whole-heartedly and with flare, and her wit and sense of humor bring light to every workday."
+            ],
+            [
+                "Elisabeth Novak",
+                "Relationship Manager at JPMorgan Chase (PMP)",
+                "June 18, 2014, Elisabeth worked with Mindy in the same group"
+            ],
+            [
+                "Elisabeth Novak",
+                "Relationship Manager at JPMorgan Chase (PMP)",
+                "June 18, 2014, Elisabeth worked with Mindy in the same group"
+            ],
+            [
+                "Elisabeth Novak",
+                "Relationship Manager at JPMorgan Chase (PMP)",
+                "June 18, 2014, Elisabeth worked with Mindy in the same group"
+            ],
+            "Relationship Manager at JPMorgan Chase (PMP)",
+            [
+                "Elisabeth is a dedicated and highly-efficient worker who always puts others' needs before her own. She carries out every project whole-heartedly and with flare, and her wit and sense of humor bring light to every workday."
+            ],
+            [
+                "Elisabeth is a dedicated and highly-efficient worker who always puts others' needs before her own. She carries out every project whole-heartedly and with flare, and her wit and sense of humor bring light to every workday."
+            ]
+        ],
+        "skills": [
+            [
+                "Photography",
+                "Photography"
+            ],
+            [
+                "Photography"
+            ],
+            [
+                "Event Planning",
+                "Event Planning"
+            ],
+            [
+                "Event Planning"
+            ],
+            [
+                "Administrative Assistants",
+                "Administrative Assistants"
+            ],
+            [
+                "Administrative Assistants"
+            ],
+            [
+                "Event Management",
+                "Event Management"
+            ],
+            [
+                "Event Management"
+            ],
+            [
+                "Social Media Marketing",
+                "Social Media Marketing"
+            ],
+            [
+                "Social Media Marketing"
+            ],
+            [
+                "Real Estate",
+                "Real Estate"
+            ],
+            [
+                "Real Estate"
+            ],
+            [
+                "Adobe Creative Suite",
+                "Adobe Creative Suite"
+            ],
+            [
+                "Adobe Creative Suite"
+            ],
+            [
+                "Illustrator",
+                "Illustrator"
+            ],
+            [
+                "Illustrator"
+            ],
+            [
+                "Microsoft Office",
+                "Microsoft Office"
+            ],
+            [
+                "Microsoft Office"
+            ],
+            [
+                "Photoshop",
+                "Photoshop"
+            ],
+            [
+                "Photoshop"
+            ],
+            [
+                "Google Docs",
+                "Google Docs"
+            ],
+            [
+                "Google Docs"
+            ],
+            [
+                "Marketing Support",
+                "Marketing Support"
+            ],
+            [
+                "Marketing Support"
+            ],
+            [
+                "Facebook",
+                "Facebook"
+            ],
+            [
+                "Facebook"
+            ],
+            [
+                "Blogging",
+                "Blogging"
+            ],
+            [
+                "Blogging"
+            ],
+            [
+                "Microsoft Excel",
+                "Microsoft Excel"
+            ],
+            [
+                "Microsoft Excel"
+            ],
+            [
+                "Public Relations",
+                "Public Relations"
+            ],
+            [
+                "Public Relations"
+            ],
+            [
+                "Writing",
+                "Writing"
+            ],
+            [
+                "Writing"
+            ],
+            [
+                "Research",
+                "Research"
+            ],
+            [
+                "Research"
+            ],
+            [
+                "Data Management",
+                "Data Management"
+            ],
+            [
+                "Data Management"
+            ],
+            [
+                "Scheduling",
+                "Scheduling"
+            ],
+            [
+                "Scheduling"
+            ],
+            [
+                "Presentation Preparation",
+                "Presentation Preparation"
+            ],
+            [
+                "Presentation Preparation"
+            ],
+            [
+                "PowerPoint",
+                "PowerPoint"
+            ],
+            [
+                "PowerPoint"
+            ],
+            [
+                "Excel",
+                "Excel"
+            ],
+            [
+                "Excel"
+            ],
+            [
+                "Word",
+                "Word"
+            ],
+            [
+                "Word"
+            ],
+            [
+                "Travel Planning",
+                "Travel Planning"
+            ],
+            [
+                "Travel Planning"
+            ],
+            [
+                "Project Management",
+                "Project Management"
+            ],
+            [
+                "Project Management"
+            ],
+            [
+                "Financial Reporting",
+                "Financial Reporting"
+            ],
+            [
+                "Financial Reporting"
+            ],
+            [
+                "Marketing",
+                "Marketing"
+            ],
+            [
+                "Marketing"
+            ],
+            [
+                "Social Networking",
+                "Social Networking"
+            ],
+            [
+                "Social Networking"
+            ],
+            [
+                "Outlook",
+                "Outlook"
+            ],
+            [
+                "Outlook"
+            ],
+            [
+                "WordPress",
+                "WordPress"
+            ],
+            [
+                "WordPress"
+            ],
+            [
+                "Social Media",
+                "Social Media"
+            ],
+            [
+                "Social Media"
+            ],
+            [
+                "CRM",
+                "CRM"
+            ],
+            [
+                "CRM"
+            ],
+            [
+                "Adobe Design Programs",
+                "Adobe Design Programs"
+            ],
+            [
+                "Adobe Design Programs"
+            ],
+            [
+                "Budgeting",
+                "Budgeting"
+            ],
+            [
+                "Budgeting"
+            ]
+        ],
+        "summary": "",
+        "name": "Mindy Coppo",
+        "title": "Digit",
+        "url": "linkedin.com/in/mindycoppo",
+        "phone": null,
+        "email": "mindycoppo@gmail.com"
+    }
+]

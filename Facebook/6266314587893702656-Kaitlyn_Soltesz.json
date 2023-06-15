@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6266314587893702656/",
+    "participants": [
+        {
+            "name": "Kaitlyn Soltesz",
+            "title": "Technical Recruiter at TEKsystems",
+            "url": "linkedin.com/in/kaitlyn-soltesz-82839a27",
+            "phone": "6025672391 (Work)",
+            "email": "ksoltesz@teksystems.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Kaitlyn Soltesz",
+            "time": "2017-05-05T12:00:00.000Z",
+            "message": "New Opportunity\n\nHi Brian, \n\nMy name is Kaitlyn and I am recruiter with TEKsystems here in Phoenix. I see on your profile that you listed that you would like to hear about new opportunities. I wanted to see if you could chat today so I could learn a little more about what you would be interested in and if it aligns with any positions I have currently or coming up. Let me know when would be a good time to connect.\n\nThanks!\n\nKaitlyn Soltesz\n6025672391 | ksoltesz@teksystems.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-05T20:41:00.000Z",
+            "message": "What company?\n"
+        },
+        {
+            "from": "Kaitlyn Soltesz",
+            "time": "2017-05-08T16:58:00.000Z",
+            "message": "I work with over 90 companies here is Phoenix and have 2 with immediate openings. Is there a time you can speak today and I can let you know?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-08T17:00:00.000Z",
+            "message": "2 immediate openings for which two companies?\n"
+        }
+    ]
+}

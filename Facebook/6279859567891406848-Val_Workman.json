@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6279859567891406848/",
+    "participants": [
+        {
+            "name": "Val Workman",
+            "title": "Consultant at pmNERDS",
+            "url": "linkedin.com/in/vworkman",
+            "phone": "(512) 201-2105 (Work)",
+            "email": "Valw@pmNerds.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-06-12T02:39:00.000Z",
+            "message": "What are you working on?\n"
+        }
+    ]
+}

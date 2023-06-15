@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6219974025624510465/",
+    "participants": [
+        {
+            "name": "Erica Felger",
+            "title": "--",
+            "url": "linkedin.com/in/erica-felger-2683b1b1",
+            "phone": null,
+            "email": "efelger@godaddy.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-28T20:36:00.000Z"
+        },
+        {
+            "from": "Erica Felger",
+            "message": "Sure thing! thanks for the invite to connect!\n",
+            "time": "2017-12-28T21:31:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6227185042494406656/",
+    "participants": [
+        {
+            "name": "Kim Larkin",
+            "title": "creative consultant, curator, connector, strategist, adventurer",
+            "url": "linkedin.com/in/kimlarkinconsulting",
+            "phone": null,
+            "email": "kimlarkin@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Kim Larkin",
+            "message": "Hi Brian,\n\nJust curious how you found me on LinkedIn. Glad to be connected!\n\nKim\n",
+            "time": "2018-01-17T18:10:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you for connecting! You showed up in my feed.\n",
+            "time": "2018-01-17T18:12:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Do you ever feel like a resume is too padded?\n",
+            "time": "2018-01-17T18:29:00.000Z"
+        }
+    ]
+}

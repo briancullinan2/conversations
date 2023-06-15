@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6238522857031290882/",
+    "participants": [
+        {
+            "name": "Jacob Feldman",
+            "title": "Founder and CTO at OpenRules, Inc.",
+            "url": "linkedin.com/in/jacobfeldmanopenrules",
+            "phone": null,
+            "email": "jacobfeldman@openrules.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-18T01:02:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

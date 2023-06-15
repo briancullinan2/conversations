@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6239582876027940864/",
+    "participants": [
+        {
+            "name": "Debbie Roches",
+            "title": "Randoloh College/Communications Operator Insurance Specialist",
+            "url": "linkedin.com/in/debbie-roches-075457116",
+            "phone": null,
+            "email": "dominicanbride1@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-20T23:14:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Debbie Roches",
+            "time": "2018-02-20T23:16:00.000Z",
+            "message": "Youre6most welcome\n"
+        },
+        {
+            "from": "Debbie Roches",
+            "time": "2018-02-20T23:16:00.000Z",
+            "message": "Sorry..you're\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-20T23:17:00.000Z",
+            "message": "Haha I got it ;)\n"
+        },
+        {
+            "from": "Debbie Roches",
+            "time": "2017-03-08T16:36:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-08T18:39:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "thread": "/messaging/thread/6219962575849873409/",
+    "participants": [
+        {
+            "name": "Stephanie Abrams",
+            "title": "Project Admin at The Judge Group",
+            "url": "linkedin.com/in/stephanie-abrams-8b371024",
+            "phone": null,
+            "email": "Stephe.abrams@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-28T19:50:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I filled out the automatic deposit form but I am still getting checks in the mail. Is there anything else I should do?\n",
+            "time": "2018-01-04T13:40:00.000Z"
+        },
+        {
+            "from": "Stephanie Abrams",
+            "message": "Hey Brian! I'll look into this and let you know!!!\n",
+            "time": "2018-01-04T14:02:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you ;)\n",
+            "time": "2018-01-04T14:19:00.000Z"
+        },
+        {
+            "from": "Stephanie Abrams",
+            "message": "It will be activated next week! they have to do testing on the bank account which is why it took a bit\n",
+            "time": "2018-01-04T14:20:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "OK sweet. Thank you :)\n",
+            "time": "2018-01-04T14:21:00.000Z"
+        },
+        {
+            "from": "Stephanie Abrams",
+            "message": "No prob!\n",
+            "time": "2018-01-04T14:21:00.000Z"
+        }
+    ]
+}

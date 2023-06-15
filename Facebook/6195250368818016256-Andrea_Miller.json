@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6195250368818016256/",
+    "participants": [
+        {
+            "name": "Andrea Miller",
+            "title": "Quality Assurance Director at Paragon Vision Sciences",
+            "url": "linkedin.com/in/andrea-miller-76ba2414",
+            "phone": "480-917-3213 (Home)",
+            "email": "millerdatk@q.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "How are you?",
+            "time": "2017-10-13T15:13:00.000Z"
+        },
+        {
+            "from": "Andrea Miller",
+            "message": "I am well, Brian.  Working hard as ever - but that isn't different :)  How are you?",
+            "time": "2017-10-13T12:14:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Got laid off and working harder than ever too.",
+            "time": "2017-10-13T12:14:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Congrats on your work anniversary!",
+            "time": "2017-09-07T23:28:00.000Z"
+        },
+        {
+            "from": "Andrea Miller",
+            "message": "Thanks",
+            "time": "2017-09-08T13:51:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,339 @@
+[
+    {
+        "resourceName": "people/c3614115029438168787",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMOE9lQWkrWkNjYms9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3227ea788b0ffed3"
+                    }
+                },
+                "displayName": "Nick Stelfox",
+                "familyName": "Stelfox",
+                "givenName": "Nick",
+                "displayNameLastFirst": "Stelfox, Nick"
+            },
+            {
+                "metadata": {
+                    "verified": true,
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "111183170412474603082"
+                    }
+                },
+                "displayName": "Carefree Outdoor Living",
+                "givenName": "Carefree Outdoor Living",
+                "displayNameLastFirst": "Carefree Outdoor Living"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3227ea788b0ffed3"
+                    }
+                },
+                "value": "(480) 295-1517",
+                "canonicalForm": "+14802951517",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            },
+            {
+                "metadata": {
+                    "verified": true,
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "111183170412474603082"
+                    }
+                },
+                "value": "(480) 575-3091",
+                "canonicalForm": "+14805753091",
+                "type": "home",
+                "formattedType": "Home"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "8 Mutual Connections",
+                "You and Nick both know Ed Nusbaum, Mark Goldstein, and 6 others"
+            ],
+            [
+                "Now this is an outdoor kitchen perfect for entertaining.",
+                "Nick liked"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Co-Owner",
+                "Company Name",
+                "Carefree Outdoor Living",
+                "Dates Employed",
+                "Dec 2011 – Present",
+                "Employment Duration",
+                "5 yrs 11 mos",
+                "Location",
+                "Carefree, AZ",
+                "Manage day to day operations, work closely with my network of builders, architects, and landscapers to facilitate projects, help in the design phase of outdoor living with homeowners."
+            ],
+            [
+                "Sales Associate",
+                "Company Name",
+                "Pella Windows and Doors",
+                "Dates Employed",
+                "Jan 2007 – Dec 2011",
+                "Employment Duration",
+                "5 yrs",
+                "Work closely with architects and builders in order to provide quality services and products."
+            ],
+            [
+                "Recruiter",
+                "Company Name",
+                "TEK Systems",
+                "Dates Employed",
+                "Jan 2006 – Dec 2006",
+                "Employment Duration",
+                "12 mos",
+                "Providing solutions and consulting opportunities for telecommunications and IT professionals."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Washburn University",
+                "Degree Name",
+                "BA",
+                "Field Of Study",
+                "Political Science",
+                "Dates attended or expected graduation",
+                "1999 – 2003",
+                "Activities and Societies:",
+                "Alpha Delta Fraternity, Debate Team, IFC, Interntional Politics Society."
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See 2 more skills"
+            ],
+            "Recommendations",
+            [
+                "Executive Suite",
+                "458,736 members"
+            ],
+            [
+                "Mark CubanMark Cuban is a LinkedIn Influencer",
+                "President",
+                "3,157,663 followers"
+            ],
+            [
+                "Washburn University Alumni",
+                "2,455 members"
+            ],
+            [
+                "Blue: The DallasBlue Business Network (25,000+ members)",
+                "50,083 members"
+            ],
+            [
+                "Jack WelchJack Welch is a LinkedIn Influencer",
+                "Executive Chairman, The Jack Welch Management Institute",
+                "6,080,443 followers"
+            ],
+            [
+                "Washburn University",
+                "22,636 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (443)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Executive Suite",
+                "458,736 members"
+            ],
+            [
+                "Executive Suite",
+                "458,736 members"
+            ],
+            [
+                "Mark CubanMark Cuban is a LinkedIn Influencer",
+                "President",
+                "3,157,663 followers"
+            ],
+            [
+                "Mark CubanMark Cuban is a LinkedIn Influencer",
+                "President",
+                "3,157,663 followers"
+            ],
+            [
+                "Mark Cuban is a LinkedIn Influencer"
+            ],
+            [
+                "Washburn University Alumni",
+                "2,455 members"
+            ],
+            [
+                "Washburn University Alumni",
+                "2,455 members"
+            ],
+            [
+                "Blue: The DallasBlue Business Network (25,000+ members)",
+                "50,083 members"
+            ],
+            [
+                "Blue: The DallasBlue Business Network (25,000+ members)",
+                "50,083 members"
+            ],
+            [
+                "Jack WelchJack Welch is a LinkedIn Influencer",
+                "Executive Chairman, The Jack Welch Management Institute",
+                "6,080,443 followers"
+            ],
+            [
+                "Jack WelchJack Welch is a LinkedIn Influencer",
+                "Executive Chairman, The Jack Welch Management Institute",
+                "6,080,443 followers"
+            ],
+            [
+                "Jack Welch is a LinkedIn Influencer"
+            ],
+            [
+                "Washburn University",
+                "22,636 followers"
+            ],
+            [
+                "Washburn University",
+                "22,636 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Mark Hamade",
+                "Private Equity Partner. Morbidly obese lower 1% to top 99% brave in my thinking daring in my actions. Profit through good work, Planet, and Women Entrepreneurs.",
+                "July 21, 2009, Nick worked with Mark but at different companies",
+                "Mark is a constant professional and a brilliant strategist. I would highly recommend Mark to aid in any company or organizations growth. His insight and direction are spot on."
+            ],
+            [
+                "Mark Hamade",
+                "Private Equity Partner. Morbidly obese lower 1% to top 99% brave in my thinking daring in my actions. Profit through good work, Planet, and Women Entrepreneurs.",
+                "July 21, 2009, Nick worked with Mark but at different companies"
+            ],
+            [
+                "Mark Hamade",
+                "Private Equity Partner. Morbidly obese lower 1% to top 99% brave in my thinking daring in my actions. Profit through good work, Planet, and Women Entrepreneurs.",
+                "July 21, 2009, Nick worked with Mark but at different companies"
+            ],
+            [
+                "Mark Hamade",
+                "Private Equity Partner. Morbidly obese lower 1% to top 99% brave in my thinking daring in my actions. Profit through good work, Planet, and Women Entrepreneurs.",
+                "July 21, 2009, Nick worked with Mark but at different companies"
+            ],
+            "Private Equity Partner. Morbidly obese lower 1% to top 99% brave in my thinking daring in my actions. Profit through good work, Planet, and Women Entrepreneurs.",
+            [
+                "Mark is a constant professional and a brilliant strategist. I would highly recommend Mark to aid in any company or organizations growth. His insight and direction are spot on."
+            ],
+            [
+                "Mark is a constant professional and a brilliant strategist. I would highly recommend Mark to aid in any company or organizations growth. His insight and direction are spot on."
+            ],
+            [
+                "Matt Smith",
+                "Manager, IT Client Operations at Intellectual Ventures",
+                "February 28, 2009, Nick worked with Matt in different groups",
+                "It was a pleasure working with Matt at Pella. He was always very professional and able to get the toughest problems solved in the quickest manner. I would highly recommend Matt for any project!"
+            ],
+            [
+                "Matt Smith",
+                "Manager, IT Client Operations at Intellectual Ventures",
+                "February 28, 2009, Nick worked with Matt in different groups"
+            ],
+            [
+                "Matt Smith",
+                "Manager, IT Client Operations at Intellectual Ventures",
+                "February 28, 2009, Nick worked with Matt in different groups"
+            ],
+            [
+                "Matt Smith",
+                "Manager, IT Client Operations at Intellectual Ventures",
+                "February 28, 2009, Nick worked with Matt in different groups"
+            ],
+            "Manager, IT Client Operations at Intellectual Ventures",
+            [
+                "It was a pleasure working with Matt at Pella. He was always very professional and able to get the toughest problems solved in the quickest manner. I would highly recommend Matt for any project!"
+            ],
+            [
+                "It was a pleasure working with Matt at Pella. He was always very professional and able to get the toughest problems solved in the quickest manner. I would highly recommend Matt for any project!"
+            ]
+        ],
+        "skills": [
+            [
+                "Start-ups",
+                "See 20 endorsements for Start-ups",
+                "20",
+                "Start-ups",
+                "Endorse",
+                "Endorsed by Mark Hamade and 1 other who is highly skilled at this",
+                "Endorsed by Douglas Teitel (mutual connection)"
+            ],
+            [
+                "Start-ups",
+                "See 20 endorsements for Start-ups",
+                "20"
+            ],
+            [
+                "Strategic Planning",
+                "See 13 endorsements for Strategic Planning",
+                "13",
+                "Strategic Planning",
+                "Endorse",
+                "Endorsed by Douglas Teitel (mutual connection)"
+            ],
+            [
+                "Strategic Planning",
+                "See 13 endorsements for Strategic Planning",
+                "13"
+            ],
+            [
+                "Telecommunications",
+                "See 10 endorsements for Telecommunications",
+                "10",
+                "Telecommunications",
+                "Endorse",
+                "Mark Hamade and 9 connections have given endorsements for this skill"
+            ],
+            [
+                "Telecommunications",
+                "See 10 endorsements for Telecommunications",
+                "10"
+            ]
+        ],
+        "summary": "  Working to build connections and relationships with builders and architects and to provide quality service and consultation. Specialties: Telecommunications, ITO Advisory, Start Ups\n  \n  \n",
+        "name": "Nick Stelfox",
+        "title": "Co-Owner at Carefree Outdoor Living",
+        "url": "linkedin.com/in/nick-stelfox-466170",
+        "phone": "",
+        "email": "nstelfox@gmail.com"
+    }
+]

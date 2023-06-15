@@ -1,0 +1,508 @@
+<session type="Start" time="1204443837" medium="JABBER" from="bjcullinan@gmail.com" to="joeedh@gmail.com"/>
+<session type="start" time="1204443837" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1204443837" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="joeedh" text="hi%2E"/>
+<message type="incoming_privateMessage" time="1204444123" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="joeedh" text="did%20dave%20get%20home%20allright%3F"/>
+<status type="away" time="1204445646" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204445841" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204445896" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204446077" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204446078" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1204447310" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="Yes"/>
+<session type="stop" time="1204447320" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1204447335" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1204447335" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="joeedh" text="cool"/>
+<message type="outgoing_privateMessage" time="1204447347" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="how%20do%20you%20spell%20your%20last%20name%3F"/>
+<message type="incoming_privateMessage" time="1204447359" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="joeedh" text="eagar"/>
+<message type="incoming_privateMessage" time="1204447374" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="joeedh" text="I%20believe%20it%20derives%20from%20edgar%2E"/>
+<session type="stop" time="1204447375" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1204508535" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1204508535" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<message type="outgoing_privateMessage" time="1204508540" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="high"/>
+<message type="incoming_privateMessage" time="1204508580" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="lol%2E%20%20so%2C%20what%20happened%20with%20dave%3F"/>
+<message type="outgoing_privateMessage" time="1204508608" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="we%20found%20him%20laying%20down%20outside%20the%20condo%20in%20a%20pile%20of%20snow"/>
+<message type="incoming_privateMessage" time="1204508615" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="yeek%2E"/>
+<message type="outgoing_privateMessage" time="1204508622" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="meh"/>
+<message type="incoming_privateMessage" time="1204508625" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="so%20he%20was%20trying%20to%20walk%20home%3F"/>
+<message type="outgoing_privateMessage" time="1204508626" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="he%20walked%20home"/>
+<message type="outgoing_privateMessage" time="1204508644" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20think%20he%20got%20tired%20of%20people%20making%20fun%20of%20him%20being%20drunk"/>
+<message type="incoming_privateMessage" time="1204508707" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="I%20wouldn%27t%20have%20thought%20he%27d%20really%20notice%2C%20in%20his%20state%20%3A%29"/>
+<message type="incoming_privateMessage" time="1204508806" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="anyway%2E%20%20how%27s%20your%20game%20going%3F"/>
+<message type="outgoing_privateMessage" time="1204508830" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="pretty%20excellent"/>
+<message type="outgoing_privateMessage" time="1204508836" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="abe%20just%20fixed%20some%20bug%20for%20me"/>
+<message type="incoming_privateMessage" time="1204508851" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="the%20mouse%20bug%3F"/>
+<message type="outgoing_privateMessage" time="1204508855" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="nope"/>
+<message type="outgoing_privateMessage" time="1204508859" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="not%20that%20one%20yet"/>
+<message type="incoming_privateMessage" time="1204508874" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="ah%20%3A%28%20which%20bug%20was%20it%3F"/>
+<message type="outgoing_privateMessage" time="1204508885" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="some%20bitreader%20bugs"/>
+<message type="incoming_privateMessage" time="1204508946" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="ah%20ok"/>
+<message type="incoming_privateMessage" time="1204509010" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="did%20you%20try%20that%20glcore%20I%20sent%20you%3F"/>
+<message type="outgoing_privateMessage" time="1204509152" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="yes%20but%20my%20gl%20drivers%20are%20crap%20on%20my%20laptop%20too%20so%20it%20stopped%20lagging%20but%20it%20still%20sucked"/>
+<message type="incoming_privateMessage" time="1204509188" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="eek"/>
+<session type="stop" time="1204509223" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1204509527" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1204509527" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="this%20is%20interesting%2E%20%20I%20think%20mouse%20move%20events%20are%20being%20sent%20every%20tick%2C%20regardless%20if%20the%20mouse%20cursor%20has%20changed%2E"/>
+<message type="incoming_privateMessage" time="1204509560" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="never%20mind"/>
+<message type="incoming_privateMessage" time="1204509566" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="I%20think%20abe%20fixed%20that%20recently"/>
+<message type="incoming_privateMessage" time="1204509888" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hrm%2E%20%20should%27ve%20read%20the%20code%20%2Aafter%2A%20updating%20svn%2C%20not%20before%20%3A%29"/>
+<session type="stop" time="1204510105" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1204510245" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1204510245" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="do%20you%20have%20mouse%20lag%20problems%20on%20any%20other%20game%20on%20your%20laptop%3F"/>
+<status type="away" time="1204510249" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1204510251" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="no"/>
+<status type="online" time="1204510264" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1204510265" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="ok%2C%20then%20it%20likely%20isn%27t%20a%20graphics%20card%20driver%20problem"/>
+<status type="away" time="1204510311" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204510613" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204510613" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204516137" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204516145" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="information_standard" time="1204516846" medium="JABBER" text="Joe%20Eagar%20%26lt%3Bjoeedh%40gmail%2Ecom%2Fgmail%2E61261A87%3E%20signed%20off%20at%20Sun%20Mar%2002%2021%3A00%3A46%202008%2E"/>
+<status type="Offline" time="1204516846" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="information_standard" time="1204519480" medium="JABBER" text="Joe%20Eagar%20went%20away%20at%20Sun%20Mar%2002%2021%3A44%3A40%202008%2E"/>
+<status type="away" time="1204519480" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204519482" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204520390" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204521706" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204522692" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204522973" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204524986" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="information_standard" time="1204554053" medium="JABBER" text="Joe%20Eagar%20%26lt%3Bjoeedh%40gmail%2Ecom%2Fgmail%2E61261A87%3E%20signed%20off%20at%20Mon%20Mar%2003%2007%3A20%3A53%202008%2E"/>
+<status type="Offline" time="1204554053" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="information_standard" time="1204554150" medium="JABBER" text="Joe%20Eagar%20went%20away%20at%20Mon%20Mar%2003%2007%3A22%3A30%202008%2E"/>
+<status type="away" time="1204554150" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204554152" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="information_standard" time="1204554353" medium="JABBER" text="Joe%20Eagar%20%26lt%3Bjoeedh%40gmail%2Ecom%2Fgmail%2E61261A87%3E%20signed%20off%20at%20Mon%20Mar%2003%2007%3A25%3A53%202008%2E"/>
+<status type="Offline" time="1204554353" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="information_standard" time="1204554367" medium="JABBER" text="Joe%20Eagar%20went%20away%20at%20Mon%20Mar%2003%2007%3A26%3A07%202008%2E"/>
+<status type="away" time="1204554367" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204554367" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204555035" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204576887" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204577796" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204593963" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204594881" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204595829" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204596796" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="information_standard" time="1204600838" medium="JABBER" text="Disconnected%20from%20server%2E"/>
+<status type="Offline" time="1204600838" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204603160" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204605319" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204610707" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204612935" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204614850" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204615821" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204649333" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204650226" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204650361" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204651401" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204653373" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204653643" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204654545" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204655697" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204663071" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204664757" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204665461" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204665664" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204665689" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204666334" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204666503" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204667420" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204667425" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204668387" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204670589" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204671975" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204672397" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204673320" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204673436" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204675101" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204707841" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="Offline" time="1204707906" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204784111" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204784111" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204785118" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="Offline" time="1204792568" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204792604" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="Offline" time="1204793274" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204795683" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204795686" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204798315" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204805223" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204806146" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204848958" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204849858" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1204854399" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1204855384" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="start" time="1205347477" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1205347480" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="I%20need%20help"/>
+<status type="online" time="1205348972" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1205349146" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1205357090" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1205357098" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="So%20i%20got%20the%20rotation%20working"/>
+<message type="outgoing_privateMessage" time="1205357103" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="it%20is%20pretty%20sweet"/>
+<session type="stop" time="1205357432" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1205359031" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1205359031" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="%3Ca%20href%3D%22http%3A%2F%2Fwww%2Ecodepaster%2Ecom%2Fcode%2Ephp%3Fcode%3D4790%22%3Ehttp%3A%2F%2Fwww%2Ecodepaster%2Ecom%2Fcode%2Ephp%3Fcode%3D4790%3C%2Fa%3E"/>
+<status type="away" time="1205359930" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1205360034" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1206865760" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1206865765" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="how%20are%20you%20feeling%20joe%3F"/>
+<status type="online" time="1206865778" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1206865793" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="fine%2E%20%20slept%20till%20around%209%2E%20%3A%29"/>
+<message type="incoming_privateMessage" time="1206865802" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="you%3F"/>
+<message type="outgoing_privateMessage" time="1206865828" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20slept%20until%208"/>
+<message type="outgoing_privateMessage" time="1206865835" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="then%20had%20some%20cake%20and%20kept%20drinking"/>
+<message type="outgoing_privateMessage" time="1206865844" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="pretty%20awesome%20time"/>
+<message type="outgoing_privateMessage" time="1206865863" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="too%20bad%20there%20were%20no%20girls%20making%20out%20in%20the%20bathtub%20this%20time"/>
+<message type="incoming_privateMessage" time="1206865871" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="yeah%2E%20%20I%20wanted%20to%20see%20that%20%3B%29"/>
+<message type="outgoing_privateMessage" time="1206865889" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="maybe%20next%20time"/>
+<message type="incoming_privateMessage" time="1206865927" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="yeah"/>
+<message type="incoming_privateMessage" time="1206865980" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="just%20so%20long%20as%20they%20do%20it%20after%20BSG"/>
+<message type="incoming_privateMessage" time="1206865991" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="%3B%29"/>
+<message type="outgoing_privateMessage" time="1206866022" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="yeah"/>
+<session type="stop" time="1206866744" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1208223052" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1208223052" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi%2E"/>
+<status type="Offline" time="1208223312" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1208223331" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1208223331" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="Offline" time="1208223339" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1208223354" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1208223354" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1208226575" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1208226614" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1208227738" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1208249818" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1208267474" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1208267474" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<message type="incoming_privateMessage" time="1208267525" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="being%20rick%20rolled%20is%20cool%21"/>
+<status type="away" time="1208267873" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1208267886" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1208268389" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1208269588" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1208269718" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1208269719" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1208270018" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1208270030" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1208270613" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1208273377" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1208274276" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1208276487" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="information_standard" time="1208278314" medium="JABBER" text="Disconnected%20from%20server%2E"/>
+<status type="Offline" time="1208278314" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1208278335" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1208283685" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="information_standard" time="1208284164" medium="JABBER" text="Disconnected%20from%20server%2E"/>
+<status type="Offline" time="1208284164" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1208292025" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1208669521" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1208669529" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="Did%20you%20have%20a%20good%20time%20at%20the%20party%3F"/>
+<session type="stop" time="1208670324" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1208674631" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1208674631" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="yeah%20it%20was%20fun%2E"/>
+<message type="outgoing_privateMessage" time="1208674667" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20am%20glad%20you%20enjoyed%20it"/>
+<message type="incoming_privateMessage" time="1208674684" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="heh%20that%20one%20girl%20who%20got%20really%20drunk%20was%20hilarious"/>
+<message type="outgoing_privateMessage" time="1208674809" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="which%20girl%21%3F"/>
+<message type="incoming_privateMessage" time="1208674822" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="eh%20the%20short%20one%20in%20the%20pink%20%28not%20travis%27s%20sister%2C%20her%20friend%29%2E"/>
+<message type="outgoing_privateMessage" time="1208674847" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="lol%20oh%20yeah"/>
+<message type="outgoing_privateMessage" time="1208674849" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="totally"/>
+<message type="incoming_privateMessage" time="1208674895" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="yeah%20she%20totally%20got%20lesbian%2Dcurious%20when%20she%20got%20drunk%2E"/>
+<message type="outgoing_privateMessage" time="1208674907" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="lol"/>
+<message type="outgoing_privateMessage" time="1208674923" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="did%20she%20kiss%20travis%27%20sister%3F"/>
+<message type="incoming_privateMessage" time="1208674947" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="no%2C%20she%20decided%20not%20to%20since%20jessica%20has%20a%20girlfriend"/>
+<message type="incoming_privateMessage" time="1208674954" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="she%20wanted%20to%20though%20%3A%29"/>
+<message type="outgoing_privateMessage" time="1208674973" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="l"/>
+<message type="outgoing_privateMessage" time="1208674975" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="lol"/>
+<message type="outgoing_privateMessage" time="1208674976" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="amazing"/>
+<message type="incoming_privateMessage" time="1208675018" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="yeah%20it%20was"/>
+<session type="stop" time="1208675657" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1208677098" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1208677107" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="hey%20did%20you%20make%20a%20comment%20then%20remove%20it%3F"/>
+<status type="online" time="1208677113" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1208677114" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1208677115" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1208677115" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="no%2E"/>
+<message type="incoming_privateMessage" time="1208677119" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="on%20the%20group%20page%3F"/>
+<message type="outgoing_privateMessage" time="1208677123" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="yeah"/>
+<message type="outgoing_privateMessage" time="1208677138" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20keep%20getting%20e%2Dmails%20but%20when%20i%20open%20it%2C%20it%20doesn%27t%20show%20the%20new%20stuff"/>
+<message type="outgoing_privateMessage" time="1208677145" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="send%20me%20a%20link%20to%20where%20you%20made%20a%20comment"/>
+<message type="incoming_privateMessage" time="1208677154" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="ok"/>
+<message type="incoming_privateMessage" time="1208677216" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="I%20commented%20on%20%3Ca%20href%3D%22http%3A%2F%2Fwww%2Efacebook%2Ecom%2Fphoto%2Ephp%3Fpid%3D32462235%26id%3D27705471%26ref%3Dnf%22%3Ehttp%3A%2F%2Fwww%2Efacebook%2Ecom%2Fphoto%2Ephp%3Fpid%3D32462235%26amp%3Bid%3D27705471%26amp%3Bref%3Dnf%3C%2Fa%3E%20and%20yes%20it%27s%20disappeared%2E%20%20yeek%20that%27s%20a%20horrible%20picture%2E%20%20lol%20it%27s%20funny%20though%2E"/>
+<message type="incoming_privateMessage" time="1208677223" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="the%20comment%20vanished%20I%20mean"/>
+<message type="outgoing_privateMessage" time="1208677249" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="what%20the%20hell%20is%20going%20on%3F"/>
+<message type="outgoing_privateMessage" time="1208677256" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20got%20a%20message%20and%20another%20comment%20too"/>
+<message type="outgoing_privateMessage" time="1208677262" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="both%20of%20them%20disappeared"/>
+<message type="incoming_privateMessage" time="1208677296" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="yeek%2E%20%20stupid%20facebook%2E"/>
+<status type="away" time="1208677414" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1208677475" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1208677475" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="ok%20I%20just%20tried%20adding%20another%20comment%20to%20that%20picture"/>
+<message type="incoming_privateMessage" time="1208677489" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="%2E%20%2E%20%2Eand%20it%27s%20vanished%20too"/>
+<message type="incoming_privateMessage" time="1208677532" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hrm%2C%20I%20vaguely%20remember%20firefox%203%20changed%20their%20XMLHttpObject%20implementation%20%28e%2Eg%2E%20ajax%29%20to%20be%20more%20security%2Dfriendly%2E%20%20maybe%20that%27s%20screwing%20with%20facebook%2E"/>
+<message type="incoming_privateMessage" time="1208677618" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="ok%20I%20tried%20it%20in%20IE%206%20and%20it%20didn%27t%20work%20either"/>
+<message type="outgoing_privateMessage" time="1208677647" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="hmmmm"/>
+<status type="away" time="1208677713" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1208677817" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20keep%20getting%20the%20e%2Dmail%20but%20no%20comment"/>
+<status type="online" time="1208677930" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1208677936" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="yeah%20it%27s%20weird%20%3A%2F"/>
+<session type="stop" time="1208677984" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1209446130" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1209446136" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="want%20some%20whiskey%3F"/>
+<session type="stop" time="1209446141" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1209446177" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1209446177" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="not%2E%20%2E%20%2Eyet%2E%20%2E%20%2E"/>
+<status type="away" time="1209447348" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1209448208" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1210294202" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1210294202" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<message type="information_standard" time="1210294825" medium="JABBER" text="Disconnected%20from%20server%2E"/>
+<status type="Offline" time="1210294825" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1210294832" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1210295934" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1210296381" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1210296628" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1210296645" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1210297324" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1210298282" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1210379099" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1210379099" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<message type="outgoing_privateMessage" time="1210379137" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="hi"/>
+<message type="outgoing_privateMessage" time="1210379140" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="what%3F"/>
+<message type="incoming_privateMessage" time="1210379201" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="just%20wondering%20what%27s%20up%2E%20%20ha%21%20I%20know%21%20the%20semster%20is%20over%21%20wahoo%21%20yay%21%21%21%21"/>
+<message type="outgoing_privateMessage" time="1210379291" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="yeah%20i%20am%20worn%20out"/>
+<message type="incoming_privateMessage" time="1210379300" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="me%20too%2E%20%20not%20as%20much%20of%20course%20though%2E"/>
+<message type="incoming_privateMessage" time="1210379487" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="so%2E%20%20no%20bsg%20party%20tonight%3F%20ah%2E%20%20guess%20I%27ll%20just%20have%20to%20do%20without%20the%20big%20projector%20screen%20%3A%29"/>
+<message type="outgoing_privateMessage" time="1210380088" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="yeah%2C%20i%20am%20just%20going%20to%20crash"/>
+<message type="incoming_privateMessage" time="1210380096" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="that%27s%20a%20good%20idea"/>
+<status type="Offline" time="1210380624" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="information_standard" time="1210380633" medium="JABBER" text="Joe%20Eagar%20went%20away%20at%20Fri%20May%2009%2017%3A50%3A33%202008%2E"/>
+<status type="away" time="1210380633" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1210380634" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="information_standard" time="1210380664" medium="JABBER" text="Joe%20Eagar%20%26lt%3Bjoeedh%40gmail%2Ecom%2Fgmail%2EC87CD080%3E%20signed%20off%20at%20Fri%20May%2009%2017%3A51%3A04%202008%2E"/>
+<status type="Offline" time="1210380664" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="information_standard" time="1210380675" medium="JABBER" text="Joe%20Eagar%20went%20away%20at%20Fri%20May%2009%2017%3A51%3A15%202008%2E"/>
+<status type="away" time="1210380675" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1210380676" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1210382477" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1210399647" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1210399647" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi%2C%20watched%20bsg%20yet%3F"/>
+<status type="Offline" time="1210401391" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1210401396" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1210401397" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="Offline" time="1210401582" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1210401647" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1210401648" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1210401726" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1210401761" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="yeah"/>
+<message type="outgoing_privateMessage" time="1210401788" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="it%20was%20good"/>
+<message type="outgoing_privateMessage" time="1210401794" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20watched%20it%20with%20Crystal"/>
+<message type="outgoing_privateMessage" time="1210401843" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="but%20I%20should%20get%20back%20to%20her%2C%20she%20is%20pretty%20demanding%20in%20bed"/>
+<session type="stop" time="1210403645" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1210452785" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1210452785" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="lol"/>
+<session type="stop" time="1210453685" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1210566038" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1210566038" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<status type="away" time="1210574844" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1210576820" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1210905088" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1210905088" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<message type="outgoing_privateMessage" time="1210905098" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="hi"/>
+<message type="incoming_privateMessage" time="1210905105" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="do%20you%20read%20slashdot%3F"/>
+<message type="outgoing_privateMessage" time="1210905175" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20do"/>
+<message type="outgoing_privateMessage" time="1210905190" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="usually%2C%20not%20everyday%20now%20that%20i%20have%20personal%20projects%20to%20work%20on"/>
+<message type="incoming_privateMessage" time="1210905281" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="ah%20ok%2E%20%20well%20a%20story%20about%20blender%20showed%20up%20there%2E%20%20couple%20days%20ago%20our%20BDFL%20%28ton%20roosendaal%29%20emailed%20the%20blender%20dev%20mailling%20list%20asking%20for%20advice%20on%20an%20email%20for%20microsoft%2E%20%20someone%20from%20groklow%20got%20a%20hold%20of%20it%2C%20and%20now%20it%27s%20sparked%20this%20big%20annoying%20controversy%2E"/>
+<message type="incoming_privateMessage" time="1210905315" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="since%20%22of%20course%20MS%20has%20some%20vast%20plan%20to%20totally%20destroy%20blender%22%2E%20it%27s%20ridiculous%2E"/>
+<message type="outgoing_privateMessage" time="1210905637" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="oh"/>
+<message type="outgoing_privateMessage" time="1210905639" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="cool"/>
+<status type="away" time="1210906051" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1210906077" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1210906077" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="ah%2E"/>
+<message type="incoming_privateMessage" time="1210906080" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="ok%2E"/>
+<session type="stop" time="1210906213" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1211003057" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1211003057" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi%2E%20%20was%20there%20a%20bsg%20party%20tonight%3F"/>
+<message type="outgoing_privateMessage" time="1211003189" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="no"/>
+<session type="stop" time="1211003191" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1211003238" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1211003238" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="oh%20ok%2E"/>
+<session type="stop" time="1211003243" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1211488867" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1211488867" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<message type="outgoing_privateMessage" time="1211489230" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="hi"/>
+<session type="stop" time="1211489232" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1211489249" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1211489250" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="what%27s%20up%3F%20anything%20interesting%20happening%3F"/>
+<message type="outgoing_privateMessage" time="1211489262" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="nope%2C%20just%20in%20phoenix"/>
+<message type="incoming_privateMessage" time="1211489276" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="cool%2E"/>
+<message type="incoming_privateMessage" time="1211489294" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="started%20your%20slag%20gui%20stuff%20yet%3F"/>
+<message type="outgoing_privateMessage" time="1211489319" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="haven%27t%20talked%20to%20Abe"/>
+<message type="incoming_privateMessage" time="1211489353" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="oh%20ok%2E"/>
+<session type="stop" time="1211489563" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1211489572" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1211489572" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="man%20I%27m%20bored%2E"/>
+<message type="outgoing_privateMessage" time="1211489589" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="start%20on%20the%20GUI%20plugin%3F"/>
+<message type="incoming_privateMessage" time="1211489621" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="wait%2E%20%20you%20don%27t%20want%20to%20do%20it%3F"/>
+<message type="outgoing_privateMessage" time="1211489640" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20am%20kind%20of%20kicked%20out%20of%20Game%20club%2E"/>
+<message type="outgoing_privateMessage" time="1211489648" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="so%20i%20can%27t%20really%20talk%20to%20Abe%20about%20it"/>
+<message type="incoming_privateMessage" time="1211489659" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="oh%2E%20%20yeek%2E"/>
+<message type="outgoing_privateMessage" time="1211489663" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20think%20my%20own%20project%20is%20going%20to%20take%20longer%20anyways"/>
+<message type="incoming_privateMessage" time="1211489681" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="what%20happened%3F"/>
+<message type="incoming_privateMessage" time="1211489729" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="I%20didn%27t%20even%20know%20game%20club%20had%20restarted%20yet%2E%20%2E%20%2E"/>
+<message type="outgoing_privateMessage" time="1211489766" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="yup"/>
+<message type="incoming_privateMessage" time="1211489988" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="well%2E%20%20I%20admit%20I%27m%20not%20keen%20on%20writing%20another%20gui%20lib%2C%20especially%20since%20the%20one%20I%20have%20%28it%27s%20in%20python%29%20needs%20work%20%3A%2F"/>
+<session type="stop" time="1211490126" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1212023717" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1212023717" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<message type="outgoing_privateMessage" time="1212023723" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="hi"/>
+<message type="incoming_privateMessage" time="1212023745" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="so%2C%20what%27s%20up%3F%20still%20in%20erm%20was%20it%20phoenix%3F"/>
+<message type="outgoing_privateMessage" time="1212023824" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="no%2C%20back%20in%20flagstaff"/>
+<message type="incoming_privateMessage" time="1212023831" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="cool%2E"/>
+<message type="incoming_privateMessage" time="1212023883" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="anything%20interesting%20happening%3F"/>
+<message type="outgoing_privateMessage" time="1212023895" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="no"/>
+<message type="incoming_privateMessage" time="1212023921" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="ah%2E%20%20%3A%28%20%20me%20too%2E%20%20so%20boring%2E"/>
+<message type="incoming_privateMessage" time="1212023957" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="ooh%20I%20made%20this%20quick%20little%20animation%20thing%20today%3A%20%3Ca%20href%3D%22http%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fwatch%3Fv%3DykKhTI7wmlA%22%3Ehttp%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fwatch%3Fv%3DykKhTI7wmlA%3C%2Fa%3E"/>
+<message type="outgoing_privateMessage" time="1212024010" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="cool"/>
+<status type="away" time="1212024843" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1212025812" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1212124036" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1212124036" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<status type="Offline" time="1212125498" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1212125506" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1212125506" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1212126194" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1212126758" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1212206305" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1212206305" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<session type="stop" time="1212206309" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1212800220" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1212800220" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<message type="outgoing_privateMessage" time="1212800227" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="hi"/>
+<message type="incoming_privateMessage" time="1212800245" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="what%27s%20up%3F"/>
+<message type="outgoing_privateMessage" time="1212800267" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="busy%20with%20my%20site"/>
+<message type="incoming_privateMessage" time="1212800276" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="cool%2E%20%20the%20media%20server%20one%3F"/>
+<message type="outgoing_privateMessage" time="1212800411" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="yeah"/>
+<message type="incoming_privateMessage" time="1212800431" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="cool%2E"/>
+<message type="incoming_privateMessage" time="1212800524" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="sounds%20fun%2E"/>
+<status type="Offline" time="1212800650" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="information_standard" time="1212800675" medium="JABBER" text="Joe%20Eagar%20went%20away%20at%20Fri%20Jun%2006%2018%3A04%3A35%202008%2E"/>
+<status type="away" time="1212800675" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1212800676" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1212800697" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1213405508" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1213405508" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<session type="stop" time="1213405871" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1213409353" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1213409353" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<status type="away" time="1213411303" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1213412082" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1213412684" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1216166986" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1216166986" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<status type="away" time="1216168006" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1216168162" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1216917313" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1216917313" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<status type="away" time="1216918219" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<message type="information_standard" time="1216919815" medium="JABBER" text="Disconnected%20from%20server%2E"/>
+<status type="Offline" time="1216919815" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1216925484" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1216925720" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1216926373" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1217026980" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1217026980" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<message type="outgoing_privateMessage" time="1217026986" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="hi"/>
+<session type="stop" time="1217026987" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1217027013" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1217027014" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="what%27s%20up%3F%20I%20hear%20your%20back%20in%20town%2E"/>
+<message type="outgoing_privateMessage" time="1217027023" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="yeah%20just%20working%20on%20my%20site"/>
+<message type="outgoing_privateMessage" time="1217027026" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="very%20busy"/>
+<message type="incoming_privateMessage" time="1217027046" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="ah%20ok%20cool%2E"/>
+<message type="incoming_privateMessage" time="1217027158" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="%2E%20%2E%20%2Eis%20that%20an%20away%20message%20bot%3F"/>
+<message type="outgoing_privateMessage" time="1217027315" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20wish"/>
+<message type="incoming_privateMessage" time="1217027449" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="lol%2C%20well%20looks%20like%20your%20busy%20guess%20I%27ll%20ttyl"/>
+<message type="information_standard" time="1217027475" medium="JABBER" text="Joe%20Eagar%20%26lt%3Bjoeedh%40gmail%2Ecom%2Fgmail%2E5C724EF2%3E%20signed%20off%20at%20Fri%20Jul%2025%2016%3A11%3A15%202008%2E"/>
+<session type="stop" time="1217027479" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1217042155" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1217042155" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi%20again%2E%20%20ugh%2C%20know%20if%20anything%27s%20interesting%20happening%20tonight%3F"/>
+<status type="away" time="1217044519" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1217044827" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1217046958" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="Offline" time="1217049546" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1217065401" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1217374437" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1217374437" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<status type="Offline" time="1217374999" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1217375041" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1217375058" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1217384496" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1217384496" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<status type="away" time="1217385770" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1217385946" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1223414980" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1223414980" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<session type="stop" time="1223414987" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1223770199" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1223770199" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<message type="outgoing_privateMessage" time="1223770448" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="hi%3F"/>
+<session type="stop" time="1223770562" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1226640069" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1226640069" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<status type="away" time="1226641372" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1226643153" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="Offline" time="1226644635" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1226646894" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1226647024" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1226647871" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1226647974" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1228535017" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1228535017" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<status type="away" time="1228536290" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="Offline" time="1228537229" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1228548654" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1229491418" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1229491419" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="what%27d%20up%3F"/>
+<status type="Offline" time="1229493842" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1229496207" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1229498056" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1229498661" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1229499560" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1229501657" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1229502557" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1229502645" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="away" time="1229503623" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1229504105" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1237482687" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1237482687" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<message type="incoming_privateMessage" time="1237482831" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="so%2E%20%2E%20%2Ewhat%27s%20with%20the%20empty%20email%20that%20says%20%22thanks%2C%20alexander%20baron%22%20three%20times%3F%20%3A%29%20is%20there%20supposed%20to%20be%20an%20attachment%3F"/>
+<message type="incoming_privateMessage" time="1237483418" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="oh%20crap"/>
+<message type="incoming_privateMessage" time="1237483427" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="um%20wrong%20person"/>
+<message type="outgoing_privateMessage" time="1237487141" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="wow%20that%20wasn%27t%20retarded"/>
+<session type="stop" time="1237487143" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1237487179" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1237487179" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="lol"/>
+<message type="incoming_privateMessage" time="1237487189" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="yeah%20I%20clicked%20on%20the%20wrong%20person%27s%20name%2C%20heh"/>
+<message type="outgoing_privateMessage" time="1237487194" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="j%2Fk%20man%2C%20whats%20been%20up%3F"/>
+<message type="incoming_privateMessage" time="1237487216" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="not%20much%2E%20%20%20anything%20exciting%20happening%20in%20flagstaff%3F"/>
+<message type="outgoing_privateMessage" time="1237487312" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="nope"/>
+<message type="incoming_privateMessage" time="1237487337" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="ah%20%3A%28"/>
+<message type="incoming_privateMessage" time="1237487358" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="heard%20winter%20there%20was%20extreme"/>
+<message type="outgoing_privateMessage" time="1237488686" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="yeah%2C%20it%20was%20pretty%20fun"/>
+<message type="incoming_privateMessage" time="1237488751" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="I%20heard%20some%20buildings%20caved%20in"/>
+<session type="stop" time="1237488983" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1241322464" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1241322464" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<message type="outgoing_privateMessage" time="1241322502" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="hi"/>
+<message type="incoming_privateMessage" time="1241322562" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="so%2C%20what%27s%20up%20in%20flagstaff%3F"/>
+<message type="outgoing_privateMessage" time="1241322646" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="not%20much"/>
+<message type="incoming_privateMessage" time="1241322706" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="I%20hear%20lots%20of%20people%20are%20graduating%20soon%2E"/>
+<message type="outgoing_privateMessage" time="1241322751" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="yup"/>
+<message type="incoming_privateMessage" time="1241322840" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="awesome%2E%20%20so%20you%20and%2C%20um%20dave%20mcarther%2Fsmith%20and%20leah%20and%20richard%20are%20graduating%3F%20or%20do%20I%20have%20it%20totally%20wrong%2E"/>
+<message type="outgoing_privateMessage" time="1241323154" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20am%20not"/>
+<message type="outgoing_privateMessage" time="1241323157" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="leah%20is%20not"/>
+<message type="incoming_privateMessage" time="1241323229" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="oh%2E%20%20I%20thought%20she%20was%2E%20%20heh%2E"/>
+<message type="information_standard" time="1241325282" medium="JABBER" text="Disconnected%20from%20server%2E"/>
+<status type="Offline" time="1241325282" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<status type="online" time="1241325296" medium="JABBER" from="joeedh%40gmail%2Ecom"/>
+<session type="stop" time="1241327084" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1245272791" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1245272791" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="joeedh%40gmail%2Ecom" from_display="Joe%20Eagar" text="hi"/>
+<session type="stop" time="1245272915" medium="JABBER" to="joeedh%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>

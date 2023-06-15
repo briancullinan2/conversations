@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6215243956800806912/",
+    "participants": [
+        {
+            "name": "Matthew Benzel",
+            "title": "Chief Information Officer at ONOSYS",
+            "url": "linkedin.com/in/matthewbenzel",
+            "phone": null,
+            "email": "mbenzel@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-15T19:20:00.000Z"
+        }
+    ]
+}

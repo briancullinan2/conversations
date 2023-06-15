@@ -1,0 +1,67 @@
+{
+    "thread": "https://www.facebook.com/messages/t/rohwedernt",
+    "participants": [
+        {
+            "name": "Nate Rohweder",
+            "description": "Quality Assurance Engineer at NoveList",
+            "url": "Lives in Durham, North Carolina"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Brian",
+            "time": "2018-01-18T23:18:00.000Z",
+            "message": "Brian\nHello.  How's work/life?\n"
+        },
+        {
+            "from": "Nate",
+            "time": "2018-01-19T13:20:00.000Z",
+            "message": "\nHey, work and life are great. Still doing QA as far as work goes, learning swift at night right now. Sami(who you need to meet at some point) and I have 2 dogs now which is a whole thing but wonderful. We are moving across town next month so we're looking at places right now. I'm playing in a band in Raleigh with some friends which is fun. Anyway definitely staying busy. How's stuff on your end?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-19T13:20:00.000Z",
+            "message": "Brian\nGood. Swift is fun. The testing suite has some bugs though. Took a job at Charles Schwab. Working on a side project sosmethod.herokuapp.com\nThe SOS Method | MEDITATION RE-INVENTED\nSOS is a mindfulness meditation method that helps you embrace a healthy lifestyle; emotionally, physically, and mentally. It gives you rapid and direct access to an inspired mind, renewed hope, and optimum potential. That’s why we say it’s the easiest, most effective thing you can do each day to fin...\nsosmethod.herokuapp.com\n"
+        },
+        {
+            "from": "Nate",
+            "time": "2018-01-19T15:07:00.000Z",
+            "message": "\nVery cool, I'll have to look into that further. How are you liking Charles Schwab? What are you working on there?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-19T15:07:00.000Z",
+            "message": "Brian\nAccess management for internal support. It is really boring. Corporate world moves a lot slower. People don't understand the purpose of educating others. I've heard \"I don't want to distract people\" from managers, as if they have the right to decide what is a distraction for me and I can't make that decision on my own. Fucking retarded.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-20T16:39:00.000Z",
+            "message": "Brian\nAre you using swifts internal test suite or selenium or something else?\nSikuli is cross platform too.\nI am writing a bot to fill out my time sheet from one source that has to match 2 other sources.\nI have to record my time log in 3 places.\n"
+        },
+        {
+            "from": "Nate",
+            "time": "2018-01-21T00:01:00.000Z",
+            "message": "\nUnreal how silly things get in the world of big corporations but clearly your head is in the right place\nI use selenium about 30 hrs a week at work\nBut with c#\nHaven't done anything with sikuli\nAre you doing that in swift?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-21T00:01:00.000Z",
+            "message": "Brian\nSikuli can do OS automation. So you could write a selenium script that makes a call to the sikuli web service that starts the iOS test script to interact in between selenium commands.\n"
+        },
+        {
+            "from": "Nate",
+            "time": "2018-01-21T00:01:00.000Z",
+            "message": "\nOh sweet\nI'm gonna have to dive in deeper on that\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2018-01-21T00:01:00.000Z",
+            "message": "Brian\nYeah end to end integration testing. I am writing robots in selenium to automate checking accounts so I don't need an app for everything.\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2017-04-29T16:54:00.000Z",
+            "message": "Brian\nhttps://www.youtube.com/watch?v=721BGx9jyJU\n\nA Tour of Artificial Intelligence and Its Limitations by Aneesh Karve\nWant to learn Python Fundamentals for Data Scientists? 💻 🔬 Use discount code \"youtube\" at checkout [ https://intro2python4-18-17.eventbrite.com ] ~ For other...\nyoutube.com\n\n\n"
+        }
+    ]
+}

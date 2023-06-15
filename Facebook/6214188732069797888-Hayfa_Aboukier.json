@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6214188732069797888/",
+    "participants": [
+        {
+            "name": "Hayfa Aboukier",
+            "title": "Business Operations & Strategic Partnerships",
+            "url": "linkedin.com/in/hayfa-aboukier-292b1330",
+            "phone": "",
+            "email": "habouki2@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-12-12T21:27:00.000Z"
+        },
+        {
+            "from": "Hayfa Aboukier",
+            "message": "Thanks for reaching out! \nHayfa",
+            "time": "2017-12-15T23:34:00.000Z"
+        }
+    ]
+}

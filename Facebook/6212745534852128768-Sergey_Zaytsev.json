@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6212745534852128768/",
+    "participants": [
+        {
+            "name": "Sergey Zaytsev",
+            "title": "CEO at zQuant - Targeting 300% annual return",
+            "url": "linkedin.com/in/zquant",
+            "phone": null,
+            "email": "me@serg.me"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-08T21:52:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6223155908239728640/",
+    "participants": [
+        {
+            "name": "Tony Feng",
+            "title": "Engineering Manager in Test at Blackboard",
+            "url": "linkedin.com/in/tony-feng-5342276a",
+            "phone": null,
+            "email": "tony.w.feng@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-06T15:19:00.000Z"
+        }
+    ]
+}

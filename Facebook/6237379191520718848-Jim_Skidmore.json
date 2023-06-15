@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6237379191520718848/",
+    "participants": [
+        {
+            "name": "Jim Skidmore",
+            "title": "Web/Mobile Project Manager at Charles Schwab, Inc",
+            "url": "linkedin.com/in/jim-skidmore-13212a",
+            "phone": null,
+            "email": "Jim.Skidmore@schwab.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-14T21:18:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

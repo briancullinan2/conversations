@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6214223642251837440/",
+    "participants": [
+        {
+            "name": "Marty Kacin",
+            "title": "Founder",
+            "url": "linkedin.com/in/martykacin",
+            "phone": null,
+            "email": "marty@larcnetworks.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-12T23:46:00.000Z"
+        }
+    ]
+}

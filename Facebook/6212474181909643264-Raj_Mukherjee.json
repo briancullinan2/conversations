@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6212474181909643264/",
+    "participants": [
+        {
+            "name": "Raj Mukherjee",
+            "title": "Technology Executive - helping people get their dream job",
+            "url": "linkedin.com/in/rajatism",
+            "phone": null,
+            "email": "mrajatish@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-08T03:54:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "You're a genius :D\n",
+            "time": "2017-12-08T04:47:00.000Z"
+        }
+    ]
+}

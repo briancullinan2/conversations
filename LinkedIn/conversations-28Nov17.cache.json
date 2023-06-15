@@ -1,0 +1,108 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "28Nov17",
+    "participants": "Brian Cullinan | wizard > David McArthur | Consulting Member of Technical Staff at Oracle - Bare Metal Cloud",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "David McArthur",
+        "url": "linkedin.com/in/david-mcarthur-1652906",
+        "email": "David.Mcarthur@gmail.com",
+        "title": "Consulting Member of Technical Staff at Oracle - Bare Metal Cloud"
+      }
+    ],
+    "message": "Have you tried Windows 10?\nhttps://linux.slashdot.org/story/16/11/28/1533211/microsoft-exec-urges-linux-developers-to-try-windows-10",
+    "time": "2017-11-28T23:50:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "28Nov17",
+    "participants": "Brian Cullinan | wizard > Jeremiah Anderson | Hiring kick ass people that love helping our customers succeed!",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Jeremiah Anderson",
+        "url": "linkedin.com/in/jeremiah-anderson-a126326",
+        "title": "Hiring kick ass people that love helping our customers succeed!"
+      }
+    ],
+    "message": "I'd certainly love to come meet more of your team!",
+    "time": "2017-11-28T18:45:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "28Nov17",
+    "participants": "Jeremiah Anderson | Hiring kick ass people that love helping our customers succeed! > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Jeremiah Anderson",
+        "url": "linkedin.com/in/jeremiah-anderson-a126326",
+        "title": "Hiring kick ass people that love helping our customers succeed!"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Thanks for the reply! Do you have time to chat this week via phone?",
+    "time": "2017-11-28T20:53:00.000Z",
+    "title": "Hiring kick ass people that love helping our customers succeed!"
+  },
+  {
+    "type": "conversations",
+    "conversations": "28Nov17",
+    "participants": "Brian Cullinan | wizard > J.R. Jasperson | Chief Architect at SendGrid",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "J.R. Jasperson",
+        "url": "linkedin.com/in/jrjasperson",
+        "email": "jasperson@gmail.com",
+        "title": "Chief Architect at SendGrid"
+      }
+    ],
+    "message": "Congratulations! You must be a genius ;D",
+    "time": "2017-11-28T15:31:00.000Z",
+    "title": "wizard"
+  }
+]

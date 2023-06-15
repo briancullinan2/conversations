@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6217385274092109824/",
+    "participants": [
+        {
+            "name": "Saja Alkhatib",
+            "title": "Account Manager at Tech One",
+            "url": "linkedin.com/in/saja-alkhatib",
+            "phone": "(480) 719 7209 (Work)",
+            "email": "saja@techoneit.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-21T17:09:00.000Z"
+        }
+    ]
+}

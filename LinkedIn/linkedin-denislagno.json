@@ -1,0 +1,323 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "2 Mutual Connections",
+                "You and Denis both know Aaron Boushley and Davis Zanot"
+            ],
+            [
+                "Denis can introduce you to 13 people at Amazon Web Services",
+                "Denis worked at Amazon Web Services"
+            ],
+            [
+                "Show more highlights"
+            ],
+            [
+                "How To Spot The One Employee Who Should Never Work At Your Company",
+                "Denis liked"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Sr. Software Engineer",
+                "Company Name",
+                "Axon",
+                "Dates Employed",
+                "Jul 2016 – Present",
+                "Employment Duration",
+                "1 yr 5 mos",
+                "Location",
+                "Greater Seattle Area",
+                "Development of services behind evidence.com"
+            ],
+            [
+                "Staff Engineer",
+                "Company Name",
+                "Context Relevant",
+                "Dates Employed",
+                "Jun 2015 – Jan 2016",
+                "Employment Duration",
+                "8 mos",
+                "Location",
+                "Greater Seattle Area"
+            ],
+            [
+                "software development engineer",
+                "Company Name",
+                "Amazon Web Services",
+                "Dates Employed",
+                "Dec 2012 – Jun 2015",
+                "Employment Duration",
+                "2 yrs 7 mos",
+                "Location",
+                "Greater Seattle Area",
+                "Storage layer for Aurora database service.Environment: C++11, Linux."
+            ],
+            [
+                "Software Development Engineer",
+                "Company Name",
+                "Microsoft",
+                "Dates Employed",
+                "Nov 2011 – Dec 2012",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "Greater Seattle Area",
+                "Domains Relevance Team;\tMaintenance and implementation of new features for Commerce Answer Service and for some web application (judgement pipeline).\tWriting Scope scripts to analyze perf counters and QPS capacity.\tDesign and implementation of Visual AWK -- simple tool that allows to constructtransformations, apply them to datasets and interactively visualize results.Environment: C++, Qt framework, Scope query language, C#, SQL, some bizarrebranch of Perforce."
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "Google",
+                "Dates Employed",
+                "Jul 2010 – Nov 2011",
+                "Employment Duration",
+                "1 yr 5 mos",
+                "Location",
+                "Moscow, Russian Federation",
+                "Committer of Chromium project (dilmah@chromium.org)Developed several incarnations of websocket-to-TCP/SSL proxy: starting from standalone libevent-based server followed by tighter integration into chrome.Contributions in areas of ChromeOS login UI, internationalization, security enforcement.Environment: C++, libevent, shell/AWK, Python, JavaScript, websockets, Linux, git-svn."
+            ],
+            [
+                "Software Developer",
+                "Company Name",
+                "InfoWatch",
+                "Dates Employed",
+                "Oct 2009 – Jul 2010",
+                "Employment Duration",
+                "10 mos",
+                "Location",
+                "Moscow, Russian Federation",
+                "Development of new generation of Traffic Monitor product.Bugfix/maintenance of inflection automaton for Russian language.Fast text categorization library implemented and integrated into Traffic Monitor.Added support for German morphology, compounds.Developed some serialization-related subsystem.Environment: C++, shell/AWK, Perl, libxml, XSLT, gtest, Linux, SVN."
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "nVidia",
+                "Dates Employed",
+                "Jun 2007 – Sep 2009",
+                "Employment Duration",
+                "2 yrs 4 mos",
+                "Location",
+                "Moscow, Russian Federation",
+                "GeForce Experience project.Design and implementation of scalable highly-available expert system server. It provides optimal playable settings and other updates for GeForce users.My area of responsibility included mapping of client data into server response. Design of  domain specific language for rulesets.Design and implementation of optimizing compiler of rulesets (kind of AWK on steroids).Devised and implemented methods for selecting configs to perform OPS search andverification to maximize coverage given distribution of clients.Analysis of benchmarks' results to enable us to compare performance across differentCPU microarchs.Devised and implemented method to determine minimal specification for a game.Environment: Perl, C, Perl Inline::C, POSIX shell/AWK, XPath, XSLT, FastCGI,Schematron, GraphViz, Linux, Perforce. Global Testing Lab.Fixed performance/stability issues and revived LogProxy: hierarchy of serversaggregating, dispensing and searching logs.  Server-side was mostly rewritten from Perlto Perl Inline::C to get rid of CPU boundedness.Maintaining my toolchain inherited from previous project.Environment: C, Perl, Perl Inline::C, FastCGI, Linux, vserver, Perforce."
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "SWsoft",
+                "Dates Employed",
+                "May 2006 – Jun 2007",
+                "Employment Duration",
+                "1 yr 2 mos"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "TLM Com.",
+                "Dates Employed",
+                "Oct 2005 – Feb 2006",
+                "Employment Duration",
+                "5 mos"
+            ],
+            [
+                "Software Designer",
+                "Company Name",
+                "Mera Networks",
+                "Dates Employed",
+                "Dec 2004 – Sep 2005",
+                "Employment Duration",
+                "10 mos"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Lomonosov Moscow State University (MSU)",
+                "Degree Name",
+                "M.S.",
+                "Field Of Study",
+                "mathematics, higher algebra",
+                "Dates attended or expected graduation",
+                "1994 – 2002"
+            ],
+            [
+                "Lomonosov Moscow State University (MSU)",
+                "Degree Name",
+                "M.S.",
+                "Field Of Study",
+                "mathematics, higher algebra",
+                "Dates attended or expected graduation",
+                "1994 – 2002"
+            ],
+            [
+                "Taurida 'V. I. Vernadskiy' National University, Simferopol",
+                "Degree Name",
+                "drop out",
+                "Field Of Study",
+                "Applied Mathematics",
+                "Dates attended or expected graduation",
+                "1992 – 1994"
+            ],
+            [
+                "Taurida 'V. I. Vernadskiy' National University, Simferopol",
+                "Degree Name",
+                "drop out",
+                "Field Of Study",
+                "Applied Mathematics",
+                "Dates attended or expected graduation",
+                "1992 – 1994"
+            ],
+            "Recommendations",
+            [
+                "Richard BransonRichard Branson is a LinkedIn Influencer",
+                "Founder at Virgin Group",
+                "13,261,629 followers"
+            ],
+            [
+                "Entrepreneur Media",
+                "1,719,969 followers"
+            ],
+            [
+                "Harvard Business Review",
+                "4,766,609 followers"
+            ],
+            [
+                "Taurida 'V. I. Vernadskiy' National University, Simferopol",
+                "1,780 followers"
+            ],
+            [
+                "Gary VaynerchukGary Vaynerchuk is a LinkedIn Influencer",
+                "Chairman of VaynerX, CEO of VaynerMedia, 4-Time NYT Bestselling Author",
+                "1,446,206 followers"
+            ],
+            [
+                "Bill GatesBill Gates is a LinkedIn Influencer",
+                "Co-chair, Bill & Melinda Gates Foundation",
+                "12,002,131 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (255)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Richard BransonRichard Branson is a LinkedIn Influencer",
+                "Founder at Virgin Group",
+                "13,261,629 followers"
+            ],
+            [
+                "Richard BransonRichard Branson is a LinkedIn Influencer",
+                "Founder at Virgin Group",
+                "13,261,629 followers"
+            ],
+            [
+                "Richard Branson is a LinkedIn Influencer"
+            ],
+            [
+                "Entrepreneur Media",
+                "1,719,969 followers"
+            ],
+            [
+                "Entrepreneur Media",
+                "1,719,969 followers"
+            ],
+            [
+                "Harvard Business Review",
+                "4,766,609 followers"
+            ],
+            [
+                "Harvard Business Review",
+                "4,766,609 followers"
+            ],
+            [
+                "Taurida 'V. I. Vernadskiy' National University, Simferopol",
+                "1,780 followers"
+            ],
+            [
+                "Taurida 'V. I. Vernadskiy' National University, Simferopol",
+                "1,780 followers"
+            ],
+            [
+                "Gary VaynerchukGary Vaynerchuk is a LinkedIn Influencer",
+                "Chairman of VaynerX, CEO of VaynerMedia, 4-Time NYT Bestselling Author",
+                "1,446,206 followers"
+            ],
+            [
+                "Gary VaynerchukGary Vaynerchuk is a LinkedIn Influencer",
+                "Chairman of VaynerX, CEO of VaynerMedia, 4-Time NYT Bestselling Author",
+                "1,446,206 followers"
+            ],
+            [
+                "Gary Vaynerchuk is a LinkedIn Influencer"
+            ],
+            [
+                "Bill GatesBill Gates is a LinkedIn Influencer",
+                "Co-chair, Bill & Melinda Gates Foundation",
+                "12,002,131 followers"
+            ],
+            [
+                "Bill GatesBill Gates is a LinkedIn Influencer",
+                "Co-chair, Bill & Melinda Gates Foundation",
+                "12,002,131 followers"
+            ],
+            [
+                "Bill Gates is a LinkedIn Influencer"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Abby Villahermosa",
+                "Talent Acquisition @ SM Diversity | Let's talk about opportunities!  CURRENTLY HIRING FOR MULTIPLE ROLES!",
+                "July 25, 2016, Denis was a client of Abby’s",
+                "Frankly my past attempts to work with third party recruiters were futile.My experience working with Abby and SM Diversity turned out to be strikingly different.In spite of my case being quite complicated (my far-from-fluent English, my lack of US citizenship) Abby (together with other members of SM Diversity team) has driven the case towards my employment with Taser/Axon. I'm quite happy with the outcome of our cooperation."
+            ],
+            [
+                "Abby Villahermosa",
+                "Talent Acquisition @ SM Diversity | Let's talk about opportunities!  CURRENTLY HIRING FOR MULTIPLE ROLES!",
+                "July 25, 2016, Denis was a client of Abby’s"
+            ],
+            [
+                "Abby Villahermosa",
+                "Talent Acquisition @ SM Diversity | Let's talk about opportunities!  CURRENTLY HIRING FOR MULTIPLE ROLES!",
+                "July 25, 2016, Denis was a client of Abby’s"
+            ],
+            [
+                "Abby Villahermosa",
+                "Talent Acquisition @ SM Diversity | Let's talk about opportunities!  CURRENTLY HIRING FOR MULTIPLE ROLES!",
+                "July 25, 2016, Denis was a client of Abby’s"
+            ],
+            "Talent Acquisition @ SM Diversity | Let's talk about opportunities!  CURRENTLY HIRING FOR MULTIPLE ROLES!",
+            [
+                "Frankly my past attempts to work with third party recruiters were futile.My experience working with Abby and SM Diversity turned out to be strikingly different.In spite of my case being quite complicated (my far-from-fluent English, my lack of US citizenship) Abby (together with other members of SM Diversity team) has driven the case towards my employment with Taser/Axon. I'm quite happy with the outcome of our cooperation."
+            ],
+            [
+                "Frankly my past attempts to work with third party recruiters were futile.My experience working with Abby and SM Diversity turned out to be strikingly different.In spite of my case being quite complicated (my far-from-fluent English, my lack of US citizenship) Abby (together with other members of SM Diversity team) has driven the case towards my employment with Taser/Axon. I'm quite happy with the outcome of our cooperation."
+            ]
+        ],
+        "skills": [],
+        "summary": "  Seasoned software engineer with math upbringing and primary experience in C/C++, POSIX/UNIX shell scripting, distributed and concurrent systems, cloud computing and more.\n  \n  \n",
+        "name": "Denis Lagno",
+        "title": "Software Engineer",
+        "url": "linkedin.com/in/denislagno",
+        "phone": "+14254458747 (Mobile)",
+        "email": "den.lagno@gmail.com"
+    }
+]

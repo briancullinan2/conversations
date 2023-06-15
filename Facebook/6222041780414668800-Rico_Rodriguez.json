@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6222041780414668800/",
+    "participants": [
+        {
+            "name": "Rico Rodriguez",
+            "title": "CEO | IOS Application Architect | Software Consultant",
+            "url": "linkedin.com/in/rodriguezrico",
+            "phone": "4806503690 (Mobile)",
+            "email": "rico@builderux.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-03T13:32:00.000Z"
+        }
+    ]
+}

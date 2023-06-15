@@ -1,0 +1,277 @@
+[
+    {
+        "resourceName": "people/c3868415385111888400",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "35af5f4c09400210"
+                    }
+                },
+                "displayName": "David McArthur",
+                "familyName": "McArthur",
+                "givenName": "David",
+                "displayNameLastFirst": "McArthur, David"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "101988166387122831798"
+                    }
+                },
+                "displayName": "David McArthur",
+                "familyName": "McArthur",
+                "givenName": "David",
+                "displayNameLastFirst": "McArthur, David"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "35af5f4c09400210"
+                    }
+                },
+                "value": "david.mcarthur@gmail.com",
+                "type": "other",
+                "formattedType": "Other"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "35af5f4c09400210"
+                    }
+                },
+                "value": "anti_milestone@hotmail.com",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "35af5f4c09400210"
+                    }
+                },
+                "value": "+1-928-530-7844",
+                "canonicalForm": "+19285307844",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "35af5f4c09400210"
+                    }
+                },
+                "value": "+1-928-266-8631",
+                "canonicalForm": "+19282668631",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "17 Mutual Connections",
+                "You and David both know Paul Sharpe, Matthew Shanker, and 15 others"
+            ],
+            [
+                "1 Mutual Group",
+                "You and David are both in the Northern Arizona University Alumni Association group"
+            ],
+            [
+                "Show more",
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Consulting Member of Technical Staff",
+                "Company Name",
+                "Oracle - Bare Metal Cloud",
+                "Dates Employed",
+                "Oct 2016 – Present",
+                "Employment Duration",
+                "1 yr 1 mo"
+            ],
+            [
+                "Principle Member of Technical Staff",
+                "Company Name",
+                "Oracle - Bare Metal Cloud",
+                "Dates Employed",
+                "Apr 2015 – Sep 2016",
+                "Employment Duration",
+                "1 yr 6 mos",
+                "Oracle Public Cloud"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "UW Programming Languages and Software Engineering",
+                "Dates Employed",
+                "May 2013 – Apr 2015",
+                "Employment Duration",
+                "2 yrs",
+                "At the University of Washington I was hired as part of a grant to improve a suite of static analysis tools. I primarily worked on the Checker Framework, which is a pluggable type-checker for finding software errors at compile time.* Added Java 8 support to the checker framework to type check lambdas and method references.* Maintainer for the dataflow subsystem which performs context and flow sensitive type-refinement.* Performed experiments to determine the efficacy of the tools.* Bug fixes, Profiling, etc. I also worked on the SPARTA project which aims to detect certain types of malware in Android applications, or to verify that the app contains no such malware. Primarily SPARTA is used to detect unauthorized information flow."
+            ],
+            [
+                "Software Development Engineer II",
+                "Company Name",
+                "Amazon.com",
+                "Dates Employed",
+                "Sep 2010 – Apr 2013",
+                "Employment Duration",
+                "2 yrs 8 mos",
+                "I was a software engineer on the Elastic Beanstalk team. My last performance evaluation was an Exceeds on performance, and Role-Model on leadership. I worked almost daily with SQL, SQS, SNS, CloudWatch, EC2, ELB, Cloud Formation, S3, and EBS.Some notable projects:* Launched the Elastic Beanstalk service, and expanded it to all AWS regions. * Helped re-architected the underlying resource provisioning system and to integrate with Cloud Formation.* Creating an updated runtime and container framework.* Helped design and implement an SQS event system as part of vertically sharding the backend infrastructure.* Designed and implemented new communication protocol between control plane and EC2 instances.* Refactored the Elastic Beanstalk monitoring fleet instance work selection algorithms in an effort to reduce load.* Handled operational issues through a wide range of issues including downstream service outages, performance-affecting load, network saturation, and emergent bugs that required immediate triaging and hot-fixing.* Performed load and scaling tests.You know, programming and dev-ops."
+            ],
+            [
+                "Software Systems Engineer, Sr",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "2009 – 2010",
+                "Employment Duration",
+                "1 yr",
+                "Worked with a wide variety of technologies to create and maintain student-focused services and infrastructure. While transitioning to a Senior Software Systems Engineer, I was responsible for proposing new services whilerefactoring and reworking existing projects to utilize new technologies. Held a software developmentposition; due to the nature of the projects, a certain amount of systems administration was involved.A large part of the position was full lifecycle web application development using Java Servlets, Struts, Stripes, Hibernate, JSP, Ant, Maven, JQuery and AJAX with Oracle and MySQL databases.* Implemented a system to automatically process DMCA notices including a web frontend and backend notice handling, parsing, and identifying of users by querying LDAP and DNS servers. After deployment, system significantly decreased human interaction required, scaling as the number of incoming notices has more than doubled. Website consisted of Struts, Hibernate, Oracle, JSP, and Tiles.  Backend implemented in Java and Procmail. Updated code to allow processing of Network Address Translation logs to identify users through network topology changes.* Designed and implemented an appointment scheduling and tracking interface for the Academic Computing Help Desk and student workers using Stripes, Hibernate, Oracle, and JSP.* Developed a virtual machine backup process for XenServer using Python, LVM snapshots and the XenServer API. * Developed key components of a system to apply settings to Windows-based computer lab images after they are imaged. This system is still in use today to image several hundred computers statewide every semester.* Created web application in Struts for users to view printing charges while allowing administrators to manage free and prepaid printing groups based on group information pulled from LDAP."
+            ],
+            [
+                "Software Systems Engineer",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "2007 – 2009",
+                "Employment Duration",
+                "2 yrs"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2005 – 2009",
+                "Minor in Mathematics"
+            ],
+            [
+                "Skills"
+            ],
+            "Recommendations",
+            [
+                "Amazon Web Services Community Network",
+                "83,058 members"
+            ],
+            [
+                "Amazon Web Services Users",
+                "16,231 members"
+            ],
+            [
+                "Amazon",
+                "2,560,885 followers"
+            ],
+            [
+                "Java Developers",
+                "434,926 members"
+            ],
+            [
+                "Tomcat Users",
+                "3,697 members"
+            ],
+            [
+                "Java Developer Network",
+                "125,162 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (274)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Amazon Web Services Community Network",
+                "83,058 members"
+            ],
+            [
+                "Amazon Web Services Community Network",
+                "83,058 members"
+            ],
+            [
+                "Amazon Web Services Users",
+                "16,231 members"
+            ],
+            [
+                "Amazon Web Services Users",
+                "16,231 members"
+            ],
+            [
+                "Amazon",
+                "2,560,885 followers"
+            ],
+            [
+                "Amazon",
+                "2,560,885 followers"
+            ],
+            [
+                "Java Developers",
+                "434,926 members"
+            ],
+            [
+                "Java Developers",
+                "434,926 members"
+            ],
+            [
+                "Tomcat Users",
+                "3,697 members"
+            ],
+            [
+                "Tomcat Users",
+                "3,697 members"
+            ],
+            [
+                "Java Developer Network",
+                "125,162 members"
+            ],
+            [
+                "Java Developer Network",
+                "125,162 members"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [],
+        "summary": "  Back-end software engineer.  Literally a computer programmer.\n  \n  \n",
+        "name": "David McArthur",
+        "title": "Consulting Member of Technical Staff at Oracle - Bare Metal Cloud",
+        "url": "linkedin.com/in/david-mcarthur-1652906",
+        "phone": null,
+        "email": "David.Mcarthur@gmail.com"
+    }
+]

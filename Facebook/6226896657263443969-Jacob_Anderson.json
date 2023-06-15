@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6226896657263443969/",
+    "participants": [
+        {
+            "name": "Jacob Anderson",
+            "title": "Director of Business Development at Weeder Friendly",
+            "url": "https://www.linkedin.com/in/jaketheginger/",
+            "phone": "4804208565 (Work)",
+            "email": "ThinkTank365Recruiter@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-16T23:04:00.000Z"
+        },
+        {
+            "from": "Jacob Anderson",
+            "message": "Thank you Brian.\n",
+            "time": "2018-01-19T14:58:00.000Z"
+        }
+    ]
+}

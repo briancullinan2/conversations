@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6217038640317554688/",
+    "participants": [
+        {
+            "name": "Joe Mildenhall",
+            "title": "CIO at Grand Canyon University",
+            "url": "linkedin.com/in/jmildenhall",
+            "phone": null,
+            "email": "joe.mildenhall@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-20T18:11:00.000Z"
+        }
+    ]
+}

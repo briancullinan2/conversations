@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6215274003444097024/",
+    "participants": [
+        {
+            "name": "Renee Maurer",
+            "title": "Hiring top technical talent for the best companies! Presently seeking new opportunity.",
+            "url": "linkedin.com/in/renee-maurer",
+            "phone": "602-527-3700 (Mobile)",
+            "email": "rmm413@msn.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-12-15T21:19:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Renee Maurer",
+            "time": "2017-03-08T17:06:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-08T18:38:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "19Feb17",
+    "participants": "Brian Cullinan | wizard > Jill Mackiewicz | Owner/Producer at The Whole Picture Productions, LLC",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Jill Mackiewicz",
+        "url": "linkedin.com/in/jill-mackiewicz-04895b3",
+        "email": "jyllybean13@hotmail.com",
+        "title": "Owner/Producer at The Whole Picture Productions, LLC"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-19T20:03:00.000Z",
+    "title": "wizard"
+  }
+]

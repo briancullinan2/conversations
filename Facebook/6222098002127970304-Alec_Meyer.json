@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6222098002127970304/",
+    "participants": [
+        {
+            "name": "Alec Meyer",
+            "title": "Senior Recruiter at SelectOne",
+            "url": "linkedin.com/in/ajmeyer",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Alec Meyer",
+            "message": "Full Stack Developer in Scottsdale with a Vibrant Startup\n\nHi Brian, \n\nI came across your profile and I was immediately impressed by your breadth of experience. I'm working with a startup in Scottsdale called Mid-America Careers, and they are looking for a full-stack developer with expertise in Python and Elastic Search to re-engineer their infrastructure. This is a big project with huge impact, and gives you the opportunity to make a direct impact on a growing business. If you're successful, the potential upside is huge. \n\nI see that you're open to new opportunities, and I'd like to speak with you about this role. Are you available for a short call today or tomorrow? \n\nThank you and I look forward to connecting with you!\n\nAlec Meyer | Senior Recruiter | SelectOne\n2813 Wehrle Dr. Suite 3 | Williamsville, NY 14221\nd+ 716 906 5371 | e+ ameyer@selectoneLLC.com | w+ www.selectoneLLC.com\n\nAlec Meyer | Senior Recruiter | SelectOne\nd+ 716 906 5371 | e+ ameyer@selectoneLLC.com\n",
+            "time": "2018-01-03T12:00:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you for reaching out!\n",
+            "time": "2018-01-03T17:20:00.000Z"
+        },
+        {
+            "from": "Alec Meyer",
+            "message": "Hi Brian,\n\nThanks for getting back to me so quickly! Are you available this afternoon for a short call?\n\nAlec Meyer | Senior Recruiter | SelectOne\n2813 Wehrle Dr. Suite 3 | Williamsville, NY 14221\nd+ 716 906 5371 | e+ ameyer@selectoneLLC.com | w+ www.selectoneLLC.com\n",
+            "time": "2018-01-03T18:03:00.000Z"
+        }
+    ]
+}

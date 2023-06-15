@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6245067274059870208/",
+    "participants": [
+        {
+            "name": "Robert Racoosin",
+            "title": "Software Engineer at Swiftpage",
+            "url": "linkedin.com/in/racoosin",
+            "phone": "919-265-7478 (Mobile)",
+            "email": "racoosin@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-03-08T02:27:00.000Z",
+            "message": "You're ahead of your time ;)\n"
+        }
+    ]
+}

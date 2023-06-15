@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6226039047882620928/",
+    "participants": [
+        {
+            "name": "Christopher Conlan",
+            "title": "Serial Entrepreneur, Growth Hacker, Uber Nerd and Author",
+            "url": "linkedin.com/in/cdconlan",
+            "phone": "480-747-3060 (Mobile)",
+            "email": "habooblecommunications@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "I am hacking growth too. ;)\r\n\r\n- Brian Cullinan\n",
+            "time": "2018-01-14T14:16:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-14T16:32:00.000Z"
+        }
+    ]
+}

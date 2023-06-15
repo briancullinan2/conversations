@@ -1,0 +1,74 @@
+{
+    "thread": "/messaging/thread/6201465415273639936/",
+    "participants": [
+        {
+            "name": "Grace Fox",
+            "title": "People Person at Atlas Informatics",
+            "url": "linkedin.com/in/grace-fox-194563a1",
+            "phone": null,
+            "email": "gracefox13@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Brilliant software at Atlas!  Thank you for connecting!",
+            "time": "2017-11-07T18:49:00.000Z"
+        },
+        {
+            "from": "Grace Fox",
+            "message": "Hi Brian, glad to hear you're impressed with what we're working on! Curious to know how you heard about us :)",
+            "time": "2017-11-08T04:29:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Slashdot",
+            "time": "2017-11-08T04:29:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Excellent question.",
+            "time": "2017-10-04T05:05:00.000Z"
+        },
+        {
+            "from": "Grace Fox",
+            "message": "Ah ha! That's great. Yeah, we got some pretty amazing press hits. Have you installed Recall yet?",
+            "time": "2017-10-04T18:07:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "What!? There is more? Like total recall?",
+            "time": "2017-10-04T18:07:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Yes that is what I am using",
+            "time": "2017-10-04T18:07:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "We could collect so much more data by tapping in to auditing.",
+            "time": "2017-10-04T18:07:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I want to come work for you.",
+            "time": "2017-10-04T18:12:00.000Z"
+        },
+        {
+            "from": "Grace Fox",
+            "message": "I chatted with Evan, our recruiter, and he said he thinks it'd be worth having a conversation if you're interested in learning more. Go ahead and apply through the website if you'd like to get in touch with him. :)",
+            "time": "2017-10-04T19:06:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I did apply through the site already.",
+            "time": "2017-10-04T19:37:00.000Z"
+        },
+        {
+            "from": "Grace Fox",
+            "message": "Great, I'll have Evan take a look. He'll likely reach out to you next week :)",
+            "time": "2017-10-04T21:02:00.000Z"
+        }
+    ]
+}

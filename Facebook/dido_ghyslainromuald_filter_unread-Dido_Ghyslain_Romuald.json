@@ -1,0 +1,27 @@
+{
+    "thread": "https://www.facebook.com/messages/t/dido.ghyslainromuald?filter=unread",
+    "participants": [
+        {
+            "name": "Dido Ghyslain Romuald",
+            "description": "Informaticien at Abidjan, Cote d'Ivoire",
+            "url": "Studied Siences phisique at Université de Cocody"
+        }
+    ],
+    "messages": [
+        {
+            "time": "2017-11-26T17:42:00.000Z",
+            "from": [],
+            "message": "You are now connected on Messenger."
+        },
+        {
+            "time": "2018-01-02T20:34:00.000Z",
+            "from": [],
+            "message": "Dido Ghyslain Romuald sent you an invite to join Messenger."
+        },
+        {
+            "time": "2018-01-02T20:34:00.000Z",
+            "from": "Dido",
+            "message": "Dido\nDido Ghyslain Romuald invited you to Messenger.\nSending messages is fast and more fun on Messenger. Get a link sent to your phone to install the app.\nSend Link"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6214198005407510528/",
+    "participants": [
+        {
+            "name": "John Thomas",
+            "title": "Director Of Software Development at Racepak",
+            "url": "linkedin.com/in/thomas-john",
+            "phone": "555-555-5555 (Home)",
+            "email": "jt@johnsthomas.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-12T22:04:00.000Z"
+        }
+    ]
+}

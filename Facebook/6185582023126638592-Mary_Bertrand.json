@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6185582023126638592/",
+    "participants": [
+        {
+            "name": "Mary Bertrand",
+            "title": "Account Executive at National Public Radio - NPR, KJZZ/KBAQ",
+            "url": "linkedin.com/in/maryphx",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "",
+            "time": "2014-09-05T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Hey, I am on the job hunt.  Any need for a senior software developer?  How are things going for you?",
+            "time": "2017-10-05T22:54:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6230156940203352064/",
+    "participants": [
+        {
+            "name": "Evan Wojnar",
+            "title": "Senior Technical Recruiter at Productive Data Solution",
+            "url": "linkedin.com/in/erwojnar",
+            "phone": "480-775-6754 (Work)",
+            "email": "ewojnar@pdsinc.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Evan Wojnar",
+            "message": "Full Stack Developer - Tempe, AZ\n\nDear Brian, \n\nI am reaching out as your background, or at least some pieces of it, seem to match well with a position I am hoping to help my client fill immediately. From a high level, the top candidates for this role are going to have strong working knowledge of Python and have or want to have experience with React. I do not wish to take much of your time, however if you or someone you know might fit this profile and would be interested in hearing more, please reach out to me for details! If by chance this is no longer your skill set in the world of IT, please disregard, and let me know what tech-stack you are working on in your current position.\n\nEvan Wojnar\newojnar@pdsinc.com\n",
+            "time": "2018-01-25T12:00:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-26T15:47:00.000Z"
+        },
+        {
+            "from": "Evan Wojnar",
+            "message": "You're welcome! Are you interested in this position?\n",
+            "time": "2018-01-26T16:29:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I can't say I have a strong knowledge of Python or react. I love JavaScript but Facebook is nothing special.\n",
+            "time": "2018-01-26T16:31:00.000Z"
+        }
+    ]
+}

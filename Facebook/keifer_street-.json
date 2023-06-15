@@ -1,0 +1,68 @@
+{
+    "thread": "https://www.facebook.com/messages/t/keifer.street",
+    "participants": [
+        {}
+    ],
+    "messages": [
+        {
+            "from": "Keifer",
+            "message": "\nAlso ‘smart’ text selection for phone numbers and addesses\n",
+            "time": "2017-10-13T00:30:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nI wonder if they fixed the spell check.\nIt always recommends the same misspelling I typed in instead of searching Google for it.\n",
+            "time": "2017-10-13T00:30:00.000Z"
+        },
+        {
+            "from": "Keifer",
+            "message": "\nThey also added autofill APIs for password manager apps like 1Password and LastPass\n",
+            "time": "2017-10-13T00:30:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nI wish I could stop using apps all together.\n",
+            "time": "2017-10-13T00:30:00.000Z"
+        },
+        {
+            "from": "Keifer",
+            "message": "\nMaybe one day, but web apps are always slower than native.\nToo much latency and overhead sending stuff in packets\n",
+            "time": "2017-10-13T00:30:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nNot anymore https://developer.android.com/topic/instant-apps/index.html\nAndroid Instant Apps | Android Developers\nGet people to your flagship Android experience from links that would otherwise open your mobile web page — like search, social media, messaging, and other deep links — without…\ndeveloper.android.com\n",
+            "time": "2017-10-13T00:30:00.000Z"
+        },
+        {
+            "from": "Keifer",
+            "message": "\nYeah but I’ve seen demos. There is still milliseconds I’d input latency on a calculator app vs a native android calculator app, for example\nIt’s a tiny, tiny difference, but noticeable to freaks like me\n",
+            "time": "2017-10-13T00:30:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nOh man.  Angular and React are the most amazing platforms ever invented.  You can compile 300MB of libraries and functionality in to 100KB single file for over the wire.\n\nalmost 2 seconds to install and app.  That's it.\n\n1\n",
+            "time": "2017-10-13T00:30:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nActually what is taking the longest is an include from Oracle's marketing service.  The whole app loads in the first 200 milliseconds.\n\n",
+            "time": "2017-10-13T00:30:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nI am wondering if there is any business problem that can't be solved with javascript.\n",
+            "time": "2017-10-13T00:30:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\n\nlol\n",
+            "time": "2017-10-13T16:58:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nQ: How do you cure a headache?\nA: Put your head through a window and the pane will just disappear!\n\n",
+            "time": "2017-11-12T04:41:00.000Z"
+        }
+    ]
+}

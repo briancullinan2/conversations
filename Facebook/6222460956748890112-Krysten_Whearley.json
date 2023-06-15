@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6222460956748890112/",
+    "participants": [
+        {
+            "name": "Krysten Whearley",
+            "title": "Mechanical Engineer",
+            "url": "linkedin.com/in/krysten-whearley-3a491391",
+            "phone": null,
+            "email": "Klw3001@aol.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-04T17:18:00.000Z"
+        },
+        {
+            "from": "Krysten Whearley",
+            "message": "You're welcome?\n",
+            "time": "2018-01-06T15:51:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Happy birthday!\n",
+            "time": "2018-01-28T17:42:00.000Z"
+        }
+    ]
+}

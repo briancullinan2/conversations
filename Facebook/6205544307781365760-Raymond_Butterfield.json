@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6205544307781365760/",
+    "participants": [
+        {
+            "name": "Raymond Butterfield",
+            "title": "Taking Python coding!!",
+            "url": "linkedin.com/in/raymondbutterfielditspecialist",
+            "phone": "",
+            "email": "rbutterfield08@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "You must be a genius!",
+            "time": "2017-10-27T00:57:00.000Z"
+        },
+        {
+            "from": "Raymond Butterfield",
+            "message": "I'd like to think I have moments of lucidity.",
+            "time": "2017-10-27T01:31:00.000Z"
+        }
+    ]
+}

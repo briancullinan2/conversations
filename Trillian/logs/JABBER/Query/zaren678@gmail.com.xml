@@ -1,0 +1,186 @@
+<session type="Start" time="1189839441" medium="JABBER" from="bjcullinan@gmail.com" to="zaren678@gmail.com"/>
+<session type="start" time="1189839441" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1189839447" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="hey%20John"/>
+<message type="incoming_privateMessage" time="1189839459" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="hey%20brian%2C%20whats%20up"/>
+<message type="outgoing_privateMessage" time="1189839472" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="you%20do%20spell%20your%20name%20with%20the%20H%20right%3F"/>
+<message type="incoming_privateMessage" time="1189839490" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="yup"/>
+<message type="outgoing_privateMessage" time="1189839514" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="want%20to%20come%20to%20my%20party%20tomorrow%3F"/>
+<message type="outgoing_privateMessage" time="1189839519" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="or%20today%20in%202%20minutes"/>
+<message type="incoming_privateMessage" time="1189839601" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="hah%2C%20serious%3F%20No%20thanks%2C%20I%27m%20gonna%20go%20to%20bed%2C%20I%20have%20a%20pile%20of%20homework%20to%20get%20done%20tomorrow%20morning"/>
+<message type="outgoing_privateMessage" time="1189839619" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="no%20its%20not%20tonight"/>
+<message type="outgoing_privateMessage" time="1189839627" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="its%20tomorrow%20evening"/>
+<message type="outgoing_privateMessage" time="1189839634" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="saturday%20evening"/>
+<message type="outgoing_privateMessage" time="1189839652" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="around%20like%207%20i%20think%20is%20when%20people%20are%20piling%20in"/>
+<message type="incoming_privateMessage" time="1189839713" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="ahh%2C%20gotcha%2C%20well%20still%20no%20thanks%2C%20a%20friend%20of%20mine%27s%20birthday%20party%20is%20tomorrow%20night"/>
+<message type="outgoing_privateMessage" time="1189839734" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="ah%20that%27s%20cool%2C%20next%20time%20then"/>
+<message type="outgoing_privateMessage" time="1189839757" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="might%20be%20a%20few%20weeks%20though%2C%20i%20made%20it%20a%20point%20to%20party%20every%20weekend%20until%20the%20first%20test"/>
+<message type="incoming_privateMessage" time="1189839786" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="lol%2C%20thats%20a%20good%20plan%20I%27d%20say%2C%20well%20I%27m%20off%20to%20bed%20have%20a%20good%20party%2C%20cya"/>
+<message type="outgoing_privateMessage" time="1189839792" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="cya"/>
+<session type="stop" time="1189839794" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1190742068" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1190742087" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="do%20you%20have%20the%20power%20to%20check%20if%20I%20have%20a%20session%20on%20ilum%20or%20hoth%3F"/>
+<message type="incoming_privateMessage" time="1190742095" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="I%20don%27t"/>
+<message type="outgoing_privateMessage" time="1190742119" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="bummer%20i%27ll%20have%20to%20wait%20for%20clint%20to%20get%20back"/>
+<message type="outgoing_privateMessage" time="1190742152" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="for%20some%20reason%20sometimes%20the%20cards%20start%20sessions%20on%20different%20servers%20and%20don%27t%20always%20refer%20back%20to%20the%20one%20previously%20started"/>
+<session type="stop" time="1190742727" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1190742822" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1190742822" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="I%27ve%20noticed%20that%20too"/>
+<message type="outgoing_privateMessage" time="1190742852" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="are%20you%20upstairs%20in%20the%20CENS%3F"/>
+<message type="incoming_privateMessage" time="1190742867" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="yup"/>
+<message type="outgoing_privateMessage" time="1190742876" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="is%20dieter%20in%20his%20office%3F"/>
+<message type="incoming_privateMessage" time="1190742882" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="sometimes%20when%20you%20pull%20it%20out%20and%20stick%20in%20it%20again%20it%27ll%20switch"/>
+<message type="incoming_privateMessage" time="1190742893" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="umm%2E%2E%20his%20door%20is%20closed%20and%20the%20light%20looks%20off%2E%2E%2E%20so%20I%27d%20say%20no"/>
+<message type="outgoing_privateMessage" time="1190742899" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="damn"/>
+<status type="Offline" time="1190743470" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<session type="stop" time="1190744149" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1191008304" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1191008313" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="your%20sister%20is%20really%20attractive"/>
+<session type="stop" time="1191008444" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1191974215" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<status type="Offline" time="1191974226" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1191974231" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="hey%20your%20sister%20said%20you%20set%20up%20a%20DVR%20computer"/>
+<session type="stop" time="1191974613" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1191976971" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1191976971" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="yup"/>
+<message type="outgoing_privateMessage" time="1191977017" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="what%20OS%3F"/>
+<message type="incoming_privateMessage" time="1191977046" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="I%20did%20linux%20first%2E%2E%2E%20but%20then%20I%20accidently%20blew%20up%20that%20computer%2E%2E%2E%20so%20now%20its%20in%20windows%20on%20my%20wife%27e%20computer"/>
+<message type="outgoing_privateMessage" time="1191977193" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="oh"/>
+<message type="incoming_privateMessage" time="1191977263" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="mythtv%20is%20awesome%20though%2C%20I%20just%20didn%27t%20want%20to%20have%20to%20reboot%20everytime%20I%20wanted%20to%20watch%20TV%2E%2E%2E%20but%20with%20VM%27s%20getting%20so%20good%20I%20could%20probably%20VM%20mythtv%2E%2E%2E%20"/>
+<message type="outgoing_privateMessage" time="1191977391" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="that%27s%20what%20i%20was%20thinking%20about%20doing%2C%20but%20you%20can%27t%20transfer%20PCI%20hardware%20to%20a%20VM"/>
+<message type="incoming_privateMessage" time="1191977409" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="ummm%2E%2E%2E%2E%20are%20you%20sure%20about%20that%3F"/>
+<message type="outgoing_privateMessage" time="1191977422" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="vm%20%3D%20virtual%20machine%20right%3F"/>
+<message type="incoming_privateMessage" time="1191977425" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="yeah"/>
+<message type="outgoing_privateMessage" time="1191977427" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="vmware%20can%27t%20do%20it%20yet"/>
+<message type="outgoing_privateMessage" time="1191977446" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="what%20is%20the%20other%20popular%20one%3F"/>
+<message type="incoming_privateMessage" time="1191977452" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="wait%2E%2E%2E%20so%20you%27re%20telling%20me%2E%2E%2E%2E%20if%20I%20had%20a%20PCI%20sound%20card%20in%20my%20computer%2E%2E%2E%20I%20couldn%27t%20use%20it%20in%20VMware%3F"/>
+<message type="incoming_privateMessage" time="1191977515" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="parallels%20is%20supposed%20to%20be%20good"/>
+<message type="incoming_privateMessage" time="1191977520" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="but%20its%20not%20free"/>
+<message type="outgoing_privateMessage" time="1191977566" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="you%20can%20use%20the%20soundcard%20for%20output%20from%20the%20virtual%20machine%2C%20but%20the%20guest%20OS%20doesn%27t%20recognize%20that%20soundcard%2C%20it%20will%20only%20see%20the%20VMware%20one"/>
+<message type="incoming_privateMessage" time="1191977576" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="ahhh"/>
+<message type="outgoing_privateMessage" time="1191977580" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="maybe%20Xen%20is%20different"/>
+<message type="outgoing_privateMessage" time="1191977619" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="a%20better%20example%2C%20if%20i%20have%20a%20PCI%20video%20card%2C%20i%20can%20use%20my%20host%20operating%20system%20on%20it%20however%20i%20like%2C%20but%20i%20can%27t%20make%20a%20guest%20machine%20use%20that%20video%20card%20directly"/>
+<message type="incoming_privateMessage" time="1191977624" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="get%20a%20network%20capture%20device"/>
+<message type="outgoing_privateMessage" time="1191977667" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="that%20might%20work%2C%20or%20just%20get%20a%20USB%20TV%20Wonder%20card%20because%20you%20can%20transfer%20serial%20devices%20to%20the%20guest%20OS"/>
+<message type="incoming_privateMessage" time="1191977693" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="if%20you%27re%20going%20linux%20don%27t%20get%20an%20ATI%20device"/>
+<message type="outgoing_privateMessage" time="1191977722" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20have%20a%20hauppage%20card%20too"/>
+<message type="incoming_privateMessage" time="1191977739" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="which%20one%3F"/>
+<message type="outgoing_privateMessage" time="1191977758" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="can%27t%20remember%20but%20my%20roommate%20dave%20bought%20it%20with%20a%20sageTV%20package"/>
+<message type="incoming_privateMessage" time="1191977769" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="single%20or%20dual%20tuner%3F"/>
+<message type="incoming_privateMessage" time="1191977780" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="I%20bet%20its%20the%20PVR150%2E%2E%2E%20good%20card"/>
+<message type="incoming_privateMessage" time="1191977787" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="probably%20the%20best%20supported%20card%20in%20linux"/>
+<message type="outgoing_privateMessage" time="1191977814" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20think%20that%20is%20it"/>
+<message type="outgoing_privateMessage" time="1191977816" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="sounds%20familiar"/>
+<message type="outgoing_privateMessage" time="1191977884" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="and%20a%20TV%20wonder%20650%20which%20is%20supposed%20to%20be%20supported%20too"/>
+<message type="outgoing_privateMessage" time="1191977892" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="and%20an%20all%20in%20wonder"/>
+<message type="incoming_privateMessage" time="1191978182" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="I%27m%20not%20sure%20that%20either%20of%20those%20are%20supported%20in%20linux"/>
+<message type="incoming_privateMessage" time="1191978189" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="I%20could%20be%20wrong%20but%20I%27d%20double%20check%20if%20I%20were%20you"/>
+<message type="outgoing_privateMessage" time="1191978437" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="the%20pvr%20came%20with%20a%20sageTV%20subscriptions"/>
+<message type="outgoing_privateMessage" time="1191978490" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="you%20should%20help%20me%20with%20my%20box%20sometime%2C%20i%20want%20to%20put%20myth%20on%20it%20but%20i%20have%20no%20experience%20with%20it"/>
+<message type="incoming_privateMessage" time="1191978515" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="do%20you%20already%20have%20a%20linux%20box%20that%20you%20want%20to%20install%20it%20on%2E%2E%2E%20or%20are%20you%20starting%20from%20scratch"/>
+<message type="outgoing_privateMessage" time="1191978536" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20have%20a%20box%20to%20install%20it%20on"/>
+<message type="outgoing_privateMessage" time="1191978547" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="and%20i%20use%20linux"/>
+<message type="incoming_privateMessage" time="1191978560" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="hehe%2C%20that%20you%27re%20probably%20better%20at%20it%20than%20I%20am"/>
+<message type="outgoing_privateMessage" time="1191978564" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="but%20not%20enough%20to%20spend%20hours%20debugging%20when%20someone%20might%20already%20have%20the%20answers"/>
+<status type="away" time="1191979919" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="online" time="1191979934" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<session type="stop" time="1191980366" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1192641518" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1192641518" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="hey%20Brian"/>
+<message type="incoming_privateMessage" time="1192641542" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="can%20you%20call%20Curt%20at%20ext%202651%2C%20he%20called%20and%20said%20his%20computer%20wouldn%27t%20boot"/>
+<message type="incoming_privateMessage" time="1192641685" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="also%2C%20a%20guy%20called%20in%20%28ext%205253%29%20and%20said%20the%20the%20sound%20in%20Bio%20room265%20was%20fuzzy%2C%20can%20you%20look%20at%20it%3F"/>
+<status type="away" time="1192645002" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="online" time="1192648969" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<message type="information_standard" time="1192649002" medium="JABBER" text="John%20Anderson%20%26lt%3Bzaren678%40gmail%2Ecom%2FGaim8F2830CD%3E%20signed%20off%20at%20Wed%20Oct%2017%2012%3A23%3A22%202007%2E"/>
+<status type="Offline" time="1192649002" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="online" time="1192649036" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="Offline" time="1192649061" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<session type="stop" time="1192652125" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1192654247" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1192654247" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="hey%20Brian%2C%20what%20are%20you%20doing%20Thursday%20evening%3F"/>
+<message type="incoming_privateMessage" time="1192654319" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="how%20would%20you%20like%20to%20spend%20some%20quality%20time%20at%20the%20engineering%20building"/>
+<status type="away" time="1192655614" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="online" time="1192655849" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<message type="information_standard" time="1192657355" medium="JABBER" text="John%20Anderson%20%26lt%3Bzaren678%40gmail%2Ecom%2FGaim07C6B0C3%3E%20signed%20off%20at%20Wed%20Oct%2017%2014%3A42%3A35%202007%2E"/>
+<status type="Offline" time="1192657355" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1192657931" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20am%20already%20at%20the%20engineering%20building%20all%20day"/>
+<message type="outgoing_privateMessage" time="1192657939" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="and%20tomorrow%20evening%20i%20have%20ACM"/>
+<session type="stop" time="1192658184" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1192658190" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1192658211" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20already%20work%207%20hours%20at%20egr%20tomorrow%20and%20i%20have%20ACM"/>
+<session type="stop" time="1192660013" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1193960988" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1193961033" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="do%20you%20know%20how%20to%20connect%20to%20a%20network%20printer%20from%20a%20computer%20in%20one%20of%20the%20offices%20here%3F"/>
+<message type="incoming_privateMessage" time="1193961052" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="browse%20to%20%5C%5Cyavin"/>
+<message type="incoming_privateMessage" time="1193961061" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="and%20double%20click%20whatever%20printer%20you%20want%20to%20connect%20to"/>
+<message type="outgoing_privateMessage" time="1193961097" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="yavin%20huh%3F"/>
+<message type="outgoing_privateMessage" time="1193961099" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="k%20brb"/>
+<status type="Offline" time="1193961462" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1193961606" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="ok%20what%20about%20adding%20a%20printer%20to%20yavin%3F"/>
+<message type="outgoing_privateMessage" time="1193961623" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="we%20have%20one%20hooked%20up%20in%20rm%20108%20that%20is%20not%20in%20the%20list"/>
+<message type="outgoing_privateMessage" time="1193961645" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="and%20how%20do%20i%20get%20to%20kashyyyk%20from%20of%20campus%2F"/>
+<message type="outgoing_privateMessage" time="1193961646" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="%3F"/>
+<session type="stop" time="1193961671" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1194368787" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1194368787" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="hey"/>
+<message type="incoming_privateMessage" time="1194368803" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="Graylynn%20from%20the%20Dean%27s%20office%20just%20called%20and%20said%20that%20one%20of%20their%20computers%20is%20acting%20up"/>
+<message type="incoming_privateMessage" time="1194368810" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="Room%20153%20x5191"/>
+<message type="incoming_privateMessage" time="1194368815" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="could%20you%20go%20check%20it%20out%3F"/>
+<message type="incoming_privateMessage" time="1194368824" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="Bio%20Room%20153%20that%20is"/>
+<message type="outgoing_privateMessage" time="1194370301" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="hey%20what%20is%20pete%27s%20number"/>
+<message type="incoming_privateMessage" time="1194370312" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="6877"/>
+<message type="outgoing_privateMessage" time="1194370387" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20got%20horribly%20annoying%20problems"/>
+<message type="outgoing_privateMessage" time="1194370411" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20guess%20i%20will%20just%20put%20it%20into%20otrs"/>
+<message type="incoming_privateMessage" time="1194370419" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="whats%20wrong"/>
+<message type="outgoing_privateMessage" time="1194370443" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="like%203%20different%20things"/>
+<message type="outgoing_privateMessage" time="1194370498" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="1%20documents%20is%20corrupt%2C%202%20when%20outlook%20opens%20it%20shows%20error%20messages%20with%20the%20Normal%2Edot%20template%2C%20when%20you%20close%20it%20asks%20you%20to%20save%20the%20damn%20file%20twice%20before%20you%20can%20get%20out%20of%20it"/>
+<message type="outgoing_privateMessage" time="1194370511" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="hopefully%20pete%20will%20no%20how%20to%20reset%20the%20stupid%20template%20file"/>
+<message type="incoming_privateMessage" time="1194370523" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="whoa"/>
+<message type="incoming_privateMessage" time="1194370526" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="that%20is%20pretty%20annoying"/>
+<message type="incoming_privateMessage" time="1194370535" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="thats%20what%20happening%20to%20Graylynn%27s%20computer%3F"/>
+<message type="outgoing_privateMessage" time="1194370542" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="that%20is%20the%20computer"/>
+<message type="outgoing_privateMessage" time="1194370552" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="it%27s%20just%20messing%20up%20with%20word"/>
+<message type="outgoing_privateMessage" time="1194370558" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="yeah"/>
+<message type="outgoing_privateMessage" time="1194370731" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="what%20if%20i%20go%20in%20and%20delete%20the%20word%20files%20in%20the%20user%20directory%2C%20would%20that%20reset%20it%3F"/>
+<message type="outgoing_privateMessage" time="1194370837" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="what%20is%20Graylynn%27s%20name%2Fe%2Dmail%3F"/>
+<message type="incoming_privateMessage" time="1194370887" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="her%20num%20is%205191"/>
+<message type="incoming_privateMessage" time="1194370895" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="I%20have%20no%20idea%20if%20that%20would%20reset%20it"/>
+<message type="outgoing_privateMessage" time="1194371016" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20don%27t%20understand%20how%20to%20use%20otrs"/>
+<message type="outgoing_privateMessage" time="1194371024" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="it%20keeps%20saying%20invalid%20syntax"/>
+<message type="outgoing_privateMessage" time="1194371052" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20have%20to%20click%20search%20when%20setting%20the%20from%20field%3F"/>
+<message type="incoming_privateMessage" time="1194371128" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="yeah"/>
+<message type="incoming_privateMessage" time="1194371132" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="the%20from%20field%20is%20stupid"/>
+<message type="incoming_privateMessage" time="1194371142" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="its%20best%20to%20type%20in%20their%20e%2Dmail%2E%2E%2E%20then%20click%20search"/>
+<message type="incoming_privateMessage" time="1194371145" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="then%20wait%20for%20awhile"/>
+<message type="incoming_privateMessage" time="1194371148" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="its%20kinda%20slow"/>
+<message type="outgoing_privateMessage" time="1194371404" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="this%20is%20very%20annoying"/>
+<message type="outgoing_privateMessage" time="1194371409" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20can%27t%20lookup%20that%20number"/>
+<message type="outgoing_privateMessage" time="1194371518" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%20can%27t%20even%20get%20a%20terminal%20open"/>
+<status type="away" time="1194371727" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<session type="stop" time="1194371908" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1196986377" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1196986377" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="%3Ca%20href%3D%22http%3A%2F%2Fwww%2Ecet%2Enau%2Eedu%2FSupport%2FIT%2Ffaqgeneral%2Eshtml%23NetDrives%22%3Ehttp%3A%2F%2Fwww%2Ecet%2Enau%2Eedu%2FSupport%2FIT%2Ffaqgeneral%2Eshtml%23NetDrives%3C%2Fa%3E"/>
+<message type="incoming_privateMessage" time="1196986383" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="zaren678%40gmail%2Ecom" from_display="John%20Anderson" text="its%20right%20below%20that"/>
+<session type="stop" time="1196986453" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1196986627" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<status type="away" time="1196987588" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="online" time="1196987590" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="away" time="1196987653" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="online" time="1196987653" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="away" time="1196987709" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="online" time="1196987740" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="away" time="1196987768" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="online" time="1196987991" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="away" time="1196988014" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="online" time="1196988043" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="away" time="1196988075" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="online" time="1196988125" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="away" time="1196988136" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="online" time="1196988196" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="away" time="1196988196" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="online" time="1196988218" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="away" time="1196988256" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="online" time="1196988268" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="away" time="1196988319" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="online" time="1196988397" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<status type="away" time="1196988440" medium="JABBER" from="zaren678%40gmail%2Ecom"/>
+<session type="stop" time="1196988451" medium="JABBER" to="zaren678%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>

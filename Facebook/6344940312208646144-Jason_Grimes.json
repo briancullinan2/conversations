@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6344940312208646144/",
+    "participants": [
+        {
+            "name": "Jason Grimes",
+            "title": "Site Reliability Engineering - Status: 🤘...Eastside CoffeeOps was Great 🙏 Follow me on Twitter @jasongrimes 🐼",
+            "url": "linkedin.com/in/jasongrimes",
+            "phone": "(206) 948-2113 (Mobile)",
+            "email": "jason.grimes@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-12-08T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-12-09T16:49:00.000Z"
+        }
+    ]
+}

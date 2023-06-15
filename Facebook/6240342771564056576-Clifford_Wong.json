@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6240342771564056576/",
+    "participants": [
+        {
+            "name": "Clifford Wong",
+            "title": "Product Manager at Coplex. Founder of: MobileHID, ClearBraFilms.com, Feltistry, and Company-Histories.com",
+            "url": "linkedin.com/in/cliffordw",
+            "phone": "+1 602.300.7153 (Mobile)",
+            "email": "cliffordjwong@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-23T01:34:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Clifford Wong",
+            "time": "2018-02-23T01:37:00.000Z",
+            "message": "Hi Brian,\n\nThanks for reaching out to connect on LinkedIn. I try to make sure I've personally met or have worked with everyone I connect with to ensure my connections are authentic. \n\nMind telling me about your professional journey and what prompted you to connect?\n\nThanks!\n\n\nClifford\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-23T01:39:00.000Z",
+            "message": "Good policy. :) I've been hearing some good things about Coplex lately and I appreciate the work you are doing.\n"
+        },
+        {
+            "from": "Clifford Wong",
+            "time": "2018-02-23T01:43:00.000Z",
+            "message": "I'm glad to hear the Coplex name is making waves out there in the community. So what projects are you currently working on and what would you say is your proudest professional accomplishment?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-23T02:27:00.000Z",
+            "message": "I am working on a meditation web app. I spent 3 years on an EdTech company with a friend. Now I am looking for answers to harder questions like how much personal accountability is required to use agile effectively and how do I scale my efforts when debugging code takes so much time?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-23T02:27:00.000Z",
+            "message": "I saw a kids face light up when they used my app, I saw a path to meet Bill Gates. I've been inspired.\n"
+        }
+    ]
+}

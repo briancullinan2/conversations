@@ -1,0 +1,560 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "11 Mutual Connections",
+                "You and Marshall both know Don Silva Sr., Tami Taylor Finch, PHR, and 9 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "DevOps Engineer",
+                "Company Name",
+                "OpenTech Alliance, Inc. | Self Storage Smarts",
+                "Dates Employed",
+                "Nov 2017 – Present",
+                "Employment Duration",
+                "1 mo",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "DevOps Engineer",
+                "Company Name",
+                "MobileLogix",
+                "Dates Employed",
+                "Jul 2017 – Nov 2017",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "Scottsdale, AZ"
+            ],
+            [
+                "DevOps Engineer",
+                "Company Name",
+                "Integrate Inc.",
+                "Dates Employed",
+                "Dec 2015 – May 2017",
+                "Employment Duration",
+                "1 yr 6 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "-Developed and optimized a CI/CD microservice pipeline using Github, Bamboo, Docker, and Amazon Web Services EC2/ECS for a fluent and fully autonomous system-Monitored multiple environments and production platform in real-time using Datadog, Sumo Logic, and custom Python utilities to clearly show the status of all working parts at any time-Created minimalistic .Net micro-service images using intermediate build containers with a combination of Git, NuGet, Mono and Docker resulting in images 30-50% smaller than originals-Maintained and updated replica development systems using Vagrant, VirtualBox, and GitBash that in house developers use for rapid PR testing and prototyping-Wrote and generated build, deployment, and provisioning scripts across all environments used including EC2 Run Command, CloudFormation, Shell, Vagrantfiles, and Dockerfiles"
+            ],
+            [
+                "Helpdesk Technician",
+                "Company Name",
+                "Integrate Inc.",
+                "Dates Employed",
+                "Nov 2014 – Dec 2015",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "-Tracked all email, phone, and help tickets using JIRA as well as creating clear and understandable documentation on software, hardware, and best practices inside Confluence-Managed users, emails, and distribution lists across Office 365, Exchange,  Active Directory, and OKTA SSO-Tracked and updated all company assets in Sharepoint and Spiceworks inventory management-Handled user issues locally in person, or remotely using Teamviewer, RDP, Join.Me, and VPN -Upgraded and repaired all company systems while creating orders for new hardware and parts when prudent or necessary"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Sedona Red Rock Highschool",
+                "Degree Name",
+                "High School Diploma",
+                "Dates attended or expected graduation",
+                "2006 – 2010"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Amazon",
+                "3,070,055 followers"
+            ],
+            [
+                "AgileField",
+                "375 followers"
+            ],
+            [
+                "Integrate Inc.",
+                "5,506 followers"
+            ],
+            [
+                "Docker, Inc",
+                "50,273 followers"
+            ],
+            [
+                "Red Hat",
+                "245,015 followers"
+            ],
+            [
+                "Atlassian",
+                "95,691 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (96)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Amazon",
+                "3,070,055 followers"
+            ],
+            [
+                "Amazon",
+                "3,070,055 followers"
+            ],
+            [
+                "AgileField",
+                "375 followers"
+            ],
+            [
+                "AgileField",
+                "375 followers"
+            ],
+            [
+                "Integrate Inc.",
+                "5,506 followers"
+            ],
+            [
+                "Integrate Inc.",
+                "5,506 followers"
+            ],
+            [
+                "Docker, Inc",
+                "50,273 followers"
+            ],
+            [
+                "Docker, Inc",
+                "50,273 followers"
+            ],
+            [
+                "Red Hat",
+                "245,015 followers"
+            ],
+            [
+                "Red Hat",
+                "245,015 followers"
+            ],
+            [
+                "Atlassian",
+                "95,691 followers"
+            ],
+            [
+                "Atlassian",
+                "95,691 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Docker",
+                "See 2 endorsements for Docker",
+                "2",
+                "Docker",
+                "Endorse",
+                "Endorsed by 2 of Marshall’s colleagues at Integrate Inc."
+            ],
+            [
+                "Docker",
+                "See 2 endorsements for Docker",
+                "2"
+            ],
+            [
+                "Vagrant",
+                "See 2 endorsements for Vagrant",
+                "2",
+                "Vagrant",
+                "Endorse",
+                "Endorsed by 2 of Marshall’s colleagues at Integrate Inc."
+            ],
+            [
+                "Vagrant",
+                "See 2 endorsements for Vagrant",
+                "2"
+            ],
+            [
+                "CentOS",
+                "See 2 endorsements for CentOS",
+                "2",
+                "CentOS",
+                "Endorse",
+                "Endorsed by 2 of Marshall’s colleagues at Integrate Inc."
+            ],
+            [
+                "CentOS",
+                "See 2 endorsements for CentOS",
+                "2"
+            ],
+            [
+                "Bash",
+                "See 2 endorsements for Bash",
+                "2",
+                "Bash",
+                "Endorse"
+            ],
+            [
+                "Bash",
+                "See 2 endorsements for Bash",
+                "2"
+            ],
+            [
+                "Git",
+                "See 2 endorsements for Git",
+                "2",
+                "Git",
+                "Endorse"
+            ],
+            [
+                "Git",
+                "See 2 endorsements for Git",
+                "2"
+            ],
+            [
+                "Github",
+                "See 1 endorsement for Github",
+                "1",
+                "Github",
+                "Endorse"
+            ],
+            [
+                "Github",
+                "See 1 endorsement for Github",
+                "1"
+            ],
+            [
+                "Active Directory",
+                "See 1 endorsement for Active Directory",
+                "1",
+                "Active Directory",
+                "Endorse"
+            ],
+            [
+                "Active Directory",
+                "See 1 endorsement for Active Directory",
+                "1"
+            ],
+            [
+                "Windows Server",
+                "See 1 endorsement for Windows Server",
+                "1",
+                "Windows Server",
+                "Endorse"
+            ],
+            [
+                "Windows Server",
+                "See 1 endorsement for Windows Server",
+                "1"
+            ],
+            [
+                "VirtualBox",
+                "See 1 endorsement for VirtualBox",
+                "1",
+                "VirtualBox",
+                "Endorse"
+            ],
+            [
+                "VirtualBox",
+                "See 1 endorsement for VirtualBox",
+                "1"
+            ],
+            [
+                "Powershell",
+                "See 1 endorsement for Powershell",
+                "1",
+                "Powershell",
+                "Endorse"
+            ],
+            [
+                "Powershell",
+                "See 1 endorsement for Powershell",
+                "1"
+            ],
+            [
+                "Amazon Web Services (AWS)",
+                "See 1 endorsement for Amazon Web Services (AWS)",
+                "1",
+                "Amazon Web Services (AWS)",
+                "Endorse"
+            ],
+            [
+                "Amazon Web Services (AWS)",
+                "See 1 endorsement for Amazon Web Services (AWS)",
+                "1"
+            ],
+            [
+                "Remote User Support",
+                "See 1 endorsement for Remote User Support",
+                "1",
+                "Remote User Support",
+                "Endorse"
+            ],
+            [
+                "Remote User Support",
+                "See 1 endorsement for Remote User Support",
+                "1"
+            ],
+            [
+                "Mono",
+                "See 1 endorsement for Mono",
+                "1",
+                "Mono",
+                "Endorse"
+            ],
+            [
+                "Mono",
+                "See 1 endorsement for Mono",
+                "1"
+            ],
+            [
+                "Windows",
+                "See 1 endorsement for Windows",
+                "1",
+                "Windows",
+                "Endorse"
+            ],
+            [
+                "Windows",
+                "See 1 endorsement for Windows",
+                "1"
+            ],
+            [
+                "Bamboo",
+                "See 1 endorsement for Bamboo",
+                "1",
+                "Bamboo",
+                "Endorse"
+            ],
+            [
+                "Bamboo",
+                "See 1 endorsement for Bamboo",
+                "1"
+            ],
+            [
+                "JIRA",
+                "See 1 endorsement for JIRA",
+                "1",
+                "JIRA",
+                "Endorse"
+            ],
+            [
+                "JIRA",
+                "See 1 endorsement for JIRA",
+                "1"
+            ],
+            [
+                "Confluence",
+                "See 1 endorsement for Confluence",
+                "1",
+                "Confluence",
+                "Endorse"
+            ],
+            [
+                "Confluence",
+                "See 1 endorsement for Confluence",
+                "1"
+            ],
+            [
+                "Nginx",
+                "Nginx",
+                "Endorse"
+            ],
+            [
+                "Nginx"
+            ],
+            [
+                "MongoDB",
+                "MongoDB",
+                "Endorse"
+            ],
+            [
+                "MongoDB"
+            ],
+            [
+                "Hyper-V",
+                "Hyper-V",
+                "Endorse"
+            ],
+            [
+                "Hyper-V"
+            ],
+            [
+                "Jira",
+                "Jira",
+                "Endorse"
+            ],
+            [
+                "Jira"
+            ],
+            [
+                "Provisioning",
+                "Provisioning",
+                "Endorse"
+            ],
+            [
+                "Provisioning"
+            ],
+            [
+                "JSON",
+                "JSON",
+                "Endorse"
+            ],
+            [
+                "JSON"
+            ],
+            [
+                "Network Configuration",
+                "Network Configuration",
+                "Endorse"
+            ],
+            [
+                "Network Configuration"
+            ],
+            [
+                "Office 365",
+                "Office 365",
+                "Endorse"
+            ],
+            [
+                "Office 365"
+            ],
+            [
+                "Microsoft Exchange",
+                "Microsoft Exchange",
+                "Endorse"
+            ],
+            [
+                "Microsoft Exchange"
+            ],
+            [
+                "Spiceworks",
+                "Spiceworks",
+                "Endorse"
+            ],
+            [
+                "Spiceworks"
+            ],
+            [
+                "Patch Management",
+                "Patch Management",
+                "Endorse"
+            ],
+            [
+                "Patch Management"
+            ],
+            [
+                "Shell Scripting",
+                "Shell Scripting",
+                "Endorse"
+            ],
+            [
+                "Shell Scripting"
+            ],
+            [
+                "Cloud Computing",
+                "Cloud Computing",
+                "Endorse"
+            ],
+            [
+                "Cloud Computing"
+            ],
+            [
+                "Microsoft Office",
+                "Microsoft Office",
+                "Endorse"
+            ],
+            [
+                "Microsoft Office"
+            ],
+            [
+                "Customer Service",
+                "Customer Service",
+                "Endorse"
+            ],
+            [
+                "Customer Service"
+            ],
+            [
+                "Technical Support",
+                "Technical Support",
+                "Endorse"
+            ],
+            [
+                "Technical Support"
+            ],
+            [
+                "Hardware Diagnostics",
+                "Hardware Diagnostics",
+                "Endorse"
+            ],
+            [
+                "Hardware Diagnostics"
+            ],
+            [
+                "Python",
+                "Python",
+                "Endorse"
+            ],
+            [
+                "Python"
+            ],
+            [
+                "Linux",
+                "Linux",
+                "Endorse"
+            ],
+            [
+                "Linux"
+            ],
+            [
+                "Consul",
+                "Consul",
+                "Endorse"
+            ],
+            [
+                "Consul"
+            ],
+            [
+                "SumoLogic",
+                "SumoLogic",
+                "Endorse"
+            ],
+            [
+                "SumoLogic"
+            ],
+            [
+                "Datadog Monitoring",
+                "Datadog Monitoring",
+                "Endorse"
+            ],
+            [
+                "Datadog Monitoring"
+            ]
+        ],
+        "summary": "    Experienced DevOps Engineer with a demonstrated history of working in the SaaS industry. Skilled in CentOS, Shell scripting, CI/CD pipelines, Atlassian products, SCRUM, and virtualization. Strong engineering professional that is highly motivated, self taught and devoted to growing. \n  \n  \n",
+        "name": "Marshall Nowak",
+        "title": "DevOps Engineer at OpenTech Alliance, Inc. | Self Storage Smarts",
+        "url": "linkedin.com/in/marshalljnowak",
+        "phone": "",
+        "email": "marshalljnowak@gmail.com"
+    }
+]

@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6195091065029083136/",
+    "participants": [
+        {
+            "name": "Wade Kariniemi",
+            "title": "Mobile Apps and Internet Of Things at General Dynamics Mission Systems",
+            "url": "linkedin.com/in/wade-kariniemi-ab884945",
+            "phone": null,
+            "email": "wkariniemi@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thanks for the connect!",
+            "time": "2017-10-05T04:40:00.000Z"
+        },
+        {
+            "from": "Wade Kariniemi",
+            "message": "Thank you!",
+            "time": "2017-10-05T04:41:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Any use for a software developer?",
+            "time": "2017-10-05T04:41:00.000Z"
+        },
+        {
+            "from": "Wade Kariniemi",
+            "message": "Not at the moment. Maybe soon",
+            "time": "2017-10-05T04:42:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Sweet!",
+            "time": "2017-10-05T04:43:00.000Z"
+        }
+    ]
+}

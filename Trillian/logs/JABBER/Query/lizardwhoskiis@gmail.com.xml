@@ -1,0 +1,11 @@
+<session type="Start" time="1226601052" medium="JABBER" from="bjcullinan@gmail.com" to="lizardwhoskiis@gmail.com"/>
+<session type="start" time="1226601052" medium="JABBER" to="lizardwhoskiis%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1226601059" medium="JABBER" to="lizardwhoskiis%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="did%20you%20take%20technical%20writing%20online%3F"/>
+<session type="stop" time="1226601060" medium="JABBER" to="lizardwhoskiis%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1236371468" medium="JABBER" to="lizardwhoskiis%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1236371477" medium="JABBER" to="lizardwhoskiis%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="Can%20you%20open%20the%20building%20for%20me%20on%20Sunday%3F"/>
+<session type="stop" time="1236373279" medium="JABBER" to="lizardwhoskiis%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1247172179" medium="JABBER" to="lizardwhoskiis%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1247172200" medium="JABBER" to="lizardwhoskiis%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="i%27ll%20be%20a%20little%20late%20today%2C%20i%20was%20up%20late%20last%20night%20rebiulding%20computers"/>
+<message type="incoming_privateMessage" time="1247172224" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="lizardwhoskiis%40gmail%2Ecom" from_display="Ben%20Liszewski" text="alright%20no%20problem"/>
+<session type="stop" time="1247173612" medium="JABBER" to="lizardwhoskiis%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>

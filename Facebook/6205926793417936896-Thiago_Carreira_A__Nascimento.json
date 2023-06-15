@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6205926793417936896/",
+    "participants": [
+        {
+            "name": "Thiago Carreira A. Nascimento",
+            "title": "Software Engineering\nTest Automation Analyst",
+            "url": "linkedin.com/in/tcanascimento",
+            "phone": "",
+            "email": "tcanascimento@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Thiago Carreira A. Nascimento",
+            "message": "Gostaria de adicioná-lo à minha rede profissional no LinkedIn.",
+            "time": "2017-10-27T02:08:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-10-27T02:08:00.000Z"
+        },
+        {
+            "from": "Thiago Carreira A. Nascimento",
+            "message": "Hi! Thanks for sharing and for the connection!",
+            "time": "2017-10-27T02:19:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "You must be a genius! Thank you for connecting!",
+            "time": "2017-10-27T02:26:00.000Z"
+        }
+    ]
+}

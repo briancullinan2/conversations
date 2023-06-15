@@ -1,0 +1,488 @@
+[
+    {
+        "resourceName": "people/c3970609252938534167",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgxtVEY1UzVud04zND0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "371a70140f47cd17"
+                    }
+                },
+                "displayName": "Joshua Grosso",
+                "familyName": "Grosso",
+                "givenName": "Joshua",
+                "displayNameLastFirst": "Grosso, Joshua"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "114359487962678637661"
+                    }
+                },
+                "displayName": "Joshua Grosso",
+                "familyName": "Grosso",
+                "givenName": "Joshua",
+                "displayNameLastFirst": "Grosso, Joshua"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "371a70140f47cd17"
+                    }
+                },
+                "value": "jgrosso@dynamynd.com",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "371a70140f47cd17"
+                    }
+                },
+                "value": "(480) 363-2434",
+                "canonicalForm": "+14803632434",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "9 Mutual Connections",
+                "You and Joshua both know Dave Bolman, Kristin Romaine, and 7 others"
+            ],
+            [
+                "You both worked at Dynamynd Inc.",
+                "Joshua worked at Dynamynd Inc. after you started"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Software Developer",
+                "Company Name",
+                "Axosoft",
+                "Dates Employed",
+                "Apr 2017 – Present",
+                "Employment Duration",
+                "7 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "As a developer on the GitKraken team, I write, debug, and maintain software, including internal tools and commercial applications, using React, Redux, and Electron; provide quality assurance; perform community management; and contribute to the company’s blog.",
+                "Media (1)",
+                "This position has 1 media",
+                "An Introduction to Functors",
+                "An Introduction to Functors",
+                "This media is a document"
+            ],
+            [
+                "Speaker - The Power of Optics (Inspire Talk)",
+                "Company Name",
+                "LambdaConf",
+                "Dates Employed",
+                "May 2017 – May 2017",
+                "Employment Duration",
+                "1 mo",
+                "Location",
+                "Boulder, Colorado",
+                "Presented an instructional Inspire talk on the usage of lenses (primarily in the Haskell programming language) to professional software developers at the LambdaConf 2017 functional programming conference."
+            ],
+            [
+                "Software Development Intern",
+                "Company Name",
+                "Axosoft",
+                "Dates Employed",
+                "Jul 2016 – Apr 2017",
+                "Employment Duration",
+                "10 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "As an intern on the GitKraken team, I wrote, debugged, and maintained software, including internal tools and commercial applications, using React, Redux, and Electron; provided quality assurance; performed community management; and contributed to the company’s blog."
+            ],
+            [
+                "Lead Software Developer",
+                "Company Name",
+                "Dynamynd Inc.",
+                "Dates Employed",
+                "Aug 2015 – Mar 2016",
+                "Employment Duration",
+                "8 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "Designed, implemented, and maintained a Ruby on Rails software system; administered databases and servers; managed equipment; supervised contractors; launched projects; and contributed to business meetings."
+            ],
+            [
+                "Software Developer",
+                "Company Name",
+                "Dynamynd Inc.",
+                "Dates Employed",
+                "Aug 2015 – Sep 2015",
+                "Employment Duration",
+                "2 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Designed, implemented, and maintained a Ruby on Rails software system; administered databases and servers; managed equipment; and contributed to business meetings."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Gary K. Herberger Young Scholars Academy",
+                "Grade",
+                "6-12",
+                "Dates attended or expected graduation",
+                "2011 – 2015",
+                "Activities and Societies:",
+                "National Honors Society, Student Government, Thespian Society, Linux Users Group",
+                "Co-valedictorian of first graduating class of 2015; Cambridge AICE diploma with Distinction; Gary K. Herberger Young Scholars Academy Scholar of the Year in 2013 and 2014; Thespian Society web developer, webmaster, Vice President, and Business Manager; president of National Honors Society; Vice President of Finance and Senator of Student Government; organizer and instructor of after-school C++ club"
+            ],
+            [
+                "Gary K. Herberger Young Scholars Academy",
+                "Grade",
+                "6-12",
+                "Dates attended or expected graduation",
+                "2011 – 2015",
+                "Activities and Societies:",
+                "National Honors Society, Student Government, Thespian Society, Linux Users Group",
+                "Co-valedictorian of first graduating class of 2015; Cambridge AICE diploma with Distinction; Gary K. Herberger Young Scholars Academy Scholar of the Year in 2013 and 2014; Thespian Society web developer, webmaster, Vice President, and Business Manager; president of National Honors Society; Vice President of Finance and Senator of Student Government; organizer and instructor of after-school C++ club"
+            ],
+            [
+                "Gold Coast Flight Training",
+                "Field Of Study",
+                "Aircraft Pilot (Private)",
+                "Dates attended or expected graduation",
+                "2016 – 2017",
+                "Training for a private pilot's license."
+            ],
+            [
+                "Gold Coast Flight Training",
+                "Field Of Study",
+                "Aircraft Pilot (Private)",
+                "Dates attended or expected graduation",
+                "2016 – 2017",
+                "Training for a private pilot's license."
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Web Developer, Advocacy",
+                "Company Name",
+                "Center for Gender Equity in Science and Technology",
+                "Dates volunteered",
+                "Sep 2017 – Present",
+                "Volunteer duration",
+                "2 mos",
+                "Cause",
+                "Education",
+                "Develop a digital repository to centralize information regarding opportunities for underprivileged students in the field of computer science."
+            ],
+            [
+                "Web Developer, Advocacy",
+                "Company Name",
+                "Center for Gender Equity in Science and Technology",
+                "Dates volunteered",
+                "Sep 2017 – Present",
+                "Volunteer duration",
+                "2 mos",
+                "Cause",
+                "Education",
+                "Develop a digital repository to centralize information regarding opportunities for underprivileged students in the field of computer science."
+            ],
+            [
+                "Organizer, Performer",
+                "Company Name",
+                "A Place to Play",
+                "Dates volunteered",
+                "Nov 2016 – Present",
+                "Volunteer duration",
+                "1 yr",
+                "Cause",
+                "Arts and Culture",
+                "Organize and perform in a volunteer group of high school instrumentalists and vocalists who entertain residents at local homes for the elderly on a biweekly basis."
+            ],
+            [
+                "Organizer, Performer",
+                "Company Name",
+                "A Place to Play",
+                "Dates volunteered",
+                "Nov 2016 – Present",
+                "Volunteer duration",
+                "1 yr",
+                "Cause",
+                "Arts and Culture",
+                "Organize and perform in a volunteer group of high school instrumentalists and vocalists who entertain residents at local homes for the elderly on a biweekly basis."
+            ],
+            [
+                "Technical Consultant",
+                "Company Name",
+                "International Gifted Consortium",
+                "Dates volunteered",
+                "Oct 2015 – Present",
+                "Volunteer duration",
+                "2 yrs 1 mo",
+                "Cause",
+                "Education",
+                "Develop and maintain the organization's WordPress website; administer its web server; manage domain registration; and provide technical advice."
+            ],
+            [
+                "Technical Consultant",
+                "Company Name",
+                "International Gifted Consortium",
+                "Dates volunteered",
+                "Oct 2015 – Present",
+                "Volunteer duration",
+                "2 yrs 1 mo",
+                "Cause",
+                "Education",
+                "Develop and maintain the organization's WordPress website; administer its web server; manage domain registration; and provide technical advice."
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Compiler VM And Language Design",
+                "807 members"
+            ],
+            [
+                "Functional Programming",
+                "22,254 members"
+            ],
+            [
+                "Axosoft",
+                "1,015 followers"
+            ],
+            [
+                "TechCrunch",
+                "1,844,538 followers"
+            ],
+            [
+                "INTERNATIONAL GIFTED CONSORTIUM",
+                "2 followers"
+            ],
+            [
+                "Google",
+                "5,189,003 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (95)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Compiler VM And Language Design",
+                "807 members"
+            ],
+            [
+                "Compiler VM And Language Design",
+                "807 members"
+            ],
+            [
+                "Functional Programming",
+                "22,254 members"
+            ],
+            [
+                "Functional Programming",
+                "22,254 members"
+            ],
+            [
+                "Axosoft",
+                "1,015 followers"
+            ],
+            [
+                "Axosoft",
+                "1,015 followers"
+            ],
+            [
+                "TechCrunch",
+                "1,844,538 followers"
+            ],
+            [
+                "TechCrunch",
+                "1,844,538 followers"
+            ],
+            [
+                "INTERNATIONAL GIFTED CONSORTIUM",
+                "2 followers"
+            ],
+            [
+                "INTERNATIONAL GIFTED CONSORTIUM",
+                "2 followers"
+            ],
+            [
+                "Google",
+                "5,189,003 followers"
+            ],
+            [
+                "Google",
+                "5,189,003 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Software",
+                "See 2 endorsements for Software",
+                "2",
+                "Software",
+                "Remove Endorsement",
+                "You and 1 connection have given endorsements for this skill"
+            ],
+            [
+                "Software",
+                "See 2 endorsements for Software",
+                "2"
+            ],
+            [
+                "Software Development",
+                "See 2 endorsements for Software Development",
+                "2",
+                "Software Development",
+                "Remove Endorsement",
+                "You and 1 connection have given endorsements for this skill"
+            ],
+            [
+                "Software Development",
+                "See 2 endorsements for Software Development",
+                "2"
+            ],
+            [
+                "Software Engineering",
+                "See 2 endorsements for Software Engineering",
+                "2",
+                "Software Engineering",
+                "Remove Endorsement",
+                "You and 1 connection have given endorsements for this skill"
+            ],
+            [
+                "Software Engineering",
+                "See 2 endorsements for Software Engineering",
+                "2"
+            ],
+            [
+                "Web Development",
+                "See 2 endorsements for Web Development",
+                "2",
+                "Web Development",
+                "Remove Endorsement"
+            ],
+            [
+                "Web Development",
+                "See 2 endorsements for Web Development",
+                "2"
+            ],
+            [
+                "JavaScript",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript"
+            ],
+            [
+                "React.js",
+                "React.js",
+                "Endorse"
+            ],
+            [
+                "React.js"
+            ],
+            [
+                "Redux",
+                "Redux",
+                "Endorse"
+            ],
+            [
+                "Redux"
+            ],
+            [
+                "Node.js",
+                "Node.js",
+                "Endorse"
+            ],
+            [
+                "Node.js"
+            ],
+            [
+                "Ruby on Rails",
+                "See 2 endorsements for Ruby on Rails",
+                "2",
+                "Ruby on Rails",
+                "Endorse"
+            ],
+            [
+                "Ruby on Rails",
+                "See 2 endorsements for Ruby on Rails",
+                "2"
+            ],
+            [
+                "Ruby",
+                "Ruby",
+                "Endorse"
+            ],
+            [
+                "Ruby"
+            ],
+            [
+                "Haskell",
+                "Haskell",
+                "Endorse"
+            ],
+            [
+                "Haskell"
+            ],
+            [
+                "C#",
+                "See 2 endorsements for C#",
+                "2",
+                "C#",
+                "Endorse"
+            ],
+            [
+                "C#",
+                "See 2 endorsements for C#",
+                "2"
+            ]
+        ],
+        "summary": "    Software developer who's been programming since he was 9 years old and loves learning anything and everything. Currently dabbling in Functional Programming with Haskell (and Purescript), but has professional RoR and JS/HTML/CSS experience.Blogs at https://programmerspursuit.wordpress.com/.\n  \n  \n",
+        "name": "Joshua Grosso",
+        "title": "Software Developer at Axosoft",
+        "url": "linkedin.com/in/joshuagrosso",
+        "phone": null,
+        "email": "jgrosso1@asu.edu"
+    }
+]

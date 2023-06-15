@@ -1,0 +1,375 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "12 Mutual Connections",
+                "You and Alexander both know Sean Callahan, Robert Racoosin, and 10 others"
+            ],
+            [
+                "You both work at Swiftpage",
+                "Alexander started at Swiftpage 2 months before you did"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Senior Software Engineer",
+                "Company Name",
+                "Swiftpage",
+                "Dates Employed",
+                "Jan 2017 – Present",
+                "Employment Duration",
+                "11 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "Phonegap/Cordova, Angular 2, Typescript"
+            ],
+            [
+                "Engineer I",
+                "Company Name",
+                "American Express",
+                "Dates Employed",
+                "Aug 2016 – Dec 2016",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Refactored legacy code to better leverage Angular JS strengths thereby increasing testability by conforming to the framework’s style. Added new angular components and functionality, while fixing outstanding defects.  Also, constructed a new multi-lingual/region login application page for card holders driven by jQuery/vanilla JS dynamically updating the DOM based on JSON data fetched from several sources asynchronously coupled with css media queries at strategic breakponts for responsive design.    Worked with gulp for automating builds and Jenkins for deployment."
+            ],
+            [
+                "Full Stack Developer",
+                "Company Name",
+                "EMV Payment Systems",
+                "Dates Employed",
+                "Mar 2015 – Feb 2016",
+                "Employment Duration",
+                "1 yr",
+                "Location",
+                "Phoenix, AZ",
+                "As part of a small 2 person agile team built Inventory and Inside Sales dialing systems utilizing WebRTC, Angular JS powering the front end, with Express and Mongo handling the REST API and data.  Mocha/Chai for Unit Tests.  WebStorm IDE, Github and JIRA as dev tools."
+            ],
+            [
+                "Designer • Architect",
+                "Company Name",
+                "Grudgemirror/Futureland",
+                "Dates Employed",
+                "Dec 2013 – 2015",
+                "Employment Duration",
+                "2 yrs",
+                "This is project is in continuous development as a satirical news site with user generated content.   Tools used include a custom Wordpress implementation  with some unique php and jQuery pop-up Easter eggs. Revamped CSS and HTML in fTelnet HTML 5 telnet software to function on a mobile device, a first in the community. Designed all graphics, including animated GIFs and ASCII artwork for website and console.   Used javascript to build custom telnet server based off  Synchronet BBS software as Easter egg. Created console interface displaying live RSS feeds, chat and messaging with conditional formatting. Designed modules for Wordpress REST API and twitter to perform CRUD operations using javascript object prototypes. Reverse engineered 1977 BASIC code for Oregon Trail game and re-adapted it in javascript as a telnet console game with scores hosted on a remote object oriented database stored in JSON format."
+            ],
+            [
+                "Algorithm Refinement",
+                "Company Name",
+                "Leapforce",
+                "Dates Employed",
+                "Nov 2012 – Nov 2013",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Work to improve quality of Google search algorithm using a proprietary test methodology"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of California, Santa Cruz",
+                "Degree Name",
+                "B.A.",
+                "Field Of Study",
+                "Economics",
+                "Dates attended or expected graduation",
+                "1996 – 2000",
+                "Activities and Societies:",
+                "Accounting, Econometrics, Performing arts in the Economy, Electronic Commerce, Strategic Business, Labor, Economic Analysis of the law, Marketing, Supply chain Management"
+            ],
+            [
+                "University of California, Santa Cruz",
+                "Degree Name",
+                "B.A.",
+                "Field Of Study",
+                "Economics",
+                "Dates attended or expected graduation",
+                "1996 – 2000",
+                "Activities and Societies:",
+                "Accounting, Econometrics, Performing arts in the Economy, Electronic Commerce, Strategic Business, Labor, Economic Analysis of the law, Marketing, Supply chain Management"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "Assembly Language, Project Management, OS Design",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2009 – 2010"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "Assembly Language, Project Management, OS Design",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2009 – 2010"
+            ],
+            [
+                "Scottsdale Community College",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2011 – 2012",
+                "Took courses and completed projects in C++, Objective-C(iPhone) and SQL.  Also designed a designed an 80 page UML specification for online photo gallery utilizing PHP."
+            ],
+            [
+                "Scottsdale Community College",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2011 – 2012",
+                "Took courses and completed projects in C++, Objective-C(iPhone) and SQL.  Also designed a designed an 80 page UML specification for online photo gallery utilizing PHP."
+            ],
+            [
+                "San Francisco State University",
+                "Degree Name",
+                "C.E.L.",
+                "Field Of Study",
+                "Music Industry",
+                "Dates attended or expected graduation",
+                "2006 – 2006",
+                "Courses : Publishing, Legal Issues, Popular Music marketing, Venue Management (Assembled an industry showcase at a major venue in San Francisco,  Analog Systems Design and Implementation."
+            ],
+            [
+                "San Francisco State University",
+                "Degree Name",
+                "C.E.L.",
+                "Field Of Study",
+                "Music Industry",
+                "Dates attended or expected graduation",
+                "2006 – 2006",
+                "Courses : Publishing, Legal Issues, Popular Music marketing, Venue Management (Assembled an industry showcase at a major venue in San Francisco,  Analog Systems Design and Implementation."
+            ],
+            [
+                "University of San Francisco School of Law",
+                "Degree Name",
+                "Contracts, Legal Writing, Torts, Civil Procedure, Moot Court",
+                "Field Of Study",
+                "Law",
+                "Dates attended or expected graduation",
+                "2003 – 2004",
+                "Although my studies in law have not progressed to the point of completion or accreditation, I received a decent foundation in the principles of formal logic, doing legal research, forming arguments and various other general methodologies that have proved a valuable asset over time"
+            ],
+            [
+                "University of San Francisco School of Law",
+                "Degree Name",
+                "Contracts, Legal Writing, Torts, Civil Procedure, Moot Court",
+                "Field Of Study",
+                "Law",
+                "Dates attended or expected graduation",
+                "2003 – 2004",
+                "Although my studies in law have not progressed to the point of completion or accreditation, I received a decent foundation in the principles of formal logic, doing legal research, forming arguments and various other general methodologies that have proved a valuable asset over time"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See 16 more skills"
+            ],
+            "Recommendations",
+            [
+                "EmberJS",
+                "1,984 members"
+            ],
+            [
+                "JavaScript",
+                "136,972 members"
+            ],
+            [
+                "JavaScript Professional Group",
+                "12,573 members"
+            ],
+            [
+                "Swiftpage",
+                "4,723 followers"
+            ],
+            [
+                "Scottsdale Community College",
+                "20,117 followers"
+            ],
+            [
+                "San Francisco State University",
+                "190,851 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "EmberJS",
+                "1,984 members"
+            ],
+            [
+                "EmberJS",
+                "1,984 members"
+            ],
+            [
+                "JavaScript",
+                "136,972 members"
+            ],
+            [
+                "JavaScript",
+                "136,972 members"
+            ],
+            [
+                "JavaScript Professional Group",
+                "12,573 members"
+            ],
+            [
+                "JavaScript Professional Group",
+                "12,573 members"
+            ],
+            [
+                "Swiftpage",
+                "4,723 followers"
+            ],
+            [
+                "Swiftpage",
+                "4,723 followers"
+            ],
+            [
+                "Scottsdale Community College",
+                "20,117 followers"
+            ],
+            [
+                "Scottsdale Community College",
+                "20,117 followers"
+            ],
+            [
+                "San Francisco State University",
+                "190,851 followers"
+            ],
+            [
+                "San Francisco State University",
+                "190,851 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "William Charles",
+                "Technical Recruiter at TEKsystems",
+                "May 15, 2017, Alexander was a client of William’s",
+                "I had the opportunity to work with Alexander on 2 separate occasions and he has shown to be a great partner to work with. He is very professional and is able to communicate in a way that helps people understand the task that  he is working on. I highly recommend Alex as a Sr. UI engineer."
+            ],
+            [
+                "William Charles",
+                "Technical Recruiter at TEKsystems",
+                "May 15, 2017, Alexander was a client of William’s"
+            ],
+            [
+                "William Charles",
+                "Technical Recruiter at TEKsystems",
+                "May 15, 2017, Alexander was a client of William’s"
+            ],
+            [
+                "William Charles",
+                "Technical Recruiter at TEKsystems",
+                "May 15, 2017, Alexander was a client of William’s"
+            ],
+            "Technical Recruiter at TEKsystems",
+            [
+                "I had the opportunity to work with Alexander on 2 separate occasions and he has shown to be a great partner to work with. He is very professional and is able to communicate in a way that helps people understand the task that  he is working on. I highly recommend Alex as a Sr. UI engineer."
+            ],
+            [
+                "I had the opportunity to work with Alexander on 2 separate occasions and he has shown to be a great partner to work with. He is very professional and is able to communicate in a way that helps people understand the task that  he is working on. I highly recommend Alex as a Sr. UI engineer."
+            ],
+            [
+                "William Charles",
+                "Technical Recruiter at TEKsystems",
+                "October 24, 2017, Alexander worked with William but at different companies",
+                "Will is a bright, curious, hard-working, friendly and genuine guy.  He worked with me as a recruiter and went way beyond the extra mile in gaining an understanding of which skills matched what environments - he's taken it to the next level by learning how to code in the since I've met him, working on his own projects.  I have no doubt that Will has the drive, intelligence, communication skills and all around savvy to make an awesome contributor to any team."
+            ],
+            [
+                "William Charles",
+                "Technical Recruiter at TEKsystems",
+                "October 24, 2017, Alexander worked with William but at different companies"
+            ],
+            [
+                "William Charles",
+                "Technical Recruiter at TEKsystems",
+                "October 24, 2017, Alexander worked with William but at different companies"
+            ],
+            [
+                "William Charles",
+                "Technical Recruiter at TEKsystems",
+                "October 24, 2017, Alexander worked with William but at different companies"
+            ],
+            "Technical Recruiter at TEKsystems",
+            [
+                "Will is a bright, curious, hard-working, friendly and genuine guy.  He worked with me as a recruiter and went way beyond the extra mile in gaining an understanding of which skills matched what environments - he's taken it to the next level by learning how to code in the since I've met him, working on his own projects.  I have no doubt that Will has the drive, intelligence, communication skills and all around savvy to make an awesome contributor to any team."
+            ],
+            [
+                "Will is a bright, curious, hard-working, friendly and genuine guy.  He worked with me as a recruiter and went way beyond the extra mile in gaining an understanding of which skills matched what environments - he's taken it to the next level by learning how to code in the since I've met him, working on his own projects.  I have no doubt that Will has the drive, intelligence, communication skills and all around savvy to make an awesome contributor to any team."
+            ]
+        ],
+        "skills": [
+            [
+                "Marketing",
+                "See 8 endorsements for Marketing",
+                "8",
+                "Marketing",
+                "Endorse",
+                "Jason Raichert and 7 connections have given endorsements for this skill"
+            ],
+            [
+                "Marketing",
+                "See 8 endorsements for Marketing",
+                "8"
+            ],
+            [
+                "Social Media",
+                "See 5 endorsements for Social Media",
+                "5",
+                "Social Media",
+                "Endorse",
+                "David Messimore and 4 connections have given endorsements for this skill"
+            ],
+            [
+                "Social Media",
+                "See 5 endorsements for Social Media",
+                "5"
+            ],
+            [
+                "Event Management",
+                "See 4 endorsements for Event Management",
+                "4",
+                "Event Management",
+                "Endorse",
+                "Eric Nowlin and 3 connections have given endorsements for this skill"
+            ],
+            [
+                "Event Management",
+                "See 4 endorsements for Event Management",
+                "4"
+            ]
+        ],
+        "summary": "    Hi there.  Recently I've been doing full stack node js development with angular on the front end and mongo db powering the back end.  I enjoy it.  Thanks for stopping by!\n  \n  \n",
+        "name": "Alexander Mowery",
+        "title": "Senior Software Developer",
+        "url": "linkedin.com/in/alexander-mowery-946b0312",
+        "phone": "",
+        "email": "alexmowery2016@gmail.com"
+    }
+]

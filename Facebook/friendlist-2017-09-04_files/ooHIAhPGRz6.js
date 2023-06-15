@@ -1,0 +1,5 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["ZsrFG"]); }
+
+__d('TahoeActionTypes',['keyMirror'],(function a(b,c,d,e,f,g){'use strict';var h=c('keyMirror')({SET_MC:null});f.exports=h}),null);
+__d('TahoeDispatcher',['ExplicitRegistrationReactDispatcher'],(function a(b,c,d,e,f,g){'use strict';var h,i;h=babelHelpers.inherits(j,c('ExplicitRegistrationReactDispatcher'));i=h&&h.prototype;function j(k){i.constructor.call(this,k);this.dispatch=this.dispatch.bind(this)}f.exports=new j({strict:true})}),null);
+__d('TahoeVideoStore',['TahoeDispatcher','FluxMapStore','immutable','TahoeActionTypes'],(function a(b,c,d,e,f,g){'use strict';var h,i;h=babelHelpers.inherits(j,c('FluxMapStore'));i=h&&h.prototype;j.prototype.reduce=function(k,l){switch(l.type){case c('TahoeActionTypes').SET_MC:k=k.set('mediaController',l.mediaController);break;default:break;}return k};function j(){h.apply(this,arguments)}f.exports=new j(c('TahoeDispatcher'))}),null);

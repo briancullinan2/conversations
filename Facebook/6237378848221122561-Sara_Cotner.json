@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6237378848221122561/",
+    "participants": [
+        {
+            "name": "Sara Cotner",
+            "title": "Founder & Executive Director at Montessori For All",
+            "url": "linkedin.com/in/saracotner",
+            "phone": null,
+            "email": "saracotner@montessoriforall.org"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-14T21:16:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

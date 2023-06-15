@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6280778120224129024/",
+    "participants": [
+        {
+            "name": "Kendall Pearson",
+            "title": "Professional Recruiter at Insight Global",
+            "url": "linkedin.com/in/kendall-pearson-08637bb2",
+            "phone": "",
+            "email": "kendall.pearson@comcast.net"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Kendall Pearson",
+            "time": "2017-06-14T12:00:00.000Z",
+            "message": "Direct Hire Job Opportunity with Honeywell!\n\nBrian, \n\nI hope all is well!\n\nI recently came across your LinkedIn profile, and wanted to speak with you about a Permanent Opening as a C# .Net Developer with Honeywell in the midtown Atlanta area (will pay for relocation). \nHoneywell is currently building out their entire software center, and is looking for developers at all levels of experience and background. It is a very collaborative environment that encourages team work and team building activities such as regular catered lunches and happy hours. This being said, you do have to work on-site, however, unlike many other employers, they offer unlimited paid-time-off to encourage a good business-personal life balance. \nAfter reviewing your previous experience and skillset on Linkedin, I think you could be a great fit for one of these developer positions. When you have a moment, please call me at the office at 404-335-7277 or 404-257-7900.\n\nI hope you have a wonderful day, and I look forward to hearing from you!\n\nBest,\n\nKendall Pearson\nKendall.Pearson@InsightGlobal.com\n404-257-7900\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-14T15:34:00.000Z",
+            "message": "I won't work in Atlanta. That sounds bad. Did you know Phoenix has the perfect climate for growing fruit trees?\n"
+        }
+    ]
+}

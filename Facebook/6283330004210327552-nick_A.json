@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6283330004210327552/",
+    "participants": [
+        {
+            "name": "nick A",
+            "title": "CEO at DNM",
+            "url": "linkedin.com/in/nick-a-6374b15b",
+            "phone": "",
+            "email": "nick@affluentventures.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-06-21T16:32:00.000Z",
+            "message": "Are you busy?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-21T16:32:00.000Z",
+            "message": "Do you know anyone in Phoenix that can file for domain name arbitration?\n"
+        }
+    ]
+}

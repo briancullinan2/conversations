@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6227189790614310913/",
+    "participants": [
+        {
+            "name": "Robin Leigh",
+            "title": "Founder/CEO at Certified Charitable Giving Alliance, Inc.",
+            "url": "linkedin.com/in/robinleighaz",
+            "phone": "602 652 2220 (Work)",
+            "email": "robin@ccgalliance.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-01-17T18:29:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Robin Leigh",
+            "time": "2018-01-22T22:29:00.000Z",
+            "message": "Sure Brian, nice to meet you. Robin\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-01-23T01:40:00.000Z",
+            "message": "I like that. Nice to \"meet\" you.\n"
+        },
+        {
+            "from": "Robin Leigh",
+            "time": "2017-03-08T17:21:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-08T18:38:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

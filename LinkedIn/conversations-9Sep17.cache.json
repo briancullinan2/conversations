@@ -1,0 +1,110 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "9Sep17",
+    "participants": "Brian Cullinan | wizard > Nathan Rohweder | Quality Assurance Engineer at Novelist",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Nathan Rohweder",
+        "url": "linkedin.com/in/nathan-rohweder-8b1026121",
+        "email": "rohwedernt@gmail.com",
+        "title": "Quality Assurance Engineer at Novelist"
+      }
+    ],
+    "message": "If you aren't working as close as possible to a billion dollar tech company, you are wasting your time. I am only saying this because I love you. Apply online today while you are employed and have to confidence to ask for more money. Please tell your dad this and I guarantee he will tell you it's a great idea. I just had an interview at Cruise Automation!",
+    "time": "2017-09-09T17:37:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "9Sep17",
+    "participants": "Nathan Rohweder | Quality Assurance Engineer at Novelist > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Nathan Rohweder",
+        "url": "linkedin.com/in/nathan-rohweder-8b1026121",
+        "email": "rohwedernt@gmail.com",
+        "title": "Quality Assurance Engineer at Novelist"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Hey buddy! Great to hear from you. Those are words of wisdom I'm sure. I'm making my way that direction but not quite there. Glad to hear everything is going well. Would love to see you before too long and/or pick your brain about the tech industry some more.",
+    "time": "2017-09-09T17:47:00.000Z",
+    "title": "Quality Assurance Engineer at Novelist"
+  },
+  {
+    "type": "conversations",
+    "conversations": "9Sep17",
+    "participants": "Brian Cullinan | wizard > Paul Falkenbach | VP Sales & Marketing at National Sign Systems",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Paul Falkenbach",
+        "url": "linkedin.com/in/paul-falkenbach-0491a83",
+        "email": "pfalkenbach@natsignsys.com",
+        "title": "VP Sales & Marketing at National Sign Systems"
+      }
+    ],
+    "message": "I just got laid off from work, I'd love to talk to you about everything I've learned over 6 years of innovation in technology.",
+    "time": "2017-09-09T19:56:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "9Sep17",
+    "participants": "Brian Cullinan | wizard > Paul Falkenbach | VP Sales & Marketing at National Sign Systems",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Paul Falkenbach",
+        "url": "linkedin.com/in/paul-falkenbach-0491a83",
+        "email": "pfalkenbach@natsignsys.com",
+        "title": "VP Sales & Marketing at National Sign Systems"
+      }
+    ],
+    "message": "4804660856",
+    "time": "2017-09-09T19:56:00.000Z",
+    "title": "wizard"
+  }
+]

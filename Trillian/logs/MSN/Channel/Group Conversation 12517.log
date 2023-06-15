@@ -1,0 +1,502 @@
+﻿Session Start (b.cullinan@cox.net:Group Conversation 12517): Wed Jun 20 13:18:44 2007
+[06/20/2007 01:18:53 PM] Alex Markov: dont leave convos
+[06/20/2007 01:18:55 PM] Alex Markov: im rdy
+[06/20/2007 01:19:02 PM] Alex Markov: ok SVN
+[06/20/2007 01:19:04 PM] Brian Cullinan: ok
+[06/20/2007 01:19:12 PM] Alex Markov: i send brian a starting file strcuture
+[06/20/2007 01:19:18 PM] Alex Markov: this is the way i have it rpoganized on my comp
+[06/20/2007 01:19:29 PM] Alex Markov: i have a folder RPS files
+[06/20/2007 01:19:36 PM] Alex Markov: where all files are separated by deperaments
+[06/20/2007 01:19:42 PM] Alex Markov: and then a folder for Clients
+[06/20/2007 01:19:50 PM] Robert Douglas: can u just send me the structure
+[06/20/2007 01:19:50 PM] Alex Markov: and all client files and websites and images are there
+[06/20/2007 01:20:06 PM] Robert Douglas: file strucutre is better seen by looking at the structure itself, as opposed to talking about it
+[06/20/2007 01:20:08 PM] Alex Markov: sent
+[06/20/2007 01:20:15 PM] Alex Markov: RPS Internal 
+ 
+ACC  
+HR  
+PM  
+OPM  
+MAR  
+RND   
+ART  
+WH  
+SUP  
+ 
+ 
+ 
+CLIENTS 
+ 
+JAM 
+NYB 
+FFZ 
+
+[06/20/2007 01:20:26 PM] Alex Markov: so we have 2 SVNs
+[06/20/2007 01:20:30 PM] Alex Markov: rps internal and clients
+[06/20/2007 01:20:35 PM] Brian Cullinan: can we write out the names?
+[06/20/2007 01:20:36 PM] Robert Douglas:    
+You cannot start File Transfer with more than one contact in a conversation.
+[06/20/2007 01:20:48 PM] Robert Douglas: please dont go forward until i get this structure
+[06/20/2007 01:20:49 PM] Alex Markov: however... perhaps client FILES should be kept in RPS svn under the PM database
+[06/20/2007 01:20:57 PM] Alex Markov: RPS Internal 
+ 
+ACC  
+HR  
+PM  
+OPM  
+MAR  
+RND   
+ART  
+WH  
+SUP  
+ 
+ 
+ 
+CLIENTS 
+ 
+JAM 
+NYB 
+FFZ 
+
+[06/20/2007 01:21:03 PM] Alex Markov: do u see that?
+[06/20/2007 01:21:05 PM] Robert Douglas: yes
+[06/20/2007 01:21:11 PM] Robert Douglas: is that's what inside the txt file?
+[06/20/2007 01:21:15 PM] Alex Markov: yes
+[06/20/2007 01:21:17 PM] Robert Douglas: k
+[06/20/2007 01:21:24 PM] Alex Markov: brian we are gona use prefexies and codes
+[06/20/2007 01:21:32 PM] Alex Markov: all major companies do that
+[06/20/2007 01:21:43 PM] Alex Markov: it saves time typing and is much better to organize
+[06/20/2007 01:22:03 PM] Alex Markov: its rly simple. u will get used to it
+[06/20/2007 01:22:07 PM] Robert Douglas: did we put the info about the sub domains the svn is gunna be using inside a meeting? or was it inside a project?
+[06/20/2007 01:22:11 PM] Brian Cullinan: lets make both and option
+[06/20/2007 01:22:23 PM] Brian Cullinan: because i am confused as to what some of those stand for
+[06/20/2007 01:22:26 PM] Alex Markov: well we can make the folders ACC: Accounting
+[06/20/2007 01:22:28 PM] Alex Markov: for example
+[06/20/2007 01:22:45 PM] Brian Cullinan: we can make both folders lead to the same config
+[06/20/2007 01:23:04 PM] Robert Douglas: yeah, let's name it ACC - Accounting
+[06/20/2007 01:23:36 PM] Brian Cullinan: we can have a folder just "ACC" and "ACC - Accounting" and "Accounting" all go to the same place
+[06/20/2007 01:23:40 PM] Alex Markov: brian should have the two SVNs we were gonna make
+[06/20/2007 01:23:48 PM] Robert Douglas: yes, but i forgot the sub domain names
+[06/20/2007 01:23:49 PM] Alex Markov: nono too many folders
+[06/20/2007 01:23:56 PM] Robert Douglas: let's just have 1 folder, ACC - Accounting
+[06/20/2007 01:24:02 PM] Alex Markov: ACC: Accounting
+[06/20/2007 01:24:07 PM] Alex Markov: we are using a colon in sugar
+[06/20/2007 01:24:11 PM] Brian Cullinan: its a feature of linux, they aren't actually real folders
+[06/20/2007 01:24:28 PM] Alex Markov: yes but we should not have a huge list
+[06/20/2007 01:24:30 PM] Robert Douglas: a colon isnt alaays an allowed character
+[06/20/2007 01:24:36 PM] Brian Cullinan: just give me the list so i know what they are actually called
+[06/20/2007 01:24:42 PM] Brian Cullinan: yeah a colon won't work
+[06/20/2007 01:24:56 PM] Alex Markov: ACC Accounting  
+HR Human Resources  
+PM Project management 
+OPM Operations management 
+MAR Marketing 
+RAD  Research and development (R&D)  
+ART Articles and reviews 
+WH Web hosting department 
+SUP Support Department 
+
+[06/20/2007 01:25:04 PM] Alex Markov: why? programming issue?
+[06/20/2007 01:25:22 PM] Robert Douglas: sorta, a colon usually represents a port number
+[06/20/2007 01:25:35 PM] Alex Markov: k we can do -
+[06/20/2007 01:26:20 PM] Robert Douglas: alex, what are the sub domains we're going to use for the svn?
+[06/20/2007 01:26:31 PM] Alex Markov: brian should have them
+[06/20/2007 01:26:36 PM] Alex Markov: i forget what we decided
+[06/20/2007 01:26:39 PM] Robert Douglas: it was put inside either a meeting, or instide our project
+[06/20/2007 01:26:48 PM] Robert Douglas: but i cant find the meeting, and i dont see it attached to the project
+[06/20/2007 01:27:03 PM] Alex Markov: i dont think it was
+[06/20/2007 01:27:39 PM] Alex Markov: lets do this quickly guys i dont have much time
+[06/20/2007 01:27:46 PM] Alex Markov: i jsut checked i cant find it
+[06/20/2007 01:27:55 PM] Alex Markov: doc and dev
+[06/20/2007 01:27:56 PM] Alex Markov: maybe
+[06/20/2007 01:27:59 PM] Brian Cullinan: can't find the subdomains?
+[06/20/2007 01:28:05 PM] Alex Markov: doc and code
+[06/20/2007 01:28:10 PM] Brian Cullinan: yeah
+[06/20/2007 01:28:12 PM] Robert Douglas: i think i made acpanel for it, let me check
+[06/20/2007 01:28:14 PM] Alex Markov: doc.rp-s.com and code.rp-s.com
+[06/20/2007 01:28:26 PM] Robert Douglas: docs.rp-s.com
+[06/20/2007 01:28:32 PM] Brian Cullinan: and we still have the passwords for those correct?
+[06/20/2007 01:28:46 PM] Robert Douglas: webs.rp-s.com / docs.rp-s.com
+[06/20/2007 01:28:57 PM] Robert Douglas: i gave u the pw over msn and said to put it into pmxp
+[06/20/2007 01:28:58 PM] Alex Markov: so docs and webs
+[06/20/2007 01:29:00 PM] Robert Douglas: but i can always reset it
+[06/20/2007 01:29:22 PM] Brian Cullinan: i remember generating them and you said save those in pmxp, but i can look them up in history
+[06/20/2007 01:29:38 PM] Alex Markov: so under docs we will have our departments. and under webs we will have our websites
+[06/20/2007 01:29:40 PM] Robert Douglas: yeah, so they should be in pmxp, if not, we can reset it, so no worries
+[06/20/2007 01:29:52 PM] Alex Markov: the question is where to client files such as contracts and stuff go
+[06/20/2007 01:29:56 PM] Alex Markov: should they go witht he client websites
+[06/20/2007 01:30:03 PM] Alex Markov: or with the rps internal documenets
+[06/20/2007 01:30:13 PM] Alex Markov: if they go in internal documents then we need to maintain 2 client folder lists
+[06/20/2007 01:30:23 PM] Brian Cullinan: i think under each client site there should be a website folder for the actual website
+[06/20/2007 01:30:46 PM] Alex Markov: client site?
+[06/20/2007 01:30:49 PM] Alex Markov: u mean client folder?
+[06/20/2007 01:30:56 PM] Brian Cullinan: so the client documents will be stored in the client folder, then the website will be stored in Website inside that folder
+[06/20/2007 01:31:12 PM] Alex Markov: the webs.rp-s.com is not a good name for it
+[06/20/2007 01:31:21 PM] Alex Markov: clients.rp-s.com
+[06/20/2007 01:31:39 PM] Brian Cullinan: Client
+     projectspec.doc
+     Website
+         index.html
+[06/20/2007 01:31:57 PM] Brian Cullinan: 
+ Client
+     projectspec.doc
+     Website
+         index.html
+[06/20/2007 01:32:01 PM] Brian Cullinan: like that
+[06/20/2007 01:32:19 PM] Alex Markov: Client 
+-PO 
+-PC 
+-Images 
+-Website
+[06/20/2007 01:32:25 PM] Alex Markov: this is the way i have it organized on my comp
+[06/20/2007 01:32:28 PM] Robert Douglas: webs.rp-s.com 
+ 
+JAM 
+- jambonie.com 
+- - docs 
+- - website 
+NYB 
+- nybeauty.com 
+- - docs 
+- - website 
+FFZ 
+- fireandfriendsz.com 
+- - docs 
+- - website
+[06/20/2007 01:32:31 PM] Brian Cullinan: that works
+[06/20/2007 01:32:41 PM] Brian Cullinan: yeah
+[06/20/2007 01:32:44 PM] Brian Cullinan: i like that
+[06/20/2007 01:32:54 PM] Alex Markov: it should be NYB- nybeuaty.com
+[06/20/2007 01:32:55 PM] Robert Douglas: docs will contain the protocols, images, notes, and whatever else needs to be inside the site
+[06/20/2007 01:33:02 PM] Alex Markov: like ACC- Accounting
+[06/20/2007 01:33:08 PM] Robert Douglas: no, because the client is NYB, and the client can have multiple domains/projects
+[06/20/2007 01:33:22 PM] Robert Douglas: NYB is the client's account's name
+[06/20/2007 01:33:32 PM] Robert Douglas: then you select the project
+[06/20/2007 01:33:36 PM] Alex Markov: i think it should be 
+Client 
+-PC 
+-Image 
+-Website
+[06/20/2007 01:33:48 PM] Alex Markov: no point to make a docs folder
+[06/20/2007 01:33:49 PM] Robert Douglas: PC and Image should be in a docs foldef
+[06/20/2007 01:33:51 PM] Alex Markov: inside a client folder
+[06/20/2007 01:34:08 PM] Alex Markov: why
+[06/20/2007 01:34:30 PM] Robert Douglas: because the project overview doesnt need to be in its' own folder, it is just going to be a single file
+[06/20/2007 01:35:00 PM] Robert Douglas: we will have an overall document/documentation folder called "docs" which will contain all documents, images, and any specific documentation we need to manage the site
+[06/20/2007 01:35:33 PM] Robert Douglas: if there is a specific protocol that needs to be followed for logging into some specific account, we will be able to put it in the docs folder
+[06/20/2007 01:36:01 PM] Alex Markov: sec phone
+[06/20/2007 01:36:31 PM] Robert Douglas: brian, if we want to give out developer access to the jambonie.com website folder (using the file structure: 
+JAM 
+- jambonie.com 
+- - docs 
+- - website 
+ 
+ 
+we will be able to give them the full location, such as webs.rp-s.com/JAM/jambonie.com/website/
+[06/20/2007 01:36:32 PM] Robert Douglas: right?
+[06/20/2007 01:36:42 PM] Brian Cullinan: yes
+[06/20/2007 01:36:46 PM] Robert Douglas: k, sexy
+[06/20/2007 01:37:00 PM] Robert Douglas: do u have anymore comments about using the docs folder, over having multiple folders?
+[06/20/2007 01:37:10 PM] Robert Douglas: (that was directed to brian)
+[06/20/2007 01:37:18 PM] Brian Cullinan: it looks good
+[06/20/2007 01:37:23 PM] Brian Cullinan: i like that filestructure
+[06/20/2007 01:37:34 PM] Alex Markov: nice
+[06/20/2007 01:37:34 PM] Robert Douglas: k, then let's wait for alex to reply about it
+[06/20/2007 01:37:39 PM] Alex Markov: ok brian organize it
+[06/20/2007 01:37:45 PM] Robert Douglas: u approve alex?
+[06/20/2007 01:37:49 PM] Alex Markov: get it up ASAP
+[06/20/2007 01:37:52 PM] Alex Markov: yes
+[06/20/2007 01:37:57 PM] Robert Douglas: k
+[06/20/2007 01:37:59 PM] Robert Douglas: so our webs.rp-s.com is finalized
+[06/20/2007 01:38:00 PM] Brian Cullinan: ok
+[06/20/2007 01:38:01 PM] Robert Douglas: all agree?
+[06/20/2007 01:38:09 PM] Alex Markov: yes
+[06/20/2007 01:38:10 PM] Brian Cullinan: yes
+[06/20/2007 01:38:17 PM] Alex Markov: should we call it clients
+[06/20/2007 01:38:18 PM] Alex Markov: instead of webs
+[06/20/2007 01:38:20 PM] Robert Douglas: brian, do u require anything else from alex/myself to start working on webs.rp-s.com?
+[06/20/2007 01:38:22 PM] Alex Markov: or cl
+[06/20/2007 01:38:26 PM] Alex Markov: cl.rp-s.com
+[06/20/2007 01:38:32 PM] Robert Douglas: no, it is webs because we just manage client websites
+[06/20/2007 01:39:10 PM] Alex Markov: i thought docs will be under there too
+[06/20/2007 01:39:30 PM] Robert Douglas: the docs is relating to the client's site
+[06/20/2007 01:39:37 PM] Brian Cullinan: we might need to reset the passwords
+[06/20/2007 01:39:39 PM] Robert Douglas: the developer will need to know what the project details are
+[06/20/2007 01:39:44 PM] Brian Cullinan: i don't think they are in pmxp
+[06/20/2007 01:39:46 PM] Robert Douglas: ok np brian, give me the new pw to reset it to
+[06/20/2007 01:40:46 PM] Robert Douglas:  
+docs.rp-s.com 
+user: docs 
+pass:  
+ 
+webs.rp-s.com 
+user: webs 
+pass: 
+[06/20/2007 01:40:58 PM] Alex Markov: so where are client files gonna be 
+[06/20/2007 01:41:05 PM] Robert Douglas: what client files?
+[06/20/2007 01:41:46 PM] Brian Cullinan: docs: IAMVJERh
+[06/20/2007 01:41:58 PM] Alex Markov: likeimages PSDs additional docs
+[06/20/2007 01:42:09 PM] Robert Douglas: brian, can u make the pw longer?
+[06/20/2007 01:42:12 PM] Brian Cullinan: webs: afCAx3j3
+[06/20/2007 01:42:13 PM] Robert Douglas: something like
+[06/20/2007 01:42:18 PM] Robert Douglas: nuN395Jisdmi43Ik
+[06/20/2007 01:42:30 PM] Brian Cullinan: ZtQqgcohk7FtuR
+[06/20/2007 01:42:36 PM] Brian Cullinan:  - webs
+[06/20/2007 01:42:50 PM] Brian Cullinan: docs: fREKeBakMaNP39
+[06/20/2007 01:42:55 PM] Robert Douglas: docs.rp-s.com 
+user: docs 
+pass: fREKeBakMaNP39 
+ 
+webs.rp-s.com 
+user: webs 
+pass: ZtQqgcohk7FtuR
+[06/20/2007 01:43:02 PM] Brian Cullinan: yes
+[06/20/2007 01:43:05 PM] Robert Douglas: done
+[06/20/2007 01:45:13 PM] Alex Markov: moving on?
+[06/20/2007 01:46:16 PM] Robert Douglas: docs.rp-s.com 
+ 
+ACC - Accounting 
+HR - Human Resources 
+PM - Project Management 
+OPM - Operations Management 
+MAR - Marketing 
+RND - Research & Development 
+ART - Articles 
+WH - Web Hosting 
+SUP - Support
+[06/20/2007 01:46:22 PM] Robert Douglas: need approval for that structure
+[06/20/2007 01:46:33 PM] Brian Cullinan: i approve
+[06/20/2007 01:46:33 PM] Robert Douglas: docs.rp-s.com 
+ 
+ACC - Accounting 
+HR - Human Resources 
+PM - Project Management 
+OPM - Operations Management 
+MAR - Marketing 
+RND - Research and Development 
+ART - Articles 
+WH - Web Hosting 
+SUP - Support
+[06/20/2007 01:46:40 PM] Robert Douglas: i dont believe an & is valid
+[06/20/2007 01:47:55 PM] Brian Cullinan: how do you catenate 2 strings in mysql?
+[06/20/2007 01:48:03 PM] Alex Markov: eventually we need to change art
+[06/20/2007 01:48:14 PM] Alex Markov: we need to create like a Cnet.com but only for rps
+[06/20/2007 01:48:22 PM] Alex Markov: it will include the RPS store, reviews, and articles
+[06/20/2007 01:49:15 PM] Robert Douglas: CONCAT(string,string)
+[06/20/2007 01:50:22 PM] Alex Markov: so everyone start thining of a new name for a big tech site like cnet
+[06/20/2007 01:50:34 PM] Robert Douglas: so you would do something like SELECT CONCAT(string,string) FROM table_name WHERE ....
+[06/20/2007 01:50:47 PM] Robert Douglas: that's not in this meeting's scope
+[06/20/2007 01:51:16 PM] Alex Markov: im just saying for your thoughts
+[06/20/2007 01:51:27 PM] Robert Douglas: alex, still waiting on u
+[06/20/2007 01:51:32 PM] Robert Douglas: Merlin says (1:46 PM): 
+need approval for that structure
+[06/20/2007 01:51:37 PM] Alex Markov: for what
+[06/20/2007 01:51:41 PM] Alex Markov: i approved
+[06/20/2007 01:51:51 PM] Robert Douglas: k, but u never said it in here
+[06/20/2007 01:52:02 PM] Alex Markov: sorry i approved before
+[06/20/2007 01:52:07 PM] Alex Markov: i dsidnt see the 2nd request forapproval
+[06/20/2007 01:52:13 PM] Robert Douglas: k
+[06/20/2007 01:52:36 PM] Robert Douglas: 2. SVN Discussion is done
+[06/20/2007 01:52:38 PM] Robert Douglas: all agree?
+[06/20/2007 01:53:09 PM] Brian Cullinan: yes
+[06/20/2007 01:53:21 PM] Alex Markov: si
+[06/20/2007 01:53:23 PM] Alex Markov: moving on
+[06/20/2007 01:53:33 PM] Alex Markov: 3. dev
+[06/20/2007 01:53:38 PM] Alex Markov: me and bobby talked about it
+[06/20/2007 01:53:38 PM] Robert Douglas: 3. dev.rp-s.com
+[06/20/2007 01:53:45 PM] Alex Markov: and we need a dev environmentment for everything
+[06/20/2007 01:53:50 PM] Alex Markov: brian suggested this a while back
+[06/20/2007 01:53:55 PM] Alex Markov: we need a dev environment for jmbonie too
+[06/20/2007 01:54:01 PM] Robert Douglas: yeah, we talked about it for jambonie (brian and myself)
+[06/20/2007 01:54:05 PM] Alex Markov: but we need an iunternal dev environment for rps
+[06/20/2007 01:54:10 PM] Alex Markov: dev.rp-s.com
+[06/20/2007 01:54:11 PM] Robert Douglas: i think it should be something standaridzed
+[06/20/2007 01:54:21 PM] Alex Markov: and then we should have a dev version of sugar
+[06/20/2007 01:54:29 PM] Robert Douglas: dev.rp-s.com will be our dev environment naming convention
+[06/20/2007 01:54:31 PM] Alex Markov: myrps.dev.rp-s,com
+[06/20/2007 01:54:35 PM] Alex Markov: yes
+[06/20/2007 01:54:49 PM] Alex Markov: because we need to be able to test stuff out in the dev version os guar
+[06/20/2007 01:54:53 PM] Robert Douglas: then we will have our sub dev sites, such as myrps.dev.rp-s.com, and jambonie.dev.rp-s.com
+[06/20/2007 01:54:54 PM] Alex Markov: so we dont mess up our real sugr
+[06/20/2007 01:55:10 PM] Alex Markov: can jambonie be deved off of rp-s.com domain?
+[06/20/2007 01:55:15 PM] Robert Douglas: yes
+[06/20/2007 01:55:19 PM] Alex Markov: gangsta
+[06/20/2007 01:55:23 PM] Alex Markov: ok
+[06/20/2007 01:55:31 PM] Alex Markov: dev evironment good? all approve
+[06/20/2007 01:55:42 PM] Brian Cullinan: yes
+[06/20/2007 01:55:44 PM] Robert Douglas: we will need a protocol written up for new dev accoutns
+[06/20/2007 01:55:52 PM] Robert Douglas: it will need to be password protected via htaccess
+[06/20/2007 01:56:10 PM] Alex Markov: which one of u geniuses want to setup the dev for sugar. we have a few addons we need to test
+[06/20/2007 01:56:16 PM] Alex Markov: so this eneds to be up soon
+[06/20/2007 01:56:36 PM] Brian Cullinan: dude i got it to print out the next event using only mysql
+[06/20/2007 01:56:45 PM] Robert Douglas: lol, very nice brian, very nice
+[06/20/2007 01:56:57 PM] Robert Douglas: did the CONCAT work?
+[06/20/2007 01:57:02 PM] Brian Cullinan: look at this fuckin query
+[06/20/2007 01:57:03 PM] Brian Cullinan: MySQL Query: SELECT * FROM events WHERE Bandname = "standpointe" AND DATE(CONCAT(Year, "-", Month, "-", Day, " 00:00:00")) > CURRENT_DATE() ORDER BY Year, Month, Day ASC LIMIT 1
+[06/20/2007 01:57:09 PM] Alex Markov: i think bobby should setup the sugar becaue he has experience doing it. unless brian u want to have first hand knowledge of how to setup sugar
+[06/20/2007 01:57:30 PM] Robert Douglas: i know i for sure need to help writeup the protocol for creating a new dev environment
+[06/20/2007 01:57:33 PM] Alex Markov: that may be worth it... because when we start setting up sugar for clietns it would be good if you both know how to do it
+[06/20/2007 01:57:36 PM] Brian Cullinan: robert can do it, it would take my a while to figure out how the plugins work for sugar
+[06/20/2007 01:58:09 PM] Robert Douglas: ok, so as the BM, Alex, are you going to write up the task for this and assign it to myself?
+[06/20/2007 01:58:09 PM] Alex Markov: bobby u need to make a rough protocol for how to setup a new sugar then
+[06/20/2007 01:58:18 PM] Alex Markov: will do
+[06/20/2007 01:58:27 PM] Robert Douglas: k, task for creating overall dev protocol
+[06/20/2007 01:58:36 PM] Robert Douglas: and another task for creating myrps.dev.rp-s.com
+[06/20/2007 01:58:43 PM] Brian Cullinan: still not as long as the new this week query
+[06/20/2007 01:58:44 PM] Brian Cullinan: MySQL Query: SELECT *, FORMAT((rating / ratingCount), 1) as rating, DATE_FORMAT(createDate, "%m/%d/%y") as createDate FROM bands WHERE Genre = "Rock" AND DATE_SUB(CURDATE(), INTERVAL 7 DAY) <= createDate ORDER BY createDate DESC LIMIT 0,5 
+[06/20/2007 01:59:14 PM] Alex Markov: i will make dev a project and will mak a bunch of tasks for it for all of us as needed
+[06/20/2007 01:59:22 PM] Robert Douglas: k
+[06/20/2007 01:59:30 PM] Robert Douglas: maybe it should be under the internal rps projkect?
+[06/20/2007 01:59:33 PM] Robert Douglas: like a sub project under their
+[06/20/2007 01:59:39 PM] Alex Markov: it will be rDev
+[06/20/2007 01:59:42 PM] Robert Douglas: k
+[06/20/2007 01:59:46 PM] Alex Markov: like rMeetings
+[06/20/2007 01:59:57 PM] Alex Markov: moving on? all approve
+[06/20/2007 02:00:01 PM] Brian Cullinan: yes
+[06/20/2007 02:00:09 PM] Alex Markov: timesheets
+[06/20/2007 02:00:15 PM] Robert Douglas: approved
+[06/20/2007 02:00:18 PM] Alex Markov: we need to have a system to track all we do
+[06/20/2007 02:00:52 PM] Alex Markov: basically... i realize that without a boss... and very little accountability it is sometimes difficult to get motivated
+[06/20/2007 02:01:00 PM] Robert Douglas: i agree
+[06/20/2007 02:01:05 PM] Alex Markov: like in school... we have class times. at work we have specific times to be at work
+[06/20/2007 02:01:11 PM] Alex Markov: now with this RPS thing
+[06/20/2007 02:01:13 PM] Alex Markov: we can be flexible
+[06/20/2007 02:01:28 PM] Robert Douglas: i think for now, we should send out a daily email that describes everything that we did for the day
+[06/20/2007 02:01:32 PM] Alex Markov: so like work from 9am-2pm and then from 5pm-7pm some nights
+[06/20/2007 02:01:55 PM] Alex Markov: however... we should track it somehow. and we should have a system to notify others
+[06/20/2007 02:02:06 PM] Alex Markov: all major companies have status reports and progress reports
+[06/20/2007 02:02:16 PM] Robert Douglas: yeah, but until our monthlies grow, we wont have a cost effective solution, email will be our best option for now
+[06/20/2007 02:02:27 PM] Alex Markov: we need a system like that for rps.... for us... to keep all of us aware of what we are doing and to keep us on theright track
+[06/20/2007 02:03:05 PM] Alex Markov: i just sent u guys an email
+[06/20/2007 02:03:23 PM] Alex Markov: with 2 exiisting open source time sheet addons for sugar
+[06/20/2007 02:03:40 PM] Robert Douglas: i dont think a timesheet is something to use right now though
+[06/20/2007 02:03:52 PM] Robert Douglas: i'm less concerned with actual hours worked, and more converned with what was done
+[06/20/2007 02:04:05 PM] Alex Markov: agreed.
+[06/20/2007 02:04:31 PM] Alex Markov: then lets just say. that by midnight each day... we send an email to each other
+[06/20/2007 02:04:37 PM] Alex Markov: with the following subejct
+[06/20/2007 02:04:52 PM] Alex Markov: RPS DD/MM/YY Report- NAME
+[06/20/2007 02:05:22 PM] Alex Markov: so all day... we should keep that email open... and just type stuff into it as we do it
+[06/20/2007 02:05:41 PM] Alex Markov: now we should not bother typing in every single detail of the day
+[06/20/2007 02:05:48 PM] Robert Douglas: all I want for now, is an e-mail sent to time@rp-s.com (forwarded to alex, robert, and brian), and then document like so: 
+ 
+Monday, June 16th 2007 
+- Fixed outstanding Jambonie issued (corrected calendar edit page, added extra display for Rock page) 
+- Documented new Jambonie issues to present to future meeting
+[06/20/2007 02:06:00 PM] Robert Douglas: issued = issues
+[06/20/2007 02:06:27 PM] Alex Markov: i agree and approve
+[06/20/2007 02:06:42 PM] Alex Markov: subject title: RPS DD/MM/YY Report- NAME
+[06/20/2007 02:06:46 PM] Alex Markov: approve?
+[06/20/2007 02:06:49 PM] Brian Cullinan: yes agreed
+[06/20/2007 02:06:54 PM] Robert Douglas: hang on, lets wait for brian
+[06/20/2007 02:06:57 PM] Brian Cullinan: maybe sugar workflows can handle it
+[06/20/2007 02:06:58 PM] Robert Douglas: about the contents of the email
+[06/20/2007 02:07:04 PM] Alex Markov: ok so by midnight each day
+[06/20/2007 02:07:07 PM] Robert Douglas: nah, we want to keep it very very simple brian
+[06/20/2007 02:07:14 PM] Alex Markov: for now.. we will do email
+[06/20/2007 02:07:21 PM] Alex Markov: eventually we will try to setup some kind of system
+[06/20/2007 02:07:28 PM] Brian Cullinan: but with that we have to type it up ourselves
+[06/20/2007 02:07:30 PM] Robert Douglas: let's say a client called on the phone, we will document that we talked to client
+[06/20/2007 02:07:35 PM] Brian Cullinan: seems like a pain in the ass
+[06/20/2007 02:07:48 PM] Alex Markov: it will get automatic
+[06/20/2007 02:07:49 PM] Robert Douglas: yeah, it is a little extra time, but the benefits will be amazing, i think it will really help the company
+[06/20/2007 02:07:53 PM] Alex Markov: once we are used to it
+[06/20/2007 02:08:24 PM] Robert Douglas: each morning, just open up your email program, and start making a note what work u are doing for RPS
+[06/20/2007 02:08:26 PM] Alex Markov: i agree. we tell each other what we do now all the time anyway over msn
+[06/20/2007 02:08:30 PM] Alex Markov: this will jsut go over email
+[06/20/2007 02:08:46 PM] Alex Markov: is time@rp-s.com setup?
+[06/20/2007 02:08:52 PM] Robert Douglas: i'm sure u guys wonder what i do all day while i am at ebay, if i'm doing any work or anything else, ya know
+[06/20/2007 02:08:59 PM] Robert Douglas: i wonder about the same thing with u guys from time to time
+[06/20/2007 02:09:06 PM] Robert Douglas: this will just standardize everything
+[06/20/2007 02:09:26 PM] Alex Markov: i want to make one extra announcement for the meeting. tis outside the scope but i feel it is important
+[06/20/2007 02:09:33 PM] Alex Markov: we all need to start playing golf. 
+[06/20/2007 02:09:36 PM] Alex Markov: thats not a joke
+[06/20/2007 02:09:40 PM] Brian Cullinan: yeah
+[06/20/2007 02:09:58 PM] Alex Markov: i started a few days ago. jsut going to driving range and trying to get a swing
+[06/20/2007 02:10:23 PM] Alex Markov: i think eventually we should put golf time on the clock. or even be required to play like 1 hour on the driving range a week
+[06/20/2007 02:10:29 PM] Alex Markov: it is VERY improtant
+[06/20/2007 02:10:38 PM] Robert Douglas:  
+time@rp-s.com > alex.markov@rp-s.com     
+time@rp-s.com  > brian.cullinan@rp-s.com    
+time@rp-s.com > robert.douglas@rp-s.com
+[06/20/2007 02:10:40 PM] Alex Markov: so much business and connections are done ont he golf corse in the world is trully crazy
+[06/20/2007 02:10:53 PM] Robert Douglas: alex, ur crazy
+[06/20/2007 02:10:56 PM] Alex Markov: so many deals and negotiations and planning is done golfing
+[06/20/2007 02:11:01 PM] Alex Markov: nono i am 100% serious
+[06/20/2007 02:11:06 PM] Brian Cullinan: it is true
+[06/20/2007 02:11:10 PM] Robert Douglas: i know, so am i with my "Merlin says (2:10 PM): 
+alex, ur crazy" statement
+[06/20/2007 02:11:18 PM] Alex Markov: all business executives play. golf. it would be terrible if one of us got invited to paly golf with liek ceo of ebay and we looked stupid
+[06/20/2007 02:11:24 PM] Brian Cullinan: my dad comes up with his greatest ideas on the golf course
+[06/20/2007 02:11:53 PM] Robert Douglas: once we start getting some bigger monthlies, we can talk about it
+[06/20/2007 02:12:04 PM] Alex Markov: more business decisions and ideas are made and done on the golf course than in board rooms
+[06/20/2007 02:12:06 PM] Robert Douglas: but 1. i dont play golf right now 2. we need to worry about many more important things
+[06/20/2007 02:12:23 PM] Alex Markov: i went the other day with a friend to the driving range. for a bucket of like 40 balls is $6
+[06/20/2007 02:12:26 PM] Robert Douglas: now isn't the time to implement a golf day
+[06/20/2007 02:12:32 PM] Alex Markov: it doesnt take monthlies to play
+[06/20/2007 02:12:50 PM] Robert Douglas: it takes monthlies to be able to relax a bit with our time, and take more time off from our day to day stuff
+[06/20/2007 02:13:01 PM] Alex Markov: now IS the time to do so. it take many years to get a decent golf swing. i played for the first time a few days ago
+[06/20/2007 02:13:09 PM] Robert Douglas: schedule a meeting to talk about this
+[06/20/2007 02:13:19 PM] Alex Markov: it would be a shame if the ceo of ebay invited u to paly golf
+[06/20/2007 02:13:28 PM] Brian Cullinan: lol
+[06/20/2007 02:13:29 PM] Alex Markov: and u looked like a fool 
+[06/20/2007 02:13:31 PM] Robert Douglas: yes, and i said no i cant play
+[06/20/2007 02:13:38 PM] Robert Douglas: at least it would be entertaining lol
+[06/20/2007 02:13:40 PM] Alex Markov: just like it would be a shame if botnick invited me and i backed out ebcaue i never played
+[06/20/2007 02:13:43 PM] Robert Douglas: schedule a meeting alex
+[06/20/2007 02:13:47 PM] Brian Cullinan: he doesn't need to suck at golf to look like a fool infront of ebay ceo
+[06/20/2007 02:13:54 PM] Alex Markov: we will disucss that in like a month after rps site is up
+[06/20/2007 02:13:55 PM] Robert Douglas: are we done with the timesheet discussion? everyone agrees on what will be done?
+[06/20/2007 02:13:59 PM] Brian Cullinan: yes
+[06/20/2007 02:14:00 PM] Alex Markov: lol
+[06/20/2007 02:14:02 PM] Alex Markov: burn!
+[06/20/2007 02:14:20 PM] Alex Markov: bobby... i want you to sit in on 1 question for nyb
+[06/20/2007 02:14:23 PM] Alex Markov: it will take 1 minute
+[06/20/2007 02:14:27 PM] Robert Douglas: i gtg get food
+[06/20/2007 02:14:35 PM] Robert Douglas: lunch closes soon
+[06/20/2007 02:14:36 PM] Brian Cullinan: i g2g clean
+[06/20/2007 02:14:43 PM] Alex Markov: give me 1 minute
+[06/20/2007 02:14:44 PM] Alex Markov: (Link: http://www.nybeauty.com/beauty-supplies/andis-easy-cut)http://www.nybeauty.com/beauty-supplies/andis-easy-cut
+[06/20/2007 02:14:48 PM] Brian Cullinan: k
+[06/20/2007 02:15:00 PM] Alex Markov: (Link: http://www.nybeauty.com/beauty-supplies/andis-styliner-II)http://www.nybeauty.com/beauty-supplies/andis-styliner-II
+[06/20/2007 02:15:08 PM] Alex Markov: all products have different styles for the body text
+[06/20/2007 02:15:19 PM] Alex Markov: is there an easy way to standardize all body text in xcart
+[06/20/2007 02:15:23 PM] Alex Markov: without using html
+[06/20/2007 02:15:28 PM] Alex Markov: cause clients wont be able to do that
+[06/20/2007 02:15:53 PM] Robert Douglas: isnt there a WYSIWYG thing
+[06/20/2007 02:16:06 PM] Robert Douglas: so clients can make it the way they want it, we just have to teach them how to do it once, and provide them with doc for it
+[06/20/2007 02:16:11 PM] Robert Douglas: k, ur minute is up, and lunch line is closing
+[06/20/2007 02:16:23 PM] Robert Douglas: be back in 15 or so
+[06/20/2007 02:16:30 PM] Robert Douglas: call my cell if u need to, i'll be waiting in line
+[06/20/2007 02:16:35 PM] Alex Markov: ok go eat
+[06/20/2007 02:16:38 PM] Alex Markov: brian any thoughts?
+[06/20/2007 02:16:46 PM] Alex Markov: the wysiwyg thing doesnt work
+[06/20/2007 02:16:50 PM] Alex Markov: thats what we have been using
+[06/20/2007 02:16:51 PM] Alex Markov: i mean it works
+[06/20/2007 02:16:54 PM] Alex Markov: its just a pain
+[06/20/2007 02:17:01 PM] Alex Markov: we type up the descriptions in word
+[06/20/2007 02:17:06 PM] Alex Markov: so we have a spell check
+[06/20/2007 02:17:10 PM] Alex Markov: and then import them
+[06/20/2007 02:24:48 PM] Brian Cullinan: Word is the worst thing for websites
+[06/20/2007 02:24:56 PM] Brian Cullinan: its like internet cancer
+[06/20/2007 02:25:02 PM] Brian Cullinan: g2g shower
+[06/20/2007 02:29:13 PM] Alex Markov: yo
+[06/20/2007 02:29:18 PM] Alex Markov: can u be back in 15 min
+[06/20/2007 02:29:48 PM] Alex Markov: i am on the phine with a client
+[06/20/2007 02:30:13 PM] Alex Markov: but afterwards i still need to discuss a few things with u
+[06/20/2007 02:34:17 PM] Robert Douglas: back
+[06/20/2007 02:34:23 PM] Alex Markov: sec phone
+[06/20/2007 02:35:00 PM] Alex Markov: client eneds vista
+[06/20/2007 02:35:14 PM] Alex Markov: what versions hsoudl he get
+[06/20/2007 02:35:19 PM] Alex Markov: business or ultimate
+[06/20/2007 02:35:24 PM] Robert Douglas: business
+[06/20/2007 02:35:42 PM] Robert Douglas: why does the client "need" vista
+[06/20/2007 02:36:04 PM] Alex Markov: dell wont make comp with xp anymore
+[06/20/2007 02:36:12 PM] Robert Douglas: lol
+[06/20/2007 02:49:34 PM] Alex Markov: k he is getting a $1,500 dell laptop
+[06/20/2007 02:49:36 PM] Alex Markov: $500 off
+[06/20/2007 02:49:39 PM] Alex Markov: curosity of rps
+[06/20/2007 02:49:57 PM] *** Merlin has left the conversation.
+Session Close (Group Conversation 12517): Wed Jun 20 14:49:58 2007
+
+

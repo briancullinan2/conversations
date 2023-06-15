@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6200856289510252544/",
+    "participants": [
+        {
+            "name": "Mark Zbikowski",
+            "title": "CTO at Atlas Informatics",
+            "url": "linkedin.com/in/markzbikowski",
+            "phone": "",
+            "email": "mark@zbikowski.org"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "I've already started doing what your company does on a personal level and I want to analyze my timeline. I need a job.",
+            "time": "2016-11-06T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "There is no such thing as coincidence and we can prove it.",
+            "time": "2017-10-30T02:29:00.000Z"
+        }
+    ]
+}

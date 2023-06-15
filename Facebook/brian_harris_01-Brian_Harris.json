@@ -1,0 +1,27 @@
+{
+    "thread": "https://www.facebook.com/messages/archived/t/brian.harris.01",
+    "participants": [
+        {
+            "name": "Brian Harris",
+            "description": "Lives in Flagstaff, Arizona",
+            "url": "From Chicago, Illinois"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Brian",
+            "time": "2016-10-12T00:26:00.000Z",
+            "message": "Brian\nYou look like a movie star!\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-10-12T13:45:00.000Z",
+            "message": "Brian\nHey thanks for the connect! See you soon buddy!\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-10-12T15:46:00.000Z",
+            "message": "\nof course brian - looking forward to your move to flagstaff!!! \n\n"
+        }
+    ]
+}

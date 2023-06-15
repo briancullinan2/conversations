@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6211951885587402753/",
+    "participants": [
+        {
+            "name": "Michael Leventhal",
+            "title": "Chief Nerdy Development Officer at iNERDE",
+            "url": "linkedin.com/in/michael-leventhal-87239",
+            "phone": "+22379870809 (Mobile)",
+            "email": "textscience@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "You're a genius!",
+            "time": "2017-12-06T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I'm nerdie too! :D",
+            "time": "2017-10-25T17:19:00.000Z"
+        },
+        {
+            "from": "Michael Leventhal",
+            "message": "Always happy to meet another nerde who sees the bigger picture. And they say it takes a genius to know a genius ;-)",
+            "time": "2017-10-25T23:02:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I think everyone is a genius they just haven't realized it yet.",
+            "time": "2017-10-25T23:06:00.000Z"
+        }
+    ]
+}

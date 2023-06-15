@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6293045878852845568/",
+    "participants": [
+        {
+            "name": "Maria Ramon",
+            "title": "Recruitment Candidate Sourcer at CoolPeople",
+            "url": "linkedin.com/in/maria-ramon-b0970164",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Maria Ramon",
+            "time": "2017-07-18T12:00:00.000Z",
+            "message": "Interesting opportunity for Software Product Architect\n\nHi Brian, \n\nI'm Maria from Coolpeople, I have a great opportunity for a software architect to work for a multinational company in Dublin, Ireland.\n\nIf you are interested please let me know and I'd love to discuss it further with you.\n\nKind regards,\n\nMaria Ramon\nRecruitment Candidate Sourcer at CoolPeople\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-18T14:03:00.000Z",
+            "message": "I would live there.\n"
+        },
+        {
+            "from": "Maria Ramon",
+            "time": "2017-07-18T14:05:00.000Z",
+            "message": "Hi Brian, \nThanks for getting back to me. Yes it would require relocation, would you be willing to move to Dublin?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-18T18:57:00.000Z",
+            "message": "Yeah my wife hates Phoenix and her brother lives there.\n"
+        },
+        {
+            "from": "Maria Ramon",
+            "time": "2017-07-19T08:31:00.000Z",
+            "message": "Thanks Brian, in that case please find the job description attached.\nLet me know if you're interested in the role\n"
+        }
+    ]
+}

@@ -1,0 +1,2192 @@
+﻿Session Start (bjcullinan:Micheal Brooks): Sat Jan 31 21:32:36 2009
+[01/31/2009 09:32:38 PM] Brian Cullinan: hey
+Session Close (Micheal Brooks): Sat Jan 31 22:02:53 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sat Jan 31 23:03:40 2009
+[01/31/2009 11:03:40 PM] Micheal Brooks: Whats up man
+[01/31/2009 11:32:20 PM] Brian Cullinan: hey, hows it going?
+[01/31/2009 11:32:29 PM] Micheal Brooks: pretty good,  just rockin' some beer and writing code
+[01/31/2009 11:32:32 PM] Micheal Brooks: whats up?
+[01/31/2009 11:34:47 PM] Brian Cullinan: same here!
+[01/31/2009 11:34:54 PM] Micheal Brooks: cool cool\
+[01/31/2009 11:36:45 PM] Micheal Brooks: i bet there is a ton of alchol at your place
+[01/31/2009 11:37:01 PM] Brian Cullinan: so i asked murphy this question, i have been working pretty hard on this project and am thinking about starting to port it to windows soon.  As a PHP programmer, how do i know when i am doing something wrong, how can i find someone to critique it like an essay, how do i know when it is ready to share with other people?
+[01/31/2009 11:37:57 PM] Micheal Brooks: thats a good question
+[01/31/2009 11:38:24 PM] Micheal Brooks: there is a lot of poor code out there,  but thats mostly because the programmer has not receive formal traning
+[01/31/2009 11:38:51 PM] Brian Cullinan: i have tried to adapt techniques from other open projects like using DIR_SEP and dirname(__FILE__) to localize includes and stuff
+[01/31/2009 11:39:09 PM] Micheal Brooks: yeah,  thats good
+[01/31/2009 11:39:34 PM] Micheal Brooks: includes can be a problem,  and i don't like it when an app forces you to be in the webroot
+[01/31/2009 11:39:47 PM] Micheal Brooks: i make my apps so they can be moved around without causing problems
+[01/31/2009 11:40:02 PM] Micheal Brooks: I can read over your code if you'd like
+[01/31/2009 11:40:18 PM] Micheal Brooks: here is some code i have written:
+[01/31/2009 11:40:19 PM] Micheal Brooks: (Link: http://code.google.com/p/michael-the-messenger/)http://code.google.com/p/michael-the-messenger/
+[01/31/2009 11:40:22 PM] Micheal Brooks: its still work in progress
+[01/31/2009 11:42:21 PM] Micheal Brooks: another thing is you have to worry about php configurations and checking for installed moduals
+[01/31/2009 11:42:40 PM] Micheal Brooks: i have /compatablity.php for taking care of configs
+[01/31/2009 11:42:52 PM] Micheal Brooks: and my install.php checks for needed moduals 
+[01/31/2009 11:43:58 PM] Brian Cullinan: yes of course, install should check for modules, however i always provide the module with it then set up an obvious constant for changing the path, so if they wanted to use the global modules they can change the path and delete it from the includes directory
+[01/31/2009 11:44:58 PM] Micheal Brooks: the moduals i am talking about are like php-mcrypt which is a binary that is platform specific
+[01/31/2009 11:45:20 PM] Micheal Brooks: usually you'd use a package manager like PECL or PEAR under php,  but even APT will take care of it
+[01/31/2009 11:46:14 PM] Brian Cullinan: yeah i always have constants set up for that kind of thing, so settings.php is the only place to have to define a required file, everywhere else just uses the constant
+[01/31/2009 11:46:45 PM] Micheal Brooks: i think that works
+[01/31/2009 11:47:22 PM] Micheal Brooks: if you want me to look over your code it would probably be best to do it in person
+[01/31/2009 11:49:23 PM] Brian Cullinan: yeah that would be great
+[01/31/2009 11:49:34 PM] Brian Cullinan: i just found some security flaws i need to fix up
+[01/31/2009 11:49:45 PM] Micheal Brooks: heh,  its all good man
+[01/31/2009 11:49:47 PM] Micheal Brooks: its about learning
+[01/31/2009 11:49:54 PM] Micheal Brooks: i have written flaws myself
+[01/31/2009 11:50:47 PM] Micheal Brooks: i think of all code as being fundimentally insecure
+[01/31/2009 11:51:05 PM] Brian Cullinan: i've really started to consider user input, and making sure i do enough validation
+[01/31/2009 11:51:37 PM] Micheal Brooks: this is a fantastic paper:
+ (Link: http://www.securereality.com.au/studyinscarlet.txt)http://www.securereality.com.au/studyinscarlet.txt
+[01/31/2009 11:51:49 PM] Micheal Brooks: it talks about a lot of nasty taint/sink secuirty issues
+[01/31/2009 11:52:17 PM] Micheal Brooks: taint is any input that comes from a user,  a Sink is a function that is senstive  like system(). 
+[01/31/2009 11:52:28 PM] Micheal Brooks: if taint touches a sink,  then you have a vulnerablity 
+[01/31/2009 11:53:44 PM] Brian Cullinan: and an std
+[01/31/2009 11:54:01 PM] Micheal Brooks: hah,  yeah 
+[01/31/2009 11:54:19 PM] Brian Cullinan: a sink is a database query
+[01/31/2009 11:54:24 PM] Micheal Brooks: yeah,  that is a sink
+[01/31/2009 11:54:29 PM] Micheal Brooks: but so is print
+[01/31/2009 11:54:33 PM] Micheal Brooks: becuase that could be xss
+[01/31/2009 11:54:42 PM] Brian Cullinan: xss?
+[01/31/2009 11:54:49 PM] Micheal Brooks: oah yeah you missed my talk
+[01/31/2009 11:54:56 PM] Micheal Brooks: you let me down man
+[01/31/2009 11:55:01 PM] Micheal Brooks: cross site scripting 
+[01/31/2009 11:55:17 PM] Micheal Brooks: 
+ <?php
+ print $_GET[var];
+ ?>
+[01/31/2009 11:55:19 PM] Micheal Brooks: that is xss
+[01/31/2009 11:56:09 PM] Brian Cullinan: oh
+[01/31/2009 11:56:24 PM] Micheal Brooks: try it
+[01/31/2009 11:56:35 PM] Micheal Brooks: the javascript will execute
+[01/31/2009 11:57:11 PM] Brian Cullinan: i think i'll just to a search for $_ and make sure there is validation before it
+[01/31/2009 11:57:30 PM] Micheal Brooks: <?php
+ print htmlspecialchars($_GET[var]);
+ ?>
+[01/31/2009 11:57:33 PM] Micheal Brooks: that is the fix for it
+[01/31/2009 11:57:43 PM] Micheal Brooks: see what it does to the output,  view the page source
+[01/31/2009 11:57:57 PM] Brian Cullinan: yeah
+[01/31/2009 11:57:59 PM] Micheal Brooks: xss has to deal with the Sam Orgin Polices which is gone into great depth here:
+ (Link: http://code.google.com/p/browsersec/wiki/Part2)http://code.google.com/p/browsersec/wiki/Part2
+[01/31/2009 11:59:03 PM] Micheal Brooks: download this and install it:
+ (Link: http://thepiratebay.org/torrent/4401169/Acunetix.WVS.Enterprise.Edition.v5.1.0.2801.build.20080916-nepro)http://thepiratebay.org/torrent/4401169/Acunetix.WVS.Enterprise.Edition.v5.1.0.2801.build.20080916-nepro
+[01/31/2009 11:59:08 PM] Micheal Brooks: windows only
+[01/31/2009 11:59:27 PM] Micheal Brooks: it is a scanner that is very good at testing your application for xss and sql injection
+[01/31/2009 11:59:30 PM] Micheal Brooks: as well as other flaws
+[02/01/2009 12:00:03 AM] Brian Cullinan: hmm ok
+[02/01/2009 12:00:18 AM] Micheal Brooks: i can show you how to use it,  but that would be better in person
+[02/01/2009 12:01:30 AM] Brian Cullinan:      for($selected as $i => $value) if(!is_numeric($value)) unset($selected[$i];
+ 
+[02/01/2009 12:01:47 AM] Micheal Brooks: whats wrong with numbers?
+[02/01/2009 12:01:51 AM] Micheal Brooks: oah wait
+[02/01/2009 12:01:53 AM] Micheal Brooks: if isn't numeric
+[02/01/2009 12:02:06 AM] Brian Cullinan: can you break out of something that splits up by commas?
+[02/01/2009 12:02:32 AM] Micheal Brooks: yeah,  that could work,  or doing:
+ for($selected as $i => $value) $selected[$i]=intval($selected[$i]);
+[02/01/2009 12:02:51 AM] Micheal Brooks: i'm not sure what you are asking
+[02/01/2009 12:02:57 AM] Micheal Brooks: i'd have to see a brick of code
+[02/01/2009 12:04:35 AM] Brian Cullinan: yeah
+[02/01/2009 12:05:04 AM] Brian Cullinan: i don't like intval, if it isn't numeric they are probably doing something wrong and don't deserve to get results back
+[02/01/2009 12:05:12 AM] Brian Cullinan: thats all stuff the site does automatically
+[02/01/2009 12:05:14 AM] Micheal Brooks: thats true
+[02/01/2009 12:06:00 AM] Brian Cullinan: if it was intentionally meant for user input, then intval would be good, incase they accidentally hit like \ when they press enter
+[02/01/2009 12:06:29 AM] Micheal Brooks: in most cases its better to throw stuff out than try and make it correct.  check out this query:
+ "select * from user where id=".addlsahes($_GET[id])
+[02/01/2009 12:06:42 AM] Micheal Brooks: that is still vulnerable to sql injection
+[02/01/2009 12:07:53 AM] Brian Cullinan: yeah mine was kind of like that
+[02/01/2009 12:07:58 AM] Brian Cullinan: with the $selected thing
+[02/01/2009 12:08:22 AM] Brian Cullinan: it was splitting it up by commas for a list of IDs, and then joining it with id=
+[02/01/2009 12:08:33 AM] Micheal Brooks: ?id=1 or sleep(30)
+[02/01/2009 12:09:17 AM] Brian Cullinan: yeah, but when i only used 1 id, i am finding i did have is_numeric validation
+[02/01/2009 12:09:18 AM] Micheal Brooks: huh,  yeah dynamic queries like that can be a problem
+[02/01/2009 12:09:34 AM] Micheal Brooks: cool
+[02/01/2009 12:11:46 AM] Brian Cullinan: i hate when working with numeric arrays if you unset something the index is missing from the array
+[02/01/2009 12:12:07 AM] Brian Cullinan: so a great fix for that, if you unset some stuff use $array = array_values($array);
+[02/01/2009 12:12:15 AM] Brian Cullinan: then all the indexes will be sequential again
+[02/01/2009 12:12:38 AM] Micheal Brooks: good to know
+[02/01/2009 12:23:26 AM] Micheal Brooks: This is a bad ass site:
+ (Link: http://xssed.com/)http://xssed.com/
+ it has xss for a lot of differnt sites,  such as this one:
+ (Link: http://cgi.cnn.com/cgi-bin/quiz_v99/quiz.pl?FILE=9697&NUMCORRECT=%22%3E%3Ciframe%20src=%22http://www.theonion.com/content/video/how_to_wax_your_floors_without%22width=%22100%%22%20height=%22100%%22%3E%3C/iframe%3E)http://cgi.cnn.com/cgi-bin/quiz_v99/quiz.pl?FILE=9697&NUMCORRECT=%22%3E%3Ciframe%20src=%22http://www.theonion.com/content/video/how_to_wax_your_floors_without%22width=%22100%%22%20height=%22100%%22%3E%3C/iframe%3E
+[02/01/2009 12:23:43 AM] Micheal Brooks: this is a really good disucssion on xss:
+ (Link: http://xssed.com/xssinfo)http://xssed.com/xssinfo
+[02/01/2009 12:24:27 AM] Micheal Brooks: cnn.com reports on the Onoin :)
+[02/01/2009 12:25:45 AM] Brian Cullinan: lol                $columns[$i] .= ' REGEXP "' . $_REQUEST['includes'] . '"';
+ 
+[02/01/2009 12:26:15 AM] Brian Cullinan: that is pretty bad
+[02/01/2009 12:26:18 AM] *** You have been disconnected. Sun Feb 01 00:26:18 2009.
+[02/01/2009 12:26:29 AM] *** "Micheal Brooks" signed on at Sun Feb 01 00:26:29 2009.
+[02/01/2009 12:26:40 AM] Brian Cullinan: how to i allow for input like that?
+[02/01/2009 12:26:44 AM] Brian Cullinan: addslashes?
+[02/01/2009 12:27:16 AM] Brian Cullinan: i want to allow for regular expression searching, but i don't want them to be able to get out of the query
+[02/01/2009 12:27:45 AM] Micheal Brooks: wait,  addslashes is for protecting against sql injection,  it doesn't help for xss
+[02/01/2009 12:28:18 AM] Micheal Brooks: go back to my one liner:
+ <?php
+ print $_GET[var];
+ ?>
+[02/01/2009 12:28:31 AM] Micheal Brooks: then try 
+ <?php
+ print htmlspeicalchars($_GET[var]);
+ ?>
+[02/01/2009 12:28:55 AM] Brian Cullinan: well i want to protect again sql injection
+[02/01/2009 12:29:02 AM] Micheal Brooks: oah, okay
+[02/01/2009 12:29:05 AM] Brian Cullinan: thats what i am using that request var for
+[02/01/2009 12:29:10 AM] Brian Cullinan: so add slashes will work?
+[02/01/2009 12:29:21 AM] Brian Cullinan: and still allow me to use a regular expression
+[02/01/2009 12:29:52 AM] Micheal Brooks: yeah,  it should work.  You have to make sure you don't do addslahes twice or the regex will break for sure. 
+[02/01/2009 12:30:11 AM] Micheal Brooks: also if you have:
+ magic_quotes_gpc=On and then you do a addslashes()
+[02/01/2009 12:30:18 AM] Micheal Brooks: that could break it
+[02/01/2009 12:30:48 AM] Micheal Brooks: i disable magic_qutoes_gpc and register_globals for my app
+[02/01/2009 12:30:52 AM] Micheal Brooks: it causes too many problems
+[02/01/2009 12:31:45 AM] Brian Cullinan: hmm
+[02/01/2009 12:32:44 AM] Micheal Brooks: think about it this way,  how do you print a double quote mark in java,  c or php?
+[02/01/2009 12:32:58 AM] Micheal Brooks: you gotta do this:
+ print "this quote\" mark is printed "
+[02/01/2009 12:33:10 AM] Brian Cullinan: yeah
+[02/01/2009 12:33:12 AM] Micheal Brooks: you don't see the escape char,  so it shouldn't cause problems with your regex
+[02/01/2009 12:33:31 AM] Micheal Brooks: but if you do 2 addslahes it will look like this:
+ print "this quote\\\" mark is printed "
+[02/01/2009 12:33:38 AM] Micheal Brooks: and that will fuck it up,  its still not sql injection
+[02/01/2009 12:33:40 AM] Micheal Brooks: but its malformed
+[02/01/2009 12:50:57 AM] Brian Cullinan: well that was fun
+[02/01/2009 12:51:04 AM] Brian Cullinan: fixing up all my stuff
+[02/01/2009 12:51:10 AM] Brian Cullinan: should be pretty secure now
+[02/01/2009 12:52:23 AM] Brian Cullinan: g2g to bed, getting up and skiing in the morning
+[02/01/2009 12:53:47 AM] *** "Micheal Brooks" signed off at Sun Feb 01 00:53:47 2009.
+Session Close (Micheal Brooks): Sun Feb 01 00:54:44 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri Feb 06 16:40:42 2009
+[02/06/2009 04:40:42 PM] Micheal Brooks: BSG party?
+[02/06/2009 05:22:12 PM] Brian Cullinan: yes
+[02/06/2009 05:35:30 PM] Micheal Brooks: sweet
+[02/06/2009 06:12:57 PM] *** "Micheal Brooks" signed off at Fri Feb 06 18:12:57 2009.
+[02/06/2009 06:30:01 PM] *** "Micheal Brooks" signed on at Fri Feb 06 18:30:01 2009.
+Session Close (Micheal Brooks): Fri Feb 06 18:38:30 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri Feb 06 19:45:34 2009
+[02/06/2009 07:45:38 PM] Brian Cullinan: party
+[02/06/2009 07:54:50 PM] Micheal Brooks: whats your address?
+[02/06/2009 08:04:31 PM] Brian Cullinan: 3200 s litzler dr
+[02/06/2009 08:04:33 PM] Brian Cullinan: 20-127
+[02/06/2009 08:06:19 PM] *** "Micheal Brooks" signed off at Fri Feb 06 20:06:19 2009.
+Session Close (Micheal Brooks): Fri Feb 06 20:10:39 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sun Feb 08 01:25:21 2009
+[02/08/2009 01:25:21 AM] Micheal Brooks: black hole Romania on the ACM server:
+ (Link: http://www.maxmind.com/app/mod_geoip)http://www.maxmind.com/app/mod_geoip
+[02/08/2009 02:28:19 AM] Brian Cullinan: party
+[02/08/2009 02:28:19 AM] *** Auto-response from Micheal Brooks: I'm not here right now
+[02/08/2009 02:37:02 AM] Brian Cullinan: currently ip tables is set up to deny console access from off campus
+Session Close (Micheal Brooks): Sun Feb 08 03:09:49 2009
+
+
+Session Start (bjcullinan:FireAlwaysWorks): Sun Feb 08 22:18:39 2009
+[02/08/2009 10:18:39 PM] FireAlwaysWorks: hey have you seen my glasses>
+[02/08/2009 10:19:14 PM] FireAlwaysWorks: well if you do find them bring them to the ACM officer meeting this monday
+[02/08/2009 10:19:18 PM] FireAlwaysWorks: peace
+[02/08/2009 10:36:08 PM] Brian Cullinan: hey
+[02/08/2009 10:36:20 PM] Micheal Brooks: wassup
+Session Close (Micheal Brooks): Sun Feb 08 23:06:22 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Feb 09 18:12:29 2009
+[02/09/2009 06:12:29 PM] Micheal Brooks: yo
+[02/09/2009 06:17:47 PM] *** "Micheal Brooks" signed off at Mon Feb 09 18:17:47 2009.
+[02/09/2009 06:17:53 PM] *** "Micheal Brooks" signed on at Mon Feb 09 18:17:53 2009.
+[02/09/2009 07:34:03 PM] *** "Micheal Brooks" signed off at Mon Feb 09 19:34:03 2009.
+[02/09/2009 07:35:41 PM] *** "Micheal Brooks" signed on at Mon Feb 09 19:35:41 2009.
+[02/09/2009 07:45:59 PM] Brian Cullinan: hi
+[02/09/2009 07:48:50 PM] Micheal Brooks: sup man
+[02/09/2009 07:48:59 PM] Micheal Brooks: did you get my message about how to block romaina?
+[02/09/2009 07:49:30 PM] Brian Cullinan: yeah
+[02/09/2009 07:49:53 PM] Micheal Brooks: cool
+[02/09/2009 07:49:58 PM] Micheal Brooks: i found my glasses
+[02/09/2009 07:49:58 PM] Micheal Brooks: anyway
+[02/09/2009 07:50:16 PM] Brian Cullinan: good newz
+[02/09/2009 07:50:21 PM] Micheal Brooks: shoot
+[02/09/2009 07:57:16 PM] Brian Cullinan: whats up?
+[02/09/2009 07:57:34 PM] Brian Cullinan: i meant you finding your glasses is good newz
+[02/09/2009 07:57:46 PM] Brian Cullinan: i need something to listen to
+[02/09/2009 08:00:22 PM] Micheal Brooks: heh,  alright  what are you in the mood for?
+[02/09/2009 08:00:44 PM] Micheal Brooks: did you eat up that cd i gave you? 
+[02/09/2009 08:00:47 PM] Brian Cullinan: techno
+[02/09/2009 08:00:50 PM] Micheal Brooks: okay
+[02/09/2009 08:00:51 PM] Brian Cullinan: always
+[02/09/2009 08:01:18 PM] Micheal Brooks: there is "instrumental electronica"  like Ronald Jenkeeys  and Ratatat
+[02/09/2009 08:01:40 PM] Micheal Brooks: or you could go with straight up house   like Deadmau5 - Random Album Title
+[02/09/2009 08:03:17 PM] Micheal Brooks: profound: (Link: http://www.youtube.com/watch?v=bTwGElgiCoo)http://www.youtube.com/watch?v=bTwGElgiCoo
+[02/09/2009 08:03:18 PM] Brian Cullinan: hmmm all very good
+[02/09/2009 08:03:43 PM] Micheal Brooks: I hit some fantastic trance as of late
+[02/09/2009 08:03:49 PM] Micheal Brooks: Gui Boratto - Chromophobia 
+[02/09/2009 08:03:56 PM] Micheal Brooks: and really anything by Gui Boratto
+[02/09/2009 08:04:04 PM] Micheal Brooks: i have all of his work,  i could bring it to you
+[02/09/2009 08:04:21 PM] Micheal Brooks: Gui Boratto - Addicted vol 2
+[02/09/2009 08:05:18 PM] Micheal Brooks: i burned off a dvd of some great trance/house for Rory,    you should bring your laptop to ACM on thursday so you can get a copy. 
+[02/09/2009 08:05:40 PM] Brian Cullinan: ok!
+[02/09/2009 08:05:50 PM] Brian Cullinan: i think i am feeling like benny bennassi
+[02/09/2009 08:06:14 PM] Micheal Brooks: yeah his new album rock and rave is solid
+[02/09/2009 08:06:18 PM] Micheal Brooks: i saw him at EDC last year
+[02/09/2009 08:06:22 PM] Micheal Brooks: he has gotten better
+[02/09/2009 08:06:30 PM] Brian Cullinan: awesoem
+[02/09/2009 08:09:21 PM] Micheal Brooks: i have a live mix of him at a club that is sick
+[02/09/2009 08:09:30 PM] Micheal Brooks: club fg
+[02/09/2009 08:09:32 PM] Micheal Brooks: idk if you can find it
+[02/09/2009 08:22:24 PM] Brian Cullinan: man this is the hardest i have ever worked on a website
+[02/09/2009 08:22:51 PM] Micheal Brooks: what site?
+[02/09/2009 08:23:47 PM] Micheal Brooks: Also you should try Mozilla Songbrid or Amarok for music management,  i have no idea how you use directories for your large collection
+[02/09/2009 08:23:58 PM] Micheal Brooks: i tired finding stuff at the party and it was too hard
+[02/09/2009 08:25:53 PM] Brian Cullinan: there is a search function on my site
+[02/09/2009 08:26:08 PM] Micheal Brooks: metatag searching?
+[02/09/2009 08:26:25 PM] Micheal Brooks: its all about metatags
+[02/09/2009 08:26:45 PM] Micheal Brooks: or rather id3 tags for music
+[02/09/2009 08:29:30 PM] Brian Cullinan: yes
+[02/09/2009 08:29:34 PM] Brian Cullinan: and meta tags for images
+[02/09/2009 08:29:40 PM] Micheal Brooks: nice
+[02/09/2009 08:47:16 PM] Brian Cullinan: i am converting it to work without a database
+[02/09/2009 08:47:19 PM] Brian Cullinan: making it optional
+[02/09/2009 08:47:29 PM] Micheal Brooks: huh
+[02/09/2009 08:47:31 PM] Brian Cullinan: so it only shows flat file structure
+[02/09/2009 08:47:33 PM] Micheal Brooks: it will be much faster with a database
+[02/09/2009 08:47:42 PM] Brian Cullinan: true story
+[02/09/2009 08:47:59 PM] Brian Cullinan: but some people might not want to use it like that
+[02/09/2009 08:48:05 PM] Brian Cullinan: so now it will be an option
+[02/09/2009 08:48:19 PM] Micheal Brooks: cool
+[02/09/2009 08:48:20 PM] Brian Cullinan: so you could use it just like microsoft live
+[02/09/2009 08:48:28 PM] Brian Cullinan: i think i should copy their template too
+Session Close (Micheal Brooks): Mon Feb 09 21:10:36 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Thu Feb 12 16:51:16 2009
+[02/12/2009 04:51:23 PM] Brian Cullinan: do you know iptables?
+[02/12/2009 04:51:32 PM] Micheal Brooks: yeo
+[02/12/2009 04:51:35 PM] Micheal Brooks: yep*
+[02/12/2009 04:52:50 PM] Brian Cullinan: i might need your help
+[02/12/2009 04:52:55 PM] Brian Cullinan: can you make it to acm early?
+[02/12/2009 04:53:03 PM] Brian Cullinan: and come up to the 225 office
+[02/12/2009 04:53:29 PM] Micheal Brooks: one minute,  i'm on the phone
+[02/12/2009 05:12:02 PM] Micheal Brooks: hey
+[02/12/2009 05:12:03 PM] Micheal Brooks: so i'd have to leave like right now
+[02/12/2009 05:13:17 PM] Brian Cullinan: yeah
+[02/12/2009 05:13:17 PM] Micheal Brooks: are you there?
+[02/12/2009 05:13:43 PM] Micheal Brooks: it will take like 20 min to walk down there
+[02/12/2009 05:14:59 PM] Brian Cullinan: ok
+[02/12/2009 05:29:35 PM] *** "Micheal Brooks" signed off at Thu Feb 12 17:29:35 2009.
+Session Close (Micheal Brooks): Thu Feb 12 17:59:37 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri Feb 13 14:44:43 2009
+[02/13/2009 02:44:43 PM] Micheal Brooks: how is the server comming?
+[02/13/2009 03:44:06 PM] *** You have been disconnected. Fri Feb 13 15:44:06 2009.
+[02/13/2009 03:44:24 PM] *** "Micheal Brooks" signed on at Fri Feb 13 15:44:24 2009.
+[02/13/2009 04:56:44 PM] Brian Cullinan: server is good
+Session Close (Micheal Brooks): Fri Feb 13 16:56:44 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Feb 16 23:03:28 2009
+[02/16/2009 11:03:28 PM] Micheal Brooks: dude,  never use FTP
+[02/16/2009 11:03:31 PM] Micheal Brooks: and move ssh to antoher port
+[02/16/2009 11:03:32 PM] Micheal Brooks: asap
+[02/16/2009 11:03:41 PM] Micheal Brooks: use SFTP
+[02/16/2009 11:03:44 PM] Micheal Brooks: esp for code
+[02/16/2009 11:03:45 PM] Brian Cullinan: did you just pwn our box?
+[02/16/2009 11:03:53 PM] Micheal Brooks: i ran an nmap
+[02/16/2009 11:03:58 PM] Brian Cullinan: pure-ftp supports sftp
+[02/16/2009 11:04:13 PM] Micheal Brooks: yeah,  sftp is over ssh
+[02/16/2009 11:04:15 PM] Micheal Brooks: not ftp
+[02/16/2009 11:04:17 PM] Brian Cullinan: and clint said moving to another port was a stupid idea
+[02/16/2009 11:04:17 PM] Micheal Brooks: remove ftp
+[02/16/2009 11:04:18 PM] Micheal Brooks: asap
+[02/16/2009 11:04:43 PM] Brian Cullinan: pure-ftp support ftp over ssh i just have to set it up
+[02/16/2009 11:05:03 PM] Micheal Brooks: (Link: http://isc.sans.org/port.html?port=22)http://isc.sans.org/port.html?port=22  vs (Link: http://isc.sans.org/port.html?port=51239)http://isc.sans.org/port.html?port=51239
+[02/16/2009 11:05:11 PM] Micheal Brooks: clint has never hacked antyihng in his entire life
+[02/16/2009 11:05:15 PM] Micheal Brooks: i have written more than 30 exploitis
+[02/16/2009 11:05:25 PM] Brian Cullinan: that's not the point
+[02/16/2009 11:05:49 PM] Micheal Brooks: yeah,  what does clint say about throwing passwords and source code over the internet in clear text?
+[02/16/2009 11:05:51 PM] Brian Cullinan: if they are able to get to get a log in we already have bigger problems
+[02/16/2009 11:05:52 PM] Micheal Brooks: via ftp?
+[02/16/2009 11:06:28 PM] Micheal Brooks: its a one line config file change and you drop your brute force attempts by a factor of 100,000
+[02/16/2009 11:06:43 PM] Micheal Brooks: (Link: http://isc.sans.org/port.html?port=21)http://isc.sans.org/port.html?port=21  spikes up to 140,0000
+[02/16/2009 11:06:48 PM] Micheal Brooks: 140,000+
+[02/16/2009 11:06:49 PM] Brian Cullinan: and the ftp service isn't accepting any logins because it isn't configured for users yet
+[02/16/2009 11:06:57 PM] Micheal Brooks: remove it
+[02/16/2009 11:07:03 PM] Micheal Brooks: use ssh
+[02/16/2009 11:07:08 PM] Brian Cullinan: lol
+[02/16/2009 11:07:20 PM] Brian Cullinan: you don't have to remove it to make it use sftp
+[02/16/2009 11:07:40 PM] Brian Cullinan: and we use fail2ban which ruins brute force attacks
+[02/16/2009 11:07:53 PM] Micheal Brooks: your making a major mistake
+[02/16/2009 11:08:08 PM] Brian Cullinan: 6 login attemps and they are banned for 3 hours
+[02/16/2009 11:08:34 PM] Brian Cullinan: if you can't plant something i will take your word for it, but so far there is nothing wrong
+[02/16/2009 11:08:41 PM] Micheal Brooks: okay,  so if i have a botnet of 50,000 nodes i can guess the entire english dictionary in a few minutes
+[02/16/2009 11:08:43 PM] Micheal Brooks: 3 hours?
+[02/16/2009 11:08:52 PM] Micheal Brooks: so waht,  i have years to guess
+[02/16/2009 11:09:28 PM] Micheal Brooks: ftp is a serious hazard,  use sftp
+[02/16/2009 11:09:36 PM] Micheal Brooks: move ssh/sftp to a high port
+[02/16/2009 11:09:40 PM] Micheal Brooks: its 2 config lines
+[02/16/2009 11:09:46 PM] Micheal Brooks: and 1 command to remove sftp
+[02/16/2009 11:09:55 PM] Micheal Brooks: if you won't i'll take a vote at acm
+[02/16/2009 11:10:06 PM] Micheal Brooks: because your making a serious mistake
+[02/16/2009 11:10:35 PM] Brian Cullinan: wow, that is really fucked up man
+[02/16/2009 11:10:41 PM] Brian Cullinan: and kind of douchy
+[02/16/2009 11:10:49 PM] Micheal Brooks: yeah,  well  i use pico
+[02/16/2009 11:10:54 PM] Brian Cullinan: you took a really bad approach to this entire conversation
+[02/16/2009 11:11:03 PM] Micheal Brooks: okay i'm sorry
+[02/16/2009 11:11:08 PM] Micheal Brooks: too much cafine
+[02/16/2009 11:11:34 PM] Micheal Brooks: but are you really taking clint's word over mine?
+[02/16/2009 11:11:53 PM] Brian Cullinan: maybe you should just chill and think about what you want to propose and we can talk about it later
+[02/16/2009 11:12:05 PM] Micheal Brooks: okay,  i apologize 
+[02/16/2009 11:13:08 PM] Brian Cullinan: leah takes a similar approach
+[02/16/2009 11:14:11 PM] Brian Cullinan: she talks more like an attack, instead of a suggestion
+[02/16/2009 11:14:18 PM] Micheal Brooks: also it looks like email is down
+[02/16/2009 11:14:36 PM] Micheal Brooks: whatever man
+[02/16/2009 11:14:45 PM] Micheal Brooks: i guess it doesn't matter at all
+[02/16/2009 11:14:55 PM] Brian Cullinan: what email?
+[02/16/2009 11:15:29 PM] *** You have been disconnected. Mon Feb 16 23:15:29 2009.
+[02/16/2009 11:15:41 PM] *** "Micheal Brooks" signed on at Mon Feb 16 23:15:41 2009.
+[02/16/2009 11:16:02 PM] Brian Cullinan: what email is down?
+[02/16/2009 11:16:11 PM] *** You have been disconnected. Mon Feb 16 23:16:11 2009.
+[02/16/2009 11:16:34 PM] *** "Micheal Brooks" signed on at Mon Feb 16 23:16:34 2009.
+[02/16/2009 11:16:44 PM] Brian Cullinan: the mailing list hates Leah
+[02/16/2009 11:16:53 PM] Brian Cullinan: whenever she sends something it sends out errors
+[02/16/2009 11:21:12 PM] Micheal Brooks: but seriously ssh doubles as an sftp server
+[02/16/2009 11:21:38 PM] Micheal Brooks: no point in having 2 servers with twice the likely hood of an exploit 
+[02/16/2009 11:22:09 PM] Micheal Brooks: never mind the 250,000+  bots vs 10 bots scanning for you
+[02/16/2009 11:23:13 PM] Brian Cullinan: sftp is an easier protocol, can i run in on localhost so when we use ssh we can use ftp
+[02/16/2009 11:23:14 PM] Brian Cullinan: ?
+[02/16/2009 11:23:36 PM] Micheal Brooks: idk
+[02/16/2009 11:23:38 PM] Brian Cullinan: i didn't realize sftp can be used with the same services as ssh
+[02/16/2009 11:23:46 PM] Micheal Brooks: yeah,  its all good
+[02/16/2009 11:24:01 PM] Micheal Brooks: no configs,  it just does it
+[02/16/2009 11:24:24 PM] Brian Cullinan: i've used scp, and it is always a pain in the ass, typing in paths and doing a few files at a time, ftp is simple and i can use it with my web browser
+[02/16/2009 11:24:48 PM] Micheal Brooks: i use Zend or Ubuntu's built in "server connection"
+[02/16/2009 11:24:52 PM] Micheal Brooks: eclipse also works
+[02/16/2009 11:25:10 PM] Micheal Brooks: i guess is gnome's "connect to server"
+[02/16/2009 11:27:01 PM] Micheal Brooks: zend 5.5 is awesome for that.  6 also has  sftp but  6 has other problems...
+[02/16/2009 11:28:27 PM] Brian Cullinan: i prefer an IDE that does more then just php
+[02/16/2009 11:28:46 PM] Micheal Brooks: yeah,  i rock eclipse for that reason
+[02/16/2009 11:28:54 PM] Micheal Brooks: the python mod for eclipse works really well
+[02/16/2009 11:29:09 PM] Brian Cullinan: i prefer an IDE that people haven't died waiting for it to load
+[02/16/2009 11:29:28 PM] Micheal Brooks: so then what do you use
+[02/16/2009 11:29:41 PM] Brian Cullinan: dreamweaver and visual studio
+[02/16/2009 11:29:48 PM] Brian Cullinan: both load in under 15 seconds
+[02/16/2009 11:29:54 PM] Brian Cullinan: both have remote file management
+[02/16/2009 11:30:07 PM] Micheal Brooks: visual studio doesn't have very good text formatting,  like it doesn't match quote marks and ()
+[02/16/2009 11:30:18 PM] Brian Cullinan: both support a wide variety of plugins and languages without compromising load times
+[02/16/2009 11:30:36 PM] Micheal Brooks: dreamwaver has sftp for sure
+[02/16/2009 11:31:12 PM] Brian Cullinan: uh huh :-]
+[02/16/2009 11:31:28 PM] Brian Cullinan: and plenty of other protocols
+[02/16/2009 11:31:32 PM] Brian Cullinan: so does VS
+[02/16/2009 11:31:43 PM] Micheal Brooks: i don't like vs
+[02/16/2009 11:31:50 PM] Micheal Brooks: unless i have to use it
+[02/16/2009 11:31:51 PM] Brian Cullinan: VS doesn't run on java :-Z
+[02/16/2009 11:32:05 PM] Brian Cullinan: java is slow an bloated
+[02/16/2009 11:32:07 PM] Micheal Brooks: some stuff only builds on vs
+[02/16/2009 11:32:17 PM] Brian Cullinan: so what does it make the languages you develop in it?
+[02/16/2009 11:32:48 PM] Micheal Brooks: i use nano :p
+[02/16/2009 11:32:55 PM] Brian Cullinan: VS is plenty hackable, you can copy shit out of the VS install and use them independently of VS
+[02/16/2009 11:32:55 PM] Micheal Brooks: (oah god no,  nano blows for that shit)
+[02/16/2009 11:33:17 PM] Micheal Brooks: can you get VS to match () , {} , '' and "" ?
+[02/16/2009 11:33:20 PM] Micheal Brooks: becuase that was like wtf?
+[02/16/2009 11:33:27 PM] Brian Cullinan: memory is another issue
+[02/16/2009 11:33:30 PM] Micheal Brooks: so necessary 
+[02/16/2009 11:33:43 PM] Brian Cullinan: what do you mean by match? if it is apart of the language then it will match it
+[02/16/2009 11:33:56 PM] Micheal Brooks: like you put your curser over one and it finds the other for you
+[02/16/2009 11:34:02 PM] Micheal Brooks: like the end of an if statement
+[02/16/2009 11:34:11 PM] Brian Cullinan: eclipse usually gets bigger and bigger, i've had to restart it at 500 MB
+[02/16/2009 11:34:20 PM] Brian Cullinan: vs always stays below 250
+[02/16/2009 11:34:36 PM] Brian Cullinan: oh!
+[02/16/2009 11:34:41 PM] Brian Cullinan: i totally love that feature
+[02/16/2009 11:34:50 PM] Brian Cullinan: and yes i think there is a plugin for it
+[02/16/2009 11:34:50 PM] Micheal Brooks: yeah so do i
+[02/16/2009 11:34:52 PM] Micheal Brooks: it saves time
+[02/16/2009 11:35:07 PM] Micheal Brooks: i hope so
+[02/16/2009 11:35:47 PM] Brian Cullinan: it's usefulness is more marginal when your parens are not all closed or there is the wrong number of opening, especially with languages that statements can span multiple lines
+[02/16/2009 11:36:25 PM] Micheal Brooks: yeah it doesn't matter for python
+[02/16/2009 11:36:32 PM] Micheal Brooks: but for c/c++.  java. php
+[02/16/2009 11:36:40 PM] Micheal Brooks: it really helps me
+[02/16/2009 11:37:04 PM] Brian Cullinan: hmm, i prefer 15 year old legacy code written in c over new java slow running code
+[02/16/2009 11:37:12 PM] Micheal Brooks: i also like eclipse's feature to auto-format nasty code
+[02/16/2009 11:37:24 PM] Micheal Brooks: like code written by cracked out indians that refuse to properly format their code
+[02/16/2009 11:37:41 PM] Brian Cullinan: yeah i hate that
+[02/16/2009 11:38:37 PM] Micheal Brooks: yeah its 2 clicks and it will format the code to a built in standard or you can make your own rules for formatting if your really anal like Dr Dan Li 
+[02/16/2009 11:39:32 PM] Brian Cullinan: anal with Dan Li would be interesting
+[02/16/2009 11:39:38 PM] Micheal Brooks: lol
+[02/16/2009 11:39:52 PM] Micheal Brooks: she is like a 14 year old boy with a doctorate 
+[02/16/2009 11:40:01 PM] Brian Cullinan: and a vagina
+[02/16/2009 11:44:26 PM] Micheal Brooks: fuck i gotta wake up in 7 hours for server upgrades and the 2 sleeping pills i dropped more than an hour ago isn't doing shit
+[02/16/2009 11:44:36 PM] Micheal Brooks: god damn your French press 
+[02/16/2009 11:44:45 PM] Micheal Brooks: my*
+[02/16/2009 11:47:23 PM] Brian Cullinan: better get to bed
+[02/16/2009 11:47:32 PM] Micheal Brooks: yeah
+[02/16/2009 11:47:34 PM] Micheal Brooks: peace
+[02/17/2009 01:05:54 AM] *** You have been disconnected. Tue Feb 17 01:05:54 2009.
+[02/17/2009 01:06:04 AM] *** "Micheal Brooks" signed on at Tue Feb 17 01:06:04 2009.
+[02/17/2009 02:34:31 AM] *** You have been disconnected. Tue Feb 17 02:34:31 2009.
+[02/17/2009 02:34:52 AM] *** "Micheal Brooks" signed on at Tue Feb 17 02:34:52 2009.
+[02/17/2009 03:19:17 AM] *** You have been disconnected. Tue Feb 17 03:19:17 2009.
+[02/17/2009 03:19:32 AM] *** "Micheal Brooks" signed on at Tue Feb 17 03:19:32 2009.
+[02/17/2009 03:48:54 AM] *** You have been disconnected. Tue Feb 17 03:48:54 2009.
+[02/17/2009 03:49:05 AM] *** "Micheal Brooks" signed on at Tue Feb 17 03:49:05 2009.
+[02/17/2009 05:32:31 AM] *** You have been disconnected. Tue Feb 17 05:32:31 2009.
+[02/17/2009 05:32:41 AM] *** "Micheal Brooks" signed on at Tue Feb 17 05:32:41 2009.
+[02/17/2009 06:02:08 AM] *** You have been disconnected. Tue Feb 17 06:02:08 2009.
+[02/17/2009 06:02:26 AM] *** "Micheal Brooks" signed on at Tue Feb 17 06:02:26 2009.
+Session Close (Micheal Brooks): Tue Feb 17 06:05:31 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri Feb 27 16:17:52 2009
+[02/27/2009 04:17:52 PM] Micheal Brooks: yo
+[02/27/2009 06:09:20 PM] Brian Cullinan: hey
+[02/27/2009 06:09:20 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[02/27/2009 06:09:23 PM] Brian Cullinan: whats up?
+[02/27/2009 06:37:09 PM] Micheal Brooks: Hey man
+[02/27/2009 06:37:13 PM] Micheal Brooks: are you having a party tonight?
+[02/27/2009 06:55:23 PM] Brian Cullinan: yeah but only til 12, not the usual 4 am
+Session Close (Micheal Brooks): Fri Feb 27 18:59:13 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri Mar 06 18:17:19 2009
+[03/06/2009 06:17:19 PM] Micheal Brooks: What are upto tonight?
+[03/06/2009 08:51:38 PM] *** "Micheal Brooks" signed off at Fri Mar 06 20:51:38 2009.
+[03/06/2009 08:56:02 PM] *** "Micheal Brooks" signed on at Fri Mar 06 20:56:02 2009.
+[03/07/2009 12:52:04 AM] *** "Micheal Brooks" signed off at Sat Mar 07 00:52:04 2009.
+[03/07/2009 01:13:52 AM] *** "Micheal Brooks" signed on at Sat Mar 07 01:13:52 2009.
+[03/07/2009 02:28:51 AM] *** "Micheal Brooks" signed off at Sat Mar 07 02:28:51 2009.
+[03/07/2009 10:05:41 AM] *** "Micheal Brooks" signed on at Sat Mar 07 10:05:41 2009.
+Session Close (Micheal Brooks): Sat Mar 07 11:49:23 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Tue Mar 24 19:52:41 2009
+[03/24/2009 07:52:41 PM] Micheal Brooks: yo
+[03/24/2009 08:02:58 PM] Brian Cullinan: hi
+[03/24/2009 08:03:05 PM] Micheal Brooks: whats goin' down?
+[03/24/2009 08:03:36 PM] Brian Cullinan: not much
+[03/24/2009 08:03:39 PM] Brian Cullinan: g2g lockup
+[03/24/2009 08:04:19 PM] Micheal Brooks: oah well we should get some beers and chill sometime
+[03/24/2009 08:04:42 PM] Brian Cullinan: ya definitely
+[03/24/2009 08:05:02 PM] Micheal Brooks: cool
+[03/24/2009 08:52:26 PM] Brian Cullinan: how about tomorrow?
+Session Close (Micheal Brooks): Tue Mar 24 20:59:51 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Tue Mar 24 21:18:11 2009
+[03/24/2009 09:18:11 PM] Micheal Brooks: i'm down
+[03/24/2009 09:19:28 PM] Micheal Brooks: i'm free in the afternoon,  hit me up on the chat or somthin'
+Session Close (Micheal Brooks): Tue Mar 24 22:02:49 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Wed Mar 25 21:14:16 2009
+[03/25/2009 09:14:21 PM] Brian Cullinan: are we still on for tonight?
+[03/25/2009 09:14:22 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[03/25/2009 09:14:25 PM] Brian Cullinan: how should i contact you?
+[03/25/2009 09:18:27 PM] Micheal Brooks: oah hey man
+[03/25/2009 09:18:56 PM] Micheal Brooks: sorry man,  some stuff came up
+[03/25/2009 09:20:13 PM] Micheal Brooks: chat is good,  i also have a skype phone: (623) 242-2282
+[03/25/2009 09:20:20 PM] Micheal Brooks: no cell right now
+[03/25/2009 09:49:35 PM] Brian Cullinan: so did you want to hang out?
+[03/25/2009 09:49:39 PM] Brian Cullinan: my place or yours?
+[03/25/2009 09:49:59 PM] Micheal Brooks: yo
+[03/25/2009 09:50:14 PM] Micheal Brooks: its getting late,  i have some shit to take care of.
+[03/25/2009 09:50:17 PM] Micheal Brooks: sorry
+[03/25/2009 09:50:20 PM] Brian Cullinan: ok
+[03/25/2009 09:50:30 PM] Brian Cullinan: i guess i'll just go drink beer by myself
+[03/25/2009 09:50:33 PM] Micheal Brooks: what are you doing on friday?
+[03/25/2009 09:50:36 PM] Micheal Brooks: hgah
+[03/25/2009 09:50:39 PM] Micheal Brooks: or maybe saturday
+[03/25/2009 09:50:51 PM] Brian Cullinan: friday i am partying
+[03/25/2009 09:50:56 PM] Brian Cullinan: same thing i do every friday
+[03/25/2009 09:50:58 PM] Micheal Brooks: sweet
+[03/25/2009 09:51:14 PM] Brian Cullinan: saturday i am recovering and procrastinating 
+[03/25/2009 09:51:29 PM] Micheal Brooks: cool
+[03/25/2009 09:53:30 PM] Brian Cullinan: you should checkout the code to my media server
+[03/25/2009 09:54:16 PM] Micheal Brooks: i'm down
+[03/25/2009 09:55:14 PM] Micheal Brooks: i'm free tomorrow afternoon before acm
+[03/25/2009 09:55:22 PM] Micheal Brooks: or whatever
+[03/25/2009 09:55:27 PM] Micheal Brooks: maybe get some lunch or somthing
+[03/25/2009 09:55:34 PM] Micheal Brooks: i can call you
+[03/25/2009 09:57:26 PM] Brian Cullinan: ok sounds good
+[03/25/2009 09:57:35 PM] Micheal Brooks: cool
+[03/25/2009 09:58:01 PM] Micheal Brooks: 1pm?
+[03/25/2009 10:27:05 PM] Brian Cullinan: ok
+[03/25/2009 10:27:10 PM] Brian Cullinan: wait
+[03/25/2009 10:27:14 PM] Brian Cullinan: i have class
+[03/25/2009 10:27:18 PM] Brian Cullinan: how about 2
+[03/25/2009 10:27:22 PM] Micheal Brooks: thats good
+[03/25/2009 10:27:22 PM] Brian Cullinan: at the helpdesk
+[03/25/2009 10:27:35 PM] Micheal Brooks: i'll give you a call at 2,  cool?
+[03/25/2009 10:28:09 PM] Brian Cullinan: ok
+Session Close (Micheal Brooks): Wed Mar 25 22:36:45 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Thu Mar 26 14:23:09 2009
+[03/26/2009 02:23:11 PM] Brian Cullinan: hey
+[03/26/2009 02:23:11 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+Session Close (Micheal Brooks): Thu Mar 26 15:18:07 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri Apr 03 16:44:05 2009
+[04/03/2009 04:44:05 PM] Micheal Brooks: Hey
+[04/03/2009 04:52:31 PM] Brian Cullinan: hey
+[04/03/2009 04:52:33 PM] Brian Cullinan: whats up?
+[04/03/2009 04:52:36 PM] Micheal Brooks: yo
+[04/03/2009 04:52:39 PM] Micheal Brooks: just chillin'
+[04/03/2009 04:52:42 PM] Micheal Brooks: are you having a party tonight?
+[04/03/2009 04:55:23 PM] Brian Cullinan: i am always partyingf
+[04/03/2009 04:55:29 PM] Micheal Brooks: hah,  good man
+[04/03/2009 04:55:33 PM] Brian Cullinan: going to store to get taco shells
+[04/03/2009 04:55:37 PM] Brian Cullinan: then making dinner
+[04/03/2009 04:55:38 PM] Brian Cullinan: ttyl
+[04/03/2009 04:55:40 PM] Micheal Brooks: peace
+Session Close (Micheal Brooks): Fri Apr 03 17:25:42 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri Apr 10 15:16:51 2009
+[04/10/2009 03:17:02 PM] Brian Cullinan: would you want to move in may 1st for the summer?
+[04/10/2009 03:17:03 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[04/10/2009 03:41:59 PM] Micheal Brooks: Yo
+[04/10/2009 03:42:49 PM] Micheal Brooks: I guess i could, but i'd have to find a place in Augest right?>
+[04/10/2009 03:44:25 PM] Brian Cullinan: yeah
+[04/10/2009 03:44:35 PM] Brian Cullinan: but it would be a full 3 months instead of like 2
+[04/10/2009 03:48:02 PM] Micheal Brooks: How much is rent?
+[04/10/2009 03:50:19 PM] Brian Cullinan: how much are you paying now?
+[04/10/2009 03:51:13 PM] Micheal Brooks: I'm looking at room in a house thats 375 a month, not including utils
+[04/10/2009 03:52:40 PM] Micheal Brooks: i think it would be fun to live at your place
+[04/10/2009 04:04:51 PM] Micheal Brooks: so i'm paying 475 right now at my place that includes utils.  So whats the price?
+[04/10/2009 04:39:42 PM] Brian Cullinan: how about 400?
+[04/10/2009 04:39:51 PM] Brian Cullinan: for 3 months
+[04/10/2009 04:40:26 PM] Brian Cullinan: maybe we can do 375
+[04/10/2009 04:40:36 PM] Brian Cullinan: i'll ask the landlords
+[04/10/2009 04:40:46 PM] Brian Cullinan: got to lock up
+[04/10/2009 04:43:16 PM] Micheal Brooks: cool
+[04/10/2009 05:04:34 PM] Brian Cullinan: Crystal might be living there to so we can have a forgie
+Session Close (Micheal Brooks): Fri Apr 10 17:34:36 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri Apr 10 17:35:59 2009
+[04/10/2009 05:35:59 PM] Micheal Brooks: hah,  wow
+[04/10/2009 05:36:06 PM] Micheal Brooks: i'd like to see crystal again
+[04/10/2009 05:36:28 PM] Micheal Brooks: forgie is an awesome word
+[04/10/2009 05:52:58 PM] Brian Cullinan: yeah thats really the only reason i said that
+[04/10/2009 05:52:59 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[04/10/2009 05:53:14 PM] Micheal Brooks: heh
+[04/10/2009 05:53:14 PM] Micheal Brooks: \
+[04/10/2009 06:22:02 PM] Brian Cullinan: hey, is there a music tracker you can invite me to, there is a ton of party music i can't find on newz bin
+[04/10/2009 06:22:25 PM] Micheal Brooks: waffles and what.cd are by far the best
+[04/10/2009 06:22:34 PM] Micheal Brooks: i can give you a waffles
+[04/10/2009 06:22:39 PM] Brian Cullinan: do you have any spare invites?
+[04/10/2009 06:22:43 PM] Micheal Brooks: yeah,  hold up
+[04/10/2009 06:23:40 PM] Micheal Brooks: whats your addr?
+[04/10/2009 06:23:44 PM] Micheal Brooks: email address
+[04/10/2009 06:23:53 PM] Brian Cullinan: hmm not sure which one i should use
+[04/10/2009 06:23:59 PM] Micheal Brooks: anyone,  gmail
+[04/10/2009 06:24:04 PM] Micheal Brooks: hury,  invites are open right now
+[04/10/2009 06:24:13 PM] Brian Cullinan: bjcullinan@gmail.com
+[04/10/2009 06:24:32 PM] Brian Cullinan: is what.cd not open anymore?
+[04/10/2009 06:24:41 PM] Brian Cullinan: i remember you talking to david about that one
+[04/10/2009 06:24:45 PM] Micheal Brooks: i don't have a what.cd
+[04/10/2009 06:25:01 PM] Brian Cullinan: maybe he does
+[04/10/2009 06:25:20 PM] Brian Cullinan: he said the one he uses he doesn't have any invites
+[04/10/2009 06:25:44 PM] Micheal Brooks: yeah i guess
+[04/10/2009 06:25:51 PM] Micheal Brooks: anyway you should get be getting an account very soon
+[04/10/2009 06:25:57 PM] Brian Cullinan: sweet
+[04/10/2009 06:26:06 PM] Micheal Brooks: i share everything i download 24/7
+[04/10/2009 06:26:13 PM] Brian Cullinan: and i should take care of it right away
+[04/10/2009 06:26:35 PM] Micheal Brooks: your first few gb is hard,  but after you upload 2gb you are in the clear
+[04/10/2009 06:26:35 PM] Brian Cullinan: yeah, i am going to set up a download server and share 24/7 too
+[04/10/2009 06:26:42 PM] Micheal Brooks: fuck yeah
+[04/10/2009 06:26:44 PM] Micheal Brooks: thats the way to go
+[04/10/2009 06:27:05 PM] Brian Cullinan: how long do i have to share 2gb?
+[04/10/2009 06:27:26 PM] Brian Cullinan: g2g pack
+[04/10/2009 06:27:30 PM] Micheal Brooks: no,  after you upload 2gb
+[04/10/2009 06:27:39 PM] Micheal Brooks: i suggest sharing everything 24/7
+[04/10/2009 06:27:47 PM] Brian Cullinan: yeah i will
+[04/10/2009 06:29:23 PM] Micheal Brooks: check your email
+[04/10/2009 06:29:23 PM] Micheal Brooks: ttyl
+[04/10/2009 06:31:07 PM] Brian Cullinan: did i mention the price we discussed would include utilities
+[04/10/2009 06:31:21 PM] Brian Cullinan: nothing yet
+[04/10/2009 06:35:30 PM] Brian Cullinan: going to the carnivale?
+Session Close (Micheal Brooks): Fri Apr 10 19:05:32 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sat Apr 11 14:16:24 2009
+[04/11/2009 02:16:30 PM] Brian Cullinan: computer working ok?
+[04/11/2009 02:16:30 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[04/11/2009 02:16:46 PM] Brian Cullinan: check out my reports script, and give me some suggestions, (Link: http://dev.bjcullinan.com/admin/reports.php)http://dev.bjcullinan.com/admin/reports.php
+[04/11/2009 02:18:11 PM] Brian Cullinan: user: tmpuser
+ pass: tmppass
+Session Close (Micheal Brooks): Sat Apr 11 14:48:13 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sun Apr 12 00:10:24 2009
+[04/12/2009 12:10:34 AM] Brian Cullinan: i can't get fucking mod security to block an IP address
+[04/12/2009 12:10:34 AM] *** Auto-response from Micheal Brooks: I'm not here right now
+[04/12/2009 12:10:46 AM] Brian Cullinan: someone is running an attack on my dev site and i can't fucking block it!
+[04/12/2009 12:10:54 AM] Brian Cullinan: i need help getting this damn thing to work
+Session Close (Micheal Brooks): Sun Apr 12 01:19:30 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sun Apr 12 13:28:03 2009
+[04/12/2009 01:28:04 PM] Micheal Brooks: Heh,  yeah i attacked your dev server
+[04/12/2009 01:28:11 PM] Micheal Brooks: and i found 5 xss falws
+[04/12/2009 01:28:35 PM] Brian Cullinan: LOL
+[04/12/2009 01:28:45 PM] Brian Cullinan: hehe, i reported you to quest
+[04/12/2009 01:28:50 PM] Brian Cullinan: what did you find?
+[04/12/2009 01:28:50 PM] Micheal Brooks: lol
+[04/12/2009 01:28:55 PM] Micheal Brooks: 5 xss falws
+[04/12/2009 01:29:00 PM] Micheal Brooks: thats it
+[04/12/2009 01:29:03 PM] Micheal Brooks: some email addresses
+[04/12/2009 01:29:06 PM] Micheal Brooks: a proxy server
+[04/12/2009 01:29:09 PM] Micheal Brooks: i haven't looked at it
+[04/12/2009 01:29:15 PM] Brian Cullinan: so no password file?
+[04/12/2009 01:29:22 PM] Micheal Brooks: can you unreport me to quest?
+[04/12/2009 01:29:26 PM] Brian Cullinan: you were using a proxy?
+[04/12/2009 01:29:28 PM] Micheal Brooks: it was just an automated scan
+[04/12/2009 01:29:29 PM] Micheal Brooks: no
+[04/12/2009 01:29:41 PM] Brian Cullinan: oh, i don't know how to unreport
+[04/12/2009 01:30:02 PM] Micheal Brooks: did you email the abuse email address in my whois?
+[04/12/2009 01:30:12 PM] Brian Cullinan: yeah
+[04/12/2009 01:30:18 PM] Brian Cullinan: plus 3 hours of log files
+[04/12/2009 01:30:28 PM] Micheal Brooks: send them another mail saying it wasn't an attack
+[04/12/2009 01:30:32 PM] Brian Cullinan: lol, you got to tell me about this stuff
+[04/12/2009 01:30:40 PM] Micheal Brooks: you gotta write secure code!
+[04/12/2009 01:30:50 PM] Micheal Brooks: or run acuentix on your shit
+[04/12/2009 01:31:47 PM] Micheal Brooks: xss isn't hta tbad
+[04/12/2009 01:31:52 PM] Micheal Brooks: i'll run off the pdf and send it to you
+[04/12/2009 01:32:38 PM] Brian Cullinan: ok, i can't believe it was you!
+[04/12/2009 01:32:43 PM] Micheal Brooks: lol
+[04/12/2009 01:32:49 PM] Micheal Brooks: why,  its just a scan
+[04/12/2009 01:33:44 PM] Brian Cullinan: so, you were putting in 10 requests a second and all my apache threads were dying, not to mention if you put stuff in the search box it uses the DB heavily
+[04/12/2009 01:34:07 PM] Micheal Brooks: lol
+[04/12/2009 01:34:09 PM] Brian Cullinan: so xss flaws?
+[04/12/2009 01:34:12 PM] Micheal Brooks: yep
+[04/12/2009 01:34:17 PM] Brian Cullinan: like injecting code into my site?
+[04/12/2009 01:34:26 PM] Micheal Brooks: just reflective xss
+[04/12/2009 01:34:29 PM] Brian Cullinan: but not getting any information from my system
+[04/12/2009 01:34:33 PM] Brian Cullinan: yeah
+[04/12/2009 01:34:33 PM] Micheal Brooks: no sql injection was found
+[04/12/2009 01:34:36 PM] Micheal Brooks: error reporting is turned on
+[04/12/2009 01:34:40 PM] Brian Cullinan: yeah
+[04/12/2009 01:34:47 PM] Brian Cullinan: because it's a DEV site
+[04/12/2009 01:34:51 PM] Micheal Brooks: yeah
+[04/12/2009 01:35:01 PM] Micheal Brooks: well its a lot easier to find vulns when it on
+[04/12/2009 01:35:05 PM] Brian Cullinan: i'll turn off error reporting when i post it on media.bjcullinan.com
+[04/12/2009 01:35:11 PM] Micheal Brooks: thats good
+[04/12/2009 01:35:15 PM] Micheal Brooks: check your email
+[04/12/2009 01:35:17 PM] Micheal Brooks: you have the pdf
+[04/12/2009 01:35:28 PM] Brian Cullinan: so i wonder if all of those flaws it found was because of the error reporting
+[04/12/2009 01:35:43 PM] Micheal Brooks: and email quest saying that it was an accedent,  or i'll get my shit turned off...
+[04/12/2009 01:35:49 PM] Brian Cullinan: yeah i did
+[04/12/2009 01:35:52 PM] Micheal Brooks: naa,  xss doesn't need error reporting
+[04/12/2009 01:35:52 PM] Micheal Brooks: thanks
+[04/12/2009 01:35:54 PM] Brian Cullinan: you're in phoenix?
+[04/12/2009 01:35:58 PM] Micheal Brooks: naa
+[04/12/2009 01:36:14 PM] Micheal Brooks: sql injection testing is a lot better with error reporting
+[04/12/2009 01:36:21 PM] Brian Cullinan: the IP address was coming from a residential area in phoenix
+[04/12/2009 01:36:50 PM] Micheal Brooks: yeah,  i have seen that
+[04/12/2009 01:36:54 PM] Micheal Brooks: idk why my domain says that
+[04/12/2009 01:38:05 PM] Brian Cullinan: i don't want to read every this set to something, how do i find what went wrong?
+[04/12/2009 01:38:22 PM] Micheal Brooks: lol,  yeah i have never read that shit before
+[04/12/2009 01:38:34 PM] Micheal Brooks: i just use the vuln browser that it comes with
+[04/12/2009 01:38:45 PM] Micheal Brooks: download acuentix 6 and run it your self
+[04/12/2009 01:38:51 PM] Micheal Brooks: its like type in a domain name,  hit enter
+[04/12/2009 01:38:57 PM] Micheal Brooks: find vulns
+[04/12/2009 01:39:29 PM] Brian Cullinan: yeah not to mention it would be faster across the local network
+[04/12/2009 01:39:53 PM] Brian Cullinan: i just saw your IP address and added deny from <ip> to my .htaccess
+[04/12/2009 01:40:18 PM] Brian Cullinan: but you did help me find another vuln
+[04/12/2009 01:40:30 PM] Brian Cullinan: word press doesn't protect the content folder
+[04/12/2009 01:40:47 PM] Brian Cullinan: so people could be linking to my site from any referer
+[04/12/2009 01:41:08 PM] Brian Cullinan: i found some dumbass on a porn forum linking his avatar to my site
+[04/12/2009 01:41:17 PM] Brian Cullinan: fuck that, i'm not hosting people's avatar
+[04/12/2009 01:41:22 PM] Micheal Brooks: hah
+[04/12/2009 01:41:23 PM] Micheal Brooks: yeah
+[04/12/2009 01:41:32 PM] Micheal Brooks: thats real common
+[04/12/2009 01:42:16 PM] Brian Cullinan: so i am thinking of how they could abuse my site
+[04/12/2009 01:42:34 PM] Micheal Brooks: wordpress is really shitty code
+[04/12/2009 01:42:39 PM] Micheal Brooks: a lot of vulns have been found in it
+[04/12/2009 01:42:41 PM] Brian Cullinan: yeah
+[04/12/2009 01:42:47 PM] Micheal Brooks: like more than 20 in '08
+[04/12/2009 01:42:52 PM] Brian Cullinan: for sure, i might have to put drupal on it
+[04/12/2009 01:42:55 PM] Micheal Brooks: they got a powny award 
+[04/12/2009 01:43:04 PM] Brian Cullinan: lol
+[04/12/2009 01:44:32 PM] *** "Micheal Brooks" signed off at Sun Apr 12 13:44:32 2009.
+[04/12/2009 01:44:42 PM] *** "Micheal Brooks" signed on at Sun Apr 12 13:44:42 2009.
+[04/12/2009 01:46:45 PM] Brian Cullinan: see these aren't really vulnerabilities because it is getting an appropriate response but it isn't affecting the page being displayed
+[04/12/2009 01:46:47 PM] Micheal Brooks: lol, i'm sorry for scanning you
+[04/12/2009 01:46:58 PM] Micheal Brooks: naa its definlty xss
+[04/12/2009 01:47:04 PM] Micheal Brooks: xss doesn't get false postivies
+[04/12/2009 01:47:13 PM] Micheal Brooks: doesn't need error reporting
+[04/12/2009 01:47:22 PM] Micheal Brooks: its the best web app test
+[04/12/2009 01:47:22 PM] Brian Cullinan: all the validation is done early, and the template is printing the validated text
+[04/12/2009 01:47:31 PM] Micheal Brooks: one moment
+[04/12/2009 01:47:32 PM] Micheal Brooks: let me see
+[04/12/2009 01:47:44 PM] Brian Cullinan: i mean it says it found 67 high level
+[04/12/2009 01:48:26 PM] Micheal Brooks: lol,  i'm forbidden
+[04/12/2009 01:50:10 PM] Brian Cullinan: lol
+[04/12/2009 01:50:18 PM] Brian Cullinan: thats ok, i tested it
+[04/12/2009 01:50:22 PM] Brian Cullinan: i
+[04/12/2009 01:50:27 PM] Brian Cullinan: i'll work on it
+[04/12/2009 01:51:26 PM] Micheal Brooks: hehe
+[04/12/2009 01:52:58 PM] Brian Cullinan: you shoulda told me!
+[04/12/2009 01:53:07 PM] Micheal Brooks: lol
+[04/12/2009 01:53:48 PM] Brian Cullinan: thanks though
+[04/12/2009 01:53:49 PM] Brian Cullinan: ttyl
+[04/12/2009 01:53:57 PM] Micheal Brooks: peace
+Session Close (Micheal Brooks): Sun Apr 12 14:24:22 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sun Apr 12 15:16:47 2009
+[04/12/2009 03:16:53 PM] Brian Cullinan: no word from quest?
+[04/12/2009 03:17:02 PM] Micheal Brooks: nope
+[04/12/2009 03:17:10 PM] Brian Cullinan: why would the trace show you being in phoenix?
+[04/12/2009 03:17:48 PM] Micheal Brooks: idk,  i guess thats where it is routed from.  i know my domain says phx
+[04/12/2009 03:18:14 PM] Brian Cullinan: hmmm
+[04/12/2009 03:18:19 PM] Brian Cullinan: sorry
+[04/12/2009 03:18:36 PM] Brian Cullinan: if i had known i wouldn't have been freaking out about it
+[04/12/2009 03:19:03 PM] Brian Cullinan: some of the stuff my site does it pretty cpu intensive
+[04/12/2009 03:19:12 PM] Micheal Brooks: yeah i don't really care,  i don' tthink anything will ahppen
+[04/12/2009 03:19:16 PM] Micheal Brooks: shit happens
+[04/12/2009 03:19:25 PM] Micheal Brooks: sorry for freakin' ya out
+[04/12/2009 03:19:33 PM] Brian Cullinan: so when i got 10 connections open at a time and threads are constantly being killed and started it is pretty intense
+[04/12/2009 03:19:46 PM] Brian Cullinan: nah, it was good practice
+[04/12/2009 03:19:49 PM] Micheal Brooks: yeah
+[04/12/2009 03:20:07 PM] Brian Cullinan: i need to put something in place to only allow a certain number of requests
+[04/12/2009 03:20:27 PM] Brian Cullinan: like you can only make a request every second on my media site
+[04/12/2009 03:24:04 PM] Brian Cullinan: anyways, i meant to IM you and tell you that all these little errors are in the template
+[04/12/2009 03:24:58 PM] Brian Cullinan: all the internal stuff is pretty stable
+[04/12/2009 03:25:43 PM] Micheal Brooks: cool
+[04/12/2009 03:26:46 PM] Brian Cullinan: anyways i might write templates in php from now on
+[04/12/2009 03:26:51 PM] Brian Cullinan: this smarty stuff is a pain
+[04/12/2009 03:32:12 PM] Brian Cullinan: can i get acunetix for free?
+[04/12/2009 03:32:20 PM] Micheal Brooks: thepiratebay
+[04/12/2009 03:32:28 PM] Brian Cullinan: newzbin
+[04/12/2009 03:32:33 PM] Micheal Brooks: acunetix 6
+[04/12/2009 03:32:38 PM] Micheal Brooks: make sure you get 6
+[04/12/2009 03:32:42 PM] Micheal Brooks: it was a major improvement
+[04/12/2009 03:33:14 PM] Brian Cullinan: :-/ not on newzbin
+[04/12/2009 03:44:34 PM] Brian Cullinan: this is going to take forever to download, could i possibly get it from you?
+[04/12/2009 03:44:35 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[04/12/2009 03:47:32 PM] Brian Cullinan: nvm i guess it is done
+[04/12/2009 03:47:42 PM] Micheal Brooks: yo
+[04/12/2009 03:48:07 PM] Micheal Brooks: make sure you can accept incoming connections or it will be very slow
+[04/12/2009 04:05:27 PM] Brian Cullinan: how do i make it skip the search field
+[04/12/2009 04:30:02 PM] Brian Cullinan: i think i'll add a PREVENT_OVERLOADING options that requires a second delay between requests, and doesn't run the cron script if a ton of other stuff is running
+[04/12/2009 04:35:53 PM] Brian Cullinan: how do i edit the request variables to test?
+[04/12/2009 04:36:01 PM] Brian Cullinan: i want to to always use the live template
+[04/12/2009 04:59:10 PM] Micheal Brooks: i'm not sure what you are asking
+[04/12/2009 05:00:00 PM] Micheal Brooks: also mysql can show you heavy queries that are currently running,  and i used this to track down some search engine cron script,  i set it to only run at midnight when there wasn't much load on the server
+[04/12/2009 05:00:17 PM] Micheal Brooks: cacti can give you a nice graph of resource usage
+[04/12/2009 05:00:58 PM] Micheal Brooks: your cron idea is good
+[04/12/2009 05:26:20 PM] Brian Cullinan: yeah, it really makes the site virtually unhackable, i mean making cron only act on things internally, and making the admin section the only place that accepts input, it really abstracts everything in to a model, view, controller paradigm
+Session Close (Micheal Brooks): Sun Apr 12 17:56:22 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sun Apr 12 18:12:30 2009
+[04/12/2009 06:13:22 PM] Brian Cullinan: hey, so when is you rent up in may?  i'd be willing to help you move, and it is a big favor to my parents to have someone renting during the summer, but it would only be for 3 months, would you be able to find another place at the end of august?
+[04/12/2009 06:13:22 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[04/12/2009 06:38:08 PM] Micheal Brooks: yo
+[04/12/2009 06:38:20 PM] Brian Cullinan: hey
+[04/12/2009 06:38:37 PM] Micheal Brooks: cool
+[04/12/2009 06:38:49 PM] Micheal Brooks: my lease is up on the 15th
+[04/12/2009 06:42:00 PM] Brian Cullinan: ok perfect
+[04/12/2009 06:42:11 PM] Brian Cullinan: do you think you could find a new place in august?
+[04/12/2009 06:44:07 PM] Micheal Brooks: yeah i'm on a waiting list
+[04/12/2009 06:49:51 PM] Brian Cullinan: ok, so you would probably be able to get it in august but maybe not now in may
+[04/12/2009 06:51:44 PM] Micheal Brooks: yeah,  there is an opening at the end of august, but i can find another place if need be. 
+[04/12/2009 06:51:49 PM] Micheal Brooks: i'm not worried
+[04/12/2009 09:42:57 PM] Brian Cullinan: living at the deathstar will be fun
+[04/12/2009 09:45:51 PM] Micheal Brooks: yeah i'm looking forward to it
+Session Close (Micheal Brooks): Sun Apr 12 22:32:11 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Thu Apr 16 13:44:15 2009
+[04/16/2009 01:44:26 PM] Brian Cullinan: what does bitrate v0 to v8 mean?
+[04/16/2009 01:44:27 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[04/16/2009 01:44:30 PM] Brian Cullinan: variable 8?
+[04/16/2009 01:44:36 PM] Brian Cullinan: i don't know what it means
+Session Close (Micheal Brooks): Thu Apr 16 14:14:38 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri Apr 17 20:04:22 2009
+[04/17/2009 08:04:24 PM] Brian Cullinan: Hey
+[04/17/2009 08:51:38 PM] Brian Cullinan: Are you there?
+Session Close (Micheal Brooks): Fri Apr 17 21:31:48 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sat Apr 18 22:05:46 2009
+[04/18/2009 10:05:53 PM] Brian Cullinan: who were we listening to last night?
+Session Close (Micheal Brooks): Sat Apr 18 22:45:20 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sat Apr 18 23:20:05 2009
+[04/18/2009 11:20:05 PM] Micheal Brooks: HIgh Contrast Tough guys don't dance
+[04/18/2009 11:20:12 PM] Micheal Brooks: Pendulum - Hold your Color
+[04/18/2009 11:23:12 PM] Brian Cullinan: cool thanks
+Session Close (Micheal Brooks): Sat Apr 18 23:47:30 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Tue Apr 21 00:56:41 2009
+[04/21/2009 12:56:42 AM] Brian Cullinan: you up?
+[04/21/2009 12:56:43 AM] *** Auto-response from Micheal Brooks: I'm not here right now
+Session Close (Micheal Brooks): Tue Apr 21 01:26:46 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Wed Apr 22 13:46:38 2009
+[04/22/2009 01:46:39 PM] Micheal Brooks: i hacked ctorrent: (Link: http://milw0rm.com/exploits/8470)http://milw0rm.com/exploits/8470
+[04/22/2009 02:47:22 PM] *** "Micheal Brooks" signed off at Wed Apr 22 14:47:22 2009.
+[04/22/2009 04:39:15 PM] *** "Micheal Brooks" signed on at Wed Apr 22 16:39:15 2009.
+[04/24/2009 01:08:01 AM] *** You have been disconnected. Fri Apr 24 01:08:01 2009.
+[04/24/2009 01:08:14 AM] *** "Micheal Brooks" signed on at Fri Apr 24 01:08:14 2009.
+[04/24/2009 01:55:01 AM] *** "Micheal Brooks" signed off at Fri Apr 24 01:55:01 2009.
+[04/24/2009 02:00:56 AM] *** You have been disconnected. Fri Apr 24 02:00:56 2009.
+[04/24/2009 05:37:38 AM] Brian Cullinan: i think i blew a tittie fuse
+[04/24/2009 05:37:38 AM] *** Error while sending IM: This user is currently not logged on
+Session Close (Micheal Brooks): Fri Apr 24 05:39:38 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sat Apr 25 19:55:17 2009
+[04/25/2009 07:55:17 PM] Micheal Brooks: still in vegas?
+[04/25/2009 07:55:27 PM] Brian Cullinan: nope
+[04/25/2009 07:55:53 PM] Micheal Brooks: how was it
+[04/25/2009 07:56:24 PM] Micheal Brooks: do you know of anything going on tonight?
+[04/25/2009 08:14:49 PM] Brian Cullinan: it was amazing
+[04/25/2009 08:14:49 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[04/25/2009 08:14:56 PM] Brian Cullinan: and i have a fuck ton of programming to do
+[04/25/2009 08:42:29 PM] Brian Cullinan: are you on verizon/
+[04/25/2009 08:42:30 PM] Brian Cullinan: ?
+[04/25/2009 08:50:43 PM] Micheal Brooks: i'm on skype right now...
+[04/25/2009 08:51:54 PM] Brian Cullinan: are you still paying for a cell phone?
+[04/25/2009 08:52:13 PM] Micheal Brooks: no
+[04/25/2009 08:52:45 PM] Brian Cullinan: oh
+[04/25/2009 08:53:05 PM] Brian Cullinan: because i might have a verizon phone you could borrow, at least until you stop break iphones :-P
+[04/25/2009 08:53:22 PM] Micheal Brooks: ha,  thanks
+[04/25/2009 08:55:41 PM] Brian Cullinan: i have a bunch of shows to catch up on if you want to hang out
+[04/25/2009 08:55:57 PM] Brian Cullinan: but i should probably do homework while i watch tv
+[04/25/2009 08:56:29 PM] Micheal Brooks: hah,  maybe some time when you aren't so busy,  i'm just chillin with a beer right now.
+[04/25/2009 09:00:39 PM] Brian Cullinan: i went to a strip club
+[04/25/2009 09:00:47 PM] Brian Cullinan: and got a dance from this chick
+[04/25/2009 09:00:54 PM] Brian Cullinan: she was fucking gorgeous
+[04/25/2009 09:01:37 PM] Brian Cullinan: she was all getting up close breathing on my ear and putting her thighs around me, her cleavage smelled like flowers
+[04/25/2009 09:01:46 PM] Brian Cullinan: she was delicious
+[04/25/2009 09:01:51 PM] Brian Cullinan: first time
+[04/25/2009 09:02:06 PM] Brian Cullinan: and it was probably the best thing i spent money on in vegas
+[04/25/2009 09:09:19 PM] Micheal Brooks: haha,  wow
+[04/25/2009 09:09:23 PM] Micheal Brooks: yeah i have never been
+[04/25/2009 09:09:38 PM] Brian Cullinan: we will go during defcon
+[04/25/2009 09:09:50 PM] Brian Cullinan: if you take a cab to a strip club they get you in for free
+[04/25/2009 09:10:33 PM] Micheal Brooks: cool
+Session Close (Micheal Brooks): Sat Apr 25 21:40:52 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sun Apr 26 17:52:56 2009
+[04/26/2009 05:52:56 PM] Micheal Brooks: you should blast this:
+ (Link: http://www.youtube.com/watch?v=0yHBoxR1HJM)http://www.youtube.com/watch?v=0yHBoxR1HJM
+[04/26/2009 05:53:19 PM] Brian Cullinan: haha sounds good
+[04/26/2009 06:05:28 PM] *** "Micheal Brooks" signed off at Sun Apr 26 18:05:28 2009.
+[04/26/2009 06:17:30 PM] *** "Micheal Brooks" signed on at Sun Apr 26 18:17:30 2009.
+Session Close (Micheal Brooks): Sun Apr 26 18:47:32 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Apr 27 20:31:10 2009
+[04/27/2009 08:31:16 PM] Brian Cullinan: i need a new fuckin bt client
+[04/27/2009 08:31:23 PM] Brian Cullinan: azerues has gone to shit
+[04/27/2009 08:31:28 PM] Micheal Brooks: i hate vuze
+[04/27/2009 08:31:31 PM] Brian Cullinan: fucking bastards made it gay
+[04/27/2009 08:31:33 PM] Micheal Brooks: i liked azureus
+[04/27/2009 08:31:38 PM] Micheal Brooks: but vuze is unuseable
+[04/27/2009 08:31:49 PM] Brian Cullinan: it used to be great and cross platform and simple
+[04/27/2009 08:31:56 PM] Micheal Brooks: yeah
+[04/27/2009 08:32:01 PM] Micheal Brooks: good feature set
+[04/27/2009 08:32:25 PM] Micheal Brooks: I use uTorrent under wine for most  stuff these days
+[04/27/2009 08:33:05 PM] Micheal Brooks: the clients that use the python core are unusably slow when you share a lot of files. (~500)
+[04/27/2009 08:33:26 PM] Brian Cullinan: that sucks
+[04/27/2009 08:33:30 PM] Micheal Brooks: i have shared more than 1k on uTorrent without a noticeable change in performance 
+[04/27/2009 08:33:32 PM] Brian Cullinan: azuerues is java
+[04/27/2009 08:33:37 PM] Micheal Brooks: yea
+[04/27/2009 08:33:46 PM] Brian Cullinan: uTorrent is good though?
+[04/27/2009 08:33:50 PM] Micheal Brooks: yeah
+[04/27/2009 08:33:59 PM] Micheal Brooks: oah BTW i hacked cTorrent
+[04/27/2009 08:34:12 PM] Micheal Brooks: my first buffer overflow: (Link: http://milw0rm.com/exploits/8470)http://milw0rm.com/exploits/8470
+[04/27/2009 08:34:30 PM] Micheal Brooks: I also hacked azureus/vuze,  but thats another story
+[04/27/2009 08:36:52 PM] Brian Cullinan: any way to hack their site so they can't distribute their shitty software anymore?
+[04/27/2009 08:39:27 PM] Micheal Brooks: milw0rm?
+[04/27/2009 08:39:37 PM] Micheal Brooks: str0ke runs the site and he is a bad ass
+[04/27/2009 08:39:55 PM] Micheal Brooks: his site is pretty tight,  It got hacked once a few years ago when they ran PhpBB
+[04/27/2009 08:40:21 PM] Micheal Brooks: milw0rm is mirrored a few hundred times
+[04/27/2009 08:40:26 PM] Micheal Brooks: its also non-profit
+[04/27/2009 08:40:37 PM] Brian Cullinan: milw0rm?
+[04/27/2009 08:40:41 PM] Micheal Brooks: yea
+[04/27/2009 08:40:46 PM] Micheal Brooks: cTorrent is no more,  its now the dTorrent project,  and they should patch it...
+[04/27/2009 08:40:58 PM] Micheal Brooks: (Link: http://sourceforge.net/projects/dtorrent/)http://sourceforge.net/projects/dtorrent/
+[04/27/2009 08:41:22 PM] Micheal Brooks: the project looks like its still active,  but i'm not sure
+[04/27/2009 08:41:57 PM] Micheal Brooks: libTorrent is the best multi-platform c++ library for bittorrent,  a lot of great clients are based on it. 
+[04/27/2009 08:42:09 PM] Brian Cullinan: ah
+[04/27/2009 08:42:20 PM] Brian Cullinan: str0ke runs the vuze site?
+[04/27/2009 08:42:32 PM] Micheal Brooks: no,  str0ke runs milw0rm
+[04/27/2009 08:42:43 PM] Micheal Brooks: oah you wanted to hack vuze 
+[04/27/2009 08:42:50 PM] Brian Cullinan: whats milw0rm
+[04/27/2009 08:42:51 PM] Micheal Brooks: i get it
+[04/27/2009 08:42:57 PM] Brian Cullinan: ?
+[04/27/2009 08:42:59 PM] Micheal Brooks: the site i linked you to
+[04/27/2009 08:43:12 PM] Micheal Brooks: a lot of my exploits are posted there: (Link: http://milw0rm.com/author/677)http://milw0rm.com/author/677
+[04/27/2009 08:43:21 PM] Brian Cullinan: oh right
+[04/27/2009 08:43:31 PM] Brian Cullinan: milw0rm is the hack site i bookmarked
+[04/27/2009 08:43:39 PM] Brian Cullinan: yes i want to destroy vuze for sucking so hard
+[04/27/2009 08:43:49 PM] Micheal Brooks: haha
+[04/27/2009 08:44:00 PM] Brian Cullinan: it's like bittorrenting for dumbasses
+[04/27/2009 08:44:06 PM] Micheal Brooks: it does suck
+[04/27/2009 08:44:12 PM] Micheal Brooks: but its more diffcult to use than other clients
+[04/27/2009 08:44:17 PM] Brian Cullinan: because they are the only ones who would like that stupid view
+[04/27/2009 08:44:45 PM] Brian Cullinan: its difficult for us to use because it doesn't show the information we care about
+[04/27/2009 08:44:50 PM] Brian Cullinan: they over complicated it
+[04/27/2009 08:45:04 PM] Brian Cullinan: and added some shitty front end for tweens to download porn with
+[04/27/2009 08:45:16 PM] Micheal Brooks: heh
+[04/27/2009 08:45:19 PM] Micheal Brooks: its true
+[04/27/2009 08:53:55 PM] Brian Cullinan: party this weekend
+[04/27/2009 08:54:02 PM] Micheal Brooks: awesome,  i'll be there
+Session Close (Micheal Brooks): Mon Apr 27 21:10:22 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Thu Apr 30 18:20:33 2009
+[04/30/2009 06:20:33 PM] Micheal Brooks: yo
+[04/30/2009 06:31:31 PM] Brian Cullinan: hey
+[04/30/2009 06:31:31 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[04/30/2009 06:31:38 PM] Brian Cullinan: getting all packed up and ready for finals?
+[04/30/2009 06:32:49 PM] Micheal Brooks: indeed
+[04/30/2009 06:34:36 PM] Brian Cullinan: awesome
+[04/30/2009 06:34:50 PM] Brian Cullinan: so i guess i should make sure i kick dave out on time
+[04/30/2009 06:34:56 PM] Brian Cullinan: he's kinda being a douche
+[04/30/2009 06:35:00 PM] Brian Cullinan: he never does dishes
+[04/30/2009 06:35:08 PM] Micheal Brooks: no good
+[04/30/2009 06:35:12 PM] Micheal Brooks: i'm clean,  i can cook
+[04/30/2009 06:35:13 PM] Brian Cullinan: and he parks in my spot!
+[04/30/2009 06:35:17 PM] Micheal Brooks: haha
+[04/30/2009 06:35:20 PM] Micheal Brooks: that won't be a problem...
+[04/30/2009 06:35:24 PM] Brian Cullinan: yeah
+[04/30/2009 06:35:30 PM] Brian Cullinan: looking forward to it
+[04/30/2009 06:35:45 PM] Micheal Brooks: me too
+[04/30/2009 06:36:00 PM] Micheal Brooks: i have to be out on the 15th so,  whatever.
+[04/30/2009 06:36:32 PM] Brian Cullinan: ok
+[04/30/2009 06:36:50 PM] Brian Cullinan: i will make sure he is all packed up by then
+[04/30/2009 06:36:57 PM] Micheal Brooks: cool
+[04/30/2009 06:37:25 PM] Brian Cullinan: i fell asleep at work again today
+[04/30/2009 06:37:43 PM] Micheal Brooks: heh,  i have done that
+[04/30/2009 06:39:44 PM] Brian Cullinan: g2g to comm. ttyl
+Session Close (Micheal Brooks): Thu Apr 30 19:19:49 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri May 01 16:25:18 2009
+[05/01/2009 04:25:18 PM] Micheal Brooks: hey, can i get a ride to your party tonight?
+[05/01/2009 04:31:51 PM] Brian Cullinan: sure thing
+[05/01/2009 04:31:57 PM] Micheal Brooks: sweet
+[05/01/2009 04:32:00 PM] Micheal Brooks: thanks man
+Session Close (Micheal Brooks): Fri May 01 17:19:20 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri May 01 19:56:46 2009
+[05/01/2009 07:56:46 PM] Micheal Brooks: what time is good for you to pick me up?
+[05/01/2009 08:04:25 PM] Brian Cullinan: i still have to go eat
+[05/01/2009 08:04:29 PM] Brian Cullinan: so probably like 9
+[05/01/2009 08:04:45 PM] Micheal Brooks: cool
+[05/01/2009 08:04:51 PM] Micheal Brooks: i'll be ready
+[05/01/2009 08:05:09 PM] Micheal Brooks: my apt is 601
+Session Close (Micheal Brooks): Fri May 01 21:09:12 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sat May 02 15:24:06 2009
+[05/02/2009 03:24:16 PM] Brian Cullinan: howd you get home?
+[05/02/2009 03:24:17 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[05/02/2009 03:24:47 PM] Micheal Brooks: i got a ride with meg
+[05/02/2009 03:24:52 PM] Micheal Brooks: omg i am so hung the fuck over
+[05/02/2009 03:24:54 PM] Micheal Brooks: i just puked
+[05/02/2009 03:24:55 PM] Micheal Brooks: fuck
+[05/02/2009 03:25:13 PM] Brian Cullinan: shit
+[05/02/2009 03:25:17 PM] Brian Cullinan: i have a head ache
+[05/02/2009 03:25:21 PM] Brian Cullinan: no sick though
+[05/02/2009 03:25:26 PM] Micheal Brooks: yeah,  i have a head ache
+[05/02/2009 03:25:33 PM] Micheal Brooks: maybe i'm sick
+[05/02/2009 03:25:38 PM] Micheal Brooks: i blame you!
+[05/02/2009 03:25:39 PM] Micheal Brooks: haha
+[05/02/2009 03:25:42 PM] Brian Cullinan: lol
+[05/02/2009 03:25:45 PM] Micheal Brooks: good times
+[05/02/2009 03:25:52 PM] Micheal Brooks: it was a great party
+[05/02/2009 03:27:03 PM] Brian Cullinan: totally
+[05/02/2009 03:30:38 PM] Micheal Brooks: great group of people
+[05/02/2009 03:31:05 PM] Brian Cullinan: ya
+Session Close (Micheal Brooks): Sat May 02 16:01:07 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Wed May 06 23:29:59 2009
+[05/06/2009 11:30:03 PM] Brian Cullinan: you around?
+[05/06/2009 11:30:04 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[05/06/2009 11:42:12 PM] Micheal Brooks: how goes
+[05/06/2009 11:51:59 PM] Brian Cullinan: got a final tomorrow?
+[05/06/2009 11:52:08 PM] Micheal Brooks: naa,  i just had my last one today
+[05/06/2009 11:52:16 PM] Brian Cullinan: people are on there way to pick you up
+[05/06/2009 11:52:25 PM] Micheal Brooks: rightnow?
+[05/06/2009 11:52:30 PM] Micheal Brooks: haha,  okay
+[05/06/2009 11:52:30 PM] Brian Cullinan: right now
+[05/06/2009 11:52:32 PM] Micheal Brooks: let me put on cloths
+[05/06/2009 11:52:38 PM] Micheal Brooks: cool
+[05/06/2009 11:53:09 PM] Micheal Brooks: its not the FBI right?
+[05/06/2009 11:53:15 PM] Brian Cullinan: lol
+[05/06/2009 11:53:23 PM] Brian Cullinan: have you been hacking!?
+[05/06/2009 11:53:34 PM] Micheal Brooks: well i guess,  you reported me!
+[05/06/2009 11:53:42 PM] Micheal Brooks: hah,  probably nothing will come of it
+[05/06/2009 11:53:47 PM] Brian Cullinan: LOL i was an accident!
+[05/06/2009 11:54:25 PM] Micheal Brooks: heh,  yeah it happens
+[05/07/2009 12:27:42 AM] Micheal Brooks: so whats the word
+[05/07/2009 12:30:06 AM] Brian Cullinan: david smith was supposed to pick you up
+[05/07/2009 12:30:22 AM] Micheal Brooks: huh, ok
+[05/07/2009 12:30:24 AM] Micheal Brooks: cool
+[05/07/2009 12:30:29 AM] Brian Cullinan: not sure it will happen
+[05/07/2009 12:30:33 AM] Brian Cullinan: he said he was coming
+[05/07/2009 12:30:38 AM] Brian Cullinan: but he is kind of flaky
+[05/07/2009 12:30:54 AM] Micheal Brooks: oah well
+[05/07/2009 12:33:05 AM] Micheal Brooks: do you have plans this weekend?  like any graduation parties?  
+[05/07/2009 12:33:46 AM] Brian Cullinan: i am going to drink from now until next friday so yes i have plans
+[05/07/2009 12:33:58 AM] Brian Cullinan: you are welcome to join me at any time
+[05/07/2009 12:34:11 AM] Micheal Brooks: i think i'll take you up on that
+[05/07/2009 12:34:30 AM] Micheal Brooks: hah,  whats next friday?
+[05/07/2009 12:51:49 AM] Brian Cullinan: g2g to phoenix
+[05/07/2009 12:53:42 AM] *** "Micheal Brooks" signed off at Thu May 07 00:53:42 2009.
+[05/07/2009 01:10:59 AM] *** You have been disconnected. Thu May 07 01:10:59 2009.
+Session Close (Micheal Brooks): Thu May 07 01:13:38 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Thu May 07 18:38:23 2009
+[05/07/2009 06:38:24 PM] Micheal Brooks: how goes
+[05/08/2009 01:35:14 AM] Brian Cullinan: star trek ftw
+[05/08/2009 01:35:14 AM] *** Auto-response from Micheal Brooks: I'm not here right now
+[05/08/2009 01:46:37 AM] Micheal Brooks: oah yeah i really want to see that
+[05/08/2009 01:46:50 AM] Micheal Brooks: very cool
+[05/08/2009 02:02:03 AM] *** "Micheal Brooks" signed off at Fri May 08 02:02:03 2009.
+[05/08/2009 02:02:03 AM] Brian Cullinan: yeah
+[05/08/2009 02:02:03 AM] *** Error while sending IM: This user is currently not logged on
+Session Close (Micheal Brooks): Fri May 08 02:31:59 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri May 08 18:19:38 2009
+[05/08/2009 06:19:38 PM] Micheal Brooks: hey man if you know of anything going down tonight i am game
+[05/08/2009 06:45:39 PM] Brian Cullinan: just sittin around working on the site
+[05/08/2009 06:45:58 PM] Brian Cullinan: going to star trek again at 10:30
+[05/08/2009 06:52:44 PM] Micheal Brooks: damn it was good
+[05/08/2009 06:53:01 PM] Micheal Brooks: i'd like to go,  is anyone else going?
+[05/08/2009 06:53:11 PM] Brian Cullinan: yeah
+[05/08/2009 06:53:14 PM] Brian Cullinan: dave and ryan
+[05/08/2009 06:53:20 PM] Micheal Brooks: cool
+[05/08/2009 06:53:38 PM] Brian Cullinan: dave already got tickets though
+[05/08/2009 06:54:11 PM] Micheal Brooks: i would love to go,  do you think getting tickets or a ride will be a problem?
+[05/08/2009 06:54:51 PM] Brian Cullinan: dave already got his
+[05/08/2009 06:54:52 PM] Micheal Brooks: i don't think it will be sold out
+[05/08/2009 06:54:58 PM] Brian Cullinan: want to come over here and hang out?
+[05/08/2009 06:55:05 PM] Micheal Brooks: surew
+[05/08/2009 06:55:19 PM] Brian Cullinan: we can stop by the theatre and you can pick one up
+[05/08/2009 06:55:24 PM] Brian Cullinan: better safe then sorry
+[05/08/2009 06:55:32 PM] Micheal Brooks: indeed
+[05/08/2009 06:56:25 PM] Micheal Brooks: when do you want to do this?
+[05/08/2009 06:57:20 PM] Brian Cullinan: when are you available?
+[05/08/2009 06:57:50 PM] Brian Cullinan: was to bring your drive over with music? if it is removable that is
+[05/08/2009 06:58:07 PM] Micheal Brooks: whenever,  i don't have plans.
+[05/08/2009 06:58:17 PM] Micheal Brooks: i'm free from now until like augest,  haha
+[05/08/2009 06:58:33 PM] Brian Cullinan: yeah
+[05/08/2009 06:58:39 PM] Micheal Brooks: yeah i left my power adapter in daves car
+[05/08/2009 06:58:57 PM] Brian Cullinan: ok, he's here so we can grab it
+[05/08/2009 06:59:01 PM] Micheal Brooks: cool
+[05/08/2009 06:59:05 PM] Brian Cullinan: or dave smith?
+[05/08/2009 06:59:09 PM] Micheal Brooks: dave smith
+[05/08/2009 06:59:14 PM] Brian Cullinan: oh
+[05/08/2009 07:03:34 PM] Brian Cullinan: i guess i could come over now
+[05/08/2009 07:04:16 PM] Micheal Brooks: cool,  i'll be ready
+[05/08/2009 07:18:26 PM] *** "Micheal Brooks" signed off at Fri May 08 19:18:26 2009.
+Session Close (Micheal Brooks): Fri May 08 20:16:51 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sun May 10 20:25:07 2009
+[05/10/2009 08:25:07 PM] Micheal Brooks: (Link: http://www.ian.org/HD-Clock/)http://www.ian.org/HD-Clock/ there is a youtube video 1/2 down the page
+[05/10/2009 08:27:36 PM] Brian Cullinan: i am starting to get bored
+[05/10/2009 08:29:02 PM] Brian Cullinan: no way
+[05/10/2009 08:29:15 PM] Brian Cullinan: that is hot
+[05/10/2009 08:29:50 PM] Brian Cullinan: i want to make one
+[05/10/2009 08:29:51 PM] Brian Cullinan: now
+[05/10/2009 08:42:51 PM] Brian Cullinan: i am ordering parts
+[05/10/2009 08:42:51 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[05/10/2009 08:43:00 PM] Micheal Brooks: oah yeah
+[05/10/2009 08:43:05 PM] Micheal Brooks: cool
+[05/10/2009 08:43:10 PM] Micheal Brooks: i like it too
+[05/10/2009 08:43:17 PM] Brian Cullinan: i want to make one with a row of LEDs that display messages in a circle
+[05/10/2009 08:43:30 PM] Brian Cullinan: like attaching the LEDs to one side of the platter
+[05/10/2009 09:02:58 PM] Brian Cullinan: i think i could cut apart the tape and split it together
+[05/10/2009 09:04:19 PM] Brian Cullinan: or fold it underneath the drive, so i'd have a potentially 15 pixel long led display which would be an excellent resolution
+[05/10/2009 09:06:42 PM] Brian Cullinan: omg this will be so fun to write software for
+[05/10/2009 09:10:07 PM] Brian Cullinan: dude i could totally attach and led to the end of the reader and have it fucking draw
+[05/10/2009 09:10:11 PM] Brian Cullinan: hard drive motors are hot!
+Session Close (Micheal Brooks): Sun May 10 21:40:13 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon May 11 17:01:29 2009
+[05/11/2009 05:01:30 PM] Micheal Brooks: hey
+[05/11/2009 05:01:35 PM] Brian Cullinan: hey man
+[05/11/2009 05:01:42 PM] Brian Cullinan: whats up?
+[05/11/2009 05:02:11 PM] Micheal Brooks: just enjoying the day
+[05/11/2009 05:02:22 PM] Micheal Brooks: when will  dave be out? 
+[05/11/2009 05:02:29 PM] Micheal Brooks: becuase i have 4 days to move my shit out and clean...
+[05/11/2009 05:03:03 PM] Brian Cullinan: i'll talk to him
+[05/11/2009 05:03:09 PM] Brian Cullinan: but it might be pretty close
+[05/11/2009 05:03:24 PM] Micheal Brooks: cool
+Session Close (Micheal Brooks): Mon May 11 17:33:26 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Tue May 12 00:20:47 2009
+[05/12/2009 12:21:08 AM] Brian Cullinan: what does whiskey do to the taste buds?
+[05/12/2009 12:24:05 AM] *** "Micheal Brooks" signed off at Tue May 12 00:24:05 2009.
+[05/12/2009 12:32:53 AM] *** "Micheal Brooks" signed on at Tue May 12 00:32:53 2009.
+[05/12/2009 12:33:41 AM] Brian Cullinan: and i like to think that a chef destroying his taste buds a little bit would just make him cook food that is more flavorful
+[05/12/2009 12:43:23 AM] Micheal Brooks: how
+[05/12/2009 12:43:29 AM] Micheal Brooks: haha
+[05/12/2009 12:43:35 AM] Micheal Brooks: thats one way to look at it
+[05/12/2009 12:44:02 AM] Brian Cullinan: not to mention i am sure mary jane isn't that good for the taste buds either
+[05/12/2009 12:44:26 AM] Micheal Brooks: damaging your senses is apart of life
+[05/12/2009 12:44:34 AM] Brian Cullinan: yeah
+[05/12/2009 12:44:51 AM] Micheal Brooks: for instance by having sex you get small amouts of scar tissue that builds up over time and evenutally it becomes hard to get hard
+[05/12/2009 12:45:01 AM] Micheal Brooks: but would you really not have sex becuase of that?
+[05/12/2009 12:45:05 AM] Micheal Brooks: its about enjoyment
+[05/12/2009 12:45:27 AM] Micheal Brooks: smoking is bad for smell/taste for sure
+[05/12/2009 12:45:49 AM] Brian Cullinan: have you ever been to prison?
+[05/12/2009 12:45:58 AM] Micheal Brooks: nope
+[05/12/2009 12:46:05 AM] Micheal Brooks: thats for 10 years plus or somthing
+[05/12/2009 12:46:09 AM] Micheal Brooks: only county jail
+[05/12/2009 12:47:00 AM] Brian Cullinan: really?
+[05/12/2009 12:47:13 AM] Brian Cullinan: whats the most illegal thing you've done?
+[05/12/2009 12:47:20 AM] Micheal Brooks: haha
+[05/12/2009 12:47:26 AM] Micheal Brooks: not sure
+[05/12/2009 12:47:37 AM] Micheal Brooks: the most illegal thing i have been arrested for is posession of cocaine 
+[05/12/2009 12:47:42 AM] Brian Cullinan: not sure, or not sure your going to tell me?
+[05/12/2009 12:48:01 AM] Micheal Brooks: haha
+[05/12/2009 12:48:18 AM] Micheal Brooks: my gf was 17 while i was 18 that was probalby illegal
+[05/12/2009 12:48:18 AM] Brian Cullinan: probably stick to the stuff they already know about
+[05/12/2009 12:48:36 AM] Brian Cullinan: aol is a sell out is all i mean
+[05/12/2009 12:51:51 AM] Brian Cullinan: the only reason i ask is because people talk, and i hear stuff, and it hasn't affected my feelings towards living with you, i just want to get to know you better
+[05/12/2009 12:52:27 AM] Micheal Brooks: i'll tell you about some of the stuff i've done in real life
+[05/12/2009 12:52:37 AM] Micheal Brooks: not over the net,  unless you grab some encryption
+[05/12/2009 12:52:48 AM] *** bjcullinan wants to directly connect.
+[05/12/2009 12:52:58 AM] Micheal Brooks: not quite
+[05/12/2009 12:53:02 AM] Brian Cullinan: lol
+[05/12/2009 12:53:02 AM] Micheal Brooks: you need pidigin-encryption
+[05/12/2009 12:53:51 AM] Brian Cullinan: hmm don't have pigin, but you could call me
+[05/12/2009 12:54:16 AM] Micheal Brooks: naa,  i'd rather use encryption 
+[05/12/2009 12:54:18 AM] Micheal Brooks: or in person
+[05/12/2009 12:54:24 AM] Micheal Brooks: but,  it doesn't matter that shit is behind me
+[05/12/2009 12:54:59 AM] Brian Cullinan: yeah, we can wait to talk in person, i am interested in knowing you better
+[05/12/2009 12:56:25 AM] Brian Cullinan: dude i love veronica mars
+[05/12/2009 12:57:19 AM] Micheal Brooks: sounds like the name of a porn star
+[05/12/2009 12:57:57 AM] Brian Cullinan: dude have you never seen veronica mars?
+[05/12/2009 12:58:13 AM] Micheal Brooks: i don't think so
+[05/12/2009 12:58:28 AM] Brian Cullinan: omfg
+[05/12/2009 12:59:07 AM] Micheal Brooks: yeah she is fucking hot
+[05/12/2009 12:59:22 AM] Brian Cullinan: yeah she is
+[05/12/2009 12:59:28 AM] Brian Cullinan: she's a PI
+[05/12/2009 01:00:20 AM] Micheal Brooks: like 3.14, haha?
+[05/12/2009 01:01:34 AM] Brian Cullinan: private investigator
+[05/12/2009 01:02:13 AM] Micheal Brooks: oah aha
+[05/12/2009 01:02:40 AM] Brian Cullinan: kristen bell is adorable
+[05/12/2009 01:03:42 AM] Brian Cullinan: fuckers always leave you hanging
+[05/12/2009 01:04:37 AM] Micheal Brooks: yeah she is
+[05/12/2009 01:04:38 AM] Micheal Brooks: brb
+[05/12/2009 01:09:24 AM] Brian Cullinan: made progress on the clock today
+[05/12/2009 01:12:26 AM] Micheal Brooks: sweet
+[05/12/2009 01:12:30 AM] Micheal Brooks: that thing is more than a clock
+[05/12/2009 01:13:03 AM] Brian Cullinan: hmm
+[05/12/2009 01:13:19 AM] Brian Cullinan: you will have to help me come up with creative stuff to do
+[05/12/2009 01:13:37 AM] Brian Cullinan: and it spins twice as fast as the human fucking eye
+[05/12/2009 01:13:55 AM] Brian Cullinan: we think were so amazing, but the eye only refreshes as 60 hz
+[05/12/2009 01:14:04 AM] Micheal Brooks: it would be fun to write patters for it
+[05/12/2009 01:14:06 AM] Micheal Brooks: or sink it up to music
+[05/12/2009 01:14:50 AM] Brian Cullinan: i agree
+[05/12/2009 01:16:09 AM] Brian Cullinan: actually music would be fucking awesome
+[05/12/2009 01:17:35 AM] Brian Cullinan: we could come up with a circuit for turning frequencies of the analog signal into digital and change colors
+[05/12/2009 01:18:12 AM] Micheal Brooks: that would be cool,  i don't know much about A2D stuff
+[05/12/2009 01:18:59 AM] Brian Cullinan: well our circuit would make it basically digital before it even gets to the chip, and it doesn't have to be perfect because it will be changing a lot
+[05/12/2009 01:20:16 AM] Micheal Brooks: also encasing it in plastic to make it more portable and less fragile would be a good thing to do 
+[05/12/2009 01:21:02 AM] Brian Cullinan: yeah for sure
+[05/12/2009 01:32:27 AM] Micheal Brooks: this girl is amazing:
+ (Link: http://media.photobucket.com/image/perfection%20girl/NSTLCTRO/450px-Perfection2.jpg)http://media.photobucket.com/image/perfection%20girl/NSTLCTRO/450px-Perfection2.jpg
+[05/12/2009 01:32:45 AM] Micheal Brooks: i saw a picture of her topless  but  i can't find it
+[05/12/2009 01:33:16 AM] Micheal Brooks: this is a better one:
+[05/12/2009 01:33:17 AM] Micheal Brooks: (Link: http://media.photobucket.com/image/perfection%20girl/DerShoelessOne/PerfectionGirl.jpg)http://media.photobucket.com/image/perfection%20girl/DerShoelessOne/PerfectionGirl.jpg
+[05/12/2009 01:33:18 AM] Brian Cullinan: lol
+[05/12/2009 01:37:59 AM] Micheal Brooks: so this game audio surf generates a unique path based on any music file you give it:
+ (Link: http://www.youtube.com/watch?v=AYBCcW0TGhM)http://www.youtube.com/watch?v=AYBCcW0TGhM
+[05/12/2009 01:38:11 AM] Micheal Brooks: i think its looking at the rate of change of the music
+[05/12/2009 01:38:35 AM] Micheal Brooks: the first derivative of the beat 
+[05/12/2009 01:39:35 AM] Brian Cullinan: (Link: http://209.250.30.30/Share/Pictures/Pictures/200)http://209.250.30.30/Share/Pictures/Pictures/2008-08-05%20Crystal%20(Very%20Sexy!)/DSC01585.JPG
+[05/12/2009 01:39:40 AM] Brian Cullinan: copy and paste
+[05/12/2009 01:40:13 AM] Micheal Brooks: damn,  she is a hotty,  her molding pictures are great too
+[05/12/2009 01:40:13 AM] Brian Cullinan: we will definitely have to come up with something creative to do with sound
+[05/12/2009 01:40:26 AM] Brian Cullinan: she sent those to you too!?
+[05/12/2009 01:40:36 AM] Micheal Brooks: no,  meg showed them to me
+[05/12/2009 01:40:46 AM] Brian Cullinan: she send them to meg too!?
+[05/12/2009 01:40:53 AM] Micheal Brooks: hah,  idk how meg got them
+[05/12/2009 01:41:05 AM] Brian Cullinan: maybe online
+[05/12/2009 01:41:10 AM] Micheal Brooks: yeah they where online
+[05/12/2009 01:41:20 AM] Brian Cullinan: i don't really care, just thought she was secretive/insecure about them
+[05/12/2009 01:42:01 AM] Brian Cullinan: (Link: http://209.250.30.30/Share/Pictures/Pictures/200)http://209.250.30.30/Share/Pictures/Pictures/2008-08-05%20Crystal%20(Very%20Sexy!)/DSC01594.JPG
+[05/12/2009 01:42:05 AM] Micheal Brooks: thats crazy, but hot girls are crazy
+[05/12/2009 01:42:28 AM] Brian Cullinan: ya
+[05/12/2009 01:44:07 AM] Micheal Brooks: brb
+[05/12/2009 02:02:56 AM] Micheal Brooks: back
+[05/12/2009 02:04:41 AM] Brian Cullinan: anyways i am working on the project
+[05/12/2009 02:04:45 AM] Brian Cullinan: in the acm room
+[05/12/2009 02:04:55 AM] Brian Cullinan: and leah and people are working on the robot
+[05/12/2009 02:05:16 AM] Brian Cullinan: i would invite you to come join us but leah doesn't like you too much
+[05/12/2009 02:05:32 AM] Micheal Brooks: yeah i know
+[05/12/2009 02:05:34 AM] Brian Cullinan: so as soon as i get to LEDs we should start programming the drive together
+[05/12/2009 02:05:37 AM] Micheal Brooks: she has reasons too
+[05/12/2009 02:05:51 AM] Brian Cullinan: and david smith said he had like 6 he could give us to do the same thing
+[05/12/2009 02:05:58 AM] Brian Cullinan: yeah, she told me
+[05/12/2009 02:06:37 AM] Micheal Brooks: now i'm curious what she said
+[05/12/2009 02:06:44 AM] Micheal Brooks: what about dave smith?
+[05/12/2009 02:07:12 AM] Brian Cullinan: he's going to give me more drives to mod/destroy/make pretty
+[05/12/2009 02:07:21 AM] Micheal Brooks: bad ass
+[05/12/2009 02:07:59 AM] Brian Cullinan: yeah he said he had like six that were clicking of death or rw errors
+[05/12/2009 02:08:14 AM] Micheal Brooks: nice
+[05/12/2009 02:08:27 AM] Micheal Brooks: the click of death might be a problem, i think they won't spin up
+[05/12/2009 02:08:36 AM] Micheal Brooks: i have had drives die to that
+[05/12/2009 02:08:48 AM] Brian Cullinan: i think click of death is from the reader
+[05/12/2009 02:09:02 AM] Micheal Brooks: huh
+[05/12/2009 02:09:09 AM] Micheal Brooks:  how you fix it is you put them is you put them in a static bag or wrap them in alumium foil and put them in the freezer for a few hours
+[05/12/2009 02:09:19 AM] Micheal Brooks: and its enough for the drive to spin up once
+[05/12/2009 02:09:22 AM] Micheal Brooks: and pull you data off
+[05/12/2009 02:09:26 AM] Micheal Brooks: i shit you not
+[05/12/2009 02:09:29 AM] Micheal Brooks: i have done this
+[05/12/2009 02:09:42 AM] Micheal Brooks: i fucking cried that i lost my data,  and i googled it and i found this solution 
+[05/12/2009 02:09:55 AM] Brian Cullinan: lol yeah i heard that one too
+[05/12/2009 02:10:00 AM] Brian Cullinan: i tried it once and it didn't work
+[05/12/2009 02:10:17 AM] Micheal Brooks: another thing you can try is softly taping the side of the drive 
+[05/12/2009 02:10:25 AM] Micheal Brooks: a rubber mallot works well
+[05/12/2009 02:10:37 AM] Brian Cullinan: but i may have spun it up a couple times, so if i did it the first time maybe it would work
+[05/12/2009 02:10:50 AM] Micheal Brooks: yeah maybe
+[05/12/2009 02:12:13 AM] Brian Cullinan: anyways
+[05/12/2009 02:12:33 AM] Brian Cullinan: i tore about 2 different manufacturer's drives and the platters were the exact same size
+[05/12/2009 02:13:02 AM] Brian Cullinan: so we can at least use them for spares and make tons more
+[05/12/2009 02:13:15 AM] Brian Cullinan: of clocks
+[05/12/2009 02:13:25 AM] Brian Cullinan: and sell them to faculty for 100 buckas
+[05/12/2009 02:13:29 AM] Brian Cullinan: *bucks
+[05/12/2009 02:13:33 AM] Micheal Brooks: very cool,  when does the other components come in?
+[05/12/2009 02:13:44 AM] Micheal Brooks: also, it looks like you need some really fine soldering
+[05/12/2009 02:14:05 AM] Micheal Brooks: idk if i am that good with a soldering iron,  but i'll take a stab at it for sure.
+[05/12/2009 02:14:34 AM] Brian Cullinan: hmm shouldn't need to much soldering but definitely a little, and you are welcome to help
+[05/12/2009 02:14:49 AM] Brian Cullinan: i am getting a LED strip the 15th
+[05/12/2009 02:14:56 AM] Brian Cullinan: 30 bucks including shipping
+[05/12/2009 02:15:23 AM] Micheal Brooks: for 1?
+[05/12/2009 02:15:33 AM] Brian Cullinan: yeah
+[05/12/2009 02:15:39 AM] Micheal Brooks: damn
+[05/12/2009 02:15:43 AM] Brian Cullinan: 10 dollars in shipping
+[05/12/2009 02:15:49 AM] Micheal Brooks: ah
+[05/12/2009 02:16:09 AM] Brian Cullinan: might be able to get the light strip to for work 2 if i cut it
+[05/12/2009 02:36:08 AM] *** "Micheal Brooks" signed off at Tue May 12 02:36:08 2009.
+[05/12/2009 02:36:32 AM] *** "Micheal Brooks" signed on at Tue May 12 02:36:32 2009.
+[05/12/2009 02:38:13 AM] Micheal Brooks: this is a great inspiration:
+ (Link: http://www.youtube.com/watch?v=gXrQoBnJS-4&feature=related)http://www.youtube.com/watch?v=gXrQoBnJS-4&feature=related
+[05/12/2009 02:38:31 AM] Micheal Brooks: at raves you see a lot of poi
+[05/12/2009 02:39:21 AM] Brian Cullinan: poi?
+[05/12/2009 02:39:26 AM] Micheal Brooks: yeah
+[05/12/2009 02:39:33 AM] Micheal Brooks: like 2 glow sticks attached to string
+[05/12/2009 02:39:37 AM] Micheal Brooks: or 2 balls of fire
+[05/12/2009 02:40:19 AM] Brian Cullinan: lol lame
+[05/12/2009 02:40:50 AM] Micheal Brooks: what do you mean lame,  thats what that guy in the video has
+[05/12/2009 02:40:54 AM] Micheal Brooks: thats poi
+[05/12/2009 02:40:56 AM] Brian Cullinan: we need up the game a little and attach accelerometers and have it print out different colors, and text
+[05/12/2009 02:41:11 AM] Brian Cullinan: little flashy alternating colors
+[05/12/2009 02:41:12 AM] Brian Cullinan: lol
+[05/12/2009 02:41:13 AM] Brian Cullinan: lame
+[05/12/2009 02:41:32 AM] Brian Cullinan: how about flashy colors that are aware of their surroundings and direction
+[05/12/2009 02:41:45 AM] Micheal Brooks: i agree that rave toys need to be smarter
+[05/12/2009 02:41:54 AM] Brian Cullinan: way smarter
+[05/12/2009 02:41:58 AM] Brian Cullinan: lets do it
+[05/12/2009 02:41:59 AM] Micheal Brooks: but even just a dumb chemical reation looks spectacular 
+[05/12/2009 02:42:07 AM] Micheal Brooks: epsically when combinaed with the reaction in your brain 
+[05/12/2009 02:42:20 AM] Brian Cullinan: hahaha
+[05/12/2009 02:42:33 AM] Brian Cullinan: E and cocaine are on the list of drugs that i would try once
+[05/12/2009 02:42:45 AM] Micheal Brooks: coke is worth missing,  not going to lie
+[05/12/2009 02:43:19 AM] Micheal Brooks: mdma must be done at least once in your life
+[05/12/2009 02:43:40 AM] Brian Cullinan: i figure if my dad does cocaine i should try it once and see what i am missing
+[05/12/2009 02:43:51 AM] Brian Cullinan: i wouldn't do meth or haroine
+[05/12/2009 02:43:58 AM] Micheal Brooks: defintly don't do thoughs 
+[05/12/2009 02:44:03 AM] Brian Cullinan: unless! it was wish john travolta
+[05/12/2009 02:44:11 AM] Micheal Brooks: lol
+[05/12/2009 02:44:15 AM] Brian Cullinan: i meant come on
+[05/12/2009 02:44:18 AM] Brian Cullinan: wouldn't you/
+[05/12/2009 02:44:19 AM] Brian Cullinan: ?
+[05/12/2009 02:44:38 AM] Micheal Brooks: i can't do herion,  under any condition 
+[05/12/2009 02:44:45 AM] Brian Cullinan: y?
+[05/12/2009 02:44:51 AM] Micheal Brooks: i am a year and a half clean
+[05/12/2009 02:45:15 AM] Brian Cullinan: oh right
+[05/12/2009 02:45:19 AM] Micheal Brooks: i had a real problem with it
+[05/12/2009 02:45:24 AM] Brian Cullinan: yeah i heard
+[05/12/2009 02:45:31 AM] Brian Cullinan: sorry i fotgot
+[05/12/2009 02:45:33 AM] Brian Cullinan: *forgot
+[05/12/2009 02:45:39 AM] Micheal Brooks: its all good
+[05/12/2009 02:45:45 AM] Micheal Brooks: water under the bridge
+[05/12/2009 02:45:49 AM] Brian Cullinan: ya
+[05/12/2009 02:46:07 AM] Micheal Brooks: my roomates shoot up,  and i have no desire to fuck with it
+[05/12/2009 02:46:12 AM] Micheal Brooks: i'm so happy to leave this place
+[05/12/2009 02:47:13 AM] Brian Cullinan: they do heroine?
+[05/12/2009 02:47:21 AM] Micheal Brooks: yeah
+[05/12/2009 02:48:00 AM] Brian Cullinan: wow shit
+[05/12/2009 02:48:04 AM] Micheal Brooks: i liked trying new things,  but some things you must never do
+[05/12/2009 02:48:08 AM] Micheal Brooks: and herion is one of them
+[05/12/2009 02:48:14 AM] Brian Cullinan: i mean the john travolta case was like the only condition i would ever do it
+[05/12/2009 02:48:20 AM] Micheal Brooks: lol
+[05/12/2009 02:48:43 AM] Micheal Brooks: "So i was doing smack with John Travolta..."
+[05/12/2009 02:48:50 AM] Brian Cullinan: i know right!
+[05/12/2009 02:48:53 AM] Micheal Brooks: lol
+[05/12/2009 02:48:54 AM] Brian Cullinan: best fucking story ever
+[05/12/2009 02:48:58 AM] Micheal Brooks: hah, yeah
+[05/12/2009 02:49:55 AM] Micheal Brooks: its better than saying "So i was doing coke in the dirtyist bathroom in all of nogales"
+[05/12/2009 02:50:21 AM] Brian Cullinan: yeah true
+[05/12/2009 02:51:00 AM] Micheal Brooks: the first time i did E i confessed my undying love to a complete stranger 
+[05/12/2009 02:51:10 AM] Micheal Brooks: have you seen venture brothers?
+[05/12/2009 02:51:16 AM] Brian Cullinan: of course
+[05/12/2009 02:51:25 AM] Micheal Brooks: season 2 episode 1 is so golden
+[05/12/2009 02:51:32 AM] Micheal Brooks: esp the opening sceane 
+[05/12/2009 02:51:36 AM] Micheal Brooks: i fucking love that show
+[05/12/2009 02:52:00 AM] Brian Cullinan: lol it would be good high
+[05/12/2009 02:54:56 AM] Micheal Brooks: we should roll at a rave sometime
+[05/12/2009 02:55:04 AM] Micheal Brooks: they have a lot of them in phoenix 
+[05/12/2009 02:55:34 AM] Brian Cullinan: yeah sure i'd go to a rave
+[05/12/2009 02:56:04 AM] Micheal Brooks: sometime over the summer when you are in town,  i'll find one
+[05/12/2009 02:56:41 AM] Brian Cullinan: sounds good
+[05/12/2009 02:58:05 AM] Brian Cullinan: and you will make sure i try E right?
+[05/12/2009 02:58:14 AM] Brian Cullinan: and don't confess my love to anyone but crystal
+[05/12/2009 02:58:15 AM] Brian Cullinan: ?
+[05/12/2009 02:58:26 AM] Micheal Brooks: haha
+[05/12/2009 02:58:35 AM] Micheal Brooks: yeah,  there will be E there for sure
+[05/12/2009 02:58:40 AM] Micheal Brooks: you should bring crystal 
+[05/12/2009 02:58:50 AM] Brian Cullinan: ok
+[05/12/2009 02:59:25 AM] Micheal Brooks: damn crystal method is playing on the 23rd
+[05/12/2009 02:59:37 AM] Micheal Brooks: thats going to be hot
+[05/12/2009 02:59:47 AM] Micheal Brooks: i can't make it that weekend
+[05/12/2009 03:00:12 AM] Micheal Brooks: oah mother fucking infected mushroom june 6th
+[05/12/2009 03:00:30 AM] Micheal Brooks: but i'm going to see them at the end of june in LA
+[05/12/2009 03:00:40 AM] Micheal Brooks: some great talent rolls though phoenix 
+[05/12/2009 03:01:09 AM] Brian Cullinan: hmmm, i have to make some money this summer
+[05/12/2009 03:02:03 AM] Micheal Brooks: yeah,  but raves arn't that expencive,  $20  to get in the door $20 for a party favor 
+[05/12/2009 03:02:23 AM] Brian Cullinan: hmm i guess so
+[05/12/2009 03:02:24 AM] Micheal Brooks: i guess it can get pricey  
+[05/12/2009 03:03:56 AM] Brian Cullinan: how much if i want to see party favors?
+[05/12/2009 03:04:00 AM] Brian Cullinan: *sell
+[05/12/2009 03:04:34 AM] Micheal Brooks: haha,  idk man
+[05/12/2009 03:04:39 AM] Micheal Brooks: you'd have to go there and ask
+[05/12/2009 03:04:45 AM] Micheal Brooks: its a fucking open drug market
+[05/12/2009 03:04:50 AM] Micheal Brooks: depends on the rave
+[05/12/2009 03:05:03 AM] Micheal Brooks: infected mushroom is going to have security and it will be more low key
+[05/12/2009 03:05:15 AM] Micheal Brooks: but fucking a dester party with Flock is going to be the walmart of drugs
+[05/12/2009 03:05:20 AM] Micheal Brooks: you can get what ever you want
+[05/12/2009 03:05:33 AM] Micheal Brooks: people yelling "yo i got pills"
+[05/12/2009 03:05:51 AM] Micheal Brooks: its unreal 
+[05/12/2009 03:06:02 AM] Micheal Brooks: its a very different world 
+[05/12/2009 03:06:33 AM] Brian Cullinan: wow
+[05/12/2009 03:06:34 AM] Micheal Brooks: lol i remember i was rolling balls at a dester party and i'm like "Who the fuck brought the horse?"
+[05/12/2009 03:06:39 AM] Micheal Brooks: there was a dude on a horse 
+[05/12/2009 03:06:44 AM] Micheal Brooks: it was a total wtf moment
+[05/12/2009 03:06:52 AM] Brian Cullinan: wow
+[05/12/2009 03:07:11 AM] Brian Cullinan: anyways, i'm going to go crash
+[05/12/2009 03:07:15 AM] Micheal Brooks: peace
+[05/12/2009 03:07:45 AM] Brian Cullinan: good talk
+[05/12/2009 03:07:46 AM] Brian Cullinan: ttyl
+[05/12/2009 03:08:09 AM] Brian Cullinan: i'll tell you when i get some software working on the drive and you can help me come up with something more creative
+[05/12/2009 03:08:16 AM] Micheal Brooks: cool
+[05/12/2009 03:08:22 AM] Micheal Brooks: and i have 3 days to move!
+[05/12/2009 03:08:28 AM] Micheal Brooks: ttyl
+[05/12/2009 03:08:44 AM] Brian Cullinan: right talked to dave
+[05/12/2009 03:08:55 AM] Brian Cullinan: we should start moving your stuff in to the free space
+[05/12/2009 03:09:12 AM] Brian Cullinan: as much as possible aside for maybe a computer
+[05/12/2009 03:09:47 AM] Micheal Brooks: sounds good
+[05/12/2009 04:44:51 AM] *** "Micheal Brooks" signed off at Tue May 12 04:44:51 2009.
+[05/12/2009 06:56:56 AM] *** "Micheal Brooks" signed on at Tue May 12 06:56:56 2009.
+Session Close (Micheal Brooks): Tue May 12 14:22:07 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Tue May 12 15:37:29 2009
+[05/12/2009 03:37:38 PM] Brian Cullinan: want to put together some boxes of stuff to move over?
+[05/12/2009 03:37:38 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[05/12/2009 03:43:00 PM] Brian Cullinan: and we can use my car to store it for a day or move it to my place
+[05/12/2009 04:18:53 PM] Micheal Brooks: yo
+[05/12/2009 04:39:32 PM] Micheal Brooks: i got the load whenever you got the wheals 
+[05/12/2009 05:03:52 PM] *** "Micheal Brooks" signed off at Tue May 12 17:03:52 2009.
+[05/12/2009 05:08:44 PM] Brian Cullinan: coming to joes party?
+[05/12/2009 05:08:44 PM] *** Error while sending IM: This user is currently not logged on
+Session Close (Micheal Brooks): Tue May 12 17:08:46 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Tue May 12 19:04:52 2009
+[05/12/2009 07:04:57 PM] Brian Cullinan: party
+[05/12/2009 07:04:57 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[05/12/2009 07:05:01 PM] Micheal Brooks: joe's
+[05/12/2009 07:05:03 PM] Micheal Brooks: right?
+[05/12/2009 07:05:26 PM] Brian Cullinan: ya
+[05/12/2009 07:05:48 PM] Brian Cullinan: when are you coming?
+[05/12/2009 07:05:51 PM] Brian Cullinan: *going?
+[05/12/2009 07:06:28 PM] Micheal Brooks: not sure,  i talked to xiang mau and she said she could get me a ride.  idk
+[05/12/2009 07:06:57 PM] Brian Cullinan: i can pick you up
+[05/12/2009 07:07:09 PM] Brian Cullinan: and we can put some stuff in my trunk for me to move inside
+[05/12/2009 07:07:13 PM] Brian Cullinan: my place
+[05/12/2009 07:07:34 PM] Micheal Brooks: thats a good idea
+[05/12/2009 07:07:58 PM] Brian Cullinan: why don't i pick you up now and we can run back to my place and move some stuff, and i can pick up some things i forgot
+[05/12/2009 07:08:19 PM] Brian Cullinan: i am on campus, half way to your place already
+[05/12/2009 07:08:31 PM] Micheal Brooks: sweet
+[05/12/2009 07:08:33 PM] Micheal Brooks: lets do taht
+[05/12/2009 07:09:24 PM] Brian Cullinan: ok, on my way
+Session Close (Micheal Brooks): Tue May 12 19:39:26 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Thu May 14 09:54:19 2009
+[05/14/2009 09:54:20 AM] Micheal Brooks: how goes
+[05/14/2009 10:22:16 AM] Micheal Brooks: hey man,  i got a car i just need to drop off a load if you are there...
+[05/14/2009 03:26:59 PM] Brian Cullinan: i am awake now
+[05/14/2009 03:35:55 PM] Micheal Brooks: hey
+Session Close (Micheal Brooks): Thu May 14 16:06:02 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Thu May 14 17:05:49 2009
+[05/14/2009 05:05:49 PM] Micheal Brooks: yo
+[05/14/2009 05:05:57 PM] Brian Cullinan: hey
+[05/14/2009 05:06:09 PM] Micheal Brooks: are you free to pick up a load?
+[05/14/2009 05:06:44 PM] Brian Cullinan: ya kinda
+[05/14/2009 05:06:51 PM] Brian Cullinan: i still have to shower and stuff
+[05/14/2009 05:07:12 PM] Brian Cullinan: i have been sleeping and sitting around all day
+[05/14/2009 05:07:18 PM] Micheal Brooks: heh
+[05/14/2009 05:08:00 PM] Micheal Brooks: my firend with the car isn't home right now
+[05/14/2009 05:08:08 PM] Brian Cullinan: oh
+[05/14/2009 05:08:17 PM] Brian Cullinan: well i can come over in say 30 minutes?
+[05/14/2009 05:10:31 PM] Micheal Brooks: sweet
+[05/14/2009 05:10:34 PM] Micheal Brooks: i'll be ready
+Session Close (Micheal Brooks): Thu May 14 17:40:36 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri May 15 14:33:25 2009
+[05/15/2009 02:33:25 PM] Micheal Brooks: how goes it
+[05/15/2009 02:38:38 PM] *** "Micheal Brooks" signed off at Fri May 15 14:38:38 2009.
+[05/15/2009 02:42:52 PM] *** "Micheal Brooks" signed on at Fri May 15 14:42:52 2009.
+[05/15/2009 03:09:50 PM] *** "Micheal Brooks" signed off at Fri May 15 15:09:50 2009.
+[05/15/2009 04:27:15 PM] *** "Micheal Brooks" signed on at Fri May 15 16:27:15 2009.
+[05/15/2009 04:30:55 PM] Brian Cullinan: dude
+[05/15/2009 04:31:02 PM] Brian Cullinan: you ready for this
+[05/15/2009 04:31:03 PM] Brian Cullinan: ?
+[05/15/2009 04:35:53 PM] Brian Cullinan: send me a txt or call me when you are ready for some more moving
+[05/15/2009 04:35:53 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[05/15/2009 04:43:48 PM] Micheal Brooks: yo yo
+[05/15/2009 04:43:55 PM] Micheal Brooks: can i drop off a load?
+[05/15/2009 04:44:35 PM] Brian Cullinan: yeah, i am eating a samich and then i'll come over to pick you up
+[05/15/2009 04:44:43 PM] Micheal Brooks: my friend has a pickup truck
+[05/15/2009 04:44:44 PM] Brian Cullinan: unless you have another ride anytime is fine
+[05/15/2009 04:44:47 PM] Micheal Brooks: i'm gunna drop off what i can
+[05/15/2009 04:44:48 PM] Brian Cullinan: yeah sure then
+[05/15/2009 04:44:55 PM] Micheal Brooks: i don't think i'll be able to get all of it in this load
+[05/15/2009 04:45:00 PM] Micheal Brooks: is dave around?
+[05/15/2009 04:45:05 PM] Micheal Brooks: i might need to use his truck..
+[05/15/2009 04:45:24 PM] Micheal Brooks: also whats your number real quick?
+[05/15/2009 04:45:30 PM] Brian Cullinan: i thought your friend had a pickup? two trips maybe/
+[05/15/2009 04:45:37 PM] Brian Cullinan: 614-425-6054
+[05/15/2009 04:45:50 PM] Micheal Brooks: yeah i am taking my firends truck,  but i can only take one load  he has to be at work soon
+[05/15/2009 04:46:13 PM] Brian Cullinan: oh, yeah save is at work now but maybe later
+[05/15/2009 04:46:19 PM] Brian Cullinan: he might let me borrow his truck
+[05/15/2009 04:46:33 PM] Micheal Brooks: that would be so boss
+[05/15/2009 04:46:43 PM] Brian Cullinan: lol
+[05/15/2009 04:46:54 PM] Brian Cullinan: k so you will get a ride over here first?
+[05/15/2009 04:51:59 PM] Brian Cullinan: or should i come over?
+Session Close (Micheal Brooks): Fri May 15 17:22:32 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri May 15 17:57:30 2009
+[05/15/2009 05:57:30 PM] Micheal Brooks: hey man, it would be cool to make another run in your car.  I guess i'll have to leave the bed for last
+[05/15/2009 07:24:17 PM] Brian Cullinan: yeah want to do it now?
+[05/15/2009 07:24:21 PM] Micheal Brooks: sure
+[05/15/2009 07:24:54 PM] Brian Cullinan: sounds good, i'll head over now
+[05/15/2009 07:25:14 PM] Micheal Brooks: sweet, thanks
+[05/15/2009 07:45:04 PM] *** "Micheal Brooks" signed off at Fri May 15 19:45:04 2009.
+[05/15/2009 08:07:53 PM] *** "Micheal Brooks" signed on at Fri May 15 20:07:53 2009.
+Session Close (Micheal Brooks): Fri May 15 20:37:55 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sun May 17 18:15:26 2009
+[05/17/2009 06:15:32 PM] Brian Cullinan: hey, do you like tuna?
+Session Close (Micheal Brooks): Sun May 17 18:47:35 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sun May 17 21:41:10 2009
+[05/17/2009 09:41:42 PM] Brian Cullinan: so with my last roommate there was kind of a signal of when we are approachable and when no to bother
+[05/17/2009 09:42:26 PM] Brian Cullinan: the door was the main signal, closed door means busy, cracked door means knock or can interrupt, and open door means come on in
+[05/17/2009 09:42:43 PM] Brian Cullinan: should we adapt that method?
+[05/17/2009 10:16:58 PM] Micheal Brooks: sure why not
+[05/17/2009 10:18:25 PM] Brian Cullinan: k
+[05/17/2009 10:19:16 PM] Brian Cullinan: just cuz i don't know you that well, not sure when i should knock, like the samich thing earlier, i was worried about waking you
+[05/17/2009 10:19:50 PM] Micheal Brooks: oah yeah i'm so sick,  keep taking naps
+[05/17/2009 10:20:13 PM] Brian Cullinan: man that sucks, i wonder who you got it from
+[05/17/2009 10:20:42 PM] Brian Cullinan: dude, you know john bellucci chugged an actual bottle of whiskey?
+[05/17/2009 10:20:51 PM] Brian Cullinan: and entire bottle of jack
+[05/17/2009 10:21:01 PM] Micheal Brooks: haha,  yuck 
+[05/17/2009 10:21:01 PM] Brian Cullinan: fucking hard core, in like a minute
+[05/17/2009 10:21:04 PM] Micheal Brooks: did he puke?
+[05/17/2009 10:21:06 PM] Brian Cullinan: an entire bottle
+[05/17/2009 10:21:18 PM] Brian Cullinan: i don't know, but they filmed it, and its legendary
+[05/17/2009 10:21:23 PM] Micheal Brooks: bellucci,  the guy that died from a herion OD right?
+[05/17/2009 10:21:30 PM] Brian Cullinan: ya thats him
+[05/17/2009 10:21:31 PM] Brian Cullinan: lol
+[05/17/2009 10:21:47 PM] Brian Cullinan: good man
+[05/17/2009 10:21:58 PM] Micheal Brooks: hah,  yeah
+[05/17/2009 10:30:25 PM] Micheal Brooks: Hey are you on the waffle right now?
+[05/17/2009 10:30:45 PM] Brian Cullinan: nope
+[05/17/2009 10:30:52 PM] Brian Cullinan: whats up?
+[05/17/2009 10:30:54 PM] Micheal Brooks: ok,  and you aren't seeding ether?
+[05/17/2009 10:31:00 PM] Micheal Brooks: i just wanted to go on and grab some albums
+[05/17/2009 10:31:14 PM] Brian Cullinan: nope not seeding
+[05/17/2009 10:31:16 PM] Micheal Brooks: sweet
+[05/17/2009 10:31:36 PM] Brian Cullinan: wait, so do you get in trouble for same IP different accounts?
+[05/17/2009 10:31:42 PM] Micheal Brooks: yep
+[05/17/2009 10:31:48 PM] Micheal Brooks: both will be banned
+[05/17/2009 10:31:50 PM] Micheal Brooks: no joke
+[05/17/2009 10:32:39 PM] Brian Cullinan: shitty
+[05/17/2009 10:32:44 PM] Brian Cullinan: yeah it's all you
+[05/17/2009 10:32:50 PM] Brian Cullinan: maybe we can alternate
+[05/17/2009 10:32:58 PM] Brian Cullinan: every two weeks or something
+[05/17/2009 10:33:23 PM] Micheal Brooks: sure, but  i have like 10 more gb free we could use mine. 
+[05/17/2009 10:33:25 PM] Brian Cullinan: plenty of time to build credit, no worries
+[05/17/2009 10:33:38 PM] Micheal Brooks: yeah,  you do need to build credit with them
+[05/17/2009 10:34:18 PM] Brian Cullinan: ya....
+[05/17/2009 10:39:43 PM] Brian Cullinan: do you like harry potter?
+[05/17/2009 10:40:28 PM] Micheal Brooks: i read the first 3 or 4 books,  i liked them
+[05/17/2009 10:41:13 PM] Brian Cullinan: do you know what the other ones are called, i can't find an f-ing list on wikipedia
+[05/17/2009 10:41:33 PM] Micheal Brooks: no,  not off the top of my head
+[05/17/2009 10:45:28 PM] Brian Cullinan: nvm, Half Blood Prince is 6
+[05/17/2009 10:45:32 PM] Brian Cullinan: coming out this summer
+[05/17/2009 10:45:40 PM] Brian Cullinan: Deathly Hallows is 7
+[05/17/2009 10:46:30 PM] Brian Cullinan: i forgot, mom read 4 books to us, Order of the Phoenix is the first one i didn't read
+[05/17/2009 10:46:50 PM] Brian Cullinan: watching the movie is so much easier
+[05/17/2009 10:47:13 PM] Brian Cullinan: tried to read lord of the rings for an english project....so boring
+[05/17/2009 10:51:01 PM] Brian Cullinan: do you like the movies?
+[05/17/2009 11:06:26 PM] Micheal Brooks: i do like the movies,  i haven't seen many of the harry potter movies
+[05/17/2009 11:06:34 PM] Micheal Brooks: but the lord of the rings was so awesome
+Session Close (Micheal Brooks): Sun May 17 23:44:57 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon May 18 12:19:14 2009
+[05/18/2009 12:19:25 PM] Brian Cullinan: can i get my white pillow back?
+Session Close (Micheal Brooks): Mon May 18 12:27:55 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon May 18 13:39:03 2009
+[05/18/2009 01:39:03 PM] Micheal Brooks: yeah no problem
+Session Close (Micheal Brooks): Mon May 18 16:09:38 2009
+
+
+Session Start (bjcullinan:FireAlwaysWorks): Mon May 18 21:10:11 2009
+Session Close (Micheal Brooks): Mon May 18 21:11:30 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Tue May 19 22:00:07 2009
+[05/19/2009 10:00:15 PM] Brian Cullinan: do you have any solder?
+Session Close (Micheal Brooks): Tue May 19 22:30:17 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Tue May 19 22:55:59 2009
+[05/19/2009 10:55:59 PM] Micheal Brooks: no sorry,  i am not very good at it
+[05/19/2009 10:56:01 PM] Micheal Brooks: and i don't have the eq
+[05/19/2009 10:56:24 PM] Brian Cullinan: do you know anything about camera optics?
+[05/19/2009 11:03:24 PM] Micheal Brooks: not reallyt
+[05/19/2009 11:37:11 PM] Micheal Brooks: do you have valkarie?
+[05/19/2009 11:37:17 PM] Micheal Brooks: you should get it on blueray if you don't
+Session Close (Micheal Brooks): Wed May 20 06:15:50 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Wed May 20 12:35:47 2009
+[05/20/2009 12:35:51 PM] Brian Cullinan: dude get the fuck up!
+[05/20/2009 12:35:51 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+Session Close (Micheal Brooks): Wed May 20 12:38:14 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Wed May 20 13:31:35 2009
+[05/20/2009 01:31:35 PM] Micheal Brooks: yo
+[05/20/2009 01:31:38 PM] Micheal Brooks: its raining
+[05/20/2009 02:39:10 PM] Brian Cullinan: i had the master key over lunch
+[05/20/2009 02:39:11 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[05/20/2009 02:39:18 PM] Brian Cullinan: yeah close your window if it is open
+[05/20/2009 02:39:20 PM] Micheal Brooks: cool
+[05/20/2009 02:39:27 PM] Brian Cullinan: i got an imprint
+[05/20/2009 02:39:36 PM] Brian Cullinan: i thought about going to get a copy
+[05/20/2009 02:40:08 PM] Brian Cullinan: but i didn't really know where
+[05/20/2009 02:40:33 PM] Brian Cullinan: and i thought of an even better way to make imprints of them!
+[05/20/2009 02:40:43 PM] Brian Cullinan: those cigarette flip cases
+[05/20/2009 02:40:51 PM] Brian Cullinan: put 2 piece of clay in there
+[05/20/2009 02:40:52 PM] Micheal Brooks: i'm not sure who has the 7 bin best keys,  i have a walmart in my room,  we can compare it
+[05/20/2009 02:41:20 PM] Micheal Brooks: cool,  thats a good idea
+[05/20/2009 02:41:37 PM] Brian Cullinan: yeah, this method is way more reliable then lock picking
+[05/20/2009 02:42:10 PM] Brian Cullinan: well g2g finish inventory
+Session Close (Micheal Brooks): Wed May 20 14:42:23 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Wed May 20 14:42:40 2009
+[05/20/2009 02:42:40 PM] Micheal Brooks: peace
+[05/20/2009 02:43:02 PM] Micheal Brooks: idk man, i can't pick any pin tumbler in under a minute 
+[05/20/2009 04:10:19 PM] Brian Cullinan: yeah but once the key is made it takes me a second to unlock it, especially handy to have a master
+Session Close (Micheal Brooks): Wed May 20 16:56:54 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Wed May 20 17:38:47 2009
+[05/20/2009 05:38:52 PM] Brian Cullinan: i am not seeing that album
+[05/20/2009 05:40:01 PM] Micheal Brooks: i see it:
+ smb://Guest@192.168.1.102/music/Unsorted/Christopher%20Lawrence%20-%20Subculture%2001
+[05/20/2009 05:40:18 PM] Micheal Brooks: also the leopard VM is 19gb in size...
+[05/20/2009 05:40:34 PM] Brian Cullinan: yeah that will fit
+[05/20/2009 05:40:39 PM] Micheal Brooks: cool
+Session Close (Micheal Brooks): Wed May 20 18:11:01 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Thu May 21 04:23:07 2009
+[05/21/2009 04:23:13 AM] Brian Cullinan: are you still up?
+[05/21/2009 04:23:14 AM] *** Auto-response from Micheal Brooks: I'm not here right now
+Session Close (Micheal Brooks): Thu May 21 04:53:16 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Thu May 21 05:35:54 2009
+[05/21/2009 05:36:01 AM] Brian Cullinan: hey tell me when you can go to the store
+[05/21/2009 05:36:02 AM] *** Auto-response from Micheal Brooks: I'm not here right now
+[05/21/2009 05:36:43 AM] Brian Cullinan: i need to be done by 2ish so probably around 1?
+Session Close (Micheal Brooks): Thu May 21 05:38:42 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Thu May 21 15:25:18 2009
+[05/21/2009 03:25:18 PM] Micheal Brooks: We got the new washer/dryer 
+[05/21/2009 03:25:24 PM] Micheal Brooks: also whats teresa's phone number?
+[05/21/2009 05:44:14 PM] Brian Cullinan: still need that number?
+[05/21/2009 05:44:15 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[05/21/2009 05:46:44 PM] Brian Cullinan: 480-688-0930
+[05/21/2009 05:47:15 PM] Brian Cullinan: does the new machine look nice?
+Session Close (Micheal Brooks): Thu May 21 18:17:37 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Thu May 21 18:22:31 2009
+[05/21/2009 06:22:31 PM] Micheal Brooks: yeah it does
+[05/22/2009 06:43:07 AM] *** "Micheal Brooks" signed off at Fri May 22 06:43:07 2009.
+[05/22/2009 06:47:41 AM] *** "Micheal Brooks" signed on at Fri May 22 06:47:41 2009.
+[05/22/2009 08:19:57 AM] *** "Micheal Brooks" signed off at Fri May 22 08:19:57 2009.
+[05/22/2009 08:33:20 AM] *** "Micheal Brooks" signed on at Fri May 22 08:33:20 2009.
+Session Close (Micheal Brooks): Fri May 22 10:51:43 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri May 22 17:41:30 2009
+[05/22/2009 05:41:37 PM] Brian Cullinan: what is your skype number?
+[05/22/2009 05:41:37 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+Session Close (Micheal Brooks): Fri May 22 18:15:23 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri May 22 18:45:21 2009
+[05/22/2009 06:45:21 PM] Micheal Brooks: (623) 242-2282 
+[05/22/2009 06:48:01 PM] Micheal Brooks: email is best,  (Link: mailto:firealwaysworks@gmail.com)firealwaysworks@gmail.com
+[05/22/2009 06:48:07 PM] Micheal Brooks: i check it  a few times every dayu
+[05/22/2009 07:32:47 PM] Brian Cullinan: ok
+Session Close (Micheal Brooks): Fri May 22 19:41:01 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Jun 01 16:05:09 2009
+[06/01/2009 04:05:09 PM] Micheal Brooks: hey
+[06/01/2009 09:47:27 PM] *** You have been disconnected. Mon Jun 01 21:47:27 2009.
+[06/01/2009 09:49:15 PM] *** "Micheal Brooks" signed on at Mon Jun 01 21:49:15 2009.
+[06/01/2009 10:07:43 PM] *** You have been disconnected. Mon Jun 01 22:07:43 2009.
+[06/02/2009 01:56:15 PM] *** "Micheal Brooks" signed on at Tue Jun 02 13:56:15 2009.
+[06/02/2009 01:56:28 PM] Micheal Brooks: i'm speaking at blackhat
+[06/03/2009 01:33:23 AM] *** "Micheal Brooks" signed off at Wed Jun 03 01:33:23 2009.
+[06/03/2009 01:33:30 AM] *** "Micheal Brooks" signed on at Wed Jun 03 01:33:30 2009.
+[06/03/2009 04:10:40 PM] Brian Cullinan: free tickets?
+[06/03/2009 04:10:52 PM] Micheal Brooks: ?
+[06/03/2009 04:11:35 PM] Brian Cullinan: for speaking at blackhat?
+[06/03/2009 04:11:41 PM] Micheal Brooks: oah no,  i don't
+[06/03/2009 04:11:42 PM] Brian Cullinan: don't forget rent is due
+[06/03/2009 04:11:44 PM] Micheal Brooks: its shitty
+[06/03/2009 04:11:48 PM] Brian Cullinan: yeah
+[06/03/2009 04:11:54 PM] Brian Cullinan: how about free defcon tcikets?
+[06/03/2009 04:12:16 PM] Micheal Brooks: i do get 3 tickets for defcon, but some of them are spoken for
+[06/03/2009 04:12:58 PM] Micheal Brooks: yeah,  i know.  I am in a shitty situation,  I did work for a company and they are sending me a check in the mail from malaysia it will take up to 12 days and it was sent last friday.
+[06/03/2009 04:13:04 PM] Brian Cullinan: oh
+[06/03/2009 04:13:20 PM] Micheal Brooks: its shitty,  but if i could pay you in a few days that would be very helpful
+[06/03/2009 04:13:30 PM] Brian Cullinan: ok, well just as soon as you can is fine
+[06/03/2009 04:13:37 PM] Micheal Brooks: thank you so much!
+[06/03/2009 04:13:45 PM] Brian Cullinan: preferrably before the 12th i think is what the contracts will say
+[06/03/2009 04:14:08 PM] Brian Cullinan: but my parents are understanding that we are just college kids
+[06/03/2009 04:14:12 PM] Micheal Brooks: that shouldn't be a problem
+[06/03/2009 04:14:14 PM] Micheal Brooks: when will you be in town?
+[06/03/2009 04:14:38 PM] Micheal Brooks: sweet
+[06/03/2009 04:14:46 PM] Brian Cullinan: also we need to find an elance job because i just got a 200 dollar ticket today driving back from texas
+[06/03/2009 04:15:01 PM] Brian Cullinan: possibly be back tonight, keifers bachelor party
+[06/03/2009 04:15:06 PM] Micheal Brooks: cool
+[06/03/2009 04:15:32 PM] Micheal Brooks: thats shitty,  yeah when you get back I'll try and get you a contract
+[06/03/2009 04:15:44 PM] Brian Cullinan: i am using my phone for internet in the middle of buttfuck no-where new mexico
+[06/03/2009 04:16:09 PM] Micheal Brooks: oah damn
+[06/03/2009 04:17:35 PM] Brian Cullinan: well i am on remote desktop could go out any second, ttyl man look forward to hanging out this summer
+[06/03/2009 04:17:47 PM] Micheal Brooks: totally
+[06/03/2009 04:17:55 PM] Micheal Brooks: if you want to go to a blackhat talk i'll let you borrow my pass
+[06/03/2009 04:18:00 PM] Micheal Brooks: peace
+[06/03/2009 04:41:15 PM] Brian Cullinan: sounds good, new mexico kinda sux
+[06/03/2009 04:41:26 PM] Brian Cullinan: crystal says hhi
+[06/03/2009 04:41:29 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+Session Close (Micheal Brooks): Wed Jun 03 16:41:46 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Jun 08 12:48:21 2009
+[06/08/2009 12:48:33 PM] Brian Cullinan: i just spend the last 45 minutes on the phone with india
+[06/08/2009 12:48:43 PM] Brian Cullinan: i fucking hate outsourced tech support!
+[06/08/2009 12:48:47 PM] Brian Cullinan: they are so stupid!
+[06/08/2009 12:48:52 PM] Micheal Brooks: haha
+[06/08/2009 12:49:16 PM] Micheal Brooks: the worst is out sourced people that try to talk you out of canceling service 
+[06/08/2009 12:49:23 PM] Micheal Brooks: they are fucking greedy and stupid 
+[06/08/2009 12:51:12 PM] Brian Cullinan: yeah
+Session Close (Micheal Brooks): Mon Jun 08 13:11:31 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Jun 08 15:30:32 2009
+[06/08/2009 03:30:37 PM] Brian Cullinan: hey are you up?
+[06/08/2009 03:30:38 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[06/08/2009 03:35:58 PM] Micheal Brooks: yo
+[06/08/2009 03:36:01 PM] Micheal Brooks: whats goin' down?
+Session Close (Micheal Brooks): Mon Jun 08 16:08:19 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Jun 08 20:39:25 2009
+[06/08/2009 08:39:28 PM] Brian Cullinan: have you eaten?
+[06/08/2009 08:39:28 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[06/08/2009 08:39:53 PM] Micheal Brooks: thai leftovers why?
+[06/08/2009 08:40:00 PM] Brian Cullinan: oh right
+[06/08/2009 08:40:05 PM] Brian Cullinan: want pizza?
+[06/08/2009 08:40:13 PM] Micheal Brooks: i'm not hungry thanks
+[06/08/2009 08:40:27 PM] Brian Cullinan: i'm too lazy to prepare something right now
+[06/08/2009 08:54:21 PM] Brian Cullinan: do you have a computer with mac address 001F3BC9F121?
+[06/08/2009 09:03:35 PM] Micheal Brooks: wireless?
+[06/08/2009 09:04:24 PM] Brian Cullinan: yes
+[06/08/2009 09:05:50 PM] Micheal Brooks: i don't think so,  but i let my cuzon's boy friend on yesterday
+Session Close (Micheal Brooks): Mon Jun 08 21:26:49 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Tue Jun 09 18:17:44 2009
+[06/09/2009 06:17:44 PM] Micheal Brooks: what time did you want to head out?
+Session Close (Micheal Brooks): Tue Jun 09 19:23:00 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Wed Jun 10 16:42:13 2009
+[06/10/2009 04:42:14 PM] Brian Cullinan: (Link: http://stackoverflow.com/questions/184618/what-is-the-best-comment-in-source-code-you-have-ever-encountered)http://stackoverflow.com/questions/184618/what-is-the-best-comment-in-source-code-(Link: http://stackoverflow.com/questions/184618/what-is-the-best-comment-in-source-code-you-have-ever-encountered)you-have-ever-encountered
+[06/10/2009 04:42:25 PM] Micheal Brooks: stack overflow is awesome
+[06/10/2009 04:42:48 PM] Micheal Brooks: lol,  that is a great comment
+[06/10/2009 04:42:52 PM] Brian Cullinan: (Link: http://www.newzbin.com/)http://www.newzbin.com/
+ user: fjoeaz
+ pass: 123456
+[06/10/2009 04:42:56 PM] Micheal Brooks: cool
+[06/10/2009 04:43:01 PM] Micheal Brooks: i can login any time?
+[06/10/2009 04:43:05 PM] Brian Cullinan: yeah
+[06/10/2009 04:43:09 PM] Micheal Brooks: cool
+[06/10/2009 04:43:26 PM] Brian Cullinan: download newzleecher, and i'll set you up with a crack
+[06/10/2009 04:43:52 PM] Brian Cullinan: or actually just past links here (Link: http://sabnzbd.bjcullinan.com/)(Link: http://sabnzbd.bjcullinan.com/)http://sabnzbd.bjcullinan.com/
+[06/10/2009 04:43:59 PM] Micheal Brooks: cool
+[06/10/2009 04:48:56 PM] Brian Cullinan: yeah if you drop it on there it will download to \\192.168.1.102\Downloads
+[06/10/2009 04:49:33 PM] Brian Cullinan: you might need a username and password to log on to the share 
+ user: guest
+ pass: guestpass
+[06/10/2009 04:49:39 PM] Micheal Brooks: cool
+Session Close (Micheal Brooks): Wed Jun 10 17:19:43 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Thu Jun 11 16:47:23 2009
+[06/11/2009 04:47:26 PM] Brian Cullinan: pretty scart
+[06/11/2009 04:47:28 PM] Brian Cullinan: *scary
+Session Close (Micheal Brooks): Thu Jun 11 16:47:29 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Thu Jun 11 16:47:37 2009
+[06/11/2009 04:47:37 PM] Micheal Brooks: yeah,  i want to see it
+Session Close (Micheal Brooks): Thu Jun 11 16:48:14 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Jun 15 18:21:56 2009
+[06/15/2009 06:22:08 PM] Brian Cullinan: want to watch the illusionist?
+Session Close (Micheal Brooks): Mon Jun 15 18:24:29 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Tue Jun 16 16:24:28 2009
+[06/16/2009 04:24:33 PM] Brian Cullinan: alive in there?
+Session Close (Micheal Brooks): Tue Jun 16 16:24:44 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Tue Jun 16 17:32:40 2009
+[06/16/2009 05:32:40 PM] Micheal Brooks: is dave smith coming to the BBQ?
+[06/16/2009 05:32:55 PM] Brian Cullinan: yup
+[06/16/2009 05:33:01 PM] Micheal Brooks: cool
+Session Close (Micheal Brooks): Tue Jun 16 18:06:02 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri Jun 19 01:28:57 2009
+[06/19/2009 01:29:38 AM] Brian Cullinan: would you agree that some girls would really appreciate a guy that was willing to go down of them during their period?
+[06/19/2009 01:29:39 AM] *** Auto-response from Micheal Brooks: I'm not here right now
+[06/19/2009 01:29:49 AM] Micheal Brooks: that is hard core
+[06/19/2009 01:30:00 AM] Micheal Brooks: that is a level of sacrafice that i am not willing to do
+[06/19/2009 01:30:31 AM] Brian Cullinan: i totally wanted to go down on Crystal, and she is on her period, and i totally would, but she fuckin ran away
+[06/19/2009 01:30:51 AM] Micheal Brooks: hardcore
+[06/19/2009 01:31:18 AM] Brian Cullinan: i mean it's not that big of deal, she gets rid of her current tampon, uses a maroon washcloth to wipe off, and puts in a new one, it's perfectly fine
+[06/19/2009 01:31:27 AM] Brian Cullinan: and she doesn't want it
+[06/19/2009 01:31:42 AM] Micheal Brooks: hah,  yea
+[06/19/2009 01:31:43 AM] Micheal Brooks: crazy
+[06/19/2009 01:31:47 AM] Brian Cullinan: you know most girls are more horney on their period because of all the hormones
+[06/19/2009 01:31:59 AM] Micheal Brooks: i've seen it
+[06/19/2009 01:32:08 AM] Brian Cullinan: and she fuckin ran away
+[06/19/2009 01:32:10 AM] Brian Cullinan: it's BS
+[06/19/2009 01:32:23 AM] Micheal Brooks: oah yeah she is in the living room...
+[06/19/2009 01:32:28 AM] Brian Cullinan: and the other day she was begging me to have sex with her
+[06/19/2009 01:32:31 AM] Micheal Brooks: oah well
+[06/19/2009 01:32:35 AM] Brian Cullinan: it's fucking sexual abuse
+[06/19/2009 01:32:39 AM] Micheal Brooks: lol
+[06/19/2009 01:32:53 AM] Micheal Brooks: thats one way of putting it
+[06/19/2009 01:33:20 AM] Brian Cullinan: why do women get sex whenever they want it, but men have to wait until they're "in the mood"
+[06/19/2009 01:33:35 AM] Micheal Brooks: its not fair
+[06/19/2009 01:34:03 AM] Brian Cullinan: it didn't use to be like that.  in old roman times a man fuckin told the bitch when and where and they had to obey or they would get the shit beat out of them
+[06/19/2009 01:34:31 AM] Brian Cullinan: these days it's called domestic violence, but that is fuckin bullshit
+[06/19/2009 01:34:41 AM] Brian Cullinan: it should be called retribution
+[06/19/2009 01:35:09 AM] Micheal Brooks: hah,  not sexism?
+[06/19/2009 01:36:04 AM] Brian Cullinan: no
+[06/19/2009 01:36:17 AM] Brian Cullinan: male dominance is not sexism
+[06/19/2009 01:36:26 AM] Brian Cullinan: we are stronger and stupid
+[06/19/2009 01:36:31 AM] Micheal Brooks: its a fact of life
+[06/19/2009 01:36:33 AM] Micheal Brooks: !
+[06/19/2009 01:36:39 AM] Brian Cullinan: women are sly but weaker in strength
+[06/19/2009 01:38:39 AM] Brian Cullinan: times
+[06/19/2009 01:38:52 AM] Brian Cullinan: going to sleep
+Session Close (Micheal Brooks): Fri Jun 19 01:38:59 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri Jun 19 01:39:10 2009
+[06/19/2009 01:39:10 AM] Micheal Brooks: peace
+Session Close (Micheal Brooks): Fri Jun 19 10:36:42 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Fri Jun 19 14:10:53 2009
+[06/19/2009 02:10:53 PM] Micheal Brooks: yo
+[06/19/2009 02:20:22 PM] Brian Cullinan: hey
+[06/19/2009 02:20:39 PM] Micheal Brooks: hey man are we still down for the ride this afternoon?
+[06/19/2009 02:20:54 PM] Brian Cullinan: yeah possibly, not sure when i will be done here
+Session Close (Micheal Brooks): Fri Jun 19 14:57:33 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sat Jun 20 11:52:50 2009
+[06/20/2009 11:52:54 AM] Brian Cullinan: you up?
+Session Close (Micheal Brooks): Sat Jun 20 12:23:06 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sat Jun 20 16:10:55 2009
+[06/20/2009 04:10:55 PM] Micheal Brooks: yo
+[06/20/2009 04:11:39 PM] Brian Cullinan: hey
+[06/20/2009 04:11:45 PM] Micheal Brooks: howgoes it
+[06/20/2009 04:12:40 PM] Micheal Brooks: i was up so late last night,  but i wrote some awesome code,  i'll have to show it to you when you get home
+[06/20/2009 04:13:51 PM] Micheal Brooks: what is your favorite ide for asp.net?
+Session Close (Micheal Brooks): Sat Jun 20 16:43:53 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sun Jun 21 22:44:46 2009
+[06/21/2009 10:44:53 PM] Brian Cullinan: got the show pulled up
+Session Close (Micheal Brooks): Sun Jun 21 23:14:55 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Jun 22 17:50:45 2009
+[06/22/2009 05:50:46 PM] Brian Cullinan: (Link: http://webtest.cefns.nau.edu/404.phps)http://webtest.cefns.nau.edu/404.phps
+Session Close (Micheal Brooks): Mon Jun 22 17:53:48 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Jun 22 18:01:26 2009
+[06/22/2009 06:01:26 PM] Micheal Brooks: hey
+[06/22/2009 06:15:40 PM] Brian Cullinan: hi
+Session Close (Micheal Brooks): Mon Jun 22 18:46:18 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Jun 22 19:43:47 2009
+[06/22/2009 07:43:52 PM] Brian Cullinan: want to watch the next dune?
+Session Close (Micheal Brooks): Mon Jun 22 19:43:54 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Jun 22 19:44:07 2009
+[06/22/2009 07:44:07 PM] Micheal Brooks: sure,  i'm one hte phone
+[06/22/2009 07:44:08 PM] Micheal Brooks: in a bit
+[06/22/2009 07:44:11 PM] Brian Cullinan: k
+Session Close (Micheal Brooks): Mon Jun 22 20:23:06 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Wed Jun 24 14:55:44 2009
+[06/24/2009 02:55:44 PM] Micheal Brooks: Yo do you have a fax?
+[06/24/2009 02:55:49 PM] Micheal Brooks: i mean a printer...
+Session Close (Micheal Brooks): Wed Jun 24 15:05:45 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Wed Jun 24 16:33:45 2009
+[06/24/2009 04:33:46 PM] Micheal Brooks: here is a link to the pod cast i was dropping at Joe's (Link: http://thejohnbpodcast.blogspot.com/)http://thejohnbpodcast.blogspot.com/ 
+Session Close (Micheal Brooks): Wed Jun 24 16:51:09 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Wed Jun 24 18:32:32 2009
+Session Close (Micheal Brooks): Wed Jun 24 18:32:46 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Thu Jun 25 11:26:08 2009
+[06/25/2009 11:26:17 AM] Brian Cullinan: so is flac not a lossy format?
+[06/25/2009 11:29:21 AM] Micheal Brooks: flac is lossless for sure
+[06/25/2009 11:29:44 AM] Brian Cullinan: but what if the files are the same size?
+[06/25/2009 11:29:52 AM] Micheal Brooks: what do you mean
+[06/25/2009 11:30:06 AM] Brian Cullinan: like when i convert flac to mp3
+[06/25/2009 11:30:06 AM] Micheal Brooks: flac stands for "free lossless audio codec"
+[06/25/2009 11:30:12 AM] Brian Cullinan: and it's about the same size
+[06/25/2009 11:30:19 AM] Brian Cullinan: and same bitrate
+[06/25/2009 11:30:33 AM] Micheal Brooks: maybe someone did a mp3->flac
+[06/25/2009 11:30:51 AM] Brian Cullinan: that would be silly
+[06/25/2009 11:30:55 AM] Micheal Brooks: it happens
+[06/25/2009 11:31:01 AM] Brian Cullinan: so what size is flac supposed to be?
+[06/25/2009 11:31:03 AM] Micheal Brooks: the majority of people who rip are fucking retarded
+[06/25/2009 11:31:13 AM] Micheal Brooks: when you get back i'll show you the differnce between a youtube and a flac
+[06/25/2009 11:31:16 AM] Micheal Brooks: its fucking night and day
+[06/25/2009 11:31:30 AM] Brian Cullinan: i mean mp3s on average an album is like about 100 megs
+[06/25/2009 11:31:30 AM] Micheal Brooks: idk,  falc's are pretty huge
+[06/25/2009 11:32:03 AM] Micheal Brooks: i have a a track that is 6:39 and it 46mb
+[06/25/2009 11:32:12 AM] Micheal Brooks: 6minutes and 39 seconds
+[06/25/2009 11:32:17 AM] Micheal Brooks: totally worth it
+[06/25/2009 11:32:24 AM] Micheal Brooks: atleast for some mcusi
+[06/25/2009 11:32:43 AM] Micheal Brooks: most tracks i don't care enough,  mp3 is great.  but some tracks i gotta have the flac
+[06/25/2009 11:33:33 AM] Brian Cullinan: i guess i could always get flacs for that kind of stuff, but i don't know if i could convert my entire library
+[06/25/2009 11:33:42 AM] Brian Cullinan: are you in your room?
+[06/25/2009 11:33:50 AM] Micheal Brooks: yeah
+Session Close (Micheal Brooks): Thu Jun 25 12:27:44 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sat Jun 27 14:42:06 2009
+[06/27/2009 02:42:17 PM] Brian Cullinan: why did you and megan break up?
+[06/27/2009 02:42:18 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+Session Close (Micheal Brooks): Sat Jun 27 15:12:21 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sat Jun 27 15:39:38 2009
+[06/27/2009 03:39:44 PM] Brian Cullinan: are you there?
+[06/27/2009 03:39:44 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[06/27/2009 03:41:43 PM] Micheal Brooks: yo
+[06/27/2009 03:41:49 PM] Micheal Brooks: where are you?
+[06/27/2009 03:43:20 PM] Brian Cullinan: i left
+[06/27/2009 03:43:34 PM] Brian Cullinan: i couldn't stand it anymore
+[06/27/2009 03:43:42 PM] Brian Cullinan: you didn't answer my question
+[06/27/2009 03:45:38 PM] Micheal Brooks: it was fun, but i'd rather see other people
+[06/27/2009 03:45:53 PM] Brian Cullinan: i always thought you could do better
+[06/27/2009 03:46:06 PM] Brian Cullinan: so what do you do when a relationship stops being fun?
+[06/27/2009 03:46:36 PM] Brian Cullinan: did crystal leave?
+[06/27/2009 03:46:39 PM] Micheal Brooks: i think tjhats a personal question 
+[06/27/2009 03:46:44 PM] Micheal Brooks: idk,  he car is here
+[06/27/2009 03:46:48 PM] Micheal Brooks: her*
+[06/27/2009 03:47:05 PM] Brian Cullinan: but you don't see her?
+[06/27/2009 03:47:23 PM] Micheal Brooks: she might be in the room,  i haven't knocked
+[06/27/2009 03:47:38 PM] Brian Cullinan: ok
+[06/27/2009 03:47:51 PM] Brian Cullinan: she was driving me nuts this morning
+[06/27/2009 03:48:04 PM] Brian Cullinan: i don't think i've ever been so angry
+[06/27/2009 03:48:25 PM] Micheal Brooks: damn,  i'm sorry to hear that
+[06/27/2009 03:48:32 PM] Brian Cullinan: i used to be pretty chill and carefree
+[06/27/2009 03:48:47 PM] Brian Cullinan: all that mattered was school and BSG parties
+[06/27/2009 03:49:02 PM] Brian Cullinan: but since i've started dating her my life has been nothing but stree
+[06/27/2009 03:49:06 PM] Brian Cullinan: *stress
+[06/27/2009 03:49:55 PM] Brian Cullinan: i just wanted to go home and visit my family, and we agreed on it it yesterday, she knew about it all week, and today she is being intolerable, i don't know what to do
+[06/27/2009 03:50:02 PM] Micheal Brooks: i'm sorry to hear that
+[06/27/2009 03:50:37 PM] Micheal Brooks: i don't really want to talk to her right now,  maybe you just need some alone time. 
+[06/27/2009 03:50:56 PM] Brian Cullinan: yeah
+[06/27/2009 03:51:16 PM] Micheal Brooks: i think i'm going to prescott today
+[06/27/2009 03:51:20 PM] Micheal Brooks: and for a few days
+[06/27/2009 03:51:26 PM] Brian Cullinan: yeah what for?
+[06/27/2009 03:51:38 PM] Micheal Brooks: see firends
+[06/27/2009 03:51:48 PM] Brian Cullinan: so you are getting a ride?
+[06/27/2009 03:51:51 PM] Micheal Brooks: yeah
+[06/27/2009 03:52:10 PM] Brian Cullinan: cool, have fun
+[06/27/2009 03:52:16 PM] Micheal Brooks: thanks,  you too
+[06/27/2009 03:52:18 PM] Micheal Brooks: when do you get back?
+[06/27/2009 03:52:46 PM] Brian Cullinan: when i ride my bike home
+[06/27/2009 03:52:58 PM] Micheal Brooks: hah,  oah damn
+[06/27/2009 03:53:03 PM] Micheal Brooks: yeah i noticed your bike was gone
+[06/27/2009 03:53:07 PM] Micheal Brooks: where are you?
+[06/27/2009 03:53:15 PM] Brian Cullinan: yeah i'm at the acm room
+[06/27/2009 03:53:26 PM] Micheal Brooks: word
+[06/27/2009 03:53:34 PM] Brian Cullinan: i probably won't go home this weekend now
+[06/27/2009 03:53:41 PM] Brian Cullinan: she ruined my weekend
+[06/27/2009 03:53:58 PM] Micheal Brooks: shitty
+Session Close (Micheal Brooks): Sat Jun 27 15:58:10 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Wed Jul 01 19:45:24 2009
+[07/01/2009 07:45:24 PM] Micheal Brooks: yo
+[07/01/2009 07:46:24 PM] Brian Cullinan: hey
+[07/01/2009 07:46:48 PM] Micheal Brooks: where are you?
+[07/01/2009 07:46:52 PM] Brian Cullinan: home
+[07/01/2009 07:46:58 PM] Brian Cullinan: where are you?
+[07/01/2009 07:47:25 PM] Micheal Brooks: i'm still in prescott, i think i'm coming back tomarrow
+[07/01/2009 07:47:29 PM] Brian Cullinan: ok
+Session Close (Micheal Brooks): Wed Jul 01 20:17:31 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sun Jul 05 13:42:49 2009
+[07/05/2009 01:42:59 PM] Brian Cullinan: i'm to scared to do it alone
+[07/05/2009 01:42:59 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+Session Close (Micheal Brooks): Sun Jul 05 13:43:04 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Sun Jul 05 13:45:21 2009
+[07/05/2009 01:45:21 PM] Micheal Brooks: do you wane me to hold your hand?
+[07/05/2009 01:45:29 PM] Micheal Brooks: hah,  yeah we can do it
+[07/05/2009 02:23:17 PM] Brian Cullinan: cool, whenever you are ready
+Session Close (Micheal Brooks): Sun Jul 05 14:53:19 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Jul 06 16:14:33 2009
+[07/06/2009 04:14:34 PM] Micheal Brooks: yo
+[07/06/2009 04:14:43 PM] Micheal Brooks: when you get back we should hit the store,  i need to pick up some stuff for the bbq tomarrow
+[07/06/2009 05:35:19 PM] Brian Cullinan: oh, probably won't be home until like 7 o clock
+[07/06/2009 05:35:20 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+Session Close (Micheal Brooks): Mon Jul 06 18:28:18 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Tue Jul 07 12:43:15 2009
+[07/07/2009 12:43:16 PM] Micheal Brooks: vlc 1.0.0 has been released 
+[07/07/2009 12:46:28 PM] Brian Cullinan: holy shit
+[07/07/2009 12:46:32 PM] Brian Cullinan: it finally happened
+[07/07/2009 12:46:39 PM] Micheal Brooks: yeah i didn't belive it
+[07/07/2009 12:47:30 PM] Brian Cullinan: it's a hoax
+[07/07/2009 12:52:47 PM] Micheal Brooks: no way
+[07/07/2009 12:53:02 PM] Brian Cullinan: yeah its installed
+[07/07/2009 12:53:34 PM] Brian Cullinan: looks the same
+Session Close (Micheal Brooks): Tue Jul 07 13:25:12 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Tue Jul 07 18:02:56 2009
+[07/07/2009 06:02:56 PM] Micheal Brooks: yo
+Session Close (Micheal Brooks): Tue Jul 07 20:48:55 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Jul 13 16:26:06 2009
+[07/13/2009 04:26:38 PM] Brian Cullinan: hows the new system coming?  going to be done with my server soon?
+[07/13/2009 04:26:54 PM] Micheal Brooks: acutally i am having troulbe copying over the files
+[07/13/2009 04:26:58 PM] Micheal Brooks: can i borrow one of the 1tb drives?
+[07/13/2009 04:27:31 PM] Micheal Brooks: Also,  i just cleaned up the place for tomorrow,  its looks nice.   Everytime you leave its going to be cleaner.
+[07/13/2009 04:30:43 PM] Brian Cullinan: hahaha yeah
+[07/13/2009 04:30:49 PM] Brian Cullinan: having trouble copying?
+[07/13/2009 04:31:03 PM] Brian Cullinan: ohhhh must be the quota management
+[07/13/2009 04:31:19 PM] Brian Cullinan: there is only 161 GB left, do you need more then that?
+[07/13/2009 04:31:35 PM] Micheal Brooks: or it might gnome's samba bullshit...  it doesn't support resume
+[07/13/2009 04:31:50 PM] Micheal Brooks: well, i saw a 1tb drive on your desk,  i was wondering if i could just format it and copy using sftp+filezilla 
+[07/13/2009 04:31:52 PM] Brian Cullinan: hmmm
+[07/13/2009 04:32:07 PM] Micheal Brooks: it has a aweosme resume feature,  you can replace files of a differnt size or differnt creation date
+[07/13/2009 04:32:34 PM] Brian Cullinan: hmm interesting
+[07/13/2009 04:32:47 PM] Brian Cullinan: so you wouldn't need my computer if you used the 1TB on my desk
+[07/13/2009 04:32:51 PM] Micheal Brooks: yea
+[07/13/2009 04:33:09 PM] Micheal Brooks: you can still get a copy of my warez,  i'll figure somthing out
+[07/13/2009 04:33:28 PM] Brian Cullinan: i can change the quota settings if you need less then 161GB
+[07/13/2009 04:34:34 PM] Micheal Brooks: hmm,  yea i its not good.  it said the transfer was complete but it copied like 1/2 of it after like 2 days of transferring at 1mbyte/s
+[07/13/2009 04:34:39 PM] Micheal Brooks: i think gnome fucked up
+[07/13/2009 04:36:03 PM] Brian Cullinan: hmmm
+[07/13/2009 04:36:05 PM] Brian Cullinan: shitty
+[07/13/2009 04:36:15 PM] Brian Cullinan: i guess the 1TB drive is the only other option then
+[07/13/2009 04:36:29 PM] Micheal Brooks: it would make things easier
+[07/13/2009 04:37:46 PM] Brian Cullinan: oh, my quota manager is set to warning
+[07/13/2009 04:37:50 PM] Brian Cullinan: so that isn't the problem
+[07/13/2009 05:03:26 PM] Brian Cullinan: i can reserve your routers mac address to make it easier to get to in switch mode
+[07/13/2009 05:03:55 PM] Brian Cullinan: did you copy over the OS X VM?
+[07/13/2009 05:03:59 PM] Micheal Brooks: yeah
+[07/13/2009 05:04:04 PM] Micheal Brooks: what is the password for the router?
+[07/13/2009 05:04:10 PM] Micheal Brooks: so i can setup some port fowarding
+[07/13/2009 05:04:35 PM] Brian Cullinan: daddy123
+[07/13/2009 05:04:45 PM] Micheal Brooks: cool
+[07/13/2009 05:05:22 PM] Brian Cullinan: also, i changed the password for guest on my shares, now enter:
+ user: guest
+ pass: guessedpassword
+[07/13/2009 05:05:30 PM] Brian Cullinan: i thought it was a creative play on words
+[07/13/2009 05:05:40 PM] Micheal Brooks: heh,  yeah
+[07/13/2009 05:16:43 PM] Brian Cullinan: i am so happy now i have 2 computers to remote desktop into and mess around on
+[07/13/2009 05:16:45 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[07/13/2009 05:17:36 PM] Brian Cullinan: new netflix movies coming on tuesday
+[07/13/2009 05:46:50 PM] Micheal Brooks: cool
+[07/13/2009 05:47:02 PM] Brian Cullinan: did your mac image have remote desktop enabled?
+[07/13/2009 05:47:18 PM] Brian Cullinan: i guess you could just sign into my VMware console
+[07/13/2009 05:47:47 PM] Micheal Brooks: i don't think so, its pretty default
+[07/13/2009 05:49:07 PM] Brian Cullinan: sure is taking a while to boot up
+[07/13/2009 05:49:37 PM] Brian Cullinan: guess it could be the hardware change
+[07/13/2009 05:50:21 PM] Micheal Brooks: the palm sdk got leaked 
+[07/13/2009 05:50:30 PM] Micheal Brooks: and it has a VM
+[07/13/2009 05:50:39 PM] Micheal Brooks: i booted it up last night,  its pretty cool
+[07/13/2009 05:50:53 PM] Micheal Brooks: you can ssh into it and you get a root shell,  it looks like a linux box
+[07/13/2009 05:52:31 PM] Brian Cullinan: palm pre is linux
+[07/13/2009 05:52:37 PM] Micheal Brooks: i know
+[07/13/2009 05:52:40 PM] Brian Cullinan: want to pass it over here?
+[07/13/2009 05:52:42 PM] Brian Cullinan: (Link: http://192.168.1.104:8222/ui/)http://192.168.1.104:8222/ui/
+[07/13/2009 05:52:50 PM] Micheal Brooks: i posted the download link to my facebook
+[07/13/2009 05:53:09 PM] Brian Cullinan: go there an log in as guest:guessedpassword
+[07/13/2009 05:53:18 PM] Brian Cullinan: and change the password on the root account
+[07/13/2009 05:53:18 PM] Micheal Brooks: along with a sweet firefox plugin
+[07/13/2009 05:53:22 PM] Brian Cullinan: vm is booted up
+[07/13/2009 05:54:14 PM] Brian Cullinan: just make the new password "changeme" and i will go in and change it
+[07/13/2009 05:54:43 PM] Micheal Brooks: ok
+[07/13/2009 05:56:09 PM] Micheal Brooks: its taking a long time
+[07/13/2009 05:56:11 PM] Brian Cullinan: i didn't see your post
+[07/13/2009 05:56:18 PM] Micheal Brooks: its on my wall
+[07/13/2009 05:56:24 PM] Brian Cullinan: long time how?  like to show the machine?
+[07/13/2009 05:56:48 PM] Micheal Brooks: "The server is not responding. Please check that the server is running and accepting connections."
+[07/13/2009 06:00:12 PM] Brian Cullinan: hmmm
+[07/13/2009 06:00:27 PM] Brian Cullinan: oh, try it with IE
+[07/13/2009 06:00:43 PM] Brian Cullinan: nvm
+[07/13/2009 06:00:50 PM] Brian Cullinan: works for in FF too
+[07/13/2009 06:01:01 PM] Brian Cullinan: you're on the same subnet?
+[07/13/2009 06:01:17 PM] Brian Cullinan: or was that after you log in?
+[07/13/2009 06:01:46 PM] Micheal Brooks: that was after i tried logging in
+[07/13/2009 06:02:08 PM] Brian Cullinan: hmm try again?
+[07/13/2009 06:02:11 PM] Brian Cullinan: working fine for me
+[07/13/2009 06:04:03 PM] Micheal Brooks: yeah it worksnow
+[07/13/2009 06:05:00 PM] Brian Cullinan: so you install the FF plugin and then come back to it and then click the black spot to open the machine
+[07/13/2009 06:05:34 PM] Micheal Brooks: huh i just got kicked out
+[07/13/2009 06:05:44 PM] Brian Cullinan: kicked out?
+[07/13/2009 06:05:48 PM] Brian Cullinan: weird
+[07/13/2009 06:06:17 PM] Brian Cullinan: did you get a change to install the plugin?
+[07/13/2009 06:06:27 PM] Micheal Brooks: nope
+[07/13/2009 06:06:30 PM] Brian Cullinan: i closed down everything on my side maybe thats why
+[07/13/2009 06:06:36 PM] Brian Cullinan: because i still had the machine open
+[07/13/2009 06:06:39 PM] Micheal Brooks: hold up i have a wicked migrane,  i can't fucking see
+[07/13/2009 06:06:42 PM] Micheal Brooks: i gotta lay down
+[07/13/2009 06:06:48 PM] Brian Cullinan: ok maybe later
+[07/13/2009 06:48:27 PM] Brian Cullinan: yeah you have to enter the old password
+[07/13/2009 06:48:43 PM] Brian Cullinan: it is open whenever you are ready
+Session Close (Micheal Brooks): Mon Jul 13 19:46:33 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Jul 13 20:10:12 2009
+[07/13/2009 08:10:21 PM] Brian Cullinan: are you downloading or uploading a lot??
+[07/13/2009 08:10:22 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[07/13/2009 08:39:14 PM] Brian Cullinan: damnit, you sleep too much
+[07/13/2009 08:54:31 PM] Brian Cullinan: dude wake up!  i am going out of country tomorrow
+[07/13/2009 08:54:47 PM] Brian Cullinan: i should have had you change the password before you turn off the computer
+[07/13/2009 09:42:45 PM] Brian Cullinan: oh forget it, i just decided to hack it
+Session Close (Micheal Brooks): Mon Jul 13 22:19:21 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Aug 17 13:10:32 2009
+[08/17/2009 01:10:37 PM] Brian Cullinan: Hey
+[08/17/2009 01:10:38 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+[08/17/2009 01:10:47 PM] Brian Cullinan: your mom is here and wants to bring your stuff to you.
+[08/17/2009 01:39:16 PM] Brian Cullinan: you should call her, she is really worried about you, and she met us and because we are such nice people she realized she made a mistake.
+Session Close (Micheal Brooks): Mon Aug 17 13:40:15 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Aug 17 17:58:53 2009
+[08/17/2009 05:58:58 PM] Brian Cullinan: Hey man, you around?
+Session Close (Micheal Brooks): Mon Aug 17 18:40:16 2009
+
+
+Session Start (bjcullinan:Micheal Brooks): Mon Aug 17 19:59:13 2009
+[08/17/2009 07:59:17 PM] Brian Cullinan: Micheal Brooks
+[08/17/2009 07:59:22 PM] *** Auto-response from Micheal Brooks: I'm not here right now
+Session Close (Micheal Brooks): Mon Aug 17 21:25:49 2009
+
+

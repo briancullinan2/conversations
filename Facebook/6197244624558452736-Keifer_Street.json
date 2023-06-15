@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6197244624558452736/",
+    "participants": [
+        {
+            "name": "Keifer Street",
+            "title": "SAP FICO Business Analyst",
+            "url": "linkedin.com/in/keifer-street-aa565723",
+            "phone": null,
+            "email": "keifer.street@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "I am surprised we were t connected\n",
+            "time": "2017-10-27T03:17:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Congrats on your work anniversary!\n",
+            "time": "2017-12-21T21:41:00.000Z"
+        }
+    ]
+}

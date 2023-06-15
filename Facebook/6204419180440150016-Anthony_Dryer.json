@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6204419180440150016/",
+    "participants": [
+        {
+            "name": "Anthony Dryer",
+            "title": "Operations Manager at Elevated Third",
+            "url": "linkedin.com/in/anthony-dryer-b393421b",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Anthony Dryer",
+            "message": "Drupal Developer Position\n\nBrian, \n\nI'm the operations manager at Elevated Third, a Denver based Drupal shop, and I noticed you are open to new opportunities on your Linkedin profile. We currently have an open Drupal developer position at the company and I thought you might be a good fit for it. Would you be interested in learning more about the position? \n\nThanks for time,\n\n-Tony\n\nAnthony Dryer\n952 412 8541 | tonydryer5@gmail.com\n",
+            "time": "2017-11-15T12:00:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Yikes. Drupal. Last time I used that I stopped because the community has zero organization.\n",
+            "time": "2017-11-15T22:52:00.000Z"
+        },
+        {
+            "from": "Anthony Dryer",
+            "message": "Thanks for taking the time to respond Brian. Best of luck,\n\n-Tony\n",
+            "time": "2017-11-16T22:22:00.000Z"
+        }
+    ]
+}

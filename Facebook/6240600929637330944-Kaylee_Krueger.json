@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6240600929637330944/",
+    "participants": [
+        {
+            "name": "Kaylee Krueger",
+            "title": "--",
+            "url": "linkedin.com/in/kaylee-krueger-507447a5",
+            "phone": "9518476054 (Home)",
+            "email": "kayleekrueger@hotmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-02-23T18:40:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Kaylee Krueger",
+            "time": "2017-03-14T05:11:00.000Z",
+            "message": "👍\n"
+        },
+        {
+            "from": "Kaylee Krueger",
+            "time": "2017-03-14T05:11:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

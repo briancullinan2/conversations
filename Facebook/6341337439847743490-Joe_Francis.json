@@ -1,0 +1,49 @@
+{
+    "thread": "/messaging/thread/6341337439847743490/",
+    "participants": [
+        {
+            "name": "Joe Francis",
+            "title": "Senior .NET Architect and Development Manager",
+            "url": "linkedin.com/in/joefrancisarchitect",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-11-28T18:11:00.000Z"
+        },
+        {
+            "from": "Joe Francis",
+            "message": "",
+            "time": "2017-11-29T15:27:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-11-30T19:54:00.000Z"
+        },
+        {
+            "from": "Joe Francis",
+            "message": "",
+            "time": "2017-11-30T21:34:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-11-30T03:00:00.000Z"
+        },
+        {
+            "from": "Joe Francis",
+            "message": "",
+            "time": "2017-11-30T22:34:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-11-30T23:24:00.000Z"
+        }
+    ]
+}

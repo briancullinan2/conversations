@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6271063188872192000/",
+    "participants": [
+        {
+            "name": "Ashley Escher",
+            "title": "Project Manager",
+            "url": "linkedin.com/in/ashley-escher-2844a7b5",
+            "phone": "952-288-8643 (Mobile)",
+            "email": "Ashley.Escher@insightglobal.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Ashley Escher",
+            "time": "2017-05-18T12:00:00.000Z",
+            "message": "Principal Software Engineer Opportunity: Charter Communications- Denver, CO (Full-Time)\n\nI hope you are having a great day. I came across your profile and have an excellent job opportunity at Charter Communications that you could be a strong fit for. We are looking for a senior engineer to join our test engineering division. This position has a very competitive salary, Charter full-time benefits, and we are hiring immediately. I have included the job description below so please let me know if you or someone you know is interested. \n\nJOB TITLE: Principal Engineer II\n\nJOB SUMMARY\nManage the development and integration of test tools. Support the deployments of those tools throughout Charter. Support users of these tools. The tools are:\n\nTMC (Test Measurement and Control) is a web based test automation system for testing Set Top Boxes, Roku, iOS and Android devices, using IR blaster, OCR, image compare and color compare in a ruby script. TMC runs on Windows and uses C#/.NET, Silverlight (converting to HTML) and Ruby.\n\nSWORD (SIT Webified, Oracle Recording Database) is a test management system which also controls TMC devices. SWORD runs on Linux and is a Ruby on Rails application with an Oracle DB.\n\nTest Workbench is a web based Test reporting Tool which runs on Linux and uses an Oracle DB.\nHP ALM (Application Lifecycle Management) is an industry standard tool used for test management.\n\nMAJOR DUTIES AND RESPONSIBILITIES \nManage an internal development group for enhancing TMC and SWORD. Manage 1 external development group for enhancing Test Workbench. Support the use of a third party tool (HP ALM). Manage the integration of these tools. Train and support other Charter departments that use those tools. \nEvaluate other test tools.\nSocialize best practices to the company especially regarding: testing and test automation\nWork with other internal organizations \nMentor and guide the work of senior technical staff\n\nAshley Escher\n952-288-8643 | Ashley.Escher@insightglobal.com\n"
+        }
+    ]
+}

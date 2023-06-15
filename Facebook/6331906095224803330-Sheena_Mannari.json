@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6331906095224803330/",
+    "participants": [
+        {
+            "name": "Sheena Mannari",
+            "title": "Sr. Recruiter at TekPartners",
+            "url": "linkedin.com/in/sheenamannari",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Sheena Mannari",
+            "message": "Permanent Software Engineer opportunity open",
+            "time": "2017-11-02T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "What company?",
+            "time": "2017-11-03T17:51:00.000Z"
+        }
+    ]
+}

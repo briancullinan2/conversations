@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6209025693255299072/",
+    "participants": [
+        {
+            "name": "J.R. Jasperson",
+            "title": "Chief Architect at SendGrid",
+            "url": "linkedin.com/in/jrjasperson",
+            "phone": null,
+            "email": "jasperson@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Congratulations! You must be a genius ;D\n",
+            "time": "2017-11-28T15:31:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "What are you working on?\n",
+            "time": "2017-12-06T15:10:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6196459096057618432/",
+    "participants": [
+        {
+            "name": "Dustin Dowdy",
+            "title": "Product Engineer at Ashley Furniture",
+            "url": "linkedin.com/in/dustin-dowdy-0252a9a9",
+            "phone": "6624190091 (Home)",
+            "email": "dbdowdy@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Dustin, I was hoping you could connect with Joshua and give him an overview on some local opportunities.  I know he is happy where he is, but this genius is 10 years ahead of me when it comes to talent and ambition.  In case you want to call after work, Dustin's phone number is 662-419-0091.",
+            "time": "2017-10-04T23:16:00.000Z"
+        },
+        {
+            "from": "Dustin Dowdy",
+            "message": "Yea Joshua. Give me a call when you get a chance. I have some opportunities I would like to talk to you about and also I would like to ask you some questions about technology as well.",
+            "time": "2017-10-04T23:29:00.000Z"
+        },
+        {
+            "from": "Joshua Grosso",
+            "message": "Hi, Dustin! Thanks for offering to connect; are you available tomorrow to chat?",
+            "time": "2017-10-04T00:29:00.000Z"
+        },
+        {
+            "from": "Dustin Dowdy",
+            "message": "Yes I am. You can give me a call any time.",
+            "time": "2017-10-04T00:32:00.000Z"
+        }
+    ]
+}

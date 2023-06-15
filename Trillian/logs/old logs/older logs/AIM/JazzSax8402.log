@@ -1,0 +1,39 @@
+﻿Session Start (BrianJCullinan:JazzSax8402): Thu May 20 01:45:10 2004
+JazzSax8402: hey dude
+JazzSax8402: test this for me (Link: http://pprnkweb.no-ip.com)http://pprnkweb.no-ip.com
+BrianJCullinan: doesn't work
+JazzSax8402: dame
+JazzSax8402: for some reson my server is not being seen beyond the server
+JazzSax8402: you know anythign about servers
+BrianJCullinan: not much
+BrianJCullinan: firewall problem?
+BrianJCullinan: oh wait
+BrianJCullinan: your using no-ip
+JazzSax8402: yeah
+BrianJCullinan: i tried that, i think it is only for dsl users
+BrianJCullinan: collaged have t1
+JazzSax8402: hmm
+JazzSax8402: im learning as I go
+JazzSax8402: its weird, I can view it with every computer in the house, but beyond the router its fucked
+JazzSax8402: did you use IIS
+BrianJCullinan: i never got no-ip to work
+JazzSax8402: oh ok
+JazzSax8402: Cox got me this far, maybe they can get me farther
+BrianJCullinan: if you have a firewall put a user and password protocalls in that, then give the outside user permissions to access it
+JazzSax8402: well, what I have done is ever user frm te outside is automatically give a access with limited acess
+BrianJCullinan: sounds good
+JazzSax8402: but its not workin
+Session Close (JazzSax8402): Thu May 20 02:19:56 2004
+
+
+Session Start (BrianJCullinan:JazzSax8402): Fri May 21 16:29:16 2004
+JazzSax8402: dude, I got it workin
+JazzSax8402: Cox blocks port 80
+BrianJCullinan: cool
+JazzSax8402: so if you feel like doing it, do a port 80 re-direct
+BrianJCullinan: ok
+JazzSax8402: also might want to mask you rip address as well
+BrianJCullinan: ok
+Session Close (JazzSax8402): Fri May 21 17:07:07 2004
+
+

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6227270394710155264/",
+    "participants": [
+        {
+            "name": "Dan Heely",
+            "title": "DevOps Engineer at Blackboard",
+            "url": "linkedin.com/in/dan-heely-17715519",
+            "phone": null,
+            "email": "dan.heely@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting! I would love to work for blackboard. How's DevOps going?\n",
+            "time": "2018-01-17T23:49:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+<session type="start" time="1114581804" medium="AIM" to="rtgphs02" from="BrianJCullinan"/>
+<message type="information_standard" time="1114581804" medium="AIM" text="NOTE%3A%20This%20user%20is%20offline%2E%20%20Your%20messages%20will%20most%20likely%20%2Anot%2A%20be%20received%21"/>
+<message type="outgoing_privateMessage" time="1114581806" medium="AIM" to="rtgphs02" from="BrianJCullinan" from_display="Me" text="hi"/>
+<message type="information_standard" time="1114581806" medium="AIM" text="Error%20while%20sending%20IM%3A%20This%20user%20is%20currently%20not%20logged%20on"/>
+<session type="stop" time="1114581810" medium="AIM" to="rtgphs02" from="BrianJCullinan"/>
+<icon time="1114635450" medium="AIM" from="Rtgphs02" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DRtgphs02%2D1114635450%2Egif"/>
+<session type="start" time="1118126621" medium="AIM" to="Rtgphs02" from="BrianJCullinan"/>
+<message type="information_standard" time="1118126621" medium="AIM" text="NOTE%3A%20This%20user%20is%20offline%2E%20%20Your%20messages%20will%20most%20likely%20%2Anot%2A%20be%20received%21"/>
+<session type="stop" time="1118126626" medium="AIM" to="Rtgphs02" from="BrianJCullinan"/>

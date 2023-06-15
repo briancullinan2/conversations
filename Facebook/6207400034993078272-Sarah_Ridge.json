@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6207400034993078272/",
+    "participants": [
+        {
+            "name": "Sarah Ridge",
+            "title": "the BOUJ® | Homeowners Financial Group",
+            "url": "linkedin.com/in/thebouj",
+            "phone": null,
+            "email": "bouj@thebouj.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Sarah Ridge",
+            "message": "HI Brian!\n\nI am looking for someone to complete a project started in Ruby on Rails. The Data Model portion is completed. Now I need the data connected to the ui/design, paypal integration and google maps integration. Let me know if you are interested and of course your rates.\n\nSarah\n",
+            "time": "2017-11-24T03:51:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Sounds fun! I'm a bit busy at the moment.\n",
+            "time": "2017-11-24T03:57:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-11-24T03:57:00.000Z"
+        },
+        {
+            "from": "Sarah Ridge",
+            "message": "Thank you for connecting as well!\n",
+            "time": "2017-11-24T04:10:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6230097741108834304/",
+    "participants": [
+        {
+            "name": "Sabri Sansoy",
+            "title": "CEO & Roboticist @ Orchanic LLC",
+            "url": "linkedin.com/in/sansoy",
+            "phone": null,
+            "email": "info@orchanic.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-25T19:04:00.000Z"
+        },
+        {
+            "from": "Sabri Sansoy",
+            "message": "sure. curious about how you will improve the world with one question at a time ;)\n",
+            "time": "2018-01-25T19:11:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Have you roboticised your social networking?\n",
+            "time": "2018-01-25T19:35:00.000Z"
+        },
+        {
+            "from": "Sabri Sansoy",
+            "message": "Got it! The answer to your question is \"I have not\" as i want to read and understand and keep up with all things AI on its current crazy hockey stick growth.\n",
+            "time": "2018-01-25T19:50:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I haven't either. Just an idea I am working on. I've put some stuff in git that uses selenium and nodejs.\n",
+            "time": "2018-01-25T20:06:00.000Z"
+        }
+    ]
+}

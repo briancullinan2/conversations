@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6235553484159139841/",
+    "participants": [
+        {
+            "name": "Carlos Solis",
+            "title": "Carlos-Solis.Com",
+            "url": "linkedin.com/in/carlos-solis-0a864036",
+            "phone": "6024874006 (Mobile)",
+            "email": "therealcarlossolis@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-09T20:23:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Carlos Solis",
+            "time": "2018-02-10T20:22:00.000Z",
+            "message": "Good to see you my friend. Have a great rest of the year...let me know if you will be going to Mexico for Shuli's wedding!! Maybe will see you there\n"
+        }
+    ]
+}

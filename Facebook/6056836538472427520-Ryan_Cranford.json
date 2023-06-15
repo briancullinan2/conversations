@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6056836538472427520/",
+    "participants": [
+        {
+            "name": "Ryan Cranford",
+            "title": "Field Recruiter at Learning Care Group",
+            "url": "linkedin.com/in/ryancranford",
+            "phone": "",
+            "email": "sonicmustang2002@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Ryan Cranford",
+            "message": "corporatelane.recruitment@gmail.com\ncorporatelane.recruitment@gmail.com",
+            "time": "2017-10-31T16:26:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Thank you for your interest,   I have been developing software since I was only 11 years old. I started in VB4 and explored .Net since it's inception. Later I honed my skills on the web with PHP and JavaScript. I enjoy all forms of software development and computer administration. In previous positions a 6 month salary review has worked well, as it gives us both a chance to show what we are made of, without breaking the bank. I have a lot of experience with start-ups, so I am no stranger to bringing new products and technologies to market in a controlled environment. I would enjoy a change to meet more of the team. For reference, I would be looking in the ballpark of $180k. Thank you.   -Brian",
+            "time": "2017-10-31T21:41:00.000Z"
+        },
+        {
+            "from": "Ryan Cranford",
+            "message": "Sorry for the last email. Someone hacked into my account.  The issue is resolved now.",
+            "time": "2017-10-31T21:53:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Funny message.  I'm on the job hunt so my generic response isn't going to cut it anymore.  How are things on your end?",
+            "time": "2017-10-31T22:44:00.000Z"
+        }
+    ]
+}

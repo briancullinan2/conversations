@@ -1,0 +1,49 @@
+{
+    "thread": "/messaging/thread/6222449794032500736/",
+    "participants": [
+        {
+            "name": "Michael Powers",
+            "title": "Owner, Michael Powers Music",
+            "url": "linkedin.com/in/michael-powers-7b1930",
+            "phone": null,
+            "email": "mp@michaelpowersmusic.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Michael Powers",
+            "message": "Hi Brian-\nYou look familiar. \nHave we met?\n\nMP\n",
+            "time": "2018-01-04T16:33:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-04T17:20:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "We have not met in the 3rd dimension, but the sense of familiarity is no coincidence. What is your ambition?\n",
+            "time": "2018-01-04T17:20:00.000Z"
+        },
+        {
+            "from": "Michael Powers",
+            "message": "Not too ambitious these days. Have accomplished much-\nhttp://michaelpowersmusic.com/\nWhat is yours?\n\nM\n",
+            "time": "2018-01-04T20:39:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Currently it is collecting people's ambitions. I want to spend a few years living in space. Improve education. Have children. Visit a monestary in China.\n",
+            "time": "2018-01-04T23:00:00.000Z"
+        },
+        {
+            "from": "Michael Powers",
+            "message": "Awesome ambitions. I hope you get to achieve them all. \nGo to China soon, Trump is going to piss them off quickly-\n",
+            "time": "2018-01-09T15:21:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Good call, thank you!\n",
+            "time": "2018-01-09T17:24:00.000Z"
+        }
+    ]
+}

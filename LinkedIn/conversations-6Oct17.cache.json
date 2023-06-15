@@ -1,0 +1,137 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "6Oct17",
+    "participants": "Brian Cullinan | wizard > Katie Kalina | Account Coordinator at Watson",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Katie Kalina",
+        "url": "linkedin.com/in/catherinekalina",
+        "email": "ckalina@asu.edu",
+        "title": "Account Coordinator at Watson"
+      }
+    ],
+    "message": "Hello friend!\nCan you get me a phone interview for this job?\n/en/jobs/447904\n\n- Brian Cullinan",
+    "time": "2017-10-06T00:30:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "6Oct17",
+    "participants": "Brian Cullinan | wizard > Kelly Smith | Founder and CEO at Prenda",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Kelly Smith",
+        "url": "linkedin.com/in/kellysmith35",
+        "email": "krsmith35@gmail.com",
+        "title": "Founder and CEO at Prenda"
+      }
+    ],
+    "message": "I suppose if I were limited by equipment my first stop would be every educational incubator I could get my hands on building my network talking to foundations and board members to find more computer and pay people to set them up. My last step would probably be city council funding. Where are you on that front? Any relevance at all? ;)",
+    "time": "2017-10-06T16:45:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "6Oct17",
+    "participants": "Brian Cullinan | wizard > Colin Sanders | Technical Recruiter at Pacific Northwest National Laboratory - PNNL",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Colin Sanders",
+        "url": "linkedin.com/in/pnnlrecruiter",
+        "email": "colin.sanders@pnnl.gov",
+        "title": "Technical Recruiter at Pacific Northwest National Laboratory - PNNL"
+      }
+    ],
+    "message": "Application uploaded. With reference to you.",
+    "time": "2017-10-06T00:31:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "6Oct17",
+    "participants": "Colin Sanders | Technical Recruiter at Pacific Northwest National Laboratory - PNNL > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Colin Sanders",
+        "url": "linkedin.com/in/pnnlrecruiter",
+        "email": "colin.sanders@pnnl.gov",
+        "title": "Technical Recruiter at Pacific Northwest National Laboratory - PNNL"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Brian,\n\nI routed you to the manager for review along with a note regarding our conversation. The admin for the group will be reaching out to you to setup a phone screen.\n\nThanks!\nColin",
+    "time": "2017-10-06T20:14:00.000Z",
+    "title": "Technical Recruiter at Pacific Northwest National Laboratory - PNNL"
+  },
+  {
+    "type": "conversations",
+    "conversations": "6Oct17",
+    "participants": "Brian Cullinan | wizard > Colin Sanders | Technical Recruiter at Pacific Northwest National Laboratory - PNNL",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Colin Sanders",
+        "url": "linkedin.com/in/pnnlrecruiter",
+        "email": "colin.sanders@pnnl.gov",
+        "title": "Technical Recruiter at Pacific Northwest National Laboratory - PNNL"
+      }
+    ],
+    "message": "Great thank you!",
+    "time": "2017-10-06T20:51:00.000Z",
+    "title": "wizard"
+  }
+]

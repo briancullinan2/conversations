@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6211621953531375616/",
+    "participants": [
+        {
+            "name": "Jeramy Cooper-Leavitt",
+            "title": "IT Security and Compliance Leader",
+            "url": "linkedin.com/in/jeramycl",
+            "phone": null,
+            "email": "jcooperleavitt@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "You're a genius!\n",
+            "time": "2017-12-05T19:28:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Based on your title.\n",
+            "time": "2017-12-06T15:07:00.000Z"
+        }
+    ]
+}

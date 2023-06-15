@@ -1,0 +1,22 @@
+{
+    "thread": "https://www.facebook.com/messages/t/annalee.masters",
+    "participants": [
+        {
+            "name": "Annalee Masters",
+            "description": "Lives in Phoenix, Arizona",
+            "url": "https://www.facebook.com/annalee.masters"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Brian",
+            "message": "Brian\nAre you a real person?\n",
+            "time": "2017-11-20T16:25:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nLiving the dream? Mm\n",
+            "time": "2017-11-23T02:15:00.000Z"
+        }
+    ]
+}

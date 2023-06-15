@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6199286214911148033/",
+    "participants": [
+        {
+            "name": "Candace Hardy",
+            "title": "Quality Systems Manager at Crown Peak Industries",
+            "url": "linkedin.com/in/candace-hardy-5b8578105",
+            "phone": "4803878110 (Mobile)",
+            "email": "candacekhardy@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-10-30T18:30:00.000Z"
+        },
+        {
+            "from": "Candace Hardy",
+            "message": "No problem!",
+            "time": "2017-10-30T19:50:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,309 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "7 Mutual Connections",
+                "You and Mark both know Cody McGinley, Sylvia Kubiak, and 5 others"
+            ],
+            [
+                "You both worked at Charles Schwab",
+                "Mark worked at Charles Schwab before you started"
+            ],
+            [
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Senior Applications Engineer",
+                "Company Name",
+                "Silicon Laboratories",
+                "Dates Employed",
+                "Apr 2013 – Present",
+                "Employment Duration",
+                "4 yrs 8 mos",
+                "Architect, design and develop new Wpf application as well as maintain and add features for legacy WinForms application.  Technologies include Wpf, Mvvm, C#, WinForms, Wcf, Styles and ControlTemplates."
+            ],
+            [
+                "Owner/Partner",
+                "Company Name",
+                "RsWorx Consulting",
+                "Dates Employed",
+                "Jan 2010 – Present",
+                "Employment Duration",
+                "7 yrs 11 mos",
+                "Location",
+                "Austin, Texas Area",
+                "RsWorx provides software services for architecture, design and development of business applications.  We specialize in WPF, Silverlight, C#, Databases and Web Services."
+            ],
+            [
+                "Co-Founder",
+                "Company Name",
+                "Nstrument, Inc.",
+                "Dates Employed",
+                "Jul 2007 – Jun 2014",
+                "Employment Duration",
+                "7 yrs",
+                "Summary:  Design, develop and maintain a large network monitoring and ticketing system for this start-up Network Management Company.  This includes backend monitoring, data management, communication layer, user interface and company website -including back end systems for orders, installations and licensing.  Technologies:  Visual Studio 2010, WPF, WCF, Expression Blend, Expression Design, SqlServer 9, LinqToSql, LINQ, .NET 3.5, .NET 2.0, NUnit, Log4net; Snoop  and Cruise Control.Net.  I am very comfortable writing XAML with or without designer mode or Expression Blend and modifying creating styles and control templates.Products:Nstrument Manager - A Client/Server network monitoring application providing real-time monitoring and reporting for your network infrastructure.  Includes ticketing for when thresholds are exceeded and completely integrated network tools like Port Switch Mapper, Trace Route, Trap Sender and Receiver, MIB Browser and WMI Browser (all written by us in C#/WPF) to aide in trouble shooting.  Client/Server Communication utilizes WCF and Network Monitoring utilizes ICMP, SNMP, WMI and HTTP.  The User interface has over 100 User Controls and uses the Avalon Dock Layout Manager, MS WPF Toolkit, a custom Chart Control and heavy Data Binding to make use of WPF.  The user interface also utilizes Async operations to keep it responsive, settings to remember user actions and has a rich WPF look to set us apart from competitors.SNMP Library / Free MIB Browser - The .Net SNMP Library sends and receives UDP packets for those wishing to write their own SNMP programs.  It is multi-threaded, exposes an Async API and uses strongly typed objects so you can use LINQ to query them.  The free MIB Browser is a scaled down version 1 of the Nstrument Manager MIB Browser.  It provides basic read only Gets, Table Walks and includes over 1200 MIBs."
+            ],
+            [
+                "Senior Software Engineer (Contract)",
+                "Company Name",
+                "Llesiant",
+                "Dates Employed",
+                "Nov 2012 – Jan 2013",
+                "Employment Duration",
+                "3 mos",
+                "Created a caching system for search results to remove load from the database and speed up search times.  Technologies included C#, AppFabric, WCF, IIS and Perfmon for instrumentation."
+            ],
+            [
+                "Senior Software Developer (Contractor)",
+                "Company Name",
+                "CoreTrace Corporation",
+                "Dates Employed",
+                "Jan 2012 – Nov 2012",
+                "Employment Duration",
+                "11 mos",
+                "Location",
+                "Austin, Texas Area",
+                "Develop and maintain the Silverlight front-end for an application whitelisting security product."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "The University of Texas at Austin",
+                "Degree Name",
+                "BBA",
+                "Field Of Study",
+                "Marketing",
+                "Dates attended or expected graduation",
+                "1987 – 1990"
+            ],
+            [
+                "The University of Texas at Austin",
+                "Degree Name",
+                "BBA",
+                "Field Of Study",
+                "Marketing",
+                "Dates attended or expected graduation",
+                "1987 – 1990"
+            ],
+            [
+                "GHS"
+            ],
+            [
+                "GHS"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See 30 more skills"
+            ],
+            "Recommendations",
+            [
+                "Silicon Labs",
+                "33,572 followers"
+            ],
+            [
+                "Solarwinds Consultants",
+                "708 members"
+            ],
+            [
+                "The University of Texas at Austin",
+                "397,795 followers"
+            ],
+            [
+                "The University of Texas at Austin",
+                "437,415 followers"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Silicon Labs",
+                "33,572 followers"
+            ],
+            [
+                "Silicon Labs",
+                "33,572 followers"
+            ],
+            [
+                "Solarwinds Consultants",
+                "708 members"
+            ],
+            [
+                "Solarwinds Consultants",
+                "708 members"
+            ],
+            [
+                "The University of Texas at Austin",
+                "397,795 followers"
+            ],
+            [
+                "The University of Texas at Austin",
+                "397,795 followers"
+            ],
+            [
+                "The University of Texas at Austin",
+                "437,415 followers"
+            ],
+            [
+                "The University of Texas at Austin",
+                "437,415 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Abhishek Arora",
+                "Software engineer",
+                "July 26, 2010, Mark worked with Abhishek in the same group",
+                "Mark was the champion senior developer at Schwab. He is fluent in software and has excellent communication skills. His analytical and problem solving skills are out of the world. Some of the hardest problems were thrown in Marks direction over the course of the project and he came out shining on the other end every time. By helping with Charting solutions and Grids, Mark laid the foundation for a large part of the application at Schwab. He is a solid architect with a great work ethic and will be a great asset to any team that gets a chance to hire him."
+            ],
+            [
+                "Abhishek Arora",
+                "Software engineer",
+                "July 26, 2010, Mark worked with Abhishek in the same group"
+            ],
+            [
+                "Abhishek Arora",
+                "Software engineer",
+                "July 26, 2010, Mark worked with Abhishek in the same group"
+            ],
+            [
+                "Abhishek Arora",
+                "Software engineer",
+                "July 26, 2010, Mark worked with Abhishek in the same group"
+            ],
+            "Software engineer",
+            [
+                "Mark was the champion senior developer at Schwab. He is fluent in software and has excellent communication skills. His analytical and problem solving skills are out of the world. Some of the hardest problems were thrown in Marks direction over the course of the project and he came out shining on the other end every time. By helping with Charting solutions and Grids, Mark laid the foundation for a large part of the application at Schwab. He is a solid architect with a great work ethic and will be a great asset to any team that gets a chance to hire him."
+            ],
+            [
+                "Mark was the champion senior developer at Schwab. He is fluent in software and has excellent communication skills. His analytical and problem solving skills are out of the world. Some of the hardest problems were thrown in Marks direction over the course of the project and he came out shining on the other end every time. By helping with Charting solutions and Grids, Mark laid the foundation for a large part of the application at Schwab. He is a solid architect with a great work ethic and will be a great asset to any team that gets a chance to hire him."
+            ],
+            [
+                "Scott Fleming",
+                "Customer Outbound Campaign Lead/Insurance Agent/Educator",
+                "June 4, 2014, Mark was a client of Scott’s",
+                "I was looking for an insurance agent after buying my first house in Austin, and was referred to Scott by a friend who used him. It turned out to be a GREAT decision to go with Scott. He was constantly trying to save me money and making sure I had the coverage I needed -plus it was a real pleasure working with Scott. I was very sad to hear that he was moving on after many years of being my agent. If I could switch back to him I would in a nano-second."
+            ],
+            [
+                "Scott Fleming",
+                "Customer Outbound Campaign Lead/Insurance Agent/Educator",
+                "June 4, 2014, Mark was a client of Scott’s"
+            ],
+            [
+                "Scott Fleming",
+                "Customer Outbound Campaign Lead/Insurance Agent/Educator",
+                "June 4, 2014, Mark was a client of Scott’s"
+            ],
+            [
+                "Scott Fleming",
+                "Customer Outbound Campaign Lead/Insurance Agent/Educator",
+                "June 4, 2014, Mark was a client of Scott’s"
+            ],
+            "Customer Outbound Campaign Lead/Insurance Agent/Educator",
+            [
+                "I was looking for an insurance agent after buying my first house in Austin, and was referred to Scott by a friend who used him. It turned out to be a GREAT decision to go with Scott. He was constantly trying to save me money and making sure I had the coverage I needed -plus it was a real pleasure working with Scott. I was very sad to hear that he was moving on after many years of being my agent. If I could switch back to him I would in a nano-second."
+            ],
+            [
+                "I was looking for an insurance agent after buying my first house in Austin, and was referred to Scott by a friend who used him. It turned out to be a GREAT decision to go with Scott. He was constantly trying to save me money and making sure I had the coverage I needed -plus it was a real pleasure working with Scott. I was very sad to hear that he was moving on after many years of being my agent. If I could switch back to him I would in a nano-second."
+            ],
+            [
+                "Thomas Bernhard",
+                "Software Sr. Principal Engineer at SecureWorks",
+                "November 9, 2012, Thomas worked with Mark in the same group",
+                "I had the pleasure of working with Tom while I was consulting at CoreTrace.  Tom understood the entire product and the vision as well as anyone, and could communicate it well.  He could always provide the technical details combined with the business value which made it much easier to do my job.  Also, Tom could traverse all areas of the application(s) to accomplish what he needed to as a developer.I hope I get to work with Tom again in the future."
+            ],
+            [
+                "Thomas Bernhard",
+                "Software Sr. Principal Engineer at SecureWorks",
+                "November 9, 2012, Thomas worked with Mark in the same group"
+            ],
+            [
+                "Thomas Bernhard",
+                "Software Sr. Principal Engineer at SecureWorks",
+                "November 9, 2012, Thomas worked with Mark in the same group"
+            ],
+            [
+                "Thomas Bernhard",
+                "Software Sr. Principal Engineer at SecureWorks",
+                "November 9, 2012, Thomas worked with Mark in the same group"
+            ],
+            "Software Sr. Principal Engineer at SecureWorks",
+            [
+                "I had the pleasure of working with Tom while I was consulting at CoreTrace.  Tom understood the entire product and the vision as well as anyone, and could communicate it well.  He could always provide the technical details combined with the business value which made it much easier to do my job.  Also, Tom could traverse all areas of the application(s) to accomplish what he needed to as a developer.I hope I get to work with Tom again in the future."
+            ],
+            [
+                "I had the pleasure of working with Tom while I was consulting at CoreTrace.  Tom understood the entire product and the vision as well as anyone, and could communicate it well.  He could always provide the technical details combined with the business value which made it much easier to do my job.  Also, Tom could traverse all areas of the application(s) to accomplish what he needed to as a developer.I hope I get to work with Tom again in the future."
+            ]
+        ],
+        "skills": [
+            [
+                "C#",
+                "See 39 endorsements for C#",
+                "39",
+                "C#",
+                "Endorse",
+                "Endorsed by Bob Clancy (mutual connection)",
+                "Endorsed by 4 of Mark’s colleagues at Silicon Labs"
+            ],
+            [
+                "C#",
+                "See 39 endorsements for C#",
+                "39"
+            ],
+            [
+                "Agile Methodologies",
+                "See 38 endorsements for Agile Methodologies",
+                "38",
+                "Agile Methodologies",
+                "Endorse",
+                "Endorsed by Ramakrishna N., who is highly skilled at this",
+                "Endorsed by 2 of Mark’s colleagues at Silicon Labs"
+            ],
+            [
+                "Agile Methodologies",
+                "See 38 endorsements for Agile Methodologies",
+                "38"
+            ],
+            [
+                ".NET",
+                "See 31 endorsements for .NET",
+                "31",
+                ".NET",
+                "Endorse",
+                "Nathan Atkins and 30 connections have given endorsements for this skill"
+            ],
+            [
+                ".NET",
+                "See 31 endorsements for .NET",
+                "31"
+            ]
+        ],
+        "summary": "  I have been designing, developing, testing, architecting and project managing advanced software systems for over 20 years. Specialties: I currently prefer to specialize in WPF, C# and Sql Server.\n  \n  \n",
+        "name": "Mark Singleton",
+        "title": "Senior Applications Engineer at Silicon Laboratories",
+        "url": "linkedin.com/in/jmarksingleton",
+        "phone": "",
+        "email": "jmarksingleton@gmail.com"
+    }
+]

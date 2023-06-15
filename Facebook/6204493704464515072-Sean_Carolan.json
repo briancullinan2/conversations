@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6204493704464515072/",
+    "participants": [
+        {
+            "name": "Sean Carolan",
+            "title": "Sales Engineer",
+            "url": "linkedin.com/in/seancarolan108",
+            "phone": "",
+            "email": "scarolan@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "You're a genius! :D",
+            "time": "2017-10-27T03:22:00.000Z"
+        },
+        {
+            "from": "Sean Carolan",
+            "message": "Only by proxy.  I just hang out with geniuses... :-)",
+            "time": "2017-10-27T04:27:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Understood.  That is smart.  I've been thinking a lot about exactly that lately...",
+            "time": "2017-10-27T04:33:00.000Z"
+        }
+    ]
+}

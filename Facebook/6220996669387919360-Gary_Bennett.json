@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6220996669387919360/",
+    "participants": [
+        {
+            "name": "Gary Bennett",
+            "title": "Chief Architect at Rare Labs",
+            "url": "linkedin.com/in/gwbennett",
+            "phone": null,
+            "email": "gary@xcelme.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-31T16:19:00.000Z"
+        }
+    ]
+}

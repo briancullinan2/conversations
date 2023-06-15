@@ -1,0 +1,247 @@
+[
+    {
+        "experience": [
+            "Highlights",
+            [
+                "41 Mutual Connections",
+                "You and Andrew both know Dimitri Ponomareff, Jody Mulkey, and 39 others"
+            ],
+            [
+                "Andrew can introduce you to 7 people at Apple",
+                "You are following Apple"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "American Express",
+                "Dates Employed",
+                "Jun 2017 – Present",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "Phoenix, Arizona"
+            ],
+            [
+                "Lead Software Engineer",
+                "Company Name",
+                "MechFinder",
+                "Dates Employed",
+                "Nov 2015 – Present",
+                "Employment Duration",
+                "2 yrs",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Sole engineer working on the API layer as a weekend project● NodeJS Express web service with MongoDB database● Provided consultation on security flaws, API integrations, network logging, testing, and documentation● Implemented payment processing into application● Handled secure user authentication and data storage● Express session storage● Linking socket connections to the user session for realtime notifications and chat services on a per-user basis● Configured Google Cloud to deploy and run the application with a separate MongoDB instance (full devops experience)"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "GoDaddy",
+                "Dates Employed",
+                "Aug 2016 – Jun 2017",
+                "Employment Duration",
+                "11 mos",
+                "Location",
+                "Scottsdale, Arizona"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "Ticketmaster",
+                "Dates Employed",
+                "Jun 2014 – Aug 2016",
+                "Employment Duration",
+                "2 yrs 3 mos",
+                "Location",
+                "Scottsdale, Arizona",
+                "Mobile Box Office Application ● Lead of iOS development in the Scottsdale office● Working remotely with corporate headquarters● iOS native application built from scratch using Swift 2Checkout Service in the Commerce API Layer● Java web service using the Spring framework● Added SMS delivery into the service● Added new http routes to handle split payments and payment errors● Groovy unit test coverage of all added features● Performed new version releases in all environments (QA, integration, and production)Unified Work Distributor● Added new routes to proxy the internal firewall so the box office mobile application can connect via public wifi/cellular serviceRefund Service in the Commerce API Layer● Java web service using the Spring framework● Added total functionality for integrating with an existing ticketing platform● Java unit test coverage of all added featuresBox Office Application● development on the production web application using javascript, css, and html● unit test coverage using Jasmine and PhantomJSResale Market Web Service (TM+)● built and maintain the functional test suite using CucumberJS and Jenkins; using Mocha, Chai and Sinon for unit testing this framework, and also created the npm module cucumber-for-jenkins● created a dashboard using NodeJS tying in our splunk reports, our Jenkins job statuses, and also a full REST request/response handler to our service● creating splunk reports and using them for production issues and debugging● client automation test integration for continuous delivery● API changes and bug fixes using PerlAdapted Ticketmaster Environment● version control using GIT● agile and kanban methodologies used heavily● continuous integration and delivery (Rundeck and Jenkins)"
+            ],
+            [
+                "Undergraduate Research Assistant",
+                "Company Name",
+                "University of Arizona College of Medicine - Phoenix",
+                "Dates Employed",
+                "Nov 2013 – Jul 2014",
+                "Employment Duration",
+                "9 mos",
+                "Location",
+                "Phoenix, Arizona",
+                "Working under Ronald Hammer and Ella Nikulina to assist in studying neurological and psychological effects of addictive substances."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Ira A. Fulton Schools of Engineering at Arizona State University",
+                "Degree Name",
+                "BSE",
+                "Field Of Study",
+                "Chemical Engineering",
+                "Dates attended or expected graduation",
+                "2011 – 2015",
+                "Activities and Societies:",
+                "American Institute of Chemical Engineers"
+            ],
+            "Recommendations",
+            [
+                "MechFinder",
+                "8 followers"
+            ],
+            [
+                "GoDaddy",
+                "41,547 followers"
+            ],
+            [
+                "School for Engineering of Matter, Transport and Energy (SEMTE)",
+                "1,082 members"
+            ],
+            [
+                "Arizona State University .",
+                "11,109 members"
+            ],
+            [
+                "American Express",
+                "587,944 followers"
+            ],
+            [
+                "NodeJS",
+                "20,608 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (433)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "MechFinder",
+                "8 followers"
+            ],
+            [
+                "MechFinder",
+                "8 followers"
+            ],
+            [
+                "GoDaddy",
+                "41,547 followers"
+            ],
+            [
+                "GoDaddy",
+                "41,547 followers"
+            ],
+            [
+                "School for Engineering of Matter, Transport and Energy (SEMTE)",
+                "1,082 members"
+            ],
+            [
+                "School for Engineering of Matter, Transport and Energy (SEMTE)",
+                "1,082 members"
+            ],
+            [
+                "Arizona State University .",
+                "11,109 members"
+            ],
+            [
+                "Arizona State University .",
+                "11,109 members"
+            ],
+            [
+                "American Express",
+                "587,944 followers"
+            ],
+            [
+                "American Express",
+                "587,944 followers"
+            ],
+            [
+                "NodeJS",
+                "20,608 members"
+            ],
+            [
+                "NodeJS",
+                "20,608 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Keshav Behari, CSM",
+                "Software Engineer III at Live Nation Entertainment",
+                "October 16, 2015, Keshav worked with Andrew in different groups",
+                "Andrew is fantastic engineer. Within a few months of starting at Ticketmaster he went form having minimal experience, to having a strong set of skills for every layer of the stack. Now, after about 18 months, he is one of the most talented and self-driven full-stack engineers I have had the pleasure of working with."
+            ],
+            [
+                "Keshav Behari, CSM",
+                "Software Engineer III at Live Nation Entertainment",
+                "October 16, 2015, Keshav worked with Andrew in different groups"
+            ],
+            [
+                "Keshav Behari, CSM",
+                "Software Engineer III at Live Nation Entertainment",
+                "October 16, 2015, Keshav worked with Andrew in different groups"
+            ],
+            [
+                "Keshav Behari, CSM",
+                "Software Engineer III at Live Nation Entertainment",
+                "October 16, 2015, Keshav worked with Andrew in different groups"
+            ],
+            "Software Engineer III at Live Nation Entertainment",
+            [
+                "Andrew is fantastic engineer. Within a few months of starting at Ticketmaster he went form having minimal experience, to having a strong set of skills for every layer of the stack. Now, after about 18 months, he is one of the most talented and self-driven full-stack engineers I have had the pleasure of working with."
+            ],
+            [
+                "Andrew is fantastic engineer. Within a few months of starting at Ticketmaster he went form having minimal experience, to having a strong set of skills for every layer of the stack. Now, after about 18 months, he is one of the most talented and self-driven full-stack engineers I have had the pleasure of working with."
+            ],
+            [
+                "Keshav Behari, CSM",
+                "Software Engineer III at Live Nation Entertainment",
+                "January 15, 2016, Keshav worked with Andrew in the same group",
+                "Keshav is great at what he does and I am thankful to have had the opportunity to work with him, especially during the beginning of my career. He has been a great mentor as well as an inspiration to me in to strive towards in my career. Keshav is not only a strong developer, who has tackled complex challenges time and time again, but he is also a great character and team player who can work well with any team and on any project. I hope to have the opportunity to work closely with him soon!"
+            ],
+            [
+                "Keshav Behari, CSM",
+                "Software Engineer III at Live Nation Entertainment",
+                "January 15, 2016, Keshav worked with Andrew in the same group"
+            ],
+            [
+                "Keshav Behari, CSM",
+                "Software Engineer III at Live Nation Entertainment",
+                "January 15, 2016, Keshav worked with Andrew in the same group"
+            ],
+            [
+                "Keshav Behari, CSM",
+                "Software Engineer III at Live Nation Entertainment",
+                "January 15, 2016, Keshav worked with Andrew in the same group"
+            ],
+            "Software Engineer III at Live Nation Entertainment",
+            [
+                "Keshav is great at what he does and I am thankful to have had the opportunity to work with him, especially during the beginning of my career. He has been a great mentor as well as an inspiration to me in to strive towards in my career. Keshav is not only a strong developer, who has tackled complex challenges time and time again, but he is also a great character and team player who can work well with any team and on any project. I hope to have the opportunity to work closely with him soon!"
+            ],
+            [
+                "Keshav is great at what he does and I am thankful to have had the opportunity to work with him, especially during the beginning of my career. He has been a great mentor as well as an inspiration to me in to strive towards in my career. Keshav is not only a strong developer, who has tackled complex challenges time and time again, but he is also a great character and team player who can work well with any team and on any project. I hope to have the opportunity to work closely with him soon!"
+            ]
+        ],
+        "skills": [],
+        "summary": "",
+        "name": "Andrew Pratt",
+        "title": "Software Engineer at American Express",
+        "url": "linkedin.com/in/chemdrew",
+        "phone": "(480) 650-5756 (Mobile)",
+        "email": "akpratt@asu.edu"
+    }
+]

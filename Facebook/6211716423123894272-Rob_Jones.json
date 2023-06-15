@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6211716423123894272/",
+    "participants": [
+        {
+            "name": "Rob Jones",
+            "title": "I.T., Professional Services, & Engineering",
+            "url": "linkedin.com/in/rob-jones-278b934",
+            "phone": "623.229.1521 (Mobile)",
+            "email": "rjones@teemagroup.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Welcome to my network!\n",
+            "time": "2017-12-06T01:43:00.000Z"
+        }
+    ]
+}

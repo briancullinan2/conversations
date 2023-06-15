@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6227545356150857728/",
+    "participants": [
+        {
+            "name": "Hannah Maskulka",
+            "title": "Relationship Manager with TheRecordXChange",
+            "url": "linkedin.com/in/hannahmaskulka",
+            "phone": "480.861.8295 (Mobile)",
+            "email": "dancinghannahwatts@hotmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-01-18T18:01:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-03T16:43:00.000Z",
+            "message": "Congrats on the new job!\n"
+        }
+    ]
+}

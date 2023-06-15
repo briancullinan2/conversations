@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6219981754279743488/",
+    "participants": [
+        {
+            "name": "jeff berkowitz",
+            "title": "General manager at Dominick's steakhouse",
+            "url": "linkedin.com/in/jeffberkowitz",
+            "phone": null,
+            "email": "jsberko@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-28T21:06:00.000Z"
+        }
+    ]
+}

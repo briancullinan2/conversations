@@ -1,0 +1,54 @@
+{
+    "thread": "/messaging/thread/6285312772624445440/",
+    "participants": [
+        {
+            "name": "Virgil Coxon",
+            "title": "Field Survey Manager at ADOT",
+            "url": "linkedin.com/in/virgil-coxon-01500811",
+            "phone": "602-810-3438 (Mobile)",
+            "email": "vcoxon@azdot.gov"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-06-27T03:49:00.000Z",
+            "message": "Where do I report a missing street sign at the intersection of 32nd and Camelback?\n"
+        },
+        {
+            "from": "Virgil Coxon",
+            "time": "2017-06-27T19:15:00.000Z",
+            "message": "I believe that is in the City of Phoenix. I think they have an email on their web page that you can submit. Sorry I couldn't help more.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-27T19:17:00.000Z",
+            "message": "Yeah, I found it. Thank you!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-27T19:17:00.000Z",
+            "message": "What you think of California increasing the yellow light length by .5 seconds?\n"
+        },
+        {
+            "from": "Virgil Coxon",
+            "time": "2017-06-27T19:18:00.000Z",
+            "message": "Well I live in Phoenix so it doesn't impact me but I know they have traffic issues. I hope it helps.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-27T19:19:00.000Z",
+            "message": "We should do that here in Phoenix.\n"
+        },
+        {
+            "from": "Virgil Coxon",
+            "time": "2017-06-27T19:20:00.000Z",
+            "message": "In the same email area you could suggest doing it.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-27T19:22:00.000Z",
+            "message": "Ok cool, I'll try that.\n"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6201847173668311040/",
+    "participants": [
+        {
+            "name": "Evan Seguirant",
+            "title": "Recruiting Innovators @ Atlas Informatics",
+            "url": "linkedin.com/in/eseguirant",
+            "phone": "360-628-2593 (Home)",
+            "email": "evan@atlas.co"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "How can I help?",
+            "time": "2017-11-08T20:06:00.000Z"
+        },
+        {
+            "from": "Evan Seguirant",
+            "message": "",
+            "time": "2017-10-04T23:17:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Probably the iOS accessibility could be used to track apps but you might have to contract with Apple to get permission to use restricted APIs, that is a tough one.  Also, auditing would provide tons of data, I've done a lot with access management and I am impressed by new Google APIs offering auditing features.",
+            "time": "2017-10-04T23:21:00.000Z"
+        },
+        {
+            "from": "Evan Seguirant",
+            "message": "",
+            "time": "2017-11-09T23:28:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Thank you for the update. I live and breathe startups and software development.",
+            "time": "2017-10-04T23:29:00.000Z"
+        }
+    ]
+}

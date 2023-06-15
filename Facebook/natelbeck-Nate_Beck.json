@@ -1,0 +1,27 @@
+{
+    "thread": "https://www.facebook.com/messages/archived/t/natelbeck",
+    "participants": [
+        {
+            "name": "Nate Beck",
+            "description": "Lives in Seattle, Washington",
+            "url": "From Phoenix, Arizona"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Nate",
+            "time": "2005-10-05T00:31:00.000Z",
+            "message": "\ni dont know.  but you wil have to invite the right ppl and make the lan parties fun.\n"
+        },
+        {
+            "from": "Nate",
+            "time": "2005-10-06T01:22:00.000Z",
+            "message": "\njust remember if we do this in a dorm we will need a lot of power cables and we wont be needing a router since the building acts like a router\n\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2005-10-06T01:22:00.000Z",
+            "message": "Brian\nThe building might work, but it depends on the permissions.  We might not be able to locally connect to a dedicated server.  And we will have to have people bring  their own power cables however i prefer to not daisy chain.\n"
+        }
+    ]
+}

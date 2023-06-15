@@ -1,0 +1,221 @@
+[
+    {
+        "resourceName": "people/c4901830545702177176",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "4406cce909bcc998"
+                    }
+                },
+                "displayName": "Wolf-Dieter Otte",
+                "familyName": "Otte",
+                "givenName": "Wolf-Dieter",
+                "displayNameLastFirst": "Otte, Wolf-Dieter"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "4406cce909bcc998"
+                    }
+                },
+                "value": "+1-928-523-0876",
+                "canonicalForm": "+19285230876",
+                "type": "work",
+                "formattedType": "Work"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "30 Mutual Connections",
+                "You and Dieter both know Abe Pralle, Matthew Shanker, and 28 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Professor of Computer Science",
+                "Company Name",
+                "NAU"
+            ],
+            [
+                "Assiciated Professor of Computer Science",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "2002 – Present",
+                "Employment Duration",
+                "15 yrs"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,807 followers"
+            ],
+            [
+                "See connections (439)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,807 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,807 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Microsoft Office",
+                "See 2 endorsements for Microsoft Office",
+                "2",
+                "Microsoft Office",
+                "Endorse",
+                "Endorsed by Brayden Worrell, who is highly skilled at this",
+                "Endorsed by 3 of Dieter’s colleagues at Northern Arizona University"
+            ],
+            [
+                "Microsoft Office",
+                "See 2 endorsements for Microsoft Office",
+                "2"
+            ],
+            [
+                "Teaching",
+                "See 2 endorsements for Teaching",
+                "2",
+                "Teaching",
+                "Endorse",
+                "Endorsed by Carl Eberhard (mutual connection)",
+                "Endorsed by 4 of Dieter’s colleagues at Northern Arizona University"
+            ],
+            [
+                "Teaching",
+                "See 2 endorsements for Teaching",
+                "2"
+            ],
+            [
+                "Programming",
+                "See 2 endorsements for Programming",
+                "2",
+                "Programming",
+                "Endorse",
+                "Endorsed by Carl Eberhard (mutual connection)"
+            ],
+            [
+                "Programming",
+                "See 2 endorsements for Programming",
+                "2"
+            ],
+            [
+                "Java",
+                "See 1 endorsement for Java",
+                "1",
+                "Java",
+                "Endorse"
+            ],
+            [
+                "Java",
+                "See 1 endorsement for Java",
+                "1"
+            ],
+            [
+                "C",
+                "See 1 endorsement for C",
+                "1",
+                "C",
+                "Endorse"
+            ],
+            [
+                "C",
+                "See 1 endorsement for C",
+                "1"
+            ],
+            [
+                "Public Speaking",
+                "See 1 endorsement for Public Speaking",
+                "1",
+                "Public Speaking",
+                "Endorse"
+            ],
+            [
+                "Public Speaking",
+                "See 1 endorsement for Public Speaking",
+                "1"
+            ],
+            [
+                "Research",
+                "Research",
+                "Endorse"
+            ],
+            [
+                "Research"
+            ],
+            [
+                "C++",
+                "C++",
+                "Endorse"
+            ],
+            [
+                "C++"
+            ],
+            [
+                "Python",
+                "Python",
+                "Endorse"
+            ],
+            [
+                "Python"
+            ],
+            [
+                "Matlab",
+                "Matlab",
+                "Endorse"
+            ],
+            [
+                "Matlab"
+            ]
+        ],
+        "summary": "",
+        "name": "Dieter Otte",
+        "title": "Associate Professor of Computer Science at NAU",
+        "url": "linkedin.com/in/dieter-otte-4bb39115",
+        "phone": null,
+        "email": "dieter.otte@nau.edu"
+    }
+]

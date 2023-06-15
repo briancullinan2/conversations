@@ -1,0 +1,9 @@
+<session type="start" time="1203034527" medium="AIM" to="FJoe%20AZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1203034527" medium="AIM" to="bjcullinan" from="FJoe%20AZ" from_display="FJoe%20AZ" text="this%20u%3F"/>
+<message type="outgoing_privateMessage" time="1203034537" medium="AIM" to="FJoe%20AZ" from="bjcullinan" from_display="Brian%20Cullinan" text="yes"/>
+<icon time="1203034538" medium="AIM" from="FJoe%20AZ" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DFJoe%20AZ%2D1203034538%2Ejpg"/>
+<message type="information_standard" time="1203034542" medium="AIM" text="%22FJoe%20AZ%22%20signed%20on%20at%20Thu%20Feb%2014%2017%3A15%3A42%202008%2E"/>
+<message type="outgoing_privateMessage" time="1203034547" medium="AIM" to="FJoe%20AZ" from="bjcullinan" from_display="Brian%20Cullinan" text="what%20is%20your%20last%20name%3F"/>
+<message type="information_standard" time="1203034663" medium="AIM" text="%22Joe%20Flieger%22%20signed%20off%20at%20Thu%20Feb%2014%2017%3A17%3A43%202008%2E"/>
+<message type="information_standard" time="1203034677" medium="AIM" text="%22FJoe%20AZ%22%20signed%20on%20at%20Thu%20Feb%2014%2017%3A17%3A57%202008%2E"/>
+<session type="stop" time="1203035613" medium="AIM" to="FJoe%20AZ" from="bjcullinan"/>

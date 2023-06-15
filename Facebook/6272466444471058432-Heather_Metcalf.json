@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6272466444471058432/",
+    "participants": [
+        {
+            "name": "Heather Metcalf",
+            "title": "Director, Research and Analysis at Association for Women in Science",
+            "url": "linkedin.com/in/heathermetcalf",
+            "phone": "",
+            "email": "metcalf@awis.org"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-05-22T17:02:00.000Z",
+            "message": "How do I fix social issues with software? I am ready to go when you are!\n"
+        },
+        {
+            "from": "Heather Metcalf",
+            "time": "2017-05-22T17:43:00.000Z",
+            "message": "There are lots of things that you can do as a software designer to address social issues!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-22T19:33:00.000Z",
+            "message": "So what would you rather have, food and water for poor people in Africa or gender equality? Assuming you can only choose one.\n"
+        },
+        {
+            "from": "Heather Metcalf",
+            "time": "2017-05-22T20:05:00.000Z",
+            "message": "If there isn't gender equality or equity, which poor people in Africa do you think will get the food and water?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-24T03:06:00.000Z",
+            "message": "The ones with the ambition and strength to carry it and share it with their closest friends.\n"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "thread": "/messaging/thread/6202354937482010624/",
+    "participants": [
+        {
+            "name": "Matthew Doering",
+            "title": "Senior Consultant - Data Analytics at Navigant",
+            "url": "linkedin.com/in/matthewdoering",
+            "phone": "",
+            "email": "doeringm.uc@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-11-10T05:44:00.000Z",
+            "message": "Excellent to meet you tonight!\r\n\r\n\r\n- Brian Cullinan\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-11-10T05:45:00.000Z",
+            "message": "Thank you for connecting! Turns out the weebly thing was just a huge marketing plug. Food from Postino though.\n"
+        },
+        {
+            "from": "Matthew Doering",
+            "time": "2017-11-10T05:49:00.000Z",
+            "message": "No problem at all; it was great to meet you too tonight. I didn't realize this was going to be your first weebly event. Too bad it didn't turn out, but Postino may have been worth it! Are you into web development or databases more?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-11-10T05:56:00.000Z",
+            "message": "I like both. I suppose my database skills need improvement. I've only used stored procedures a little bit.\n"
+        },
+        {
+            "from": "Matthew Doering",
+            "time": "2017-11-10T06:05:00.000Z",
+            "message": "Creating or using stored procedures?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-11-10T06:19:00.000Z",
+            "message": "A little of both.\n"
+        },
+        {
+            "from": "Matthew Doering",
+            "time": "2017-11-10T06:30:00.000Z",
+            "message": "(Apparently you have to refresh the page with LinkedIn to see new messages.) At least you've written some sprocs. Usually they're not too different than anything else you'd write in SQL. You'll have to let me know how your call with CS goes. And we'll have to meet up for drinks or something sometime (I won't be at the meeting/holiday event next month due to traveling).\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-11-10T06:32:00.000Z",
+            "message": "I agree. I'd love to meet up again. Did you happen to apply through Judge Group?\n"
+        },
+        {
+            "from": "Matthew Doering",
+            "time": "2017-11-10T06:34:00.000Z",
+            "message": "I never even applied! One of their recruiters reached out to me. The first recruiter was Jacqueline (I don't remember the second recruiters' name).\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-11-10T06:35:00.000Z",
+            "message": "Hmm, just wondering which recruiters are worth time. Thank you. I am going to bed. Cheers!! :)\n"
+        },
+        {
+            "from": "Matthew Doering",
+            "time": "2017-11-10T06:40:00.000Z",
+            "message": "Jacqueline wasn't too bad. It was just the hiring manager I spoke with on the phone that wasn't worth my time. Have a good one!\n"
+        },
+        {
+            "from": "Matthew Doering",
+            "time": "2017-11-10T06:40:00.000Z",
+            "message": "Lance Redford - that's the guy I started talking with that kept putting me on hold and didn't seem like a database person. But he brought in Matt Cambel who did seem pretty legit and knew his stuff. (Glad I took notes and included names!)\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-11-10T06:41:00.000Z",
+            "message": "Oh good call. I'll check my event I wonder if it is the same.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-18T16:12:00.000Z",
+            "message": "Hey, how ya been?\n"
+        },
+        {
+            "from": "Matthew Doering",
+            "time": "2017-04-18T17:03:00.000Z",
+            "message": "Hey Brian. Not too bad. How about yourself?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-18T17:08:00.000Z",
+            "message": "Pretty great. Schwab was awful so I got a new job supporting small businesses at swiftpage.\n"
+        },
+        {
+            "from": "Matthew Doering",
+            "time": "2017-04-18T17:10:00.000Z",
+            "message": "Wow, that didn't take long! What was the worst part - the people, the processes, the technology...?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-18T17:17:00.000Z",
+            "message": "The project manager was a toad. Every day she annoyed me with \"did you get your HR training done?\" She was also a contractor and I didn't realize I was supposed to work with her not for her so I got bored and ran out of things to do. The hiring manager also told me I am not allowed to talk to anyone without going through her first. Some bullshit political play she an another lesbian were trying to create a whole new department just to cover this one little task. Everyone was super nice on a personal lever but no one was interested in talking about what they are working on. Information silos perpetuated by my own project manager. She said we would be using scrum but never held a sprint planning meeting. Because she was so cocky and impersonal I didn't realize I was supposed to help teach them Agile as well as use it on my own. Classic case of managers just managing. They laid me off because of my attitude, which is a perfect example of their self defeating cycle, it is easier to lay someone off than to have a talk with them. I should have reported the project manager to HR right after I started feeling negative towards her. One day she comes in to the stand up meeting and tells me \"don't ever have kids, they are downright stupid\" and has a personal conversation about her son. I like the personal conversation part but she never told me what she was doing and how I could help. I literally had zero guidance on their expectations and when they asked for advice on something I was completely ignored.\n"
+        },
+        {
+            "from": "Matthew Doering",
+            "time": "2017-04-18T17:21:00.000Z",
+            "message": "Yeah, that does seem pretty awful! At least you're out of there now. (Glad they never called me back, haha).\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-18T17:24:00.000Z",
+            "message": "Yeah. She told the recruiter if the job was intentionally so political I probably would have done well. But she doesn't have any idea what I am capable of because she never bothered to look or ask. One meeting she actually said we will probably need to hire a C# developer which was the position I applied for! Not fun when your manager tells you they have to hire someone else because she doesn't know what you do.\n"
+        },
+        {
+            "from": "Matthew Doering",
+            "time": "2017-04-18T17:26:00.000Z",
+            "message": "Oh wow, that is pretty bad. You should have just told her you'd apply for it - especially if it involved reporting to someone else.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-18T17:29:00.000Z",
+            "message": "Lol burn! good one!!\n"
+        },
+        {
+            "from": "Matthew Doering",
+            "time": "2017-04-18T17:33:00.000Z",
+            "message": "So are you (still) doing much with data and SQL? I haven't seen you around the SQL Server user group meetings in a while.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-27T21:10:00.000Z",
+            "message": "I am working hard. I just installed jupyter. Trying to get comfortable in this new position.\n"
+        }
+    ]
+}

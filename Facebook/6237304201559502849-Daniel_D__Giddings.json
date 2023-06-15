@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6237304201559502849/",
+    "participants": [
+        {
+            "name": "Daniel D. Giddings",
+            "title": "Scrum Master",
+            "url": "linkedin.com/in/daniel-d-giddings",
+            "phone": null,
+            "email": "dangiddings@hotmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-14T16:20:00.000Z",
+            "message": "Thank you for connecting! What do you think about people putting dollar $$ amounts on their sprints?\n"
+        },
+        {
+            "from": "Daniel D. Giddings",
+            "time": "2018-02-14T18:05:00.000Z",
+            "message": "There is always a labor cost associated with any iteration. If you're doing external work you'll need to cover those cost per sprint at a bare minimum. In Scrum you estimate work by size and complexity, get a baseline velocity of 3 sprints and than calculate the remaining backlog by that velocity. Once you understand those variables, billing per sprint can be feasible. Personally, I'd rather bill per project but that leads to arguments about what is it isn't an agile approach. Why do you ask?\n"
+        },
+        {
+            "from": "Daniel D. Giddings",
+            "time": "2018-02-14T18:05:00.000Z",
+            "message": "*what is or isn't an agile approach\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-14T18:59:00.000Z",
+            "message": "Just curious. Good insights. I found a comment from uncle Bob that talked about using monetary amounts.\n"
+        }
+    ]
+}

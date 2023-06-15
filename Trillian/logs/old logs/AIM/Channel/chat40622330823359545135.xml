@@ -1,0 +1,5 @@
+<session type="start" time="1122886239" medium="AIM" to="chat40622330823359545135" from="BrianJCullinan" location="chat40622330823359545135"/>
+<message type="incoming_groupMessage" time="1122886246" medium="AIM" from="Luvskittens02" location="chat40622330823359545135" text="hey"/>
+<message type="outgoing_groupMessage" time="1122886248" medium="AIM" from="Me" location="chat40622330823359545135" text="%2E%2E%2E"/>
+<message type="information_standard" time="1122886286" medium="AIM" location="chat40622330823359545135" text="Luvskittens02%20has%20left%20the%20chat%2E"/>
+<session type="stop" time="1122886684" medium="AIM" to="chat40622330823359545135" from="BrianJCullinan" location="chat40622330823359545135"/>

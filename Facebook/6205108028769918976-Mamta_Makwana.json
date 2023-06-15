@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6205108028769918976/",
+    "participants": [
+        {
+            "name": "Mamta Makwana",
+            "title": "Manager - Recruitment at Trinus Corporation",
+            "url": "linkedin.com/in/mamta-makwana-6ba20414",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Mamta Makwana",
+            "message": "Immediate long term position in Downey, CA for Wordpress developer / Admin\n\nDear Brian, \n\nGreetings!\n\nWe have an immediate long term position in Downey, CA for Wordpress developer / Admin: \n\n- Experience in working with multiple websites \n- Good experience in backend technologies\n- Experience with Drupal/ PHP 4.X\n- Skilled in website security technologies \n- Experience in cloud platforms like open shift and AWS \n\nPlease send profile to mamta_makwana@trinus.com \n\nThanks,\nMamta\n\nMamta Makwana\nmamta_makwana@Trinus.com\n",
+            "time": "2017-11-17T12:00:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Sorry WordPress isn't any fun.\n",
+            "time": "2017-11-17T20:11:00.000Z"
+        },
+        {
+            "from": "Mamta Makwana",
+            "message": "NP. Thanks for your quick response.\n",
+            "time": "2017-11-17T20:29:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Sure want to one up each other?\n",
+            "time": "2017-11-17T20:31:00.000Z"
+        }
+    ]
+}

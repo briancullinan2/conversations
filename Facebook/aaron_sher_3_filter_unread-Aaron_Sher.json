@@ -1,0 +1,42 @@
+{
+    "thread": "https://www.facebook.com/messages/t/aaron.sher.3?filter=unread",
+    "participants": [
+        {
+            "name": "Aaron Sher",
+            "description": "Studied Civil engineering at University of the Witwatersrand",
+            "url": "Went to Northview High School"
+        }
+    ],
+    "messages": [
+        {
+            "time": "2017-12-27T21:43:00.000Z",
+            "from": "Aaron",
+            "message": "Aaron\nHi Brian,   Hope all is well.  merry Xmas and happy New Year."
+        },
+        {
+            "time": "2017-12-27T21:43:00.000Z",
+            "from": "Aaron",
+            "message": "Aaron\nbarbara got scammed on her computer and called an 800 number posing as microsoft.  She gave them a credit card number for network protection services !!!!!   I cancelled the card immediately and went to the bank to change user names and passwords etc.   I do need to get her computer cleaned up though.  Do you have any recomendations for how to do this?  Any advice or help will be much appreciated."
+        },
+        {
+            "time": "2017-12-27T00:41:00.000Z",
+            "from": "Brian",
+            "message": "Brian\nYou should do a factory reset on her computer after copy her Documents folder.\nIts a good idea to wipe it entirely because they could have installed malicious software if she visited any links."
+        },
+        {
+            "time": "2017-12-27T00:41:00.000Z",
+            "from": "Brian",
+            "message": "Brian\nReporting your card should be sufficient as far as identity protection goes, but I would write down exactly what information she gave up as they might be able to reconstruct her social security number given a date of birth, and city.  Hospitals use to use a specific system for births, and there's a way to look it up."
+        },
+        {
+            "time": "2017-12-27T00:41:00.000Z",
+            "from": "Aaron",
+            "message": "Aaron\nThanks Brian.   I was panicking and called steve.  He said the same thing.  I am unsure how to reload  windows though."
+        },
+        {
+            "time": "2017-12-27T00:41:00.000Z",
+            "from": "Aaron",
+            "message": "Aaron\nBrian, it's stupid Barbara! Tkx for helping. I gave them no info but did put my credit card in. That's been cancelled. I don't know what they did behind the scenes. If we end up not feeling comfortable doing this ourselves we'd like to hire you rather than data drs!"
+        }
+    ]
+}

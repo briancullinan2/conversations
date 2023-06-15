@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6235522471580225537/",
+    "participants": [
+        {
+            "name": "Alicia Isaacson",
+            "title": "IT Technical Recruiter at MDI Group",
+            "url": "linkedin.com/in/alicia-isaacson",
+            "phone": null,
+            "email": "aisaacson@mdigroup.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Alicia Isaacson",
+            "time": "2018-02-09T12:00:00.000Z",
+            "message": "Hello\n\nHi Brian, \n\nI'm currently seeking a Java Developer for my client in Phoenix. Must be a US Citizen or Green Card holder. No C2C. This is a direct hire position. \n\nThey are looking for someone with the following:\n\nMinimum 3 years of hands-one Software Development experience\n2+ years of experience in Java development\nDemonstrable, proven expertise in Object-Oriented Analysis, Design, and Implementation, and with applied experience using Design Patterns\nIntermediate knowledge of Relational Databases, SQL and ORM technologies\nExperience in the Spring Framework\nExperience in developing web applications using at least one popular web framework (Struts, Spring MVC)\nExperience with test-driven development\nExperience with Apache/Tomcat/MySQL\nExperience in Agile/Scrum software development methodologies\nExperience with the following open-source project, Ant, JUnit, Log4J, Jakarta Commons\n\nIf your interested, please send me an email.\n\nThanks for your time and enjoy the rest of your day.\n\nAlicia Isaacson\naisaacson@mdigroup.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-13T13:52:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

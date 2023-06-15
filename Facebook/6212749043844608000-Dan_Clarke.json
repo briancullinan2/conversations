@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6212749043844608000/",
+    "participants": [
+        {
+            "name": "Dan Clarke",
+            "title": "Chief Executive Officer at Small Box Energy",
+            "url": "linkedin.com/in/danclarke",
+            "phone": null,
+            "email": "danclarke42@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-08T22:07:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I love ee and microcontrollers. What are you working on?\n",
+            "time": "2017-12-08T22:07:00.000Z"
+        }
+    ]
+}

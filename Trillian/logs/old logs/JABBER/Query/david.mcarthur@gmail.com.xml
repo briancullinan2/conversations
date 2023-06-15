@@ -1,0 +1,14 @@
+<session type="Start" time="1179382725" medium="JABBER" from="bjcullinan@gmail.com" to="david.mcarthur@gmail.com"/>
+<session type="start" time="1179382727" medium="JABBER" to="david%2Emcarthur%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1179382728" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="david%2Emcarthur%40gmail%2Ecom" from_display="David%20McArthur" text="hahahahahhaha"/>
+<message type="outgoing_privateMessage" time="1179382736" medium="JABBER" to="david%2Emcarthur%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="%3A%2DD"/>
+<message type="outgoing_privateMessage" time="1179382764" medium="JABBER" to="david%2Emcarthur%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="teh%20scam%2C%20to%20break%20them%20up"/>
+<session type="stop" time="1179382796" medium="JABBER" to="david%2Emcarthur%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1179382856" medium="JABBER" to="david%2Emcarthur%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1179382856" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="david%2Emcarthur%40gmail%2Ecom" from_display="David%20McArthur" text="ohgod"/>
+<message type="incoming_privateMessage" time="1179382886" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="david%2Emcarthur%40gmail%2Ecom" from_display="David%20McArthur" text="did%20you%20put%20the%20wpa%20key%20in"/>
+<message type="outgoing_privateMessage" time="1179382901" medium="JABBER" to="david%2Emcarthur%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="yeah%20i%20forgot%20it%20though"/>
+<message type="incoming_privateMessage" time="1179383262" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="david%2Emcarthur%40gmail%2Ecom" from_display="David%20McArthur" text="linux"/>
+<message type="information_standard" time="1179383267" medium="JABBER" text="Auto%2Dreply%20sent%20to%20David%20McArthur%3A%20I%20am%20currently%20idle%2E"/>
+<message type="information_standard" time="1179383413" medium="JABBER" text="Disconnected%20from%20server%2E"/>
+<status type="Offline" time="1179383413" medium="JABBER" from="david%2Emcarthur%40gmail%2Ecom"/>

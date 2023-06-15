@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6214563154546999296/",
+    "participants": [
+        {
+            "name": "Matthew Wyant",
+            "title": "IT Administration and Engineering",
+            "url": "linkedin.com/in/matthewdwyant",
+            "phone": "208-914-3175 (Mobile)",
+            "email": "me@mattwyant.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-13T22:15:00.000Z"
+        }
+    ]
+}

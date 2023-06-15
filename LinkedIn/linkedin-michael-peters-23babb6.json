@@ -1,0 +1,294 @@
+[
+    {
+        "resourceName": "people/c5779287504560820322",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMOE9lQWkrWkNjYms9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "116643168796876291435"
+                    }
+                },
+                "displayName": "michael peters",
+                "familyName": "peters",
+                "givenName": "michael",
+                "displayNameLastFirst": "peters, michael"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "5034275d8c339062"
+                    }
+                },
+                "value": "micpete@gmail.com"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "IT/GIS Consultant",
+                "Company Name",
+                "Self-Employed",
+                "Dates Employed",
+                "Nov 2012 – Present",
+                "Employment Duration",
+                "5 yrs 1 mo",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Creating custom software tools and advising clients on technology solutions."
+            ],
+            [
+                "Assistant Programmer",
+                "Company Name",
+                "Merriam-Powell Center",
+                "Dates Employed",
+                "Oct 2003 – Oct 2012",
+                "Employment Duration",
+                "9 yrs 1 mo",
+                "Location",
+                "Flagstaff, Arizona Area",
+                "Provide scientists with computing expertise for difficult technical challenges involving very large (>10 GB) datasets. Modify existing applications or create new ones to enable data handling and analysis.  Automate processes to eliminate repetitious tasks and/or increase efficiency.  Create UI’s for easier access by non-technical users. Selected projects:  Wrote a software package to  a) calculate statistical properties of large volumes of raster data b) allow non-programmers to calculate custom datasets c) enable batch processing with external scripts, resulting in significant time-savings. Investigated new avenues for visualizing landscape-level datasets  - Prototyped a Flex/Actionscript-based 2D display engine that dynamically reconfigures itself according to user-requested data, allowing users to compare and contrast the behavior of climate-based models across multiple time-scales.  Automated a variety of low-complexity computing tasks - eliminated manual copy and paste operations; allowed resetting of various visual attributes of raster/vector data in ArcMap projects containing hundreds of layers; updated shapefile attribute tables where the Field calculator did not offer the necessary functionality."
+            ],
+            [
+                "Teacher's Assistant",
+                "Company Name",
+                "Palo Verde Middle School",
+                "Dates Employed",
+                "Aug 2001 – Oct 2003",
+                "Employment Duration",
+                "2 yrs 3 mos",
+                "Oversaw the school's computer lab and served as a librarian's assistant"
+            ],
+            [
+                ".",
+                "Company Name",
+                "Self-Employed",
+                "Dates Employed",
+                "Jul 2000 – Oct 2000",
+                "Employment Duration",
+                "4 mos",
+                "Performed various computer-related services for individuals and schools"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University, College of Business Administration",
+                "Degree Name",
+                "Database Systems Certificate",
+                "Field Of Study",
+                "Database Design / Implementation"
+            ],
+            [
+                "Northern Arizona University, College of Business Administration",
+                "Degree Name",
+                "Database Systems Certificate",
+                "Field Of Study",
+                "Database Design / Implementation"
+            ],
+            [
+                "ESRI",
+                "Certification - Introduction to ArcGIS I"
+            ],
+            [
+                "ESRI",
+                "Certification - Introduction to ArcGIS I"
+            ],
+            [
+                "University of Phoenix",
+                "Degree Name",
+                "Certified C Programmer"
+            ],
+            [
+                "University of Phoenix",
+                "Degree Name",
+                "Certified C Programmer"
+            ],
+            [
+                "Arizona State University",
+                "Field Of Study",
+                "Electrical Engineering",
+                "Coursework toward B.S. degree Electrical Engineering"
+            ],
+            [
+                "Arizona State University",
+                "Field Of Study",
+                "Electrical Engineering",
+                "Coursework toward B.S. degree Electrical Engineering"
+            ],
+            [
+                "University of Arizona",
+                "Coursework towards Bachelors Degree Fine Arts"
+            ],
+            [
+                "University of Arizona",
+                "Coursework towards Bachelors Degree Fine Arts"
+            ],
+            [
+                "Glendale Community College",
+                "Coursework - Fine Arts  curriculum"
+            ],
+            [
+                "Glendale Community College",
+                "Coursework - Fine Arts  curriculum"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See 5 more skills"
+            ],
+            "Recommendations",
+            [
+                "Northern Arizona University",
+                "101,453 followers"
+            ],
+            [
+                "Hyland",
+                "22,873 followers"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "6,300 followers"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "5,916 followers"
+            ],
+            [
+                "University of Phoenix",
+                "841,288 followers"
+            ],
+            [
+                "University of Arizona",
+                "229,787 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (22)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Northern Arizona University",
+                "101,453 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "101,453 followers"
+            ],
+            [
+                "Hyland",
+                "22,873 followers"
+            ],
+            [
+                "Hyland",
+                "22,873 followers"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "6,300 followers"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "6,300 followers"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "5,916 followers"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "5,916 followers"
+            ],
+            [
+                "University of Phoenix",
+                "841,288 followers"
+            ],
+            [
+                "University of Phoenix",
+                "841,288 followers"
+            ],
+            [
+                "University of Arizona",
+                "229,787 followers"
+            ],
+            [
+                "University of Arizona",
+                "229,787 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Access",
+                "See 2 endorsements for Access",
+                "2",
+                "Access",
+                "Endorse",
+                "Darin Wagner and 1 connection have given endorsements for this skill"
+            ],
+            [
+                "Access",
+                "See 2 endorsements for Access",
+                "2"
+            ],
+            [
+                "Analysis",
+                "See 1 endorsement for Analysis",
+                "1",
+                "Analysis",
+                "Endorse",
+                "Chris Rennaker has given an endorsement for this skill"
+            ],
+            [
+                "Analysis",
+                "See 1 endorsement for Analysis",
+                "1"
+            ],
+            [
+                "SQL",
+                "See 2 endorsements for SQL",
+                "2",
+                "SQL",
+                "Endorse",
+                "Chris Rennaker and 1 connection have given endorsements for this skill"
+            ],
+            [
+                "SQL",
+                "See 2 endorsements for SQL",
+                "2"
+            ]
+        ],
+        "summary": "    Skilled programmer with expertise in acquiring, synthesizing and then deriving new products from large datasets (>10 GB), creating customized code to handle data requests, identifying and implementing new visualization tools, and automating repetitive, low-complexity computing tasks, seeking contract work as an analyst/developer.\n  \n  \n",
+        "name": "Michael Peters",
+        "title": "Programmer / GIS Consultant",
+        "url": "linkedin.com/in/michael-peters-23babb6",
+        "phone": "",
+        "email": "micpete@gmail.com"
+    }
+]

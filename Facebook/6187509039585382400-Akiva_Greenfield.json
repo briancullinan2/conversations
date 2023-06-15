@@ -1,0 +1,64 @@
+{
+    "thread": "/messaging/thread/6187509039585382400/",
+    "participants": [
+        {
+            "name": "Akiva Greenfield",
+            "title": "CEO at Nexus Healthcare Solutions",
+            "url": "linkedin.com/in/akiva-greenfield-1a40595",
+            "phone": null,
+            "email": "akiva@nexushs.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "I for laid off so I'll message you like every five minutes ;)\n",
+            "time": "2016-09-30T06:31:00.000Z"
+        },
+        {
+            "from": "Akiva Greenfield",
+            "message": "Hey bud\n",
+            "time": "2016-10-11T18:24:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Hey dude. How are you?\n",
+            "time": "2016-10-11T18:33:00.000Z"
+        },
+        {
+            "from": "Akiva Greenfield",
+            "message": "Hey buddy\n",
+            "time": "2017-11-29T16:25:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Hey, how are you?\n",
+            "time": "2017-11-29T16:35:00.000Z"
+        },
+        {
+            "from": "Akiva Greenfield",
+            "message": "I'm doing well. How is the work search coming along?\n",
+            "time": "2017-11-29T17:00:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Took a job at Charles Schwab.\n",
+            "time": "2017-11-29T17:02:00.000Z"
+        },
+        {
+            "from": "Akiva Greenfield",
+            "message": "Cool! What you doing there?\n",
+            "time": "2017-11-29T17:14:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Something with access management. I just started yesterday.\n",
+            "time": "2017-11-29T17:16:00.000Z"
+        },
+        {
+            "from": "Akiva Greenfield",
+            "message": "That's great!!\n",
+            "time": "2017-11-29T17:21:00.000Z"
+        }
+    ]
+}

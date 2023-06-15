@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6240528043471888384/",
+    "participants": [
+        {
+            "name": "Brandon Trujillo",
+            "title": "Data Scientist at Wells Fargo",
+            "url": "linkedin.com/in/brandontrujillo",
+            "phone": null,
+            "email": "brandont@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-23T13:50:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

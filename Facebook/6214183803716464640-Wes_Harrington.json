@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6214183803716464640/",
+    "participants": [
+        {
+            "name": "Wes Harrington",
+            "title": "CEO Bed DRS USA, LLC and CEO NewSleep LLC",
+            "url": "linkedin.com/in/wesharrington",
+            "phone": "4802364905 (Mobile)",
+            "email": "wes.harrington@beddrs.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-12-12T21:07:00.000Z"
+        },
+        {
+            "from": "Wes Harrington",
+            "message": "No problem. Thank you.",
+            "time": "2017-10-21T22:57:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "How do you keep up with new technology?",
+            "time": "2017-10-21T23:45:00.000Z"
+        },
+        {
+            "from": "Wes Harrington",
+            "message": "That's a long question. The short answer is I have help writing blogs from LinkedIn that goes to my \nbeddrs.com",
+            "time": "2017-12-13T00:26:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I heard that as an interview question recently. Short answer, reproduce and educate. Long answer, pick any favorite sci Fi and it's only the good parts.",
+            "time": "2017-10-21T00:41:00.000Z"
+        },
+        {
+            "from": "Wes Harrington",
+            "message": "",
+            "time": "2017-10-21T00:53:00.000Z"
+        }
+    ]
+}

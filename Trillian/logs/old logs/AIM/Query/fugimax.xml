@@ -1,0 +1,403 @@
+<session type="start" time="1120198024" medium="AIM" to="fugimax" from="BrianJCullinan"/>
+<message type="outgoing_privateMessage" time="1120198034" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="hello"/>
+<message type="outgoing_privateMessage" time="1120198051" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="is%20this%20the%20fugimax%20that%20owns%20this%20site%20%3Ca%20href%3D%22http%3A%2F%2Fwww%2Ebase2%2Eorg%2F%7Efugimax%2Fweblog%2F%22%3Ehttp%3A%2F%2Fwww%2Ebase2%2Eorg%2F%7Efugimax%2Fweblog%2F%3C%2Fa%3E"/>
+<message type="outgoing_privateMessage" time="1120198057" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="%3F"/>
+<message type="outgoing_privateMessage" time="1120198245" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="if%20so%20i%20need%20your%20help"/>
+<message type="incoming_privateMessage" time="1120198246" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="yup"/>
+<message type="outgoing_privateMessage" time="1120198263" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="wonderful%2C%20what%20luck%20you%20would%20use%20the%20same%20alias%20in%20AIM"/>
+<message type="outgoing_privateMessage" time="1120198278" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="i%20am%20having%20problems%20with%20my%20webportal"/>
+<message type="incoming_privateMessage" time="1120198285" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="ok"/>
+<message type="outgoing_privateMessage" time="1120198289" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="i%27ve%20tried%20everything%20and%20then%20some"/>
+<message type="outgoing_privateMessage" time="1120198297" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="%3Ca%20href%3D%22http%3A%2F%2F24%2E251%2E168%2E143%2Fwipeout%2Findex%2Ehtml%22%3Ehttp%3A%2F%2F24%2E251%2E168%2E143%2Fwipeout%2Findex%2Ehtml%3C%2Fa%3E"/>
+<message type="outgoing_privateMessage" time="1120198335" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="i%20have%20my%20DNS%20set%20up%20and%20the%20proper%20ports%20forwarded%20with%20my%20router%20and%20it%20still%20doesn%27t%20work%2E%2E%2E"/>
+<message type="incoming_privateMessage" time="1120198352" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="you%20have%20port%2080%20forwarded%20to%20your%20web%20server%3F"/>
+<message type="outgoing_privateMessage" time="1120198361" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="yes"/>
+<message type="outgoing_privateMessage" time="1120198396" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="and%20the%20DNS%20is%20port%2053"/>
+<message type="incoming_privateMessage" time="1120198405" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="your%20forwarding%20TCP%20via%20port%2080%3F"/>
+<message type="outgoing_privateMessage" time="1120198425" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="i%20did%20both%20TCP%20and%20UDP"/>
+<message type="outgoing_privateMessage" time="1120198449" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="hey%20i%20got%20an%20idea"/>
+<message type="outgoing_privateMessage" time="1120198456" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="send%20me%20your%20DNS%20settings"/>
+<message type="outgoing_privateMessage" time="1120198461" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="maybe%20there%20is%20something%20wrong%20there"/>
+<message type="incoming_privateMessage" time="1120198511" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="no%2C%20if%20I%20can%27t%20access%20that%20page%20you%20sent%20me%2C%20your%20web%20is%20messed%20up%20too"/>
+<message type="outgoing_privateMessage" time="1120198519" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="huh%3F"/>
+<message type="incoming_privateMessage" time="1120198520" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="since%20that%20doesn%27t%20use%20any%20DNS"/>
+<message type="outgoing_privateMessage" time="1120198525" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="it%20doesn%27t%20work%3F"/>
+<message type="incoming_privateMessage" time="1120198528" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="nope"/>
+<message type="outgoing_privateMessage" time="1120198548" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="%3Ca%20href%3D%22http%3A%2F%2F24%2E251%2E168%2E143%2F%22%3Ehttp%3A%2F%2F24%2E251%2E168%2E143%2F%3C%2Fa%3E"/>
+<message type="outgoing_privateMessage" time="1120198552" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="does%20that%20one%3F"/>
+<message type="incoming_privateMessage" time="1120198558" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="nope%2C%20can%27t%20connect"/>
+<message type="outgoing_privateMessage" time="1120198576" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="%3Ca%20href%3D%22http%3A%2F%2F24%2E251%2E168%2E143%3A80%2F%22%3Ehttp%3A%2F%2F24%2E251%2E168%2E143%3A80%2F%3C%2Fa%3E%3Ca%20href%3D%22http%3A%2F%2F24%2E251%2E168%2E143%3A80%2F%22%3E%3C%2Fa%3E%3Ca%20href%3D%22http%3A%2F%2F24%2E251%2E168%2E143%2F%22%3E%3C%2Fa%3E"/>
+<message type="outgoing_privateMessage" time="1120198584" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="%2E%2E%2E%20that%20doesn%27t%20make%20sense"/>
+<message type="incoming_privateMessage" time="1120198589" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="one%20sec"/>
+<message type="incoming_privateMessage" time="1120198595" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="my%20router%20is%20being%20weird%20tonight%2C%20lemme%20check%20something"/>
+<message type="incoming_privateMessage" time="1120198638" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="brb"/>
+<message type="outgoing_privateMessage" time="1120198643" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="ok"/>
+<message type="outgoing_privateMessage" time="1120198688" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="no%20its%20me"/>
+<message type="outgoing_privateMessage" time="1120198690" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="not%20you"/>
+<message type="incoming_privateMessage" time="1120198714" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="ok%2C%20no%2C%20i%20can%27t%20connect"/>
+<message type="outgoing_privateMessage" time="1120198746" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="i%20think%20my%20ISP%20blocks%20it"/>
+<message type="incoming_privateMessage" time="1120198762" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="ah%2E%2E%2Etry%20using%20another%20port"/>
+<message type="outgoing_privateMessage" time="1120198763" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="%3Ca%20href%3D%22http%3A%2F%2F24%2E251%2E168%2E143%3A8080%2Fwipeout%2Findex%2Ehtml%22%3Ehttp%3A%2F%2F24%2E251%2E168%2E143%3A8080%2Fwipeout%2Findex%2Ehtml%3C%2Fa%3E"/>
+<message type="outgoing_privateMessage" time="1120198766" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="try%20that"/>
+<message type="incoming_privateMessage" time="1120198775" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="yup%2C%20that%20works"/>
+<message type="outgoing_privateMessage" time="1120198777" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="ok"/>
+<message type="outgoing_privateMessage" time="1120198780" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="next%20step"/>
+<message type="outgoing_privateMessage" time="1120198797" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="the%20DNS%20settings%20are%20probably%20wrong%20on%20my%20end"/>
+<message type="incoming_privateMessage" time="1120198852" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="only%20problem%20there%20is%20the%20PSP%20makes%20the%20request%20via%20port%2080%2E%2E%2EI%27m%20not%20sure%20you%20can%20tell%20it%20otherwise"/>
+<message type="incoming_privateMessage" time="1120198861" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="unless%20you%20don%27t%20care%20about%20accessing%20it%20from%20anywhere%20but%20home"/>
+<message type="outgoing_privateMessage" time="1120198861" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="yeah"/>
+<message type="outgoing_privateMessage" time="1120198870" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="that%20would%20be%20a%20problem"/>
+<message type="outgoing_privateMessage" time="1120198877" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="stupid%20ISP%20filtering%21"/>
+<message type="incoming_privateMessage" time="1120198925" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="Ya%2C%20I%20think%20you%27re%20pretty%20much%20screwed%20there"/>
+<message type="outgoing_privateMessage" time="1120198940" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="%2E%2E%2E%20yeah"/>
+<message type="outgoing_privateMessage" time="1120198957" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="oh%20well"/>
+<message type="outgoing_privateMessage" time="1120198966" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="i%20guess%20i%20will%20just%20have%20to%20fester%20off%20of%20someone%20elses"/>
+<message type="outgoing_privateMessage" time="1120198979" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="maybe%20someone%20that%20has%20it%20set%20up%20could%20offer%20personalized%20pages"/>
+<message type="outgoing_privateMessage" time="1120198990" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="where%20you%20would%20sign%20up%20and%20get%20like%201%20page%20to%20put%20links%20on"/>
+<message type="outgoing_privateMessage" time="1120198994" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="that%20would%20be%20cool"/>
+<message type="outgoing_privateMessage" time="1120199016" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="probably%20not%20to%20hard%20to%20do%20in%20PHP"/>
+<message type="incoming_privateMessage" time="1120199026" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="Ya%2C%20I%20was%20going%20to%20do%20all%20that%2C%20but%20it%27s%20a%20decent%20amount%20of%20work%20when%20most%20people%20don%27t%20care%20and%20Sony%20will%20release%20a%20web%20browser%20here%20eventually"/>
+<message type="outgoing_privateMessage" time="1120199036" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="and%20it%20would%20provoke%20more%20people%20to%20donate%20so%20you%20can%20buy%20your%2010k%20drive"/>
+<message type="outgoing_privateMessage" time="1120199057" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="yeah"/>
+<message type="outgoing_privateMessage" time="1120199060" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="sony%20is%20taking%20their%20time"/>
+<message type="outgoing_privateMessage" time="1120199066" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="proprietary%20bastards"/>
+<message type="outgoing_privateMessage" time="1120199073" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="have%20you%20tried%20the%20memory%20stick%20hack%3F"/>
+<message type="incoming_privateMessage" time="1120199104" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="Nah%2E%2E%2EI%20actually%20haven%27t%20touched%20my%20PSP%20in%20about%202%20months%2E%2E%2Ebeen%20busy%20or%20playing%20DS%20instead"/>
+<message type="outgoing_privateMessage" time="1120199112" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="lol"/>
+<message type="outgoing_privateMessage" time="1120199114" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="good%20stuff"/>
+<message type="outgoing_privateMessage" time="1120199124" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="i%20can%27t%20afford%20to%20buy%20anything%20else"/>
+<message type="outgoing_privateMessage" time="1120199269" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="can%20i%20specify%20a%20port%20for%20the%20DNS%20server%20to%20forward%20to%3F"/>
+<message type="outgoing_privateMessage" time="1120199292" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="like%20if%20a%20request%20comes%20in%20on%20port%2080%20can%20i%20send%20it%20to%20port%208080%3F"/>
+<message type="incoming_privateMessage" time="1120199339" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="i%20thought%20about%20that%2C%20but%20I%20don%27t%20think%20so"/>
+<message type="incoming_privateMessage" time="1120199357" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="you%20may%20want%20to%20check%20google%20though"/>
+<message type="outgoing_privateMessage" time="1120199367" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="yeah"/>
+<message type="outgoing_privateMessage" time="1120199448" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="i%20guess%20i%20could%20do%20it%20through%20the%20proxy%20tutorial"/>
+<message type="incoming_privateMessage" time="1120199461" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="ah%2C%20right"/>
+<message type="outgoing_privateMessage" time="1120201423" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="this%20is%20cool"/>
+<message type="incoming_privateMessage" time="1120201429" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="hmm%3F"/>
+<message type="outgoing_privateMessage" time="1120201433" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="i%20got%20the%20private%20proxy%20set%20up"/>
+<icon time="1120201434" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1120201434%2Ejpg"/>
+<message type="outgoing_privateMessage" time="1120201441" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="and%20i%20can%20see%20what%20i%20am%20using%20on%20it"/>
+<message type="outgoing_privateMessage" time="1120201451" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="it%20shows%20everything%20my%20PSP%20is%20loading"/>
+<message type="outgoing_privateMessage" time="1120201475" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="but%2E%2E%2E%20%20i%20still%20can%27t%20get%20it%20to%20change%20the%20page%20to%20my%20customized%20page"/>
+<message type="incoming_privateMessage" time="1120201475" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="cool"/>
+<message type="incoming_privateMessage" time="1120201481" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="hrm"/>
+<message type="outgoing_privateMessage" time="1120201484" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="something%20is%20wrong%20with%20my%20DNS"/>
+<message type="incoming_privateMessage" time="1120201486" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="what%20dns%20server%20are%20you%20using%3F"/>
+<message type="outgoing_privateMessage" time="1120201492" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="the%20Treewalk"/>
+<message type="outgoing_privateMessage" time="1120201494" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="you%3F"/>
+<message type="incoming_privateMessage" time="1120201501" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="BIND"/>
+<message type="outgoing_privateMessage" time="1120201506" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="ok"/>
+<message type="outgoing_privateMessage" time="1120201519" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="let%20me%20install%20that%2C%20then%20i%20want%20some%20configs%21"/>
+<message type="outgoing_privateMessage" time="1120201522" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="lol"/>
+<message type="incoming_privateMessage" time="1120201526" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="try%20setting%20the%20primary%20DNS%20on%20your%20router%20to%20your%20dns%20server"/>
+<message type="incoming_privateMessage" time="1120201529" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="and%20see%20what%20happens"/>
+<message type="incoming_privateMessage" time="1120201539" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="er%2C%20treewalk%20and%20bind%20use%20the%20same%20configs"/>
+<message type="incoming_privateMessage" time="1120201550" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="and%20bind%20is%20usually%20unix"/>
+<message type="incoming_privateMessage" time="1120201553" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="treewalk%20should%20work%20fine"/>
+<message type="outgoing_privateMessage" time="1120201554" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="oh"/>
+<message type="outgoing_privateMessage" time="1120201570" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="so%20can%20i%20take%20a%20look%20at%20your%20config%20maybe%20something%20is%20wrong%20with%20mine"/>
+<message type="outgoing_privateMessage" time="1120201608" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="just%20the%20config%20for%20your%20scea%20forward"/>
+<message type="incoming_privateMessage" time="1120201617" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="It%27s%20pretty%20much%20the%20same%20as%20the%20one%20at%20the%20tutorial%20you%27re%20reading"/>
+<message type="outgoing_privateMessage" time="1120201639" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="but%20for%20the%20address%20it%20forwards%20it%20to"/>
+<message type="outgoing_privateMessage" time="1120201660" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="are%20you%20forwarding%20to%20your%20private%20IP%20or%20the%20IP%20your%20ISP%20assigns%20you%3F"/>
+<message type="incoming_privateMessage" time="1120201704" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="you%20should%20have%20ingame%20and%20webcluster%20pointing%20at%20you%20ISP%2Dgiven%20IP%2E%2E%2Eif%20you%20want%20to%20use%20it%20from%20somewhere%20rather%20than%20home%20%28or%20let%20others%20use%20it%29"/>
+<message type="outgoing_privateMessage" time="1120201741" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="yeah%20something%20is%20wrong%20with%20mine"/>
+<message type="incoming_privateMessage" time="1120201758" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="paste%20it"/>
+<message type="incoming_privateMessage" time="1120201762" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="your%20scea%2Ezone"/>
+<message type="outgoing_privateMessage" time="1120201768" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="%3B%20BIND%20db%20file%20for%20scea%2Ecom%20%0A%20%20%0A%20%24TTL%2086400%20%0A%20%20%0A%20%40%20%20%20%20%20%20%20IN%20%20%20%20%20%20SOA%20%20%20%20%20scea%2Ecom%20%20%20%20%20%20ingame%2Escea%2Ecom%2E%20%28%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%202005040201%20%20%20%20%3B%20serial%20number%20YYMMDDNN%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2028800%20%20%20%20%20%20%20%20%20%20%20%3B%20Refresh%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%207200%20%20%20%20%20%20%20%20%20%20%20%20%3B%20Retry%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20864000%20%20%20%20%20%20%20%20%20%20%3B%20Expire%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2086400%20%20%20%20%20%20%20%20%20%20%20%3B%20Min%20TTL%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%29%20%0A%20%20%0A%20%3BThis%20should%20cover%20ALL%20bases%3A%20%0A%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NS%20%20%20192%2E168%2E0%2E106%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20%20%20%20192%2E168%2E0%2E106%20%0A%20ingame%20%20%20%20%20%20%20%20A%20%20%20%20192%2E168%2E0%2E106%20%0A%20webcluster%20%20%20%20A%20%20%20%20192%2E168%2E0%2E106%20%0A%20%20%0A%20%20%0A%20%24ORIGIN%20scea%2Ecom%2E"/>
+<message type="incoming_privateMessage" time="1120201796" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="ok%2C%20first%20change%20%40%20%20%20%20%20%20%20IN%20%20%20%20%20%20SOA%20%20%20%20%20%3Ca%20href%3D%22http%3A%2F%2Fscea%2Ecom%22%3Escea%2Ecom%3C%2Fa%3E%20%20%20%20%20%20%3Ca%20href%3D%22http%3A%2F%2Fingame%2Escea%2Ecom%22%3Eingame%2Escea%2Ecom%3C%2Fa%3E%2E%20%28%20"/>
+<message type="incoming_privateMessage" time="1120201803" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="to%20%3Ca%20href%3D%22http%3A%2F%2Ffake%2Escea%2Ecom%22%3Efake%2Escea%2Ecom%3C%2Fa%3E%20or%20%3Ca%20href%3D%22http%3A%2F%2Fdummy%2Escea%2Ecom%22%3Edummy%2Escea%2Ecom%3C%2Fa%3E"/>
+<message type="incoming_privateMessage" time="1120201809" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="the%20%3Ca%20href%3D%22http%3A%2F%2Fingame%2Escea%2Ecom%22%3Eingame%2Escea%2Ecom%3C%2Fa%3E%20thing"/>
+<message type="outgoing_privateMessage" time="1120201822" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="ok"/>
+<message type="outgoing_privateMessage" time="1120201831" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="do%20i%20keep%20the%20%2E%20at%20the%20end%3F"/>
+<message type="incoming_privateMessage" time="1120201837" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="ya%2C%20sorry"/>
+<message type="outgoing_privateMessage" time="1120201841" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="ok%20got%20it"/>
+<message type="incoming_privateMessage" time="1120201848" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="and%20you%27ve%20added%20the%20zone%20to%20named%2Econf%20%3F"/>
+<message type="outgoing_privateMessage" time="1120201854" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="yes"/>
+<message type="incoming_privateMessage" time="1120201888" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="try%20reloading%20the%20dns%20server%20and%20see%20if%20that%20changes%20anything"/>
+<message type="outgoing_privateMessage" time="1120201904" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="i%20did"/>
+<message type="outgoing_privateMessage" time="1120201986" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="wait%20can%27t%20this%20proxy%20server%20forward%20page%20request%3F"/>
+<message type="incoming_privateMessage" time="1120202083" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="sorry%3F"/>
+<message type="outgoing_privateMessage" time="1120202095" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="it%20comes%20with%20a%20content%20filter"/>
+<message type="incoming_privateMessage" time="1120202119" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="Are%20you%20following%20the%20tutorial%20by%20roto%20and%20using%20Privoxy%3F%20%20It%20should%20work%20OK%2E%2E"/>
+<message type="incoming_privateMessage" time="1120202125" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="did%20you%20change%20the%20settings%20on%20your%20PSP%3F"/>
+<message type="outgoing_privateMessage" time="1120202126" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="yes"/>
+<message type="outgoing_privateMessage" time="1120202129" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="yes"/>
+<message type="outgoing_privateMessage" time="1120202149" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="it%20must%20still%20be%20my%20ISP%20blocking%20port%2080"/>
+<message type="outgoing_privateMessage" time="1120202161" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="because%20the%20port%20for%20the%20site%20never%20changes"/>
+<message type="incoming_privateMessage" time="1120202188" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="not%20if%20you%20entered%208080%20on%20the%20PSP%20as%20the%20proxy%20port%2E%2E"/>
+<message type="outgoing_privateMessage" time="1120202197" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="yeah"/>
+<message type="outgoing_privateMessage" time="1120202199" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="i%20did%20that"/>
+<message type="incoming_privateMessage" time="1120202201" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="it%27s%20making%20all%20requests%20via%20proxy%20on%208080"/>
+<message type="outgoing_privateMessage" time="1120202206" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="it%20doesn%27t%20make%20sense"/>
+<message type="incoming_privateMessage" time="1120202209" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="all%20that%20other%20stuff%20is%20internal"/>
+<message type="outgoing_privateMessage" time="1120202215" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="yeah"/>
+<message type="incoming_privateMessage" time="1120202217" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="you%20changed%20your%20webserver%20back%20to%2080%2C%20yes%3F"/>
+<message type="outgoing_privateMessage" time="1120202221" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="yes"/>
+<message type="incoming_privateMessage" time="1120202262" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="hrmph%2E"/>
+<message type="outgoing_privateMessage" time="1120202379" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="maybe%20i%20should%20set%20up%20my%20network%20connection%20on%20my%20computer%20to%20use%20the%20proxy"/>
+<message type="incoming_privateMessage" time="1120202413" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="Shouldn%27t%20matter"/>
+<message type="incoming_privateMessage" time="1120202415" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="but%20go%20for%20it"/>
+<message type="incoming_privateMessage" time="1120202416" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="%3A%29"/>
+<message type="outgoing_privateMessage" time="1120202431" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="just%20for%20testing%20purposes%20that%20is"/>
+<message type="outgoing_privateMessage" time="1120202479" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="so%20was%20that%20the%20only%20thing%20you%20noticed%20wrong%20with%20my%20config%20file%3F"/>
+<message type="incoming_privateMessage" time="1120202683" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="ya%2C%20as%20long%20as%20106%20is%20your%20DNS%20server"/>
+<message type="outgoing_privateMessage" time="1120202684" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="2005040201%20%20%20%20%3B%20serial%20number%20YYMMDDNN%0A%20"/>
+<message type="incoming_privateMessage" time="1120202703" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="ya%2C%20none%20of%20that%20really%20matters"/>
+<message type="incoming_privateMessage" time="1120202708" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="the%20serial%20that%20is"/>
+<message type="outgoing_privateMessage" time="1120202714" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="well%20my%20ip%20is%2024%2E251%2E168%2E143"/>
+<message type="outgoing_privateMessage" time="1120202721" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="should%20i%20put%20that%20in%20there"/>
+<message type="outgoing_privateMessage" time="1120202728" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="instead%20of%20the%20106"/>
+<message type="outgoing_privateMessage" time="1120202729" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="%3F"/>
+<message type="incoming_privateMessage" time="1120202731" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="you%20can%20try%2E%2E%2E%2Eput%20it%20in%20just%20for%20ingame%20and%20webcluster"/>
+<message type="outgoing_privateMessage" time="1120202764" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="so%20i%20should%20use%20my%20private%20IP%3F"/>
+<message type="incoming_privateMessage" time="1120202773" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="for%20everything%20else"/>
+<message type="outgoing_privateMessage" time="1120202918" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="so%20if%20i%20dump%20the%20database%20shouldn%27t%20it%20show%20up%20in%20the%20list%3F"/>
+<message type="incoming_privateMessage" time="1120202939" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="sorry%2C%20i%20don%27t%20know%20how%20treewalk%20works%20really%2E%2E%2Ejust%20that%20it%20does%2E%2E"/>
+<message type="incoming_privateMessage" time="1120202940" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="i%20use%20a%20mac"/>
+<message type="outgoing_privateMessage" time="1120202952" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="oh"/>
+<message type="information_standard" time="1120203854" medium="AIM" text="You%20have%20been%20disconnected%2E%20Fri%20Jul%2001%2000%3A44%3A14%202005%2E"/>
+<status type="Offline" time="1120203854" medium="AIM" from="fugimax"/>
+<status type="online" time="1120203864" medium="AIM" from="fugimax"/>
+<message type="information_standard" time="1120203864" medium="AIM" text="%22fugimax%22%20signed%20on%20at%20Fri%20Jul%2001%2000%3A44%3A24%202005%2E"/>
+<message type="outgoing_privateMessage" time="1120204835" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="now%20i%20am%20getting%20somewhere"/>
+<message type="incoming_privateMessage" time="1120204853" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="%3F"/>
+<message type="outgoing_privateMessage" time="1120204871" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="the%20DNS%20is%20working"/>
+<message type="outgoing_privateMessage" time="1120204875" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="i%20missed%20a%20step"/>
+<message type="outgoing_privateMessage" time="1120204889" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="3%2E0%2E4%20%2D%20Configure%20your%20WiFi%20router%20to%20port%2Dforward%20port%208080%20from%20the%20WAN%20port%20to%20192%2E168%2E2%2E1%20%28or%20your%20server%20machine%29%2E%20This%20you%20have%20to%20know%20how%20to%20do%20yourself%2E"/>
+<message type="incoming_privateMessage" time="1120204930" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="ah%20ha"/>
+<message type="outgoing_privateMessage" time="1120204940" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="now"/>
+<message type="outgoing_privateMessage" time="1120204951" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="it%20comes%20up%20and%20says%20it%20could%20not%20resolve%20that%20address"/>
+<message type="outgoing_privateMessage" time="1120205027" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="so%20it%20must%20be%20something%20wrong%20with%20the%20forward%20in%20the%20DNS"/>
+<message type="incoming_privateMessage" time="1120205072" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="what%27s%20the%20error%3F"/>
+<message type="outgoing_privateMessage" time="1120205085" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="Error%3A%20could%20not%20resolve%20hostname%20ingame%2Escea%2Ecom%0A%20"/>
+<message type="incoming_privateMessage" time="1120205098" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="That%27s%20on%20the%20PSP%3F"/>
+<message type="outgoing_privateMessage" time="1120205114" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="yes"/>
+<message type="incoming_privateMessage" time="1120205125" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="hmm"/>
+<message type="outgoing_privateMessage" time="1120205130" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="the%20proxy%20server%20sends%20a%20page%20based%20on%20that%20error%20to%20the%20PSP"/>
+<message type="incoming_privateMessage" time="1120205143" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="oh%2C%20ok"/>
+<message type="incoming_privateMessage" time="1120205167" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="hrmmm"/>
+<message type="incoming_privateMessage" time="1120205231" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="keep%20fudging%20with%20stuff%2C%20try%20changing%20back%20your%20DNS%20settings%20to%20use%20your%20internal%20address"/>
+<message type="outgoing_privateMessage" time="1120205244" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="yeah"/>
+<message type="outgoing_privateMessage" time="1120205250" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="i%27m%20so%20close"/>
+<message type="outgoing_privateMessage" time="1120205346" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="listen%2Daddress%20%20192%2E168%2E0%2E106%3A8080%0A%20"/>
+<message type="outgoing_privateMessage" time="1120205355" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="that%20is%20my%20private%20IP%20in%20the%20proxy%20server"/>
+<message type="incoming_privateMessage" time="1120205373" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="correct"/>
+<message type="outgoing_privateMessage" time="1120205387" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="it%20shouldn%27t%20be%20the%20one%20my%20ISP%20gives%20me%3F"/>
+<message type="outgoing_privateMessage" time="1120205413" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="i%20guess%20not"/>
+<message type="incoming_privateMessage" time="1120205415" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="no"/>
+<message type="outgoing_privateMessage" time="1120205418" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="stupid%20question"/>
+<message type="outgoing_privateMessage" time="1120205446" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="you%20could%20help%20me%20out%20by%20trying%20it%20on%20yours"/>
+<message type="incoming_privateMessage" time="1120205480" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="my%20psp%20isn%27t%20actually%20here%20right%20now%20%3A%2F"/>
+<message type="outgoing_privateMessage" time="1120205486" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="that%27s%20ok"/>
+<message type="outgoing_privateMessage" time="1120205496" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="i%20will%20see%20if%20i%20can%20get%20another%20friend%20to%20try%20it%20out%20tomorrow"/>
+<message type="incoming_privateMessage" time="1120205502" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="ok"/>
+<message type="outgoing_privateMessage" time="1120205534" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="would%20it%20make%20sense%20to%20change%20%0A%20%3BThis%20should%20cover%20ALL%20bases%3A%20%0A%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NS%20%20%2024%2E251%2E168%2E143%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20%20%20%2024%2E251%2E168%2E143%20%0A%20ingame%20%20%20%20%20%20%20%20A%20%20%20%2024%2E251%2E168%2E143%20%0A%20webcluster%20%20%20%20A%20%20%20%2024%2E251%2E168%2E143%20%0A%20%20to%20psp%2Dproxy%2Edyndns%2Eorg"/>
+<message type="outgoing_privateMessage" time="1120205538" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="that%27s%20my%20proxy%20server%5D"/>
+<message type="incoming_privateMessage" time="1120205566" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="no"/>
+<message type="incoming_privateMessage" time="1120205716" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="well%2C%20bedtime%20here%2E%2E%2Egood%20luck"/>
+<message type="outgoing_privateMessage" time="1120205722" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="thanks"/>
+<message type="incoming_privateMessage" time="1120205725" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="yup"/>
+<message type="outgoing_privateMessage" time="1120205729" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="for%20everything"/>
+<message type="incoming_privateMessage" time="1120205731" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="np"/>
+<message type="outgoing_privateMessage" time="1120205737" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="we%20will%20have%20to%20talk%20again%20sometime"/>
+<message type="incoming_privateMessage" time="1120205742" medium="AIM" to="BrianJCullinan" from="fugimax" from_display="fugimax" text="sure"/>
+<message type="outgoing_privateMessage" time="1120205745" medium="AIM" to="fugimax" from="BrianJCullinan" from_display="Me" text="exchange%20knowledge"/>
+<session type="stop" time="1120210834" medium="AIM" to="fugimax" from="BrianJCullinan"/>
+<icon time="1124320523" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1124320523%2Egif"/>
+<icon time="1124483824" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1124483824%2Ejpg"/>
+<icon time="1124483836" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1124483836%2Ejpg"/>
+<icon time="1124483899" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1124483899%2Ejpg"/>
+<icon time="1124484459" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1124484459%2Ejpg"/>
+<icon time="1125024910" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1125024910%2Ejpg"/>
+<icon time="1125508565" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1125508565%2Ejpg"/>
+<icon time="1125589062" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1125589062%2Ejpg"/>
+<icon time="1125984285" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1125984285%2Ejpg"/>
+<icon time="1125984286" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1125984286%2Ejpg"/>
+<icon time="1126010792" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1126010792%2Ejpg"/>
+<icon time="1126019210" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1126019210%2Ejpg"/>
+<icon time="1126019560" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1126019560%2Ejpg"/>
+<icon time="1126031543" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1126031543%2Ejpg"/>
+<icon time="1126033858" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1126033858%2Ejpg"/>
+<icon time="1126036121" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1126036121%2Ejpg"/>
+<icon time="1126036298" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1126036298%2Ejpg"/>
+<icon time="1126045319" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1126045319%2Ejpg"/>
+<icon time="1041419477" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1041419477%2Ejpg"/>
+<icon time="1129647634" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1129647634%2Ejpg"/>
+<icon time="1129651224" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1129651223%2Ejpg"/>
+<icon time="1129739250" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1129739250%2Ejpg"/>
+<icon time="1129745927" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1129745926%2Ejpg"/>
+<icon time="1129749587" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1129749587%2Ejpg"/>
+<icon time="1129749921" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1129749921%2Ejpg"/>
+<icon time="1129754477" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1129754477%2Ejpg"/>
+<icon time="1129754480" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1129754480%2Ejpg"/>
+<icon time="1129765432" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1129765432%2Ejpg"/>
+<icon time="1129766054" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1129766054%2Ejpg"/>
+<icon time="1129845761" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1129845761%2Ejpg"/>
+<icon time="1129863151" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1129863151%2Ejpg"/>
+<icon time="1129901634" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1129901634%2Ejpg"/>
+<icon time="1129910020" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1129910020%2Ejpg"/>
+<icon time="1129917542" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1129917542%2Ejpg"/>
+<icon time="1129918070" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1129918070%2Ejpg"/>
+<icon time="1129957124" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1129957124%2Ejpg"/>
+<icon time="1130098276" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130098276%2Ejpg"/>
+<icon time="1130187249" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130187249%2Ejpg"/>
+<icon time="1130261293" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130261293%2Ejpg"/>
+<icon time="1130298053" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130298053%2Ejpg"/>
+<icon time="1130373484" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130373484%2Ejpg"/>
+<icon time="1130383947" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130383947%2Ejpg"/>
+<icon time="1130415244" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130415244%2Ejpg"/>
+<icon time="1130453909" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130453909%2Ejpg"/>
+<icon time="1130453910" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130453910%2Ejpg"/>
+<icon time="1130456318" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130456318%2Ejpg"/>
+<icon time="1130474055" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130474055%2Ejpg"/>
+<icon time="1130783328" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130783328%2Ejpg"/>
+<icon time="1130792043" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130792043%2Ejpg"/>
+<icon time="1130792654" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130792654%2Ejpg"/>
+<icon time="1130906496" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130906496%2Ejpg"/>
+<icon time="1130906602" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130906602%2Ejpg"/>
+<icon time="1130940285" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130940285%2Ejpg"/>
+<icon time="1130940287" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130940287%2Ejpg"/>
+<icon time="1130959261" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130959261%2Ejpg"/>
+<icon time="1130959634" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130959634%2Ejpg"/>
+<icon time="1130963254" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130963254%2Ejpg"/>
+<icon time="1130963327" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130963327%2Ejpg"/>
+<icon time="1130981501" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130981494%2Ejpg"/>
+<icon time="1130992098" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1130992098%2Ejpg"/>
+<icon time="1131024643" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1131024643%2Ejpg"/>
+<icon time="1131032489" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1131032489%2Ejpg"/>
+<icon time="1131124720" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1131124720%2Ejpg"/>
+<icon time="1131129791" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1131129791%2Ejpg"/>
+<icon time="1131134767" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1131134767%2Ejpg"/>
+<icon time="1131134969" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1131134969%2Ejpg"/>
+<icon time="1131171011" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1131171011%2Ejpg"/>
+<icon time="1131173213" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1131173213%2Ejpg"/>
+<icon time="1131202826" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1131202826%2Ejpg"/>
+<icon time="1131246619" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1131246619%2Ejpg"/>
+<icon time="1131764330" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1131764330%2Ejpg"/>
+<icon time="1131771328" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1131771328%2Ejpg"/>
+<icon time="1131967067" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1131967067%2Ejpg"/>
+<icon time="1132064509" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1132064509%2Ejpg"/>
+<icon time="1132064510" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1132064510%2Ejpg"/>
+<icon time="1132153541" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1132153541%2Ejpg"/>
+<icon time="1132614117" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1132614117%2Ejpg"/>
+<icon time="1132627069" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1132627069%2Ejpg"/>
+<icon time="1133316431" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1133316431%2Ejpg"/>
+<icon time="1133443078" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1133443078%2Ejpg"/>
+<icon time="1133644527" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1133644527%2Ejpg"/>
+<icon time="1133644808" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1133644808%2Ejpg"/>
+<icon time="1133657590" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1133657590%2Ejpg"/>
+<icon time="1133714442" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1133714442%2Ejpg"/>
+<icon time="1133754855" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1133754855%2Ejpg"/>
+<icon time="1133827933" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1133827933%2Ejpg"/>
+<icon time="1133827937" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1133827937%2Ejpg"/>
+<icon time="1133989114" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1133989114%2Ejpg"/>
+<icon time="1134152705" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1134152704%2Ejpg"/>
+<icon time="1134152762" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1134152762%2Ejpg"/>
+<icon time="1134155524" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1134155524%2Ejpg"/>
+<icon time="1134263401" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1134263401%2Ejpg"/>
+<icon time="1134360593" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1134360593%2Ejpg"/>
+<icon time="1134508852" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1134508852%2Ejpg"/>
+<icon time="1134509757" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1134509757%2Ejpg"/>
+<icon time="1136324148" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1136324148%2Ejpg"/>
+<icon time="1136506379" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1136506379%2Ejpg"/>
+<icon time="1136662672" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1136662672%2Ejpg"/>
+<icon time="1136785769" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1136785769%2Ejpg"/>
+<icon time="1136835668" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1136835668%2Ejpg"/>
+<icon time="1136877644" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1136877644%2Ejpg"/>
+<icon time="1136878623" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1136878623%2Ejpg"/>
+<icon time="1137126471" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137126471%2Ejpg"/>
+<icon time="1137175303" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137175303%2Ejpg"/>
+<icon time="1137184299" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137184299%2Ejpg"/>
+<icon time="1137184743" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137184743%2Ejpg"/>
+<icon time="1137197881" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137197881%2Ejpg"/>
+<icon time="1137366658" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137366657%2Ejpg"/>
+<icon time="1137371228" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137371228%2Ejpg"/>
+<icon time="1137457318" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137457318%2Ejpg"/>
+<icon time="1137505779" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137505779%2Ejpg"/>
+<icon time="1137533936" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137533936%2Ejpg"/>
+<icon time="1137595416" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137595416%2Ejpg"/>
+<icon time="1137626043" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137626043%2Ejpg"/>
+<icon time="1137634488" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137634488%2Ejpg"/>
+<icon time="1137829657" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137829657%2Ejpg"/>
+<icon time="1137864194" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137864194%2Ejpg"/>
+<icon time="1137864196" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137864196%2Ejpg"/>
+<icon time="1137867182" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137867182%2Ejpg"/>
+<icon time="1137959451" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137959451%2Ejpg"/>
+<icon time="1137985386" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137985386%2Ejpg"/>
+<icon time="1137987771" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1137987771%2Ejpg"/>
+<icon time="1140558688" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1140558688%2Ejpg"/>
+<icon time="1140823422" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1140823422%2Ejpg"/>
+<icon time="1141622335" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1141622335%2Ejpg"/>
+<icon time="1141702362" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1141702362%2Ejpg"/>
+<icon time="1141702514" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1141702514%2Ejpg"/>
+<icon time="1141753690" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1141753690%2Ejpg"/>
+<icon time="1141756430" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1141756430%2Ejpg"/>
+<icon time="1141756475" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1141756475%2Ejpg"/>
+<icon time="1141779769" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1141779768%2Ejpg"/>
+<icon time="1142017844" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1142017844%2Ejpg"/>
+<icon time="1142141526" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1142141526%2Ejpg"/>
+<icon time="1142187833" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1142187833%2Ejpg"/>
+<icon time="1142207066" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1142207066%2Ejpg"/>
+<icon time="1142274633" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1142274633%2Ejpg"/>
+<icon time="1142276075" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1142276075%2Ejpg"/>
+<icon time="1142390785" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1142390785%2Ejpg"/>
+<icon time="1142537589" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1142537589%2Ejpg"/>
+<icon time="1142542107" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1142542107%2Ejpg"/>
+<icon time="1142717586" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1142717586%2Ejpg"/>
+<icon time="1142808797" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1142808797%2Ejpg"/>
+<icon time="1142819407" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1142819407%2Ejpg"/>
+<icon time="1142871500" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1142871500%2Ejpg"/>
+<icon time="1143325935" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1143325935%2Ejpg"/>
+<icon time="1143334743" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1143334743%2Ejpg"/>
+<icon time="1144203741" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1144203741%2Ejpg"/>
+<icon time="1144244476" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1144244476%2Ejpg"/>
+<icon time="1144285122" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1144285122%2Ejpg"/>
+<icon time="1144288700" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1144288700%2Ejpg"/>
+<icon time="1144380698" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1144380698%2Ejpg"/>
+<icon time="1144440085" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1144440085%2Ejpg"/>
+<icon time="1144512063" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1144512063%2Ejpg"/>
+<icon time="1144677060" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1144677060%2Ejpg"/>
+<icon time="1144691191" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1144691191%2Ejpg"/>
+<icon time="1144804641" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1144804641%2Ejpg"/>
+<icon time="1144807260" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1144807260%2Ejpg"/>
+<icon time="1144947490" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1144947490%2Ejpg"/>
+<icon time="1145057852" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1145057852%2Ejpg"/>
+<icon time="1145069561" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1145069561%2Ejpg"/>
+<icon time="1145222729" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1145222729%2Ejpg"/>
+<icon time="1145303567" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1145303567%2Ejpg"/>
+<icon time="1145546301" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1145546301%2Ejpg"/>
+<icon time="1145820572" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1145820572%2Ejpg"/>
+<icon time="1146504549" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1146504549%2Ejpg"/>
+<icon time="1146515402" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1146515402%2Ejpg"/>
+<icon time="1146534714" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1146534714%2Ejpg"/>
+<icon time="1146546627" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1146546627%2Ejpg"/>
+<icon time="1146590855" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1146590855%2Ejpg"/>
+<icon time="1146625614" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1146625614%2Ejpg"/>
+<icon time="1146659712" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1146659711%2Ejpg"/>
+<icon time="1146662338" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1146662338%2Ejpg"/>
+<icon time="1146663199" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1146663199%2Ejpg"/>
+<icon time="1146663501" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1146663501%2Ejpg"/>
+<icon time="1146668009" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1146668009%2Ejpg"/>
+<icon time="1146770197" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1146770197%2Ejpg"/>
+<icon time="1146776641" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1146776641%2Ejpg"/>
+<icon time="1147828768" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1147828768%2Ejpg"/>
+<icon time="1147831952" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1147831952%2Ejpg"/>
+<icon time="1148062664" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1148062664%2Ejpg"/>
+<icon time="1148323972" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1148323972%2Ejpg"/>
+<icon time="1148334011" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1148334011%2Ejpg"/>
+<icon time="1148393389" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1148393389%2Ejpg"/>
+<icon time="1148393415" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1148393415%2Ejpg"/>
+<icon time="1148512834" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1148512834%2Ejpg"/>
+<icon time="1148582961" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1148582961%2Ejpg"/>
+<icon time="1148601283" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1148601283%2Ejpg"/>
+<icon time="1148913066" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1148913065%2Ejpg"/>
+<icon time="1148929703" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1148929703%2Ejpg"/>
+<icon time="1149081477" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1149081477%2Ejpg"/>
+<icon time="1149090170" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1149090170%2Ejpg"/>
+<icon time="1149090171" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1149090171%2Ejpg"/>
+<icon time="1149096050" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1149096050%2Ejpg"/>
+<icon time="1149253246" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1149253246%2Ejpg"/>
+<icon time="1149464827" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1149464827%2Ejpg"/>
+<icon time="1149511561" medium="AIM" from="fugimax" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfugimax%2D1149511561%2Ejpg"/>

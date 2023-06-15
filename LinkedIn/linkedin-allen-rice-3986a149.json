@@ -1,0 +1,402 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "31 Mutual Connections",
+                "You and Allen both know Jay Witherspoon, Erika Feinberg, and 29 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "DevOps Manager (Sr. Application Architect)",
+                "Company Name",
+                "DriveTime",
+                "Dates Employed",
+                "Sep 2011 – Present",
+                "Employment Duration",
+                "6 yrs 3 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "As a DevOps Manager:Worked on spreading a DevOps mentality throughout the organization, built a road map and managed our board, backlog and engineers.Built a more capable and secure Jenkins farm.Worked to enable better access to production for the engineering, BA and QA staff.Built a custom Jenkins DSL library so we could share CI/CD engineering efforts across the organization as code.Facilitated unit testing in any way possible.  This included: gathering stakeholders and building a formal unit testing policy, training developers, and ensuring Jenkins was generating code coverage reports.Worked to ensure proper utilization of the DevOps team and guarded them from becoming the \"owners of everything\" whenever possible.As a Manager of individual developers and of the DevOps team:At times, managed 10 or more engineers but mostly stayed around 4 direct reports.Participated in and led numerous interviews, built job postings, held 1:1's and performance reviews.As a Sr. Web Developer:Worked on various MVC3/4 Azure projects with Knockout, jQuery, TypeScript, HTML5, CSS3, etc.Worked on Carvana.com and MyDriveTime.com from concept to release, this included work on various Azure technologies, complex single page applications, etc. Worked on DriveTime.com from pre-release to post-release maintenance.Worked on a large, standalone SPA project as an architect and lead for 10 developers.  Was responsible for introducing, training others in the use of, and ensuring the smooth adoption of: Knockout, TypeScript, TypeLite, DefinitelyTyped, Jasmine unit testing in TypeScript, AMD, RequireJS, gulp, NodeJS, npm, Bower, Karma test runner, Jenkins and additional development stack enhancements.  These technologies were all introduced in a smooth, as needed and natural pace as our development teams matured, and our projects became complex enough to require them.Primarily used: JS, Knockout, TypeScript, C#, MVC, HTML5, CSS, Jasmine, TFS, Jenkins and Trello."
+            ],
+            [
+                "Web Developer (Contractor via Robert Half)",
+                "Company Name",
+                "Cincinnati Financial Corporation",
+                "Dates Employed",
+                "May 2011 – Aug 2011",
+                "Employment Duration",
+                "4 mos",
+                "Location",
+                "Cincinnati Area, KY",
+                "Developed within a complex MVP ASP.NET Web Forms application with a custom dependency injection framework to satisfy insurance versioning requirements across various states and their regulations.Responsible for completing new requirements on schedule while rewriting older functionality that relied heavily upon UpdatePanel's and other Ajax Toolkit components, in favor of jQuery based replacements.Primarily used: VB.NET, C#, ASP.NET, JSON, JavaScript, jQuery, Microsoft Ajax Toolkit & WCF."
+            ],
+            [
+                "Lead Application Developer",
+                "Company Name",
+                "Wright-Patt Credit Union, Inc.",
+                "Dates Employed",
+                "Jul 2010 – May 2011",
+                "Employment Duration",
+                "11 mos",
+                "Location",
+                "Dayton, Ohio Area"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "Standard Register",
+                "Dates Employed",
+                "May 2006 – Jul 2010",
+                "Employment Duration",
+                "4 yrs 3 mos",
+                "Location",
+                "Dayton, Ohio Area",
+                "Worked in .NET (1.1 to 3.5) with C# on command line applications, win forms applications and ASP.NET (web forms & MVC) web applications as well as web services.Took primary ownership of and developed web 2.0 applications including ones that interfaced with scanners, signature pads, tablets, web cameras and 3rd party Rx data providers.Successfully introduced the use of a continuous integration platform (Hudson / Jenkins) and wasresponsible for configuration, maintenance and general oversight of the platform and its use.Improved development standards through the use of unit tests (MSTest), mocking, and pushed for the utilization of the Test Driven Development approach whenever plausible.Introduced the development team to jQuery, LinqToSql, log4net and MVC. All of which where eagerly accepted and integrated into the code base.Primarily used: C# (2.0 & 3.0), ASP.NET, SOAP, JSON, JavaScript, jQuery, AJAX, MSSQL, LinqToSql, MVC, log4net, MSTest, Hudson, XML, XSL, WCF & Active X."
+            ],
+            [
+                "Co-op / Web Developer",
+                "Company Name",
+                "LexisNexis",
+                "Dates Employed",
+                "Jul 2004 – Apr 2006",
+                "Employment Duration",
+                "1 yr 10 mos",
+                "Location",
+                "Dayton, Ohio Area",
+                "Worked with a broad range of development teams in a very fast turnaround environment.Developed and maintained client facing production websites, internal tools, global products, library functions, prototypes of new products and introduced new functionality into existing code base and API.Primarily used: ASP, HTML, JavaScript, CSS, AJAX, MSSQL, VBScript, C#, ASP.NET & XML"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Franklin University",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Computer Science"
+            ],
+            [
+                "Franklin University",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Computer Science"
+            ],
+            [
+                "Sinclair Community College",
+                "Degree Name",
+                "Associate of Science (A.S.)",
+                "Field Of Study",
+                "Software Development"
+            ],
+            [
+                "Sinclair Community College",
+                "Degree Name",
+                "Associate of Science (A.S.)",
+                "Field Of Study",
+                "Software Development"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Carvana",
+                "7,145 followers"
+            ],
+            [
+                "DriveTime",
+                "12,865 followers"
+            ],
+            [
+                "See connections (251)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Carvana",
+                "7,145 followers"
+            ],
+            [
+                "Carvana",
+                "7,145 followers"
+            ],
+            [
+                "DriveTime",
+                "12,865 followers"
+            ],
+            [
+                "DriveTime",
+                "12,865 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "TypeScript",
+                "See 5 endorsements for TypeScript",
+                "5",
+                "TypeScript",
+                "Endorse",
+                "Endorsed by Mo Masoud and 1 other mutual connection",
+                "Endorsed by 2 of Allen’s colleagues at DriveTime"
+            ],
+            [
+                "TypeScript",
+                "See 5 endorsements for TypeScript",
+                "5"
+            ],
+            [
+                "JavaScript",
+                "See 15 endorsements for JavaScript",
+                "15",
+                "JavaScript",
+                "Endorse",
+                "Endorsed by Mo Masoud and 1 other mutual connection",
+                "Endorsed by 6 of Allen’s colleagues at DriveTime"
+            ],
+            [
+                "JavaScript",
+                "See 15 endorsements for JavaScript",
+                "15"
+            ],
+            [
+                "RequireJS",
+                "See 1 endorsement for RequireJS",
+                "1",
+                "RequireJS",
+                "Endorse",
+                "Mike Chouteau has given an endorsement for this skill"
+            ],
+            [
+                "RequireJS",
+                "See 1 endorsement for RequireJS",
+                "1"
+            ],
+            [
+                "KnockoutJS",
+                "See 3 endorsements for KnockoutJS",
+                "3",
+                "KnockoutJS",
+                "Endorse"
+            ],
+            [
+                "KnockoutJS",
+                "See 3 endorsements for KnockoutJS",
+                "3"
+            ],
+            [
+                "gulp",
+                "See 1 endorsement for gulp",
+                "1",
+                "gulp",
+                "Endorse"
+            ],
+            [
+                "gulp",
+                "See 1 endorsement for gulp",
+                "1"
+            ],
+            [
+                "Node.js",
+                "See 6 endorsements for Node.js",
+                "6",
+                "Node.js",
+                "Endorse"
+            ],
+            [
+                "Node.js",
+                "See 6 endorsements for Node.js",
+                "6"
+            ],
+            [
+                "npm",
+                "See 2 endorsements for npm",
+                "2",
+                "npm",
+                "Endorse"
+            ],
+            [
+                "npm",
+                "See 2 endorsements for npm",
+                "2"
+            ],
+            [
+                "bower",
+                "See 1 endorsement for bower",
+                "1",
+                "bower",
+                "Endorse"
+            ],
+            [
+                "bower",
+                "See 1 endorsement for bower",
+                "1"
+            ],
+            [
+                "ASP.NET MVC",
+                "See 12 endorsements for ASP.NET MVC",
+                "12",
+                "ASP.NET MVC",
+                "Endorse"
+            ],
+            [
+                "ASP.NET MVC",
+                "See 12 endorsements for ASP.NET MVC",
+                "12"
+            ],
+            [
+                "C#",
+                "See 14 endorsements for C#",
+                "14",
+                "C#",
+                "Endorse"
+            ],
+            [
+                "C#",
+                "See 14 endorsements for C#",
+                "14"
+            ],
+            [
+                "MSBuild",
+                "See 1 endorsement for MSBuild",
+                "1",
+                "MSBuild",
+                "Endorse"
+            ],
+            [
+                "MSBuild",
+                "See 1 endorsement for MSBuild",
+                "1"
+            ],
+            [
+                "SideWaffle",
+                "SideWaffle",
+                "Endorse"
+            ],
+            [
+                "SideWaffle"
+            ],
+            [
+                "HTML 5",
+                "See 5 endorsements for HTML 5",
+                "5",
+                "HTML 5",
+                "Endorse"
+            ],
+            [
+                "HTML 5",
+                "See 5 endorsements for HTML 5",
+                "5"
+            ],
+            [
+                "CSS3",
+                "See 2 endorsements for CSS3",
+                "2",
+                "CSS3",
+                "Endorse"
+            ],
+            [
+                "CSS3",
+                "See 2 endorsements for CSS3",
+                "2"
+            ],
+            [
+                "NuGet",
+                "See 1 endorsement for NuGet",
+                "1",
+                "NuGet",
+                "Endorse"
+            ],
+            [
+                "NuGet",
+                "See 1 endorsement for NuGet",
+                "1"
+            ],
+            [
+                "Windows Azure",
+                "See 6 endorsements for Windows Azure",
+                "6",
+                "Windows Azure",
+                "Endorse"
+            ],
+            [
+                "Windows Azure",
+                "See 6 endorsements for Windows Azure",
+                "6"
+            ],
+            [
+                "Visual Studio",
+                "See 10 endorsements for Visual Studio",
+                "10",
+                "Visual Studio",
+                "Endorse"
+            ],
+            [
+                "Visual Studio",
+                "See 10 endorsements for Visual Studio",
+                "10"
+            ],
+            [
+                "Jenkins",
+                "See 3 endorsements for Jenkins",
+                "3",
+                "Jenkins",
+                "Endorse"
+            ],
+            [
+                "Jenkins",
+                "See 3 endorsements for Jenkins",
+                "3"
+            ],
+            [
+                "jQuery",
+                "See 15 endorsements for jQuery",
+                "15",
+                "jQuery",
+                "Endorse"
+            ],
+            [
+                "jQuery",
+                "See 15 endorsements for jQuery",
+                "15"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 14 endorsements for Microsoft SQL Server",
+                "14",
+                "Microsoft SQL Server",
+                "Endorse"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 14 endorsements for Microsoft SQL Server",
+                "14"
+            ]
+        ],
+        "summary": "    I’m an architect, developer and development manager that specializes in front end web development and tooling.  I focus on establishing practices, patterns and tooling so that we can produce the highest quality software we’re able to, in as little time as possible, with as much reuse as possible.My tech stack of choice consists of ASP.NET MVC, Azure, TypeScript, TypeLite, Knockout, LESS, gulp, node, npm, bower, nuget, RequireJS and Jasmine.  For tooling, I use SideWaffle and for CI I use Jenkins.Lately my focus has been on making this stack fit together as easily as possible and establish it as a standard, so that we’re able to build consistently developed Single Page Applications across several different application development teams.I’ve accomplished this by building:-\tnpm packages to distribute our in house build scripts-\tbower packages to distribute our in house ui components -\tnuget packages to distribute our shared WebUI C# code-\tinternal npm, bower and nuget package repositories -\tSideWaffle based Visual Studio extensions for establishing a standard WebUI template and adding custom scaffolding unique to our processes.  Our WebUI template consumes all of the above packages (nuget, npm and bower) -\tCustom Visual Studio galleries to distribute our internal extensions directly to our developers Visual Studio installations-\tCI builds to ensure continuous testing and delivery of the above extensions and packages-\tDocumentation in our development wiki I’ve been posting web dev stuff on a friend’s blog and I also work on various hobbyist projects.  Most of my posts have been lost from the current site, but will be imported from the internet archive soon.  Also, I will be outlining the research and development process of the above development ecosystem, on the blog as well.When I’m not developing, I’m out at the bar with friends and coworkers or I’m out flying around Phoenix in my paramotor or off-roading in my RZR.\n  \n  \n",
+        "name": "Allen Rice",
+        "title": "Sr. Application Architect at DriveTime",
+        "url": "linkedin.com/in/allen-rice-3986a149",
+        "phone": "",
+        "email": "rice.allen@gmail.com"
+    }
+]

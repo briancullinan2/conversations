@@ -1,0 +1,645 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "14 Mutual Connections",
+                "You and Ken both know Anders Tyslan, Beth Gray (Newberg), CSM, and 12 others"
+            ],
+            [
+                "You both worked at Charles Schwab",
+                "Ken worked at Charles Schwab before you started"
+            ],
+            [
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Sr. Software Engineer, Data Services",
+                "Company Name",
+                "Ancestry.com",
+                "Dates Employed",
+                "May 2014 – Present",
+                "Employment Duration",
+                "3 yrs 7 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "In Data Services we own the Big Data Infrastructure and work with internal customers to build software products for various initiatives.* Created the initial POC for a high-throughput log ingestion system we’re building using Elasticsearch, Kibana, and Kafka. Users can browse and perform analytics on events captured from logs using custom Kibana dashboards. * Built and configured the Elasticsearch clusters we’re using for Test and Production; set up monitoring and cluster maintenance tools.Tools: Hortonworks Hadoop, Kafka, Elasticsearch, Jython"
+            ],
+            [
+                "Hadoop Operations Engineer",
+                "Company Name",
+                "macys.com",
+                "Dates Employed",
+                "Jan 2014 – May 2014",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "Continuation of my previous role, but as a formal member of Macys Operations. Additional responsibilities will include:* Performing capacity management forecasts and publishing various production metrics to systems owners and management * Install and configure Storm, Apache Spark, and other tools; perform POCs and present results to internal business teams and big data developers* Complete migration of all Hadoop environments to Hortonworks"
+            ],
+            [
+                "Sr. Hadoop Engineer - Data Services and Platform",
+                "Company Name",
+                "macys.com",
+                "Dates Employed",
+                "Oct 2011 – Jan 2014",
+                "Employment Duration",
+                "2 yrs 4 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "I've been the on-call engineer in charge of all aspects of support and maintenance of the CDH4 Production Hadoop cluster at Macys.com. My responsibilities have also included:* Building out, upgrading, maintaining, and serving as the Operations Engineer for all of the other IT clusters we've developed, including DEV, QA, and WibiData Production.* Creating a complete monitoring and alerting solution for the WibiData Production and QA staging clusters using HP SiteScope and Ganglia.* Building parallel Hortonworks clusters onto which we will be migrating from CDH in Q1 of 2014.I've always worked closely with Operations (Delivery and Support) and contributed tools to make Operations tasks easier.* Developed command-line driven and Web-based system administration tools to help us track and change all of our Hadoop configurations, and to help monitor cluster performance. * Attended numerous conferences and training seminars every year on Python and Hadoop-related topics, including Spark/Shark, Scala, Graph Databases, machine learning, and large-scale analytics."
+            ],
+            [
+                "Hadoop Technical Lead",
+                "Company Name",
+                "macys.com (Independent Contractor)",
+                "Dates Employed",
+                "Mar 2011 – Oct 2011",
+                "Employment Duration",
+                "8 mos",
+                "Location",
+                "San Francisco",
+                "Working on the design and development of data discovery and processing solutions for Macys Marketing Analytics and support groups. Currently also building out a production Hadoop cluster and working on migration of cron jobs to the new environment. * Designing and coding Hadoop data processing solutions for various marketing initiatives * Perform cleaning, aggregation, and enhancement of data for output to SAS and to a real-time decision engine whose data store is accessed by macys.com* Administer and monitor Hadoop"
+            ],
+            [
+                "Hadoop/Hive Developer",
+                "Company Name",
+                "Wells Fargo (Contractor via Technisource)",
+                "Dates Employed",
+                "Aug 2009 – Mar 2011",
+                "Employment Duration",
+                "1 yr 8 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "At Wells Fargo we built a system to extract useful information from large volumes of log data in a completely general way. Using an enhancement to Hive Query Language we are also able to correlate events across log files.My main focus here has been on how to feed unstructured log data in any format into a Hadoop/Hive cluster and then efficiently extract information from it using HQL (Hive Query Language) and other processing techniques.* Built a bulk data loader in Python that can quickly upload arbitrarily huge amounts of compressed or uncompressed log data in any format directly into Hive tables in compressed format. System uses Hive external tables and direct HDFS commands to achieve high throughput.* Created a Python web application that generated HQL (Hive Query Language) based on a user’s inputs of date range, application log type, and search string. The application submitted the HQL to the Hive server and returned the results to the browser. * Built out multiple test clusters for the above work. Designed and wrote several applications based on Hive for different groups within Wells Fargo.* Co-presented with Dave Sidlo on MetaHive, a shell-based meta-language he developed that works with my loading tools to create a complete distributed log file analysis system. If the fields within each line of a log file are known and defined, we can codify that information using MetaHive and then perform structured queries against those logs, and also correlate log events across different log file types."
+            ],
+            [
+                "System Integration Engineer",
+                "Company Name",
+                "Wells Fargo (Contractor via Technisource)",
+                "Dates Employed",
+                "Jun 2009 – Mar 2011",
+                "Employment Duration",
+                "1 yr 10 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "At Wells Fargo I’ve also done new installations of CA Wily’s Introscope tool, and currently work for the MST (Monitoring Strategies Team) within ISG (Internet Services Group.) My first deployment was with the Brokerage team in ISG.* Installed and configured Introscope for the Brokerage Platform in production. * Created integrated dashboards of real time performance metrics covering all tiers including custom backend SORs, as well as system metrics.* Provided detailed analysis of performance bottlenecks based on collected data.* Built and maintained an internal website that hosted online help for the dashboards, and all the performance reports and documentation on incidental tools I wrote for troubleshooting in production and additional monitoring.* Having set up Brokerage, I went to work for MST. This group monitors the majority of application-server based apps inside the bank.* Developed an extensive set of more than 100 dashboards for the SIMS (Security Identify Management Services) web services team. These are used by developers, QA engineers, and the PAR (Performance Analytics & Reporting) group, and also include system metrics.* Wrote useful tools that integrate with Introscope via EPAgent; worked on problems with SNMP integration of Introscope with external systems, and the use of various CA “Power Packs.”"
+            ],
+            [
+                "Python Toolsmith",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "Jan 2007 – Apr 2009",
+                "Employment Duration",
+                "2 yrs 4 mos",
+                "Designed and built unique software solutions for a range of diverse groups, including Infrastructure, Production Support, Fraud Detection, Trade Resolution, and Performance Testing.Vastly improved the workflow of these teams, by automating tedious manual processes and creating highly efficient tools that could operate with huge datasets.Created internal websites to support the above groups. Wrote all the content and web applications for these web sites, and provided training and web-based documentation.* Constructed command-line tools with standard Unix interfaces that perform log file searching and data analysis.* Created a widely-used web application (the Log Data Retrieval Tool) that solved the problem of extracting and aggregating data from any useful log file. It has a simple interface, built-in documentation, and operates on very large volumes of data. * Rapidly produced custom tools for the Security and Fraud Investigation team and used them to quickly track down and shut out fraudsters.* Reduced the space required for storage of archival data by 75% by identifying a more efficient compression format, rewriting all archiving scripts to use the new format, and writing a program to recompress all exisitng files in the new format.* Served as technical lead for a project to evaluate the feasibility of using Google Search Appliance (GSA) for our main website. Built a prototype application that queried the GSA, used the lxml Python library to process the XML results from the GSA and created an HTML response for the browser. Installed and adapted Google’s Python administration tools.* Built a tool to analyze the performance of the Verisign FDS server. Data was extracted from application logs and output as an Excel spreadsheet after analysis.* Wrote production tools that ran under cron control that performed email alerting and database refresh functions; these were also configured with Tivoli alerts."
+            ],
+            [
+                "Sr. Software Engineer - Tech Lead, Introscope",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "Mar 2005 – Jan 2009",
+                "Employment Duration",
+                "3 yrs 11 mos",
+                "CA Wily Introscope is an application monitoring tool that we used to create realtime dashboards of critical Weblogic resources such as Execute Thread Queues, JDBC Connection Pools, etc. We set up alerting for out-of-band values, and automatic report generation of critical metrics.* Instrumented the SI.com application, configured and installed Introscope, and created dashboards and alert threshholds for the collected data.* Added metrics from the O/S (CPU, memory) to the dashboards; created a CGI application (sed/awk) for our website to display a summary of recent alerts.* Gave a high-profile talk at a large conference called the Schwab Performance Summit about our production Wily environment."
+            ],
+            [
+                "Sr. Software Engineer - Tech Lead, SI.com",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "Jun 2000 – Jan 2007",
+                "Employment Duration",
+                "6 yrs 8 mos",
+                "SchwabInstitutional.com (SI.com) is a large Java/JSP/Struts/J2EE/TopLink/Oracle-based website for Schwab Institutional clients. * Installed and provided initial Linux configuration of the Verisign Fraud Detection System (FDS), which performs intelligent anomaly detection of user logins on SI.com.* As website tech lead, performed complex code integrations, provided technical assistance and production support. Wrote and presented a Unix training session for team members and built a supporting website.* Served as tech lead on a large project to migrate the Weblogic application tier (35+ applications) from Weblogic 5.1 to Weblogic 8.1 SP1, and subsequently from Weblogic 8.1 SP1 to Weblogic 8.1 SP4. Developed deployment scripts and procedures for the new platforms, wrote detailed user documentation, deployed the first application through all environments (DEV, QA, PreProd) to production."
+            ],
+            [
+                "Sr. Software Engineer",
+                "Company Name",
+                "Peer3 (formerly CourseNet Systems, Inc.)",
+                "Dates Employed",
+                "Jan 2000 – Jun 2000",
+                "Employment Duration",
+                "6 mos",
+                "Worked with a small team to develop a product called CourseAdvantage, an XML-based tool for creating learning software. Courses were web-based, and were authored with a desktop Swing application. I added interface features to the authoring tool.JDK 1.3, XML4J, GNUJSP, Apache Web Server, Apache JServ"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of Washington",
+                "Degree Name",
+                "BSME",
+                "Field Of Study",
+                "Mechanical Engineering",
+                "Dates attended or expected graduation",
+                "1983 – 1988"
+            ],
+            [
+                "University of Washington",
+                "Degree Name",
+                "BSME",
+                "Field Of Study",
+                "Mechanical Engineering",
+                "Dates attended or expected graduation",
+                "1983 – 1988"
+            ],
+            [
+                "Oakland University",
+                "Degree Name",
+                "MSCS",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "1990 – 1993"
+            ],
+            [
+                "Oakland University",
+                "Degree Name",
+                "MSCS",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "1990 – 1993"
+            ],
+            [
+                "San Jose State University",
+                "Field Of Study",
+                "Distributed Computing",
+                "Dates attended or expected graduation",
+                "1997 – 1998",
+                "Studied distributed computing with Robert Orfali and Dan Harkey in the School of Engineering."
+            ],
+            [
+                "San Jose State University",
+                "Field Of Study",
+                "Distributed Computing",
+                "Dates attended or expected graduation",
+                "1997 – 1998",
+                "Studied distributed computing with Robert Orfali and Dan Harkey in the School of Engineering."
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Kensu",
+                "167 followers"
+            ],
+            [
+                "Internet of Things (IoT) ★ Industrial Internet of Things (IIoT)",
+                "37,284 members"
+            ],
+            [
+                "Genotypic Technology",
+                "5,045 followers"
+            ],
+            [
+                "University of Toronto",
+                "344,478 followers"
+            ],
+            [
+                "Cornell University",
+                "309,490 followers"
+            ],
+            [
+                "Elasticsearch",
+                "7,764 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Kensu",
+                "167 followers"
+            ],
+            [
+                "Kensu",
+                "167 followers"
+            ],
+            [
+                "Internet of Things (IoT) ★ Industrial Internet of Things (IIoT)",
+                "37,284 members"
+            ],
+            [
+                "Internet of Things (IoT) ★ Industrial Internet of Things (IIoT)",
+                "37,284 members"
+            ],
+            [
+                "Genotypic Technology",
+                "5,045 followers"
+            ],
+            [
+                "Genotypic Technology",
+                "5,045 followers"
+            ],
+            [
+                "University of Toronto",
+                "344,478 followers"
+            ],
+            [
+                "University of Toronto",
+                "344,478 followers"
+            ],
+            [
+                "Cornell University",
+                "309,490 followers"
+            ],
+            [
+                "Cornell University",
+                "309,490 followers"
+            ],
+            [
+                "Elasticsearch",
+                "7,764 members"
+            ],
+            [
+                "Elasticsearch",
+                "7,764 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "David Sidlo",
+                "Software Development Manager for Data Services Hadoop at Ancestry.com",
+                "January 25, 2011, Ken worked with David in the same group",
+                "Ken Barclay was a huge asset on our Hadoop Development team for his wide background knowledge, technical insights and collaboration skills.Always up to date on the latest, I have called upon his valuable his insight many times."
+            ],
+            [
+                "David Sidlo",
+                "Software Development Manager for Data Services Hadoop at Ancestry.com",
+                "January 25, 2011, Ken worked with David in the same group"
+            ],
+            [
+                "David Sidlo",
+                "Software Development Manager for Data Services Hadoop at Ancestry.com",
+                "January 25, 2011, Ken worked with David in the same group"
+            ],
+            [
+                "David Sidlo",
+                "Software Development Manager for Data Services Hadoop at Ancestry.com",
+                "January 25, 2011, Ken worked with David in the same group"
+            ],
+            "Software Development Manager for Data Services Hadoop at Ancestry.com",
+            [
+                "Ken Barclay was a huge asset on our Hadoop Development team for his wide background knowledge, technical insights and collaboration skills.Always up to date on the latest, I have called upon his valuable his insight many times."
+            ],
+            [
+                "Ken Barclay was a huge asset on our Hadoop Development team for his wide background knowledge, technical insights and collaboration skills.Always up to date on the latest, I have called upon his valuable his insight many times."
+            ],
+            [
+                "David Worthley",
+                "Director of Engineering",
+                "May 21, 2009, David managed Ken directly",
+                "I like to camp, and to work on cars.  One of my favorite gifts ever was a Leatherman - it's like a swiss army knife, but much better.  Having Ken on my team while I was doing Fraud Detection/Prevention at Charles Schwab was like having an even better Leatherman!  Ken was energetic, exceedingly bright, helpful and had an amazing work ethic.  If you're looking for someone who can do many things in a short period of time - Ken is your man!"
+            ],
+            [
+                "David Worthley",
+                "Director of Engineering",
+                "May 21, 2009, David managed Ken directly"
+            ],
+            [
+                "David Worthley",
+                "Director of Engineering",
+                "May 21, 2009, David managed Ken directly"
+            ],
+            [
+                "David Worthley",
+                "Director of Engineering",
+                "May 21, 2009, David managed Ken directly"
+            ],
+            "Director of Engineering",
+            [
+                "I like to camp, and to work on cars.  One of my favorite gifts ever was a Leatherman - it's like a swiss army knife, but much better.  Having Ken on my team while I was doing Fraud Detection/Prevention at Charles Schwab was like having an even better Leatherman!  Ken was energetic, exceedingly bright, helpful and had an amazing work ethic.  If you're looking for someone who can do many things in a short period of time - Ken is your man!"
+            ],
+            [
+                "I like to camp, and to work on cars.  One of my favorite gifts ever was a Leatherman - it's like a swiss army knife, but much better.  Having Ken on my team while I was doing Fraud Detection/Prevention at Charles Schwab was like having an even better Leatherman!  Ken was energetic, exceedingly bright, helpful and had an amazing work ethic.  If you're looking for someone who can do many things in a short period of time - Ken is your man!"
+            ],
+            [
+                "David Sidlo",
+                "Software Development Manager for Data Services Hadoop at Ancestry.com",
+                "January 13, 2011, David worked with Ken in the same group",
+                "Dave is truly a great programmer and an innovative thinker, always on the cutting edge.  I’ve learned a great deal working with him on Hive/Hadoop and other systems for the past year: he’s always full of interesting & useful ideas. His deep knowledge of networking & multilingual programming ability have been tremendous assets here at Wells Fargo."
+            ],
+            [
+                "David Sidlo",
+                "Software Development Manager for Data Services Hadoop at Ancestry.com",
+                "January 13, 2011, David worked with Ken in the same group"
+            ],
+            [
+                "David Sidlo",
+                "Software Development Manager for Data Services Hadoop at Ancestry.com",
+                "January 13, 2011, David worked with Ken in the same group"
+            ],
+            [
+                "David Sidlo",
+                "Software Development Manager for Data Services Hadoop at Ancestry.com",
+                "January 13, 2011, David worked with Ken in the same group"
+            ],
+            "Software Development Manager for Data Services Hadoop at Ancestry.com",
+            [
+                "Dave is truly a great programmer and an innovative thinker, always on the cutting edge.  I’ve learned a great deal working with him on Hive/Hadoop and other systems for the past year: he’s always full of interesting & useful ideas. His deep knowledge of networking & multilingual programming ability have been tremendous assets here at Wells Fargo."
+            ],
+            [
+                "Dave is truly a great programmer and an innovative thinker, always on the cutting edge.  I’ve learned a great deal working with him on Hive/Hadoop and other systems for the past year: he’s always full of interesting & useful ideas. His deep knowledge of networking & multilingual programming ability have been tremendous assets here at Wells Fargo."
+            ]
+        ],
+        "skills": [
+            [
+                "Linux",
+                "See 40 endorsements for Linux",
+                "40",
+                "Linux",
+                "Endorse",
+                "Endorsed by Anna E. K. and 1 other who is highly skilled at this",
+                "Endorsed by Peter. Solvkjar (mutual connection)"
+            ],
+            [
+                "Linux",
+                "See 40 endorsements for Linux",
+                "40"
+            ],
+            [
+                "Unix",
+                "See 38 endorsements for Unix",
+                "38",
+                "Unix",
+                "Endorse",
+                "Endorsed by Rajan Rajendran and 5 others who are highly skilled at this",
+                "Endorsed by Peter. Solvkjar (mutual connection)"
+            ],
+            [
+                "Unix",
+                "See 38 endorsements for Unix",
+                "38"
+            ],
+            [
+                "Hadoop",
+                "See 26 endorsements for Hadoop",
+                "26",
+                "Hadoop",
+                "Endorse",
+                "Endorsed by janardhan reddy and 3 others who are highly skilled at this",
+                "Endorsed by 6 of Ken’s colleagues at Wells Fargo"
+            ],
+            [
+                "Hadoop",
+                "See 26 endorsements for Hadoop",
+                "26"
+            ],
+            [
+                "Python",
+                "See 25 endorsements for Python",
+                "25",
+                "Python",
+                "Endorse"
+            ],
+            [
+                "Python",
+                "See 25 endorsements for Python",
+                "25"
+            ],
+            [
+                "Distributed Systems",
+                "See 19 endorsements for Distributed Systems",
+                "19",
+                "Distributed Systems",
+                "Endorse"
+            ],
+            [
+                "Distributed Systems",
+                "See 19 endorsements for Distributed Systems",
+                "19"
+            ],
+            [
+                "Web Services",
+                "See 13 endorsements for Web Services",
+                "13",
+                "Web Services",
+                "Endorse"
+            ],
+            [
+                "Web Services",
+                "See 13 endorsements for Web Services",
+                "13"
+            ],
+            [
+                "Software Development",
+                "See 13 endorsements for Software Development",
+                "13",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development",
+                "See 13 endorsements for Software Development",
+                "13"
+            ],
+            [
+                "Integration",
+                "See 13 endorsements for Integration",
+                "13",
+                "Integration",
+                "Endorse"
+            ],
+            [
+                "Integration",
+                "See 13 endorsements for Integration",
+                "13"
+            ],
+            [
+                "Apache",
+                "See 11 endorsements for Apache",
+                "11",
+                "Apache",
+                "Endorse"
+            ],
+            [
+                "Apache",
+                "See 11 endorsements for Apache",
+                "11"
+            ],
+            [
+                "Web Applications",
+                "See 10 endorsements for Web Applications",
+                "10",
+                "Web Applications",
+                "Endorse"
+            ],
+            [
+                "Web Applications",
+                "See 10 endorsements for Web Applications",
+                "10"
+            ],
+            [
+                "Agile Methodologies",
+                "See 8 endorsements for Agile Methodologies",
+                "8",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 8 endorsements for Agile Methodologies",
+                "8"
+            ],
+            [
+                "Web Development",
+                "See 7 endorsements for Web Development",
+                "7",
+                "Web Development",
+                "Endorse"
+            ],
+            [
+                "Web Development",
+                "See 7 endorsements for Web Development",
+                "7"
+            ],
+            [
+                "REST",
+                "See 5 endorsements for REST",
+                "5",
+                "REST",
+                "Endorse"
+            ],
+            [
+                "REST",
+                "See 5 endorsements for REST",
+                "5"
+            ],
+            [
+                "Big Data",
+                "See 5 endorsements for Big Data",
+                "5",
+                "Big Data",
+                "Endorse"
+            ],
+            [
+                "Big Data",
+                "See 5 endorsements for Big Data",
+                "5"
+            ],
+            [
+                "SQL",
+                "See 4 endorsements for SQL",
+                "4",
+                "SQL",
+                "Endorse"
+            ],
+            [
+                "SQL",
+                "See 4 endorsements for SQL",
+                "4"
+            ],
+            [
+                "Hive",
+                "See 4 endorsements for Hive",
+                "4",
+                "Hive",
+                "Endorse"
+            ],
+            [
+                "Hive",
+                "See 4 endorsements for Hive",
+                "4"
+            ],
+            [
+                "Scala",
+                "See 2 endorsements for Scala",
+                "2",
+                "Scala",
+                "Endorse"
+            ],
+            [
+                "Scala",
+                "See 2 endorsements for Scala",
+                "2"
+            ],
+            [
+                "Apache Spark",
+                "Apache Spark",
+                "Endorse"
+            ],
+            [
+                "Apache Spark"
+            ],
+            [
+                "Functional Programming",
+                "Functional Programming",
+                "Endorse"
+            ],
+            [
+                "Functional Programming"
+            ],
+            [
+                "ElasticSearch",
+                "ElasticSearch",
+                "Endorse"
+            ],
+            [
+                "ElasticSearch"
+            ],
+            [
+                "HBase",
+                "HBase",
+                "Endorse"
+            ],
+            [
+                "HBase"
+            ],
+            [
+                "Physics",
+                "Physics",
+                "Endorse"
+            ],
+            [
+                "Physics"
+            ],
+            [
+                "Complexity Theory",
+                "Complexity Theory",
+                "Endorse"
+            ],
+            [
+                "Complexity Theory"
+            ],
+            [
+                "Chaos Theory",
+                "Chaos Theory",
+                "Endorse"
+            ],
+            [
+                "Chaos Theory"
+            ]
+        ],
+        "summary": "  Specialist in big data systems, especially Hadoop and Elasticsearch.\n  \n  \n",
+        "name": "Ken Barclay",
+        "title": "Sr. Software Engineer, Data Services at Ancestry.com",
+        "url": "linkedin.com/in/kennethbarclay",
+        "phone": "",
+        "email": "kebarcla@sonic.net"
+    }
+]

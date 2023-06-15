@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6213156272238321665/",
+    "participants": [
+        {
+            "name": "Scott Mindeaux",
+            "title": "Operations and Technology",
+            "url": "linkedin.com/in/smindeaux",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Scott Mindeaux",
+            "message": "LInked8n Request...\n\nHi Brian! Thanks for reaching out. Have we met?\n\nScott\n",
+            "time": "2017-12-10T12:00:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-10T01:33:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Not face to face. Your profile stood out to me. Are you working in EdTech? I spent 3 years on an EdTech company.\n",
+            "time": "2017-12-10T01:33:00.000Z"
+        },
+        {
+            "from": "Scott Mindeaux",
+            "message": "I don't work in EdTech. IT guy here supporting a practice that works with kids on the autism spectrum.\n",
+            "time": "2017-12-12T02:22:00.000Z"
+        }
+    ]
+}

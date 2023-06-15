@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6235262401739051008/",
+    "participants": [
+        {
+            "name": "Chandra Ambadipudi",
+            "title": "Founder and CEO at Clairvoyant LLC",
+            "url": "linkedin.com/in/chandraambadipudi",
+            "phone": null,
+            "email": "cambadipudi@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Chandra Ambadipudi",
+            "time": "2018-02-09T01:06:00.000Z",
+            "message": "Hey are you looking for opportunities?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-09T01:20:00.000Z",
+            "message": "Yeah but I am too distracting as a consultant. Maybe I have to work at a few more boring banks.\n"
+        }
+    ]
+}

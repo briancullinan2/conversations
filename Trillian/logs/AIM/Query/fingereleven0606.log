@@ -1,0 +1,136 @@
+﻿Session Start (bjcullinan:Karan Shah): Thu Apr 17 23:12:25 2008
+[04/17/2008 11:12:30 PM] Brian Cullinan: What assignment is due tomorrow?
+[04/17/2008 11:19:52 PM] Karan Shah: i dont think its due tomorrow
+[04/17/2008 11:20:00 PM] Karan Shah: ryan told me its due monday
+[04/17/2008 11:51:26 PM] Brian Cullinan: thank god
+[04/17/2008 11:53:07 PM] *** "Karan Shah" signed off at Thu Apr 17 23:53:07 2008.
+Session Close (Karan Shah): Thu Apr 17 23:56:37 2008
+
+
+Session Start (bjcullinan:Karan Shah): Thu Apr 17 23:58:49 2008
+[04/17/2008 11:58:49 PM] *** NOTE: This user is offline.  Your messages will most likely *not* be received!
+Session Close (Karan Shah): Thu Apr 17 23:58:52 2008
+
+
+Session Start (bjcullinan:Karan Shah): Mon Apr 21 09:56:13 2008
+[04/21/2008 09:56:18 AM] Brian Cullinan: what project is due today?
+[04/21/2008 09:58:58 AM] Brian Cullinan: ?????!!!
+[04/21/2008 10:22:40 AM] Karan Shah: soap and wsdl
+[04/21/2008 10:28:10 AM] Brian Cullinan: i have no idea how to do this
+[04/21/2008 10:28:46 AM] Karan Shah: yea..i'm confused as well
+[04/21/2008 10:30:25 AM] Brian Cullinan: you know what would make this class infinitely better?
+[04/21/2008 10:30:28 AM] Brian Cullinan: if we had a lab
+[04/21/2008 10:30:34 AM] Brian Cullinan: where everyone uses a computer
+[04/21/2008 10:30:46 AM] Brian Cullinan: and he actually shows us how to do this stuff and what the purpose is
+[04/21/2008 10:31:05 AM] Karan Shah: yea
+[04/21/2008 10:48:03 AM] Brian Cullinan: so are you going to have it done, or should we all just complain and get him to push it off?
+[04/21/2008 10:48:40 AM] Karan Shah: i'm trying to do it ..but i dont think i will get it done
+[04/21/2008 10:49:18 AM] Brian Cullinan: i don't even know where to start
+[04/21/2008 10:50:09 AM] Karan Shah: 'm using this example but i cant get the imports to work..
+[04/21/2008 10:50:09 AM] Karan Shah: (Link: http://flagstaff.cse.nau.edu:25176/exist/devguide.xml#N10CF9)http://flagstaff.cse.nau.edu:25176/exist/devguide.xml#N10CF9
+[04/21/2008 11:04:34 AM] Brian Cullinan: do you have to installe eXist to get the packages?
+[04/21/2008 11:04:42 AM] Karan Shah: yes
+[04/21/2008 11:04:47 AM] Brian Cullinan: lame
+[04/21/2008 11:05:01 AM] Karan Shah: but i thought we have to connect to his db and download the files
+[04/21/2008 11:05:43 AM] Karan Shah: but i dont see anywhere in the api to connect to a remote location...it is always connecting to the localhost
+[04/21/2008 11:10:15 AM] Brian Cullinan: (Link: http://flagstaff.cse.nau.edu:25176/exist/services/Query?WSDL)http://flagstaff.cse.nau.edu:25176/exist/services/Query?WSDL(Link: http://flagstaff.cse.nau.edu:25176/exist/services/Query?WSDL)
+[04/21/2008 11:10:19 AM] Brian Cullinan: this is lame
+[04/21/2008 11:10:24 AM] Brian Cullinan: i can't get anything to work
+[04/21/2008 11:10:25 AM] Karan Shah: yea
+[04/21/2008 11:10:33 AM] Brian Cullinan: wtf is with these packages?
+[04/21/2008 11:10:45 AM] Brian Cullinan: why can't i get a jar with the packages i need?
+[04/21/2008 11:11:22 AM] Karan Shah: u need to import exist-optional.jar
+[04/21/2008 11:12:42 AM] Brian Cullinan: where is that?
+[04/21/2008 11:13:23 AM] Karan Shah: in the exist folder...did u install exist?
+[04/21/2008 11:13:39 AM] Brian Cullinan: yeah found it
+[04/21/2008 11:14:00 AM] Brian Cullinan: cannot access org.apache.axis
+[04/21/2008 11:15:27 AM] Karan Shah: is that an error u get when u run?
+[04/21/2008 11:15:47 AM] Brian Cullinan: when i try to compile
+[04/21/2008 11:16:00 AM] Brian Cullinan: what else do i need in the class path?
+[04/21/2008 11:16:09 AM] Karan Shah: did u start exist?
+[04/21/2008 11:16:13 AM] Brian Cullinan: no
+[04/21/2008 11:16:25 AM] Brian Cullinan: he has an exist server, why do i need to run it?
+[04/21/2008 11:16:48 AM] Brian Cullinan: it is still not finding packages
+[04/21/2008 11:16:52 AM] Karan Shah: well the example u are trying to run is connecting to ur computer
+[04/21/2008 11:17:16 AM] Brian Cullinan: yeah but the packages are the problem, it won't even compile
+[04/21/2008 11:17:19 AM] Karan Shah: u need to either run exist or change the code so it connects to his exist
+[04/21/2008 11:17:27 AM] Brian Cullinan: i will change the code
+[04/21/2008 11:17:31 AM] Karan Shah: ok
+[04/21/2008 11:17:31 AM] Brian Cullinan: but it doesn't even compile
+[04/21/2008 11:17:37 AM] Karan Shah: oh..
+[04/21/2008 11:17:40 AM] Brian Cullinan: because of missing packages
+[04/21/2008 11:17:52 AM] Karan Shah: what package are u missing?
+[04/21/2008 11:18:16 AM] Brian Cullinan: org.apache.axis.client
+[04/21/2008 11:20:16 AM] Karan Shah: yea..when i try compiling it gives me the same error
+[04/21/2008 11:21:00 AM] Brian Cullinan: so wtf
+[04/21/2008 11:21:09 AM] Brian Cullinan: where are we supposed to get that package?
+[04/21/2008 11:22:05 AM] Karan Shah: idk
+[04/21/2008 11:22:48 AM] Karan Shah: apparently ryan has it downloading the fie..but he is not online..
+[04/21/2008 11:23:23 AM] Brian Cullinan: oh well
+[04/21/2008 11:23:25 AM] Brian Cullinan: eff it
+[04/21/2008 11:23:31 AM] Brian Cullinan: i am complaining
+[04/21/2008 11:23:34 AM] Brian Cullinan: and giving him a bad review
+[04/21/2008 11:23:34 AM] Karan Shah: yea
+Session Close (Karan Shah): Mon Apr 21 12:08:42 2008
+
+
+Session Start (bjcullinan:Karan Shah): Fri Apr 25 10:58:41 2008
+[04/25/2008 10:58:51 AM] Brian Cullinan: mac can do m3u right?
+Session Close (Karan Shah): Fri Apr 25 11:12:30 2008
+
+
+Session Start (bjcullinan:Karan Shah): Fri Apr 25 11:15:18 2008
+[04/25/2008 11:15:19 AM] Karan Shah: not sure
+[04/25/2008 11:15:57 AM] Brian Cullinan: i am sure it can
+[04/25/2008 11:16:11 AM] Brian Cullinan: but for some reason i can't get it to stream files listed in an m3u
+[04/25/2008 11:16:25 AM] Brian Cullinan: anywho, will you help me with the xml assignment/
+[04/25/2008 11:16:26 AM] Brian Cullinan: ?
+[04/25/2008 11:16:42 AM] Karan Shah: sure
+[04/25/2008 11:17:12 AM] Karan Shah: i'm probably going to the 105 oom at 2ish
+[04/25/2008 11:17:19 AM] Karan Shah: i can help you that time
+[04/25/2008 11:19:06 AM] Brian Cullinan: ok
+[04/25/2008 11:28:55 AM] Brian Cullinan: so instead of download off my server.....
+[04/25/2008 11:30:24 AM] Brian Cullinan: use my m3u generator
+[04/25/2008 11:30:25 AM] Brian Cullinan: (Link: http://209.250.30.30/mediaserver/plugins/m3u.php)http://209.250.30.30/mediaserver/plugins/m3u.php
+[04/25/2008 11:30:29 AM] Brian Cullinan: you can open it with itunes
+[04/25/2008 11:30:37 AM] Brian Cullinan: or whatever media player you use on a mac
+[04/25/2008 11:30:43 AM] Brian Cullinan: it is a pretty common format
+[04/25/2008 11:30:45 AM] Karan Shah: oh cool
+[04/25/2008 11:30:53 AM] Brian Cullinan: can haz bookmark
+Session Close (Karan Shah): Fri Apr 25 12:34:27 2008
+
+
+Session Start (bjcullinan:Karan Shah): Fri May 02 12:39:23 2008
+[05/02/2008 12:39:46 PM] Brian Cullinan: hey, so we still on for today to study for XML class?
+[05/02/2008 12:39:46 PM] Karan Shah: Your IM conversation with fingereleven0606 will be saved in fingereleven0606's IM history in Gmail from now on.  Learn more at (Link: http://x.aim.com/gmail)http://x.aim.com/gmail.
+[05/02/2008 12:39:54 PM] Brian Cullinan: or at least exchange some notes.
+[05/02/2008 01:06:29 PM] Brian Cullinan: actually i should probably head home and clean up, you should come over tonight
+Session Close (Karan Shah): Fri May 02 13:06:43 2008
+
+
+Session Start (bjcullinan:Karan Shah): Fri May 02 13:26:29 2008
+[05/02/2008 01:26:29 PM] Karan Shah: are we meeting today in class?
+[05/02/2008 01:32:35 PM] *** "Karan Shah" signed off at Fri May 02 13:32:35 2008.
+Session Close (Karan Shah): Fri May 02 13:44:20 2008
+
+
+Session Start (bjcullinan:Karan Shah): Mon May 05 16:48:25 2008
+[05/05/2008 04:48:40 PM] Brian Cullinan: could you do me a really big favor and send me your study guide for xml class?
+[05/05/2008 04:54:28 PM] Brian Cullinan: want to study for xml tomorrow?
+Session Close (Karan Shah): Mon May 05 18:11:08 2008
+
+
+Session Start (bjcullinan:Karan Shah): Mon May 05 18:24:01 2008
+[05/05/2008 06:24:01 PM] Karan Shah: yea
+[05/05/2008 06:24:10 PM] Karan Shah: do you want to meet at 6 tomorrow?
+[05/05/2008 06:32:42 PM] Brian Cullinan: sure
+[05/05/2008 06:42:07 PM] *** "Karan Shah" signed off at Mon May 05 18:42:07 2008.
+[05/05/2008 07:03:25 PM] *** "Karan Shah" signed on at Mon May 05 19:03:25 2008.
+Session Close (Karan Shah): Mon May 05 19:13:40 2008
+
+
+Session Start (bjcullinan:fingereleven0606): Mon May 18 21:10:19 2009
+[05/18/2009 09:10:19 PM] *** NOTE: This user is offline.  Your messages will most likely *not* be received!
+Session Close (Karan Shah): Mon May 18 21:11:30 2009
+
+

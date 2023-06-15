@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6229121082385854464/",
+    "participants": [
+        {
+            "name": "Jarrett Barnett",
+            "title": "Full-Stack PHP Software & DevOps Engineer",
+            "url": "linkedin.com/in/jarrettbarnett",
+            "phone": "530-430-7716 (Mobile)",
+            "email": "linkedin@jarrettbarnett.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-23T02:23:00.000Z"
+        },
+        {
+            "from": "Jarrett Barnett",
+            "message": "No problem! I noticed you had some association with Charles Schwab. I actually worked on a year long project with the AboutSchwab team a couple of years a go.\n",
+            "time": "2018-01-23T02:53:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "What was the best part?\n",
+            "time": "2018-01-23T05:26:00.000Z"
+        },
+        {
+            "from": "Jarrett Barnett",
+            "message": "Definitely the people.\n",
+            "time": "2018-01-23T05:44:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "So far I am having a hard time understanding how the people are contributing to my career development. I came here to learn how corporate America works and my learning process has been hindered by top heavy management and \"application owners\". The people here have the mindset that demonstrating their own utility is more important than helping others or the companies goals.\n",
+            "time": "2018-01-23T15:54:00.000Z"
+        },
+        {
+            "from": "Jarrett Barnett",
+            "message": "I hear you there. I'm not sure what the inside looks like since I had more of a contractor relationship with the folks at AboutSchwab, but I definitely understand what you mean. It's something many old school corporations have had trouble with (especially in the financial sector, at least from what I've read).\n",
+            "time": "2018-01-23T16:40:00.000Z"
+        }
+    ]
+}

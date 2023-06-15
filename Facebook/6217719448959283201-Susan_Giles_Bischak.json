@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6217719448959283201/",
+    "participants": [
+        {
+            "name": "Susan Giles Bischak",
+            "title": "CEO and Certified Executive Coach at Giles & Company Strategic Business Consultants, Inc.",
+            "url": "linkedin.com/in/susangilesbischak",
+            "phone": "602.314.7223 (Work)",
+            "email": "sbischak@giles-company.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-12-22T15:17:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Susan Giles Bischak",
+            "time": "2017-03-08T23:13:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-08T23:22:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

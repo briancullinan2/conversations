@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6214536730767343616/",
+    "participants": [
+        {
+            "name": "Emma Lynch",
+            "title": "Talent Acquisition",
+            "url": "linkedin.com/in/emma-lynch-3569a122",
+            "phone": null,
+            "email": "emma.lynch@monster.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-13T20:30:00.000Z"
+        },
+        {
+            "from": "Emma Lynch",
+            "message": "Hi Brian - thank you for accepting my outreach! I'm working on a Full Stack Developer/Architect opportunity for a company called Altria in Richmond, VA and a Lead Developer role focused on Angular in Chicago for a company called Silliker. Both companies are providing relocation assistance. If you're open to either, please let me know and we can schedule some time to chat.\n\nThank you!\n-Emma\n",
+            "time": "2017-12-13T22:02:00.000Z"
+        }
+    ]
+}

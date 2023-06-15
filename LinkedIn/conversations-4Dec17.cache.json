@@ -1,0 +1,328 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "4Dec17",
+    "participants": "Brian Cullinan | wizard > Laura Burgueno | Sr. Financial Reporting Consultant",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Laura Burgueno",
+        "url": "linkedin.com/in/laura-burgueno-44b1b42a",
+        "phone": "6022936225 (Home)",
+        "email": "ldburgueno1@gmail.com",
+        "title": "Sr. Financial Reporting Consultant"
+      }
+    ],
+    "message": "You're a genius!",
+    "time": "2017-12-04T22:58:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Dec17",
+    "participants": "Laura Burgueno | Sr. Financial Reporting Consultant > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Laura Burgueno",
+        "url": "linkedin.com/in/laura-burgueno-44b1b42a",
+        "phone": "6022936225 (Home)",
+        "email": "ldburgueno1@gmail.com",
+        "title": "Sr. Financial Reporting Consultant"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Why is that?",
+    "time": "2017-12-04T23:02:00.000Z",
+    "title": "Sr. Financial Reporting Consultant"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Dec17",
+    "participants": "Brian Cullinan | wizard > Laura Burgueno | Sr. Financial Reporting Consultant",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Laura Burgueno",
+        "url": "linkedin.com/in/laura-burgueno-44b1b42a",
+        "phone": "6022936225 (Home)",
+        "email": "ldburgueno1@gmail.com",
+        "title": "Sr. Financial Reporting Consultant"
+      }
+    ],
+    "message": "You friended me quickly. How have you been?",
+    "time": "2017-12-04T23:20:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Dec17",
+    "participants": "Brian Cullinan | wizard > Jenny Miller | Talent Acquisition Manager at Kinney Group, Inc.",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Jenny Miller",
+        "url": "linkedin.com/in/jennyannemiller",
+        "title": "Talent Acquisition Manager at Kinney Group, Inc."
+      }
+    ],
+    "message": "Not much time for calls. What is the most important information in 1 sentence?",
+    "time": "2017-12-04T22:39:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Dec17",
+    "participants": "Brian Cullinan | wizard > Drew Phillips, MBA | Investment Analyst at MRA Associates",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Drew Phillips, MBA",
+        "url": "linkedin.com/in/drew-phillips-mba",
+        "email": "daphillips11@yahoo.com",
+        "title": "Investment Analyst at MRA Associates"
+      }
+    ],
+    "message": "How are you?",
+    "time": "2017-12-04T21:01:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Dec17",
+    "participants": "Drew Phillips, MBA | Investment Analyst at MRA Associates > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Drew Phillips, MBA",
+        "url": "linkedin.com/in/drew-phillips-mba",
+        "email": "daphillips11@yahoo.com",
+        "title": "Investment Analyst at MRA Associates"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Doing well! Long time no talk. How have you been?",
+    "time": "2017-12-04T21:04:00.000Z",
+    "title": "Investment Analyst at MRA Associates"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Dec17",
+    "participants": "Brian Cullinan | wizard > Drew Phillips, MBA | Investment Analyst at MRA Associates",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Drew Phillips, MBA",
+        "url": "linkedin.com/in/drew-phillips-mba",
+        "email": "daphillips11@yahoo.com",
+        "title": "Investment Analyst at MRA Associates"
+      }
+    ],
+    "message": "Super, just took a job at Charles Schwab.",
+    "time": "2017-12-04T21:41:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Dec17",
+    "participants": "Drew Phillips, MBA | Investment Analyst at MRA Associates > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Drew Phillips, MBA",
+        "url": "linkedin.com/in/drew-phillips-mba",
+        "email": "daphillips11@yahoo.com",
+        "title": "Investment Analyst at MRA Associates"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Oh yeah? Doing what? That is where my company has all of our assets.",
+    "time": "2017-12-04T22:17:00.000Z",
+    "title": "Investment Analyst at MRA Associates"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Dec17",
+    "participants": "Brian Cullinan | wizard > Drew Phillips, MBA | Investment Analyst at MRA Associates",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Drew Phillips, MBA",
+        "url": "linkedin.com/in/drew-phillips-mba",
+        "email": "daphillips11@yahoo.com",
+        "title": "Investment Analyst at MRA Associates"
+      }
+    ],
+    "message": "Interesting. Access management. I own all your data then.",
+    "time": "2017-12-04T22:39:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Dec17",
+    "participants": "Drew Phillips, MBA | Investment Analyst at MRA Associates > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Drew Phillips, MBA",
+        "url": "linkedin.com/in/drew-phillips-mba",
+        "email": "daphillips11@yahoo.com",
+        "title": "Investment Analyst at MRA Associates"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "That's cool. Schwab is a good company. Congratulations on the new job.",
+    "time": "2017-12-04T23:54:00.000Z",
+    "title": "Investment Analyst at MRA Associates"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Dec17",
+    "participants": "Brian Cullinan | wizard > Joseph Cisneros | Site Reliability Engineer",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Joseph Cisneros",
+        "url": "linkedin.com/in/josephcisneros",
+        "email": "jcisneros@ctcs.com",
+        "title": "Site Reliability Engineer"
+      }
+    ],
+    "message": "You've arrived just in time! You must be a wizard!",
+    "time": "2017-12-04T22:59:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Dec17",
+    "participants": "Brian Cullinan | wizard > Sean LaJeunesse | Workflow/Process Engineer at Apex Systems/AT&T",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Sean LaJeunesse",
+        "url": "linkedin.com/in/sean-lajeunesse-50095958",
+        "email": "Seanlajeunesse@yahoo.com",
+        "title": "Workflow/Process Engineer at Apex Systems/AT&T"
+      }
+    ],
+    "message": "You've arrived just in time! You must be a wizard!",
+    "time": "2017-12-04T22:38:00.000Z",
+    "title": "wizard"
+  }
+]

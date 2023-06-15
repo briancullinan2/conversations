@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6230484939792531456/",
+    "participants": [
+        {
+            "name": "Justin Crast",
+            "title": "Technical Analyst at Phreedom Technologies",
+            "url": "linkedin.com/in/justin-crast-093a90b5",
+            "phone": null,
+            "email": "crastjustin@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-26T20:42:00.000Z"
+        },
+        {
+            "from": "Justin Crast",
+            "message": "Hey, no problem! Thanks for connecting as well.\n",
+            "time": "2018-01-26T21:00:00.000Z"
+        }
+    ]
+}

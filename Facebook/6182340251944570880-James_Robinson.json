@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6182340251944570880/",
+    "participants": [
+        {
+            "name": "James Robinson",
+            "title": "Statistical Consultant",
+            "url": "linkedin.com/in/james-robinson-9b97205",
+            "phone": null,
+            "email": "james.mac.robinson@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Hey buddy how's it going!? I am looking for work. What have you been up to?",
+            "time": "2017-10-05T00:12:00.000Z"
+        },
+        {
+            "from": "James Robinson",
+            "message": "Hey Brian! Life is good. We are busy being parents these days. It's been awesome! You still doing programming?",
+            "time": "2017-10-05T03:52:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Parents!  That's awesome.  I just got laid off.  Been working on an iOS app called Study Sauce.  Invite code is \"demo\" if you are curious to check it out.  It is like flashcards but it reminds you to study based on when you get it wrong or right.",
+            "time": "2017-10-05T02:09:00.000Z"
+        }
+    ]
+}

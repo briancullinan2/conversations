@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6198919641071435776/",
+    "participants": [
+        {
+            "name": "Mindy Coppo",
+            "title": "Digit",
+            "url": "linkedin.com/in/mindycoppo",
+            "phone": null,
+            "email": "mindycoppo@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for the connect! So excited!",
+            "time": "2017-10-04T18:13:00.000Z"
+        },
+        {
+            "from": "Mindy Coppo",
+            "message": "",
+            "time": "2017-10-04T17:50:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Can you remind me of the recruiting software you or Michael uses?",
+            "time": "2017-10-04T12:03:00.000Z"
+        }
+    ]
+}

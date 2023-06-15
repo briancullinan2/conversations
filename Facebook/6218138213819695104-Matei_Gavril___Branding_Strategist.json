@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6218138213819695104/",
+    "participants": [
+        {
+            "name": "Matei Gavril - Branding Strategist",
+            "title": "We Help You Win More Clients by Building Your Brand and Promoting Your Products Through Our Unique Marketing Strategies",
+            "url": "linkedin.com/in/mateigavril",
+            "phone": null,
+            "email": "linkbuildingoffice@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-23T19:01:00.000Z"
+        },
+        {
+            "from": "Matei Gavril - Branding Strategist",
+            "message": "Sure , Np!\n",
+            "time": "2017-12-24T05:32:00.000Z"
+        }
+    ]
+}

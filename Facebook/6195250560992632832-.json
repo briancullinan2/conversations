@@ -1,0 +1,36 @@
+{
+    "thread": "/messaging/thread/6195250560992632832/",
+    "participants": [],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting, I have a question for you about iOS.",
+            "time": "2017-10-30T15:13:00.000Z"
+        },
+        {
+            "from": "LinkedIn Member",
+            "message": "Hey Brian, pleasure to meet you. What's up?",
+            "time": "2017-10-30T16:24:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I am curious what you would use to apply a \"theme\" to an iOS app. Do you use the appearance feature built in to swift? Similar code for different size screens? Text color, heading color, etc.",
+            "time": "2017-10-30T16:27:00.000Z"
+        },
+        {
+            "from": "LinkedIn Member",
+            "message": "https://www.raywenderlich.com/108766/uiappearance-tutorial\n, a note about that tutorial is that I don't think it's converted to Swift 3.0",
+            "time": "2017-10-30T17:12:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Cool.  I tried the CSS media queries but there is so much overhead for something so simple!  Would you be interested in the plugin I wrote that makes heavy use of generics?  It's only 2 drop in files, very easy to read, it kind adds CSS style options but allows you to address any class type in hierarchy.",
+            "time": "2017-10-30T17:12:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Wow, GitHub is down right now.",
+            "time": "2017-10-30T17:41:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6231884216129380352/",
+    "participants": [
+        {
+            "name": "Vaughn L. Hazen",
+            "title": "Chief Information Security Officer",
+            "url": "linkedin.com/in/vaughnhazen",
+            "phone": null,
+            "email": "vaughn.hazen@juno.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-30T17:23:00.000Z"
+        }
+    ]
+}

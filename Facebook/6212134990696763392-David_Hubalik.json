@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6212134990696763392/",
+    "participants": [
+        {
+            "name": "David Hubalik",
+            "title": "Associate Vice President at BASIS.ed",
+            "url": "linkedin.com/in/david-hubalik-a44a69a2",
+            "phone": null,
+            "email": "david.hubalik@basismesa.org"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "I've been working on an edtech startup for 3 years I would love to talk to you :)\n",
+            "time": "2017-12-07T05:26:00.000Z"
+        },
+        {
+            "from": "David Hubalik",
+            "message": "Can you share a little more? I am not currently looking, but have would love to hear more.\n",
+            "time": "2017-12-13T00:47:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Have you read this? http://www.smithsonianmag.com/innovation/peacemaker-david-lynch-winner-smithsonian-ingenuity-awards-education-180961126/\n",
+            "time": "2017-12-13T02:00:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6213077711242485760/",
+    "participants": [
+        {
+            "name": "Steve Getman",
+            "title": "Partner/CTO/CIO at Flash Point Communications",
+            "url": "linkedin.com/in/getman",
+            "phone": null,
+            "email": "steve@lightcubed.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-09T19:52:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6240342682573504512/",
+    "participants": [
+        {
+            "name": "Josh Huckabee",
+            "title": "Full-stack web and mobile application developer",
+            "url": "linkedin.com/in/joshhuckabee",
+            "phone": null,
+            "email": "joshhuckabee@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-02-23T01:33:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-31T22:39:00.000Z",
+            "message": "Congrats on the new job!\n"
+        }
+    ]
+}

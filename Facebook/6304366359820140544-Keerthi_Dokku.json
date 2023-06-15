@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6304366359820140544/",
+    "participants": [
+        {
+            "name": "Keerthi Dokku",
+            "title": "Talent Acquisition Specialist @ Infosys",
+            "url": "linkedin.com/in/keerthidokku",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Keerthi Dokku",
+            "message": "SugarCRM - Full time permanent role with Infosys\nkeerthi_dokku@infosys.com\nkeerthi_dokku@infosys.com",
+            "time": "2017-08-18T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "\"Doing fine\"? I don't need any more fines.",
+            "time": "2017-08-22T17:07:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6204686705086251011/",
+    "participants": [
+        {
+            "name": "Mark Masterson",
+            "title": "Vice President Government Solutions at LearningMate",
+            "url": "linkedin.com/in/marktmasterson",
+            "phone": "480-375-0693 (Mobile)",
+            "email": "mark.masterson@live.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "As someone who has worked in an EdTech startup for the last 3 years and read your job posting, I can tell you need me desperately.\r\n\r\n- Brian Cullinan\n",
+            "time": "2017-11-16T16:09:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "You guys need my help!\n",
+            "time": "2017-11-16T17:21:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Sounds like you are upgrading your software systems. Do you think it would be worth it to upgrade your recruiting and staffing process too?\n",
+            "time": "2017-11-16T21:41:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Hmm now I know why this is taking so long.\n",
+            "time": "2017-12-27T18:28:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Congrats on your work anniversary!\n",
+            "time": "2018-01-27T00:24:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,322 @@
+[
+    {
+        "experience": [
+            "Highlights",
+            [
+                "10 Mutual Connections",
+                "You and Nimish both know Sylvia Kubiak, Monica Hatchett, and 8 others"
+            ],
+            [
+                "You both worked at Charles Schwab",
+                "You both worked at Charles Schwab from Nov 2016 to Feb 2017"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                ".Net C# Developer Contractor",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "Jun 2016 – Present",
+                "Employment Duration",
+                "1 yr 5 mos",
+                "Location",
+                "Austin, Texas Area",
+                "Responsibilities:•\tWorking on designs, architecture & development, existing implementation review, troubleshooting, performance and optimization. •\tWorking on requirement analysis and development of performance management domain back-end applications and web (RESTful) services.•\tMulti-threaded Web services and micro-services development using C#, LINQ, .NET 4.6 / 4.5.1, Git, Swagger, JIRA, NLog, dot Trace, Memory and Performance profiler (Jet brains), .NET ReSharper, Visual Studio 2015 and 2017.•\tUsed SOLID / YAGNI / TDD and REST design principles and practices."
+            ],
+            [
+                "Contract Software Engineer",
+                "Company Name",
+                "Wayne, Fueling Systems",
+                "Dates Employed",
+                "Apr 2014 – Jun 2016",
+                "Employment Duration",
+                "2 yrs 3 mos",
+                "Location",
+                "Austin, Texas Area",
+                "* Extensive design and development of financial transactions, POS and/or fuel management solutions.* Design, implement and deliver high quality solutions on variety of platforms.* Modify and extend existing global payment applications design framework to process EMV card transactions.* Interface with customers and their software developers and integrator.* Working on requirement analysis, design, development and testing of different fuel & payment processing management applications.* Working on multi-threaded windows services and applications development using C#, LINQ, .Net 4.5, Rx Extensions, Task/TPL, RESTful Api, WebServices, JSON.Net, WiX, MTM, VS 2015 on Win 8.1 for POS and Win 10.* Design and developed a Mannatec Front End Processor (FEP) application for electronic payment system (EPS) serving different clients/host-networks like: Chevron, Heartland and First Data.* Worked in Kanban and Agile Programming Methodology (Scrum) to accomplish scheduled targets with quality."
+            ],
+            [
+                "WPF, C#, .NET contractor developer",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "Jul 2012 – Dec 2013",
+                "Employment Duration",
+                "1 yr 6 mos",
+                "Location",
+                "Austin, Texas Area",
+                "Responsibilities:•  Worked on designs, architecture & development, existing design review, critical engineering, troubleshooting, performance and optimization. •  Worked on requirement analysis of options trading, option strategies (multi-leg) and implementation of Trade ticket, Watch-list and Order Status tools.•  Multi-threaded Desktop (Windows) application development using WPF, C#, LINQ, .NET 3.5 and Visual Studio 2010 (TFS for developers) on Win XP.•  Used MVVM and MVP design patterns for WPF development framework.•  Optimization of Visual tree, rendering and defining UI functions and controls (User-control and custom-control) using XAML and WPF code behind.•  Worked in Agile Programming Methodology (Scrum) to accomplish tighter schedules with quality."
+            ],
+            [
+                "WPF, .NET C# contractor developer",
+                "Company Name",
+                "Quintiles",
+                "Dates Employed",
+                "Jan 2012 – Jul 2012",
+                "Employment Duration",
+                "7 mos",
+                "Location",
+                "Indianapolis, Indiana Area",
+                "•\tWorked on designs & architecture, existing design review, re-factoring, troubleshooting, performance and optimization. •\tMulti-threaded Desktop (Windows) application and service development using WPF, WCF, C#, LINQ, .NET 4.0 and Visual Studio 2010 (TFS for developers) on Win 7.•\tUsing PRISM, Entity Framework, MVPVM, MVVM and MVP design patterns for WPF development work.•\tWorked on defining UI functions and controls using XAML.•\tWorked in Agile Programming Methodology (Scrum) to accomplish tighter schedules with quality."
+            ],
+            [
+                "WPF, C#, .NET Contractor",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "Oct 2009 – Jan 2012",
+                "Employment Duration",
+                "2 yrs 4 mos",
+                "Location",
+                "Austin, Texas Area",
+                "Responsibilities:•\tWorked on designs, architecture (proof of concepts),  existing design review, critical engineering, troubleshooting, performance and optimization. •\tProvided analysis and solutions on possible trade-offs to match business requirements with current tools / technology (WPF/.NET framework etc)•\tWorked on multi-threaded Desktop (Windows) application development using WPF, C#, LINQ, .NET 3.5 and Visual Studio 2010 (TFS for developers) on Win XP.•\tUsed MVVM and MVP design patterns for WPF development work.•\tWorked on rendering, defining UI functions and controls using XAML.•\tImplemented Automation peer classes for different WPF tools/classes to support Coded UI in VS 2010 and automated testing via QTP.•\tWorked in Agile Programming Methodology (Scrum) to accomplish tighter schedules with quality."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Indira Gandhi National Open University",
+                "Degree Name",
+                "Masters in Computer Applications",
+                "Field Of Study",
+                "Computer Science, OS, Finance & Accounts, AI, Networking",
+                "Dates attended or expected graduation",
+                "2000 – 2010"
+            ],
+            [
+                "Indira Gandhi National Open University",
+                "Degree Name",
+                "Masters in Computer Applications",
+                "Field Of Study",
+                "Computer Science, OS, Finance & Accounts, AI, Networking",
+                "Dates attended or expected graduation",
+                "2000 – 2010"
+            ],
+            [
+                "Center for Development of Advance Computing",
+                "Degree Name",
+                "DAC",
+                "Field Of Study",
+                "C/C++, VC++, Win32, Oracle, PL/SQL, T-SQL, VB, XML, Core Java",
+                "Dates attended or expected graduation",
+                "2000 – 2001",
+                "This is a certification course! Eligible for those who has extensive knowledge and understanding of C and C++ computer programming languages."
+            ],
+            [
+                "Center for Development of Advance Computing",
+                "Degree Name",
+                "DAC",
+                "Field Of Study",
+                "C/C++, VC++, Win32, Oracle, PL/SQL, T-SQL, VB, XML, Core Java",
+                "Dates attended or expected graduation",
+                "2000 – 2001",
+                "This is a certification course! Eligible for those who has extensive knowledge and understanding of C and C++ computer programming languages."
+            ],
+            [
+                "Delhi University",
+                "Degree Name",
+                "B.Com (BA)",
+                "Field Of Study",
+                "Economics, Statistics, Law, Accounts",
+                "Dates attended or expected graduation",
+                "1995 – 1998"
+            ],
+            [
+                "Delhi University",
+                "Degree Name",
+                "B.Com (BA)",
+                "Field Of Study",
+                "Economics, Statistics, Law, Accounts",
+                "Dates attended or expected graduation",
+                "1995 – 1998"
+            ],
+            "Recommendations",
+            [
+                "C# Developers - Westbourne Partners",
+                "49 members"
+            ],
+            [
+                ".Net Professionals",
+                "48,603 members"
+            ],
+            [
+                "Soka Gakkai International",
+                "3,839 members"
+            ],
+            [
+                "C# Developers / Architects",
+                "217,619 members"
+            ],
+            [
+                "Delhi University",
+                "474,130 followers"
+            ],
+            [
+                "Indira Gandhi National Open University",
+                "143,568 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "C# Developers - Westbourne Partners",
+                "49 members"
+            ],
+            [
+                "C# Developers - Westbourne Partners",
+                "49 members"
+            ],
+            [
+                ".Net Professionals",
+                "48,603 members"
+            ],
+            [
+                ".Net Professionals",
+                "48,603 members"
+            ],
+            [
+                "Soka Gakkai International",
+                "3,839 members"
+            ],
+            [
+                "Soka Gakkai International",
+                "3,839 members"
+            ],
+            [
+                "C# Developers / Architects",
+                "217,619 members"
+            ],
+            [
+                "C# Developers / Architects",
+                "217,619 members"
+            ],
+            [
+                "Delhi University",
+                "474,130 followers"
+            ],
+            [
+                "Delhi University",
+                "474,130 followers"
+            ],
+            [
+                "Indira Gandhi National Open University",
+                "143,568 followers"
+            ],
+            [
+                "Indira Gandhi National Open University",
+                "143,568 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Michael Sherin",
+                "Director of Engineering and Software Development at Libra Systems Inc.",
+                "June 3, 2009, Michael managed Nimish directly",
+                "Nimish is a dedicated, resourceful, and intelligent software engineer.  He is a valuable team member who is always willing and eager to learn new technologies and apply them effectively.  Nimish always has a smile on his face and is ready for any challenge that comes his way."
+            ],
+            [
+                "Michael Sherin",
+                "Director of Engineering and Software Development at Libra Systems Inc.",
+                "June 3, 2009, Michael managed Nimish directly"
+            ],
+            [
+                "Michael Sherin",
+                "Director of Engineering and Software Development at Libra Systems Inc.",
+                "June 3, 2009, Michael managed Nimish directly"
+            ],
+            [
+                "Michael Sherin",
+                "Director of Engineering and Software Development at Libra Systems Inc.",
+                "June 3, 2009, Michael managed Nimish directly"
+            ],
+            "Director of Engineering and Software Development at Libra Systems Inc.",
+            [
+                "Nimish is a dedicated, resourceful, and intelligent software engineer.  He is a valuable team member who is always willing and eager to learn new technologies and apply them effectively.  Nimish always has a smile on his face and is ready for any challenge that comes his way."
+            ],
+            [
+                "Nimish is a dedicated, resourceful, and intelligent software engineer.  He is a valuable team member who is always willing and eager to learn new technologies and apply them effectively.  Nimish always has a smile on his face and is ready for any challenge that comes his way."
+            ],
+            [
+                "Michael Sherin",
+                "Director of Engineering and Software Development at Libra Systems Inc.",
+                "June 4, 2009, Nimish reported directly to Michael",
+                "Michael is a cooperative, cool-headed and detail-oriented project manager. He is very good in project planning and resource management.  He is a manager who can manage balance of work within different projects and respective team members without losing sight of strategic goals.  I really like to work under him."
+            ],
+            [
+                "Michael Sherin",
+                "Director of Engineering and Software Development at Libra Systems Inc.",
+                "June 4, 2009, Nimish reported directly to Michael"
+            ],
+            [
+                "Michael Sherin",
+                "Director of Engineering and Software Development at Libra Systems Inc.",
+                "June 4, 2009, Nimish reported directly to Michael"
+            ],
+            [
+                "Michael Sherin",
+                "Director of Engineering and Software Development at Libra Systems Inc.",
+                "June 4, 2009, Nimish reported directly to Michael"
+            ],
+            "Director of Engineering and Software Development at Libra Systems Inc.",
+            [
+                "Michael is a cooperative, cool-headed and detail-oriented project manager. He is very good in project planning and resource management.  He is a manager who can manage balance of work within different projects and respective team members without losing sight of strategic goals.  I really like to work under him."
+            ],
+            [
+                "Michael is a cooperative, cool-headed and detail-oriented project manager. He is very good in project planning and resource management.  He is a manager who can manage balance of work within different projects and respective team members without losing sight of strategic goals.  I really like to work under him."
+            ],
+            [
+                "Faisal Khan",
+                "Senior Software Specialist at Teoco Software",
+                "May 19, 2008, Nimish worked with Faisal in different groups",
+                "Faisal is very hardworking and dedicated team member. He is a valuable resources for his team. I wish all the best for all his future endeavors."
+            ],
+            [
+                "Faisal Khan",
+                "Senior Software Specialist at Teoco Software",
+                "May 19, 2008, Nimish worked with Faisal in different groups"
+            ],
+            [
+                "Faisal Khan",
+                "Senior Software Specialist at Teoco Software",
+                "May 19, 2008, Nimish worked with Faisal in different groups"
+            ],
+            [
+                "Faisal Khan",
+                "Senior Software Specialist at Teoco Software",
+                "May 19, 2008, Nimish worked with Faisal in different groups"
+            ],
+            "Senior Software Specialist at Teoco Software",
+            [
+                "Faisal is very hardworking and dedicated team member. He is a valuable resources for his team. I wish all the best for all his future endeavors."
+            ],
+            [
+                "Faisal is very hardworking and dedicated team member. He is a valuable resources for his team. I wish all the best for all his future endeavors."
+            ]
+        ],
+        "skills": [],
+        "summary": "    16+ years of complete software development life cycle experience for multi-tier client-server windows applications, primarily uses C#/Task/Linq (9 years), WPF/C# (6 years),  C/C++ (4.5 yrs),  Win forms (6 months), WCF/ASP.NET (1 year), VB (2 years) and ASP (6 months) languages. Extensively involve in the requirement analysis, architecture designing, configuration, development, implementation and releases of products. Well versed with Agile programming methodology and design principles. Always focused towards productivity, accountability and quality.Specialties: Requirement analysis, concept designing/architecture, implementation (coding), performance, optimization, testing/verification and on-time delivery.\n  \n  \n",
+        "name": "Nimish Aggarwal",
+        "title": ".Net Developer Contractor at Charles Schwab",
+        "url": "linkedin.com/in/nimishaggarwal",
+        "phone": "443-262-1842 (Mobile)",
+        "email": "aggarwal.nimish@gmail.com"
+    }
+]

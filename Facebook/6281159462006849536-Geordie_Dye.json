@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6281159462006849536/",
+    "participants": [
+        {
+            "name": "Geordie Dye",
+            "title": "Professional Recruiter at Apex Systems",
+            "url": "linkedin.com/in/geordie-dye-96494539",
+            "phone": "480-368-2480 (Work)",
+            "email": "gdye@apexsystemsinc.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Geordie Dye",
+            "time": "2017-06-15T12:00:00.000Z",
+            "message": "Direct Hire - Sr. Devops Engineer - Phoenix, AZ\n\nDear Brian, \n\nI wanted to connect with you in regards to a direct hire opportunity for a Sr. DevOps Engineer in the Phoenix area with an excellent pay rate and benefits. Please let me know if you know of anyone that comes from a background working as a DevOps Engineer with strong Cloud experience, and a background in automation experience within Puppet, Chef, or Salt. \n\nIf you are interested, or know someone that would be, it would be great to grab an updated resume as well!\n\nThanks for your time\n\nGeordie Dye\nProfessional Recruiter at Apex Systems\n480-368-2480 | gdye@apexsystemsinc.com\n"
+        }
+    ]
+}

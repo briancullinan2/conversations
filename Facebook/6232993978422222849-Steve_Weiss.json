@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6232993978422222849/",
+    "participants": [
+        {
+            "name": "Steve Weiss",
+            "title": "CEO MuteSix (We're Hiring!)",
+            "url": "linkedin.com/in/stevejweiss",
+            "phone": null,
+            "email": "sweiss212@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-02-02T18:52:00.000Z"
+        }
+    ]
+}

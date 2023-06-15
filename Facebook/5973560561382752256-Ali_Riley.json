@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/5973560561382752256/",
+    "participants": [
+        {
+            "name": "Ali Riley",
+            "title": "Account Executive at TRUEPIC, Inc",
+            "url": "linkedin.com/in/ali-riley-37167791",
+            "phone": null,
+            "email": "ali.megan.riley@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Ali Riley",
+            "message": "South Hill Designs",
+            "time": "2015-02-17T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-10-06T23:48:00.000Z"
+        }
+    ]
+}

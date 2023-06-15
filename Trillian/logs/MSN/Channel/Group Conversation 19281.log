@@ -1,0 +1,70 @@
+﻿Session Start (b.cullinan@cox.net:Group Conversation 19281): Mon Jun 11 13:17:19 2007
+[06/11/2007 01:17:23 PM] Alex Markov: SVN
+[06/11/2007 01:17:33 PM] Alex Markov: Create a user account on server to hold the SVN files, and Websvn site.  
+Layout a general file structure to meet our current needs.  
+Configure access to each individual repository.  
+
+[06/11/2007 01:17:43 PM] Alex Markov: that is the next step for the SVN bobby
+[06/11/2007 01:17:57 PM] Robert Douglas: ok, before we make a user, we need to find out what address we want to use
+[06/11/2007 01:18:02 PM] Robert Douglas: such as svn.rp-s.com
+[06/11/2007 01:18:08 PM] Robert Douglas: i suggest we do something that is not so common
+[06/11/2007 01:18:09 PM] Alex Markov: doc.rp-s.com
+[06/11/2007 01:18:19 PM] Alex Markov: ok good point
+[06/11/2007 01:18:37 PM] Alex Markov: docs.rp-s.com sounds sweet tho
+[06/11/2007 01:18:44 PM] Robert Douglas: we have 2 main issues the svn is going to fix, the document manager, and the websites
+[06/11/2007 01:18:57 PM] Robert Douglas: ws.rp-s.com
+[06/11/2007 01:19:01 PM] Robert Douglas: docs.rp-s.com
+[06/11/2007 01:19:06 PM] Alex Markov: yes we need to make a protocol in all our sites that we have the dev.domain.com thing
+[06/11/2007 01:19:09 PM] Brian Cullinan: sounds fine
+[06/11/2007 01:19:11 PM] Robert Douglas: i'm also not sure which one we're going to roll out with first
+[06/11/2007 01:19:24 PM] Robert Douglas: didn't we conclude that the website svn is more important right now/
+[06/11/2007 01:20:03 PM] Alex Markov: im gonna say this right now... i am not using sugar docs. it is sooooo slow. i think eventually... we should have sugar pull all docs from the svn into itself automatically. but right now sugar docs is very under developed
+[06/11/2007 01:20:06 PM] Alex Markov: and is slow as fuck
+[06/11/2007 01:20:41 PM] Alex Markov: so we gonna use svn docs full force for now.
+[06/11/2007 01:21:20 PM] Alex Markov: so i say we roll out with both at same time
+[06/11/2007 01:21:45 PM] Robert Douglas: we're going to have to detail out the directories we want fort he doc manager
+[06/11/2007 01:21:48 PM] Alex Markov: i think it should be code.rp-s.com and docs.rp-s.com
+[06/11/2007 01:21:56 PM] Alex Markov: we will
+[06/11/2007 01:22:05 PM] Alex Markov: i will do that
+[06/11/2007 01:22:10 PM] Brian Cullinan: ok
+[06/11/2007 01:22:12 PM] Robert Douglas: ok
+[06/11/2007 01:22:20 PM] Robert Douglas: i'm fine with code.rp-s.com
+[06/11/2007 01:22:33 PM] Alex Markov: ok. bobby. put on your list to do when u get home... to make account for those two 
+[06/11/2007 01:22:35 PM] Alex Markov: code and docs
+[06/11/2007 01:22:42 PM] Alex Markov: and lets get rolling on this
+[06/11/2007 01:22:49 PM] Alex Markov: comprende?
+[06/11/2007 01:23:35 PM] Alex Markov: hey chico?
+[06/11/2007 01:23:36 PM] Brian Cullinan: i am just waiting for these things to happen
+[06/11/2007 01:23:51 PM] Brian Cullinan: i don't have server privilages
+[06/11/2007 01:24:03 PM] Alex Markov: i understand. it will be done tonight
+[06/11/2007 01:24:04 PM] Brian Cullinan: so i can't useradd that shit
+[06/11/2007 01:24:23 PM] Robert Douglas: sec, phone
+[06/11/2007 01:24:37 PM] Alex Markov: moving on
+[06/11/2007 01:24:51 PM] Alex Markov: we need the protocol for protocols up
+[06/11/2007 01:24:56 PM] Alex Markov: what is progrss on that brian
+[06/11/2007 01:25:07 PM] Alex Markov: i want to start writing protocols for everything using the new protocol for protocols
+[06/11/2007 01:25:09 PM] Brian Cullinan: it is in the forums
+[06/11/2007 01:25:13 PM] Alex Markov: link
+[06/11/2007 01:25:45 PM] Alex Markov: in the future. when u make a new important post. email it to me. until we get some heavy posting in the forums...and i am loggin in many times a day
+[06/11/2007 01:25:56 PM] Alex Markov: or send me a private message in the forum with the link to the post
+[06/11/2007 01:25:59 PM] Brian Cullinan: (Link: http://www.rp-s.com/forum/showthread.php?t=112)http://www.rp-s.com/forum/showthread.php?t=112
+[06/11/2007 01:26:25 PM] Brian Cullinan: you know it lists the new posts in forums
+[06/11/2007 01:26:55 PM] Robert Douglas: keep this on topic plz
+[06/11/2007 01:27:04 PM] Robert Douglas: if u have to discuss something else, open a new window
+[06/11/2007 01:27:26 PM] Brian Cullinan: sorry i thought that was relevant
+[06/11/2007 01:27:43 PM] Alex Markov: this is on topic boby. this is the next topic in the meeting
+[06/11/2007 01:27:54 PM] Alex Markov: the svn discussion is over. tonight u need to make the two accounts
+[06/11/2007 01:27:56 PM] Alex Markov: ok?
+[06/11/2007 01:27:59 PM] Alex Markov: put it on your lit
+[06/11/2007 01:28:00 PM] Alex Markov: list
+[06/11/2007 01:29:01 PM] Alex Markov: brian... moving on
+[06/11/2007 01:29:03 PM] Alex Markov: good stuff
+[06/11/2007 01:29:31 PM] Robert Douglas: i'm not done with SVN alex
+[06/11/2007 01:29:41 PM] Alex Markov: ok go ahead
+[06/11/2007 01:29:46 PM] Robert Douglas: i'm still on the phone, hang on
+[06/11/2007 01:30:07 PM] Alex Markov: brian... we need to add format and purpose descriptions
+[06/11/2007 01:30:29 PM] Brian Cullinan: to protocol protocol?
+[06/11/2007 01:30:38 PM] *** Merlin has left the conversation.
+Session Close (Group Conversation 19281): Mon Jun 11 13:30:38 2007
+
+

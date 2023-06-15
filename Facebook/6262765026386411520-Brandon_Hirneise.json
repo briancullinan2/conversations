@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6262765026386411520/",
+    "participants": [
+        {
+            "name": "Brandon Hirneise",
+            "title": "Account Manager at Apex Systems",
+            "url": "linkedin.com/in/brandon-hirneise-28b91993",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Brandon Hirneise",
+            "time": "2017-04-25T12:00:00.000Z",
+            "message": "Devops Engineer - Direct Hire - Scottsdale\n\nDear Brian, \n\nI came across your profile and wanted to reach out to you in regards to a direct hire opportunity I am currently working on in the Scottsdale area for a Devops engineer. It is looking for someone with a background in Linux, Java, and ideally some cloud experience within AWS or Azure. \n\nThank you and hope to talk soon!\n\nBrandon Hirneise\nbhirneise@apexsystemsinc.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-25T22:34:00.000Z",
+            "message": "What company?\n"
+        },
+        {
+            "from": "Brandon Hirneise",
+            "time": "2017-04-25T22:59:00.000Z",
+            "message": "It's with Choice Hotels. Has someone else reached out to you in regards to the position yet? If not I would love to go over it with you further.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-25T23:01:00.000Z",
+            "message": "Yes. Choice hotels is full of it. I've applied and never heard back.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-25T23:01:00.000Z",
+            "message": "They only conduct interviews so they have an excuse to hire Indians.\n"
+        }
+    ]
+}

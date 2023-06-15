@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6220996179916840960/",
+    "participants": [
+        {
+            "name": "Terri Kimble",
+            "title": "CEO at Chandler Chamber of Commerce",
+            "url": "linkedin.com/in/terrikimble",
+            "phone": "2314993664 (Mobile)",
+            "email": "terri_kimble@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-31T16:17:00.000Z"
+        }
+    ]
+}

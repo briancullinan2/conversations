@@ -1,0 +1,84 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "15Nov17",
+    "participants": "Jaime Neufer | Leader, Problem Solver, Abstract Thinker, Office Energy Generator, & Morale Booster > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Jaime Neufer",
+        "url": "linkedin.com/in/jaime-neufer-032ba65b",
+        "phone": "216-262-6008 (Mobile)",
+        "email": "jaimeneufer@gmail.com",
+        "title": "Leader, Problem Solver, Abstract Thinker, Office Energy Generator, & Morale Booster"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Thanks for endorsing me for Process Improvement!",
+    "time": "2017-11-15T16:20:00.000Z",
+    "title": "Leader, Problem Solver, Abstract Thinker, Office Energy Generator, & Morale Booster"
+  },
+  {
+    "type": "conversations",
+    "conversations": "15Nov17",
+    "participants": "Brian Cullinan | wizard > Jaime Neufer | Leader, Problem Solver, Abstract Thinker, Office Energy Generator, & Morale Booster",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Jaime Neufer",
+        "url": "linkedin.com/in/jaime-neufer-032ba65b",
+        "phone": "216-262-6008 (Mobile)",
+        "email": "jaimeneufer@gmail.com",
+        "title": "Leader, Problem Solver, Abstract Thinker, Office Energy Generator, & Morale Booster"
+      }
+    ],
+    "message": "Thanks for endorsing me for all my skills too!",
+    "time": "2017-11-15T16:22:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "15Nov17",
+    "participants": "Brian Cullinan | wizard > Anthony Dryer | Operations Manager at Elevated Third",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Anthony Dryer",
+        "url": "linkedin.com/in/anthony-dryer-b393421b",
+        "title": "Operations Manager at Elevated Third"
+      }
+    ],
+    "message": "Yikes. Drupal. Last time I used that I stopped because the community has zero organization.",
+    "time": "2017-11-15T22:52:00.000Z",
+    "title": "wizard"
+  }
+]

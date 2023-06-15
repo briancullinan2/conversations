@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6230106163535507456/",
+    "participants": [
+        {
+            "name": "John Lemp",
+            "title": "CEO & Founder, Revcontent, LLC",
+            "url": "linkedin.com/in/johndlemp",
+            "phone": "9415846572 (Work)",
+            "email": "john@revcontent.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-25T19:37:00.000Z"
+        }
+    ]
+}

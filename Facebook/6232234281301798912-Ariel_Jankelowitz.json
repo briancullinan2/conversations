@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6232234281301798912/",
+    "participants": [
+        {
+            "name": "Ariel Jankelowitz",
+            "title": "Human Factors Researcher",
+            "url": "linkedin.com/in/jankelowitz",
+            "phone": null,
+            "email": "ajankelo@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-31T16:34:00.000Z"
+        }
+    ]
+}

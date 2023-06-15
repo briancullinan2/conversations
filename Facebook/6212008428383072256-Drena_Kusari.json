@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6212008428383072256/",
+    "participants": [
+        {
+            "name": "Drena Kusari",
+            "title": "General Manager at Lyft",
+            "url": "linkedin.com/in/drena-kusari-a40a322",
+            "phone": null,
+            "email": "drena.kusari@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting! I'd love to come work for you but I signed an NDA at Cruise automation.\n",
+            "time": "2017-12-06T21:03:00.000Z"
+        }
+    ]
+}

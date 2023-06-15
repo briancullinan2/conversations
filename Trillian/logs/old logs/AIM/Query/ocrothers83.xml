@@ -1,0 +1,8 @@
+<session type="start" time="1139615933" medium="AIM" to="ocrothers83" from="BrianJCullinan"/>
+<message type="information_standard" time="1139615933" medium="AIM" text="NOTE%3A%20This%20user%20is%20offline%2E%20%20Your%20messages%20will%20most%20likely%20%2Anot%2A%20be%20received%21"/>
+<message type="outgoing_privateMessage" time="1139615934" medium="AIM" to="ocrothers83" from="BrianJCullinan" from_display="Me" text="hi"/>
+<message type="information_standard" time="1139615935" medium="AIM" text="Error%20while%20sending%20IM%3A%20This%20user%20is%20currently%20not%20logged%20on"/>
+<session type="stop" time="1139615936" medium="AIM" to="ocrothers83" from="BrianJCullinan"/>
+<session type="start" time="1139867039" medium="AIM" to="ocrothers83" from="BrianJCullinan"/>
+<message type="information_standard" time="1139867040" medium="AIM" text="NOTE%3A%20This%20user%20is%20offline%2E%20%20Your%20messages%20will%20most%20likely%20%2Anot%2A%20be%20received%21"/>
+<session type="stop" time="1139867059" medium="AIM" to="ocrothers83" from="BrianJCullinan"/>

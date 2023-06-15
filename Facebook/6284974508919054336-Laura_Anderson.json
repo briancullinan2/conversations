@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6284974508919054336/",
+    "participants": [
+        {
+            "name": "Laura Anderson",
+            "title": "Sr QA Analyst, Department of Transportation (ADOT)",
+            "url": "linkedin.com/in/laura-anderson-8a500a68",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-06-26T05:24:00.000Z",
+            "message": "What do you think of this? http://www.laweekly.com/news/yay-longer-yellow-traffic-light-phases-now-required-by-caltrans-5275044\n"
+        },
+        {
+            "from": "Laura Anderson",
+            "time": "2017-06-26T14:44:00.000Z",
+            "message": "Thanks\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-26T15:05:00.000Z",
+            "message": "How about this one? http://m.nautil.us/blog/traffic-wouldnt-jam-if-drivers-behaved-like-ants\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-27T03:49:00.000Z",
+            "message": "Where do I report a missing street sign at the intersection of 32nd and Camelback?\n"
+        }
+    ]
+}

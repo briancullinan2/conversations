@@ -1,0 +1,519 @@
+[
+    {
+        "resourceName": "people/c8002501950848973010",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "6f0e99200eb938d2"
+                    }
+                },
+                "displayName": "Keifer Street",
+                "familyName": "Street",
+                "givenName": "Keifer",
+                "displayNameLastFirst": "Street, Keifer"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "112114180600848248926"
+                    }
+                },
+                "displayName": "Keifer Street",
+                "familyName": "Street",
+                "givenName": "Keifer",
+                "displayNameLastFirst": "Street, Keifer"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "6f0e99200eb938d2"
+                    }
+                },
+                "value": "keiferstreet@gmail.com"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "6f0e99200eb938d2"
+                    }
+                },
+                "value": "619-770-8895",
+                "canonicalForm": "+16197708895",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "7 Mutual Connections",
+                "You and Keifer both know Abe Pralle, Travis Addair, and 5 others"
+            ],
+            [
+                "Keifer can introduce you to 2 people at Compass Group USA",
+                "Keifer worked at Compass Group USA"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "SAP FICO Business Analyst",
+                "Company Name",
+                "Compass Group USA",
+                "Dates Employed",
+                "Dec 2014 – Present",
+                "Employment Duration",
+                "2 yrs 11 mos",
+                "Location",
+                "Charlotte, North Carolina Area"
+            ],
+            [
+                "SAP Software & Solution Architect - Global Trade Services",
+                "Company Name",
+                "UTC Aerospace Systems",
+                "Dates Employed",
+                "Nov 2012 – Dec 2014",
+                "Employment Duration",
+                "2 yrs 2 mos",
+                "Location",
+                "Chula Vista, CA",
+                "I design and implement SAP ERP software globally. Specifically, I am responsible for the Global Trade Services module within SAP, which deals with global trade compliance. I also coordinate the integration of third party global trade software into the SAP ECC/GTS landscape."
+            ],
+            [
+                "SAP Business Analyst",
+                "Company Name",
+                "Goodrich Corporation",
+                "Dates Employed",
+                "Jan 2010 – Nov 2012",
+                "Employment Duration",
+                "2 yrs 11 mos",
+                "Location",
+                "Chula Vista, CA",
+                "I configured and supported SAP tax and Sabrix tax determination software. I also configured and supported the Global Trade Services module in SAP."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Business Administration (BBA)",
+                "Field Of Study",
+                "Management; Computer Information Systems; Project Management",
+                "Dates attended or expected graduation",
+                "2005 – 2009"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Business Administration (BBA)",
+                "Field Of Study",
+                "Management; Computer Information Systems; Project Management",
+                "Dates attended or expected graduation",
+                "2005 – 2009"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "Degree Name",
+                "Bachelor of Business Administration (BBA): Management",
+                "Field Of Study",
+                "Business Administration and Management; Computer Information Systems",
+                "Dates attended or expected graduation",
+                "2005 – 2009"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "Degree Name",
+                "Bachelor of Business Administration (BBA): Management",
+                "Field Of Study",
+                "Business Administration and Management; Computer Information Systems",
+                "Dates attended or expected graduation",
+                "2005 – 2009"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Northern Arizona University",
+                "100,922 followers"
+            ],
+            [
+                "Goodrich",
+                "39,425 followers"
+            ],
+            [
+                "Compass Group USA",
+                "36,815 followers"
+            ],
+            [
+                "UTC Aerospace Systems",
+                "87,694 followers"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "6,266 followers"
+            ],
+            [
+                "SAP GTS Support Group",
+                "557 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (108)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Northern Arizona University",
+                "100,922 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,922 followers"
+            ],
+            [
+                "Goodrich",
+                "39,425 followers"
+            ],
+            [
+                "Goodrich",
+                "39,425 followers"
+            ],
+            [
+                "Compass Group USA",
+                "36,815 followers"
+            ],
+            [
+                "Compass Group USA",
+                "36,815 followers"
+            ],
+            [
+                "UTC Aerospace Systems",
+                "87,694 followers"
+            ],
+            [
+                "UTC Aerospace Systems",
+                "87,694 followers"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "6,266 followers"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "6,266 followers"
+            ],
+            [
+                "SAP GTS Support Group",
+                "557 members"
+            ],
+            [
+                "SAP GTS Support Group",
+                "557 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Vic Bodiwala",
+                "Sr.Director IT & Emerging Technologies at Danta Technologies",
+                "August 9, 2013, Vic worked with Keifer in the same group",
+                "Vic has detailed knowledge of SAP billing and pricing configuration and production support. His experience as an SAP analyst would add value to any team."
+            ],
+            [
+                "Vic Bodiwala",
+                "Sr.Director IT & Emerging Technologies at Danta Technologies",
+                "August 9, 2013, Vic worked with Keifer in the same group"
+            ],
+            [
+                "Vic Bodiwala",
+                "Sr.Director IT & Emerging Technologies at Danta Technologies",
+                "August 9, 2013, Vic worked with Keifer in the same group"
+            ],
+            [
+                "Vic Bodiwala",
+                "Sr.Director IT & Emerging Technologies at Danta Technologies",
+                "August 9, 2013, Vic worked with Keifer in the same group"
+            ],
+            "Sr.Director IT & Emerging Technologies at Danta Technologies",
+            [
+                "Vic has detailed knowledge of SAP billing and pricing configuration and production support. His experience as an SAP analyst would add value to any team."
+            ],
+            [
+                "Vic has detailed knowledge of SAP billing and pricing configuration and production support. His experience as an SAP analyst would add value to any team."
+            ],
+            [
+                "John L.",
+                "Manager, Information Technology, US Operations at Heroux-Devtek",
+                "July 17, 2013, Keifer worked with John in different groups",
+                "John has a vast amount of previous engineering experience that has really helped us to grasp the inherent issues in attempting to protect technical data across multiple software platforms. His solutions for solving complex problems are very innovative; he can really think outside-the-box."
+            ],
+            [
+                "John L.",
+                "Manager, Information Technology, US Operations at Heroux-Devtek",
+                "July 17, 2013, Keifer worked with John in different groups"
+            ],
+            [
+                "John L.",
+                "Manager, Information Technology, US Operations at Heroux-Devtek",
+                "July 17, 2013, Keifer worked with John in different groups"
+            ],
+            [
+                "John L.",
+                "Manager, Information Technology, US Operations at Heroux-Devtek",
+                "July 17, 2013, Keifer worked with John in different groups"
+            ],
+            "Manager, Information Technology, US Operations at Heroux-Devtek",
+            [
+                "John has a vast amount of previous engineering experience that has really helped us to grasp the inherent issues in attempting to protect technical data across multiple software platforms. His solutions for solving complex problems are very innovative; he can really think outside-the-box."
+            ],
+            [
+                "John has a vast amount of previous engineering experience that has really helped us to grasp the inherent issues in attempting to protect technical data across multiple software platforms. His solutions for solving complex problems are very innovative; he can really think outside-the-box."
+            ]
+        ],
+        "skills": [
+            [
+                "SAP",
+                "See 11 endorsements for SAP",
+                "11",
+                "SAP",
+                "Endorse",
+                "Duane Foote' and 10 connections have given endorsements for this skill"
+            ],
+            [
+                "SAP",
+                "See 11 endorsements for SAP",
+                "11"
+            ],
+            [
+                "ERP",
+                "See 8 endorsements for ERP",
+                "8",
+                "ERP",
+                "Endorse",
+                "Duane Foote' and 7 connections have given endorsements for this skill"
+            ],
+            [
+                "ERP",
+                "See 8 endorsements for ERP",
+                "8"
+            ],
+            [
+                "SAP ERP",
+                "See 6 endorsements for SAP ERP",
+                "6",
+                "SAP ERP",
+                "Endorse",
+                "Endorsed by 3 of Keifer’s colleagues at UTC Aerospace Systems"
+            ],
+            [
+                "SAP ERP",
+                "See 6 endorsements for SAP ERP",
+                "6"
+            ],
+            [
+                "SAP R/3",
+                "See 5 endorsements for SAP R/3",
+                "5",
+                "SAP R/3",
+                "Endorse"
+            ],
+            [
+                "SAP R/3",
+                "See 5 endorsements for SAP R/3",
+                "5"
+            ],
+            [
+                "Business Analysis",
+                "See 5 endorsements for Business Analysis",
+                "5",
+                "Business Analysis",
+                "Endorse"
+            ],
+            [
+                "Business Analysis",
+                "See 5 endorsements for Business Analysis",
+                "5"
+            ],
+            [
+                "Integration",
+                "See 5 endorsements for Integration",
+                "5",
+                "Integration",
+                "Endorse"
+            ],
+            [
+                "Integration",
+                "See 5 endorsements for Integration",
+                "5"
+            ],
+            [
+                "SAP Implementation",
+                "See 4 endorsements for SAP Implementation",
+                "4",
+                "SAP Implementation",
+                "Endorse"
+            ],
+            [
+                "SAP Implementation",
+                "See 4 endorsements for SAP Implementation",
+                "4"
+            ],
+            [
+                "Requirements Analysis",
+                "See 4 endorsements for Requirements Analysis",
+                "4",
+                "Requirements Analysis",
+                "Endorse"
+            ],
+            [
+                "Requirements Analysis",
+                "See 4 endorsements for Requirements Analysis",
+                "4"
+            ],
+            [
+                "Process Improvement",
+                "See 4 endorsements for Process Improvement",
+                "4",
+                "Process Improvement",
+                "Endorse"
+            ],
+            [
+                "Process Improvement",
+                "See 4 endorsements for Process Improvement",
+                "4"
+            ],
+            [
+                "Project Management",
+                "See 3 endorsements for Project Management",
+                "3",
+                "Project Management",
+                "Endorse"
+            ],
+            [
+                "Project Management",
+                "See 3 endorsements for Project Management",
+                "3"
+            ],
+            [
+                "Business Process Improvement",
+                "See 3 endorsements for Business Process Improvement",
+                "3",
+                "Business Process Improvement",
+                "Endorse"
+            ],
+            [
+                "Business Process Improvement",
+                "See 3 endorsements for Business Process Improvement",
+                "3"
+            ],
+            [
+                "SD",
+                "See 2 endorsements for SD",
+                "2",
+                "SD",
+                "Endorse"
+            ],
+            [
+                "SD",
+                "See 2 endorsements for SD",
+                "2"
+            ],
+            [
+                "SAP SD",
+                "See 2 endorsements for SAP SD",
+                "2",
+                "SAP SD",
+                "Endorse"
+            ],
+            [
+                "SAP SD",
+                "See 2 endorsements for SAP SD",
+                "2"
+            ],
+            [
+                "Business Process",
+                "See 2 endorsements for Business Process",
+                "2",
+                "Business Process",
+                "Endorse"
+            ],
+            [
+                "Business Process",
+                "See 2 endorsements for Business Process",
+                "2"
+            ],
+            [
+                "Testing",
+                "See 1 endorsement for Testing",
+                "1",
+                "Testing",
+                "Endorse"
+            ],
+            [
+                "Testing",
+                "See 1 endorsement for Testing",
+                "1"
+            ],
+            [
+                "Visio",
+                "See 1 endorsement for Visio",
+                "1",
+                "Visio",
+                "Endorse"
+            ],
+            [
+                "Visio",
+                "See 1 endorsement for Visio",
+                "1"
+            ],
+            [
+                "Software Documentation",
+                "See 1 endorsement for Software Documentation",
+                "1",
+                "Software Documentation",
+                "Endorse"
+            ],
+            [
+                "Software Documentation",
+                "See 1 endorsement for Software Documentation",
+                "1"
+            ]
+        ],
+        "summary": "",
+        "name": "Keifer Street",
+        "title": "SAP FICO Business Analyst",
+        "url": "linkedin.com/in/keifer-street-aa565723",
+        "phone": null,
+        "email": "keifer.street@gmail.com"
+    }
+]

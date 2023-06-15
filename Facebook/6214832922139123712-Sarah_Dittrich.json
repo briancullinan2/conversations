@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6214832922139123712/",
+    "participants": [
+        {
+            "name": "Sarah Dittrich",
+            "title": "Technical Recruiter at Exigo Office",
+            "url": "linkedin.com/in/sarahdittrich",
+            "phone": "214.367.9976 (Work)",
+            "email": "sarahD@exigo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-14T16:07:00.000Z"
+        },
+        {
+            "from": "Sarah Dittrich",
+            "message": "My pleasure!\n",
+            "time": "2017-12-20T21:56:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "How is exigo?\n",
+            "time": "2017-12-21T15:51:00.000Z"
+        },
+        {
+            "from": "Sarah Dittrich",
+            "message": "Hi Brian, sorry for the delay. Exigo is great. I love working here. It's nice working for a software company vs staffing agency. Are you at Charles Schwab and SOS?\n",
+            "time": "2017-12-27T15:48:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Yeah\n",
+            "time": "2017-12-27T15:59:00.000Z"
+        }
+    ]
+}

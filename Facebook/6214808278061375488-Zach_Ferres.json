@@ -1,0 +1,89 @@
+{
+    "thread": "/messaging/thread/6214808278061375488/",
+    "participants": [
+        {
+            "name": "Zach Ferres",
+            "title": "CEO at Coplex, Contributor for Entrepreneur Magazine",
+            "url": "linkedin.com/in/zcferres",
+            "phone": "4192713939 (Mobile)",
+            "email": "zcferres@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-12-14T14:29:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Zach Ferres",
+            "time": "2018-01-19T21:12:00.000Z",
+            "message": "Hey Brian! Good to connect man. I see we have 175 connections in common here. Whoa. We're growing our team here at Coplex and I was curious if you had any interest in opportunities this year?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-01-19T21:14:00.000Z",
+            "message": "Sure! Here's an interview question I got from the guys at Willis. How do you keep up with technology?\n"
+        },
+        {
+            "from": "Zach Ferres",
+            "time": "2018-01-19T21:16:00.000Z",
+            "message": "Is that an interview question for me? :)\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-01-19T21:27:00.000Z",
+            "message": "Yes! Then I'll tell you my answer.\n"
+        },
+        {
+            "from": "Zach Ferres",
+            "time": "2018-01-19T22:30:00.000Z",
+            "message": "Haha. Deal. I see you're a question asker... I'm an engineer by trade and an entrepreneur by day so I geek out about the stuff. Given that I am in more of a leadership role now, I keep up with tech trends on medium, LaunchTicker, Abundance Insider, ProductHunt, and the CBInsights newsletter. Daily reads for me to keep an eye on trends. When it comes to more technical specifics, I really rely on our engineers here that are way smarter than me on the subject. They frequent (and run) events around town and keep a pulse on new platforms, frameworks, tools, APIs, IDEs, etc. How do YOU keep up with technology?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-01-19T22:35:00.000Z",
+            "message": "I answered reading tech news and doing some independent research where I try to verify what is being described in the article. I will add all those sites to my Enlightenment bookmarks. I would add that working and educating others might be the only way to keep up with technology. I get my news 3 days late from slashdot. Bishopfox blog, hacker news ycombinator, Brian krebs, thehackerblog. Good ideas. I am working on this meditation site sosmethod.herokuapp.com, similar to calm.com or headspace.\n"
+        },
+        {
+            "from": "Zach Ferres",
+            "time": "2018-01-19T23:00:00.000Z",
+            "message": "I'd say we have similar interests! I use Headspace but I have to admit, I've been slacking on it a bit lately. Have you ever made it out to any of the Startup Grind events here in town?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-01-19T23:24:00.000Z",
+            "message": "No, I haven't been to startup grind. I'll check it out.\n"
+        },
+        {
+            "from": "Zach Ferres",
+            "time": "2018-01-20T01:10:00.000Z",
+            "message": "Cool. Judging by your reading list, I think you'd like it. We're hosting it at Coplex next month. If you have any interest at all (or if you know any that might) check these out: http://www.coplex.com/careers. We're trying to find some new team members! Cheers man. Hope to see you at Startup Grind.\n"
+        },
+        {
+            "from": "Zach Ferres",
+            "time": "2018-01-20T01:10:00.000Z",
+            "message": "use the code COPLEX for 50% off your tix for startup grind. :)\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-01-20T15:09:00.000Z",
+            "message": "Signed up and learning to use CBinsights. This is awesome.\n"
+        },
+        {
+            "from": "Zach Ferres",
+            "time": "2018-01-21T02:27:00.000Z",
+            "message": "Glad you like it\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-15T04:37:00.000Z",
+            "message": "What do you think of this?\n\nhttps://wptavern.com/ustwo-an-open-source-example-of-a-react-powered-wordpress-site\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-07T00:39:00.000Z",
+            "message": "We should be creating better coders together. There is a process for this already but it's hard to scale.\n"
+        }
+    ]
+}

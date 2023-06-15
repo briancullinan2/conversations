@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6185583318235439104/",
+    "participants": [
+        {
+            "name": "Bryan Haegle",
+            "title": "Corporate Recruiter at Citi",
+            "url": "linkedin.com/in/bhaegle",
+            "phone": "8132824950 (Work)",
+            "email": "bhaegle10@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Bryan Haegle",
+            "message": "Experts in .Net",
+            "time": "2013-04-25T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Hey, I am looking for new opportunities, how are you doing?",
+            "time": "2017-10-05T22:59:00.000Z"
+        }
+    ]
+}

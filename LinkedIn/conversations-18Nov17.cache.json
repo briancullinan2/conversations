@@ -1,0 +1,96 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "18Nov17",
+    "participants": "Brian Cullinan | wizard > 'Stephan Brewer, CPA, RS, J | President at Legacy Tax & Resolution Services & He's The Taxman",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "'Stephan Brewer, CPA, RS, J",
+        "url": "linkedin.com/in/stephanbrewercpa",
+        "phone": "800-829-7483 (Work)",
+        "email": "taxguru@hesthetaxman.com",
+        "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+      }
+    ],
+    "message": "Jayson is a genius.",
+    "time": "2017-11-18T05:35:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "18Nov17",
+    "participants": "'Stephan Brewer, CPA, RS, J | President at Legacy Tax & Resolution Services & He's The Taxman > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "'Stephan Brewer, CPA, RS, J",
+        "url": "linkedin.com/in/stephanbrewercpa",
+        "phone": "800-829-7483 (Work)",
+        "email": "taxguru@hesthetaxman.com",
+        "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Yes he is.",
+    "time": "2017-11-18T11:02:00.000Z",
+    "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+  },
+  {
+    "type": "conversations",
+    "conversations": "18Nov17",
+    "participants": "Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Hello {first}, thank you for connecting. I would love to do business with you at {company}. My previous experience with {role} has been brief. You seem like a great person. When can we meet?",
+    "time": "2017-11-18T22:19:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "18Nov17",
+    "participants": "Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "How do you know? https://www.linkedin.com/in/elizabeth-beauchman-8a1a0111a",
+    "time": "2017-11-18T18:18:00.000Z",
+    "title": "wizard"
+  }
+]

@@ -1,0 +1,700 @@
+﻿Session Start (bjcullinan@gmail.com:Richard Lester): Sat Sep 29 17:47:49 2007
+[09/29/2007 05:47:58 PM] bjcullinan: (Link: http://209.250.30.30/Share/Pictures/Other/random/patriotic%20windows.png)http://209.250.30.30/Share/Pictures/Other/random/patriotic%20windows.png
+[09/29/2007 05:49:10 PM] bjcullinan: what do you think?
+[09/29/2007 05:49:31 PM] Richard Lester: LOL
+[09/29/2007 05:49:45 PM] Richard Lester: thats great. especially coming from you
+[09/29/2007 05:49:51 PM] bjcullinan: i wonder if travis uses the internet
+[09/29/2007 05:50:02 PM] Richard Lester: lol
+[09/29/2007 05:50:16 PM] Richard Lester: Im pretty sure he does. He was coding with the google calander API not long ago
+[09/29/2007 05:50:30 PM] Richard Lester: Oh, one minor tweak, can you rotate the star?
+[09/29/2007 05:50:33 PM] bjcullinan: does he have a screen name?
+[09/29/2007 05:50:53 PM] Richard Lester: I dont know what it is
+[09/29/2007 05:51:15 PM] Richard Lester: you should replace the XP with USA or something
+[09/29/2007 05:52:36 PM] bjcullinan: good call
+[09/29/2007 05:57:13 PM] bjcullinan: k i made those fixes, check it out
+[09/29/2007 06:02:16 PM] Richard Lester: very nice
+[09/29/2007 06:02:22 PM] Richard Lester: you using this for a background?
+[09/29/2007 06:02:58 PM] Richard Lester: obviously too small, but the ratio looks right
+[09/29/2007 06:25:09 PM] bjcullinan: yeah
+Session Close (Richard Lester): Sat Sep 29 18:55:11 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Mon Oct 22 19:49:02 2007
+[10/22/2007 07:49:05 PM] bjcullinan: heroes?
+Session Close (Richard Lester): Mon Oct 22 19:49:51 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Tue Oct 23 23:19:09 2007
+[10/23/2007 11:19:15 PM] bjcullinan: you there?
+Session Close (Richard Lester): Tue Oct 23 23:21:52 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Wed Oct 24 00:05:00 2007
+[10/24/2007 12:05:24 AM] Richard Lester: whats up?
+[10/24/2007 12:06:33 AM] Richard Lester: Im going to bed. Nite
+Session Close (Richard Lester): Wed Oct 24 07:49:49 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Tue Oct 30 17:15:49 2007
+[10/30/2007 05:15:51 PM] Richard Lester: heyya
+[10/30/2007 05:15:57 PM] bjcullinan: hey
+[10/30/2007 05:16:15 PM] bjcullinan: whats up?
+Session Close (Richard Lester): Tue Oct 30 17:18:04 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Tue Oct 30 17:18:42 2007
+[10/30/2007 05:18:44 PM] Richard Lester: I was having some trouble attempting to ssh into the server you set up for me.  I was wondering if any of that was set up already? (Ive been meaning to get things running for a while, got super busy)
+[10/30/2007 05:19:02 PM] bjcullinan: try ssh again
+[10/30/2007 05:19:51 PM] bjcullinan: you have access via vmware console also
+[10/30/2007 05:20:04 PM] Richard Lester: I know, but Im not at home right now
+[10/30/2007 05:20:45 PM] bjcullinan: hmm it's almost like its not turned on
+[10/30/2007 05:20:52 PM] bjcullinan: and i can't log in under your account
+[10/30/2007 05:21:59 PM] *** Richard Lester went away at Tue Oct 30 17:21:59 2007.
+Session Close (Richard Lester): Tue Oct 30 17:22:02 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Tue Oct 30 17:22:54 2007
+[10/30/2007 05:22:54 PM] Richard Lester: yeah, it just times out forever.  Arg. And my Firefox is freaking out now and then
+[10/30/2007 05:24:00 PM] bjcullinan: IM me when you get home and we will get it set up
+[10/30/2007 05:24:39 PM] Richard Lester: ok
+[10/30/2007 05:24:48 PM] Richard Lester: oh yeah
+[10/30/2007 05:24:56 PM] Richard Lester: also, I was wondering about how the ports are set up
+[10/30/2007 05:25:35 PM] Richard Lester: i noticed im 62902, which was different then the... 62115? you told me earlier?
+[10/30/2007 05:26:18 PM] bjcullinan: the ssh port is 62105
+[10/30/2007 05:27:00 PM] Richard Lester: still no luck, but thats good to know
+[10/30/2007 05:27:06 PM] bjcullinan: but i can't get in
+[10/30/2007 05:27:11 PM] bjcullinan: locally
+[10/30/2007 05:27:16 PM] bjcullinan: and the machine is on
+[10/30/2007 05:27:20 PM] Richard Lester: that would be a problem
+[10/30/2007 05:27:32 PM] Richard Lester: firewall killing us?
+[10/30/2007 05:27:51 PM] bjcullinan: no firewall
+[10/30/2007 05:28:04 PM] Richard Lester: hmm
+[10/30/2007 05:28:09 PM] bjcullinan: i will try a restart
+[10/30/2007 05:28:14 PM] Richard Lester: ok
+[10/30/2007 05:29:20 PM] bjcullinan: still no luck
+[10/30/2007 05:29:28 PM] Richard Lester: yarg
+[10/30/2007 05:29:42 PM] Richard Lester: does it not have ssh installed?
+[10/30/2007 05:30:19 PM] Richard Lester: or.. we were doing it the other day
+[10/30/2007 05:30:21 PM] bjcullinan: i thought it was
+[10/30/2007 05:30:28 PM] Richard Lester: you just copied the disk image right?
+[10/30/2007 05:30:35 PM] bjcullinan: yeah
+[10/30/2007 05:30:42 PM] bjcullinan: you will have to log on through VMware and check things like IP address
+[10/30/2007 05:30:51 PM] Richard Lester: I guess so
+[10/30/2007 05:31:05 PM] Richard Lester: maybe one of those configuration files had something specific to that machine
+[10/30/2007 05:31:10 PM] Richard Lester: ok
+[10/30/2007 05:34:31 PM] bjcullinan: i think it might have something to do with IP address
+[10/30/2007 05:35:00 PM] bjcullinan: i rebuilt the config thogh, i just copied the harddrive over
+[10/30/2007 05:35:39 PM] Richard Lester: right
+[10/30/2007 05:35:45 PM] Richard Lester: yeah I was kind of thinking of that
+[10/30/2007 05:36:01 PM] Richard Lester: I wish I had enough room to install VmWare on this machine
+[10/30/2007 05:36:27 PM] bjcullinan: it's not very big
+[10/30/2007 05:37:18 PM] Richard Lester: yeah but im in the engineering building
+[10/30/2007 05:38:34 PM] bjcullinan: y?
+[10/30/2007 05:40:27 PM] *** Richard Lester went away at Tue Oct 30 17:40:27 2007.
+[10/30/2007 05:40:28 PM] Richard Lester: ah
+[10/30/2007 05:40:29 PM] Richard Lester: wan
+[10/30/2007 05:40:33 PM] Richard Lester: wasn't updating
+[10/30/2007 05:41:15 PM] Richard Lester: should have brought my laptop
+[10/30/2007 05:41:25 PM] Richard Lester: oh well, I will try to fix it when I get back home
+[10/30/2007 05:41:33 PM] bjcullinan: yeah it looks like you are having problems
+[10/30/2007 05:41:49 PM] Richard Lester: indeed. indeed
+[10/30/2007 05:43:20 PM] bjcullinan: i love pot stickers
+[10/30/2007 05:43:30 PM] Richard Lester: pot stickers?
+[10/30/2007 05:43:39 PM] Richard Lester: mm. I want a warm delight
+[10/30/2007 05:44:37 PM] bjcullinan: potstickers are teh azn goodness
+[10/30/2007 05:49:11 PM] Richard Lester: hmm.. Ill have to check these... pot stickers out...
+[10/30/2007 05:49:36 PM] bjcullinan: i wish i had cs 386 notes already
+[10/30/2007 05:56:26 PM] Richard Lester: mm yeah.. I left mine at work.. Ill have to grab them tomorrow before the test
+Session Close (Richard Lester): Tue Oct 30 17:58:02 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Tue Oct 30 17:58:21 2007
+[10/30/2007 05:58:51 PM] bjcullinan: somehow my relationship with travis developed to the point where if i ever needed help with a class, he wouldn't do anything to help me
+[10/30/2007 05:59:51 PM] Richard Lester: hold on
+[10/30/2007 06:00:27 PM] bjcullinan: in fact he even works against me by misleading me
+Session Close (Richard Lester): Tue Oct 30 18:00:31 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Tue Oct 30 18:18:45 2007
+[10/30/2007 06:18:45 PM] Richard Lester: ok im back
+[10/30/2007 06:18:58 PM] bjcullinan: ok
+[10/30/2007 06:19:10 PM] Richard Lester: yeah things are getting started, so I can't talk to long, but Ill talk to you about all that later
+[10/30/2007 06:19:27 PM] bjcullinan: getting started?
+[10/30/2007 06:19:34 PM] Richard Lester: people are showing up
+[10/30/2007 06:19:39 PM] bjcullinan: to what?
+[10/30/2007 06:19:58 PM] bjcullinan: oh game club right?
+[10/30/2007 06:20:07 PM] Richard Lester: game club, I told you about it earlier
+[10/30/2007 06:20:34 PM] Richard Lester: the reason im at the engineering building and all
+[10/30/2007 06:20:51 PM] Richard Lester: yes yes
+[10/30/2007 06:20:55 PM] bjcullinan: i never got that message
+[10/30/2007 06:21:03 PM] Richard Lester: really?
+[10/30/2007 06:21:04 PM] Richard Lester: strange
+[10/30/2007 06:21:32 PM] Richard Lester: but hey, let me give you a msg later, i gotta go
+Session Close (Richard Lester): Tue Oct 30 18:21:53 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Tue Oct 30 20:56:11 2007
+[10/30/2007 08:56:11 PM] Richard Lester: yo
+Session Close (Richard Lester): Tue Oct 30 20:59:52 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Tue Oct 30 22:21:54 2007
+[10/30/2007 10:21:54 PM] Richard Lester: ello?
+[10/30/2007 10:21:58 PM] bjcullinan: hi
+[10/30/2007 10:22:23 PM] Richard Lester: ah, there you are
+[10/30/2007 10:22:41 PM] bjcullinan: there i are
+[10/30/2007 10:22:43 PM] Richard Lester: what ya up to?
+[10/30/2007 10:22:46 PM] bjcullinan: you install vmware server console?
+[10/30/2007 10:23:08 PM] Richard Lester: yeah
+[10/30/2007 10:23:33 PM] Richard Lester: hmm.. but its giving me trouble over usename and password.. im ragunr right?
+[10/30/2007 10:23:49 PM] bjcullinan: ok connect to 209.250.30.30:62902
+[10/30/2007 10:23:55 PM] bjcullinan: use tmp as your password
+[10/30/2007 10:24:01 PM] bjcullinan: ragunr yes
+[10/30/2007 10:24:12 PM] Richard Lester: ah
+[10/30/2007 10:24:15 PM] bjcullinan: i had to change it to see if the machine was started
+[10/30/2007 10:24:31 PM] bjcullinan: do an ifconfig and make sure it is claiming the correct ip address
+[10/30/2007 10:24:32 PM] Richard Lester: aah
+[10/30/2007 10:24:46 PM] bjcullinan: working?
+[10/30/2007 10:25:14 PM] Richard Lester: aha!
+[10/30/2007 10:25:33 PM] bjcullinan: what ip address is it getting?
+[10/30/2007 10:25:46 PM] bjcullinan: or did it need a dhclient command?
+[10/30/2007 10:26:00 PM] Richard Lester: im still logging in. Its a very slow connection.. its been slow all night
+[10/30/2007 10:26:52 PM] *** Disconnected from server.
+Session Close (Richard Lester): Tue Oct 30 22:27:00 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Tue Oct 30 22:28:06 2007
+[10/30/2007 10:28:09 PM] bjcullinan: anything?
+[10/30/2007 10:28:14 PM] Richard Lester: yay im in
+[10/30/2007 10:28:22 PM] bjcullinan: so run dhclient
+[10/30/2007 10:28:28 PM] bjcullinan: on the command line
+[10/30/2007 10:28:34 PM] bjcullinan: then do ifconfig
+[10/30/2007 10:28:42 PM] bjcullinan: and tell me what address it is getting
+Session Close (Richard Lester): Tue Oct 30 22:31:09 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Tue Oct 30 22:38:24 2007
+[10/30/2007 10:38:28 PM] bjcullinan: any luck?
+Session Close (Richard Lester): Tue Oct 30 22:47:23 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Tue Oct 30 22:49:59 2007
+[10/30/2007 10:49:59 PM] Richard Lester: yeah
+[10/30/2007 10:50:04 PM] Richard Lester: it says its 105
+[10/30/2007 10:50:22 PM] Richard Lester: can you ssh in now that i opened dhclient?
+[10/30/2007 10:51:44 PM] bjcullinan: works
+[10/30/2007 10:51:53 PM] bjcullinan: try ssh from your end
+[10/30/2007 10:51:59 PM] Richard Lester: sweet
+[10/30/2007 10:52:04 PM] bjcullinan: we good?
+[10/30/2007 10:52:10 PM] bjcullinan: go through my e-mail and install shit
+[10/30/2007 10:52:56 PM] Richard Lester: yeah
+[10/30/2007 10:53:01 PM] Richard Lester: so you doin ok?
+[10/30/2007 10:53:15 PM] bjcullinan: when what?
+[10/30/2007 10:53:18 PM] bjcullinan: *with what?
+[10/30/2007 10:53:51 PM] Richard Lester: I dunno, you seem pretty down, like you were mentioning earlier with travis and such
+[10/30/2007 10:54:11 PM] bjcullinan: yeah its kind of a weird relationship
+[10/30/2007 10:54:16 PM] bjcullinan: seems like i have a lot of those
+[10/30/2007 10:54:30 PM] Richard Lester: I see I see
+[10/30/2007 10:55:35 PM] Richard Lester: Well, im sure if you really needed it he would help you out and such
+[10/30/2007 10:55:53 PM] bjcullinan: i am not so sure
+[10/30/2007 10:56:04 PM] Richard Lester: why do you say that
+[10/30/2007 10:56:49 PM] bjcullinan: because i have genuinely needed help in the past and he did that misdirection thing he always does 
+[10/30/2007 10:57:25 PM] Richard Lester: that misdirection thing?
+[10/30/2007 10:58:35 PM] bjcullinan: where he bullshits me
+[10/30/2007 10:59:43 PM] Richard Lester: hmm
+[10/30/2007 11:03:38 PM] Richard Lester: yay. SSH is working for me (kept forgetting to change the port, i must be out of it tonight)
+[10/30/2007 11:03:52 PM] bjcullinan: save the config
+[10/30/2007 11:05:15 PM] Richard Lester: you mean in putty?
+[10/30/2007 11:05:17 PM] bjcullinan: i wish nip tuck would download faster
+[10/30/2007 11:05:23 PM] bjcullinan: yes in putty
+[10/30/2007 11:05:25 PM] Richard Lester: hehe
+[10/30/2007 11:05:49 PM] Richard Lester: is there any place I can set the dhclient to run on startup?
+[10/30/2007 11:06:17 PM] bjcullinan: it doesn't have too
+[10/30/2007 11:06:32 PM] bjcullinan: it just started the machine before the internet connection was set up
+[10/30/2007 11:06:33 PM] Richard Lester: what if the server has to reset?
+[10/30/2007 11:06:41 PM] Richard Lester: ah
+[10/30/2007 11:06:43 PM] bjcullinan: that is weird, i did restart it
+[10/30/2007 11:06:49 PM] bjcullinan: it should have been alright then
+[10/30/2007 11:07:00 PM] bjcullinan: we will see if dhclient needs to be run again
+[10/30/2007 11:07:13 PM] bjcullinan: if it is really a problem we can take care of it next time
+[10/30/2007 11:07:46 PM] Richard Lester: ok
+[10/30/2007 11:07:59 PM] Richard Lester: for some reason apt-get can find mysql... hmm
+[10/30/2007 11:08:16 PM] bjcullinan: google it
+[10/30/2007 11:12:16 PM] Richard Lester: yay
+[10/30/2007 11:16:23 PM] Richard Lester: ug. why is my internet being so slow? lag on a command prompt is painful
+[10/30/2007 11:16:35 PM] bjcullinan: ahahaha i am torrenting
+[10/30/2007 11:16:43 PM] Richard Lester: lol
+[10/30/2007 11:16:45 PM] Richard Lester: so painful
+[10/30/2007 11:16:51 PM] bjcullinan: but it's even torrenting slow, it can't be using all the bandwidth
+[10/30/2007 11:17:04 PM] bjcullinan: so its probably a combination of both of our shitty internet
+[10/30/2007 11:17:17 PM] Richard Lester: probably
+[10/30/2007 11:17:27 PM] bjcullinan: i wish it would torrent faster
+[10/30/2007 11:17:42 PM] bjcullinan: 16 minutes to wait for 152 MB
+[10/30/2007 11:17:45 PM] Richard Lester: I wish I had OMG ponies
+[10/30/2007 11:17:46 PM] bjcullinan: ridiculous
+[10/30/2007 11:17:59 PM] bjcullinan: ponies? where? omg
+[10/30/2007 11:18:01 PM] Richard Lester: yeah I had a thirty minute wait on the vmware server
+[10/30/2007 11:18:14 PM] bjcullinan: a 30 minute wait?
+[10/30/2007 11:18:15 PM] Richard Lester: it was all of a 5 second wait at the engineering building (not that I could install it there)
+[10/30/2007 11:18:24 PM] Richard Lester: same size
+[10/30/2007 11:18:32 PM] bjcullinan: oh
+[10/30/2007 11:18:41 PM] bjcullinan: the console is really small
+[10/30/2007 11:18:53 PM] bjcullinan: you sure you installed the right thing?
+[10/30/2007 11:19:02 PM] Richard Lester: I think I may have gotten the whole managment tool too
+[10/30/2007 11:19:11 PM] bjcullinan: hmm
+[10/30/2007 11:19:19 PM] Richard Lester: whoops
+[10/30/2007 11:20:12 PM] Richard Lester: oh well, I had to update my resume anyways
+[10/30/2007 11:21:28 PM] bjcullinan: ack, the anticipation is killing me
+[10/30/2007 11:22:04 PM] Richard Lester: ya know what else is great. heroes
+[10/30/2007 11:22:45 PM] bjcullinan: saw it last night
+[10/30/2007 11:22:54 PM] Richard Lester: pretty sweet
+[10/30/2007 11:24:41 PM] bjcullinan: omg i find that irish chick sooooo attractive
+[10/30/2007 11:24:48 PM] Richard Lester: lol
+[10/30/2007 11:24:55 PM] bjcullinan: i would kill for a gorgeous girl like her
+[10/30/2007 11:25:03 PM] bjcullinan: just like peter almost did
+[10/30/2007 11:25:06 PM] Richard Lester: yay horny irish chick!
+[10/30/2007 11:25:15 PM] bjcullinan: shes not entirely horney
+[10/30/2007 11:25:22 PM] bjcullinan: she has depth
+[10/30/2007 11:25:46 PM] Richard Lester: lol, yeah but I like to make fun of her
+[10/30/2007 11:25:58 PM] bjcullinan: she is playful
+[10/30/2007 11:26:07 PM] bjcullinan: one day i will have me a woman like that
+[10/30/2007 11:26:08 PM] Richard Lester: i made a brain account with password tmp
+[10/30/2007 11:26:13 PM] Richard Lester: hurah!
+[10/30/2007 11:26:18 PM] bjcullinan: cool cool
+[10/30/2007 11:26:38 PM] bjcullinan: you have to ssh into 209.250.30.30:62100 and change your password
+[10/30/2007 11:26:52 PM] Richard Lester: ah is it tmp?
+[10/30/2007 11:26:57 PM] bjcullinan: yes
+[10/30/2007 11:27:18 PM] Richard Lester: and this is for your main server?
+[10/30/2007 11:27:26 PM] bjcullinan: yes
+[10/30/2007 11:28:04 PM] bjcullinan: omfg 4 more minutes
+[10/30/2007 11:28:17 PM] bjcullinan: *skeet*
+[10/30/2007 11:29:06 PM] bjcullinan: remember the base server password is the same one you log into vmware with
+[10/30/2007 11:29:16 PM] Richard Lester: it is done
+[10/30/2007 11:29:39 PM] Richard Lester: ooh, skeet is it? been a while
+[10/30/2007 11:29:55 PM] bjcullinan: been a while?
+[10/30/2007 11:30:17 PM] Richard Lester: welp I'm in no state right now for intelligent server management and research, so I'm gonna head to bed. test tomarow you know
+[10/30/2007 11:30:27 PM] Richard Lester: since I heard that phrase
+[10/30/2007 11:30:35 PM] bjcullinan: yeah i am going to bed at 12:15
+[10/30/2007 11:30:38 PM] bjcullinan: oh
+[10/30/2007 11:30:40 PM] bjcullinan: yeah
+[10/30/2007 11:30:46 PM] bjcullinan: goodnight
+[10/30/2007 11:30:51 PM] Richard Lester: nite
+Session Close (Richard Lester): Tue Oct 30 23:38:03 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Thu Nov 01 12:21:48 2007
+[11/01/2007 12:21:52 PM] bjcullinan: answer your phone
+Session Close (Richard Lester): Thu Nov 01 12:21:53 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Thu Nov 01 19:17:15 2007
+[11/01/2007 07:17:17 PM] bjcullinan: richard
+Session Close (Richard Lester): Thu Nov 01 19:57:50 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Tue Nov 06 17:24:07 2007
+[11/06/2007 05:24:09 PM] bjcullinan: you there?
+[11/06/2007 05:27:43 PM] bjcullinan: looks like apache is running
+[11/06/2007 05:27:49 PM] bjcullinan: maybe you were trying to start it again
+[11/06/2007 05:27:54 PM] bjcullinan: when you needed to restart it
+[11/06/2007 05:28:09 PM] Richard Lester: hold on, im at work
+[11/06/2007 05:28:26 PM] bjcullinan: yeah you need to run restarts not launch it directly
+[11/06/2007 05:29:33 PM] Richard Lester: ah silly me
+[11/06/2007 05:29:52 PM] bjcullinan: yeah silly you
+[11/06/2007 05:29:55 PM] Richard Lester: is there any way I can access it from the internet? or does port forwarding need to be set up?
+[11/06/2007 05:30:08 PM] bjcullinan: use sudo apache2ctl restart
+[11/06/2007 05:30:54 PM] Richard Lester: Well if its started then im happy
+[11/06/2007 05:31:40 PM] Richard Lester: but does port forwarding need to be set up for me to get to that port from outside?
+[11/06/2007 05:33:45 PM] bjcullinan: yeah or i can do a proxy
+[11/06/2007 05:34:01 PM] bjcullinan: do you have a domain?
+[11/06/2007 05:34:16 PM] Richard Lester: I do not actualy
+[11/06/2007 05:34:39 PM] bjcullinan: how does 209.250.30.30/ragun/ sound?
+[11/06/2007 05:35:10 PM] Richard Lester: sounds great to me
+[11/06/2007 05:36:49 PM] bjcullinan: (Link: http://209.250.30.30/ragun/)http://209.250.30.30/ragun/
+[11/06/2007 05:39:19 PM] Richard Lester: yay
+[11/06/2007 05:39:32 PM] Richard Lester: well... my svn isnt using the authentication file correctly, but tis working
+[11/06/2007 05:40:09 PM] bjcullinan: did you get mod_auth copied over?
+[11/06/2007 05:40:22 PM] bjcullinan: and set up the file using htpasswd
+Session Close (Richard Lester): Tue Nov 06 17:40:56 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Tue Nov 06 17:42:13 2007
+[11/06/2007 05:42:13 PM] Richard Lester: I did not.. ill have to look into that
+[11/06/2007 05:48:37 PM] Richard Lester: I gotta go
+[11/06/2007 05:48:43 PM] Richard Lester: Ill talk to you later
+[11/06/2007 05:50:19 PM] bjcullinan: ttyl
+Session Close (Richard Lester): Tue Nov 06 18:20:21 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Tue Nov 06 20:52:32 2007
+[11/06/2007 08:52:32 PM] Richard Lester: heyya
+[11/06/2007 09:10:10 PM] bjcullinan: hey
+[11/06/2007 09:10:25 PM] Richard Lester: heyya!
+[11/06/2007 09:10:35 PM] bjcullinan: hey
+[11/06/2007 09:10:48 PM] Richard Lester: Think I could get some help with apache?
+[11/06/2007 09:14:07 PM] bjcullinan: yeah whats up?
+[11/06/2007 09:14:58 PM] Richard Lester: im getting a 405 error: method not allowed
+[11/06/2007 09:17:33 PM] Richard Lester: everything is set up normal, but im still having issues
+[11/06/2007 09:19:56 PM] bjcullinan: where?
+[11/06/2007 09:19:58 PM] bjcullinan: when?
+[11/06/2007 09:20:01 PM] bjcullinan: through browser?
+[11/06/2007 09:20:09 PM] Richard Lester: when trying to perform a subversion checkou
+[11/06/2007 09:20:15 PM] bjcullinan: oh shit
+[11/06/2007 09:20:20 PM] bjcullinan: i can't fix that tonight
+[11/06/2007 09:20:23 PM] Richard Lester: I can browse via web browser fine
+[11/06/2007 09:20:29 PM] Richard Lester: hmm?
+[11/06/2007 09:24:21 PM] Richard Lester: is it something on your side? I assumed i set up something wrong
+[11/07/2007 01:48:53 AM] *** Disconnected from server.
+[11/07/2007 04:49:52 AM] *** Disconnected from server.
+[11/07/2007 05:50:14 AM] *** Disconnected from server.
+[11/07/2007 06:19:15 AM] *** Disconnected from server.
+[11/07/2007 06:49:36 AM] *** Disconnected from server.
+[11/07/2007 07:30:27 AM] *** Disconnected from server.
+[11/07/2007 07:30:27 AM] *** Disconnected from server.
+Session Close (Richard Lester): Wed Nov 07 07:30:31 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Tue Nov 13 17:49:11 2007
+[11/13/2007 05:49:13 PM] bjcullinan: the richard
+[11/13/2007 05:49:23 PM] bjcullinan: have to make up for missing heroes
+Session Close (Richard Lester): Tue Nov 13 17:49:46 2007
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Fri Jan 04 15:06:48 2008
+[01/04/2008 03:06:50 PM] bjcullinan: richard
+[01/04/2008 03:07:01 PM] Richard Lester: hello
+[01/04/2008 03:07:12 PM] bjcullinan: how was Christmas?
+[01/04/2008 03:07:20 PM] bjcullinan: have a nice jesus day?
+[01/04/2008 03:07:22 PM] Richard Lester: excelente
+[01/04/2008 03:07:23 PM] Richard Lester: yes
+[01/04/2008 03:07:28 PM] Richard Lester: it was quite joyous
+[01/04/2008 03:07:33 PM] bjcullinan: get lots of cool presents?
+[01/04/2008 03:08:08 PM] Richard Lester: well, not too much presents, but It was a nice holiday
+[01/04/2008 03:08:17 PM] bjcullinan: spend lots of time with family and friends?
+[01/04/2008 03:09:01 PM] Richard Lester: yes!
+[01/04/2008 03:09:02 PM] Richard Lester: indeed
+[01/04/2008 03:09:04 PM] bjcullinan: i went to Ohio again
+[01/04/2008 03:09:07 PM] bjcullinan: for 4 days
+[01/04/2008 03:09:13 PM] Richard Lester: I am hanging out with my girlfriend kacey as we speak
+[01/04/2008 03:09:13 PM] bjcullinan: and came back christmas eve
+[01/04/2008 03:09:15 PM] Richard Lester: oh sweet
+[01/04/2008 03:09:22 PM] bjcullinan: are you in Photown?
+[01/04/2008 03:09:44 PM] Richard Lester: huh? phoenix?
+[01/04/2008 03:10:04 PM] bjcullinan: yes
+[01/04/2008 03:10:21 PM] Richard Lester: ah, actually no, i am not. im in flagstaff
+[01/04/2008 03:10:34 PM] bjcullinan: cool cool
+[01/04/2008 03:12:01 PM] Richard Lester: yup yup, up here until tomorrow. busy busy busy
+[01/04/2008 03:17:46 PM] bjcullinan: what are you doing tomorrow?
+[01/04/2008 03:18:52 PM] *** Richard Lester went away at Fri Jan 04 15:18:52 2008.
+[01/04/2008 03:19:16 PM] Richard Lester: Reply to chat at 3:17 pm
+[01/04/2008 03:19:17 PM] Richard Lester: whoops, closed the window
+[01/04/2008 03:20:01 PM] Richard Lester: tomorrow I got a wedding to attend
+[01/04/2008 03:21:23 PM] Richard Lester: bjarg! gotta go! I will see ya later
+[01/04/2008 03:21:28 PM] Richard Lester: audios
+[01/04/2008 03:21:41 PM] *** Richard Lester <ragunr@gmail.com/gmail.39B45850> signed off at Fri Jan 04 15:21:41 2008.
+Session Close (Richard Lester): Fri Jan 04 15:37:04 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Mon Jan 07 15:49:08 2008
+[01/07/2008 03:49:20 PM] bjcullinan: i bought some sweet games for the playstation
+[01/07/2008 03:49:34 PM] bjcullinan: like puzzle games that were cheap
+Session Close (Richard Lester): Mon Jan 07 15:50:55 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Mon Jan 14 22:59:33 2008
+[01/14/2008 10:59:47 PM] bjcullinan: omfg i am bring my ps3 to ACM
+[01/14/2008 11:00:01 PM] bjcullinan: see you tomorrow morning?
+Session Close (Richard Lester): Mon Jan 14 23:10:09 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Fri Jan 25 00:05:05 2008
+[01/25/2008 12:05:06 AM] Richard Lester: heyya
+[01/25/2008 12:05:14 AM] bjcullinan: hi
+[01/25/2008 12:05:34 AM] Richard Lester: Do you know how we are supposed to turn in our labs for enterprise web?
+[01/25/2008 12:05:47 AM] bjcullinan: no idea
+[01/25/2008 12:05:54 AM] bjcullinan: i would print the stuff out
+[01/25/2008 12:06:15 AM] Richard Lester: yeah I think he said all of use from 386 should be set, but I dont know what he was talking about
+[01/25/2008 12:07:56 AM] Richard Lester: sweet. c ya in class
+Session Close (Richard Lester): Fri Jan 25 00:08:48 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Sun Feb 03 17:22:50 2008
+[02/03/2008 05:22:54 PM] bjcullinan: question
+[02/03/2008 05:24:17 PM] bjcullinan: at what rate should i make a ball rolling down a 45 degree angle hill increase
+[02/03/2008 05:25:19 PM] bjcullinan: is it the sin(45)=speed of gravity / hypotenuse?
+[02/03/2008 05:25:54 PM] bjcullinan: so it would be hypotenuse is equal to the speed of gravity divided by sin(45)?
+[02/03/2008 05:26:18 PM] bjcullinan: or, i do not know how slopes work all together
+Session Close (Richard Lester): Sun Feb 03 17:26:35 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Sun Feb 03 17:27:32 2008
+[02/03/2008 05:27:32 PM] Richard Lester: hmm... *has flashbacks to freshman year, looking a diagram of this* I remember doing this in my physics homework... hmm..
+[02/03/2008 05:29:08 PM] bjcullinan: the dog upstairs is crying
+[02/03/2008 05:29:11 PM] bjcullinan: i can hear it
+[02/03/2008 05:29:14 PM] bjcullinan: it's very annoying
+[02/03/2008 05:35:16 PM] Richard Lester: In all honesty you could probably just make up a constant for the acceleration.
+[02/03/2008 05:35:55 PM] bjcullinan: bleh
+[02/03/2008 05:36:01 PM] Richard Lester: it would look good
+[02/03/2008 05:36:56 PM] Richard Lester: and you probably havn't commited to scale
+[02/03/2008 05:42:05 PM] Richard Lester: found it
+[02/03/2008 05:42:23 PM] Richard Lester: a = 5/7 g sin(theta)
+[02/03/2008 05:43:17 PM] Richard Lester: where g is 9.8 m/s
+[02/03/2008 05:43:51 PM] bjcullinan: did you start on the principles homework?
+[02/03/2008 05:43:59 PM] Richard Lester: nope
+[02/03/2008 05:44:09 PM] bjcullinan: me neither
+[02/03/2008 05:44:12 PM] bjcullinan: leah is going nuts
+[02/03/2008 05:44:25 PM] bjcullinan: but since we did that steamroller thing, none of it looks very hard
+[02/03/2008 05:44:29 PM] bjcullinan: would you agree?
+[02/03/2008 05:44:30 PM] Richard Lester: lol
+[02/03/2008 05:44:31 PM] Richard Lester: the answer is 5
+[02/03/2008 05:44:40 PM] Richard Lester: dosn't look too bad in all honesty
+[02/03/2008 05:44:45 PM] bjcullinan: the answer to what?
+[02/03/2008 05:44:58 PM] bjcullinan: the equation?
+[02/03/2008 05:45:11 PM] Richard Lester: the accelation due to rolling
+[02/03/2008 05:45:15 PM] bjcullinan: lol
+[02/03/2008 05:45:30 PM] bjcullinan: if i had chosen randomly that would probably be the number i picked
+[02/03/2008 05:46:03 PM] Richard Lester: yeah i know
+[02/03/2008 05:46:13 PM] Richard Lester: and that is in meters per second
+[02/03/2008 05:47:02 PM] Richard Lester: all homogeneous sold spheres experiance the same speed and acceleration on a given incline
+[02/03/2008 05:53:42 PM] Richard Lester: are you using this for a rolly maze?
+[02/03/2008 06:23:33 PM] bjcullinan: i might not do the rolly party
+[02/03/2008 06:23:37 PM] bjcullinan: *part
+[02/03/2008 06:26:09 PM] Richard Lester: Im just saying.. if this is from a rolly maze.. thats 5 meters per second^2... thats really fast. Usualy people dont hold those at 45 degrees
+[02/03/2008 06:35:25 PM] bjcullinan: i put some new parts in my server
+Session Close (Richard Lester): Sun Feb 03 19:03:42 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Wed Feb 06 21:14:18 2008
+[02/06/2008 09:14:26 PM] bjcullinan: you do the scheme homework?
+Session Close (Richard Lester): Wed Feb 06 21:26:45 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Thu Feb 07 09:30:17 2008
+[02/07/2008 09:30:35 AM] bjcullinan: bring you virtual worlds math book
+[02/07/2008 09:30:40 AM] bjcullinan: i forgot mine at home
+[02/07/2008 09:30:53 AM] bjcullinan: and i assume you are still there since you don't have a class yet
+Session Close (Richard Lester): Thu Feb 07 09:31:08 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Thu Feb 07 19:42:51 2008
+[02/07/2008 07:42:55 PM] bjcullinan: you there?
+[02/07/2008 07:43:01 PM] bjcullinan: looks like it is copying kind of slow
+[02/07/2008 07:43:12 PM] bjcullinan: i will let you know when it is done
+Session Close (Richard Lester): Thu Feb 07 19:58:41 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Fri Feb 08 10:24:44 2008
+[02/08/2008 10:24:51 AM] bjcullinan: want to play Q3?
+[02/08/2008 10:24:54 AM] bjcullinan: i got the server working
+Session Close (Richard Lester): Fri Feb 08 10:58:12 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Fri Feb 08 17:45:11 2008
+[02/08/2008 05:45:13 PM] bjcullinan: Q3?
+[02/08/2008 05:45:19 PM] bjcullinan: original?
+Session Close (Richard Lester): Fri Feb 08 17:54:35 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Sat Feb 09 18:47:09 2008
+[02/09/2008 06:47:15 PM] bjcullinan: you there?
+Session Close (Richard Lester): Sat Feb 09 19:34:32 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Wed Feb 13 09:44:50 2008
+[02/13/2008 09:45:01 AM] bjcullinan: have you seen my ipod?
+Session Close (Richard Lester): Wed Feb 13 09:46:17 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Wed Feb 13 13:06:06 2008
+[02/13/2008 01:06:06 PM] Richard Lester: lo?
+[02/13/2008 01:19:37 PM] bjcullinan: you seen my ipod?
+Session Close (Richard Lester): Wed Feb 13 13:50:47 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Wed Feb 13 23:54:55 2008
+[02/13/2008 11:54:56 PM] bjcullinan: omg i have an amazing game ACM should play
+Session Close (Richard Lester): Wed Feb 13 23:58:30 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Wed Feb 20 00:52:01 2008
+[02/20/2008 12:52:03 AM] bjcullinan: you there?
+[02/20/2008 12:52:38 AM] Richard Lester: yeah, whats up
+[02/20/2008 12:52:52 AM] bjcullinan: should angling an image be done in draw or update?
+[02/20/2008 12:54:05 AM] Richard Lester: depends on if that image is used for multiple things. If there is only one you can do it in update. if the image has to be used in more than one place, you will have to do it in draw
+[02/20/2008 12:54:22 AM] bjcullinan: yeah good call
+[02/20/2008 12:55:28 AM] Richard Lester: but always do it in the view, even if its an update within view
+Session Close (Richard Lester): Wed Feb 20 01:06:02 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Sun Feb 24 22:22:15 2008
+[02/24/2008 10:22:23 PM] bjcullinan: i finally got my view controller working perfectly
+[02/24/2008 10:23:29 PM] Richard Lester: sweet
+[02/24/2008 10:23:34 PM] Richard Lester: Yeah, I am behind this week game wise
+[02/24/2008 10:31:01 PM] bjcullinan: you will be impressed
+[02/24/2008 10:31:41 PM] Richard Lester: w00t
+[02/24/2008 10:31:46 PM] Richard Lester: I look forward to it
+[02/24/2008 10:32:45 PM] bjcullinan: oh you'd better
+[02/24/2008 10:33:09 PM] Richard Lester: hehe
+Session Close (Richard Lester): Sun Feb 24 23:04:30 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Sun Feb 24 23:21:03 2008
+[02/24/2008 11:21:03 PM] Richard Lester: principles study session at 4:30 on wednesday btw
+[02/24/2008 11:30:27 PM] bjcullinan: yes i know
+Session Close (Richard Lester): Sun Feb 24 23:30:27 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Sun Feb 24 23:31:27 2008
+[02/24/2008 11:31:27 PM] Richard Lester: ok, making sure
+Session Close (Richard Lester): Sun Feb 24 23:43:34 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Sun Mar 23 11:13:00 2008
+[03/23/2008 11:13:01 AM] Richard Lester: heyya
+[03/23/2008 11:13:06 AM] bjcullinan: heyya
+[03/23/2008 11:13:57 AM] Richard Lester: so, what exactly was our goals for dieter's assignment? looking back I am a little confused
+[03/23/2008 11:15:06 AM] bjcullinan: i am doing a different one
+[03/23/2008 11:15:11 AM] bjcullinan: i think
+[03/23/2008 11:15:20 AM] Richard Lester: Ah, I see
+[03/23/2008 11:15:30 AM] bjcullinan: are you done with the scheme project?
+[03/23/2008 11:16:05 AM] Richard Lester: nope
+[03/23/2008 11:16:22 AM] Richard Lester: Iv done a grand total of no homework over my break so thats what I am going to be doing today
+[03/23/2008 11:17:19 AM] Richard Lester: how bout you?
+[03/23/2008 11:17:26 AM] bjcullinan: but you have started the scheme project right?
+[03/23/2008 11:17:28 AM] bjcullinan: before break?
+[03/23/2008 11:17:46 AM] bjcullinan: you notice he put no collaborating on this one
+[03/23/2008 11:18:00 AM] bjcullinan: so we can't even talk about how we solved certain problems?
+[03/23/2008 11:18:39 AM] Richard Lester: I think that just means that we cant work in groups
+[03/23/2008 11:18:54 AM] Richard Lester: considering out homework is how we are learning alot of the time, it makes no sense to isolate us
+[03/23/2008 11:19:13 AM] Richard Lester: *our
+[03/23/2008 11:19:19 AM] Richard Lester: and yes, I did start it
+[03/23/2008 11:19:56 AM] Richard Lester: oh, and do you know when our VW project v. 2 is due?
+[03/23/2008 11:21:19 AM] *** Richard Lester went away at Sun Mar 23 11:21:19 2008.
+[03/23/2008 11:21:36 AM] Richard Lester: that was strange, my firefox crashed
+[03/23/2008 11:21:50 AM] bjcullinan: hm
+[03/23/2008 11:22:02 AM] bjcullinan: VW i think is due this week
+[03/23/2008 11:22:09 AM] bjcullinan: he just wants more game like play
+[03/23/2008 11:22:35 AM] Richard Lester: yeah, too bad though, I was hoping to put more time into it
+[03/23/2008 11:22:49 AM] Richard Lester: I guess thats what Ill be doing tomarow
+[03/23/2008 11:27:19 AM] bjcullinan: have you seen the HP travel companion
+[03/23/2008 11:27:23 AM] bjcullinan: it looks pretty
+[03/23/2008 11:27:33 AM] Richard Lester: no, I havnt
+[03/23/2008 11:27:34 AM] bjcullinan: it's like a handheld navigation system
+[03/23/2008 11:27:44 AM] Richard Lester: GPS type thing?
+[03/23/2008 11:27:45 AM] bjcullinan: touch screen and everything
+[03/23/2008 11:27:54 AM] bjcullinan: but it's really pretty
+[03/23/2008 11:28:07 AM] Richard Lester: lol
+[03/23/2008 11:28:26 AM] Richard Lester: You will have to show me when we are in the ACM room tomarow
+[03/23/2008 11:32:27 AM] bjcullinan: i think i finally have my mediaserver database working the way i want
+[03/23/2008 11:32:44 AM] Richard Lester: and the villagers rejoiced
+[03/23/2008 11:32:57 AM] bjcullinan: yeah they do
+[03/23/2008 11:33:02 AM] Richard Lester: lol
+[03/23/2008 11:34:33 AM] bjcullinan: i programmed it so i could run the script every 30 minutes or so, and it will run for like 30 seconds, and update the database of media
+[03/23/2008 11:34:49 AM] Richard Lester: woot
+[03/23/2008 11:35:40 AM] bjcullinan: the problem was it can't loop through all of my music folders in 30 seconds, so i save the paths that it is currently working on, and it picks up where it left off, so it will eventually cycle through all the folders then start over
+[03/23/2008 11:36:45 AM] Richard Lester: aha
+[03/23/2008 11:36:58 AM] Richard Lester: how long would It take to run though all of them in one shot?
+[03/23/2008 11:38:42 AM] bjcullinan: like 20 minutes and it will crash my server from too much memory usage
+[03/23/2008 11:39:20 AM] Richard Lester: lol
+[03/23/2008 11:39:34 AM] bjcullinan: php doesn't do much garbage collection
+[03/23/2008 11:39:38 AM] Richard Lester: sounds like a memory leak
+[03/23/2008 11:41:04 AM] bjcullinan: yeah it's totally my fault
+[03/23/2008 11:41:33 AM] Richard Lester: lol
+[03/23/2008 11:41:51 AM] Richard Lester: well, that works though
+[03/23/2008 11:44:22 AM] bjcullinan: yeah it should work pretty well, i have a bunch of error checking and it removed old data and everything
+[03/23/2008 11:56:22 AM] bjcullinan: i am hungry
+[03/23/2008 11:59:22 AM] Richard Lester: I ate
+Session Close (Richard Lester): Sun Mar 23 11:59:30 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Sun Mar 23 11:59:33 2008
+[03/23/2008 11:59:33 AM] Richard Lester: union station was closed.. made me sad
+Session Close (Richard Lester): Sun Mar 23 12:13:05 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Sun Mar 30 02:49:42 2008
+[03/30/2008 02:49:48 AM] bjcullinan: hi
+Session Close (Richard Lester): Sun Mar 30 02:51:10 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Sun Apr 13 16:03:03 2008
+[04/13/2008 04:03:09 PM] bjcullinan: i painted the projector screen today
+[04/13/2008 04:03:17 PM] bjcullinan: it is going to dry in 2 hours
+[04/13/2008 04:03:21 PM] Richard Lester: what did you paint on it?
+[04/13/2008 04:03:26 PM] bjcullinan: the floor
+[04/13/2008 04:03:41 PM] Richard Lester: you painted your floor on the projector screen?
+[04/13/2008 04:03:52 PM] bjcullinan: i am confused
+[04/13/2008 04:03:59 PM] bjcullinan: i put the paint on the projector screen
+[04/13/2008 04:04:04 PM] Richard Lester: why did you paint your projector screen
+[04/13/2008 04:04:30 PM] bjcullinan: because the fabric was stretched out and reflecting things unevenly
+[04/13/2008 04:04:39 PM] Richard Lester: I see I see
+[04/13/2008 04:04:40 PM] bjcullinan: and now its more reflective
+[04/13/2008 04:04:47 PM] Richard Lester: hmm
+[04/13/2008 04:04:49 PM] Richard Lester: interesting
+[04/13/2008 04:05:20 PM] bjcullinan: wanna watch something tonight?
+[04/13/2008 04:05:29 PM] Richard Lester: nah, I got stuff to do
+[04/13/2008 04:08:20 PM] bjcullinan: yeah me too
+[04/13/2008 04:08:59 PM] Richard Lester: I havent even started ecks project yet
+[04/13/2008 04:09:40 PM] bjcullinan: when is it due?
+[04/13/2008 04:10:00 PM] Richard Lester: I think the first part is due very soon
+Session Close (Richard Lester): Sun Apr 13 16:12:39 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Fri Apr 25 11:26:38 2008
+[04/25/2008 11:26:46 AM] bjcullinan: can has help with xml class?
+[04/25/2008 11:27:00 AM] Richard Lester: If I can, I am doing it right now
+[04/25/2008 11:27:05 AM] bjcullinan: want to get together today to figure some of this stuff out?
+[04/25/2008 11:27:14 AM] bjcullinan: karan said he'd help me
+[04/25/2008 11:27:18 AM] Richard Lester: sure, I am at the engineering building right now
+[04/25/2008 11:27:26 AM] Richard Lester: is this for the one due monday or the one due last monday?
+[04/25/2008 11:27:34 AM] bjcullinan: i have work, then i might be going to the store with crystal to get jello
+[04/25/2008 11:27:48 AM] bjcullinan: are you working on last monday?
+[04/25/2008 11:27:56 AM] Richard Lester: no
+[04/25/2008 11:28:06 AM] Richard Lester: Im considering that a lost cause
+[04/25/2008 11:28:35 AM] bjcullinan: yeah me too, but i still need some help figuring out this new one
+[04/25/2008 11:29:00 AM] Richard Lester: ok
+[04/25/2008 11:29:09 AM] Richard Lester: yeah I am working on it now, so stop by when you can
+[04/25/2008 11:29:34 AM] bjcullinan: yeah i'll try
+[04/25/2008 11:30:00 AM] bjcullinan: coming over tonight?
+[04/25/2008 11:30:11 AM] Richard Lester: nah
+[04/25/2008 11:30:46 AM] Richard Lester: Gotta get my RP on
+[04/25/2008 11:31:03 AM] bjcullinan: loser
+[04/25/2008 11:31:06 AM] bjcullinan: j/k
+[04/25/2008 11:31:09 AM] bjcullinan: dork
+[04/25/2008 11:31:12 AM] bjcullinan: not j/k
+[04/25/2008 11:31:23 AM] bjcullinan: anywho
+[04/25/2008 11:31:27 AM] bjcullinan: don't miss bsg
+[04/25/2008 11:31:49 AM] Richard Lester: lol
+[04/25/2008 11:31:57 AM] Richard Lester: Ill catch up at some point here
+[04/25/2008 11:32:05 AM] bjcullinan: can haz earl
+[04/25/2008 11:32:11 AM] bjcullinan: (Link: http://209.250.30.30/mediaserver/plugins/m3u.php)http://209.250.30.30/mediaserver/plugins/m3u.php
+[04/25/2008 11:33:19 AM] bjcullinan: man remote desktop is slow today
+[04/25/2008 11:36:46 AM] Richard Lester: yarg
+Session Close (Richard Lester): Fri Apr 25 12:36:00 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Sun Sep 07 16:38:49 2008
+[09/07/2008 04:38:52 PM] bjcullinan: Spore
+[09/07/2008 04:39:03 PM] bjcullinan: why does your phone always go to voice mail?
+Session Close (Richard Lester): Sun Sep 07 16:39:04 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Mon Sep 08 11:45:39 2008
+Session Close (Richard Lester): Mon Sep 08 11:45:41 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Mon Oct 06 10:15:03 2008
+[10/06/2008 10:15:12 AM] bjcullinan: lol, ipod femto
+Session Close (Richard Lester): Mon Oct 06 10:15:14 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Wed Oct 22 16:18:10 2008
+[10/22/2008 04:18:20 PM] bjcullinan: Woo Creative Suite 4!!!1
+Session Close (Richard Lester): Wed Oct 22 16:18:24 2008
+
+
+Session Start (bjcullinan@gmail.com:Richard Lester): Wed Apr 15 12:46:37 2009
+[04/15/2009 12:46:37 PM] Richard Lester: (Link: http://elsevierdirect.com/companions/9780750682763/jhdcode.zip)http://elsevierdirect.com/companions/9780750682763/jhdcode.zip
+Session Close (Richard Lester): Wed Apr 15 14:53:36 2009
+
+

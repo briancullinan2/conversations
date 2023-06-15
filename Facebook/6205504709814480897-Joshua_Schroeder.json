@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6205504709814480897/",
+    "participants": [
+        {
+            "name": "Joshua Schroeder",
+            "title": "Account Manager at Collabera Inc.",
+            "url": "linkedin.com/in/joshua-schroeder",
+            "phone": "4083144912 (Mobile)",
+            "email": "joshuaschro@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Hello {first}, thank you for connecting. I would love to do business with you at {company}. My previous experience with {role} has been brief. You seem like a great person. When can we meet?\n",
+            "time": "2017-11-18T22:20:00.000Z"
+        }
+    ]
+}

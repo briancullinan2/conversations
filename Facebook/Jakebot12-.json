@@ -1,0 +1,83 @@
+{
+    "thread": "https://www.facebook.com/messages/t/Jakebot12",
+    "participants": [
+        {}
+    ],
+    "messages": [
+        {
+            "from": "Jake",
+            "message": "\nI don't have one yet. I bought \"quadcrushgame.com\" from Godaddy, but I don't want to use their hosting. I need to build a marketing site under that domain name and have it hosted. Would you be able to help me build the site and host it? How much would you charge?\nI remember that you had a private server room when I met you. I'd rather give you the money than some corporate giant web hosting business. I really don't know what I'm doing and I don't want to get ripped off.  It's for a new board game that my friend and I created.\n",
+            "time": "2016-10-08T02:15:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nI'd rather put it on AWS than be responsible for your success \nI would sell through Stripe. You should sign up for an account and we can figure out where to put the big purchase button.\n",
+            "time": "2016-10-08T02:15:00.000Z"
+        },
+        {
+            "from": "Jake",
+            "message": "\nWhat's AWS?\n",
+            "time": "2016-10-08T02:15:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nAmazon web services.\nIt is pretty cheap.\n",
+            "time": "2016-10-08T02:15:00.000Z"
+        },
+        {
+            "from": "Jake",
+            "message": "\nOh. Yeah. Do you know anybody who can help me build and host the site? Does AWS do that too?\n",
+            "time": "2016-10-08T02:15:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nI don't think so. But there are plenty of site builders out there that use AWS as there host internally.\nhttp://www.wix.com/\nFree Website Builder | Create a Free Website | WIX.com\nCreate a free website with Wix.com. Customize with Wix' free website builder, no coding skills needed. Choose a design, begin customizing and be online today!\nwix.com\n",
+            "time": "2016-10-08T02:15:00.000Z"
+        },
+        {
+            "from": "Jake",
+            "message": "\nRight on, bro. I'll check into all that. Thank you\n",
+            "time": "2016-10-08T04:42:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nSure thing!  I've heard good things about both of those services.  I can help if you get stuck.\n",
+            "time": "2016-10-08T04:42:00.000Z"
+        },
+        {
+            "from": "Jake",
+            "message": "\nAwesome =]\n",
+            "time": "2016-10-08T04:42:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nhttps://thegrid.io/\nThe Grid - Join the Evolution\nthegrid.io\n",
+            "time": "2016-10-11T16:43:00.000Z"
+        },
+        {
+            "from": "Jake",
+            "message": "\nThank you, Brian. Every little bit helps.\n",
+            "time": "2016-10-15T21:07:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nQ: What makes the calendar seem so popular?\nA: Because it has a lot of dates!\n",
+            "time": "2017-11-12T19:44:00.000Z"
+        },
+        {
+            "from": "Jake",
+            "message": "\nLol\n\n",
+            "time": "2017-11-13T15:49:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nI'm thankful for you!!��\n",
+            "time": "2017-11-23T19:04:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nLiving the dream? Mm\n",
+            "time": "2017-11-23T02:34:00.000Z"
+        }
+    ]
+}

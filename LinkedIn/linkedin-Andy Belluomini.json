@@ -1,0 +1,492 @@
+[
+    {
+        "resourceName": "people/c1318217053513657240",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "124b3f6d0b8b2b98"
+                    }
+                },
+                "displayName": "Andy Belluomini",
+                "familyName": "Belluomini",
+                "givenName": "Andy",
+                "displayNameLastFirst": "Belluomini, Andy"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "124b3f6d0b8b2b98"
+                    }
+                },
+                "value": "+1-480-586-5553",
+                "canonicalForm": "+14805865553",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "3 Mutual Connections",
+                "You and Andy both know Daniel Cheetham, Steven McMurry, and 1 other"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "OEM Team Lead",
+                "Company Name",
+                "Rockwell Automation",
+                "Dates Employed",
+                "May 2017 – Present",
+                "Employment Duration",
+                "6 mos",
+                "Location",
+                "Greater Denver Area"
+            ],
+            [
+                "OEM Sales Engineer",
+                "Company Name",
+                "Rockwell Automation",
+                "Dates Employed",
+                "Jul 2012 – Jun 2017",
+                "Employment Duration",
+                "5 yrs",
+                "Location",
+                "Greater Seattle Area"
+            ],
+            [
+                "Process Engineering",
+                "Company Name",
+                "Henkel of America",
+                "Dates Employed",
+                "May 2010 – Jun 2012",
+                "Employment Duration",
+                "2 yrs 2 mos"
+            ],
+            [
+                "Product Development",
+                "Company Name",
+                "Dash Designs",
+                "Dates Employed",
+                "May 2008 – May 2010",
+                "Employment Duration",
+                "2 yrs 1 mo"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "Bachelor of Engineering (B.E.)",
+                "Field Of Study",
+                "Mechanical Engineering",
+                "Dates attended or expected graduation",
+                "2008 – 2012"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "Bachelor of Engineering (B.E.)",
+                "Field Of Study",
+                "Mechanical Engineering",
+                "Dates attended or expected graduation",
+                "2008 – 2012"
+            ],
+            [
+                "Ira A. Fulton Schools of Engineering at Arizona State University",
+                "Degree Name",
+                "Bachelor of Engineering (B.E.)",
+                "Field Of Study",
+                "Mechanical Engineering"
+            ],
+            [
+                "Ira A. Fulton Schools of Engineering at Arizona State University",
+                "Degree Name",
+                "Bachelor of Engineering (B.E.)",
+                "Field Of Study",
+                "Mechanical Engineering"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Rockwell Automation",
+                "209,528 followers"
+            ],
+            [
+                "Ira A. Fulton Schools of Engineering at Arizona State University",
+                "6,733 followers"
+            ],
+            [
+                "Arizona State University",
+                "386,166 followers"
+            ],
+            [
+                "Ira A. Fulton Schools of Engineering at Arizona State University",
+                "5,003 followers"
+            ],
+            [
+                "Arizona State University",
+                "420,389 followers"
+            ],
+            [
+                "See connections (443)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Rockwell Automation",
+                "209,528 followers"
+            ],
+            [
+                "Rockwell Automation",
+                "209,528 followers"
+            ],
+            [
+                "Ira A. Fulton Schools of Engineering at Arizona State University",
+                "6,733 followers"
+            ],
+            [
+                "Ira A. Fulton Schools of Engineering at Arizona State University",
+                "6,733 followers"
+            ],
+            [
+                "Arizona State University",
+                "386,166 followers"
+            ],
+            [
+                "Arizona State University",
+                "386,166 followers"
+            ],
+            [
+                "Ira A. Fulton Schools of Engineering at Arizona State University",
+                "5,003 followers"
+            ],
+            [
+                "Ira A. Fulton Schools of Engineering at Arizona State University",
+                "5,003 followers"
+            ],
+            [
+                "Arizona State University",
+                "420,389 followers"
+            ],
+            [
+                "Arizona State University",
+                "420,389 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Product Development",
+                "See 21 endorsements for Product Development",
+                "21",
+                "Product Development",
+                "Endorse",
+                "Endorsed by Joseph Forte Jr (mutual connection)",
+                "Endorsed by 2 of Andy’s colleagues at Rockwell Automation"
+            ],
+            [
+                "Product Development",
+                "See 21 endorsements for Product Development",
+                "21"
+            ],
+            [
+                "Leadership",
+                "See 7 endorsements for Leadership",
+                "7",
+                "Leadership",
+                "Endorse",
+                "Endorsed by Joseph Forte Jr (mutual connection)"
+            ],
+            [
+                "Leadership",
+                "See 7 endorsements for Leadership",
+                "7"
+            ],
+            [
+                "Process Engineering",
+                "See 14 endorsements for Process Engineering",
+                "14",
+                "Process Engineering",
+                "Endorse",
+                "Endorsed by Joseph Forte Jr (mutual connection)"
+            ],
+            [
+                "Process Engineering",
+                "See 14 endorsements for Process Engineering",
+                "14"
+            ],
+            [
+                "Disciplined Sales Process",
+                "Disciplined Sales Process",
+                "Endorse"
+            ],
+            [
+                "Disciplined Sales Process"
+            ],
+            [
+                "Automation",
+                "See 10 endorsements for Automation",
+                "10",
+                "Automation",
+                "Endorse"
+            ],
+            [
+                "Automation",
+                "See 10 endorsements for Automation",
+                "10"
+            ],
+            [
+                "Solution Selling",
+                "Solution Selling",
+                "Endorse"
+            ],
+            [
+                "Solution Selling"
+            ],
+            [
+                "Manufacturing",
+                "See 10 endorsements for Manufacturing",
+                "10",
+                "Manufacturing",
+                "Endorse"
+            ],
+            [
+                "Manufacturing",
+                "See 10 endorsements for Manufacturing",
+                "10"
+            ],
+            [
+                "Solidworks",
+                "See 9 endorsements for Solidworks",
+                "9",
+                "Solidworks",
+                "Endorse"
+            ],
+            [
+                "Solidworks",
+                "See 9 endorsements for Solidworks",
+                "9"
+            ],
+            [
+                "Engineering",
+                "See 6 endorsements for Engineering",
+                "6",
+                "Engineering",
+                "Endorse"
+            ],
+            [
+                "Engineering",
+                "See 6 endorsements for Engineering",
+                "6"
+            ],
+            [
+                "Six Sigma",
+                "See 5 endorsements for Six Sigma",
+                "5",
+                "Six Sigma",
+                "Endorse"
+            ],
+            [
+                "Six Sigma",
+                "See 5 endorsements for Six Sigma",
+                "5"
+            ],
+            [
+                "Industrial Control",
+                "See 4 endorsements for Industrial Control",
+                "4",
+                "Industrial Control",
+                "Endorse"
+            ],
+            [
+                "Industrial Control",
+                "See 4 endorsements for Industrial Control",
+                "4"
+            ],
+            [
+                "Project Management",
+                "See 3 endorsements for Project Management",
+                "3",
+                "Project Management",
+                "Endorse"
+            ],
+            [
+                "Project Management",
+                "See 3 endorsements for Project Management",
+                "3"
+            ],
+            [
+                "Lean Manufacturing",
+                "See 3 endorsements for Lean Manufacturing",
+                "3",
+                "Lean Manufacturing",
+                "Endorse"
+            ],
+            [
+                "Lean Manufacturing",
+                "See 3 endorsements for Lean Manufacturing",
+                "3"
+            ],
+            [
+                "Matlab",
+                "See 3 endorsements for Matlab",
+                "3",
+                "Matlab",
+                "Endorse"
+            ],
+            [
+                "Matlab",
+                "See 3 endorsements for Matlab",
+                "3"
+            ],
+            [
+                "Design of Experiments",
+                "See 2 endorsements for Design of Experiments",
+                "2",
+                "Design of Experiments",
+                "Endorse"
+            ],
+            [
+                "Design of Experiments",
+                "See 2 endorsements for Design of Experiments",
+                "2"
+            ],
+            [
+                "PLC",
+                "See 2 endorsements for PLC",
+                "2",
+                "PLC",
+                "Endorse"
+            ],
+            [
+                "PLC",
+                "See 2 endorsements for PLC",
+                "2"
+            ],
+            [
+                "SolidWorks",
+                "See 2 endorsements for SolidWorks",
+                "2",
+                "SolidWorks",
+                "Endorse"
+            ],
+            [
+                "SolidWorks",
+                "See 2 endorsements for SolidWorks",
+                "2"
+            ],
+            [
+                "Adhesives",
+                "See 1 endorsement for Adhesives",
+                "1",
+                "Adhesives",
+                "Endorse"
+            ],
+            [
+                "Adhesives",
+                "See 1 endorsement for Adhesives",
+                "1"
+            ],
+            [
+                "Rockwell Automation Sales Training Program",
+                "See 1 endorsement for Rockwell Automation Sales Training Program",
+                "1",
+                "Rockwell Automation Sales Training Program",
+                "Endorse"
+            ],
+            [
+                "Rockwell Automation Sales Training Program",
+                "See 1 endorsement for Rockwell Automation Sales Training Program",
+                "1"
+            ],
+            [
+                "Technical Sales Presentations",
+                "See 1 endorsement for Technical Sales Presentations",
+                "1",
+                "Technical Sales Presentations",
+                "Endorse"
+            ],
+            [
+                "Technical Sales Presentations",
+                "See 1 endorsement for Technical Sales Presentations",
+                "1"
+            ],
+            [
+                "Allen Bradley",
+                "See 1 endorsement for Allen Bradley",
+                "1",
+                "Allen Bradley",
+                "Endorse"
+            ],
+            [
+                "Allen Bradley",
+                "See 1 endorsement for Allen Bradley",
+                "1"
+            ],
+            [
+                "Consumer Products",
+                "Consumer Products",
+                "Endorse"
+            ],
+            [
+                "Consumer Products"
+            ],
+            [
+                "Proof of Concept",
+                "Proof of Concept",
+                "Endorse"
+            ],
+            [
+                "Proof of Concept"
+            ],
+            [
+                "Rheology",
+                "Rheology",
+                "Endorse"
+            ],
+            [
+                "Rheology"
+            ],
+            [
+                "Business Advisor",
+                "Business Advisor",
+                "Endorse"
+            ],
+            [
+                "Business Advisor"
+            ]
+        ],
+        "summary": "",
+        "name": "Andy Belluomini",
+        "title": "OEM Team Lead at Rockwell Automation",
+        "url": "linkedin.com/in/andy-belluomini-27862036",
+        "phone": "2064275322 (Mobile)",
+        "email": "Abelluomini@gmail.com"
+    }
+]

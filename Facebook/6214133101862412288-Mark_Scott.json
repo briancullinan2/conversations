@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6214133101862412288/",
+    "participants": [
+        {
+            "name": "Mark Scott",
+            "title": "Entrepreneur",
+            "url": "linkedin.com/in/mark-scott-259255",
+            "phone": null,
+            "email": "mscott@creatigy.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-12T17:46:00.000Z"
+        }
+    ]
+}

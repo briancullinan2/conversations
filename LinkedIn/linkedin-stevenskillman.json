@@ -1,0 +1,532 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "42 Mutual Connections",
+                "You and Steven both know Sergey Zaytsev, John Lemp, and 40 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "CEO",
+                "Company Name",
+                "Life Aspire LLC",
+                "Dates Employed",
+                "Feb 2013 – Present",
+                "Employment Duration",
+                "4 yrs 10 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "• Responsible for technology infrastructure for the websites. Setup of sites involving custom development, cluster of servers, CDN, and specialized web caching are used to maintain the forum based sites.• In charge of growth of social operation of FaithTap and PetStride.• Run and participate with a team that helps organize content for the website and social platforms.http://www.alexa.com/siteinfo/faithtap.comhttps://www.quantcast.com/faithtap.com"
+            ],
+            [
+                "Senior .NET Product Engineer",
+                "Company Name",
+                "GoDaddy",
+                "Dates Employed",
+                "Nov 2011 – Jul 2013",
+                "Employment Duration",
+                "1 yr 9 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "Product release of Website Builder (http://www.godaddy.com/hosting/website-builder-new.aspx)• Technologies: C#, .NET MVC, REST API, jQuery, javascript, KnockoutJS, Linq, Dapper, WCF Services, dependency injection, Moq, Google Analytics• Website Builder customer sites hosted on Linux, developed custom widgets for the sites with PHP.• Lead for video encoding service infrastructure for customer online file storage."
+            ],
+            [
+                "Development Lead for Targeted Marketing Strategy",
+                "Company Name",
+                "GoDaddy",
+                "Dates Employed",
+                "Apr 2009 – Oct 2011",
+                "Employment Duration",
+                "2 yrs 7 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "Responsible for customer segmentation and contact strategy for outbound sales, email marketing, and site offers.• Architected company MassMailer for internal targeted marketing team. Consisted of multi-threaded services on 12 servers that ran at full capacity, producing up to 1 million emails per hour. Setup 50 qmail relay servers capable of sending to the total company customer base in a single night. Personally contacted the major email providers to become whitelisted to prevent email rate limiting and bulk mail filtering.• Introduced outbound call contact strategy for call center. Based on customer conditions such as renewals, products not setup, recent visit to GoDaddy.com, new customer, x-sell products.• Utilized the service architecture to develop a priority system to determine whether a custom marketing email would be more cost effective than a phone call.• Worked closely with DBAs on team to ensure customer segmentation was validated properly using a business rule validation engine.• Responsible for messaging system API that allowed any development team in the company to queue an email, phone call, or customer note based on customer action."
+            ],
+            [
+                "Lead Engineer for Internal Services",
+                "Company Name",
+                "GoDaddy",
+                "Dates Employed",
+                "Jul 2005 – Mar 2009",
+                "Employment Duration",
+                "3 yrs 9 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "Lead engineer for introducing new internal systems across the company. Managed development teams from three to a dozen engineers.• For Fraud/Chargeback team analyzed shopper purchase trends in order to develop a sophisticated set of custom rules for identifying fraudulent orders. Produced web based workflow process ticketing system to review targeted orders. Technologies: ASP.NET and C# Windows Service.• For Domains Services produced a ticket system to handle domain change of account and other legal processes. Popped email accounts tied to a ticket number and automatically added attachments to tickets. Directly after release team process efficiency more than doubled.• Created a Java API using JavaMail that extracted attachments and email mime message and transformed to an XML document. Used by internal teams, product Quick Blog to allow uploading blogs via email and Online Photo to upload photos via email.• Release of http://support.godaddy.com/ a PHP application for product help articles and internal management by internal writers.• Introduced survey system to retrieve customer feedback for call center support, product suggestions, and product cancellations."
+            ],
+            [
+                "ASP.NET Developer for Corporate Sites",
+                "Company Name",
+                "GoDaddy",
+                "Dates Employed",
+                "Jun 2003 – Jun 2005",
+                "Employment Duration",
+                "2 yrs 1 mo",
+                "Location",
+                "Scottsdale, AZ",
+                "Developer for GoDaddy.com, shopping cart, my account, and reseller program.• Increased online sales revenue by making it possible to have a direct link from domain/product renewal emails to the website without requiring a login via cookie.• Deployed an emergency project to enhance site security for transferring shopper sign on information from the sales site, my account, and shopping cart during our first Super Bowl commercial media campaign.• Product releases including country code top level domains, domain backordering, domain date consolidation, Quick Shopping Cart management, private registration, and monthly hosting renewals."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of Iowa",
+                "Degree Name",
+                "Bachelor of Science (B.S.)",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "1998 – 2003"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Medical Supplies Shipments",
+                "Company Name",
+                "Project C.U.R.E. Arizona",
+                "Dates volunteered",
+                "Apr 2010 – Apr 2010",
+                "Volunteer duration",
+                "1 mo",
+                "Cause",
+                "Health",
+                "Work with a team to help organize and ship medical supplies to areas of need."
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "TechCrunch",
+                "1,900,638 followers"
+            ],
+            [
+                "GoDaddy Alumni Network",
+                "654 members"
+            ],
+            [
+                "TIBCO Software Inc.",
+                "82,732 followers"
+            ],
+            [
+                "Salesforce Marketing Cloud",
+                "53,525 followers"
+            ],
+            [
+                "Website Development and Marketing",
+                "12,262 members"
+            ],
+            [
+                "University of Iowa",
+                "152,750 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "TechCrunch",
+                "1,900,638 followers"
+            ],
+            [
+                "TechCrunch",
+                "1,900,638 followers"
+            ],
+            [
+                "GoDaddy Alumni Network",
+                "654 members"
+            ],
+            [
+                "GoDaddy Alumni Network",
+                "654 members"
+            ],
+            [
+                "TIBCO Software Inc.",
+                "82,732 followers"
+            ],
+            [
+                "TIBCO Software Inc.",
+                "82,732 followers"
+            ],
+            [
+                "Salesforce Marketing Cloud",
+                "53,525 followers"
+            ],
+            [
+                "Salesforce Marketing Cloud",
+                "53,525 followers"
+            ],
+            [
+                "Website Development and Marketing",
+                "12,262 members"
+            ],
+            [
+                "Website Development and Marketing",
+                "12,262 members"
+            ],
+            [
+                "University of Iowa",
+                "152,750 followers"
+            ],
+            [
+                "University of Iowa",
+                "152,750 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Rachel Franklin",
+                "\"Retired\" Web Marketing Vice President",
+                "July 15, 2013, Rachel was senior to Steven but didn’t manage directly",
+                "I had the pleasure of working with Steve in a variety of roles during the majority of my nearly ten year tenure at GoDaddy.com. We worked closely on a number of significant marketing initiatives that were launched successfully as a result of his direct contributions. He grew quickly within the Company taking on a management role in development -- his team was responsible for maintenance and implementation of key internal marketing tools that directly impacted revenue. He is a quick learner, communicates well with stakeholders, is dedicated and very passionate about the projects he is involved with."
+            ],
+            [
+                "Rachel Franklin",
+                "\"Retired\" Web Marketing Vice President",
+                "July 15, 2013, Rachel was senior to Steven but didn’t manage directly"
+            ],
+            [
+                "Rachel Franklin",
+                "\"Retired\" Web Marketing Vice President",
+                "July 15, 2013, Rachel was senior to Steven but didn’t manage directly"
+            ],
+            [
+                "Rachel Franklin",
+                "\"Retired\" Web Marketing Vice President",
+                "July 15, 2013, Rachel was senior to Steven but didn’t manage directly"
+            ],
+            "\"Retired\" Web Marketing Vice President",
+            [
+                "I had the pleasure of working with Steve in a variety of roles during the majority of my nearly ten year tenure at GoDaddy.com. We worked closely on a number of significant marketing initiatives that were launched successfully as a result of his direct contributions. He grew quickly within the Company taking on a management role in development -- his team was responsible for maintenance and implementation of key internal marketing tools that directly impacted revenue. He is a quick learner, communicates well with stakeholders, is dedicated and very passionate about the projects he is involved with."
+            ],
+            [
+                "I had the pleasure of working with Steve in a variety of roles during the majority of my nearly ten year tenure at GoDaddy.com. We worked closely on a number of significant marketing initiatives that were launched successfully as a result of his direct contributions. He grew quickly within the Company taking on a management role in development -- his team was responsible for maintenance and implementation of key internal marketing tools that directly impacted revenue. He is a quick learner, communicates well with stakeholders, is dedicated and very passionate about the projects he is involved with."
+            ]
+        ],
+        "skills": [
+            [
+                "jQuery",
+                "See 33 endorsements for jQuery",
+                "33",
+                "jQuery",
+                "Endorse",
+                "Endorsed by Dan Esparza and 1 other who is highly skilled at this",
+                "Endorsed by Clifford Wong and 4 other mutual connections"
+            ],
+            [
+                "jQuery",
+                "See 33 endorsements for jQuery",
+                "33"
+            ],
+            [
+                "JavaScript",
+                "See 30 endorsements for JavaScript",
+                "30",
+                "JavaScript",
+                "Endorse",
+                "Endorsed by Dan Esparza, who is highly skilled at this",
+                "Endorsed by Clifford Wong and 3 other mutual connections"
+            ],
+            [
+                "JavaScript",
+                "See 30 endorsements for JavaScript",
+                "30"
+            ],
+            [
+                ".NET",
+                "See 26 endorsements for .NET",
+                "26",
+                ".NET",
+                "Endorse",
+                "Allen Vestal and 25 connections have given endorsements for this skill"
+            ],
+            [
+                ".NET",
+                "See 26 endorsements for .NET",
+                "26"
+            ],
+            [
+                "C#",
+                "See 26 endorsements for C#",
+                "26",
+                "C#",
+                "Endorse"
+            ],
+            [
+                "C#",
+                "See 26 endorsements for C#",
+                "26"
+            ],
+            [
+                "ASP.NET",
+                "See 21 endorsements for ASP.NET",
+                "21",
+                "ASP.NET",
+                "Endorse"
+            ],
+            [
+                "ASP.NET",
+                "See 21 endorsements for ASP.NET",
+                "21"
+            ],
+            [
+                "LINQ",
+                "See 11 endorsements for LINQ",
+                "11",
+                "LINQ",
+                "Endorse"
+            ],
+            [
+                "LINQ",
+                "See 11 endorsements for LINQ",
+                "11"
+            ],
+            [
+                "CSS",
+                "See 9 endorsements for CSS",
+                "9",
+                "CSS",
+                "Endorse"
+            ],
+            [
+                "CSS",
+                "See 9 endorsements for CSS",
+                "9"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 8 endorsements for Microsoft SQL Server",
+                "8",
+                "Microsoft SQL Server",
+                "Endorse"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 8 endorsements for Microsoft SQL Server",
+                "8"
+            ],
+            [
+                "Linux",
+                "See 8 endorsements for Linux",
+                "8",
+                "Linux",
+                "Endorse"
+            ],
+            [
+                "Linux",
+                "See 8 endorsements for Linux",
+                "8"
+            ],
+            [
+                "HTML",
+                "See 7 endorsements for HTML",
+                "7",
+                "HTML",
+                "Endorse"
+            ],
+            [
+                "HTML",
+                "See 7 endorsements for HTML",
+                "7"
+            ],
+            [
+                "PHP",
+                "See 7 endorsements for PHP",
+                "7",
+                "PHP",
+                "Endorse"
+            ],
+            [
+                "PHP",
+                "See 7 endorsements for PHP",
+                "7"
+            ],
+            [
+                "Web Application Design",
+                "See 6 endorsements for Web Application Design",
+                "6",
+                "Web Application Design",
+                "Endorse"
+            ],
+            [
+                "Web Application Design",
+                "See 6 endorsements for Web Application Design",
+                "6"
+            ],
+            [
+                "Agile Web Development",
+                "See 6 endorsements for Agile Web Development",
+                "6",
+                "Agile Web Development",
+                "Endorse"
+            ],
+            [
+                "Agile Web Development",
+                "See 6 endorsements for Agile Web Development",
+                "6"
+            ],
+            [
+                "Multi-threaded Development",
+                "See 6 endorsements for Multi-threaded Development",
+                "6",
+                "Multi-threaded Development",
+                "Endorse"
+            ],
+            [
+                "Multi-threaded Development",
+                "See 6 endorsements for Multi-threaded Development",
+                "6"
+            ],
+            [
+                "Google Analytics",
+                "See 6 endorsements for Google Analytics",
+                "6",
+                "Google Analytics",
+                "Endorse"
+            ],
+            [
+                "Google Analytics",
+                "See 6 endorsements for Google Analytics",
+                "6"
+            ],
+            [
+                "IIS",
+                "See 5 endorsements for IIS",
+                "5",
+                "IIS",
+                "Endorse"
+            ],
+            [
+                "IIS",
+                "See 5 endorsements for IIS",
+                "5"
+            ],
+            [
+                "Moq",
+                "See 4 endorsements for Moq",
+                "4",
+                "Moq",
+                "Endorse"
+            ],
+            [
+                "Moq",
+                "See 4 endorsements for Moq",
+                "4"
+            ],
+            [
+                "SDLC",
+                "See 4 endorsements for SDLC",
+                "4",
+                "SDLC",
+                "Endorse"
+            ],
+            [
+                "SDLC",
+                "See 4 endorsements for SDLC",
+                "4"
+            ],
+            [
+                "Facebook API",
+                "See 4 endorsements for Facebook API",
+                "4",
+                "Facebook API",
+                "Endorse"
+            ],
+            [
+                "Facebook API",
+                "See 4 endorsements for Facebook API",
+                "4"
+            ],
+            [
+                "Backbone.js",
+                "See 4 endorsements for Backbone.js",
+                "4",
+                "Backbone.js",
+                "Endorse"
+            ],
+            [
+                "Backbone.js",
+                "See 4 endorsements for Backbone.js",
+                "4"
+            ],
+            [
+                "Visio",
+                "See 4 endorsements for Visio",
+                "4",
+                "Visio",
+                "Endorse"
+            ],
+            [
+                "Visio",
+                "See 4 endorsements for Visio",
+                "4"
+            ],
+            [
+                "SOA",
+                "See 4 endorsements for SOA",
+                "4",
+                "SOA",
+                "Endorse"
+            ],
+            [
+                "SOA",
+                "See 4 endorsements for SOA",
+                "4"
+            ],
+            [
+                "KnockoutJS",
+                "See 3 endorsements for KnockoutJS",
+                "3",
+                "KnockoutJS",
+                "Endorse"
+            ],
+            [
+                "KnockoutJS",
+                "See 3 endorsements for KnockoutJS",
+                "3"
+            ],
+            [
+                "MVC",
+                "See 11 endorsements for MVC",
+                "11",
+                "MVC",
+                "Endorse"
+            ],
+            [
+                "MVC",
+                "See 11 endorsements for MVC",
+                "11"
+            ]
+        ],
+        "summary": "    With 20 million unique visitors and over 60 million page views a month, Life Aspire is the largest inspirational network in the world.http://about.lifeaspire.com/http://www.alexa.com/siteinfo/faithtap.comhttps://www.quantcast.com/faithtap.com\n  \n  \n",
+        "name": "Steven Skillman",
+        "title": "Marketing Entrepenuer",
+        "url": "linkedin.com/in/stevenskillman",
+        "phone": "480-619-2097 (Home)",
+        "email": "steven@skillman.tv"
+    }
+]

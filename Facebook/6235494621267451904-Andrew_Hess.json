@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6235494621267451904/",
+    "participants": [
+        {
+            "name": "Andrew Hess",
+            "title": "Account Manager at Apex Systems",
+            "url": "linkedin.com/in/anhess",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Andrew Hess",
+            "time": "2018-02-09T12:00:00.000Z",
+            "message": "Infrastructure Engineer\n\nDear Brian, \n\nI hope you are having a great day! I wanted to contact you in regards to an Infrastructure Engineer position I have available in Phoenix, AZ. I looked at your profile and thought you would be a great fit, please give me a call at the office when you get a chance, 480-368-2480. Thank you\n\n\nInfrastructure Engineer\nIn-depth knowledge/skills in mobile technologies and deployment practices; AirWatch Enterprise Mobile Management preferred\nSupport an enterprise Microsoft Exchange environment with 10k mailboxes\nSupport an Office365 hybrid environment\nSupport internal and external mail flow; Cisco IronPort preferred\nExperience with archiving technologies such as Exchange Archiving and Enterprise Vault\nPowerShell knowledge a must\nWindows administration in an active directory environment a must\nLinux server administration a nice to have\nSupporting technologies preferred such as Microsoft SCOM and Microsoft DPM \nGeneral understanding of FoIP, VoIP, and Video Conferencing a nice to have.\n\nMandatory:\nMicrosoft Exchange 2010+\nOffice365\nMobility MDM technologies (AirWatch preferred)\nEnterprise Vault\nPowerShell scripting\n\nAndrew Hess\nahess@apexsystemsinc.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-09T16:34:00.000Z",
+            "message": "Thank you for connecting! I don't have the skills :/\n"
+        },
+        {
+            "from": "Andrew Hess",
+            "time": "2017-03-28T12:00:00.000Z",
+            "message": "Systems Analyst\n\nDear Brian, \n\nI hope you are having a great day! I wanted to contact you in regards to a Senior Network Engineer position I have available in Phoenix, AZ. I looked at your profile and thought you would be a great fit, please give me a call at the office when you get a chance, 480-368-2480. Thank you\n\nSystems Analyst/Integrator\nIntegrate continuous process improvement/refinement by utilizing and applying operational and performance-based analytics. Lead or participate in projects of varying scopes including planning, budgeting, scheduling, and execution. Lead or participate in developing, validating, and execution of all levels of testing. Provide procedural, technical, and developmental mentoring, and may provide work direction to less experienced staff.\n\nMandatory:\nFTP protocols/technologies - FTPS, SFTP, PGP encryption- Supported and managed critical file transfers (exchanged files with banks/financial trading partners) - Programming: Java, .Net, operating system scripts, SQL- Experience working with multiple teams.\n\nDesired:\nSetting up and managing FTP sites in IIS (Internet Information Server), VShell- Supported centralized EDI file transfers and B2B/FTP transfers- Understands data security, privacy and controls related to B2B file transfers- EAI experience with TIBCO tools\n\nAndrew Hess\nahess@apexsystemsinc.com\n"
+        },
+        {
+            "from": "Andrew Hess",
+            "time": "2017-03-28T12:00:00.000Z",
+            "message": "Systems Analyst\n\nDear Brian, \n\nI hope you are having a great day! I wanted to contact you in regards to a Systems Analyst position I have available in Phoenix, AZ. I looked at your profile and thought you would be a great fit, please give me a call at the office when you get a chance, 480-368-2480. Thank you\n\nSystems Analyst/Integrator\nIntegrate continuous process improvement/refinement by utilizing and applying operational and performance-based analytics. Lead or participate in projects of varying scopes including planning, budgeting, scheduling, and execution. Lead or participate in developing, validating, and execution of all levels of testing. Provide procedural, technical, and developmental mentoring, and may provide work direction to less experienced staff.\n\nMandatory:\nFTP protocols/technologies - FTPS, SFTP, PGP encryption- Supported and managed critical file transfers (exchanged files with banks/financial trading partners) - Programming: Java, .Net, operating system scripts, SQL- Experience working with multiple teams.\n\nDesired:\nSetting up and managing FTP sites in IIS (Internet Information Server), VShell- Supported centralized EDI file transfers and B2B/FTP transfers- Understands data security, privacy and controls related to B2B file transfers- EAI experience with TIBCO tools\n\nAndrew Hess\nahess@apexsystemsinc.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-28T17:03:00.000Z",
+            "message": "Thank you for thinking of me but I don't think I am qualified.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-28T18:08:00.000Z",
+            "message": "Who still uses ftp?\n"
+        }
+    ]
+}

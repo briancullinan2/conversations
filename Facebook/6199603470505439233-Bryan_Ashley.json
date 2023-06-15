@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6199603470505439233/",
+    "participants": [
+        {
+            "name": "Bryan Ashley",
+            "title": "Senior Software Engineer at Weebly",
+            "url": "linkedin.com/in/bryan-ashley-36741566",
+            "phone": "",
+            "email": "bryan.ashley@bashley.net"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thanks for the connect! How's it going?",
+            "time": "2016-11-02T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I am in SF! Woohoo",
+            "time": "2017-10-30T15:30:00.000Z"
+        }
+    ]
+}

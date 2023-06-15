@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6343485284792967169/",
+    "participants": [
+        {
+            "name": "Joseph Flores",
+            "title": "Resource Manager at Signature Consultants",
+            "url": "linkedin.com/in/joseph-flores-8b9a85b9",
+            "phone": "",
+            "email": "joeflores11@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Joseph Flores",
+            "message": "",
+            "time": "2017-12-04T16:25:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-12-07T17:11:00.000Z"
+        },
+        {
+            "from": "Joseph Flores",
+            "message": "",
+            "time": "2017-12-05T00:18:00.000Z"
+        }
+    ]
+}

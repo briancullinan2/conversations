@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6222091043047829504/",
+    "participants": [
+        {
+            "name": "Anthony Conti",
+            "title": "Chief Creative Officer | Official 2017 Webby Award Judge",
+            "url": "linkedin.com/in/anthonyconti",
+            "phone": "602-326-7723 (Work)",
+            "email": "me@anthonyconti.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-01-03T16:48:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Anthony Conti",
+            "time": "2017-03-08T20:25:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-08T20:53:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

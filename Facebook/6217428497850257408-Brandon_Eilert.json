@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6217428497850257408/",
+    "participants": [
+        {
+            "name": "Brandon Eilert",
+            "title": "Recruiting Manager at Robert Half Finance & Accounting 602.224.0551",
+            "url": "linkedin.com/in/brandon-eilert-68776a26",
+            "phone": "785.820.7760 (Mobile)",
+            "email": "Brandon.Eilert@roberthalf.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-12-21T20:01:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Brandon Eilert",
+            "time": "2017-03-09T16:55:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-09T17:12:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

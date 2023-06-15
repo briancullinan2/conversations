@@ -1,0 +1,56 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "31Jan17",
+    "participants": "Brian Cullinan | wizard > David McArthur | Consulting Member of Technical Staff at Oracle - Bare Metal Cloud",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "David McArthur",
+        "url": "linkedin.com/in/david-mcarthur-1652906",
+        "email": "David.Mcarthur@gmail.com",
+        "title": "Consulting Member of Technical Staff at Oracle - Bare Metal Cloud"
+      }
+    ],
+    "message": "Is working for Larry Ellison fullfulling?",
+    "time": "2017-01-31T20:02:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "31Jan17",
+    "participants": "Brian Cullinan | wizard > Tania Katan | Creative Instigator Seeks Innovative Companies Looking to Spark Small-to-Gigantic Cultural Revolutions!",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Tania Katan",
+        "url": "linkedin.com/in/tania-katan-6b913561",
+        "email": "info@taniakatan.com",
+        "title": "Creative Instigator Seeks Innovative Companies Looking to Spark Small-to-Gigantic Cultural Revolutions!"
+      }
+    ],
+    "message": "I wasn't being insulting I was just poking your groundedness ;)",
+    "time": "2017-01-31T21:06:00.000Z",
+    "title": "wizard"
+  }
+]

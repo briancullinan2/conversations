@@ -1,0 +1,52 @@
+{
+    "thread": "https://www.facebook.com/messages/t/johan.larson.56",
+    "participants": [
+        {
+            "name": "Johan Larson",
+            "description": "Studied at IHM Business School",
+            "url": "Lives in Haverdal"
+        }
+    ],
+    "messages": [
+        {
+            "time": "2017-11-12T11:44:00.000Z",
+            "from": "Brian",
+            "message": "Brian\nQ: What did the paper say to the pencil?\nA: Write on!"
+        },
+        {
+            "time": "2017-12-01T02:15:00.000Z",
+            "from": "Brian",
+            "message": "Brian\nI'm thankful for you!!��"
+        },
+        {
+            "time": "2017-11-24T09:59:00.000Z",
+            "from": "Brian",
+            "message": "Brian\nLiving the dream? Mm"
+        },
+        {
+            "time": "2017-11-28T03:59:00.000Z",
+            "from": [],
+            "message": "Johan Larson accepted your request."
+        },
+        {
+            "time": "2017-11-28T03:59:00.000Z",
+            "from": "Johan",
+            "message": "Johan\nHi my friend. What’s up?"
+        },
+        {
+            "time": "2017-11-28T06:19:00.000Z",
+            "from": "Brian",
+            "message": "Brian\nWhen are you coming back>\n?"
+        },
+        {
+            "time": "2017-11-28T06:19:00.000Z",
+            "from": "Johan",
+            "message": "Johan\nYou mean when I'm comming to the future?"
+        },
+        {
+            "time": "2017-11-28T06:19:00.000Z",
+            "from": "Brian",
+            "message": "Brian\nYeah"
+        }
+    ]
+}

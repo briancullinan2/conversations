@@ -1,0 +1,27 @@
+{
+    "thread": "https://www.facebook.com/messages/t/enzo.armetta",
+    "participants": [
+        {
+            "name": "Enzo Armetta",
+            "description": "Hair stylist and Co-owner at Salon Armetta",
+            "url": "Worked at Salon 103"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Brian",
+            "message": "Brian\nQ: Why do bicycles fall over?\nA: Because they are two-tired!\n\n",
+            "time": "2017-11-12T19:46:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nI'm thankful for you!!��\n",
+            "time": "2017-11-23T19:05:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nLiving the dream? Mm\n",
+            "time": "2017-11-23T02:37:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "thread": "/messaging/thread/6204704795853406208/",
+    "participants": [
+        {
+            "name": "Amit Verma",
+            "title": "SQL Developer at Arizona Department of Education",
+            "url": "linkedin.com/in/amit-verma-09602757",
+            "phone": "8476604959 (Mobile)",
+            "email": "amitatiit@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "How do you like working for Arizona department of education?\n",
+            "time": "2017-11-16T17:21:00.000Z"
+        },
+        {
+            "from": "Amit Verma",
+            "message": "So far so good. Good to see a Government organization upgrading their technology to the latest from where people used to fix their codes in production :)\n",
+            "time": "2017-11-16T21:36:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Seems to be the time of transformation. Either upgrade or get left in the dust. So, how do I get a job offer as quickly as possible? See an upgrades needed in the recruiting and staffing process?\n",
+            "time": "2017-11-16T21:39:00.000Z"
+        },
+        {
+            "from": "Amit Verma",
+            "message": "Are you looking for a job change? If yes than it is not the right time to come to Arizona Department of Education\n",
+            "time": "2017-11-16T22:50:00.000Z"
+        },
+        {
+            "from": "Amit Verma",
+            "message": "Try in June Month this when Fiscal Year starts\n",
+            "time": "2017-11-16T22:50:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Wow, that's totally different than what recruiters tell me. How come?\n",
+            "time": "2017-11-16T22:58:00.000Z"
+        },
+        {
+            "from": "Amit Verma",
+            "message": "I can forward your linkedin profile to the HR department to decide.\n",
+            "time": "2017-11-16T23:23:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Ok\n",
+            "time": "2017-11-16T23:29:00.000Z"
+        }
+    ]
+}

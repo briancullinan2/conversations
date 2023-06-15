@@ -1,0 +1,49 @@
+{
+    "thread": "/messaging/thread/6204080312473972736/",
+    "participants": [
+        {
+            "name": "Helen Harden",
+            "title": "Technical Recruiter",
+            "url": "linkedin.com/in/helenharden",
+            "phone": "",
+            "email": "hharden@mdigroup.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Helen Harden",
+            "message": ".Net Developer networking opportunity\nhharden@mdigroup.com",
+            "time": "2016-11-15T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Sure. Department of education is falling way behind technology and they need help!",
+            "time": "2017-10-27T00:01:00.000Z"
+        },
+        {
+            "from": "Helen Harden",
+            "message": "Great! My inmail is having issues sending the attachments, what's your email address Ill send them to you that way.",
+            "time": "2017-10-27T16:59:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Are you able to find my email address on my LinkedIn profile?  I've been having problems with their privacy settings.",
+            "time": "2017-10-27T17:19:00.000Z"
+        },
+        {
+            "from": "Helen Harden",
+            "message": "I just found it, I always ask though cause more often than not people either have the wrong email or no email attached to their profile, is \nmegamindbrian@gmail.com\n the best one?",
+            "time": "2017-10-27T17:19:00.000Z"
+        },
+        {
+            "from": "Helen Harden",
+            "message": "I did email it over to you earlier today , so let me know your thoughts after you review everything.",
+            "time": "2017-10-27T23:07:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Awesome.  Looked at the roles, I like it!  I responded over email if you want to continue there.",
+            "time": "2017-10-27T23:23:00.000Z"
+        }
+    ]
+}

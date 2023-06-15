@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6190232928857972736/",
+    "participants": [
+        {
+            "name": "Scott Hathcock",
+            "title": "CEO/President at Northern Arizona Center for Entrepreneurship and Technology",
+            "url": "linkedin.com/in/scotthathcock",
+            "phone": null,
+            "email": "hathcock.scott@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for the connect! I am on the job hunt and hopefully moving to Flagstaff soon. How are things looking on your end?\n",
+            "time": "2016-10-07T18:55:00.000Z"
+        },
+        {
+            "from": "Scott Hathcock",
+            "message": "Hi Brian, what kind of work are you looking for?\n",
+            "time": "2016-10-10T23:10:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I love software devlopment. I'd really love to work on AI. I just had a call with PNNL earlier. They are a supplier for DARPA.\n",
+            "time": "2016-10-10T23:25:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "You?\n",
+            "time": "2016-10-10T23:25:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Congrats on the new gig! Hope you’re doing well.\n",
+            "time": "2016-10-12T16:14:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Congrats on your work anniversary!\n",
+            "time": "2017-12-06T21:05:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+<session type="start" time="1136966196" medium="ICQ" to="345113783" from="215469521"/>
+<message type="incoming_privateMessage" time="1136966196" medium="ICQ" to="215469521" from="345113783" from_display="345113783" text="%C3%A4%C3%A9%C3%A9"/>
+<message type="outgoing_privateMessage" time="1136969151" medium="ICQ" to="345113783" from="215469521" from_display="b%2Ecullinan" text="who%20is%20this%3F"/>
+<session type="stop" time="1136969165" medium="ICQ" to="345113783" from="215469521"/>

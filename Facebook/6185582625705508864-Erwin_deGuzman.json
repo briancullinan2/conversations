@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6185582625705508864/",
+    "participants": [
+        {
+            "name": "Erwin deGuzman",
+            "title": "Recruiter / Sourcer / Headhunter",
+            "url": "linkedin.com/in/ejdeguzman",
+            "phone": null,
+            "email": "erwinjdeguzman@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Erwin deGuzman",
+            "message": "Contract to Hire Sr .NET Software Engineer opportunity in Phoenix\nerwin.deguzman@yoh.com",
+            "time": "2014-07-30T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Hey, I am looking for new opportunities, how are things going for you?",
+            "time": "2017-10-05T22:57:00.000Z"
+        }
+    ]
+}

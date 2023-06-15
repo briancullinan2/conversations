@@ -1,0 +1,444 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "11Jan17",
+    "participants": "Brian Cullinan | wizard > Richard (Rick) Swanson | CEO @Resumoto | Lean Startup Mentor",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Richard (Rick) Swanson",
+        "url": "linkedin.com/in/richardswanson",
+        "phone": "480-463-4632 (Mobile)",
+        "email": "richard@resumo.to",
+        "title": "CEO @Resumoto | Lean Startup Mentor"
+      }
+    ],
+    "message": "Hows the AI coming along?",
+    "time": "2017-01-11T15:47:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "11Jan17",
+    "participants": "Brian Cullinan | wizard > Robert Haines | Happy & Kind Person // Software Geek // Life Motto: \"When was the LAST time you did something for the FIRST time?\"",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Robert Haines",
+        "url": "linkedin.com/in/roberthaines",
+        "email": "brilliantandkind@gmail.com",
+        "title": "Happy & Kind Person // Software Geek // Life Motto: \"When was the LAST time you did something for the FIRST time?\""
+      }
+    ],
+    "message": "Thank you for connecting! SOS method is a meditation app I am working on.",
+    "time": "2017-01-11T14:44:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "11Jan17",
+    "participants": "Robert Haines | Happy & Kind Person // Software Geek // Life Motto: \"When was the LAST time you did something for the FIRST time?\" > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Robert Haines",
+        "url": "linkedin.com/in/roberthaines",
+        "email": "brilliantandkind@gmail.com",
+        "title": "Happy & Kind Person // Software Geek // Life Motto: \"When was the LAST time you did something for the FIRST time?\""
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Sort of like Headspace? Tim Ferris raves about that one.",
+    "time": "2017-01-11T18:05:00.000Z",
+    "title": "Happy & Kind Person // Software Geek // Life Motto: \"When was the LAST time you did something for the FIRST time?\""
+  },
+  {
+    "type": "conversations",
+    "conversations": "11Jan17",
+    "participants": "Brian Cullinan | wizard > Robert Haines | Happy & Kind Person // Software Geek // Life Motto: \"When was the LAST time you did something for the FIRST time?\"",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Robert Haines",
+        "url": "linkedin.com/in/roberthaines",
+        "email": "brilliantandkind@gmail.com",
+        "title": "Happy & Kind Person // Software Geek // Life Motto: \"When was the LAST time you did something for the FIRST time?\""
+      }
+    ],
+    "message": "Exactly",
+    "time": "2017-01-11T20:17:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "11Jan17",
+    "participants": "Brian Cullinan | wizard > Tim Kirby | President at IMPACT Technology",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Tim Kirby",
+        "url": "linkedin.com/in/timkirby",
+        "phone": "602-751-9115 (Mobile)",
+        "email": "timmykirby@gmail.com",
+        "title": "President at IMPACT Technology"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-11T22:08:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "11Jan17",
+    "participants": "Brian Cullinan | wizard > Preston Neubert | Director of Operations",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Preston Neubert",
+        "url": "linkedin.com/in/preston-neubert-344590ab",
+        "phone": "317-430-7127 (Mobile)",
+        "email": "pneubert@exactitconsulting.com",
+        "title": "Director of Operations"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-11T20:20:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "11Jan17",
+    "participants": "Brian Cullinan | wizard > Chris Huie | Developer Evangelist at Galvanize Inc",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Chris Huie",
+        "url": "linkedin.com/in/chris-huie-896936b2",
+        "phone": "602-750-6878 (Home)",
+        "email": "christopher.huie@galvanize.com",
+        "title": "Developer Evangelist at Galvanize Inc"
+      }
+    ],
+    "message": "Thanks for endorsing me for Software Development!",
+    "time": "2017-01-11T13:40:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "11Jan17",
+    "participants": "Chris Huie | Developer Evangelist at Galvanize Inc > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Chris Huie",
+        "url": "linkedin.com/in/chris-huie-896936b2",
+        "phone": "602-750-6878 (Home)",
+        "email": "christopher.huie@galvanize.com",
+        "title": "Developer Evangelist at Galvanize Inc"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Gladly :-)",
+    "time": "2017-01-11T18:55:00.000Z",
+    "title": "Developer Evangelist at Galvanize Inc"
+  },
+  {
+    "type": "conversations",
+    "conversations": "11Jan17",
+    "participants": "Brian Cullinan | wizard > 'Luni' Libes | Entreprenuer, Author, Mentor, Advisor, Investor",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "'Luni' Libes",
+        "url": "linkedin.com/in/lunarmobiscuit",
+        "email": "lunarmobiscuit@gmail.com",
+        "title": "Entreprenuer, Author, Mentor, Advisor, Investor"
+      }
+    ],
+    "message": "I agree scraping can be susceptible to change but I am thinking to match actions and text selection based on very general appearance of the site. Like the messages page always lists all the people you have contacted on the left side, this isn't likely to change anytime soon even though the classes or theme might change underneath.",
+    "time": "2017-01-11T15:42:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "11Jan17",
+    "participants": "Tony Orlando | Senior Technical Recruiter and Proud Gold Sponsor of AITP Atlanta > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Tony Orlando",
+        "url": "linkedin.com/in/tonyorlando34",
+        "phone": "480-586-7568 (Mobile)",
+        "email": "torlando@ehire.com",
+        "title": "Senior Technical Recruiter and Proud Gold Sponsor of AITP Atlanta"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Hi Brian,\n\nJust a quick note to say thank you for connecting; it's a pleasure to meet you. If there is anything I can do for you, now or in the future, please don't hesitate to call or drop me a note.\n\nBest Regards and Continued Success, \nTony \n\n(678) 528-4721 \ntorlando@ehire.com",
+    "time": "2017-01-11T15:16:00.000Z",
+    "title": "Senior Technical Recruiter and Proud Gold Sponsor of AITP Atlanta"
+  },
+  {
+    "type": "conversations",
+    "conversations": "11Jan17",
+    "participants": "Brian Cullinan | wizard > Tony Orlando | Senior Technical Recruiter and Proud Gold Sponsor of AITP Atlanta",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Tony Orlando",
+        "url": "linkedin.com/in/tonyorlando34",
+        "phone": "480-586-7568 (Mobile)",
+        "email": "torlando@ehire.com",
+        "title": "Senior Technical Recruiter and Proud Gold Sponsor of AITP Atlanta"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-11T15:40:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "11Jan17",
+    "participants": "Brian Cullinan | wizard > Shannon Schumacher | Dental Study Club Product Director Experienced in SaaS, Ecommerce and Customer Success",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Shannon Schumacher",
+        "url": "linkedin.com/in/shannonkschumacher",
+        "email": "Shannon@shannonschumacher.com",
+        "title": "Dental Study Club Product Director Experienced in SaaS, Ecommerce and Customer Success"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-11T15:03:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "11Jan17",
+    "participants": "Brian Cullinan | wizard > Shon Burton | Founder and CEO of HiringSolved",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Shon Burton",
+        "url": "linkedin.com/in/shonburton",
+        "email": "shon@hiringsolved.com",
+        "title": "Founder and CEO of HiringSolved"
+      }
+    ],
+    "message": "How did you solve hiring? I want to write an AI to apply for jobs for me.",
+    "time": "2017-01-11T15:03:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "11Jan17",
+    "participants": "Brian Cullinan | wizard > Adam Sandilands | Vice President of Recruiting at The Judge Group",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Adam Sandilands",
+        "url": "linkedin.com/in/ajsandilands",
+        "phone": "602-385-0063 (Work)",
+        "email": "ASandilands@judge.com",
+        "title": "Vice President of Recruiting at The Judge Group"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-11T15:02:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "11Jan17",
+    "participants": "Brian Cullinan | wizard > Tony Orlando | Senior Technical Recruiter and Proud Gold Sponsor of AITP Atlanta",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Tony Orlando",
+        "url": "linkedin.com/in/tonyorlando34",
+        "phone": "480-586-7568 (Mobile)",
+        "email": "torlando@ehire.com",
+        "title": "Senior Technical Recruiter and Proud Gold Sponsor of AITP Atlanta"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-11T14:42:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "11Jan17",
+    "participants": "Brian Cullinan | wizard > Adam Wehunt | Web Developer | Seeking Opportunities | Front End, Angular, UX, Node",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Adam Wehunt",
+        "url": "linkedin.com/in/ajwehunt",
+        "phone": "480-527-1703 (Mobile)",
+        "email": "adamjwehunt@gmail.com",
+        "title": "Web Developer | Seeking Opportunities | Front End, Angular, UX, Node"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-11T13:39:00.000Z",
+    "title": "wizard"
+  }
+]

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6300809416962818048/",
+    "participants": [
+        {
+            "name": "Nicolette Butler",
+            "title": "Technical Recruiting Manager at Robert Half Technology",
+            "url": "linkedin.com/in/nicolette-butler-1749a8139",
+            "phone": "",
+            "email": "nicoletteb83@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Nicolette Butler",
+            "time": "2017-08-08T19:33:00.000Z",
+            "message": "Hey there! I have a few Full Stack opportunities available. Even if you're uninterested now, mind if we connect so that I may inform you of other potential positions in the future?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-08-09T20:20:00.000Z",
+            "message": "We are already connected.\n"
+        }
+    ]
+}

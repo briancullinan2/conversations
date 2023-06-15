@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6219941578874634240/",
+    "participants": [
+        {
+            "name": "Marc Maiffret",
+            "title": "None",
+            "url": "linkedin.com/in/mmaiffret",
+            "phone": null,
+            "email": "marc@marcmaiffret.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-28T18:27:00.000Z"
+        }
+    ]
+}

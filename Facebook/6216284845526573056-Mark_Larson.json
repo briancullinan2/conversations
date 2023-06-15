@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6216284845526573056/",
+    "participants": [
+        {
+            "name": "Mark Larson",
+            "title": "CEO and Founder, KIPP San Antonio",
+            "url": "linkedin.com/in/marklarson4",
+            "phone": null,
+            "email": "mlarson@kippsa.org"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-18T16:16:00.000Z"
+        }
+    ]
+}

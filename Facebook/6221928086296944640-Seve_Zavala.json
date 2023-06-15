@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6221928086296944640/",
+    "participants": [
+        {
+            "name": "Seve Zavala",
+            "title": "Co-Founder, and Tech Analyst",
+            "url": "linkedin.com/in/seve-zavala",
+            "phone": null,
+            "email": "seve.zavala@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-03T06:00:00.000Z"
+        }
+    ]
+}

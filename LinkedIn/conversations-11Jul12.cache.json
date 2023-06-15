@@ -1,0 +1,30 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "11Jul12",
+    "participants": "Thomas Blackburn | Partner at Lane Alton > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Thomas Blackburn",
+        "url": "linkedin.com/in/thomas-blackburn-629a2211",
+        "phone": "1-614-233-4762 (Work)",
+        "email": "tblackburn@lanealton.com",
+        "title": "Partner at Lane Alton"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Congratulations on your marriage! Did you ever figure out my email address?",
+    "time": "2012-07-11T18:06:00.000Z",
+    "title": "Partner at Lane Alton"
+  }
+]

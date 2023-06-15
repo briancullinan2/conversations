@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6252232892823465984/",
+    "participants": [
+        {
+            "name": "Robin Smith",
+            "title": "Human Resources Manager at WalletHub",
+            "url": "linkedin.com/in/robin-smith-b95b2384",
+            "phone": null,
+            "email": "jobs@wallethub.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Robin Smith",
+            "time": "2017-03-27T20:54:00.000Z",
+            "message": "I'm from WalletHub, an award-winning fintech company based in the US. Looked over your profile and think you could be a great fit for our team and have the opportunity to work on meaningful/impactful things, as well as learn a lot. Let me know if you're interested in more details.\n"
+        },
+        {
+            "from": "Robin Smith",
+            "time": "2017-03-28T11:07:00.000Z",
+            "message": "Hi Brian,\n\nHere at WalletHub we're building the brain of the smartest financial advisor, with the goal of helping consumers reach financial fitness and, through that, taking away the number one stress factor in the U.S. - money issues.\n\nI would be happy to offer you the System Administrator position, please find the job description enclosed.\n\nIf this sounds appealing to you please let me know so we can move on to the next steps. We currently have a few remote positions available.\n\nRegards,\nRobin\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-28T13:24:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

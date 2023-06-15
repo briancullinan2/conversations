@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6227202775831363584/",
+    "participants": [
+        {
+            "name": "James Ash",
+            "title": "Strategic Account Leader at GitLab",
+            "url": "linkedin.com/in/jameswash",
+            "phone": null,
+            "email": "james.w.ash@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-17T19:20:00.000Z"
+        }
+    ]
+}

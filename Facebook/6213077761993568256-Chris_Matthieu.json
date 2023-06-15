@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6213077761993568256/",
+    "participants": [
+        {
+            "name": "Chris Matthieu",
+            "title": "Director IoT Engineering at Citrix",
+            "url": "linkedin.com/in/chrismatthieu",
+            "phone": "623-252-3425 (Mobile)",
+            "email": "chris@matthieu.us"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-09T19:52:00.000Z"
+        }
+    ]
+}

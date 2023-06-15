@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6320058616024043520/",
+    "participants": [
+        {
+            "name": "Carol Paquette",
+            "title": "Customer Care Center, Grange Insurance",
+            "url": "linkedin.com/in/cjp717",
+            "phone": "",
+            "email": "cjp717@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Carol Paquette",
+            "message": "Congrats on your new job, Brian!",
+            "time": "2017-10-01T00:56:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6210561031664648192/",
+    "participants": [
+        {
+            "name": "Sean Callahan",
+            "title": "Senior Technical Recruiter at Sharp Decisions",
+            "url": "linkedin.com/in/seanecallahan",
+            "phone": "480-773-6791 (Work)",
+            "email": "sc_2000@outlook.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "You're a genius!\n",
+            "time": "2017-12-02T21:12:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I like building front ends.\n",
+            "time": "2018-01-20T15:30:00.000Z"
+        },
+        {
+            "from": "Sean Callahan",
+            "message": "Is megamindbrian@gmail.com a good email for you? I will shoot over the complete JD's for you to look over. \n\nSean\n",
+            "time": "2018-01-20T16:02:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Yes!\n",
+            "time": "2018-01-20T16:34:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6239815984065101825/",
+    "participants": [
+        {
+            "name": "Gyan Chawdhary",
+            "title": "Founder (Codebashing - Acquired by Checkmarx)",
+            "url": "linkedin.com/in/gyanchawdhary",
+            "phone": null,
+            "email": "gyan.chawdhary@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-21T14:41:00.000Z",
+            "message": "Thank you for connecting! Coding leaves much to be desired.\n"
+        },
+        {
+            "from": "Gyan Chawdhary",
+            "time": "2018-02-21T16:01:00.000Z",
+            "message": "hey brian - it sure does ! I was actually interested in learning about Mindtree and if we could partner in some way - love the idea of real time connection of learners and educators.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-21T16:54:00.000Z",
+            "message": "Probably! If you are in to education you should talk to this guy:\nhttps://www.linkedin.com/in/zeusrz/\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-21T16:54:00.000Z",
+            "message": "He wants to put together a team to take EdTech 10 steps forward. You might be the missing link, not enough companies have a security mindset.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-21T16:54:00.000Z",
+            "message": "Mindspree isn't ready yet.\n"
+        }
+    ]
+}

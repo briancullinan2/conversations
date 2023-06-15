@@ -1,0 +1,633 @@
+[
+    {
+        "resourceName": "people/c80394703492903890",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMTWJMQ3VQWVBNVVE9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "11d9e8e8f8473d2"
+                    }
+                },
+                "displayName": "Mr. and Mrs. Jeff Kalina",
+                "familyName": "Kalina",
+                "givenName": "and Mrs.",
+                "middleName": "Jeff",
+                "honorificPrefix": "Mr",
+                "displayNameLastFirst": "Kalina, Mr and Mrs. Jeff"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "107637144726804276151"
+                    }
+                },
+                "displayName": "Jeff Kalina",
+                "familyName": "Kalina",
+                "givenName": "Jeff",
+                "displayNameLastFirst": "Kalina, Jeff"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "11d9e8e8f8473d2"
+                    }
+                },
+                "value": "jeffkalina1@gmail.com",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "11d9e8e8f8473d2"
+                    }
+                },
+                "value": "+1-480-563-0094",
+                "canonicalForm": "+14805630094",
+                "type": "home",
+                "formattedType": "Home"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "11d9e8e8f8473d2"
+                    }
+                },
+                "value": "(602) 625-4222",
+                "canonicalForm": "+16026254222",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "5 Mutual Connections",
+                "You and Jeff both know Rob Jones, Curtis Barrett, and 3 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Robotics @ Amazon",
+                "Company Name",
+                "JLL",
+                "Dates Employed",
+                "Oct 2017 – Present",
+                "Employment Duration",
+                "2 mos",
+                "Location",
+                "Edison, NJ"
+            ],
+            [
+                "Technical Recruiter - Client & Talent Manager",
+                "Company Name",
+                "TEEMA Solutions Group Inc",
+                "Dates Employed",
+                "Oct 2016 – Present",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "New Jersey / New York",
+                "TEEMA Solutions Group Inc (TEEMA) has become one of the fastest growing Staffing Solutions companies in North America.   Our focus is delivering full-cycle staffing solutions, whether that is short term, contract or long term, permanent. We love our clients and we support them by placing quality people in the right position at the right time.  TEEMA is governed by rock solid values, a mandate to empower our members and a commitment to excellence. Our Members are the most tenured in the staffing industry, with deep and wide networks of talented resources. We are passionate about what we do. Our clients have access to a wealth of experience unsurpassed in staffing. We believe the future is about ‘disrupting our industry‘ and our rapid growth is evident of that (cited by Profit 50, Red Herring, INC 5000 and Branham 300)."
+            ],
+            [
+                "Serial Entrepreneur",
+                "Company Name",
+                "Linco International Inc",
+                "Dates Employed",
+                "Aug 2002 – Present",
+                "Employment Duration",
+                "15 yrs 4 mos",
+                "Location",
+                "New York / New Jersey / Delaware / China / Taiwan",
+                "Startup 1: Gluten Free Baked Goods Manufacturing / Ecommerce - New Jersey / DelawareStartup 2: Cell Phone Retail Chain - Fixmytronics - New JerseyStartup 3: Luxury Goods (Diamonds/Jewelry)  / Ecommerce - NYC / NJStartup 4: Vitamin Manufacturing / Ecommerce - Hillsborough NJStartup 5 IT Staffing / Consulting Company (Confidential) - Princeton NJStartup 6: Fitness Equipment Manufacturing / Ecommerce   - Hillsborough NJStartup 7: MxMotorsports - Auto Parts / Accessories Manufacturing / Ecommerce - New YorkStartup 8: Affiliate / Social Media Marketing - New York / New Jersey"
+            ],
+            [
+                "Technical Recruiter",
+                "Company Name",
+                "RennerBrown",
+                "Dates Employed",
+                "Feb 2017 – Jun 2017",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "Edison, NJ",
+                "The ambition of RennerBrown is to provide the resources and opportunities necessary to attract, train, and retain our associates to ensure they fulfill our quality commitment to our clients. We provide IT solutions in NYC, NJ, and beyond, and valuing quality above quantity will continue to make RennerBrown the premium choice for resources and opportunities: “our people deliver quality to our clients.”"
+            ],
+            [
+                "Technology Recruiting Manager / Founder",
+                "Company Name",
+                "IT Consulting / Staffing Startup (Confidential)",
+                "Dates Employed",
+                "Sep 2011 – Nov 2015",
+                "Employment Duration",
+                "4 yrs 3 mos",
+                "Location",
+                "Princeton NJ",
+                "•\tSpecialized in providing strategic and hands-on recruitment services to growing companies with tremendous technical business requirements of 5 to 20 positions per month.•\tConsult with CEO, COO, VP, and Hiring Managers, recruiters, and HR personnel of major clients and start-ups to discuss hiring needs, issues, agenda, and goals.•\tSource, qualify, screen, close, and submit high caliber active and passive candidates.•\tLead and guide staff. Create, implement, document, and train organizations on appropriate recruitment procedures. Protect organizations against legal and regulatory issues.•\tResponsible for salary negotiations, contingent offer letters offers for qualified candidates.•\tSuccessfully filled: C# multi-threaded SW Developers, Systems Analysts, Infrastructure Architect, Security Engineers / Penetration Testers, Director of Database Operations on Oracle 10g Rac, SQL Server DB Developers, DB Architect, Project Manager, Product Manager, BI developers (Cognos, Informatica, Hyperion), Business Analysts, Business Systems Analysts, Java Developers (J2EE, J2Me, Hibernate and Spring), Wireless Software Engineers, C++/C# Engineers, Web Designers, Flash / AS 3.0 / Flex Developers, UI Designers, LAMP Developer, Postgres Developer, Unix/Linux Admin Customer Care Manager, Internal Auditor, Manager of Dispute/Fraud, ACH Specialist, Accounting Supervisor, and more."
+            ],
+            [
+                "Technology Recruiting Manager - IT Perm Placement",
+                "Company Name",
+                "Robert Half Technology",
+                "Dates Employed",
+                "Jul 2010 – Sep 2011",
+                "Employment Duration",
+                "1 yr 3 mos",
+                "Location",
+                "Princeton NJ",
+                "•\tAchieved 1 Million dollars in individual recruiting revenue.•\tIdentified, attracted, qualified and closed candidates in-state and out-of-state for permanent placements for all IT positions for multiple client firms.•\tContacted clients to clarify job orders.•\tResponsible for sourcing, coordinating candidate interviews, performing employee and professional reference checks and scheduling of technical interviews.•\tPerform in-depth candidate probing to identify and refer qualified candidates for proactive permanent assignments.•\tResponsible for salary negotiations, contingent offer letters offers for qualified candidates.•\tInterface with agencies and umbrella organizations to source and qualify candidate for open job orders."
+            ],
+            [
+                "IT Division Director / Technical Recruiter - Contract / Contract to Hire",
+                "Company Name",
+                "Robert Half Technology",
+                "Dates Employed",
+                "Mar 2006 – Nov 2008",
+                "Employment Duration",
+                "2 yrs 9 mos",
+                "Location",
+                "Princeton NJ",
+                "•\tHands on manager responsible for attracting, hiring, train, motivating and retaining sales account executives and recruiters.•\tPracticed and trained numerous recruiting strategies including cold-calling/direct sourcing, use of firm's internal database, the Internet, ad placements, referral generation and networking to develop and establish a qualified pool of candidates.•\tIdentified, attracted, qualified and closed candidates in-state and out-of-state for contract, contract-to- hire and permanent placements for all IT positions for multiple client firms.•\tAccompanied sales staff on client visits.•\tContacted clients to clarify job orders.•\tResponsible for sourcing, coordinating candidate interviews, performing employee and professional reference checks and scheduling of technical interviews.•\tPerform in-depth candidate probing to identify and refer qualified candidates for proactive consulting and permanent assignments.•\tResponsible for salary negotiations, contingent offer letters offers for qualified candidates.•\tInterface with agencies and umbrella organizations to source and qualify candidate for open job orders."
+            ],
+            [
+                "Sr. Siebel System Software Developer",
+                "Company Name",
+                "Bank of America - (Quick & Reilly – Fleet / Fleet Securities)",
+                "Dates Employed",
+                "Aug 2000 – Aug 2002",
+                "Employment Duration",
+                "2 yrs 1 mo",
+                "Location",
+                "New York"
+            ],
+            [
+                "Sr. SAP Software Developer",
+                "Company Name",
+                "Montefiore Health System",
+                "Dates Employed",
+                "Jun 1999 – Jul 2000",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "New York"
+            ],
+            [
+                "SAP Developer",
+                "Company Name",
+                "Johnson & Johnson - Ortho Clinical Diagnostic",
+                "Dates Employed",
+                "Feb 1999 – May 1999",
+                "Employment Duration",
+                "4 mos",
+                "Location",
+                "Rochester, New York"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "New Jersey Institute of Technology",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Mechanical Engineering",
+                "Dates attended or expected graduation",
+                "1994 – 1996"
+            ],
+            [
+                "New Jersey Institute of Technology",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Mechanical Engineering",
+                "Dates attended or expected graduation",
+                "1994 – 1996"
+            ],
+            [
+                "Penn State Erie, The Behrend College",
+                "Field Of Study",
+                "Mechanical Engineering Technology"
+            ],
+            [
+                "Penn State Erie, The Behrend College",
+                "Field Of Study",
+                "Mechanical Engineering Technology"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Software & Technology Professionals: Managers | HR | Recruiters | Blockchain | Investors",
+                "2,662,147 members"
+            ],
+            [
+                "Robert Half International Alumni",
+                "6,477 members"
+            ],
+            [
+                "Low Latency Infrastructure for Trading",
+                "26,161 members"
+            ],
+            [
+                "OPERATIONAL SUCCESS",
+                "1,605 members"
+            ],
+            [
+                "Perl",
+                "25,018 members"
+            ],
+            [
+                "Anderson Recruiting + Consulting, Inc.",
+                "17,058 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Software & Technology Professionals: Managers | HR | Recruiters | Blockchain | Investors",
+                "2,662,147 members"
+            ],
+            [
+                "Software & Technology Professionals: Managers | HR | Recruiters | Blockchain | Investors",
+                "2,662,147 members"
+            ],
+            [
+                "Robert Half International Alumni",
+                "6,477 members"
+            ],
+            [
+                "Robert Half International Alumni",
+                "6,477 members"
+            ],
+            [
+                "Low Latency Infrastructure for Trading",
+                "26,161 members"
+            ],
+            [
+                "Low Latency Infrastructure for Trading",
+                "26,161 members"
+            ],
+            [
+                "OPERATIONAL SUCCESS",
+                "1,605 members"
+            ],
+            [
+                "OPERATIONAL SUCCESS",
+                "1,605 members"
+            ],
+            [
+                "Perl",
+                "25,018 members"
+            ],
+            [
+                "Perl",
+                "25,018 members"
+            ],
+            [
+                "Anderson Recruiting + Consulting, Inc.",
+                "17,058 followers"
+            ],
+            [
+                "Anderson Recruiting + Consulting, Inc.",
+                "17,058 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Recruiting",
+                "See 13 endorsements for Recruiting",
+                "13",
+                "Recruiting",
+                "Endorse",
+                "Endorsed by Michele Yarabinee and 2 others who are highly skilled at this",
+                "Endorsed by Curtis Barrett (mutual connection)"
+            ],
+            [
+                "Recruiting",
+                "See 13 endorsements for Recruiting",
+                "13"
+            ],
+            [
+                "Sourcing",
+                "See 9 endorsements for Sourcing",
+                "9",
+                "Sourcing",
+                "Endorse",
+                "Endorsed by Marcos F. Edghill and 1 other who is highly skilled at this",
+                "Endorsed by Curtis Barrett (mutual connection)"
+            ],
+            [
+                "Sourcing",
+                "See 9 endorsements for Sourcing",
+                "9"
+            ],
+            [
+                "Management",
+                "See 8 endorsements for Management",
+                "8",
+                "Management",
+                "Endorse",
+                "Endorsed by Curtis Barrett (mutual connection)",
+                "Endorsed by 2 of Jeff’s colleagues at Robert Half Technology"
+            ],
+            [
+                "Management",
+                "See 8 endorsements for Management",
+                "8"
+            ],
+            [
+                "Consulting",
+                "See 8 endorsements for Consulting",
+                "8",
+                "Consulting",
+                "Endorse"
+            ],
+            [
+                "Consulting",
+                "See 8 endorsements for Consulting",
+                "8"
+            ],
+            [
+                "Networking",
+                "See 8 endorsements for Networking",
+                "8",
+                "Networking",
+                "Endorse"
+            ],
+            [
+                "Networking",
+                "See 8 endorsements for Networking",
+                "8"
+            ],
+            [
+                "E-commerce",
+                "See 6 endorsements for E-commerce",
+                "6",
+                "E-commerce",
+                "Endorse"
+            ],
+            [
+                "E-commerce",
+                "See 6 endorsements for E-commerce",
+                "6"
+            ],
+            [
+                "Vendor Management",
+                "See 6 endorsements for Vendor Management",
+                "6",
+                "Vendor Management",
+                "Endorse"
+            ],
+            [
+                "Vendor Management",
+                "See 6 endorsements for Vendor Management",
+                "6"
+            ],
+            [
+                "SEO",
+                "See 5 endorsements for SEO",
+                "5",
+                "SEO",
+                "Endorse"
+            ],
+            [
+                "SEO",
+                "See 5 endorsements for SEO",
+                "5"
+            ],
+            [
+                "Executive Search",
+                "See 5 endorsements for Executive Search",
+                "5",
+                "Executive Search",
+                "Endorse"
+            ],
+            [
+                "Executive Search",
+                "See 5 endorsements for Executive Search",
+                "5"
+            ],
+            [
+                "Marketing Strategy",
+                "See 3 endorsements for Marketing Strategy",
+                "3",
+                "Marketing Strategy",
+                "Endorse"
+            ],
+            [
+                "Marketing Strategy",
+                "See 3 endorsements for Marketing Strategy",
+                "3"
+            ],
+            [
+                "Interviews",
+                "See 3 endorsements for Interviews",
+                "3",
+                "Interviews",
+                "Endorse"
+            ],
+            [
+                "Interviews",
+                "See 3 endorsements for Interviews",
+                "3"
+            ],
+            [
+                "Leadership",
+                "See 3 endorsements for Leadership",
+                "3",
+                "Leadership",
+                "Endorse"
+            ],
+            [
+                "Leadership",
+                "See 3 endorsements for Leadership",
+                "3"
+            ],
+            [
+                "Project Management",
+                "See 3 endorsements for Project Management",
+                "3",
+                "Project Management",
+                "Endorse"
+            ],
+            [
+                "Project Management",
+                "See 3 endorsements for Project Management",
+                "3"
+            ],
+            [
+                "Technical Recruiting",
+                "See 3 endorsements for Technical Recruiting",
+                "3",
+                "Technical Recruiting",
+                "Endorse"
+            ],
+            [
+                "Technical Recruiting",
+                "See 3 endorsements for Technical Recruiting",
+                "3"
+            ],
+            [
+                "Databases",
+                "See 3 endorsements for Databases",
+                "3",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 3 endorsements for Databases",
+                "3"
+            ],
+            [
+                "Sales",
+                "See 3 endorsements for Sales",
+                "3",
+                "Sales",
+                "Endorse"
+            ],
+            [
+                "Sales",
+                "See 3 endorsements for Sales",
+                "3"
+            ],
+            [
+                "Customer Relationship Management (CRM)",
+                "See 3 endorsements for Customer Relationship Management (CRM)",
+                "3",
+                "Customer Relationship Management (CRM)",
+                "Endorse"
+            ],
+            [
+                "Customer Relationship Management (CRM)",
+                "See 3 endorsements for Customer Relationship Management (CRM)",
+                "3"
+            ],
+            [
+                "Benefits Negotiation",
+                "See 2 endorsements for Benefits Negotiation",
+                "2",
+                "Benefits Negotiation",
+                "Endorse"
+            ],
+            [
+                "Benefits Negotiation",
+                "See 2 endorsements for Benefits Negotiation",
+                "2"
+            ],
+            [
+                "CRM",
+                "See 2 endorsements for CRM",
+                "2",
+                "CRM",
+                "Endorse"
+            ],
+            [
+                "CRM",
+                "See 2 endorsements for CRM",
+                "2"
+            ],
+            [
+                "Entrepreneurship",
+                "See 2 endorsements for Entrepreneurship",
+                "2",
+                "Entrepreneurship",
+                "Endorse"
+            ],
+            [
+                "Entrepreneurship",
+                "See 2 endorsements for Entrepreneurship",
+                "2"
+            ],
+            [
+                "Business Development",
+                "See 2 endorsements for Business Development",
+                "2",
+                "Business Development",
+                "Endorse"
+            ],
+            [
+                "Business Development",
+                "See 2 endorsements for Business Development",
+                "2"
+            ],
+            [
+                "Interviewing",
+                "See 2 endorsements for Interviewing",
+                "2",
+                "Interviewing",
+                "Endorse"
+            ],
+            [
+                "Interviewing",
+                "See 2 endorsements for Interviewing",
+                "2"
+            ],
+            [
+                "Online Marketing",
+                "See 1 endorsement for Online Marketing",
+                "1",
+                "Online Marketing",
+                "Endorse"
+            ],
+            [
+                "Online Marketing",
+                "See 1 endorsement for Online Marketing",
+                "1"
+            ],
+            [
+                "Business Analysis",
+                "See 1 endorsement for Business Analysis",
+                "1",
+                "Business Analysis",
+                "Endorse"
+            ],
+            [
+                "Business Analysis",
+                "See 1 endorsement for Business Analysis",
+                "1"
+            ]
+        ],
+        "summary": "  I am  a former Software Developer / Mechanical Engineer and a Serial Entrepreneur turned IT Recruiter / Body-Snatcher.  \n  \n  \n",
+        "name": "Jeff Lin",
+        "title": "Technical Recruiter / Mechanical Eng. / Software Developer / Serial Entrepreneur",
+        "url": "linkedin.com/in/jeff-lin-2a8a8b1",
+        "phone": "",
+        "email": "jeffl@rennerbrown.com"
+    }
+]

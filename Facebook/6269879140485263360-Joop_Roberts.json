@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6269879140485263360/",
+    "participants": [
+        {
+            "name": "Joop Roberts",
+            "title": "Senior Technical Recruiter at Brooksource",
+            "url": "linkedin.com/in/joop-roberts-5a033266",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Joop Roberts",
+            "time": "2017-05-15T12:00:00.000Z",
+            "message": "Interested In Building A NextGen Digital Experience?\n\nBrian, \n\nI hope this finds you well. I wanted to share an opportunity to work for Kroger as a Developer on Kroger's elite development team working to build a cutting-edge e-commerce platform.\n\nKroger is a Fortune 20 company and the second largest retailer in the U.S. ranked in the top 50 companies to work for in technology by Computer World and based on your experience, I think you'd be a great fit. Let me know if you'd be interested!\n\nAlso, I'd love to hear your thoughts on the state of the job market. As in what does top-level talent need in a role to make it intriguing? Is it the project/tech stack, money, a combination of things etc....?\n\nLet me know if you'd like to set up a conversation to discuss either of these topics!\n\nBest,\nJoop\n\nJoop Roberts\njroberts@brooksource.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-15T15:17:00.000Z",
+            "message": "What kind of project are they planning? I've adapted my boss' requirements for a company. He's narrowed it down to just one question: Do they use Git?\n"
+        },
+        {
+            "from": "Joop Roberts",
+            "time": "2017-05-15T17:37:00.000Z",
+            "message": "Brian, \n\nThanks for getting back to me. Currently their main initiatives are the re-write their CMS from scratch, integrate their pharmacy into the e-commerce platform and create tools back-end for merchandising/pricing as well as focusing on customization and personalization for customers. \n\nTo answer your question as well, Kroger uses Git heavily. Let me know if you're interested!\n\nJoop\n"
+        }
+    ]
+}

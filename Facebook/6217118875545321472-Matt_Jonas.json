@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6217118875545321472/",
+    "participants": [
+        {
+            "name": "Matt Jonas",
+            "title": "Senior Software Engineer at Retail Me Not",
+            "url": "linkedin.com/in/matt-jonas-14277810",
+            "phone": null,
+            "email": "matt.jonas@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-20T23:30:00.000Z"
+        }
+    ]
+}

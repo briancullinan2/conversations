@@ -1,0 +1,1394 @@
+﻿Session Start (bjcullinan:Richard Lesder): Sat Dec 03 23:41:29 2005
+[12/04/2005 12:32 AM] bjcullinan: hi
+[12/04/2005 12:33 AM] Richard Lesder: yo
+[12/04/2005 12:33 AM] Richard Lesder: wow your fast
+[12/04/2005 12:33 AM] bjcullinan: yeah
+[12/04/2005 12:34 AM] bjcullinan: oh yeah did you install the program?
+[12/04/2005 12:35 AM] Richard Lesder: im getting .net two
+[12/04/2005 12:35 AM] bjcullinan: oh ok
+[12/04/2005 12:47 AM] Richard Lesder: op got it working
+[12/04/2005 12:47 AM] *** Auto-response sent to Richard Lesder: I am currently idle.
+Session Close (Richard Lesder): Sun Dec 04 00:54:40 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Dec 04 00:59:30 2005
+[12/04/2005 12:59 AM] bjcullinan: i totally just realized i didn't make an option for custom date custom picture, only custom time
+Session Close (Richard Lesder): Sun Dec 04 00:59:59 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Dec 04 01:00:05 2005
+[12/04/2005 01:00 AM] bjcullinan: so much for going to bed early
+Session Close (Richard Lesder): Sun Dec 04 01:00:14 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Dec 04 01:04:58 2005
+[12/04/2005 01:04 AM] Richard Lesder: lol
+[12/04/2005 01:05 AM] Richard Lesder: welp it works
+[12/04/2005 01:05 AM] bjcullinan: good good
+[12/04/2005 01:05 AM] Richard Lesder: havent tryed doing anything too special yet
+[12/04/2005 01:06 AM] bjcullinan: (Link: http://www.docupen.com/)http://www.docupen.com/
+[12/04/2005 01:06 AM] bjcullinan: i want one
+Session Close (Richard Lesder): Sun Dec 04 01:07:25 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Dec 04 12:26:07 2005
+[12/04/2005 12:26 PM] bjcullinan: want to come over and hang out and play xbox?
+Session Close (Richard Lesder): Sun Dec 04 12:26:20 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Dec 04 12:27:06 2005
+[12/04/2005 12:27 PM] Richard Lesder: *yawn* oh wow, i just woke up
+[12/04/2005 12:27 PM] bjcullinan: lazy
+[12/04/2005 12:27 PM] Richard Lesder: eyah i know.i seriously need to go to the bathroom
+[12/04/2005 12:27 PM] Richard Lesder: brb
+Session Close (Richard Lesder): Sun Dec 04 12:29:55 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Dec 04 12:39:52 2005
+[12/04/2005 12:39 PM] Richard Lesder: hm, i better go taka shower now
+[12/04/2005 12:40 PM] bjcullinan: ok
+[12/04/2005 12:40 PM] bjcullinan: thanks for letting me know
+[12/04/2005 12:40 PM] bjcullinan: want me to join you?
+[12/04/2005 12:40 PM] Richard Lesder: want me to wake up keifer
+[12/04/2005 12:40 PM] Richard Lesder: lol sure
+[12/04/2005 12:40 PM] bjcullinan: wake him after your shower
+[12/04/2005 12:40 PM] Richard Lesder: ok
+[12/04/2005 12:40 PM] Richard Lesder: *away!*
+[12/04/2005 12:40 PM] bjcullinan: lol
+Session Close (Richard Lesder): Sun Dec 04 12:40:53 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Dec 04 13:14:53 2005
+[12/04/2005 01:14 PM] Richard Lesder: i return
+[12/04/2005 01:15 PM] bjcullinan: yay
+[12/04/2005 01:16 PM] Richard Lesder: yup yup. wow i really need to do laundry
+[12/04/2005 02:19 PM] *** "Richard Lesder" signed on at Sun Dec 04 14:19:25 2005.
+Session Close (Richard Lesder): Sun Dec 04 14:19:40 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Dec 04 19:51:39 2005
+[12/04/2005 07:51 PM] bjcullinan: take a look at that program yet?
+[12/04/2005 07:52 PM] Richard Lesder: yup yup. it works
+[12/04/2005 07:52 PM] bjcullinan: i have a new version
+[12/04/2005 07:52 PM] Richard Lesder: really? what did you change?
+[12/04/2005 07:52 PM] bjcullinan: it provides date ranges now instead of just time ranges
+[12/04/2005 07:52 PM] bjcullinan: under advanced options
+[12/04/2005 07:52 PM] Richard Lesder: ooh
+[12/04/2005 07:52 PM] Richard Lesder: thats cool
+[12/04/2005 07:55 PM] bjcullinan: (Link: http://134.114.59.162/Weather%20Desktop.exe)http://134.114.59.162/Weather%20Desktop.exe(Link: http://134.114.59.162/Weather%20Desktop.exe)
+[12/04/2005 07:56 PM] bjcullinan: just replace the existing .exe in the folder you copied off the CD
+Session Close (Richard Lesder): Sun Dec 04 19:56:08 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Dec 04 20:00:11 2005
+[12/04/2005 08:00 PM] Richard Lesder: im getting abunch of exceptions
+[12/04/2005 08:00 PM] bjcullinan: did you move the folder?
+[12/04/2005 08:00 PM] Richard Lesder: System.IndexOutOfRangeException: Index was outside the bounds of the array.    at System.Array.InternalGetReference(Void* elemRef, Int32 rank, Int32* pIndices)    at System.Array.GetValue(Int32 index)
+[12/04/2005 08:00 PM] bjcullinan: oh delete your advanced options
+[12/04/2005 08:00 PM] bjcullinan: sorry
+[12/04/2005 08:01 PM] Richard Lesder: ok that worked
+[12/04/2005 08:03 PM] bjcullinan: now re-add them
+[12/04/2005 08:03 PM] bjcullinan: or use the basic options
+Session Close (Richard Lesder): Sun Dec 04 20:03:22 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Dec 04 20:03:31 2005
+[12/04/2005 08:03 PM] Richard Lesder: alright, its all working now
+[12/04/2005 08:03 PM] bjcullinan: cool
+[12/04/2005 08:03 PM] bjcullinan: you see the new date options?
+[12/04/2005 08:04 PM] Richard Lesder: yeah
+[12/04/2005 08:04 PM] Richard Lesder: what are those for?
+[12/04/2005 08:05 PM] bjcullinan: for changing the image used
+[12/04/2005 08:05 PM] bjcullinan: you can set a date range to use a certain image
+[12/04/2005 08:06 PM] Richard Lesder: oooh
+[12/04/2005 08:06 PM] bjcullinan: like if it is 12/4/05 through 12/31/05 use a certain image
+[12/04/2005 08:06 PM] Richard Lesder: i see
+[12/04/2005 08:06 PM] Richard Lesder: i see
+[12/04/2005 08:07 PM] Richard Lesder: can you have settings based on the genral weather? like raining and stuff
+[12/04/2005 08:07 PM] bjcullinan: yeah that's on the right
+[12/04/2005 08:07 PM] bjcullinan: change the option to Weather or Both
+[12/04/2005 08:07 PM] Richard Lesder: oh the type one
+[12/04/2005 08:09 PM] Richard Lesder: do you like type 'rain' into the type? or 'Rain' or is there a Rain constant?
+[12/04/2005 08:09 PM] bjcullinan: mmm i don't know all of them
+[12/04/2005 08:09 PM] bjcullinan: it is Fair now
+[12/04/2005 08:09 PM] bjcullinan: it would probably be Rainy
+[12/04/2005 08:09 PM] bjcullinan: with a capital
+[12/04/2005 08:09 PM] bjcullinan: or Raining
+[12/04/2005 08:12 PM] Richard Lesder: gocha
+[12/04/2005 08:13 PM] bjcullinan: you will just have to wait until it rains
+[12/04/2005 08:13 PM] Richard Lesder: yeah i guess so
+[12/04/2005 08:13 PM] Richard Lesder: or go to weather.com and see if i can find a key
+[12/04/2005 08:13 PM] bjcullinan: make a new image every day the weather condition changes
+[12/04/2005 08:14 PM] Richard Lesder: wow, its strange when you set the background as the weatherdesktop.bmp
+[12/04/2005 08:14 PM] bjcullinan: really?
+[12/04/2005 08:14 PM] Richard Lesder: if you change the oragin between refreshes it gets really crazy
+[12/04/2005 08:14 PM] Richard Lesder: er the margins
+Session Close (Richard Lesder): Sun Dec 04 20:18:37 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Dec 04 20:19:01 2005
+[12/04/2005 08:19 PM] bjcullinan: oh yeah we are gonna have a grilling party thing before then end of school want to come?
+[12/04/2005 08:19 PM] bjcullinan: you will only have to buy your own dogs or steaks
+Session Close (Richard Lesder): Sun Dec 04 20:19:54 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Dec 04 20:20:05 2005
+[12/04/2005 08:20 PM] Richard Lesder: sure
+[12/04/2005 08:20 PM] Richard Lesder: lol ill buy hot dogs
+[12/04/2005 08:20 PM] bjcullinan: ok cool
+[12/04/2005 08:21 PM] bjcullinan: it will probably be this week
+[12/04/2005 08:21 PM] bjcullinan: like wednesday
+[12/04/2005 08:21 PM] bjcullinan: or friday
+[12/04/2005 08:24 PM] *** "Richard Lesder" signed on at Sun Dec 04 20:24:32 2005.
+[12/04/2005 08:35 PM] Richard Lesder: ah, too bad the program donst seem to accept semi-transparancy .. does it?
+[12/04/2005 08:56 PM] bjcullinan: semi transparent?
+[12/04/2005 08:57 PM] Richard Lesder: yeah, you know, alpha values between 0-255 insted of a boolean
+[12/04/2005 08:57 PM] bjcullinan: yeah
+[12/04/2005 08:58 PM] bjcullinan: in which part? on the images?
+[12/04/2005 08:58 PM] Richard Lesder: yeah
+[12/04/2005 08:58 PM] bjcullinan: yeah it does
+[12/04/2005 08:58 PM] bjcullinan: it draws the transparencies for PNG files
+[12/04/2005 08:58 PM] Richard Lesder: oooh pngs. let me try taht
+[12/04/2005 08:58 PM] bjcullinan: or gifs
+[12/04/2005 08:59 PM] bjcullinan: jpgs don't support transparencies
+[12/04/2005 08:59 PM] Richard Lesder: oooh much nicer. yeah aparently your program dosnt handle gif transparancy well
+[12/04/2005 08:59 PM] bjcullinan: really?
+[12/04/2005 09:00 PM] Richard Lesder: yup
+Session Close (Richard Lesder): Sun Dec 04 21:32:24 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Dec 04 21:36:15 2005
+[12/04/2005 09:36 PM] Richard Lesder: ya know what would be really handy?
+[12/04/2005 09:36 PM] bjcullinan: what?
+[12/04/2005 09:37 PM] Richard Lesder: horizon offsets.  so you could choose at what hight the lowest gradient color is.  im using an image with a higher horizon than yours, and so its getting to be a pain trying to reajust the colors so i can see more than just the top 2-3 colors
+[12/04/2005 09:37 PM] bjcullinan: ahh yes
+[12/04/2005 09:37 PM] bjcullinan: good idea
+[12/04/2005 09:38 PM] Richard Lesder: yup yup, also if you put a place to just enter a hex code into the program insted of using the color picker that would be a nice easy thingy too
+[12/04/2005 09:53 PM] bjcullinan: oh yeah good idea
+[12/04/2005 09:55 PM] Richard Lesder: also a few small things just to make event creation faster: default to greater than at 0, 0 (Offset time) AND less than 0, 0 (Offset time), with date set to none (that confused me, because it dosnt register your event if the day isnt set to something
+[12/04/2005 09:58 PM] bjcullinan: i'll make those changes right away
+[12/04/2005 09:58 PM] Richard Lesder: w00t
+[12/04/2005 09:58 PM] bjcullinan: the hardest one will be the offset
+[12/04/2005 09:58 PM] bjcullinan: should it be picture specific or general?
+[12/04/2005 09:58 PM] Richard Lesder: yeah i was thinking that too
+[12/04/2005 09:58 PM] Richard Lesder: id make it per time slot
+[12/04/2005 09:59 PM] bjcullinan: how do you mean?
+[12/04/2005 09:59 PM] bjcullinan: per event?
+[12/04/2005 10:01 PM] Richard Lesder: well i was refering to the offset for the color gradiants, so i figured it would be related to the 7:00 AM and such
+[12/04/2005 10:03 PM] bjcullinan: well yeah but you can already change the 5 colors per time of day
+[12/04/2005 10:03 PM] bjcullinan: but should the offset be different for every available picture?
+[12/04/2005 10:04 PM] Richard Lesder: thats true
+[12/04/2005 10:04 PM] Richard Lesder: yeah you could put it next to the picture thingy
+[12/04/2005 10:04 PM] Richard Lesder: in the events
+[12/04/2005 10:19 PM] Richard Lesder: sweet, im finished with the clear day cycle
+[12/04/2005 10:19 PM] bjcullinan: what did you do?
+[12/04/2005 10:19 PM] Richard Lesder: here, ill upload my version(w/backgrounds) and check it out
+[12/04/2005 10:20 PM] bjcullinan: ok
+[12/04/2005 10:20 PM] bjcullinan: upload to where?
+[12/04/2005 10:20 PM] Richard Lesder: it will be at dana.ucc.nau.edu/~ral59/WeatherDesktop/
+[12/04/2005 10:20 PM] Richard Lesder: at... now
+[12/04/2005 10:20 PM] bjcullinan: or better idea
+[12/04/2005 10:21 PM] bjcullinan: i have an FTP server
+[12/04/2005 10:21 PM] Richard Lesder: ah.. well it should work right now
+[12/04/2005 10:21 PM] Richard Lesder: tryed it?
+[12/04/2005 10:23 PM] *** "Richard Lesder" signed on at Sun Dec 04 22:23:43 2005.
+[12/04/2005 10:25 PM] bjcullinan: (Link: ftp://bjcullinan:daddy1@134.114.59.162/)ftp://bjcullinan:daddy1@134.114.59.162/
+[12/04/2005 10:25 PM] Richard Lesder: OK
+[12/04/2005 10:28 PM] Richard Lesder: having trouble connecting
+[12/04/2005 10:28 PM] bjcullinan: copy and past the link don't click
+[12/04/2005 10:29 PM] Richard Lesder: int where?
+[12/04/2005 10:29 PM] bjcullinan: and use IE
+[12/04/2005 10:29 PM] Richard Lesder: hmmm it stoped responding when i tryed
+[12/04/2005 10:29 PM] bjcullinan: hmmm
+[12/04/2005 10:29 PM] Richard Lesder: did you try my link?
+[12/04/2005 10:30 PM] Richard Lesder: yeah i can access things in your ftp but i cant connect to upload
+[12/04/2005 10:30 PM] bjcullinan: hmm strange
+[12/04/2005 10:30 PM] Richard Lesder: using firefox, comicly
+[12/04/2005 10:33 PM] Richard Lesder: oh i forgot you cant access folders, here let me zip it real fast
+[12/04/2005 10:33 PM] bjcullinan: what?
+[12/04/2005 10:33 PM] bjcullinan: if you use IE it should work fine
+[12/04/2005 10:34 PM] Richard Lesder: nope, it stops responding
+[12/04/2005 10:37 PM] Richard Lesder: here:(Link: http://dana.ucc.nau.edu/~ral59/WeatherDesktop.zip)http://dana.ucc.nau.edu/~ral59/WeatherDesktop.zip
+Session Close (Richard Lesder): Sun Dec 04 23:15:33 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Dec 04 23:47:15 2005
+[12/04/2005 11:47 PM] bjcullinan: i added those things you suggested
+[12/04/2005 11:49 PM] Richard Lesder: oh cool
+[12/04/2005 11:49 PM] bjcullinan: want the new copy?
+[12/04/2005 11:50 PM] Richard Lesder: yeah
+[12/04/2005 11:50 PM] Richard Lesder: i want to test out that gradiant thing
+[12/04/2005 11:50 PM] bjcullinan: ok h/o just found an error
+[12/04/2005 11:51 PM] Richard Lesder: oh could you make the calander disableable while your at it?
+[12/04/2005 11:52 PM] bjcullinan: hmm ok
+[12/04/2005 11:52 PM] Richard Lesder: that shouldnt take too much coding i figure
+[12/04/2005 11:56 PM] bjcullinan: the only problem would be when it draws the images and the extension image it won't show up correctly
+[12/04/2005 11:56 PM] Richard Lesder: ooh
+[12/04/2005 11:57 PM] Richard Lesder: n/m.. oh i got an idea, let me try it
+[12/04/2005 11:57 PM] bjcullinan: what?
+[12/04/2005 11:57 PM] Richard Lesder: oh that works, i can just use the margins to throw it off the screen
+[12/04/2005 11:58 PM] bjcullinan: yeah but i should make this an option too
+[12/05/2005 12:00 AM] Richard Lesder: ok
+[12/05/2005 12:00 AM] Richard Lesder: well you can just have a button that gives it a -400 margin :D
+[12/05/2005 12:01 AM] bjcullinan: yeah but what if they just want weather stats and not the caledar?
+[12/05/2005 12:01 AM] Richard Lesder: thats true
+[12/05/2005 12:01 AM] Richard Lesder: that would be nice, yeah
+[12/05/2005 12:01 AM] Richard Lesder: so the calander isnt just another entry on the box?
+[12/05/2005 12:02 AM] bjcullinan: no
+[12/05/2005 12:03 AM] bjcullinan: i will have to add another image
+[12/05/2005 12:04 AM] Richard Lesder: oh ok
+[12/05/2005 12:12 AM] bjcullinan: finally
+[12/05/2005 12:12 AM] Richard Lesder: sweet
+[12/05/2005 12:14 AM] bjcullinan: (Link: http://134.114.59.162/htdocs.zip)http://134.114.59.162/htdocs.zip
+[12/05/2005 12:16 AM] Richard Lesder: all just go in the main folder?
+[12/05/2005 12:16 AM] bjcullinan: yes
+[12/05/2005 12:18 AM] bjcullinan: let me know if you find anything wrong with it
+[12/05/2005 12:18 AM] Richard Lesder: excelent. did you implent the gradiant offset?
+[12/05/2005 12:18 AM] Richard Lesder: ah there it is
+[12/05/2005 12:18 AM] bjcullinan: yes under colors
+[12/05/2005 12:21 AM] bjcullinan: well i am off to bed
+[12/05/2005 12:22 AM] Richard Lesder: ok
+[12/05/2005 12:22 AM] Richard Lesder: yeah its working great, whoops i forgot a # when typing in a color and it freeked out a little.  This is much easyer to work with though, thanks
+[12/05/2005 12:23 AM] bjcullinan: oh shit
+[12/05/2005 12:23 AM] Richard Lesder: yeah, throws and exception, but luckily it has a continue button insted of just killing it, so it inst too bad
+[12/05/2005 12:26 AM] bjcullinan: (Link: http://134.114.59.162/Weather%20Desktop.exe)http://134.114.59.162/Weather%20Desktop.exe
+[12/05/2005 12:27 AM] bjcullinan: added a little error handler
+[12/05/2005 12:27 AM] bjcullinan: you can test it by clicking a color and deleting the #
+[12/05/2005 12:27 AM] Richard Lesder: ok
+[12/05/2005 12:28 AM] bjcullinan: alright i am done for the night
+Session Close (Richard Lesder): Mon Dec 05 00:28:35 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Mon Dec 05 00:28:53 2005
+[12/05/2005 12:28 AM] Richard Lesder: sweet. it worked
+[12/05/2005 12:30 AM] bjcullinan: if you find anymore errors leave them in a message i'll get to them tomorrow
+[12/05/2005 12:30 AM] bjcullinan: goodnight
+[12/05/2005 12:31 AM] Richard Lesder: g'night
+Session Close (Richard Lesder): Mon Dec 05 00:48:10 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Mon Dec 05 13:52:04 2005
+[12/05/2005 01:52 PM] bjcullinan: find any more errors?
+Session Close (Richard Lesder): Mon Dec 05 13:54:31 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Mon Dec 05 14:11:02 2005
+[12/05/2005 02:11 PM] Richard Lesder: yeah im getting errors like: err.Erl Value of '256' is not valid for green. green should be less than 255 greater than 0, Caused by System.Drawing
+[12/05/2005 02:11 PM] Richard Lesder: gotta go
+[12/05/2005 02:11 PM] Richard Lesder: also got something like that with a -1 for blue i think
+[12/05/2005 02:11 PM] bjcullinan: what?
+[12/05/2005 02:11 PM] bjcullinan: that's crazy
+[12/05/2005 02:11 PM] bjcullinan: what are you changing?
+[12/05/2005 02:11 PM] Richard Lesder: nothing, the error messages are always there when i get here
+[12/05/2005 02:12 PM] Richard Lesder: i gotta head out, ill talk to you more later
+[12/05/2005 02:12 PM] bjcullinan: you must have changed something
+[12/05/2005 02:12 PM] bjcullinan: ok ttyl
+[12/05/2005 02:13 PM] Richard Lesder: make sure your limiting your gradients so they dont try to gradient past the mark, that might be the problem, were a single pixle width causes a change in color past target
+[12/05/2005 02:13 PM] Richard Lesder: bye
+Session Close (Richard Lesder): Mon Dec 05 17:16:28 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Mon Dec 05 17:42:42 2005
+[12/05/2005 05:42 PM] bjcullinan: come back
+Session Close (Richard Lesder): Mon Dec 05 17:42:47 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Mon Dec 05 18:08:31 2005
+[12/05/2005 06:08 PM] Richard Lesder: back
+[12/05/2005 06:08 PM] bjcullinan: send me your entire weather desktop folder
+[12/05/2005 06:08 PM] Richard Lesder: ok
+[12/05/2005 06:08 PM] Richard Lesder: over what?
+[12/05/2005 06:08 PM] bjcullinan: try the ftp connect again
+[12/05/2005 06:09 PM] Richard Lesder: ok
+[12/05/2005 06:09 PM] bjcullinan: (Link: ftp://bjcullinan:daddy1@134.114.59.162/)ftp://bjcullinan:daddy1@134.114.59.162/
+[12/05/2005 06:09 PM] bjcullinan: but use IE
+[12/05/2005 06:09 PM] bjcullinan: and just copy the folder
+[12/05/2005 06:09 PM] Richard Lesder: ah its working now
+[12/05/2005 06:09 PM] bjcullinan: cool
+[12/05/2005 06:10 PM] Richard Lesder: copying
+[12/05/2005 06:10 PM] bjcullinan: cool
+[12/05/2005 06:12 PM] Richard Lesder: its over
+[12/05/2005 06:12 PM] bjcullinan: ok
+[12/05/2005 06:12 PM] bjcullinan: i am gonna add moving the sun and moon pictures depending on the time of day
+[12/05/2005 06:13 PM] bjcullinan: got to figure out how to use sin functions
+[12/05/2005 06:13 PM] bjcullinan: i hate trig
+[12/05/2005 06:14 PM] Richard Lesder: oh its actualy pretty easy, i had to figure it out once for a 3D thing i made, and i programed the camera to rotate around stuff with trig
+[12/05/2005 06:15 PM] bjcullinan: how do i figure out the x and y coordinates on a circle?
+[12/05/2005 06:15 PM] bjcullinan: i think i got it
+[12/05/2005 06:16 PM] Richard Lesder: yeah you just give it a sin or cos and multiply it by the radius, just tinker around a little
+[12/05/2005 06:16 PM] bjcullinan: yeah
+Session Close (Richard Lesder): Mon Dec 05 19:31:35 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Mon Dec 05 20:27:02 2005
+[12/05/2005 08:27 PM] bjcullinan: the moon and sun icon now moves depending on the time of day
+[12/05/2005 08:27 PM] Richard Lesder: oh cool
+Session Close (Richard Lesder): Mon Dec 05 20:29:32 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Tue Dec 06 20:51:38 2005
+[12/06/2005 08:51 PM] bjcullinan: what is the name of that new aim virus
+[12/06/2005 08:52 PM] Richard Lesder: rat bastard
+[12/06/2005 08:52 PM] Richard Lesder: dunno
+[12/06/2005 08:52 PM] bjcullinan: rat bastard?
+[12/06/2005 08:52 PM] bjcullinan: ask keifer he knows
+[12/06/2005 08:54 PM] bjcullinan: where is he?
+[12/06/2005 08:55 PM] Richard Lesder: let me ask him
+[12/06/2005 08:55 PM] Richard Lesder: he dosnt know
+[12/06/2005 08:55 PM] bjcullinan: he just told me yesterday i think
+[12/06/2005 08:55 PM] Richard Lesder: google it he says
+[12/06/2005 08:55 PM] bjcullinan: the one where you can download the cure from symantec
+[12/06/2005 08:57 PM] Richard Lesder: huh, i dunno. go to symantec
+[12/06/2005 09:18 PM] bjcullinan: (Link: http://nauexploit.mine.nu/index.php?title=Main_Page)http://nauexploit.mine.nu/index.php?title=Main_Page
+Session Close (Richard Lesder): Tue Dec 06 21:30:52 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Wed Dec 07 04:11:51 2005
+[12/07/2005 04:11 AM] bjcullinan: you awake?
+[12/07/2005 04:12 AM] Richard Lesder: yeah, saddly
+[12/07/2005 04:12 AM] bjcullinan: y?
+[12/07/2005 04:13 AM] Richard Lesder: meh
+[12/07/2005 04:13 AM] Richard Lesder: it seems like a waste to go to bed now, wake up in 3 hours
+[12/07/2005 04:13 AM] bjcullinan: dude the last two messages i sent, were from my PSP
+[12/07/2005 04:13 AM] Richard Lesder: oh nice
+[12/07/2005 04:14 AM] bjcullinan: for some reason i am not getting the replys
+[12/07/2005 04:14 AM] Richard Lesder: hmm, strange
+[12/07/2005 04:17 AM] bjcullinan: why didn't you go to bed?
+Session Close (Richard Lesder): Wed Dec 07 04:54:53 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Wed Dec 07 17:09:59 2005
+[12/07/2005 05:10 PM] bjcullinan: go get stuff to grill tomorrow
+[12/07/2005 05:10 PM] Richard Lesder: lol, keifers the one with the car
+[12/07/2005 05:10 PM] bjcullinan: make him take you to safeway
+[12/07/2005 05:12 PM] Richard Lesder: will do
+Session Close (Richard Lesder): Wed Dec 07 17:29:15 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sat Dec 10 16:27:25 2005
+[12/10/2005 04:27 PM] Richard Lesder: hey do you have that update for weatherdesktop?
+[12/10/2005 04:27 PM] bjcullinan: not now
+[12/10/2005 04:28 PM] Richard Lesder: ok
+[12/10/2005 04:29 PM] bjcullinan: get a PSP for the holidays
+[12/10/2005 04:29 PM] Richard Lesder: hehe
+[12/10/2005 04:29 PM] Richard Lesder: ill do my best
+Session Close (Richard Lesder): Sat Dec 10 17:01:37 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Dec 11 15:35:54 2005
+[12/11/2005 03:35 PM] bjcullinan: let me know when you get back
+Session Close (Richard Lesder): Sun Dec 11 16:07:53 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Mon Dec 12 19:21:55 2005
+[12/12/2005 07:22 PM] bjcullinan: hey
+[12/12/2005 07:23 PM] Richard Lesder: hey, whats up?
+[12/12/2005 07:24 PM] bjcullinan: have any tests today?
+[12/12/2005 07:24 PM] Richard Lesder: yeah, my only real ones. physics and math
+[12/12/2005 07:26 PM] bjcullinan: good
+[12/12/2005 07:26 PM] Richard Lesder: you?
+[12/12/2005 07:33 PM] bjcullinan: shitty
+[12/12/2005 07:34 PM] Richard Lesder: aah
+[12/12/2005 07:34 PM] Richard Lesder: that sucks
+[12/12/2005 07:34 PM] bjcullinan: but my english essay turned out really well
+[12/12/2005 07:34 PM] Richard Lesder: thats good
+[12/12/2005 07:36 PM] bjcullinan: want to read it?
+[12/12/2005 07:36 PM] Richard Lesder: sure
+[12/12/2005 07:36 PM] bjcullinan: e-mail?
+[12/12/2005 07:36 PM] Richard Lesder: ragunr@gmail.com
+[12/12/2005 07:42 PM] bjcullinan: sent
+Session Close (Richard Lesder): Mon Dec 12 19:42:53 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Mon Dec 12 19:44:36 2005
+[12/12/2005 07:44 PM] Richard Lesder: sweet, one sec
+[12/12/2005 08:21 PM] bjcullinan: well?
+[12/12/2005 08:21 PM] bjcullinan: how is it?
+[12/12/2005 08:33 PM] Richard Lesder: pretty good
+[12/12/2005 08:33 PM] bjcullinan: thanks
+[12/12/2005 08:35 PM] Richard Lesder: the chart was pretty impactful
+[12/12/2005 08:38 PM] bjcullinan: cool
+[12/12/2005 08:38 PM] Richard Lesder: brb
+Session Close (Richard Lesder): Mon Dec 12 20:45:24 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Tue Dec 13 18:06:37 2005
+[12/13/2005 06:06 PM] bjcullinan: i definitely think we should room together next semester
+Session Close (Richard Lesder): Tue Dec 13 18:06:57 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sat Dec 31 15:21:12 2005
+[12/31/2005 03:21 PM] bjcullinan: hey
+Session Close (Richard Lesder): Sat Dec 31 15:22:16 2005
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Jan 08 22:25:31 2006
+[01/08/2006 10:25 PM] bjcullinan: When NASA first started sending up astronauts, they quickly discovered that ball-point pens would not work in zero gravity. To combat this problem, NASA scientists spent a decade and $12 billion developing a pen that writes in zero gravity, upside-down, on almost any surface including glass and at temperatures ranging from below freezing to over 300 C. 
+  
+ the Russians used a pencil. Your taxes are due again--enjoy paying them.
+Session Close (Richard Lesder): Sun Jan 08 22:25:35 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Mon Jan 09 14:06:41 2006
+[01/09/2006 02:06 PM] bjcullinan: i love buying cool stuff online
+[01/09/2006 02:07 PM] Richard Lesder: lol, what did you get?
+[01/09/2006 02:07 PM] bjcullinan: a converter for laptop hard drives to IDE
+[01/09/2006 02:07 PM] Richard Lesder: huh
+[01/09/2006 02:07 PM] Richard Lesder: salvaging laptops?
+[01/09/2006 02:08 PM] bjcullinan: laptops have different size IDE, this converts to the standard IDE so you can plug it into a desktop computer
+[01/09/2006 02:08 PM] Richard Lesder: i see
+[01/09/2006 02:08 PM] bjcullinan: no not salvaging but andrea wants me to copy over some movies and they are bigger then a DVD
+[01/09/2006 02:08 PM] Richard Lesder: ooh i see
+[01/09/2006 02:08 PM] bjcullinan: so i figure i'll just plug in her laptop drive
+[01/09/2006 02:08 PM] Richard Lesder: that would be handy
+[01/09/2006 02:08 PM] bjcullinan: i thought so
+[01/09/2006 02:09 PM] bjcullinan: hey do you know where i could find the phone number for counseling at NAU?
+[01/09/2006 02:09 PM] Richard Lesder: the gateway center? should be on the website i would think
+[01/09/2006 02:09 PM] bjcullinan: is that what i should call?
+[01/09/2006 02:10 PM] Richard Lesder: academic conciling?
+[01/09/2006 02:10 PM] bjcullinan: yeah
+[01/09/2006 02:10 PM] Richard Lesder: yeah i think thats thier department
+[01/09/2006 02:10 PM] Richard Lesder: its what they do
+[01/09/2006 02:10 PM] bjcullinan: i got a D in precalc, i need to know if i have to take that over or if i can take a placement test
+[01/09/2006 02:10 PM] Richard Lesder: oooh owch
+[01/09/2006 02:10 PM] bjcullinan: yeah sucks
+[01/09/2006 02:11 PM] bjcullinan: and i am already signed up for Calc I because i totally planned on me getting a 73% or higher on the final exam, i guess i am just a failure
+[01/09/2006 02:11 PM] Richard Lesder: lol, were you slacking through the year?
+[01/09/2006 02:12 PM] bjcullinan: not the entire semester
+[01/09/2006 02:12 PM] bjcullinan: just some
+[01/09/2006 02:12 PM] Richard Lesder: i see
+[01/09/2006 02:12 PM] Richard Lesder: brb, need a drink
+[01/09/2006 02:13 PM] Richard Lesder: back
+[01/09/2006 02:14 PM] bjcullinan: yay
+[01/09/2006 02:14 PM] bjcullinan: hey we should room together next year
+[01/09/2006 02:14 PM] bjcullinan: you can pick all three room mates right?
+[01/09/2006 02:15 PM] Richard Lesder: i belive so
+[01/09/2006 02:15 PM] bjcullinan: i heard it is hard to get into those 3 person dorms though
+[01/09/2006 02:15 PM] bjcullinan: would you want to room with kiefer another year?
+[01/09/2006 02:15 PM] Richard Lesder: yeah they go pretty fast
+[01/09/2006 02:15 PM] Richard Lesder: yeah sure, hes cool
+[01/09/2006 02:15 PM] bjcullinan: yeah my roommate now sucks
+[01/09/2006 02:15 PM] Richard Lesder: lol
+[01/09/2006 02:15 PM] bjcullinan: and we get along pretty well, always talking about computer stuff
+[01/09/2006 02:16 PM] bjcullinan: and you two had a really clean room, i'm also very clean
+[01/09/2006 02:17 PM] Richard Lesder: hehe yeah, though you would have to keep the porn low down kay? thats the one thing i would kind of worry about with us living together
+[01/09/2006 02:17 PM] bjcullinan: because i have porn?
+[01/09/2006 02:18 PM] Richard Lesder: not so much that you have it, but having it on your desktop and stuff woudlnt work out well
+[01/09/2006 02:18 PM] bjcullinan: ah i see
+[01/09/2006 02:18 PM] bjcullinan: not a problem
+[01/09/2006 02:18 PM] Richard Lesder: cool,  id be up for it then
+[01/09/2006 02:19 PM] bjcullinan: this doesn't count right? (Link: http://bjcullinan.mine.nu/graphics/program1.jpg)http://bjcullinan.mine.nu/graphics/program1.jpg
+[01/09/2006 02:19 PM] bjcullinan: i've been using that
+[01/09/2006 02:20 PM] bjcullinan: but it has a cloud resembling a female figure
+[01/09/2006 02:20 PM] bjcullinan: its pretty cool filters
+[01/09/2006 02:20 PM] Richard Lesder: ah yeah, thats fine
+[01/09/2006 02:20 PM] bjcullinan: i should give you the updated program, i made an amazing amount of changes
+[01/09/2006 02:21 PM] bjcullinan: now the moons match the moon phase, and it changes position depending on the time of day
+[01/09/2006 02:21 PM] Richard Lesder: having a new version would be nice, i was still having that offset issue
+[01/09/2006 02:21 PM] Richard Lesder: sorry the image isnt loading, its the same one as when you first showed me the program right?
+[01/09/2006 02:21 PM] bjcullinan: there are tons of options including changing the color of the window that displays the info
+[01/09/2006 02:22 PM] bjcullinan: oh sry
+[01/09/2006 02:22 PM] bjcullinan: no its different
+[01/09/2006 02:22 PM] bjcullinan: (Link: http://bjcullinan.mine.nu:8080/graphics/program1.jpg)http://bjcullinan.mine.nu:8080/graphics/program1.jpg
+[01/09/2006 02:22 PM] bjcullinan: forgot the port, stupid cox blocks default port 80
+[01/09/2006 02:22 PM] Richard Lesder: ok, that looks alright
+[01/09/2006 02:22 PM] bjcullinan: i love that picture
+[01/09/2006 02:23 PM] bjcullinan: and of course the random star field as well
+[01/09/2006 02:23 PM] Richard Lesder: hehe
+[01/09/2006 02:23 PM] Richard Lesder: yeah, got a link for the new version?
+[01/09/2006 02:24 PM] bjcullinan: (Link: http://bjcullinan.mine.nu:8080/software.php)http://bjcullinan.mine.nu:8080/software.php
+[01/09/2006 02:25 PM] bjcullinan: that won't work i forgot to upload
+[01/09/2006 02:25 PM] bjcullinan: h/o
+[01/09/2006 02:25 PM] Richard Lesder: im gettin a not found after the link
+[01/09/2006 02:25 PM] Richard Lesder: lol
+[01/09/2006 02:25 PM] bjcullinan: ok try again
+[01/09/2006 02:26 PM] Richard Lesder: sweet its downloading, i figure im probably gona have to redo a batch of settings huh? or cleverly cut and paste from your setting files
+[01/09/2006 02:27 PM] bjcullinan: yeah the settings file did change significantly
+[01/09/2006 02:27 PM] bjcullinan: were you using the advanced events for pictures?
+[01/09/2006 02:27 PM] Richard Lesder: probably
+[01/09/2006 02:27 PM] Richard Lesder: actualy i was lazy and never did anything involving weather, only time right now
+[01/09/2006 02:28 PM] bjcullinan: yeah you'll have to redo those probably i don't think you have the version with the new date ranges
+[01/09/2006 02:28 PM] Richard Lesder: hmm i think i had the date ranges, i remembered having to disable them
+[01/09/2006 02:28 PM] bjcullinan: i was thinking just supplying a whole bunch of pictures with the program and instructions on how to make your own, and makes some preset advanced settings
+[01/09/2006 02:29 PM] Richard Lesder: yeah i could see alot of nice 'horizon pack' wizards coming in handy
+[01/09/2006 02:45 PM] bjcullinan: yeah but i need pictures
+[01/09/2006 02:45 PM] bjcullinan: then i need to edit every one
+[01/09/2006 02:45 PM] bjcullinan: and they have to be high quality
+[01/09/2006 02:45 PM] bjcullinan: so much to do
+[01/09/2006 02:46 PM] bjcullinan: sry i kinda disappeared i was listening to my mom rant about the new band director
+Session Close (Richard Lesder): Mon Jan 09 15:09:47 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Mon Jan 09 15:10:50 2006
+[01/09/2006 03:11 PM] bjcullinan: how is the download coming?
+[01/09/2006 03:11 PM] bjcullinan: maybe i should use registry keys instead of a setting file, it would make it easier to update with later versions and just better
+Session Close (Richard Lesder): Mon Jan 09 15:31:50 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Mon Jan 09 18:12:23 2006
+Session Close (Richard Lesder): Mon Jan 09 18:12:27 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Tue Jan 10 14:28:17 2006
+[01/10/2006 02:28 PM] bjcullinan: hi
+[01/10/2006 02:28 PM] Richard Lesder: yo
+[01/10/2006 02:28 PM] bjcullinan: i have a setup program now
+[01/10/2006 02:28 PM] bjcullinan: its noice
+[01/10/2006 02:28 PM] Richard Lesder: oh sweet
+[01/10/2006 02:28 PM] bjcullinan: i thought so
+[01/10/2006 02:29 PM] bjcullinan: i really want to start a business
+[01/10/2006 02:29 PM] bjcullinan: do you know java really well?
+[01/10/2006 02:29 PM] Richard Lesder: i know it alright i guess
+[01/10/2006 02:30 PM] Richard Lesder: enough to pass cs126
+[01/10/2006 02:30 PM] bjcullinan: know any other languages?
+[01/10/2006 02:30 PM] Richard Lesder: C++, though i might need a refresher, iv worked with pearl a bit too
+[01/10/2006 02:30 PM] bjcullinan: we should write a video game
+[01/10/2006 02:30 PM] bjcullinan: in C++
+[01/10/2006 02:30 PM] bjcullinan: we could aquire an engine like Quake 3 their probably giving it away now
+[01/10/2006 02:31 PM] Richard Lesder: ah, yeah iv  been working on this board game in java and thats coming along pretty well, but im afraid i dont have time for much else right now
+[01/10/2006 02:32 PM] bjcullinan: hmm well you'll finish or get tired of working on it soon enough then we can write a game engine
+[01/10/2006 02:32 PM] Richard Lesder: lol alright
+[01/10/2006 02:32 PM] bjcullinan: i like engines
+[01/10/2006 02:32 PM] Richard Lesder: i might take you up on that one day
+[01/10/2006 02:32 PM] bjcullinan: i used to have a website
+[01/10/2006 02:33 PM] bjcullinan: that included a whole bunch of random engines
+[01/10/2006 02:33 PM] Richard Lesder: ooh, yeah physics engines is what i want to do after i graduate at some point
+[01/10/2006 02:33 PM] bjcullinan: like a graphics engine and a 3d graphics engine and a shader engine and a texture engine
+[01/10/2006 02:33 PM] bjcullinan: it was awesome all downloadable
+[01/10/2006 02:33 PM] Richard Lesder: hehe
+[01/10/2006 02:34 PM] bjcullinan: oOo yes physics engines, they are gonna switch over to PPU soon
+[01/10/2006 02:34 PM] bjcullinan: an entire Physics Chip devoted to physics calculations
+[01/10/2006 02:34 PM] Richard Lesder: yeah i was reading about that, thats gona be awsome
+[01/10/2006 02:35 PM] bjcullinan: yeah
+[01/10/2006 02:36 PM] bjcullinan: but when it the major companies don't switch over? and its only an expansion for certain cards supported by unreal tournament
+Session Close (Richard Lesder): Tue Jan 10 15:06:20 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Tue Jan 10 15:19:49 2006
+Session Close (Richard Lesder): Tue Jan 10 15:19:53 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Wed Jan 18 15:39:43 2006
+[01/18/2006 03:39 PM] bjcullinan: i had the interview today
+[01/18/2006 03:40 PM] bjcullinan: i think it went really well, put in a good word for me
+[01/18/2006 03:40 PM] Richard Lesder: excelent, yeah aparently next week im training someone at 12:30
+[01/18/2006 03:41 PM] bjcullinan: do you know their name?
+[01/18/2006 03:41 PM] bjcullinan: i hope its me
+[01/18/2006 03:41 PM] bjcullinan: maybe you could make a request
+[01/18/2006 03:41 PM] Richard Lesder: nope, but it looks like they have atleast 3 people, and i think they were going for four
+[01/18/2006 03:41 PM] Richard Lesder: ill throw a word in next time im in the office :)
+[01/18/2006 03:41 PM] bjcullinan: cool thanks man
+[01/18/2006 03:42 PM] bjcullinan: jeremy also had an interview today
+[01/18/2006 03:42 PM] Richard Lesder: you will probably have gotten a thumbs up call by then though
+[01/18/2006 03:42 PM] Richard Lesder: ah
+[01/18/2006 03:42 PM] bjcullinan: i hope so
+[01/18/2006 03:42 PM] Richard Lesder: did they say when they would contact you?
+[01/18/2006 03:43 PM] bjcullinan: later today
+[01/18/2006 03:43 PM] Richard Lesder: oh wow, thats pretty fast
+[01/18/2006 03:43 PM] Richard Lesder: yeah i got a now show on the floor below me just now
+[01/18/2006 03:43 PM] Richard Lesder: actualy i get to check one more time here, but i dobut she will show
+[01/18/2006 03:43 PM] bjcullinan: what?
+[01/18/2006 03:44 PM] Richard Lesder: er a no show
+[01/18/2006 03:44 PM] bjcullinan: i totally didn't understand that
+[01/18/2006 03:44 PM] bjcullinan: oh
+[01/18/2006 03:44 PM] bjcullinan: a no show
+[01/18/2006 03:44 PM] bjcullinan: good
+[01/18/2006 03:44 PM] Richard Lesder: someone wasnt in their dorm
+[01/18/2006 03:44 PM] Richard Lesder: yup
+[01/18/2006 03:44 PM] bjcullinan: more free time for you
+[01/18/2006 03:44 PM] Richard Lesder: yup yup
+[01/18/2006 03:44 PM] Richard Lesder: i wonder if you can make xbox 360 programs from computer programs
+[01/18/2006 03:45 PM] bjcullinan: i doubt it
+[01/18/2006 03:45 PM] Richard Lesder: yeah, that would be cool though, i would burn me an snes emulator :D
+[01/18/2006 03:45 PM] bjcullinan: different OS means different commands you would need an x-box 360 compiler
+[01/18/2006 03:45 PM] Richard Lesder: brb
+[01/18/2006 03:45 PM] bjcullinan: they do have emulators
+[01/18/2006 03:45 PM] bjcullinan: we have an emulator CD
+[01/18/2006 03:45 PM] Richard Lesder: yeah, you would need a binary conversion thingy, it would be slow, but for small programs it would be cool
+[01/18/2006 03:45 PM] bjcullinan: that has like 20 different ones
+[01/18/2006 03:45 PM] Richard Lesder: oh cool, ff6?
+[01/18/2006 03:46 PM] bjcullinan: maybe
+[01/18/2006 03:46 PM] Richard Lesder: ill have to check that out, brb
+[01/18/2006 03:49 PM] Richard Lesder: back
+Session Close (Richard Lesder): Wed Jan 18 15:51:55 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Fri Jan 20 14:54:49 2006
+[01/20/2006 02:54 PM] bjcullinan: i have to go in for training
+[01/20/2006 02:55 PM] Richard Lesder: sweet congradulations
+[01/20/2006 02:55 PM] bjcullinan: fun stuff
+[01/20/2006 02:56 PM] bjcullinan: maybe you'll get to train me next week
+[01/20/2006 02:56 PM] Richard Lesder: what time is your training?
+[01/20/2006 02:56 PM] bjcullinan: not sure she just said come in today sometime afternoon
+[01/20/2006 02:57 PM] Richard Lesder: ah i see, yeah next week i have a slot for training, so does keifer
+[01/20/2006 02:58 PM] bjcullinan: yeah i have so much homework to do this weekend
+[01/20/2006 03:01 PM] bjcullinan: do you have to have the social security if you have it memorized?
+[01/20/2006 03:01 PM] bjcullinan: the actual card i mean
+[01/20/2006 03:01 PM] Richard Lesder: hmm
+[01/20/2006 03:01 PM] Richard Lesder: yeah, you will need it
+[01/20/2006 03:02 PM] Richard Lesder: payroll purposes i belive
+[01/20/2006 03:02 PM] bjcullinan: yeah but you should need a copy of it, just the number
+[01/20/2006 03:02 PM] Richard Lesder: certain things require the card itself, sort of as a proof thing
+[01/20/2006 03:03 PM] Richard Lesder: getting a job is often one of them
+[01/20/2006 03:09 PM] bjcullinan: well g2g
+Session Close (Richard Lesder): Fri Jan 20 15:10:33 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Sat Jan 21 18:54:31 2006
+[01/21/2006 06:54 PM] bjcullinan: do you have facebook?
+[01/21/2006 06:54 PM] Richard Lesder:  yeah i do
+[01/21/2006 06:54 PM] bjcullinan: look at my picture
+[01/21/2006 06:58 PM] bjcullinan: i can't find you on facebook
+[01/21/2006 06:58 PM] Richard Lesder: hmm. im having issues loggig on
+[01/21/2006 06:59 PM] bjcullinan: weird
+[01/21/2006 06:59 PM] Richard Lesder: yeah, hey i gotta go anyways, ill talk to you later
+[01/21/2006 07:00 PM] bjcullinan: ttyl
+Session Close (Richard Lesder): Sat Jan 21 19:03:21 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Fri Feb 03 19:18:07 2006
+[02/03/2006 07:18 PM] bjcullinan: My saturday appointment just got canceled
+Session Close (Richard Lesder): Fri Feb 03 19:18:20 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Fri Feb 03 19:18:35 2006
+[02/03/2006 07:18 PM] Richard Lesder: wow, that sucks
+[02/03/2006 07:18 PM] bjcullinan: nah i'm just going to be working walk in anyways
+[02/03/2006 07:18 PM] Richard Lesder: thats true
+[02/03/2006 07:20 PM] bjcullinan: yay for loud music
+[02/03/2006 07:20 PM] Richard Lesder: w00t
+[02/03/2006 07:21 PM] bjcullinan: they did make any tax deductions on my paycheck
+[02/03/2006 07:21 PM] Richard Lesder: i think a small amount
+[02/03/2006 07:21 PM] bjcullinan: no i calculated it
+[02/03/2006 07:21 PM] bjcullinan: and there isn't anything under the sections Before and After-tax
+[02/03/2006 07:22 PM] Richard Lesder: oh really
+[02/03/2006 07:22 PM] Richard Lesder: i have a little being pulled
+[02/03/2006 07:22 PM] Richard Lesder: whoops
+[02/03/2006 07:22 PM] Richard Lesder: ill get it back soon though
+[02/03/2006 07:22 PM] bjcullinan: yeah
+[02/03/2006 07:22 PM] bjcullinan: have you done your w2?
+[02/03/2006 07:22 PM] Richard Lesder: yup
+[02/03/2006 07:22 PM] bjcullinan: i haven't
+[02/03/2006 07:22 PM] bjcullinan: its not due til april anyways
+Session Close (Richard Lesder): Fri Feb 03 19:44:30 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Sat Feb 04 01:30:46 2006
+[02/04/2006 01:31 AM] bjcullinan: hey richard you want to bar-b-q next friday?
+[02/04/2006 01:31 AM] bjcullinan: we will have to go to safeway and get steaks
+Session Close (Richard Lesder): Sat Feb 04 01:31:14 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Sat Feb 04 18:36:09 2006
+[02/04/2006 06:36 PM] Richard Lesder: yo
+[02/04/2006 06:37 PM] Richard Lesder: lo?
+Session Close (Richard Lesder): Sat Feb 04 20:14:36 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Feb 05 03:26:57 2006
+Session Close (Richard Lesder): Sun Feb 05 03:27:23 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Mon Feb 06 14:34:07 2006
+[02/06/2006 02:34 PM] bjcullinan: hey what do you do to log what you do at the appointment?
+[02/06/2006 02:34 PM] bjcullinan: just type it in the appointment scheduler?
+Session Close (Richard Lesder): Mon Feb 06 15:17:30 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Wed Feb 08 17:21:56 2006
+[02/08/2006 05:21 PM] bjcullinan: hey
+[02/08/2006 05:22 PM] Richard Lesder: woo! whats up!
+Session Close (Richard Lesder): Wed Feb 08 17:54:02 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Wed Feb 08 20:51:58 2006
+[02/08/2006 08:52 PM] bjcullinan: stop downloading
+[02/08/2006 08:52 PM] bjcullinan: it says server is too busy
+[02/08/2006 08:52 PM] Richard Lesder: huh?
+[02/08/2006 08:52 PM] bjcullinan: i need to register
+[02/08/2006 08:52 PM] Richard Lesder: lol yeah its bogged, im having trouble getting it to finalize my downloads
+[02/08/2006 08:54 PM] bjcullinan: that sucks
+[02/08/2006 08:54 PM] bjcullinan: maybe wait until real late at night to start the download and just put them in a que list or pause them
+Session Close (Richard Lesder): Wed Feb 08 21:11:37 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Thu Feb 09 10:10:19 2006
+[02/09/2006 10:10 AM] bjcullinan: we are still on for grilling tomorrow right?
+[02/09/2006 10:10 AM] Richard Lesder: uh, sure
+[02/09/2006 10:10 AM] bjcullinan: we should go over to slaveway today and get steaks
+[02/09/2006 10:10 AM] Richard Lesder: i hadnt heard about this, but it sounds fun
+[02/09/2006 10:10 AM] Richard Lesder: sweet
+[02/09/2006 10:10 AM] Richard Lesder: we should
+[02/09/2006 10:10 AM] bjcullinan: i told you a few days ago and told keifer to tell you
+[02/09/2006 10:11 AM] bjcullinan: but i just left a message you may have signed off before you got it
+[02/09/2006 10:11 AM] Richard Lesder: ah, i think i may remember mention of it
+[02/09/2006 10:11 AM] Richard Lesder: probably
+[02/09/2006 10:11 AM] bjcullinan: it will be great, when are you two finished with classes?
+[02/09/2006 10:11 AM] bjcullinan: today
+[02/09/2006 10:12 AM] Richard Lesder: well, 3:20, but i need to finish all the stuff for kacey so i may be later than that
+[02/09/2006 10:12 AM] bjcullinan: ok cool
+[02/09/2006 10:12 AM] bjcullinan: hows the downloading from allofmp3 coming?
+[02/09/2006 10:13 AM] Richard Lesder: excelent, i bought every switchfoot cd i didnt already have
+[02/09/2006 10:14 AM] bjcullinan: noice
+[02/09/2006 10:14 AM] bjcullinan: i am gonna spend all my money here
+[02/09/2006 10:14 AM] Richard Lesder: lol, iv spent 5 dollars and i have a ton i want to listen to
+[02/09/2006 10:14 AM] bjcullinan: yeah dude this site is amazing
+[02/09/2006 10:15 AM] Richard Lesder: somehow i got like 7 albums with that
+[02/09/2006 10:17 AM] bjcullinan: yeah
+[02/09/2006 10:17 AM] Richard Lesder: i put in 20 bucks, i have 15 now is all i know, but i have a whole bunch of albums
+[02/09/2006 10:20 AM] bjcullinan: yay deep purple
+[02/09/2006 10:21 AM] Richard Lesder: hehe
+[02/09/2006 10:21 AM] Richard Lesder: hmm.. i have an interview with ibm in 25 minutes
+[02/09/2006 10:21 AM] Richard Lesder: and i feel bad because i have nothing remotely formal to wear
+[02/09/2006 10:22 AM] bjcullinan: lol sucks
+[02/09/2006 10:22 AM] Richard Lesder: yup
+[02/09/2006 10:22 AM] Richard Lesder: im trying to think if i should appologize or just hope he doesnt notice
+[02/09/2006 10:22 AM] Richard Lesder: im thinking bitting the bullets gonna have to do
+Session Close (Richard Lesder): Thu Feb 09 10:55:00 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Thu Feb 09 10:55:08 2006
+[02/09/2006 10:55 AM] bjcullinan: i'm afraid it is gonna take some time for you to catch up to me
+Session Close (Richard Lesder): Thu Feb 09 10:55:25 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Thu Feb 09 11:37:12 2006
+[02/09/2006 11:37 AM] bjcullinan: how many songs do you have now?
+Session Close (Richard Lesder): Thu Feb 09 11:45:26 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Thu Feb 09 13:37:07 2006
+[02/09/2006 01:37 PM] bjcullinan: hey
+[02/09/2006 01:37 PM] Richard Lesder: yo
+[02/09/2006 01:37 PM] bjcullinan: going to work today?
+[02/09/2006 01:37 PM] Richard Lesder: nope, thrusdays are my day off
+[02/09/2006 01:37 PM] bjcullinan: ah i see
+[02/09/2006 01:37 PM] bjcullinan: does keifer work/
+[02/09/2006 01:37 PM] Richard Lesder: yup
+[02/09/2006 01:37 PM] bjcullinan: ?
+[02/09/2006 01:37 PM] Richard Lesder: i think so
+[02/09/2006 01:39 PM] Richard Lesder: i dont know why but for some reason in both cs programs the X button to close windows dosnt work. i have to click on the program icon and go to close
+[02/09/2006 01:39 PM] Richard Lesder: actualy it works if its not the selected window
+[02/09/2006 01:40 PM] bjcullinan: might be yur skin
+[02/09/2006 01:41 PM] bjcullinan: how many songs do you have
+[02/09/2006 01:41 PM] Richard Lesder: total? 500
+[02/09/2006 01:41 PM] bjcullinan: total?
+[02/09/2006 01:41 PM] bjcullinan: wow dude
+[02/09/2006 01:42 PM] Richard Lesder: yeah i know
+[02/09/2006 01:42 PM] Richard Lesder: not much
+[02/09/2006 01:42 PM] bjcullinan: no really not
+[02/09/2006 01:42 PM] Richard Lesder: hehe
+[02/09/2006 01:44 PM] bjcullinan: wow the quality of living survey sucks
+[02/09/2006 01:47 PM] Richard Lesder: lol
+[02/09/2006 01:47 PM] Richard Lesder: yeah it does
+[02/09/2006 01:53 PM] bjcullinan: i don't want to go to work
+[02/09/2006 01:53 PM] Richard Lesder: lol
+[02/09/2006 01:57 PM] bjcullinan: i am totally gonna download this entire site
+[02/09/2006 01:58 PM] Richard Lesder: hehe
+[02/09/2006 01:58 PM] Richard Lesder: welp im off, talk to you later
+[02/09/2006 01:58 PM] bjcullinan: ttyl
+Session Close (Richard Lesder): Thu Feb 09 13:58:44 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Feb 12 14:15:28 2006
+[02/12/2006 02:15 PM] bjcullinan: hey
+[02/12/2006 02:15 PM] Richard Lesder: yo
+[02/12/2006 02:15 PM] Richard Lesder: whats up?
+[02/12/2006 02:15 PM] bjcullinan: is keifer there?
+[02/12/2006 02:15 PM] Richard Lesder: nope
+[02/12/2006 02:15 PM] Richard Lesder: last i saw him he was heading out into the wild blue, i assumed for food
+[02/12/2006 02:16 PM] Richard Lesder: but that was a while ago
+[02/12/2006 02:16 PM] bjcullinan: hmm interesting
+[02/12/2006 02:16 PM] bjcullinan: i called him he didn't sound like he was around people
+[02/12/2006 02:16 PM] bjcullinan: hey want to go to an orchestra concert?
+[02/12/2006 02:16 PM] bjcullinan: i know a cute girl in it, i want to see her again today
+[02/12/2006 02:17 PM] Richard Lesder: oh cool
+[02/12/2006 02:17 PM] Richard Lesder: when is the concert?
+[02/12/2006 02:18 PM] bjcullinan: 3
+[02/12/2006 02:18 PM] Richard Lesder: ooh well im up for a concert
+[02/12/2006 02:18 PM] bjcullinan: it just at the music building if you want to walk over here we can go there together
+[02/12/2006 02:18 PM] bjcullinan: perfect
+[02/12/2006 02:19 PM] bjcullinan: in a few i'll give keifer a call and maybe he can meet us there
+[02/12/2006 02:19 PM] Richard Lesder: sweet
+[02/12/2006 02:19 PM] bjcullinan: i told this girl about she sounded interested in meeting you
+[02/12/2006 02:20 PM] Richard Lesder: hehe, naturaly :)
+[02/12/2006 02:20 PM] bjcullinan: lol
+[02/12/2006 02:20 PM] Richard Lesder: j/k so when do i leave
+[02/12/2006 02:21 PM] bjcullinan: alright if you leave like in 5 minutes and be here around 2:30-2:35 we can go from there
+[02/12/2006 02:22 PM] bjcullinan: see you then?
+[02/12/2006 02:24 PM] Richard Lesder: OK
+[02/12/2006 02:24 PM] bjcullinan: the side doors are locked so you can give me a call or walk a little further down the path to the front entrance and remember 115
+[02/12/2006 02:24 PM] Richard Lesder: 115 yup, ok ill be there soon. should give me just enough time to finish off my homework
+[02/12/2006 02:25 PM] bjcullinan: ok
+[02/12/2006 02:34 PM] bjcullinan: here yet?
+Session Close (Richard Lesder): Sun Feb 12 15:07:45 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Fri Feb 17 18:40:50 2006
+[02/17/2006 06:40 PM] Richard Lesder: hey is sechrist having a party or something?
+[02/17/2006 10:28 PM] bjcullinan: yeah
+Session Close (Richard Lesder): Fri Feb 17 22:28:05 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Feb 19 21:11:46 2006
+[02/19/2006 09:11 PM] bjcullinan: yo
+Session Close (Richard Lesder): Sun Feb 19 21:11:55 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Feb 19 21:11:56 2006
+[02/19/2006 09:11 PM] Richard Lesder: hey
+[02/19/2006 09:27 PM] bjcullinan: how was you weekend
+[02/19/2006 09:29 PM] Richard Lesder: good good
+[02/19/2006 09:29 PM] Richard Lesder: went the renesance fair
+[02/19/2006 09:29 PM] Richard Lesder: and played videogames
+[02/19/2006 09:30 PM] Richard Lesder: We raided kaceys house. it was fun
+[02/19/2006 09:30 PM] bjcullinan: who is kacey?
+[02/19/2006 09:31 PM] Richard Lesder: my girlfriend
+[02/19/2006 09:31 PM] bjcullinan: yeah that's what i thought, i didn't think you went home this weekend
+[02/19/2006 09:32 PM] Richard Lesder: oh well it was on the way to the renesance festivle
+[02/19/2006 09:32 PM] Richard Lesder: it was funny, because i didnt tell her, she was all in her pjs. it was great
+[02/19/2006 09:32 PM] bjcullinan: wow
+[02/19/2006 09:34 PM] Richard Lesder: yup
+[02/19/2006 09:34 PM] Richard Lesder: she was bedazled
+[02/19/2006 09:34 PM] bjcullinan: wow please don't ever use that word again
+[02/19/2006 09:36 PM] Richard Lesder: lol
+[02/19/2006 09:36 PM] Richard Lesder: Kacey laughs at this
+[02/19/2006 09:37 PM] bjcullinan: laughs at that word?
+[02/19/2006 09:38 PM] Richard Lesder: at your reaction
+[02/19/2006 09:38 PM] bjcullinan: is she in flagstaff or are you not in flagstaff?
+[02/19/2006 09:39 PM] Richard Lesder: oh we are on the phone
+[02/19/2006 09:41 PM] bjcullinan: oh
+[02/19/2006 09:42 PM] Richard Lesder: yup
+Session Close (Richard Lesder): Sun Feb 19 22:12:52 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Mon Feb 20 20:11:23 2006
+[02/20/2006 08:11 PM] bjcullinan: i'm bored
+Session Close (Richard Lesder): Mon Feb 20 20:12:07 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Tue Feb 21 20:59:58 2006
+[02/21/2006 09:00 PM] bjcullinan: Hi
+Session Close (Richard Lesder): Tue Feb 21 21:00:02 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Wed Feb 22 22:04:57 2006
+[02/22/2006 10:04 PM] bjcullinan: hey
+[02/22/2006 10:05 PM] Richard Lesder: hey brian, what up?
+[02/22/2006 10:05 PM] bjcullinan: want to go to java just to hang out?
+[02/22/2006 10:05 PM] bjcullinan: are you feeling better?
+[02/22/2006 10:05 PM] Richard Lesder: yeah im feeling better
+[02/22/2006 10:05 PM] bjcullinan: did you respond to Laurel's e-mail about the latency?
+[02/22/2006 10:06 PM] Richard Lesder: oh i should go clock before midnight
+[02/22/2006 10:06 PM] Richard Lesder: no, been a while seince i played counterstrike so im not sure about the ping thing
+[02/22/2006 10:07 PM] Richard Lesder: yeah, i would but i dont really feel like leaving my dorm tonight
+[02/22/2006 10:07 PM] Richard Lesder: we should do something tomarow though
+[02/22/2006 10:08 PM] bjcullinan: ok yeah
+[02/22/2006 10:08 PM] Richard Lesder: yup yup
+[02/22/2006 10:08 PM] bjcullinan: i need to get out of my room
+[02/22/2006 10:08 PM] Richard Lesder: oh yeah i know how that feels
+[02/22/2006 10:11 PM] bjcullinan: if Keifer and I go can we bring you something back
+[02/22/2006 10:11 PM] bjcullinan: ?
+[02/22/2006 10:11 PM] Richard Lesder: nah im not hungry, slowly reintroducing myself to food
+[02/22/2006 10:12 PM] bjcullinan: what about a fruit smoothie
+[02/22/2006 10:12 PM] bjcullinan: fruit is good for you
+[02/22/2006 10:12 PM] Richard Lesder: that would be nice
+[02/22/2006 10:12 PM] Richard Lesder: yeah id be up for a strawberry
+[02/22/2006 10:13 PM] Richard Lesder: like a number 6 or something
+[02/22/2006 10:13 PM] bjcullinan: ok cool
+[02/22/2006 10:13 PM] Richard Lesder: thanks alot
+Session Close (Richard Lesder): Wed Feb 22 22:50:54 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Thu Feb 23 02:12:05 2006
+[02/23/2006 02:12 AM] bjcullinan: hey
+[02/23/2006 02:12 AM] Richard Lesder: yo
+[02/23/2006 02:12 AM] bjcullinan: i decided that i will not remove the pictures because i have the ability to find the beauty in every photograph, however naughty movies are completely intended to be stimulating and could actually lead me to sin
+[02/23/2006 02:13 AM] Richard Lesder: i see
+[02/23/2006 02:13 AM] Richard Lesder: yeah movies are definantly no good
+[02/23/2006 02:15 AM] bjcullinan: but although some people make find the pictures stimulating despite there intent which i completely disregard, there is always artistic value, the was every picture looks so perfect, so peaceful and calm, it is the human body in its most natural state without the superficial clothing that dictates such a large part of our society
+[02/23/2006 02:17 AM] bjcullinan: can you imagine what we have become, the t-shirts we wear are an example of being a poor college student, when i man dresses in a suit and tie he is considered appropriately dressed to go to a desk job, a man in robes is considered holy, a man in orange stripes is a prisoner, how does any of this make sense?
+[02/23/2006 02:17 AM] Richard Lesder:  alright, well if you sure you can consistantly ignore the intent than thats cool, though i advise you that if you are ever looking at a picture and feel that gut feeling 'delete this' that you dont hesitate
+[02/23/2006 02:18 AM] bjcullinan: our clothing today reflects our status in society, but then the absence of clothing considered inappropriate when it is most natural, any person from any part of society can model and the viewer would never be able to tell where that person came from
+[02/23/2006 02:18 AM] bjcullinan: that is what i see
+[02/23/2006 02:20 AM] bjcullinan: natural beauty
+[02/23/2006 02:20 AM] Richard Lesder: thats good, its imporant to see people apart from what society places on them
+[02/23/2006 02:20 AM] Richard Lesder: just be careful, because that natural beauty can be perverted
+[02/23/2006 02:20 AM] bjcullinan: yes i know
+[02/23/2006 02:21 AM] bjcullinan: but i have turned away from that as a part of my acceptance of jesus, i will not let the pictures i keep be used in vain
+[02/23/2006 02:21 AM] bjcullinan: its sort of a test for myself and my will and self control
+[02/23/2006 02:22 AM] Richard Lesder: :)
+[02/23/2006 02:22 AM] bjcullinan: thank you, both of you for being there for me
+[02/23/2006 02:23 AM] bjcullinan: let keifer know i am thankful
+[02/23/2006 02:23 AM] Richard Lesder: we are glad to help.  Its amazing to see how far you've come in christ
+[02/23/2006 02:23 AM] bjcullinan: and i will explain why i don't believe in theft of movies and software
+[02/23/2006 02:23 AM] bjcullinan: tomorrow
+[02/23/2006 02:23 AM] Richard Lesder: hehe alright
+[02/23/2006 02:23 AM] bjcullinan: to both of you
+[02/23/2006 02:23 AM] Richard Lesder: i look forward to it
+[02/23/2006 02:24 AM] bjcullinan: i think i have a pretty good argument, so we will see if there is anything you can extract from the bible that disproves it
+[02/23/2006 02:24 AM] Richard Lesder: hehe, dont worry, im resourceful
+[02/23/2006 02:24 AM] Richard Lesder: i gotta get some sleep here
+[02/23/2006 02:25 AM] bjcullinan: yeah me too ttyl
+[02/23/2006 02:25 AM] Richard Lesder: :D
+[02/23/2006 02:25 AM] Richard Lesder: alright, c ya
+[02/23/2006 02:25 AM] *** "Richard Lesder" signed off at Thu Feb 23 02:25:20 2006.
+Session Close (Richard Lesder): Thu Feb 23 02:26:33 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Wed Mar 01 21:13:36 2006
+[03/01/2006 09:13 PM] bjcullinan: Hi
+[03/01/2006 09:13 PM] Richard Lesder: hey brian, how are ya?
+[03/01/2006 09:14 PM] bjcullinan: swell as hell
+[03/01/2006 09:15 PM] bjcullinan: you?
+[03/01/2006 09:15 PM] Richard Lesder: excelente
+[03/01/2006 09:15 PM] Richard Lesder: just chillin at my dorm, organizing my start menu
+[03/01/2006 09:15 PM] bjcullinan:  wow fun
+[03/01/2006 09:16 PM] Richard Lesder: oh yeah
+[03/01/2006 09:17 PM] Richard Lesder: also reskinning alot, it was in sad shape
+[03/01/2006 09:18 PM] bjcullinan: cool
+[03/01/2006 09:21 PM] bjcullinan: i am going to make a batch file that executes whenever i plug in my camera to automatically copy my files over
+[03/01/2006 09:21 PM] bjcullinan: all of them
+[03/01/2006 09:21 PM] bjcullinan: so i don't have to go through that stupid wizard
+[03/01/2006 09:21 PM] Richard Lesder: handy
+[03/01/2006 09:22 PM] bjcullinan: or through explorer
+Session Close (Richard Lesder): Wed Mar 01 22:27:36 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Sun Mar 05 23:21:46 2006
+[03/05/2006 11:21 PM] *** NOTE: This user is offline.  Your messages will be received when he/she logs into Yahoo! Messenger.
+[03/05/2006 11:21 PM] bjcullinan: hi
+Session Close (Richard Lesder): Sun Mar 05 23:21:53 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Fri Mar 10 11:25:44 2006
+[03/10/2006 11:25 AM] Richard Lesder: Hey brian, your driving yourself home for SB right?
+[03/10/2006 11:27 AM] Richard Lesder: ah, well if you were I was hoping that i could get a ride with ya, talk to ya later, its cool if ya cant
+[03/10/2006 01:09 PM] bjcullinan: yeah i wish i had a car up here, i'll let you know if i have someone come get me
+Session Close (Richard Lesder): Fri Mar 10 13:52:41 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Fri Mar 10 15:06:26 2006
+[03/10/2006 03:06 PM] bjcullinan: Hi
+[03/10/2006 03:06 PM] Richard Lesder: hey
+[03/10/2006 03:07 PM] bjcullinan: how are you?
+[03/10/2006 03:07 PM] Richard Lesder: good good, just messin around. how are you?
+[03/10/2006 03:09 PM] bjcullinan: i'm good
+[03/10/2006 03:09 PM] bjcullinan: trying to open aim to use laurel's getfile
+[03/10/2006 03:09 PM] Richard Lesder: huh
+[03/10/2006 03:12 PM] bjcullinan: time to restart
+[03/10/2006 03:12 PM] Richard Lesder: ok
+Session Close (Richard Lesder): Fri Mar 10 15:13:17 2006
+
+
+Session Start (bjcullinan:Richard Lesder): Fri Mar 10 15:28:24 2006
+Session Close (Richard Lesder): Fri Mar 10 15:28:30 2006
+
+
+Session Start (bjcullinan:Richard Lester): Sat Mar 11 15:46:34 2006
+[03/11/2006 03:46 PM] bjcullinan: hey richard
+[03/11/2006 03:49 PM] Richard Lester: yo
+[03/11/2006 03:49 PM] Richard Lester: its a crazy weather fanomina
+[03/11/2006 03:59 PM] bjcullinan: yes quite
+[03/11/2006 04:14 PM] bjcullinan: how are you today?
+[03/11/2006 04:15 PM] bjcullinan: got any homework/
+[03/11/2006 04:15 PM] bjcullinan: ?
+[03/11/2006 04:32 PM] Richard Lester: yeah i do, ill worry about that later
+[03/11/2006 04:35 PM] bjcullinan: we going sledding tonight?
+[03/11/2006 04:36 PM] Richard Lester: i dont know, im probably gona go to the boardwalk tonight, but we might do that before? im not sure
+[03/11/2006 04:37 PM] bjcullinan: boardwalk?
+[03/11/2006 04:37 PM] bjcullinan: whats that?
+[03/11/2006 04:37 PM] Richard Lester: its a club
+[03/11/2006 04:37 PM] bjcullinan: why/
+[03/11/2006 04:37 PM] bjcullinan: with who?
+[03/11/2006 04:37 PM] Richard Lester: the only one that has under 21 events
+[03/11/2006 04:37 PM] Richard Lester: andrea invided me
+[03/11/2006 04:37 PM] bjcullinan: aww that's sweet
+[03/11/2006 04:37 PM] bjcullinan: is keifer going?
+[03/11/2006 04:37 PM] Richard Lester: not that i know of
+[03/11/2006 04:37 PM] bjcullinan: oh
+[03/11/2006 04:38 PM] Richard Lester: not really my event, so i dont know if i should be inviting people, especialy when there is no transport
+[03/11/2006 04:38 PM] Richard Lester: and he just left
+[03/11/2006 04:38 PM] bjcullinan: yeah
+[03/11/2006 04:38 PM] bjcullinan: where is he going?
+[03/11/2006 04:39 PM] Richard Lester: i dont  remember
+[03/11/2006 04:42 PM] Richard Lester: alright i got a 'more the marryer' thing with the boardwalk if you want to come
+[03/11/2006 04:42 PM] bjcullinan: cool well what time is it/
+[03/11/2006 04:42 PM] bjcullinan: /
+[03/11/2006 04:42 PM] bjcullinan: ?
+[03/11/2006 04:43 PM] bjcullinan: and what kind of stuff do you do there?
+[03/11/2006 04:43 PM] Richard Lester: its like, dance club
+[03/11/2006 04:43 PM] Richard Lester: ask andrea
+[03/11/2006 04:43 PM] bjcullinan: i don't like dancing
+[03/11/2006 04:43 PM] bjcullinan: or new age music
+[03/11/2006 04:43 PM] Richard Lester: oh.. ok
+[03/11/2006 04:43 PM] Richard Lester: lol
+[03/11/2006 04:44 PM] Richard Lester: yeah i could understand that. i can dance to anything.. baddly but i enjoy it
+[03/11/2006 04:44 PM] bjcullinan: yeah i don't enjoy dancing and making an ass of myself
+[03/11/2006 04:44 PM] Richard Lester: i do
+[03/11/2006 04:44 PM] Richard Lester: you should try it
+[03/11/2006 04:45 PM] bjcullinan: there are certain configurations that human bodies are not supposed to move in repeatedly to the beat of terribly written music
+[03/11/2006 04:45 PM] Richard Lester: thats to j-leno
+[03/11/2006 04:48 PM] bjcullinan: what?
+[03/11/2006 04:54 PM] Richard Lester: n/m
+Session Close (Richard Lester): Sat Mar 11 17:29:47 2006
+
+
+Session Start (bjcullinan:Richard Lester): Mon Mar 13 17:26:37 2006
+[03/13/2006 05:26 PM] bjcullinan: hey richard
+[03/13/2006 05:26 PM] Richard Lester: hey brain. what up?
+[03/13/2006 05:26 PM] bjcullinan: not much
+[03/13/2006 05:26 PM] bjcullinan: you?
+[03/13/2006 05:27 PM] Richard Lester: just checkin out the blueprint for raymond
+[03/13/2006 05:27 PM] bjcullinan: hey let me send you a picture
+[03/13/2006 05:27 PM] Richard Lester: ok
+[03/13/2006 05:34 PM] bjcullinan: e-mail?
+[03/13/2006 05:34 PM] bjcullinan: or i'll just give you the link
+[03/13/2006 05:35 PM] Richard Lester: oh ok
+[03/13/2006 05:35 PM] Richard Lester: link is good
+[03/13/2006 05:36 PM] bjcullinan: (Link: http://bjcullinan.mine.nu/Raymond%20Room.png)http://bjcullinan.mine.nu/Raymond%20Room.png
+[03/13/2006 05:36 PM] bjcullinan: its quite a bit different
+[03/13/2006 05:37 PM] bjcullinan: i'm fairly sure that everything that i moved is actually movable
+[03/13/2006 05:37 PM] Richard Lester: I want the corner next to your desk!
+[03/13/2006 05:37 PM] bjcullinan: yeah that's what i was planning on
+[03/13/2006 05:38 PM] bjcullinan: and i was actually thinking about not using that table, either moving it, or stacking food stuffs in that whole corner
+[03/13/2006 05:38 PM] bjcullinan: show keifer before he leaves
+[03/13/2006 05:38 PM] Richard Lester: oh he just busted out.. sorry
+[03/13/2006 05:38 PM] bjcullinan: well then i will have to print it
+[03/13/2006 05:38 PM] Richard Lester: we should put the table in the bedroom
+[03/13/2006 05:39 PM] Richard Lester: that way we can use that room for study/sleep
+[03/13/2006 05:39 PM] bjcullinan: or show him in a little while
+[03/13/2006 05:39 PM] bjcullinan: yeah that would work
+[03/13/2006 05:39 PM] bjcullinan: like in the middle maybe
+[03/13/2006 05:39 PM] Richard Lester: yeah
+[03/13/2006 05:39 PM] bjcullinan: i don't think everything is to scale because in the 3d view the table looks smaller
+[03/13/2006 05:39 PM] Richard Lester: we could also use to to play cards or crap like that
+[03/13/2006 05:39 PM] bjcullinan: feel free to make changes and send it back to me
+[03/13/2006 05:39 PM] bjcullinan: yeah definitely
+[03/13/2006 05:39 PM] Richard Lester: yeah the beds in the reilly blueprint is bizzar
+[03/13/2006 05:39 PM] Richard Lester: they are fat and stuff
+[03/13/2006 05:40 PM] bjcullinan: we should find someone that lives there and make sure everything is moveable
+[03/13/2006 05:40 PM] bjcullinan: well i g2g
+[03/13/2006 05:41 PM] bjcullinan: but that is basically what i was thinking i spent a little bit of time arranging that
+[03/13/2006 05:41 PM] bjcullinan: ttyl
+[03/13/2006 05:41 PM] Richard Lester: ok
+[03/13/2006 05:41 PM] Richard Lester: could you claim that desk on the right for me?
+[03/13/2006 05:41 PM] Richard Lester: and scoot it a little more towards the window maybe?
+[03/13/2006 07:18 PM] bjcullinan: lol
+[03/13/2006 07:18 PM] bjcullinan: ok man i'll make those changes
+Session Close (Richard Lester): Mon Mar 13 19:18:12 2006
+
+
+Session Start (bjcullinan:Richard Lester): Mon Mar 13 19:18:27 2006
+[03/13/2006 07:18 PM] Richard Lester: hehe, sweet
+[03/13/2006 07:19 PM] bjcullinan: alright
+[03/13/2006 07:19 PM] bjcullinan: well Jeff hasn't called me back yet
+[03/13/2006 07:19 PM] Richard Lester: huh
+[03/13/2006 07:19 PM] bjcullinan: but we will go to Raymond when he does
+[03/13/2006 07:19 PM] Richard Lester: cool
+[03/13/2006 07:19 PM] bjcullinan: hes gonna let us look at his room
+Session Close (Richard Lester): Mon Mar 13 19:21:59 2006
+
+
+Session Start (bjcullinan:Richard Lester): Mon Mar 13 19:22:12 2006
+[03/13/2006 07:22 PM] Richard Lester: sounds good
+Session Close (Richard Lester): Mon Mar 13 22:41:03 2006
+
+
+Session Start (bjcullinan:Richard Lester): Mon Mar 13 23:31:47 2006
+[03/13/2006 11:32 PM] bjcullinan: so no return call about looking at raymond
+Session Close (Richard Lester): Mon Mar 13 23:34:30 2006
+
+
+Session Start (bjcullinan:Richard Lester): Fri Mar 24 15:53:39 2006
+[03/24/2006 03:53 PM] bjcullinan: hey richard
+[03/24/2006 03:54 PM] bjcullinan: you're still in photown right?
+Session Close (Richard Lester): Fri Mar 24 16:22:37 2006
+
+
+Session Start (bjcullinan:Richard Lester): Fri Mar 24 16:22:56 2006
+[03/24/2006 04:22 PM] Richard Lester: lol
+[03/24/2006 04:23 PM] bjcullinan: well?
+[03/24/2006 04:23 PM] bjcullinan: are you?
+[03/24/2006 04:23 PM] Richard Lester: yup yup, im still down here
+[03/24/2006 04:24 PM] bjcullinan: want to do something?
+[03/24/2006 04:24 PM] Richard Lester: tomarow?
+[03/24/2006 04:24 PM] bjcullinan: yeah
+[03/24/2006 04:25 PM] bjcullinan: do you like the cine capri?
+[03/24/2006 04:25 PM] Richard Lester: sure, i think im free like.. around 5
+[03/24/2006 04:25 PM] Richard Lester: never been there
+[03/24/2006 04:25 PM] bjcullinan: oh
+[03/24/2006 04:25 PM] bjcullinan: you should go with me to a movie
+[03/24/2006 04:25 PM] Richard Lester: i should
+[03/24/2006 04:26 PM] Richard Lester: whats showing?
+[03/24/2006 04:26 PM] bjcullinan: not sure
+[03/24/2006 04:26 PM] bjcullinan: look at my new site
+[03/24/2006 04:27 PM] bjcullinan: (Link: http://bjcwmp.mine.nu)http://bjcwmp.mine.nu
+[03/24/2006 04:27 PM] Richard Lester: ooh ajax?
+[03/24/2006 04:28 PM] bjcullinan: hm?
+[03/24/2006 04:29 PM] Richard Lester: what did you use to make it? this looks like ajax, which is an xml driven javascript like thing.. google uses it for their personal homepages
+[03/24/2006 04:30 PM] bjcullinan: really?
+[03/24/2006 04:30 PM] bjcullinan: ajax?
+[03/24/2006 04:30 PM] Richard Lester: yup
+[03/24/2006 04:30 PM] bjcullinan: never heard of it
+[03/24/2006 04:30 PM] Richard Lester: its pretty nifty
+[03/24/2006 04:31 PM] bjcullinan: nope
+[03/24/2006 04:31 PM] bjcullinan: PHP is better
+[03/24/2006 04:32 PM] Richard Lester: lol
+[03/24/2006 04:34 PM] bjcullinan: so you like the site?
+[03/24/2006 04:34 PM] bjcullinan: the drag and drop doesn't work yet but the add button does
+[03/24/2006 04:34 PM] Richard Lester: yeah, its slick.. i actualy cant play anything right now due to.. where i am.. but yeah
+[03/24/2006 04:35 PM] Richard Lester: aaah... Ajax can do drag and drop.  Thats why i thought you were using it
+[03/24/2006 04:36 PM] bjcullinan: oh
+[03/24/2006 04:36 PM] bjcullinan: yeah i will do javascript drag and drop
+[03/24/2006 04:36 PM] Richard Lester: sweet
+[03/24/2006 04:37 PM] Richard Lester: woot
+[03/24/2006 04:37 PM] Richard Lester: excelent! i gotta go, ill give you a call tomarow when im free
+[03/24/2006 04:39 PM] Richard Lester: ok then... bye
+[03/24/2006 04:41 PM] bjcullinan: ok bye
+Session Close (Richard Lester): Fri Mar 24 16:41:13 2006
+
+
+Session Start (bjcullinan:Richard Lester): Sun Mar 26 20:43:37 2006
+[03/26/2006 08:43 PM] bjcullinan: i fixed the metallica album
+[03/26/2006 08:43 PM] bjcullinan: we have your sab but true
+[03/26/2006 08:43 PM] bjcullinan: *sad but true
+[03/26/2006 08:43 PM] Richard Lester: oh sweet
+[03/26/2006 08:44 PM] Richard Lester: excelent!
+[03/26/2006 08:44 PM] bjcullinan: yay
+[03/26/2006 08:44 PM] Richard Lester: w00t w00t..
+[03/26/2006 08:44 PM] Richard Lester: what was your adress again?
+[03/26/2006 08:45 PM] bjcullinan: (Link: http://bjcwmp.mine.nu)http://bjcwmp.mine.nu
+[03/26/2006 08:45 PM] Richard Lester: bookmarked
+[03/26/2006 08:49 PM] Richard Lester: hmm.. the playlist dosnt load
+[03/26/2006 08:49 PM] Richard Lester: i press download, then tell it to open and wmp says it cant open it
+[03/26/2006 08:50 PM] bjcullinan: what songs?
+[03/26/2006 08:50 PM] Richard Lester: no leafed clover
+[03/26/2006 08:50 PM] bjcullinan: what artist?
+[03/26/2006 08:51 PM] Richard Lester: metalica
+[03/26/2006 08:51 PM] bjcullinan: i don't have no leafed clover
+[03/26/2006 08:51 PM] Richard Lester: maybe thats the problem
+[03/26/2006 08:51 PM] bjcullinan: wait album?
+[03/26/2006 08:52 PM] Richard Lester: 8 on S & M 2
+[03/26/2006 08:52 PM] Richard Lester: sorry 1
+[03/26/2006 08:52 PM] Richard Lester: on snm 1
+[03/26/2006 08:52 PM] Richard Lester: also i cant unselect songs
+[03/26/2006 08:53 PM] Richard Lester: oh ok i have to right click and use the menu
+[03/26/2006 08:55 PM] bjcullinan: give me a second to fix it
+[03/26/2006 08:55 PM] Richard Lester: ok
+[03/26/2006 09:05 PM] bjcullinan: that should be better
+[03/26/2006 09:05 PM] bjcullinan: maybe not
+[03/26/2006 09:13 PM] bjcullinan: finally
+[03/26/2006 09:13 PM] bjcullinan: now it works
+[03/26/2006 09:13 PM] bjcullinan: my badness
+[03/26/2006 09:13 PM] Richard Lester: sweet
+[03/26/2006 09:14 PM] Richard Lester: kacey says hi again
+[03/26/2006 09:14 PM] bjcullinan: hi
+[03/26/2006 09:15 PM] Richard Lester: i love this song
+Session Close (Richard Lester): Sun Mar 26 21:19:51 2006
+
+
+Session Start (bjcullinan:Richard Lester): Thu Mar 30 18:30:48 2006
+[03/30/2006 06:30 PM] bjcullinan: what room are you in again?
+[03/30/2006 06:31 PM] Richard Lester: 621
+[03/30/2006 06:31 PM] Richard Lester: you here?
+[03/30/2006 06:31 PM] Richard Lester: LOL
+[03/30/2006 06:31 PM] bjcullinan: here?
+[03/30/2006 06:31 PM] Richard Lester: wow im out of it
+[03/30/2006 06:31 PM] Richard Lester: n/m
+[03/30/2006 06:31 PM] bjcullinan: where is keifer?
+[03/30/2006 06:31 PM] Richard Lester: here
+[03/30/2006 06:31 PM] bjcullinan: ready to see an awesome movie tonight?
+[03/30/2006 06:32 PM] Richard Lester: ready as ill ever be
+[03/30/2006 06:32 PM] Richard Lester: and keifer is going too right?
+[03/30/2006 06:33 PM] bjcullinan: yes
+[03/30/2006 06:33 PM] Richard Lester: sweet. christina?
+[03/30/2006 06:33 PM] bjcullinan: i might drive separately depending on if Eric decides to go
+[03/30/2006 06:33 PM] bjcullinan: yes
+[03/30/2006 06:33 PM] Richard Lester: excelent
+[03/30/2006 06:34 PM] bjcullinan: definitely
+[03/30/2006 06:34 PM] bjcullinan: brb
+[03/30/2006 06:35 PM] Richard Lester: so you coming over here.. or should i head over at some point?
+[03/30/2006 07:06 PM] *** "Richard Lester" signed off at Thu Mar 30 19:06:58 2006.
+[03/30/2006 11:03 PM] *** "Richard Lester" signed on at Thu Mar 30 23:03:42 2006.
+Session Close (Richard Lester): Thu Mar 30 23:48:54 2006
+
+
+Session Start (bjcullinan:Richard Lester): Fri Mar 31 19:38:30 2006
+[03/31/2006 07:38 PM] bjcullinan: finished my page
+Session Close (Richard Lester): Fri Mar 31 20:08:17 2006
+
+
+Session Start (bjcullinan:Richard Lester): Mon Apr 17 20:50:33 2006
+[04/17/2006 08:50 PM] Richard Lester: hey yo, im uploading mp3s, not wmas, that ok right?
+[04/17/2006 08:50 PM] bjcullinan: of course
+[04/17/2006 08:50 PM] bjcullinan: most of them are wmas
+[04/17/2006 08:51 PM] Richard Lester: ok makin sure
+[04/17/2006 08:52 PM] Richard Lester: hey i somehow lost the adress
+[04/17/2006 08:52 PM] bjcullinan: (Link: http://bjcmedia.mine.nu)http://bjcmedia.mine.nu
+[04/17/2006 08:54 PM] Richard Lester: lol damnit, now i cant remember my password
+[04/17/2006 08:54 PM] bjcullinan: forgotpw.php
+[04/17/2006 08:58 PM] bjcullinan: i have a floor meeting at 9:00 should be over in a half hour
+[04/17/2006 08:58 PM] Richard Lester: ok
+[04/17/2006 08:58 PM] bjcullinan: sucks
+[04/17/2006 08:58 PM] bjcullinan: still uploading?
+[04/17/2006 08:59 PM] bjcullinan: how long is it taking?
+[04/17/2006 08:59 PM] bjcullinan: a while?
+[04/17/2006 09:00 PM] Richard Lester: it works
+[04/17/2006 09:00 PM] Richard Lester: it dosnt go into the public dropdown, but i can stream it back
+[04/17/2006 09:01 PM] bjcullinan: what?
+[04/17/2006 09:01 PM] bjcullinan: you have to have that folder selected
+[04/17/2006 09:02 PM] bjcullinan: oh you mean on the main music page?
+[04/17/2006 09:02 PM] bjcullinan: i know i have to change that
+[04/17/2006 09:02 PM] Richard Lester: ah ok
+[04/17/2006 09:02 PM] bjcullinan: g2g ttyl
+[04/17/2006 09:02 PM] Richard Lester: yeah i have something up now
+[04/17/2006 09:02 PM] Richard Lester: ok
+[04/17/2006 09:16 PM] Richard Lester: erg.. seems like you can only upload once.. after that it pretends to upload it but the list dosnt get any longer
+[04/17/2006 09:16 PM] Richard Lester: once  to public, and once to private.
+[04/17/2006 09:28 PM] bjcullinan: how do you mean?
+[04/17/2006 09:28 PM] Richard Lester: the first song uploads fine, but it wont upload any more
+[04/17/2006 09:28 PM] Richard Lester: and when i scroll down the list of songs and click, it selects the wrong song, it selects a song like twice as far down as I scrolled
+[04/17/2006 09:32 PM] bjcullinan: are you using firefox?
+[04/17/2006 09:33 PM] Richard Lester: yes
+[04/17/2006 09:33 PM] bjcullinan: click home and then optimize
+[04/17/2006 09:33 PM] bjcullinan: its a problem with firefox
+[04/17/2006 09:33 PM] bjcullinan: its different from IE
+[04/17/2006 09:34 PM] Richard Lester: oh i see
+[04/17/2006 09:34 PM] bjcullinan: so the first problem
+[04/17/2006 09:34 PM] bjcullinan: i need to make it unlink some cache files so they update
+[04/17/2006 09:34 PM] Richard Lester: yeah
+[04/17/2006 09:34 PM] Richard Lester: i see
+[04/17/2006 09:36 PM] Richard Lester: also music donst show up in the private section of music
+[04/17/2006 09:36 PM] bjcullinan: hmmm i got it to show up
+[04/17/2006 09:37 PM] bjcullinan: try it now
+[04/17/2006 09:37 PM] Richard Lester: there we go
+[04/17/2006 09:37 PM] bjcullinan: yeah its the cache
+[04/17/2006 09:39 PM] Richard Lester: hmm.. now im trying to download a song from my private section and it asks for a password
+[04/17/2006 09:39 PM] bjcullinan: yes
+[04/17/2006 09:39 PM] bjcullinan: enter your usual
+[04/17/2006 09:40 PM] Richard Lester: it didnt work
+[04/17/2006 09:40 PM] bjcullinan: ok sorry enter your public key
+[04/17/2006 09:40 PM] bjcullinan: i will fix that too
+[04/17/2006 09:40 PM] Richard Lester: ok
+[04/17/2006 09:41 PM] Richard Lester: the upload still didnt work
+[04/17/2006 09:41 PM] bjcullinan: what do you mean?
+[04/17/2006 09:41 PM] Richard Lester: does the same thing.. i add songs but none of them appear in the list
+[04/17/2006 09:42 PM] bjcullinan: which list?
+[04/17/2006 09:42 PM] bjcullinan: you have to be specific
+[04/17/2006 09:43 PM] Richard Lester: the one in files
+[04/17/2006 09:43 PM] bjcullinan: that can't be true
+[04/17/2006 09:43 PM] Richard Lester: oh its so true
+[04/17/2006 09:44 PM] bjcullinan: refresh
+[04/17/2006 09:45 PM] bjcullinan: any errors?
+[04/17/2006 09:45 PM] Richard Lester: no difference
+[04/17/2006 09:45 PM] Richard Lester: nope
+[04/17/2006 09:45 PM] Richard Lester: it says sending request then the page refreshes itself and the only thing differnet is now the form is empty
+[04/17/2006 09:46 PM] bjcullinan: weird its still working here
+[04/17/2006 09:46 PM] bjcullinan: oh wait
+[04/17/2006 09:46 PM] bjcullinan: nvm
+[04/17/2006 09:46 PM] Richard Lester: do you see more than one song in my public list?
+[04/17/2006 09:47 PM] bjcullinan: are you sure you didn't already upload that file?
+[04/17/2006 09:47 PM] bjcullinan: oh snap
+[04/17/2006 09:47 PM] bjcullinan: needs decode
+[04/17/2006 09:47 PM] bjcullinan: hmmm
+[04/17/2006 09:48 PM] bjcullinan: no
+[04/17/2006 09:48 PM] bjcullinan: that can't be it
+[04/17/2006 09:48 PM] Richard Lester: im sure its a different one
+[04/17/2006 09:49 PM] bjcullinan: ok hold on
+[04/17/2006 09:49 PM] bjcullinan: no more errors
+[04/17/2006 09:50 PM] Richard Lester: huh
+[04/17/2006 09:50 PM] bjcullinan: pause
+[04/17/2006 09:51 PM] Richard Lester: oh was i spamming you with failed passwords?
+[04/17/2006 09:51 PM] bjcullinan: no i just need time to fix everything you have told me already
+[04/17/2006 09:51 PM] Richard Lester: oh ok
+[04/17/2006 10:06 PM] bjcullinan: its still working for me
+[04/17/2006 10:06 PM] bjcullinan: weird
+[04/17/2006 10:06 PM] Richard Lester: huh
+[04/17/2006 10:06 PM] Richard Lester: ill try again
+[04/17/2006 10:06 PM] bjcullinan: you click on private
+[04/17/2006 10:06 PM] bjcullinan: whats the file name?
+[04/17/2006 10:07 PM] Richard Lester: 01 - Lonely Nation.mp3
+[04/17/2006 10:07 PM] Richard Lester: tryed in both public and private
+[04/17/2006 10:09 PM] Richard Lester: and with various differnent songs by different people
+[04/17/2006 10:12 PM] bjcullinan: no error messages?
+[04/17/2006 10:12 PM] bjcullinan: is it over 8 mb?
+[04/17/2006 10:13 PM] bjcullinan: now try
+[04/17/2006 10:13 PM] Richard Lester: ok
+[04/17/2006 10:14 PM] Richard Lester: w00t
+[04/17/2006 10:15 PM] bjcullinan: my bad
+[04/17/2006 10:15 PM] bjcullinan: file size limit
+[04/17/2006 10:15 PM] bjcullinan: i changed it to 10mb
+[04/17/2006 10:15 PM] bjcullinan: from 2
+[04/17/2006 10:15 PM] Richard Lester: aaah
+[04/17/2006 10:15 PM] Richard Lester: oh yeah 2 would be very low, especialy if you want high quality songs
+[04/17/2006 10:15 PM] Richard Lester: come to think of it, both songs i managed to upload were bizzarly small
+[04/17/2006 10:16 PM] Richard Lester: infact you need to add a delete feature, because one i added is a bad file, which is why it was so small
+[04/17/2006 10:16 PM] bjcullinan: yeah i will
+[04/17/2006 10:16 PM] bjcullinan: baby steps
+[04/17/2006 10:16 PM] Richard Lester: aw
+[04/17/2006 10:16 PM] Richard Lester: lol
+[04/17/2006 10:16 PM] bjcullinan: which one is it?
+[04/17/2006 10:17 PM] Richard Lester: daisy[1]
+[04/17/2006 10:17 PM] bjcullinan: done
+[04/17/2006 10:17 PM] Richard Lester: aw i does it check the file size agiasnt each song or all beinguploaded together
+[04/17/2006 10:17 PM] bjcullinan: not sure did some not upload?
+[04/17/2006 10:18 PM] Richard Lester: none did when i tryed batch uploading an entire album
+[04/17/2006 10:18 PM] Richard Lester: took long enough uploading though
+[04/17/2006 10:18 PM] bjcullinan: batch uploading?
+[04/17/2006 10:18 PM] Richard Lester: using the 15 song input thing
+[04/17/2006 10:18 PM] bjcullinan: oh ok
+[04/17/2006 10:18 PM] Richard Lester: infact, only one at a time seems to be working
+[04/17/2006 10:26 PM] Richard Lester: weird. only that orignal song i uploaded shows up in the music section
+[04/17/2006 10:31 PM] Richard Lester: ill let you debug for a while, be back later
+[04/17/2006 10:31 PM] *** "Richard Lester" signed off at Mon Apr 17 22:31:11 2006.
+Session Close (Richard Lester): Tue Apr 18 00:02:03 2006
+
+
+Session Start (bjcullinan:Richard Lester): Tue Apr 18 08:46:09 2006
+[04/18/2006 08:46 AM] bjcullinan: So it works now
+[04/18/2006 08:46 AM] bjcullinan: but for some reason data doesn't get sent properly and the file names don't always come out right
+[04/18/2006 08:51 AM] bjcullinan: and i g2g to class ttyl
+Session Close (Richard Lester): Tue Apr 18 08:51:10 2006
+
+
+Session Start (bjcullinan:Richard Lester): Tue Apr 18 20:16:45 2006
+[04/18/2006 08:16 PM] bjcullinan: my computer shoots lazers
+[04/18/2006 08:18 PM] Richard Lester: excelent. beware of capitation
+[04/18/2006 08:18 PM] bjcullinan: capitation?
+[04/18/2006 08:19 PM] Richard Lester: er, or decaptiation i should say
+[04/18/2006 08:19 PM] bjcullinan: why/
+[04/18/2006 08:19 PM] bjcullinan: oh
+[04/18/2006 08:19 PM] bjcullinan: yes
+[04/18/2006 08:20 PM] bjcullinan: but i just searched through 3010 files and loaded all the id3 info and caches it, now when it loads cache it actually loads and array that it prints out, and it can resort 3 times and reverse the entire array then load it into the browser without even using all my CPU
+[04/18/2006 08:22 PM] Richard Lester: nice
+[04/18/2006 08:22 PM] bjcullinan: yeah its amazazing
+[04/18/2006 08:24 PM] Richard Lester: sweetness
+[04/18/2006 08:24 PM] Richard Lester: i noticed that the upload is working spiffy, and i can access what iv uploaded
+[04/18/2006 08:24 PM] bjcullinan: yeah file names turning out alright?
+[04/18/2006 08:24 PM] Richard Lester: yup
+[04/18/2006 08:24 PM] bjcullinan: good good
+[04/18/2006 08:25 PM] Richard Lester: yup!
+[04/18/2006 08:25 PM] Richard Lester: do you plan on separating uploaded songs into albums?
+[04/18/2006 08:25 PM] bjcullinan: yeah i used shel_exec("del C:\path\to\cache\$thisuser-*"); to clear the cache
+[04/18/2006 08:25 PM] bjcullinan: not in file view
+[04/18/2006 08:26 PM] Richard Lester: in the music view?
+[04/18/2006 08:26 PM] bjcullinan: yes
+[04/18/2006 08:26 PM] bjcullinan: well the artist and album folder is your job
+[04/18/2006 08:27 PM] bjcullinan: but i will make a folder button to add a folder
+[04/18/2006 08:27 PM] Richard Lester: ah gocha
+[04/18/2006 08:30 PM] Richard Lester: hey, i gotta run. talk to you later
+[04/18/2006 08:30 PM] bjcullinan: ok ttyl
+[04/18/2006 08:30 PM] Richard Lester: bye
+Session Close (Richard Lester): Tue Apr 18 20:30:41 2006
+
+
+Session Start (bjcullinan:Richard Lester): Tue Apr 25 15:12:24 2006
+[04/25/2006 03:12 PM] Richard Lester: are you working on your site?
+[04/25/2006 03:16 PM] Richard Lester: i guess not, well your music section is freeking out, and it dosnt work
+[04/25/2006 03:16 PM] Richard Lester: incase you didnt know
+[04/25/2006 03:16 PM] Richard Lester: bye
+[04/25/2006 03:16 PM] *** "Richard Lester" signed off at Tue Apr 25 15:16:41 2006.
+Session Close (Richard Lester): Tue Apr 25 15:45:38 2006
+
+

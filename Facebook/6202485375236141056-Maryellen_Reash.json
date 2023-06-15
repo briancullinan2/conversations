@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6202485375236141056/",
+    "participants": [
+        {
+            "name": "Maryellen Reash",
+            "title": "Attorney at Reash Law Offices",
+            "url": "linkedin.com/in/maryellencornareash",
+            "phone": "6144421323 (Work)",
+            "email": "mcreashlaw@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Maryellen Reash",
+            "message": "Congrats on the new role! Hope you're doing well.",
+            "time": "2017-11-10T14:22:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Thanks!",
+            "time": "2017-10-04T15:00:00.000Z"
+        }
+    ]
+}

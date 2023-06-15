@@ -1,0 +1,688 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "28 Mutual Connections",
+                "You and Donna both know Shay Pausa, David Stark, and 26 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Front End Development",
+                "Company Name",
+                "PrizeLogic",
+                "Dates Employed",
+                "Feb 2017 – Present",
+                "Employment Duration",
+                "11 mos"
+            ],
+            [
+                "QA Engineer",
+                "Company Name",
+                "Sheknows, LLC / Sheknows.com",
+                "Dates Employed",
+                "Aug 2014 – Aug 2016",
+                "Employment Duration",
+                "2 yrs 1 mo",
+                "Location",
+                "Scottsdale, Arizona",
+                "* Utilize DFP and other tools to check incoming tags from clients.  * Created simple testing tool using Javascript that was meant to live in a Sharepoint site.  * Created a script in javascript to parse an XML file and prepare it to be saved as an Excel spreadsheet. This tool would allow me to more easily match up what was marked as sold in our sales management program and the tags that came in from clients. * Built myself a simple task management system in Sharepoint. Included uploading files, added version management to the files with email notification on changes, auto-generated tasks when new files were added. Also had custom tasks for pre-checking landing page takeovers that included saving the links of the live DFP line items, the test DFP line items and the actual test links. * Nightly checked landing pages that had takeovers. Desktop, tablet and mobile versions. If there were issues, I would fix them. If I couldn't, I would contact my on-call person. Sent emails nightly at the end to indicate any issues or lack-thereof. * Sent emails each morning, coordinating with two teams in order to make sure the landing pages for that night were ready and noted in Basecamp. * Built a lot of my processes. This position had not existed at SheKnows prior to 2015."
+            ],
+            [
+                "Senior Implementation Engineer",
+                "Company Name",
+                "SheKnows Media",
+                "Dates Employed",
+                "2009 – 2014",
+                "Employment Duration",
+                "5 yrs",
+                "Location",
+                "Scottsdale, AZ",
+                "* Created custom ad tags using Flite.com * Built myself a task tracking application leveraging PHP's Symfony framework, CSS's Bootstrap framework and jQuery. This system worked outside of Basecamp, but included links to DFP and Basecamp so that I could easily navigate my way around. Because it was in mySQL, I could setup whatever queries I wanted to pull. * Used XML, HTML and CSS to ensure content updates that have been sold are published to our live website.  * Implemented any ad tag optimizations in order to make sure the correct content is roadblocked by the correct client."
+            ],
+            [
+                "PHP Programmer - Contractor",
+                "Company Name",
+                "SheKnows.com",
+                "Dates Employed",
+                "Jan 2007 – Aug 2009",
+                "Employment Duration",
+                "2 yrs 8 mos",
+                "Converted Photoshop files to WordPress’s blog templates for SheKnows.com/blogs/.Working within the current framework of PointsAndPrizes.com to assist in updating the site; troubleshooting and fixing problems and in some cases, rewriting various functions to work in the new framework.Created a fully dynamic contest system for use with both PointsandPrizes.com and SheKnows.com."
+            ],
+            [
+                "Customer Support & Management",
+                "Company Name",
+                "Cascade Networks",
+                "Dates Employed",
+                "May 2005 – Jul 2009",
+                "Employment Duration",
+                "4 yrs 3 mos",
+                "Provided customer support for our internet access customers, revamped and streamlined the process for getting customers on and off our service."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "CoderCamps",
+                "Degree Name",
+                "High School",
+                "Field Of Study",
+                "Full Stack ASP.Net",
+                "Dates attended or expected graduation",
+                "2016 – 2017",
+                "I learned how to build web applications using Microsoft’s ASP.NET framework and AngularJS. This program gave me the opportunity to learn how to program using C#, build database-driven Web applications using ASP.NET MVC and the Entity Framework, and create richly interactive client-side apps using the JavaScript AngularJS library.",
+                "Media (1)",
+                "This position has 1 media",
+                "Personal Coding Project - TokenRewards",
+                "Personal Coding Project - TokenRewards",
+                "This media is a link"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Green Rhino Staffing",
+                "2,187 followers"
+            ],
+            [
+                "ASP.NET,C#/VB.NET  Developer/Programmer",
+                "141,616 members"
+            ],
+            [
+                "Decton IT",
+                "41 followers"
+            ],
+            [
+                "SheKnows Media",
+                "7,106 followers"
+            ],
+            [
+                "Coder Camps",
+                "1,152 followers"
+            ],
+            [
+                "SheKnows Community",
+                "275 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (278)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Green Rhino Staffing",
+                "2,187 followers"
+            ],
+            [
+                "Green Rhino Staffing",
+                "2,187 followers"
+            ],
+            [
+                "ASP.NET,C#/VB.NET  Developer/Programmer",
+                "141,616 members"
+            ],
+            [
+                "ASP.NET,C#/VB.NET  Developer/Programmer",
+                "141,616 members"
+            ],
+            [
+                "Decton IT",
+                "41 followers"
+            ],
+            [
+                "Decton IT",
+                "41 followers"
+            ],
+            [
+                "SheKnows Media",
+                "7,106 followers"
+            ],
+            [
+                "SheKnows Media",
+                "7,106 followers"
+            ],
+            [
+                "Coder Camps",
+                "1,152 followers"
+            ],
+            [
+                "Coder Camps",
+                "1,152 followers"
+            ],
+            [
+                "SheKnows Community",
+                "275 members"
+            ],
+            [
+                "SheKnows Community",
+                "275 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Lyza Wilson",
+                "Marketing Program Manager - AVP at Wells Fargo",
+                "May 30, 2012, Donna was senior to Lyza but didn’t manage directly",
+                "Donna is a pleasure to work with at SheKnows. Donna is highly knowledgeable and personable. She demonstrates a high level of Web expertise. She is very dedicated to her position. Donna is a valuable asset to SheKnows!"
+            ],
+            [
+                "Lyza Wilson",
+                "Marketing Program Manager - AVP at Wells Fargo",
+                "May 30, 2012, Donna was senior to Lyza but didn’t manage directly"
+            ],
+            [
+                "Lyza Wilson",
+                "Marketing Program Manager - AVP at Wells Fargo",
+                "May 30, 2012, Donna was senior to Lyza but didn’t manage directly"
+            ],
+            [
+                "Lyza Wilson",
+                "Marketing Program Manager - AVP at Wells Fargo",
+                "May 30, 2012, Donna was senior to Lyza but didn’t manage directly"
+            ],
+            "Marketing Program Manager - AVP at Wells Fargo",
+            [
+                "Donna is a pleasure to work with at SheKnows. Donna is highly knowledgeable and personable. She demonstrates a high level of Web expertise. She is very dedicated to her position. Donna is a valuable asset to SheKnows!"
+            ],
+            [
+                "Donna is a pleasure to work with at SheKnows. Donna is highly knowledgeable and personable. She demonstrates a high level of Web expertise. She is very dedicated to her position. Donna is a valuable asset to SheKnows!"
+            ],
+            [
+                "Patti Milan",
+                "Director of Technology  at Everyday Dishes & General Manager at Myria Publishing, LLC",
+                "January 24, 2014, Patti worked with Donna in the same group",
+                "I've worked with Patti for 5 years - over that time, we worked together as Front End Developers on SheKnows.com and some of it's owned sites. I've also reported to Patti. She's managed developers, designer, traffickers and project managers - most all at the same time. She implemented various processes to help make teams efficient - even when the teams were under-staffed. She is a very responsible woman, who very quickly owns any project given her. She learns quickly and can very easily grasp new concepts. It has been a joy to work with Patti."
+            ],
+            [
+                "Patti Milan",
+                "Director of Technology  at Everyday Dishes & General Manager at Myria Publishing, LLC",
+                "January 24, 2014, Patti worked with Donna in the same group"
+            ],
+            [
+                "Patti Milan",
+                "Director of Technology  at Everyday Dishes & General Manager at Myria Publishing, LLC",
+                "January 24, 2014, Patti worked with Donna in the same group"
+            ],
+            [
+                "Patti Milan",
+                "Director of Technology  at Everyday Dishes & General Manager at Myria Publishing, LLC",
+                "January 24, 2014, Patti worked with Donna in the same group"
+            ],
+            "Director of Technology  at Everyday Dishes & General Manager at Myria Publishing, LLC",
+            [
+                "I've worked with Patti for 5 years - over that time, we worked together as Front End Developers on SheKnows.com and some of it's owned sites. I've also reported to Patti. She's managed developers, designer, traffickers and project managers - most all at the same time. She implemented various processes to help make teams efficient - even when the teams were under-staffed. She is a very responsible woman, who very quickly owns any project given her. She learns quickly and can very easily grasp new concepts. It has been a joy to work with Patti."
+            ],
+            [
+                "I've worked with Patti for 5 years - over that time, we worked together as Front End Developers on SheKnows.com and some of it's owned sites. I've also reported to Patti. She's managed developers, designer, traffickers and project managers - most all at the same time. She implemented various processes to help make teams efficient - even when the teams were under-staffed. She is a very responsible woman, who very quickly owns any project given her. She learns quickly and can very easily grasp new concepts. It has been a joy to work with Patti."
+            ]
+        ],
+        "skills": [
+            [
+                "CSS",
+                "See 21 endorsements for CSS",
+                "21",
+                "CSS",
+                "Endorse",
+                "Endorsed by 3 of Donna’s colleagues at SheKnows Media"
+            ],
+            [
+                "CSS",
+                "See 21 endorsements for CSS",
+                "21"
+            ],
+            [
+                "HTML",
+                "See 19 endorsements for HTML",
+                "19",
+                "HTML",
+                "Endorse",
+                "Endorsed by Dorothy Lee, who is highly skilled at this",
+                "Endorsed by Andrew Stefanik and 1 other mutual connection"
+            ],
+            [
+                "HTML",
+                "See 19 endorsements for HTML",
+                "19"
+            ],
+            [
+                "JavaScript",
+                "See 17 endorsements for JavaScript",
+                "17",
+                "JavaScript",
+                "Endorse",
+                "Endorsed by Andrew Stefanik (mutual connection)",
+                "Endorsed by 6 of Donna’s colleagues at SheKnows Media"
+            ],
+            [
+                "JavaScript",
+                "See 17 endorsements for JavaScript",
+                "17"
+            ],
+            [
+                "Online Advertising",
+                "See 12 endorsements for Online Advertising",
+                "12",
+                "Online Advertising",
+                "Endorse"
+            ],
+            [
+                "Online Advertising",
+                "See 12 endorsements for Online Advertising",
+                "12"
+            ],
+            [
+                "Web Design",
+                "See 12 endorsements for Web Design",
+                "12",
+                "Web Design",
+                "Endorse"
+            ],
+            [
+                "Web Design",
+                "See 12 endorsements for Web Design",
+                "12"
+            ],
+            [
+                "Web Development",
+                "See 10 endorsements for Web Development",
+                "10",
+                "Web Development",
+                "Endorse"
+            ],
+            [
+                "Web Development",
+                "See 10 endorsements for Web Development",
+                "10"
+            ],
+            [
+                "Apache",
+                "See 9 endorsements for Apache",
+                "9",
+                "Apache",
+                "Endorse"
+            ],
+            [
+                "Apache",
+                "See 9 endorsements for Apache",
+                "9"
+            ],
+            [
+                "Git",
+                "See 9 endorsements for Git",
+                "9",
+                "Git",
+                "Endorse"
+            ],
+            [
+                "Git",
+                "See 9 endorsements for Git",
+                "9"
+            ],
+            [
+                "Cascading Style Sheets (CSS)",
+                "See 9 endorsements for Cascading Style Sheets (CSS)",
+                "9",
+                "Cascading Style Sheets (CSS)",
+                "Endorse"
+            ],
+            [
+                "Cascading Style Sheets (CSS)",
+                "See 9 endorsements for Cascading Style Sheets (CSS)",
+                "9"
+            ],
+            [
+                "Subversion",
+                "See 8 endorsements for Subversion",
+                "8",
+                "Subversion",
+                "Endorse"
+            ],
+            [
+                "Subversion",
+                "See 8 endorsements for Subversion",
+                "8"
+            ],
+            [
+                "Web Analytics",
+                "See 8 endorsements for Web Analytics",
+                "8",
+                "Web Analytics",
+                "Endorse"
+            ],
+            [
+                "Web Analytics",
+                "See 8 endorsements for Web Analytics",
+                "8"
+            ],
+            [
+                "Web Applications",
+                "See 8 endorsements for Web Applications",
+                "8",
+                "Web Applications",
+                "Endorse"
+            ],
+            [
+                "Web Applications",
+                "See 8 endorsements for Web Applications",
+                "8"
+            ],
+            [
+                "MySQL",
+                "See 8 endorsements for MySQL",
+                "8",
+                "MySQL",
+                "Endorse"
+            ],
+            [
+                "MySQL",
+                "See 8 endorsements for MySQL",
+                "8"
+            ],
+            [
+                "HTML 5",
+                "See 8 endorsements for HTML 5",
+                "8",
+                "HTML 5",
+                "Endorse"
+            ],
+            [
+                "HTML 5",
+                "See 8 endorsements for HTML 5",
+                "8"
+            ],
+            [
+                "AJAX",
+                "See 7 endorsements for AJAX",
+                "7",
+                "AJAX",
+                "Endorse"
+            ],
+            [
+                "AJAX",
+                "See 7 endorsements for AJAX",
+                "7"
+            ],
+            [
+                "jQuery",
+                "See 7 endorsements for jQuery",
+                "7",
+                "jQuery",
+                "Endorse"
+            ],
+            [
+                "jQuery",
+                "See 7 endorsements for jQuery",
+                "7"
+            ],
+            [
+                "Social Media",
+                "See 7 endorsements for Social Media",
+                "7",
+                "Social Media",
+                "Endorse"
+            ],
+            [
+                "Social Media",
+                "See 7 endorsements for Social Media",
+                "7"
+            ],
+            [
+                "XML",
+                "See 6 endorsements for XML",
+                "6",
+                "XML",
+                "Endorse"
+            ],
+            [
+                "XML",
+                "See 6 endorsements for XML",
+                "6"
+            ],
+            [
+                "Front-end",
+                "See 6 endorsements for Front-end",
+                "6",
+                "Front-end",
+                "Endorse"
+            ],
+            [
+                "Front-end",
+                "See 6 endorsements for Front-end",
+                "6"
+            ],
+            [
+                "Google Adwords",
+                "See 6 endorsements for Google Adwords",
+                "6",
+                "Google Adwords",
+                "Endorse"
+            ],
+            [
+                "Google Adwords",
+                "See 6 endorsements for Google Adwords",
+                "6"
+            ],
+            [
+                "Social Media Marketing",
+                "See 6 endorsements for Social Media Marketing",
+                "6",
+                "Social Media Marketing",
+                "Endorse"
+            ],
+            [
+                "Social Media Marketing",
+                "See 6 endorsements for Social Media Marketing",
+                "6"
+            ],
+            [
+                "Web Services",
+                "See 5 endorsements for Web Services",
+                "5",
+                "Web Services",
+                "Endorse"
+            ],
+            [
+                "Web Services",
+                "See 5 endorsements for Web Services",
+                "5"
+            ],
+            [
+                "User Interface Design",
+                "See 5 endorsements for User Interface Design",
+                "5",
+                "User Interface Design",
+                "Endorse"
+            ],
+            [
+                "User Interface Design",
+                "See 5 endorsements for User Interface Design",
+                "5"
+            ],
+            [
+                "YUI",
+                "See 4 endorsements for YUI",
+                "4",
+                "YUI",
+                "Endorse"
+            ],
+            [
+                "YUI",
+                "See 4 endorsements for YUI",
+                "4"
+            ],
+            [
+                "User Experience",
+                "See 4 endorsements for User Experience",
+                "4",
+                "User Experience",
+                "Endorse"
+            ],
+            [
+                "User Experience",
+                "See 4 endorsements for User Experience",
+                "4"
+            ],
+            [
+                "CMS",
+                "See 4 endorsements for CMS",
+                "4",
+                "CMS",
+                "Endorse"
+            ],
+            [
+                "CMS",
+                "See 4 endorsements for CMS",
+                "4"
+            ],
+            [
+                "Blogging",
+                "See 4 endorsements for Blogging",
+                "4",
+                "Blogging",
+                "Endorse"
+            ],
+            [
+                "Blogging",
+                "See 4 endorsements for Blogging",
+                "4"
+            ],
+            [
+                "Perl",
+                "See 4 endorsements for Perl",
+                "4",
+                "Perl",
+                "Endorse"
+            ],
+            [
+                "Perl",
+                "See 4 endorsements for Perl",
+                "4"
+            ],
+            [
+                "Google Analytics",
+                "See 4 endorsements for Google Analytics",
+                "4",
+                "Google Analytics",
+                "Endorse"
+            ],
+            [
+                "Google Analytics",
+                "See 4 endorsements for Google Analytics",
+                "4"
+            ],
+            [
+                "WordPress",
+                "See 4 endorsements for WordPress",
+                "4",
+                "WordPress",
+                "Endorse"
+            ],
+            [
+                "WordPress",
+                "See 4 endorsements for WordPress",
+                "4"
+            ],
+            [
+                "LAMP",
+                "See 4 endorsements for LAMP",
+                "4",
+                "LAMP",
+                "Endorse"
+            ],
+            [
+                "LAMP",
+                "See 4 endorsements for LAMP",
+                "4"
+            ],
+            [
+                "PHP",
+                "See 4 endorsements for PHP",
+                "4",
+                "PHP",
+                "Endorse"
+            ],
+            [
+                "PHP",
+                "See 4 endorsements for PHP",
+                "4"
+            ],
+            [
+                "XHTML",
+                "See 4 endorsements for XHTML",
+                "4",
+                "XHTML",
+                "Endorse"
+            ],
+            [
+                "XHTML",
+                "See 4 endorsements for XHTML",
+                "4"
+            ],
+            [
+                "Photoshop",
+                "See 4 endorsements for Photoshop",
+                "4",
+                "Photoshop",
+                "Endorse"
+            ],
+            [
+                "Photoshop",
+                "See 4 endorsements for Photoshop",
+                "4"
+            ],
+            [
+                "Advertising",
+                "See 3 endorsements for Advertising",
+                "3",
+                "Advertising",
+                "Endorse"
+            ],
+            [
+                "Advertising",
+                "See 3 endorsements for Advertising",
+                "3"
+            ],
+            [
+                "HTML5",
+                "See 2 endorsements for HTML5",
+                "2",
+                "HTML5",
+                "Endorse"
+            ],
+            [
+                "HTML5",
+                "See 2 endorsements for HTML5",
+                "2"
+            ]
+        ],
+        "summary": "    I like learning new things - new crafts, new technologies. I’ve taught myself HTML, CSS, Javascript, PHP and a little MySQL. I did have the opportunity to attend a programming boot-camp where I opted to learn Full-stack ASP.Net. During the boot-camp, I worked on a personal project for one of my role play groups - I got started building them a token / rewards shop so our players could get rewards for their various in-character achievements. Our group project was the start of site to build a community and support network for working mothers. We called it \"WoMoCo - Working Mothers Connection\". It was an interesting project and rather exciting. All six of us on the project had varying degrees of programming experience. I had fun not only trying out the new technologies, but helping my teammates troubleshoot and come up with new ways of looking at problems they were having.\n  \n  \n",
+        "name": "Donna Ryan (Ehmke)",
+        "title": "Full Stack Web Developer",
+        "url": "linkedin.com/in/drehmke",
+        "phone": "360-521-7974 (Mobile)",
+        "email": "donna@nerdrose.com"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6240600969927802881/",
+    "participants": [
+        {
+            "name": "Kevin Miyagishima",
+            "title": "Senior Business Intelligence Analyst",
+            "url": "linkedin.com/in/kevin-miyagishima-8001098",
+            "phone": null,
+            "email": "kevmi44@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-23T18:40:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

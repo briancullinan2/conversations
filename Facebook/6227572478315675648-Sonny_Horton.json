@@ -1,0 +1,64 @@
+{
+    "thread": "/messaging/thread/6227572478315675648/",
+    "participants": [
+        {
+            "name": "Sonny Horton",
+            "title": "Chief Operating Officer at Skintifika, LLC",
+            "url": "linkedin.com/in/sonnyhorton",
+            "phone": null,
+            "email": "sonny.horton@neudesic.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-18T19:49:00.000Z"
+        },
+        {
+            "from": "Sonny Horton",
+            "message": "Sure thing! Networks are good things :)\n",
+            "time": "2018-01-18T19:50:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "What do you think of a social network built on trust? Like a social PGP registry?\n",
+            "time": "2018-01-18T19:52:00.000Z"
+        },
+        {
+            "from": "Sonny Horton",
+            "message": "Not a new idea in the abstract sense, but the practical implementation is a challenge. LinkedIn tried to do it but never enforced any specific trust and so bred the LiONs... How do you distinguish between your closest friend, with whom you would trust the lives of your children in your absence or perhaps control of your finances during your incapacitation and your close acquaintance, with whom you would trust your home address but perhaps not a lot more? The degree of trust needs to be addressed - it is not binary. Makes for a great intellectual discussion and thought provoker 😁\n",
+            "time": "2018-01-18T19:57:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Excellent!\n",
+            "time": "2018-01-18T20:17:00.000Z"
+        },
+        {
+            "from": "Sonny Horton",
+            "message": "👍\n",
+            "time": "2018-01-18T20:20:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "My wife is getting a cosmotology licences and would love to work for a skin care company.\n",
+            "time": "2018-01-18T20:27:00.000Z"
+        },
+        {
+            "from": "Sonny Horton",
+            "message": "Cool. We are a small startup and aren't looking for anyone at the moment, but I would encourage her to check out our philosophy and product ingredients. You never know what we will need tomorrow. Does she have any Marketing experience?\n",
+            "time": "2018-01-18T20:29:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "She's sold cars, art, jewelry, diamonds, clothes, makeup, laundry, food, Airbnb, etc. She is marketing, she wears marketing all over. She hasn't logged on to Google analytics but that stuff is easy.\n",
+            "time": "2018-01-18T20:32:00.000Z"
+        },
+        {
+            "from": "Sonny Horton",
+            "message": "Sounds pretty versatile!! The analytics stuff is indeed the easy stuff - knowing and tapping into the mind of the consumer is the tricky bit.\n",
+            "time": "2018-01-18T20:35:00.000Z"
+        }
+    ]
+}

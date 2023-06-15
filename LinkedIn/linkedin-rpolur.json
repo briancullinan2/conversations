@@ -1,0 +1,340 @@
+[
+    {
+        "resourceName": "people/c6040657281994455883",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMK1UxdXg2NzJoM009",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "53d4b9cb0f27fb4b"
+                    }
+                },
+                "displayName": "Ram Polur",
+                "familyName": "Polur",
+                "givenName": "Ram",
+                "displayNameLastFirst": "Polur, Ram"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "53d4b9cb0f27fb4b"
+                    }
+                },
+                "value": "rpolur@yahoo.com"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "53d4b9cb0f27fb4b"
+                    }
+                },
+                "value": "(602) 748-9470",
+                "canonicalForm": "+16027489470",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "18 Mutual Connections",
+                "You and Ram both know Pankaj Gaddam, Stephen Kuenzli, and 16 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Sr Data Analyst/Developer Consultant",
+                "Company Name",
+                "Cigna",
+                "Dates Employed",
+                "Jul 2017 – Present",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "Sr Data Analyst",
+                "Company Name",
+                "Dignity Health",
+                "Dates Employed",
+                "Jan 2017 – Jun 2017",
+                "Employment Duration",
+                "6 mos"
+            ],
+            [
+                "Data Scientist / Epidemiologist",
+                "Company Name",
+                "Humanity X",
+                "Dates Employed",
+                "Nov 2015 – Dec 2016",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "Tempe, AZ"
+            ],
+            [
+                "Senior Data Analyst & Data Manager & Epidemiologist",
+                "Company Name",
+                "Arizona Department of Health Services - Office of Cancer Prevention and Control",
+                "Dates Employed",
+                "Aug 2013 – Oct 2015",
+                "Employment Duration",
+                "2 yrs 3 mos",
+                "Location",
+                "Phoenix, Arizona"
+            ],
+            [
+                "Computational Epidemiologist",
+                "Company Name",
+                "Maricopa County Department of Public Health",
+                "Dates Employed",
+                "Mar 2013 – Jul 2013",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "Phoenix, Arizona"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Georgia Southern University",
+                "Degree Name",
+                "Master of Public Health (MPH)",
+                "Field Of Study",
+                "Epidemiology & Biostatistics",
+                "Activities and Societies:",
+                "American Association for Cancer Research (AACR), Society for Epidemiologic Research (SER), American Public Health Association (APHA)"
+            ],
+            [
+                "Georgia Southern University",
+                "Degree Name",
+                "Master of Public Health (MPH)",
+                "Field Of Study",
+                "Epidemiology & Biostatistics",
+                "Activities and Societies:",
+                "American Association for Cancer Research (AACR), Society for Epidemiologic Research (SER), American Public Health Association (APHA)"
+            ],
+            [
+                "Ross University School of Medicine",
+                "Field Of Study",
+                "Medical Student",
+                "Dates attended or expected graduation",
+                "2004 – 2007",
+                "Activities and Societies:",
+                "American Medical Student Association (AMSA)"
+            ],
+            [
+                "Ross University School of Medicine",
+                "Field Of Study",
+                "Medical Student",
+                "Dates attended or expected graduation",
+                "2004 – 2007",
+                "Activities and Societies:",
+                "American Medical Student Association (AMSA)"
+            ],
+            [
+                "Georgia Southern University",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Biology & Biochemistry",
+                "Activities and Societies:",
+                "Research Assistant @ Iwashima Lab, Medical College of Georgia, Research Assistant - Durden Lab, Georgia Southern University, Beta Beta Beta - National Biological Honor Society"
+            ],
+            [
+                "Georgia Southern University",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Biology & Biochemistry",
+                "Activities and Societies:",
+                "Research Assistant @ Iwashima Lab, Medical College of Georgia, Research Assistant - Durden Lab, Georgia Southern University, Beta Beta Beta - National Biological Honor Society"
+            ],
+            [
+                "Benedict College",
+                "Degree Name",
+                "Bachelor of Science (B.S.)",
+                "Field Of Study",
+                "Computer Science & Applied Physics",
+                "Activities and Societies:",
+                "Institute of Electrical and Electronics Engineers (IEEE) - Student Member, Association for Computing Machinery (ACM) - Student Member"
+            ],
+            [
+                "Benedict College",
+                "Degree Name",
+                "Bachelor of Science (B.S.)",
+                "Field Of Study",
+                "Computer Science & Applied Physics",
+                "Activities and Societies:",
+                "Institute of Electrical and Electronics Engineers (IEEE) - Student Member, Association for Computing Machinery (ACM) - Student Member"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See 32 more skills"
+            ],
+            "Recommendations",
+            [
+                "Guy KawasakiGuy Kawasaki is a LinkedIn Influencer",
+                "Chief evangelist + keynote speaker",
+                "2,645,949 followers"
+            ],
+            [
+                "Computing and Mental Health",
+                "167 members"
+            ],
+            [
+                "Humanity X",
+                "35 followers"
+            ],
+            [
+                "Georgia Southern University",
+                "70,115 followers"
+            ],
+            [
+                "Arizona SQL Server Users Group (AZSSUG)",
+                "84 members"
+            ],
+            [
+                "Phoenix Tableau User Group",
+                "375 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (285)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Guy KawasakiGuy Kawasaki is a LinkedIn Influencer",
+                "Chief evangelist + keynote speaker",
+                "2,645,949 followers"
+            ],
+            [
+                "Guy KawasakiGuy Kawasaki is a LinkedIn Influencer",
+                "Chief evangelist + keynote speaker",
+                "2,645,949 followers"
+            ],
+            [
+                "Guy Kawasaki is a LinkedIn Influencer"
+            ],
+            [
+                "Computing and Mental Health",
+                "167 members"
+            ],
+            [
+                "Computing and Mental Health",
+                "167 members"
+            ],
+            [
+                "Humanity X",
+                "35 followers"
+            ],
+            [
+                "Humanity X",
+                "35 followers"
+            ],
+            [
+                "Georgia Southern University",
+                "70,115 followers"
+            ],
+            [
+                "Georgia Southern University",
+                "70,115 followers"
+            ],
+            [
+                "Arizona SQL Server Users Group (AZSSUG)",
+                "84 members"
+            ],
+            [
+                "Arizona SQL Server Users Group (AZSSUG)",
+                "84 members"
+            ],
+            [
+                "Phoenix Tableau User Group",
+                "375 members"
+            ],
+            [
+                "Phoenix Tableau User Group",
+                "375 members"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Python",
+                "See 21 endorsements for Python",
+                "21",
+                "Python",
+                "Endorse",
+                "Endorsed by Michael Capizzi and 2 other mutual connections"
+            ],
+            [
+                "Python",
+                "See 21 endorsements for Python",
+                "21"
+            ],
+            [
+                "Machine Learning",
+                "See 7 endorsements for Machine Learning",
+                "7",
+                "Machine Learning",
+                "Endorse",
+                "Endorsed by Michael Capizzi and 2 other mutual connections"
+            ],
+            [
+                "Machine Learning",
+                "See 7 endorsements for Machine Learning",
+                "7"
+            ],
+            [
+                "R",
+                "See 11 endorsements for R",
+                "11",
+                "R",
+                "Endorse",
+                "Endorsed by Anebi Agbo and 1 other mutual connection"
+            ],
+            [
+                "R",
+                "See 11 endorsements for R",
+                "11"
+            ]
+        ],
+        "summary": "    Data mining, Python, R, SQL, Healthcare data.Analytic tools: Python (pandas, NumPy), R, SAS, MS ExcelDatabases: SQL Server, Oracle, MySQL, SQLite3, MS AccessLanguages: Python, SQL, R, Scala, Javascript, Java, C, C++, Pascal, FortranOperating Systems: Linux (Ubuntu, Fedora, RHEL), UNIX (HP-UX, BSD), Mac OS XMapping tools: ArcGIS, QGISI have a broad multi-disciplinary background in software development (7+ yrs), medicine, statistics and epidemiology  My passion is data analytics.  I love to create tools that help explain complex health data and tease out valuable insights that can be used in disease prevention and control.\n  \n  \n",
+        "name": "Ram Polur",
+        "title": "Analytics Consultant",
+        "url": "linkedin.com/in/rpolur",
+        "phone": "",
+        "email": "rpolur@yahoo.com"
+    }
+]

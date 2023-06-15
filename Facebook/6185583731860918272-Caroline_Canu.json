@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6185583731860918272/",
+    "participants": [
+        {
+            "name": "Caroline Canu",
+            "title": "HR Business Partner - Global Operations at Dell EMC",
+            "url": "linkedin.com/in/carolinecanu",
+            "phone": null,
+            "email": "caroline_canu@dell.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Caroline Canu",
+            "message": "Exciting Perm C#/Active Directory Developer Opportunity in Phoenix, AZ\njobs.dell.com",
+            "time": "2013-05-15T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Hey, I am looking for new opportunities, how are things going for you?",
+            "time": "2017-10-05T23:01:00.000Z"
+        }
+    ]
+}

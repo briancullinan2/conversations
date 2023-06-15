@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6214113723121045504/",
+    "participants": [
+        {
+            "name": "Lea Black",
+            "title": "Philanthropist / Entrepreneur / Author /   Television Personality at Lea Black Enterprises",
+            "url": "linkedin.com/in/lea-black-0b3200121",
+            "phone": "",
+            "email": "hello@leablack.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-12-12T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I got this interview question recently. How do you keep up with all the technology?",
+            "time": "2017-10-21T20:39:00.000Z"
+        }
+    ]
+}

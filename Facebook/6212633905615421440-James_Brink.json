@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6212633905615421440/",
+    "participants": [
+        {
+            "name": "James Brink",
+            "title": "DevOps Engineer",
+            "url": "linkedin.com/in/brinkjames",
+            "phone": "602-341-3058 (Mobile)",
+            "email": "brink.james@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-08T14:29:00.000Z"
+        }
+    ]
+}

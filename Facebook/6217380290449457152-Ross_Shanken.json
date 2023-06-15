@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6217380290449457152/",
+    "participants": [
+        {
+            "name": "Ross Shanken",
+            "title": "Head of Strategic Accounts at Smarking (YC W15) | 35 Under 35 |",
+            "url": "linkedin.com/in/ross-shanken-70738829",
+            "phone": null,
+            "email": "rossjshanken@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-21T16:49:00.000Z"
+        },
+        {
+            "from": "Ross Shanken",
+            "message": "Of course!\n",
+            "time": "2017-12-21T16:51:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I am glad you are mentoring at ASU. This world needs more enablers.\n",
+            "time": "2017-12-21T16:52:00.000Z"
+        }
+    ]
+}

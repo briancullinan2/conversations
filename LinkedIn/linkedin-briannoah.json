@@ -1,0 +1,564 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "2 Mutual Connections",
+                "You and Brian both know Dolph Augustus and Taylor Nieman"
+            ],
+            [
+                "A lack of time is just incentive to be more efficient with the time you do have.",
+                "Brian commented"
+            ],
+            [
+                "At AWS re:invent this week.",
+                "Brian commented"
+            ],
+            [
+                "Episode 018 - A Voice First Future with Brian Roemmele",
+                "Brian commented"
+            ],
+            [
+                "With the Thanksgiving holiday around the corner, I want to share a few thankful thoughts:",
+                "- I am thankful for my family and friends.",
+                "- I enjoy my work and my team.",
+                "- I am thankful for the connections I have made here on Linkedin and the support many of you have given me.",
+                "Best wishes and Happy Thanksgiving!",
+                "Brian liked"
+            ],
+            [
+                "AWS Certified SysOps Administrator - Associate",
+                "Brian liked"
+            ],
+            [
+                "While I was waiting for my INTERVIEW in a reception area, a pizza delivery man, a young guy, dressed in a T-shirt and jeans carried a heavy pack of pizza boxes and water bottles.",
+                "He struggled with the door, I jumped up, but before I could help him, a receptionist let him through.",
+                "5 mins later I am sitting in the interview conference room, the pizza delivery man walks in.",
+                "He extends his hand for a handshake and says",
+                "\"I am Greg Tagaris, Chief Information Officer of DoubleClick. Sorry I am a little late, I was taking food to my guys. They are working without lunch because we have technical problems.",
+                "I saw you trying to help me, thanks\".",
+                "He offered me a job right at the end of the interview, and I accepted, without negotiation.",
+                "You can tell a good boss very quickly by how they treat other people. Greg was one of many good bosses I had a good fortune to work for.",
+                "Do you agree ?",
+                "-- latest shocker: https://lnkd.in/egm5zVD",
+                "Brian liked"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Lead Software Engineer",
+                "Company Name",
+                "EXACTUALS LLC",
+                "Dates Employed",
+                "Mar 2015 – Present",
+                "Employment Duration",
+                "2 yrs 10 mos",
+                "Location",
+                "Westwood, CA",
+                "My goals at Exactuals:1. Create a robust front-end and middle tier that is flexible, resilient, scalable, and fast.2. Serve the needs  of internal operations of the company. From facilitating the processing of payments, managing our platform users, to onboarding our clients. My goal is to to build tools that make that simple and easy.3. Grow and gain experience in leadership and enterprise software.4. Create new products with tried and true, yet innovative technologies and methods.How I am accomplishing my goals:Move all client assets to Cloudfront in a distributed decentralized manner(node, grunt, AWS, REDIS)I served as Scrum Master for the PaymentHub engineering team for the first year of our venture into Agile with Scrum.Design, architecture, and delivery of Internal Operations dashboard web application(AngularJS, node.js, MySQL, AWS, Redis).Design, architecture, and delivery of PaymentHub web application from the ground up(AngularJS, node.js), See consultant work on previous work experience. Successfully handed application off to PaymentHub team and front-end developers to add new features.Architecture and integration of AngularJS based extension system for PaymentHub(AngularJS) for rapid prototyping or single focus micro-applications outside of the SDLC.Work with design and front-end to implement new features into PaymentHub(AngularJS, Grunt, node.js, Jenkins, AWS).Created unified search API that takes advantage of advanced SQL capabilities. (node.js, Aurora/MYSQL, AWS) Incorporated Query Object architectural pattern with an ORM on the server side.Architectural planning and implementation of AWS Lambda logging streams for high volume data(Lambda, node.js, S3, datapipeline, redshift).Implement test driven development for front-end applications(Mocha, Protractor, Karma, Istanbul, Grunt)Architecture and design of dynamic analytics/dashboards system(angular, fractional, google charts)Proof of Concept & implementing of internal BI tools."
+            ],
+            [
+                "Co-founder",
+                "Company Name",
+                "Wolfram Creative",
+                "Dates Employed",
+                "Jan 2012 – Present",
+                "Employment Duration",
+                "6 yrs",
+                "Software and web application prototype creation.Consultations on SDLC and application architecture."
+            ],
+            [
+                "Enterprise Architecture Consultant",
+                "Company Name",
+                "EXACTUALS LLC",
+                "Dates Employed",
+                "Sep 2014 – Mar 2015",
+                "Employment Duration",
+                "7 mos",
+                "Design architecture for PaymentHub web application. (Node, AngularJS, Grunt)Build out base application for PaymentHub web application. Created bootstrap version for new projects to be easily spooled up.Implement Unit tests for application with baseline 95% coverage(AngularJS, Karma)Implement Functional tests for application(AngularJS , Protractor)Introduce technology to development team and train front-end developers on best practices.I was offered a full time position shortly after starting this contract, but I was happy with the position I held at another company, so I held off until March of the following year, and then took a full time position as a partner at Exactuals."
+            ],
+            [
+                "Senior Software Engineer",
+                "Company Name",
+                "Monarc Gaming Labs",
+                "Dates Employed",
+                "Apr 2014 – Mar 2015",
+                "Employment Duration",
+                "1 yr",
+                "Location",
+                "Santa Monica, Ca",
+                "Full stack Node.js/Angular architecture and engineering.Architect and engineer push notification queue system to scale using AWS's SNS service.Architect and engineer caching system for expensive api calls using Redis. Exponential performance improvement when blocking functions are involved.Architect and engineer Mongo change/migration management tool. Create interface in AngularJS.Architect and engineer version 1 of AngularJS based CRM.Architect internal tools in AngularJS. Rebuilt CMS functionality with web app functionality.Architect internal API and auth for internal tools. Architect and engineer MongoDB history for analytics using AWS RedShift."
+            ],
+            [
+                "Sr. Front End Developer",
+                "Company Name",
+                "J.Hilburn",
+                "Dates Employed",
+                "Oct 2013 – Mar 2014",
+                "Employment Duration",
+                "6 mos",
+                "Location",
+                "Santa Monica, Ca",
+                "Develop front-facing applications and website.Work with designers to create user interface."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Bodenseehof",
+                "Dates attended or expected graduation",
+                "2001 – 2002"
+            ],
+            [
+                "Bodenseehof",
+                "Dates attended or expected graduation",
+                "2001 – 2002"
+            ],
+            [
+                "Mountain View High School",
+                "Degree Name",
+                "Diploma",
+                "Field Of Study",
+                "Mathematics, Spanish",
+                "Dates attended or expected graduation",
+                "1997 – 2001"
+            ],
+            [
+                "Mountain View High School",
+                "Degree Name",
+                "Diploma",
+                "Field Of Study",
+                "Mathematics, Spanish",
+                "Dates attended or expected graduation",
+                "1997 – 2001"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Worship Leader",
+                "Company Name",
+                "West Hills Church",
+                "Dates volunteered",
+                "Jan 2007 – Jun 2011",
+                "Volunteer duration",
+                "4 yrs 6 mos",
+                "Help lead Veritas ministries"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See 16 more skills"
+            ],
+            "Recommendations",
+            [
+                "Monarc Gaming Labs",
+                "1,701 followers"
+            ],
+            [
+                "CitizenNet, A Condé Nast Company",
+                "1,157 followers"
+            ],
+            [
+                "Photography Professionals",
+                "28,542 members"
+            ],
+            [
+                "J.Hilburn",
+                "6,841 followers"
+            ],
+            [
+                "Gary VaynerchukGary Vaynerchuk is a LinkedIn Influencer",
+                "Chairman of VaynerX, CEO of VaynerMedia, 4-Time NYT Bestselling Author",
+                "1,452,206 followers"
+            ],
+            [
+                "Front End Developers",
+                "49,044 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Monarc Gaming Labs",
+                "1,701 followers"
+            ],
+            [
+                "Monarc Gaming Labs",
+                "1,701 followers"
+            ],
+            [
+                "CitizenNet, A Condé Nast Company",
+                "1,157 followers"
+            ],
+            [
+                "CitizenNet, A Condé Nast Company",
+                "1,157 followers"
+            ],
+            [
+                "Photography Professionals",
+                "28,542 members"
+            ],
+            [
+                "Photography Professionals",
+                "28,542 members"
+            ],
+            [
+                "J.Hilburn",
+                "6,841 followers"
+            ],
+            [
+                "J.Hilburn",
+                "6,841 followers"
+            ],
+            [
+                "Gary VaynerchukGary Vaynerchuk is a LinkedIn Influencer",
+                "Chairman of VaynerX, CEO of VaynerMedia, 4-Time NYT Bestselling Author",
+                "1,452,206 followers"
+            ],
+            [
+                "Gary VaynerchukGary Vaynerchuk is a LinkedIn Influencer",
+                "Chairman of VaynerX, CEO of VaynerMedia, 4-Time NYT Bestselling Author",
+                "1,452,206 followers"
+            ],
+            [
+                "Gary Vaynerchuk is a LinkedIn Influencer"
+            ],
+            [
+                "Front End Developers",
+                "49,044 members"
+            ],
+            [
+                "Front End Developers",
+                "49,044 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Gil Yaary",
+                "Sr Engineer - Architect at Mojix",
+                "September 25, 2017, Brian worked with Gil in the same group",
+                "I had a great time working with Brian in Exactuals.  He is combines great analytical ability and experience with ingenuity and creativity. We had great conversations about technology and I always found his presence to be friendly and calm. Overall I see him as a great asset to any team as he brings to the table a unique combination of personality, technical ability and innovation."
+            ],
+            [
+                "Gil Yaary",
+                "Sr Engineer - Architect at Mojix",
+                "September 25, 2017, Brian worked with Gil in the same group"
+            ],
+            [
+                "Gil Yaary",
+                "Sr Engineer - Architect at Mojix",
+                "September 25, 2017, Brian worked with Gil in the same group"
+            ],
+            [
+                "Gil Yaary",
+                "Sr Engineer - Architect at Mojix",
+                "September 25, 2017, Brian worked with Gil in the same group"
+            ],
+            "Sr Engineer - Architect at Mojix",
+            [
+                "I had a great time working with Brian in Exactuals.  He is combines great analytical ability and experience with ingenuity and creativity. We had great conversations about technology and I always found his presence to be friendly and calm. Overall I see him as a great asset to any team as he brings to the table a unique combination of personality, technical ability and innovation."
+            ],
+            [
+                "I had a great time working with Brian in Exactuals.  He is combines great analytical ability and experience with ingenuity and creativity. We had great conversations about technology and I always found his presence to be friendly and calm. Overall I see him as a great asset to any team as he brings to the table a unique combination of personality, technical ability and innovation."
+            ],
+            [
+                "Olu Akomolafe",
+                "Business Intelligence  & Analytics Executive",
+                "March 20, 2015, Olu was senior to Brian but didn’t manage directly",
+                "Brian is a very talented engineer with an analytical mindset. He played an integral role in the development of our AB Testing platform and the architecture and engineering of the infrastructure to support analytics on Amazon Redshift. His in-depth technical knowledge and understanding of analytics sets him apart, and is the reason he was able to design the data infrastructure to support our business intelligence needs. I hope to work with him again in the future."
+            ],
+            [
+                "Olu Akomolafe",
+                "Business Intelligence  & Analytics Executive",
+                "March 20, 2015, Olu was senior to Brian but didn’t manage directly"
+            ],
+            [
+                "Olu Akomolafe",
+                "Business Intelligence  & Analytics Executive",
+                "March 20, 2015, Olu was senior to Brian but didn’t manage directly"
+            ],
+            [
+                "Olu Akomolafe",
+                "Business Intelligence  & Analytics Executive",
+                "March 20, 2015, Olu was senior to Brian but didn’t manage directly"
+            ],
+            "Business Intelligence  & Analytics Executive",
+            [
+                "Brian is a very talented engineer with an analytical mindset. He played an integral role in the development of our AB Testing platform and the architecture and engineering of the infrastructure to support analytics on Amazon Redshift. His in-depth technical knowledge and understanding of analytics sets him apart, and is the reason he was able to design the data infrastructure to support our business intelligence needs. I hope to work with him again in the future."
+            ],
+            [
+                "Brian is a very talented engineer with an analytical mindset. He played an integral role in the development of our AB Testing platform and the architecture and engineering of the infrastructure to support analytics on Amazon Redshift. His in-depth technical knowledge and understanding of analytics sets him apart, and is the reason he was able to design the data infrastructure to support our business intelligence needs. I hope to work with him again in the future."
+            ],
+            [
+                "Harrison Readinger",
+                "Highly Technical QA Professional",
+                "March 18, 2015, Harrison worked with Brian in different groups",
+                "Brian is an excellent engineer who works well with both QA and his own engineering peers.  He treats everyone in the office with respect.  He is also focused on producing quality code and willing to work until the job is done."
+            ],
+            [
+                "Harrison Readinger",
+                "Highly Technical QA Professional",
+                "March 18, 2015, Harrison worked with Brian in different groups"
+            ],
+            [
+                "Harrison Readinger",
+                "Highly Technical QA Professional",
+                "March 18, 2015, Harrison worked with Brian in different groups"
+            ],
+            [
+                "Harrison Readinger",
+                "Highly Technical QA Professional",
+                "March 18, 2015, Harrison worked with Brian in different groups"
+            ],
+            "Highly Technical QA Professional",
+            [
+                "Brian is an excellent engineer who works well with both QA and his own engineering peers.  He treats everyone in the office with respect.  He is also focused on producing quality code and willing to work until the job is done."
+            ],
+            [
+                "Brian is an excellent engineer who works well with both QA and his own engineering peers.  He treats everyone in the office with respect.  He is also focused on producing quality code and willing to work until the job is done."
+            ],
+            [
+                "Matthew Palmer",
+                "Game System Design & Product Management",
+                "March 16, 2015, Matthew was senior to Brian but didn’t manage directly",
+                "Brian's full stack knowledge allowed him to create very useful CMS tools for the Design team, as well as create many of the other systems that allowed our Marketing and Monetization team to easily communicate with our player.  He was a pleasure to work with."
+            ],
+            [
+                "Matthew Palmer",
+                "Game System Design & Product Management",
+                "March 16, 2015, Matthew was senior to Brian but didn’t manage directly"
+            ],
+            [
+                "Matthew Palmer",
+                "Game System Design & Product Management",
+                "March 16, 2015, Matthew was senior to Brian but didn’t manage directly"
+            ],
+            [
+                "Matthew Palmer",
+                "Game System Design & Product Management",
+                "March 16, 2015, Matthew was senior to Brian but didn’t manage directly"
+            ],
+            "Game System Design & Product Management",
+            [
+                "Brian's full stack knowledge allowed him to create very useful CMS tools for the Design team, as well as create many of the other systems that allowed our Marketing and Monetization team to easily communicate with our player.  He was a pleasure to work with."
+            ],
+            [
+                "Brian's full stack knowledge allowed him to create very useful CMS tools for the Design team, as well as create many of the other systems that allowed our Marketing and Monetization team to easily communicate with our player.  He was a pleasure to work with."
+            ],
+            [
+                "Steven White",
+                "QA Manager at Epic Games",
+                "March 13, 2015, Steven was senior to Brian but didn’t manage directly",
+                "Brian is a great engineer with astounding vision for the future of a product. His understanding of the product and the tech behind it makes getting a task written, developed and through QA a breeze. He's a very knowledgeable engineer and I personally learned a lot working with him.    If the opportunity to work with Brain again in the future presented itself, I would not hesitate."
+            ],
+            [
+                "Steven White",
+                "QA Manager at Epic Games",
+                "March 13, 2015, Steven was senior to Brian but didn’t manage directly"
+            ],
+            [
+                "Steven White",
+                "QA Manager at Epic Games",
+                "March 13, 2015, Steven was senior to Brian but didn’t manage directly"
+            ],
+            [
+                "Steven White",
+                "QA Manager at Epic Games",
+                "March 13, 2015, Steven was senior to Brian but didn’t manage directly"
+            ],
+            "QA Manager at Epic Games",
+            [
+                "Brian is a great engineer with astounding vision for the future of a product. His understanding of the product and the tech behind it makes getting a task written, developed and through QA a breeze. He's a very knowledgeable engineer and I personally learned a lot working with him.    If the opportunity to work with Brain again in the future presented itself, I would not hesitate."
+            ],
+            [
+                "Brian is a great engineer with astounding vision for the future of a product. His understanding of the product and the tech behind it makes getting a task written, developed and through QA a breeze. He's a very knowledgeable engineer and I personally learned a lot working with him.    If the opportunity to work with Brain again in the future presented itself, I would not hesitate."
+            ],
+            [
+                "Oumar Wone",
+                "Principal Software Engineer",
+                "March 31, 2014, Brian worked with Oumar in the same group",
+                "Brian is an experienced and highly productive front-end developer. He has a versatile toolbox that he uses to get the job done. In addition, he is forward thinking and always looking into new technologies."
+            ],
+            [
+                "Oumar Wone",
+                "Principal Software Engineer",
+                "March 31, 2014, Brian worked with Oumar in the same group"
+            ],
+            [
+                "Oumar Wone",
+                "Principal Software Engineer",
+                "March 31, 2014, Brian worked with Oumar in the same group"
+            ],
+            [
+                "Oumar Wone",
+                "Principal Software Engineer",
+                "March 31, 2014, Brian worked with Oumar in the same group"
+            ],
+            "Principal Software Engineer",
+            [
+                "Brian is an experienced and highly productive front-end developer. He has a versatile toolbox that he uses to get the job done. In addition, he is forward thinking and always looking into new technologies."
+            ],
+            [
+                "Brian is an experienced and highly productive front-end developer. He has a versatile toolbox that he uses to get the job done. In addition, he is forward thinking and always looking into new technologies."
+            ],
+            [
+                "Claudio Baptista",
+                "Senior Manager, User Experience at The Walt Disney Studios",
+                "March 27, 2014, Brian worked with Claudio in the same group",
+                "Brian was one of the most dedicated professionals I had the privilege of working with. He is not only an eager and hardworking front-end developer but also an inspiring team player. His skills in responsive design and Angular JS are mind-boggling. Brian understands complex matters even when outside of his direct area of expertise. His wide background and proficiency and intelligence makes him really valuable asset to the team. I really enjoyed working with him and I can highly recommend Brian to any company"
+            ],
+            [
+                "Claudio Baptista",
+                "Senior Manager, User Experience at The Walt Disney Studios",
+                "March 27, 2014, Brian worked with Claudio in the same group"
+            ],
+            [
+                "Claudio Baptista",
+                "Senior Manager, User Experience at The Walt Disney Studios",
+                "March 27, 2014, Brian worked with Claudio in the same group"
+            ],
+            [
+                "Claudio Baptista",
+                "Senior Manager, User Experience at The Walt Disney Studios",
+                "March 27, 2014, Brian worked with Claudio in the same group"
+            ],
+            "Senior Manager, User Experience at The Walt Disney Studios",
+            [
+                "Brian was one of the most dedicated professionals I had the privilege of working with. He is not only an eager and hardworking front-end developer but also an inspiring team player. His skills in responsive design and Angular JS are mind-boggling. Brian understands complex matters even when outside of his direct area of expertise. His wide background and proficiency and intelligence makes him really valuable asset to the team. I really enjoyed working with him and I can highly recommend Brian to any company"
+            ],
+            [
+                "Brian was one of the most dedicated professionals I had the privilege of working with. He is not only an eager and hardworking front-end developer but also an inspiring team player. His skills in responsive design and Angular JS are mind-boggling. Brian understands complex matters even when outside of his direct area of expertise. His wide background and proficiency and intelligence makes him really valuable asset to the team. I really enjoyed working with him and I can highly recommend Brian to any company"
+            ],
+            [
+                "Steven White",
+                "QA Manager at Epic Games",
+                "March 13, 2015, Steven was senior to Brian but didn’t manage directly",
+                "In the past year of working with Steve, I have watched him grow in his role and take initiative to make the changes necessary in order to ensure a viable product. His knowledge base is vast. His ability to implement the needed management techniques is impressive.Every time I would bring up an issue, he would already know the issue, and have a solution. If I would point out a potential deployment pattern, he was already aware of the pattern, along with the pros and cons.Steve is always available to talk, and ready to address concerns and then take action. I would be happy to work with him again."
+            ],
+            [
+                "Steven White",
+                "QA Manager at Epic Games",
+                "March 13, 2015, Steven was senior to Brian but didn’t manage directly"
+            ],
+            [
+                "Steven White",
+                "QA Manager at Epic Games",
+                "March 13, 2015, Steven was senior to Brian but didn’t manage directly"
+            ],
+            [
+                "Steven White",
+                "QA Manager at Epic Games",
+                "March 13, 2015, Steven was senior to Brian but didn’t manage directly"
+            ],
+            "QA Manager at Epic Games",
+            [
+                "In the past year of working with Steve, I have watched him grow in his role and take initiative to make the changes necessary in order to ensure a viable product. His knowledge base is vast. His ability to implement the needed management techniques is impressive.Every time I would bring up an issue, he would already know the issue, and have a solution. If I would point out a potential deployment pattern, he was already aware of the pattern, along with the pros and cons.Steve is always available to talk, and ready to address concerns and then take action. I would be happy to work with him again."
+            ],
+            [
+                "In the past year of working with Steve, I have watched him grow in his role and take initiative to make the changes necessary in order to ensure a viable product. His knowledge base is vast. His ability to implement the needed management techniques is impressive.Every time I would bring up an issue, he would already know the issue, and have a solution. If I would point out a potential deployment pattern, he was already aware of the pattern, along with the pros and cons.Steve is always available to talk, and ready to address concerns and then take action. I would be happy to work with him again."
+            ],
+            [
+                "Arianna Williams",
+                "Account Executive at Box",
+                "January 22, 2015, Brian worked with Arianna but at different companies",
+                "Working with Arianna has really been a great experience.She worked with me to find the perfect position for my expertise, and helped guide me through the process of choosing between multiple offers.I would gladly work with her again."
+            ],
+            [
+                "Arianna Williams",
+                "Account Executive at Box",
+                "January 22, 2015, Brian worked with Arianna but at different companies"
+            ],
+            [
+                "Arianna Williams",
+                "Account Executive at Box",
+                "January 22, 2015, Brian worked with Arianna but at different companies"
+            ],
+            [
+                "Arianna Williams",
+                "Account Executive at Box",
+                "January 22, 2015, Brian worked with Arianna but at different companies"
+            ],
+            "Account Executive at Box",
+            [
+                "Working with Arianna has really been a great experience.She worked with me to find the perfect position for my expertise, and helped guide me through the process of choosing between multiple offers.I would gladly work with her again."
+            ],
+            [
+                "Working with Arianna has really been a great experience.She worked with me to find the perfect position for my expertise, and helped guide me through the process of choosing between multiple offers.I would gladly work with her again."
+            ]
+        ],
+        "skills": [
+            [
+                "Web Development",
+                "See 48 endorsements for Web Development",
+                "48",
+                "Web Development",
+                "Endorse",
+                "Endorsed by Matt Alling and 3 others who are highly skilled at this",
+                "Endorsed by 3 of Brian’s colleagues at Monarc Gaming Labs"
+            ],
+            [
+                "Web Development",
+                "See 48 endorsements for Web Development",
+                "48"
+            ],
+            [
+                "MongoDB",
+                "See 17 endorsements for MongoDB",
+                "17",
+                "MongoDB",
+                "Endorse",
+                "Endorsed by Alex Gamezo and 2 others who are highly skilled at this",
+                "Endorsed by 2 of Brian’s colleagues at Monarc Gaming Labs"
+            ],
+            [
+                "MongoDB",
+                "See 17 endorsements for MongoDB",
+                "17"
+            ],
+            [
+                "Node.js",
+                "See 10 endorsements for Node.js",
+                "10",
+                "Node.js",
+                "Endorse",
+                "Endorsed by Monu kumar, who is highly skilled at this",
+                "Endorsed by 3 of Brian’s colleagues at eGood"
+            ],
+            [
+                "Node.js",
+                "See 10 endorsements for Node.js",
+                "10"
+            ]
+        ],
+        "summary": "    I have a passion for clean, efficient systems, and a drive to make things that work well for the end user. The idea of putting years of work into a product that doesn't even work properly, that is riddled with technical debt, disparate technologies, and overly complex systems, drives me absolutely crazy; yet this is the norm. The solution is actually pretty simple. Hiring the right person at the start of the business. The choice of a technical founder can make all the difference in the world. My background as a photographer, musician, mechanic, small business owner, and software architect, along with my experience in leadership starting from my early teens, gives me a very distinct perspective when it comes to what I bring to the table. I envision software systems in a unique way. I'm open to new technologies, but generally only when they have been proven as viable in the real world. I hold a belief in lean and agile methodologies, which has consistently lead me to the creation of working(sellable) software within a month of starting development. \n  \n  \n",
+        "name": "Brian Noah",
+        "title": "Software Development Strategy",
+        "url": "linkedin.com/in/briannoah",
+        "phone": "8184395727 (Home)",
+        "email": "brianjoshuanoah@gmail.com"
+    }
+]

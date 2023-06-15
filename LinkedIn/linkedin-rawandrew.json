@@ -1,0 +1,856 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "48 Mutual Connections",
+                "You and Andrei both know Ed Nusbaum, James Cossler, and 46 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Lead Software Engineer & Junior Dev Trainer",
+                "Company Name",
+                "Nimonik",
+                "Dates Employed",
+                "Sep 2016 – Present",
+                "Employment Duration",
+                "1 yr 3 mos",
+                "Location",
+                "Remote",
+                "Remote lead software engineer at Nimonik, a Canadian company that specializes in EHS software for fortune 2000 companies (and not only them).The major parts I've worked on include: - Finished in 6 months a project that a fortune 500 company tried and failed to do with an investment of $1.000.000 and two years of work (they are now one of our clients because of this).- Brought to completion a MVP project that generated close to $1.000.000 in new business for the company in the first year with a projected value of at least $3.000.000 over the next two years.- Used good design patterns to separate the business logic from the Rails framework, thus providing increased development speed as new features appeared while enjoying fast and easy to setup tests.- Applied TDD to uncover the best development direction of new features and to make sure all new features were tested properly from the start which in turn made it very easy to refactor the code as the correct path became clearer. - Used ReactJS where necessary to create an enjoyable user interface for working and manipulating legislations (plus each component has its own tests).- Setup a streamlined process for extracting various level headers from legislation sections and assigning the correct legislation sections to each header depending on its level.- Conducted one-on-one training sessions with junior developers to increase their skill level with good results: my oldest junior devs are now solid intermediate to senior developers who need much less hand holding and make good design decisions all on their own.- Created a semi-automatic and automatic legislation text comparison process that leverages fuzzy logic algorithms to reduce the amount of work the content team needs to do to provide legislation text updates (the process also copies over all the relevant user generated data from the old text to the new legislation text)."
+            ],
+            [
+                "Senior Software Engineer",
+                "Company Name",
+                "Nimonik",
+                "Dates Employed",
+                "Mar 2016 – Sep 2016",
+                "Employment Duration",
+                "7 mos",
+                "Location",
+                "Remote",
+                "- Worked on a 7 year old legacy Ruby on Rails app providing bug fixes and implementing new features while reducing code complexity.- Successfully spearheaded the development of a MVP of a legislation management tool which was attempted twice inside the company without good results.- Implemented a web scraper which uses fuzzy logic to grab only the legislation text from a web page without any of the irrelevant content like the page navigation, header or footer.- Made a plain text legislation parser which breaks a legislation into its individual articles for easier manipulation and work with new legislation texts.- Created several CSV data exports which provided more flexibility to our clients and to our content team.- Created an user friendly UI for working with the data provided by a separate service making it very easy for the content team to do more in less time while opening up new business opportunities for the company.- Worked closely with the legal content team to come up with the best solutions that will help them speed up their manual work process."
+            ],
+            [
+                "Senior Software Engineer",
+                "Company Name",
+                "ATOSS Software AG",
+                "Dates Employed",
+                "Aug 2015 – Mar 2016",
+                "Employment Duration",
+                "8 mos",
+                "Location",
+                "Remote",
+                "Remote software enfineer at Atoss Software AG, a German company that specializes in workforce management software solutions. My day to day duties are the development of new features that integrate seamlessly with the existing code base.The major parts I've worked on include:- Implemented a new RESTful API and made it to 100% adhere to the JSON API specifications for easier integration with the new Ember driven front-end app.- Integrated the authorization solution with the new API in such a way that it takes just a line of code to setup a new resource with all the authorization rules that apply to it.- Created a comprehensive testing suite for the new API to make sure that it behaves as desired while at the same time offering easy to understand documentation for all the other developers.- Setup custom reports for our users, reports that can also be downloaded straight into Excel format that contains pretty data formating and custom formulas.- Designed a solution that decoupled our back-end from the front-end, and got it done in just over one month.- Implemented a schedule for gradually decoupling the business logic from the frameworks we are using and provided sample code so the other developers can do the same.- Participated in a week-long team brainstorming session in Munich during which I provided actionable and fast impact solutions for offering more value to our customers while empowering all developers to be more agile. (It also lead to a 30% increase in new customer acquisition)"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "ATOSS Software AG",
+                "Dates Employed",
+                "Apr 2015 – Aug 2015",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "Remote",
+                "- Cleaned up the existing test code base and made sure that all the business use cases were covered well.- Refactored existing business logic to make it more clear what is going on and what is the algorithm behind the use case.- Implemented several new features that were launched successfully without any problems while being greatly appreciated by the customers.- Recommended and implemented UI improvements that increased our customer acquisition and retention rate.- Worked with the marketing department and improved the number of monthly website visitors."
+            ],
+            [
+                "Business Development Manager",
+                "Company Name",
+                "Brian Tracy International",
+                "Dates Employed",
+                "Sep 2014 – Feb 2015",
+                "Employment Duration",
+                "6 mos",
+                "Location",
+                "Remote",
+                "- Structured and organized the ascension path towards one-on-one coaching of the existing Brian Tracy customers from Europe, Asia, Africa, Australia and South America.- Kept all the coaches busy doing coaching by filling up their daily schedule with primed leads.- Developed and implemented a technological solution for finding the primed customers for personalized coaching which lead to a 80% increase in coaching appointments."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Universitatea „Alexandru Ioan Cuza” din Iași",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2004 – 2008"
+            ],
+            [
+                "Universitatea „Alexandru Ioan Cuza” din Iași",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2004 – 2008"
+            ],
+            [
+                "Universitatea „Alexandru Ioan Cuza” din Iași",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Law",
+                "Dates attended or expected graduation",
+                "2004 – 2008"
+            ],
+            [
+                "Universitatea „Alexandru Ioan Cuza” din Iași",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Law",
+                "Dates attended or expected graduation",
+                "2004 – 2008"
+            ],
+            [
+                "Colegiul National Iasi",
+                "Degree Name",
+                "Associate Degree in Computer Science",
+                "Field Of Study",
+                "Mathematics and Computer Science",
+                "Dates attended or expected graduation",
+                "2000 – 2004"
+            ],
+            [
+                "Colegiul National Iasi",
+                "Degree Name",
+                "Associate Degree in Computer Science",
+                "Field Of Study",
+                "Mathematics and Computer Science",
+                "Dates attended or expected graduation",
+                "2000 – 2004"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Trainer",
+                "Company Name",
+                "ELSA",
+                "Cause",
+                "Economic Empowerment"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Business Insider",
+                "3,348,435 followers"
+            ],
+            [
+                "Ruby on Rails (ROR)",
+                "10,155 members"
+            ],
+            [
+                "Nimonik",
+                "405 followers"
+            ],
+            [
+                "Business on Rails",
+                "12,780 members"
+            ],
+            [
+                "Universitatea „Alexandru Ioan Cuza” din Iași",
+                "29,028 followers"
+            ],
+            [
+                "Universitatea „Alexandru Ioan Cuza” din Iași",
+                "25,491 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Business Insider",
+                "3,348,435 followers"
+            ],
+            [
+                "Business Insider",
+                "3,348,435 followers"
+            ],
+            [
+                "Ruby on Rails (ROR)",
+                "10,155 members"
+            ],
+            [
+                "Ruby on Rails (ROR)",
+                "10,155 members"
+            ],
+            [
+                "Nimonik",
+                "405 followers"
+            ],
+            [
+                "Nimonik",
+                "405 followers"
+            ],
+            [
+                "Business on Rails",
+                "12,780 members"
+            ],
+            [
+                "Business on Rails",
+                "12,780 members"
+            ],
+            [
+                "Universitatea „Alexandru Ioan Cuza” din Iași",
+                "29,028 followers"
+            ],
+            [
+                "Universitatea „Alexandru Ioan Cuza” din Iași",
+                "29,028 followers"
+            ],
+            [
+                "Universitatea „Alexandru Ioan Cuza” din Iași",
+                "25,491 followers"
+            ],
+            [
+                "Universitatea „Alexandru Ioan Cuza” din Iași",
+                "25,491 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Ruby",
+                "See 14 endorsements for Ruby",
+                "14",
+                "Ruby",
+                "Endorse",
+                "Endorsed by 8 people in the last 6 months"
+            ],
+            [
+                "Ruby",
+                "See 14 endorsements for Ruby",
+                "14"
+            ],
+            [
+                "Ruby on Rails",
+                "See 15 endorsements for Ruby on Rails",
+                "15",
+                "Ruby on Rails",
+                "Endorse",
+                "Endorsed by 9 people in the last 6 months"
+            ],
+            [
+                "Ruby on Rails",
+                "See 15 endorsements for Ruby on Rails",
+                "15"
+            ],
+            [
+                "Legacy Systems",
+                "See 12 endorsements for Legacy Systems",
+                "12",
+                "Legacy Systems",
+                "Endorse",
+                "Endorsed by 8 people in the last 6 months"
+            ],
+            [
+                "Legacy Systems",
+                "See 12 endorsements for Legacy Systems",
+                "12"
+            ],
+            [
+                "Web Development",
+                "See 14 endorsements for Web Development",
+                "14",
+                "Web Development",
+                "Endorse"
+            ],
+            [
+                "Web Development",
+                "See 14 endorsements for Web Development",
+                "14"
+            ],
+            [
+                "Test Driven Development",
+                "See 11 endorsements for Test Driven Development",
+                "11",
+                "Test Driven Development",
+                "Endorse"
+            ],
+            [
+                "Test Driven Development",
+                "See 11 endorsements for Test Driven Development",
+                "11"
+            ],
+            [
+                "Object Oriented Design",
+                "See 9 endorsements for Object Oriented Design",
+                "9",
+                "Object Oriented Design",
+                "Endorse"
+            ],
+            [
+                "Object Oriented Design",
+                "See 9 endorsements for Object Oriented Design",
+                "9"
+            ],
+            [
+                "API Development",
+                "See 7 endorsements for API Development",
+                "7",
+                "API Development",
+                "Endorse"
+            ],
+            [
+                "API Development",
+                "See 7 endorsements for API Development",
+                "7"
+            ],
+            [
+                "OOP",
+                "See 9 endorsements for OOP",
+                "9",
+                "OOP",
+                "Endorse"
+            ],
+            [
+                "OOP",
+                "See 9 endorsements for OOP",
+                "9"
+            ],
+            [
+                "Object Oriented Software",
+                "See 8 endorsements for Object Oriented Software",
+                "8",
+                "Object Oriented Software",
+                "Endorse"
+            ],
+            [
+                "Object Oriented Software",
+                "See 8 endorsements for Object Oriented Software",
+                "8"
+            ],
+            [
+                "Software Development",
+                "See 10 endorsements for Software Development",
+                "10",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development",
+                "See 10 endorsements for Software Development",
+                "10"
+            ],
+            [
+                "HTML5",
+                "See 10 endorsements for HTML5",
+                "10",
+                "HTML5",
+                "Endorse"
+            ],
+            [
+                "HTML5",
+                "See 10 endorsements for HTML5",
+                "10"
+            ],
+            [
+                "JavaScript",
+                "See 10 endorsements for JavaScript",
+                "10",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 10 endorsements for JavaScript",
+                "10"
+            ],
+            [
+                "Git",
+                "See 10 endorsements for Git",
+                "10",
+                "Git",
+                "Endorse"
+            ],
+            [
+                "Git",
+                "See 10 endorsements for Git",
+                "10"
+            ],
+            [
+                "JSON",
+                "See 10 endorsements for JSON",
+                "10",
+                "JSON",
+                "Endorse"
+            ],
+            [
+                "JSON",
+                "See 10 endorsements for JSON",
+                "10"
+            ],
+            [
+                "Agile Web Development",
+                "See 8 endorsements for Agile Web Development",
+                "8",
+                "Agile Web Development",
+                "Endorse"
+            ],
+            [
+                "Agile Web Development",
+                "See 8 endorsements for Agile Web Development",
+                "8"
+            ],
+            [
+                "System Architecture",
+                "See 8 endorsements for System Architecture",
+                "8",
+                "System Architecture",
+                "Endorse"
+            ],
+            [
+                "System Architecture",
+                "See 8 endorsements for System Architecture",
+                "8"
+            ],
+            [
+                "Website Development",
+                "See 9 endorsements for Website Development",
+                "9",
+                "Website Development",
+                "Endorse"
+            ],
+            [
+                "Website Development",
+                "See 9 endorsements for Website Development",
+                "9"
+            ],
+            [
+                "Agile Methodologies",
+                "See 10 endorsements for Agile Methodologies",
+                "10",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 10 endorsements for Agile Methodologies",
+                "10"
+            ],
+            [
+                "CSS",
+                "See 9 endorsements for CSS",
+                "9",
+                "CSS",
+                "Endorse"
+            ],
+            [
+                "CSS",
+                "See 9 endorsements for CSS",
+                "9"
+            ],
+            [
+                "Testing",
+                "See 8 endorsements for Testing",
+                "8",
+                "Testing",
+                "Endorse"
+            ],
+            [
+                "Testing",
+                "See 8 endorsements for Testing",
+                "8"
+            ],
+            [
+                "Sales",
+                "See 7 endorsements for Sales",
+                "7",
+                "Sales",
+                "Endorse"
+            ],
+            [
+                "Sales",
+                "See 7 endorsements for Sales",
+                "7"
+            ],
+            [
+                "Software Deployment",
+                "See 7 endorsements for Software Deployment",
+                "7",
+                "Software Deployment",
+                "Endorse"
+            ],
+            [
+                "Software Deployment",
+                "See 7 endorsements for Software Deployment",
+                "7"
+            ],
+            [
+                "International Marketing",
+                "See 6 endorsements for International Marketing",
+                "6",
+                "International Marketing",
+                "Endorse"
+            ],
+            [
+                "International Marketing",
+                "See 6 endorsements for International Marketing",
+                "6"
+            ],
+            [
+                "Database Design",
+                "See 6 endorsements for Database Design",
+                "6",
+                "Database Design",
+                "Endorse"
+            ],
+            [
+                "Database Design",
+                "See 6 endorsements for Database Design",
+                "6"
+            ],
+            [
+                "Trade Shows",
+                "See 6 endorsements for Trade Shows",
+                "6",
+                "Trade Shows",
+                "Endorse"
+            ],
+            [
+                "Trade Shows",
+                "See 6 endorsements for Trade Shows",
+                "6"
+            ],
+            [
+                "Global Marketing",
+                "See 7 endorsements for Global Marketing",
+                "7",
+                "Global Marketing",
+                "Endorse"
+            ],
+            [
+                "Global Marketing",
+                "See 7 endorsements for Global Marketing",
+                "7"
+            ],
+            [
+                "Product Marketing",
+                "See 6 endorsements for Product Marketing",
+                "6",
+                "Product Marketing",
+                "Endorse"
+            ],
+            [
+                "Product Marketing",
+                "See 6 endorsements for Product Marketing",
+                "6"
+            ],
+            [
+                "Marketing Strategy",
+                "See 8 endorsements for Marketing Strategy",
+                "8",
+                "Marketing Strategy",
+                "Endorse"
+            ],
+            [
+                "Marketing Strategy",
+                "See 8 endorsements for Marketing Strategy",
+                "8"
+            ],
+            [
+                "Sales Process",
+                "See 6 endorsements for Sales Process",
+                "6",
+                "Sales Process",
+                "Endorse"
+            ],
+            [
+                "Sales Process",
+                "See 6 endorsements for Sales Process",
+                "6"
+            ],
+            [
+                "Email Marketing",
+                "See 8 endorsements for Email Marketing",
+                "8",
+                "Email Marketing",
+                "Endorse"
+            ],
+            [
+                "Email Marketing",
+                "See 8 endorsements for Email Marketing",
+                "8"
+            ],
+            [
+                "Sales Letters",
+                "See 5 endorsements for Sales Letters",
+                "5",
+                "Sales Letters",
+                "Endorse"
+            ],
+            [
+                "Sales Letters",
+                "See 5 endorsements for Sales Letters",
+                "5"
+            ],
+            [
+                "Online Marketing",
+                "See 8 endorsements for Online Marketing",
+                "8",
+                "Online Marketing",
+                "Endorse"
+            ],
+            [
+                "Online Marketing",
+                "See 8 endorsements for Online Marketing",
+                "8"
+            ],
+            [
+                "Digital Marketing",
+                "See 7 endorsements for Digital Marketing",
+                "7",
+                "Digital Marketing",
+                "Endorse"
+            ],
+            [
+                "Digital Marketing",
+                "See 7 endorsements for Digital Marketing",
+                "7"
+            ],
+            [
+                "Email Strategy",
+                "See 5 endorsements for Email Strategy",
+                "5",
+                "Email Strategy",
+                "Endorse"
+            ],
+            [
+                "Email Strategy",
+                "See 5 endorsements for Email Strategy",
+                "5"
+            ],
+            [
+                "Website Promotion",
+                "See 5 endorsements for Website Promotion",
+                "5",
+                "Website Promotion",
+                "Endorse"
+            ],
+            [
+                "Website Promotion",
+                "See 5 endorsements for Website Promotion",
+                "5"
+            ],
+            [
+                "Direct Mail Campaigns",
+                "See 5 endorsements for Direct Mail Campaigns",
+                "5",
+                "Direct Mail Campaigns",
+                "Endorse"
+            ],
+            [
+                "Direct Mail Campaigns",
+                "See 5 endorsements for Direct Mail Campaigns",
+                "5"
+            ],
+            [
+                "Pitch Letters",
+                "See 5 endorsements for Pitch Letters",
+                "5",
+                "Pitch Letters",
+                "Endorse"
+            ],
+            [
+                "Pitch Letters",
+                "See 5 endorsements for Pitch Letters",
+                "5"
+            ],
+            [
+                "Business Letters",
+                "See 5 endorsements for Business Letters",
+                "5",
+                "Business Letters",
+                "Endorse"
+            ],
+            [
+                "Business Letters",
+                "See 5 endorsements for Business Letters",
+                "5"
+            ],
+            [
+                "Social Media Marketing",
+                "See 8 endorsements for Social Media Marketing",
+                "8",
+                "Social Media Marketing",
+                "Endorse"
+            ],
+            [
+                "Social Media Marketing",
+                "See 8 endorsements for Social Media Marketing",
+                "8"
+            ],
+            [
+                "Viral Marketing",
+                "See 5 endorsements for Viral Marketing",
+                "5",
+                "Viral Marketing",
+                "Endorse"
+            ],
+            [
+                "Viral Marketing",
+                "See 5 endorsements for Viral Marketing",
+                "5"
+            ],
+            [
+                "Blog Marketing",
+                "See 5 endorsements for Blog Marketing",
+                "5",
+                "Blog Marketing",
+                "Endorse"
+            ],
+            [
+                "Blog Marketing",
+                "See 5 endorsements for Blog Marketing",
+                "5"
+            ],
+            [
+                "International Business",
+                "See 5 endorsements for International Business",
+                "5",
+                "International Business",
+                "Endorse"
+            ],
+            [
+                "International Business",
+                "See 5 endorsements for International Business",
+                "5"
+            ],
+            [
+                "International Trade Law",
+                "See 5 endorsements for International Trade Law",
+                "5",
+                "International Trade Law",
+                "Endorse"
+            ],
+            [
+                "International Trade Law",
+                "See 5 endorsements for International Trade Law",
+                "5"
+            ],
+            [
+                "Trade Secrets",
+                "See 5 endorsements for Trade Secrets",
+                "5",
+                "Trade Secrets",
+                "Endorse"
+            ],
+            [
+                "Trade Secrets",
+                "See 5 endorsements for Trade Secrets",
+                "5"
+            ],
+            [
+                "Global Strategy",
+                "See 5 endorsements for Global Strategy",
+                "5",
+                "Global Strategy",
+                "Endorse"
+            ],
+            [
+                "Global Strategy",
+                "See 5 endorsements for Global Strategy",
+                "5"
+            ],
+            [
+                "International Project Management",
+                "See 5 endorsements for International Project Management",
+                "5",
+                "International Project Management",
+                "Endorse"
+            ],
+            [
+                "International Project Management",
+                "See 5 endorsements for International Project Management",
+                "5"
+            ],
+            [
+                "International Relations",
+                "See 5 endorsements for International Relations",
+                "5",
+                "International Relations",
+                "Endorse"
+            ],
+            [
+                "International Relations",
+                "See 5 endorsements for International Relations",
+                "5"
+            ],
+            [
+                "International Law",
+                "See 5 endorsements for International Law",
+                "5",
+                "International Law",
+                "Endorse"
+            ],
+            [
+                "International Law",
+                "See 5 endorsements for International Law",
+                "5"
+            ],
+            [
+                "Object-Oriented Programming (OOP)",
+                "See 6 endorsements for Object-Oriented Programming (OOP)",
+                "6",
+                "Object-Oriented Programming (OOP)",
+                "Endorse"
+            ],
+            [
+                "Object-Oriented Programming (OOP)",
+                "See 6 endorsements for Object-Oriented Programming (OOP)",
+                "6"
+            ],
+            [
+                "Cascading Style Sheets (CSS)",
+                "See 7 endorsements for Cascading Style Sheets (CSS)",
+                "7",
+                "Cascading Style Sheets (CSS)",
+                "Endorse"
+            ],
+            [
+                "Cascading Style Sheets (CSS)",
+                "See 7 endorsements for Cascading Style Sheets (CSS)",
+                "7"
+            ]
+        ],
+        "summary": "    Overview:My passion is for building and shipping software: whether a small MVC project or a large scale application. And do it on the budget and under the deadline while implementing solid design and architectural decisions backed by a trustable testing suite.Skills:- Proven project management skills on complex projects involving technical and creative components- Demonstrated experience working with large multi-discipline teams in a fast-paced constantly evolving environment.- Ability to create and maintain successful production schedules that meet deadlines on-time and on-budget- Comprehensive knowledge of object oriented design and software design patterns.- Expert knowledge of Ruby, Ruby on Rails, JavaScript, HTML 5, CSS/SCSS, Git- A knack for working with legacy code and improving it over time.Education:2004 – 2008:                        Alexandru Ioan Cuza University, Iasi, Romania                     BS in Computer Science. Coursework included: Algorithms, Object Oriented Programing, Techniques for Analyzing and Developing Algorithms, Networking, Game Theory, Web Technologies, Advanced Programing Techniques, Database Theory, Artificial Intelligence, Genetic Algorithms, Neuronal Networks. 2004 – 2008:                        Alexandru Ioan Cuza University, Iasi, Romania                     BS in Law. Coursework included: Diplomatic Practices and Techniques, European Community Law, Intellectual Property, Private Corporate Law, Theory of International Relations, International Trade Law.\n  \n  \n",
+        "name": "Andrei Crudu",
+        "title": "Lead Software Engineer & Junior Dev Trainer - Using Ruby on Rails at Nimonik",
+        "url": "linkedin.com/in/rawandrew",
+        "phone": "+40727.796.355 (Mobile)",
+        "email": "andrei.crudu@yahoo.com"
+    }
+]

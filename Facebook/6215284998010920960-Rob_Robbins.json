@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6215284998010920960/",
+    "participants": [
+        {
+            "name": "Rob Robbins",
+            "title": "Senior Software Engineer at PlanGrid",
+            "url": "linkedin.com/in/robrobbns",
+            "phone": null,
+            "email": "rob.robb.ns@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-15T22:03:00.000Z"
+        }
+    ]
+}

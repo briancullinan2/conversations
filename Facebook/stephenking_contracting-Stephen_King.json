@@ -1,0 +1,22 @@
+{
+    "thread": "https://www.facebook.com/messages/t/stephenking.contracting",
+    "participants": [
+        {
+            "name": "Stephen King",
+            "description": "Self-Employed",
+            "url": "Studied at Ball State University"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Brian",
+            "time": "2016-10-08T21:09:00.000Z",
+            "message": "Brian\nI can explain!\n\n"
+        },
+        {
+            "from": "",
+            "time": "2016-12-26T22:55:00.000Z",
+            "message": "Stephen King accepted your request."
+        }
+    ]
+}

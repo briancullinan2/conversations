@@ -1,0 +1,514 @@
+{
+    "thread": "/messaging/thread/6195059729467793408/",
+    "participants": [
+        {
+            "name": "Alan Smith",
+            "title": "Available Immediately!",
+            "url": "linkedin.com/in/alan-smith-a749b88",
+            "phone": "",
+            "email": "smith.j.alan@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-10-21T02:35:00.000Z",
+            "message": "Saw your comment on LinkedIn, did you get your Cisco yet?\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T02:42:00.000Z",
+            "message": "Not yet I have the first test scheduled for November 1st and the second class starts October 31st\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T02:42:00.000Z",
+            "message": "Do you like Cisco? I've never set one up before.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T02:43:00.000Z",
+            "message": "Hope to be fully certified by december\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T02:43:00.000Z",
+            "message": "Yes it's challenging and fun at least for me.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T02:43:00.000Z",
+            "message": "That's awesome. I wish I had gotten more certs. Did you take a class or just using materials from them?\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T02:46:00.000Z",
+            "message": "Taking a class. This is my second time going through them. After I finished the first set in April cisco changed the test and materials so I have to go through it again.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T02:46:00.000Z",
+            "message": "Certs are just a piece of paper they dont show experience\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T02:47:00.000Z",
+            "message": "Looks like your LinkedIn shows the experience. If I even come across a job position should I reach out to you? Networking is one area I am sorely lacking. My iptables skills are sorely lacking.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T02:53:00.000Z",
+            "message": "I only say the above because anyone can study and take a cert test and pass you know. \n\nYou can reach out to me if you do come across a role. \n\nNetworking isn't as hard as everyone makes it out to be. Ip tables and or subnetting is fairly easy, just time consuming.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T02:59:00.000Z",
+            "message": "Yeah good ideas. I am looking for a job currently. Interviewing is horrible and demoralizing. I can't force myself to get excited about anything after listening to these people drone on about their middle ware.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T03:04:00.000Z",
+            "message": "Same here even though I have a job. The company I work for is shutting down the data center I work at so maybe out of work soon.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T03:04:00.000Z",
+            "message": "I know it's demoralizing going through the interview process and then getting passed up for roles your the best fit for. Just a giant waste of time.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T03:07:00.000Z",
+            "message": "Huge waste of time. We should be COO they are all about eliminating waste. Everyone should be employable. Screeners can be done by AI and everyone in tech automatically beats them.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T03:11:00.000Z",
+            "message": "Ai and key word search needs to be thrown in the trash!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T03:12:00.000Z",
+            "message": "Same with nontech recruiting and screening\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T03:16:00.000Z",
+            "message": "Yup. The managers are the worst as well when they nit pick everything and you give great answers or responses then they still pass you up because they went with someone cheaper\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:03:00.000Z",
+            "message": "Want a recruiter? They can plug you in to their system and do the work for you.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:03:00.000Z",
+            "message": "This guy just bought me dinner. I'll introduce you if you feel like.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T04:05:00.000Z",
+            "message": "Sure who do they work for\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:06:00.000Z",
+            "message": "Signature consultants, I might have an in at Judge Group, they have a more expensive office and different environment, less of a mill than the former.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T04:08:00.000Z",
+            "message": "Yea I've dealt with signature before and they don't have anything worth my time. And anything at my hourly rate expectency\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T04:08:00.000Z",
+            "message": "Dealt with judge group too. Never hear back from them\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:09:00.000Z",
+            "message": "Oh lame. Disregard then.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:09:00.000Z",
+            "message": "These guys are probably giving me the run around then. At least they bought me dinner.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T04:09:00.000Z",
+            "message": "Same goes for Vincent Benjamin Ashley Ellis\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T04:09:00.000Z",
+            "message": "Worth checking out what they have.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:10:00.000Z",
+            "message": "Shit they called me too.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:10:00.000Z",
+            "message": "I am signing up for Bullhorn and maybe I can take out the middle man.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T04:10:00.000Z",
+            "message": "Derive I've dealt with all of them and I really only deal with 2 one at kforce and one at Robert Half\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:12:00.000Z",
+            "message": "OK cool. I've never heard of Bullhorn until today, I want to break their recruiting software and poach people like short sale stocks.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T04:14:00.000Z",
+            "message": "Sorry haha break everything 😀\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:16:00.000Z",
+            "message": "Bullhorn he said was 3 years behind sometimes so I can identify people because I have the tech background.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:16:00.000Z",
+            "message": "I will be able to tell where their career is going with new terminology.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:16:00.000Z",
+            "message": "Like someone says Amazon cloud 3 years ago they can probably handle Azure or Bluemix too.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:16:00.000Z",
+            "message": "What do you think?\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T04:17:00.000Z",
+            "message": "Well all the job posting sites are just filled with old jobs and contract companies hoarding resumes\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T04:17:00.000Z",
+            "message": "Oh yea cloud has been done for over a decade before it even became mainstream\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:24:00.000Z",
+            "message": "It's outdated and I can compare people faster than a nontechnical recruiter.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:24:00.000Z",
+            "message": "New design\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:24:00.000Z",
+            "message": "Contextual skills, better for keywords\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:24:00.000Z",
+            "message": "Maybe scare people out of their current position like \"I heard they were doing a bunch of layoffs this week\" to encourage people to jump ship. Then live off the bonus.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:24:00.000Z",
+            "message": "Lol\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T04:31:00.000Z",
+            "message": "Sorry got wrapped up at work\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-21T04:34:00.000Z",
+            "message": "On call? Talk to you whenever. I don't mind being ignored. ;)\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-21T04:36:00.000Z",
+            "message": "Nope data center work have to be paying attention\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-24T23:23:00.000Z",
+            "message": "The good thing about contract work is you never get bored. If they don't hire you after 12 months of investing in you, you know they aren't worth working for anyways.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-24T23:24:00.000Z",
+            "message": "Yea. So what's the rate and is would I be a good fit?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-24T23:27:00.000Z",
+            "message": "I would work for free if the bank wouldn't come for my house from not paying ;)\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-24T23:27:00.000Z",
+            "message": "I don't know anything about fitting in with IT. Everything is middleware. We don't make stuff, we make people faster at making stuff. :P I just pretend like I am from this dimension and over time the opportunity becomes more exciting.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-24T23:27:00.000Z",
+            "message": "I wasn't excited about Arizona Kidney, but my interview today went well and they have a really pretty office. Their front door is a really huge swinging door. Enough to get excited about.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-24T23:28:00.000Z",
+            "message": "Oh damm wrong person lol was talking to a recruiter contact of mine about a network job\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-24T23:32:00.000Z",
+            "message": "Sorry to distract. That is pretty direct for a recruiter though. They need to be brainwashed in to thinking like they are doing you a huge favor even though it's the other way around.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-24T23:34:00.000Z",
+            "message": "Yea this guy is shit on jobs so I don't lean on him much\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-24T23:38:00.000Z",
+            "message": "lol\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-24T23:38:00.000Z",
+            "message": "I just overheard a guy today having lunch with TEKsystems. What a waste. He was also into Cisco. Seems like IT is plateauing.\nhttps://news.ycombinator.com/item?id=12778613\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-24T23:38:00.000Z",
+            "message": "Sorry not IT, tech in general.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-10-25T01:32:00.000Z",
+            "message": "Thanks for endorsing me for Novell!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-10-25T01:33:00.000Z",
+            "message": "Lol. I was impressed by citrix too I did that 10 years ago I imaged thin clients. I want to get my skills over the 99+ benchmark.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-11-14T19:30:00.000Z",
+            "message": "Judge Group?\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-11-14T19:33:00.000Z",
+            "message": "Apply several times and never hear back\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-11-14T19:37:00.000Z",
+            "message": "10 min\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-11-14T19:42:00.000Z",
+            "message": "Huh\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-11-14T19:43:00.000Z",
+            "message": "They told me they need a Networking guy I'll ask him to call you. Just got me a job at Charles Schwab.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-11-14T19:44:00.000Z",
+            "message": "Okay and sweet man!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-11-16T04:35:00.000Z",
+            "message": "Just got me an offer at Mindspree, incredibly sweet, efficient, straight to the point, direct hire, no bullshit:\nhttps://www.linkedin.com/in/erins5\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-11-16T15:04:00.000Z",
+            "message": "Cool man which one you going for\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-11-16T15:42:00.000Z",
+            "message": "Probably still Charles Schwab\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-11-16T15:42:00.000Z",
+            "message": "Erin is awesome though, she said she has networking jobs available.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-11-16T15:50:00.000Z",
+            "message": "Awesome. Maybe I'll contact her\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-12-05T16:48:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-12-05T16:49:00.000Z",
+            "message": "Yup how's yours\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-12-05T18:50:00.000Z",
+            "message": "It's OK. We'll see. Kind of political right now.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-12-05T18:52:00.000Z",
+            "message": "Oh not one of those\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-12-05T18:54:00.000Z",
+            "message": "Yeah I am amazed. So when you want to access some data, you have to submit a request through Request Center. That gets converted to a Remedy ticket. Then a human checks the list in Remedy. Performs the actions and updates the status. All of this could be done automatically.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-12-05T18:56:00.000Z",
+            "message": "Wow talk about over board\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-17T19:56:00.000Z",
+            "message": "Do you want to do entry level QA?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-17T19:56:00.000Z",
+            "message": "For software products.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-03-17T19:58:00.000Z",
+            "message": "Never done qa\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-03-17T21:02:00.000Z",
+            "message": "sure ill do entry qa its a pretty booming market\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-03-22T16:25:00.000Z",
+            "message": "Brian whats going on with the entry qa you asked me about?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-22T16:30:00.000Z",
+            "message": "I'll ask the hiring manager today if he can get you in for an interview.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-03-22T16:30:00.000Z",
+            "message": "Sounds good. do you have any info on the role so I can research it?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-22T16:33:00.000Z",
+            "message": "It's only 45k\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-22T16:33:00.000Z",
+            "message": "https://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=8a788260596d6c9b015970f8416330e2&id=8a78845d5a8dba01015a906a7b5507a1&source=\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-22T16:33:00.000Z",
+            "message": "Does that link work?\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-03-22T16:35:00.000Z",
+            "message": "ouch its better than nothing and yes\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-03-22T16:35:00.000Z",
+            "message": "Im looking into driving semis\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-22T16:37:00.000Z",
+            "message": "How about driving autonomous cars on contract, Uber, Lyft and Cruise automation are here.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-03-22T16:55:00.000Z",
+            "message": "will probably look into thise soon\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-22T17:47:00.000Z",
+            "message": "Sent your profile to my boss. Be kind! :D\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-03-22T17:48:00.000Z",
+            "message": "Lol okay cool man thank you very much. Ill even go apply for the role as well.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-22T17:53:00.000Z",
+            "message": "Good luck, I know QA uses selenium to do end to end testing. The person interviewing could be my boss or Amy our current QA person.\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-03-22T18:39:00.000Z",
+            "message": "Thanks. Ill do my research\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-11T22:41:00.000Z",
+            "message": "How about this one:\njob opening..\n\nClient : Symantec ( formerly Lifelock )\nLocation : Tempe, AZ (must be able to work on-site in Tempe)\nDuration : 6-18 months +\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-11T22:41:00.000Z",
+            "message": "??\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-11T22:41:00.000Z",
+            "message": "You've set up citrix right?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-11T22:41:00.000Z",
+            "message": "They are willing to pay $75/hour W2\n"
+        },
+        {
+            "from": "Alan Smith",
+            "time": "2017-07-12T00:15:00.000Z",
+            "message": "Interesting. Who is it through\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-12T00:16:00.000Z",
+            "message": "Jerry H\nAmtex Enterprises, Inc.\n4699, Old Ironsides Dr, Suite 270,\nSanta Clara, California - 95054\nDirect Number: 408-470-4009\nEmail :jerry@amtexenterprises.com\nGmail ID: amtexjerry@gmail.com\n"
+        }
+    ]
+}

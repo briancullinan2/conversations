@@ -1,0 +1,901 @@
+[
+    {
+        "resourceName": "people/c1082295550062563837",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgxwY09aSTFVOXcrST0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "f0516118b7711fd"
+                    }
+                },
+                "displayName": "Joseph Davidson",
+                "familyName": "Davidson",
+                "givenName": "Joseph",
+                "displayNameLastFirst": "Davidson, Joseph"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "108452441898717803423"
+                    }
+                },
+                "displayName": "Joe Davison",
+                "familyName": "Davison",
+                "givenName": "Joe",
+                "displayNameLastFirst": "Davison, Joe"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "109745490993620689857"
+                    }
+                },
+                "displayName": "Joe Davidson",
+                "familyName": "Davidson",
+                "givenName": "Joe",
+                "displayNameLastFirst": "Davidson, Joe"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "f0516118b7711fd"
+                    }
+                },
+                "value": "JosephRayDavidson@gmail.com",
+                "type": "other",
+                "formattedType": "Other"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "f0516118b7711fd"
+                    }
+                },
+                "value": "iamthebiker@gmail.com",
+                "type": "home",
+                "formattedType": "Home"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "20 Mutual Connections",
+                "You and Joseph both know Curtis Miller, Matthew Shanker, and 18 others"
+            ],
+            [
+                "You both studied at Northern Arizona University",
+                "You both studied at Northern Arizona University from 2005 to 2010"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Founder, Lead Engineer",
+                "Company Name",
+                "Electric Life Engineering",
+                "Dates Employed",
+                "Jan 2012 – Present",
+                "Employment Duration",
+                "5 yrs 10 mos",
+                "Location",
+                "Flagstaff, Arizona",
+                "Company focused on product development and consulting.• Custom circuit and PCB designs. • Prototyping and consulting on new product idea's for local businesses."
+            ],
+            [
+                "Owner",
+                "Company Name",
+                "Flagstaff Local Works",
+                "Dates Employed",
+                "2013 – Present",
+                "Employment Duration",
+                "4 yrs",
+                "Flagstaff's First Community Workshop. Providing tools and space for people to create with. Metal working, woodworking, automotive, prototyping, electronics."
+            ],
+            [
+                "Senior System Engineer",
+                "Company Name",
+                "Quantance, Inc.",
+                "Dates Employed",
+                "Sep 2014 – May 2015",
+                "Employment Duration",
+                "9 mos",
+                "Location",
+                "Flagstaff, AZ",
+                "Quantance is a semiconductor startup based in Silicon Valley, with a branch in Flagstaff, AZ. I creates the worlds fastest power supplies. Applying this initially to envelope tracking (ET) for 3G and 4G/LTE,and extended battery life. Developing chips for the newest power savings phones on the market. Currently in phones including Samsung phone line."
+            ],
+            [
+                "Engineer",
+                "Company Name",
+                "Motor Excellence",
+                "Dates Employed",
+                "Jan 2009 – Jul 2012",
+                "Employment Duration",
+                "3 yrs 7 mos",
+                "Location",
+                "Flagstaff, Arizona",
+                "Startup company in Flagstaff, focusing on a commercializing TFM style electric motors. • Power electronic and motor testing and analysis, including: harmonic analysis, full efficiency mapping, endurance, vibration testing, and test equipment design. • Represented Motor Excellence in European and Asian trade shows andexpo events• Graphical User Interfaces with C#, and Labview.• PCB board designs for motor sensing. • Worked with various PCB manufactures for both manufacturing and• Knowledge and design of Electromechanical systems, emphasized in motor and controller design• Diagnosis and troubleshooting of TFM motor technology and custom and off the shelf motor drives and controls."
+            ],
+            [
+                "Senior Student Computing Assistant",
+                "Company Name",
+                "Northern Arizona University ITS",
+                "Dates Employed",
+                "Jan 2007 – Jan 2009",
+                "Employment Duration",
+                "2 yrs 1 mo",
+                "Location",
+                "Flagstaff, Arizona Area",
+                "• Coordination of Windows OS Lab Images• Testing / Documentation of new software• Helped with server room updates"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Masters of Engineering",
+                "Field Of Study",
+                "Electrical Engineering",
+                "Dates attended or expected graduation",
+                "2009 – 2015",
+                "Activities and Societies:",
+                "NAU IEEE",
+                "Power Electronics TA"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Masters of Engineering",
+                "Field Of Study",
+                "Electrical Engineering",
+                "Dates attended or expected graduation",
+                "2009 – 2015",
+                "Activities and Societies:",
+                "NAU IEEE",
+                "Power Electronics TA"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Electrical and Electronics Engineering",
+                "Dates attended or expected graduation",
+                "2005 – 2009",
+                "Activities and Societies:",
+                "NAU IEEE (president)",
+                "active NAU ACM member",
+                "active NAU SAE member"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Electrical and Electronics Engineering",
+                "Dates attended or expected graduation",
+                "2005 – 2009",
+                "Activities and Societies:",
+                "NAU IEEE (president)",
+                "active NAU ACM member",
+                "active NAU SAE member"
+            ],
+            [
+                "Coconino County Community College",
+                "Degree Name",
+                "EMT Certification",
+                "Field Of Study",
+                "Visual Basic .NET",
+                "Dates attended or expected graduation",
+                "2005 – 2006"
+            ],
+            [
+                "Coconino County Community College",
+                "Degree Name",
+                "EMT Certification",
+                "Field Of Study",
+                "Visual Basic .NET",
+                "Dates attended or expected graduation",
+                "2005 – 2006"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Coconino County Community College",
+                "2,743 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,807 followers"
+            ],
+            [
+                "Coconino County Community College",
+                "2,399 followers"
+            ],
+            [
+                "Electric Life Engineering",
+                "8 followers"
+            ],
+            [
+                "Meet the GEEKS",
+                "31 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (223)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Coconino County Community College",
+                "2,743 followers"
+            ],
+            [
+                "Coconino County Community College",
+                "2,743 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,807 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,807 followers"
+            ],
+            [
+                "Coconino County Community College",
+                "2,399 followers"
+            ],
+            [
+                "Coconino County Community College",
+                "2,399 followers"
+            ],
+            [
+                "Electric Life Engineering",
+                "8 followers"
+            ],
+            [
+                "Electric Life Engineering",
+                "8 followers"
+            ],
+            [
+                "Meet the GEEKS",
+                "31 members"
+            ],
+            [
+                "Meet the GEEKS",
+                "31 members"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Electronics",
+                "See 15 endorsements for Electronics",
+                "15",
+                "Electronics",
+                "Endorse",
+                "Endorsed by Teresa Cvach (mutual connection)",
+                "Endorsed by 4 of Joseph’s colleagues at Motor Excellence"
+            ],
+            [
+                "Electronics",
+                "See 15 endorsements for Electronics",
+                "15"
+            ],
+            [
+                "Matlab",
+                "See 13 endorsements for Matlab",
+                "13",
+                "Matlab",
+                "Endorse",
+                "Endorsed by Xiangmiao Yuan and 2 other mutual connections",
+                "Endorsed by 3 of Joseph’s colleagues at Motor Excellence"
+            ],
+            [
+                "Matlab",
+                "See 13 endorsements for Matlab",
+                "13"
+            ],
+            [
+                "Solidworks",
+                "See 11 endorsements for Solidworks",
+                "11",
+                "Solidworks",
+                "Endorse",
+                "Andrew Hartz and 10 connections have given endorsements for this skill"
+            ],
+            [
+                "Solidworks",
+                "See 11 endorsements for Solidworks",
+                "11"
+            ],
+            [
+                "Electrical Engineering",
+                "See 10 endorsements for Electrical Engineering",
+                "10",
+                "Electrical Engineering",
+                "Endorse"
+            ],
+            [
+                "Electrical Engineering",
+                "See 10 endorsements for Electrical Engineering",
+                "10"
+            ],
+            [
+                "Labview",
+                "See 8 endorsements for Labview",
+                "8",
+                "Labview",
+                "Endorse"
+            ],
+            [
+                "Labview",
+                "See 8 endorsements for Labview",
+                "8"
+            ],
+            [
+                "Circuit Design",
+                "See 8 endorsements for Circuit Design",
+                "8",
+                "Circuit Design",
+                "Endorse"
+            ],
+            [
+                "Circuit Design",
+                "See 8 endorsements for Circuit Design",
+                "8"
+            ],
+            [
+                "Motor Control",
+                "See 5 endorsements for Motor Control",
+                "5",
+                "Motor Control",
+                "Endorse"
+            ],
+            [
+                "Motor Control",
+                "See 5 endorsements for Motor Control",
+                "5"
+            ],
+            [
+                "Manufacturing",
+                "See 5 endorsements for Manufacturing",
+                "5",
+                "Manufacturing",
+                "Endorse"
+            ],
+            [
+                "Manufacturing",
+                "See 5 endorsements for Manufacturing",
+                "5"
+            ],
+            [
+                "Testing",
+                "See 5 endorsements for Testing",
+                "5",
+                "Testing",
+                "Endorse"
+            ],
+            [
+                "Testing",
+                "See 5 endorsements for Testing",
+                "5"
+            ],
+            [
+                "Machining",
+                "See 4 endorsements for Machining",
+                "4",
+                "Machining",
+                "Endorse"
+            ],
+            [
+                "Machining",
+                "See 4 endorsements for Machining",
+                "4"
+            ],
+            [
+                "Motors",
+                "See 4 endorsements for Motors",
+                "4",
+                "Motors",
+                "Endorse"
+            ],
+            [
+                "Motors",
+                "See 4 endorsements for Motors",
+                "4"
+            ],
+            [
+                "Troubleshooting",
+                "See 4 endorsements for Troubleshooting",
+                "4",
+                "Troubleshooting",
+                "Endorse"
+            ],
+            [
+                "Troubleshooting",
+                "See 4 endorsements for Troubleshooting",
+                "4"
+            ],
+            [
+                "Programming",
+                "See 3 endorsements for Programming",
+                "3",
+                "Programming",
+                "Remove Endorsement"
+            ],
+            [
+                "Programming",
+                "See 3 endorsements for Programming",
+                "3"
+            ],
+            [
+                "SolidWorks",
+                "See 3 endorsements for SolidWorks",
+                "3",
+                "SolidWorks",
+                "Remove Endorsement"
+            ],
+            [
+                "SolidWorks",
+                "See 3 endorsements for SolidWorks",
+                "3"
+            ],
+            [
+                "PCB design",
+                "See 2 endorsements for PCB design",
+                "2",
+                "PCB design",
+                "Endorse"
+            ],
+            [
+                "PCB design",
+                "See 2 endorsements for PCB design",
+                "2"
+            ],
+            [
+                "PCB layout design",
+                "See 2 endorsements for PCB layout design",
+                "2",
+                "PCB layout design",
+                "Endorse"
+            ],
+            [
+                "PCB layout design",
+                "See 2 endorsements for PCB layout design",
+                "2"
+            ],
+            [
+                "Embedded Systems",
+                "See 2 endorsements for Embedded Systems",
+                "2",
+                "Embedded Systems",
+                "Endorse"
+            ],
+            [
+                "Embedded Systems",
+                "See 2 endorsements for Embedded Systems",
+                "2"
+            ],
+            [
+                "Linux",
+                "See 2 endorsements for Linux",
+                "2",
+                "Linux",
+                "Endorse"
+            ],
+            [
+                "Linux",
+                "See 2 endorsements for Linux",
+                "2"
+            ],
+            [
+                "Electric Motors",
+                "See 2 endorsements for Electric Motors",
+                "2",
+                "Electric Motors",
+                "Endorse"
+            ],
+            [
+                "Electric Motors",
+                "See 2 endorsements for Electric Motors",
+                "2"
+            ],
+            [
+                "Physics",
+                "See 2 endorsements for Physics",
+                "2",
+                "Physics",
+                "Endorse"
+            ],
+            [
+                "Physics",
+                "See 2 endorsements for Physics",
+                "2"
+            ],
+            [
+                "Mathematics",
+                "See 2 endorsements for Mathematics",
+                "2",
+                "Mathematics",
+                "Endorse"
+            ],
+            [
+                "Mathematics",
+                "See 2 endorsements for Mathematics",
+                "2"
+            ],
+            [
+                "Electromagnetics",
+                "See 2 endorsements for Electromagnetics",
+                "2",
+                "Electromagnetics",
+                "Endorse"
+            ],
+            [
+                "Electromagnetics",
+                "See 2 endorsements for Electromagnetics",
+                "2"
+            ],
+            [
+                "Microchip",
+                "See 2 endorsements for Microchip",
+                "2",
+                "Microchip",
+                "Endorse"
+            ],
+            [
+                "Microchip",
+                "See 2 endorsements for Microchip",
+                "2"
+            ],
+            [
+                "3D Modeling",
+                "See 2 endorsements for 3D Modeling",
+                "2",
+                "3D Modeling",
+                "Endorse"
+            ],
+            [
+                "3D Modeling",
+                "See 2 endorsements for 3D Modeling",
+                "2"
+            ],
+            [
+                "Milling",
+                "See 2 endorsements for Milling",
+                "2",
+                "Milling",
+                "Endorse"
+            ],
+            [
+                "Milling",
+                "See 2 endorsements for Milling",
+                "2"
+            ],
+            [
+                "Finite Element Analysis",
+                "See 2 endorsements for Finite Element Analysis",
+                "2",
+                "Finite Element Analysis",
+                "Endorse"
+            ],
+            [
+                "Finite Element Analysis",
+                "See 2 endorsements for Finite Element Analysis",
+                "2"
+            ],
+            [
+                "Schematic",
+                "See 1 endorsement for Schematic",
+                "1",
+                "Schematic",
+                "Endorse"
+            ],
+            [
+                "Schematic",
+                "See 1 endorsement for Schematic",
+                "1"
+            ],
+            [
+                "Visual C#",
+                "See 1 endorsement for Visual C#",
+                "1",
+                "Visual C#",
+                "Endorse"
+            ],
+            [
+                "Visual C#",
+                "See 1 endorsement for Visual C#",
+                "1"
+            ],
+            [
+                "Embedded C",
+                "See 1 endorsement for Embedded C",
+                "1",
+                "Embedded C",
+                "Endorse"
+            ],
+            [
+                "Embedded C",
+                "See 1 endorsement for Embedded C",
+                "1"
+            ],
+            [
+                "Temperature Measurement",
+                "See 1 endorsement for Temperature Measurement",
+                "1",
+                "Temperature Measurement",
+                "Endorse"
+            ],
+            [
+                "Temperature Measurement",
+                "See 1 endorsement for Temperature Measurement",
+                "1"
+            ],
+            [
+                "Power Electronics",
+                "See 1 endorsement for Power Electronics",
+                "1",
+                "Power Electronics",
+                "Endorse"
+            ],
+            [
+                "Power Electronics",
+                "See 1 endorsement for Power Electronics",
+                "1"
+            ],
+            [
+                "Motor Drives",
+                "See 1 endorsement for Motor Drives",
+                "1",
+                "Motor Drives",
+                "Endorse"
+            ],
+            [
+                "Motor Drives",
+                "See 1 endorsement for Motor Drives",
+                "1"
+            ],
+            [
+                "EMT",
+                "See 1 endorsement for EMT",
+                "1",
+                "EMT",
+                "Endorse"
+            ],
+            [
+                "EMT",
+                "See 1 endorsement for EMT",
+                "1"
+            ],
+            [
+                "Wilderness First Aid",
+                "See 1 endorsement for Wilderness First Aid",
+                "1",
+                "Wilderness First Aid",
+                "Endorse"
+            ],
+            [
+                "Wilderness First Aid",
+                "See 1 endorsement for Wilderness First Aid",
+                "1"
+            ],
+            [
+                "Wireless Networking",
+                "See 1 endorsement for Wireless Networking",
+                "1",
+                "Wireless Networking",
+                "Endorse"
+            ],
+            [
+                "Wireless Networking",
+                "See 1 endorsement for Wireless Networking",
+                "1"
+            ],
+            [
+                "Electronic Circuit Design",
+                "See 1 endorsement for Electronic Circuit Design",
+                "1",
+                "Electronic Circuit Design",
+                "Endorse"
+            ],
+            [
+                "Electronic Circuit Design",
+                "See 1 endorsement for Electronic Circuit Design",
+                "1"
+            ],
+            [
+                "Atmel",
+                "See 1 endorsement for Atmel",
+                "1",
+                "Atmel",
+                "Endorse"
+            ],
+            [
+                "Atmel",
+                "See 1 endorsement for Atmel",
+                "1"
+            ],
+            [
+                "Solid Edge",
+                "See 1 endorsement for Solid Edge",
+                "1",
+                "Solid Edge",
+                "Endorse"
+            ],
+            [
+                "Solid Edge",
+                "See 1 endorsement for Solid Edge",
+                "1"
+            ],
+            [
+                "Solid Modeling",
+                "See 1 endorsement for Solid Modeling",
+                "1",
+                "Solid Modeling",
+                "Endorse"
+            ],
+            [
+                "Solid Modeling",
+                "See 1 endorsement for Solid Modeling",
+                "1"
+            ],
+            [
+                ".NET",
+                "See 1 endorsement for .NET",
+                "1",
+                ".NET",
+                "Endorse"
+            ],
+            [
+                ".NET",
+                "See 1 endorsement for .NET",
+                "1"
+            ],
+            [
+                "Microcontrollers",
+                "See 1 endorsement for Microcontrollers",
+                "1",
+                "Microcontrollers",
+                "Endorse"
+            ],
+            [
+                "Microcontrollers",
+                "See 1 endorsement for Microcontrollers",
+                "1"
+            ],
+            [
+                "Redmine",
+                "See 1 endorsement for Redmine",
+                "1",
+                "Redmine",
+                "Endorse"
+            ],
+            [
+                "Redmine",
+                "See 1 endorsement for Redmine",
+                "1"
+            ],
+            [
+                "Adobe Creative Suite",
+                "See 1 endorsement for Adobe Creative Suite",
+                "1",
+                "Adobe Creative Suite",
+                "Endorse"
+            ],
+            [
+                "Adobe Creative Suite",
+                "See 1 endorsement for Adobe Creative Suite",
+                "1"
+            ],
+            [
+                "Electrical Machines",
+                "See 1 endorsement for Electrical Machines",
+                "1",
+                "Electrical Machines",
+                "Endorse"
+            ],
+            [
+                "Electrical Machines",
+                "See 1 endorsement for Electrical Machines",
+                "1"
+            ],
+            [
+                "Lathe",
+                "See 1 endorsement for Lathe",
+                "1",
+                "Lathe",
+                "Endorse"
+            ],
+            [
+                "Lathe",
+                "See 1 endorsement for Lathe",
+                "1"
+            ],
+            [
+                "PLC",
+                "See 1 endorsement for PLC",
+                "1",
+                "PLC",
+                "Endorse"
+            ],
+            [
+                "PLC",
+                "See 1 endorsement for PLC",
+                "1"
+            ],
+            [
+                "PLC Programming",
+                "See 1 endorsement for PLC Programming",
+                "1",
+                "PLC Programming",
+                "Endorse"
+            ],
+            [
+                "PLC Programming",
+                "See 1 endorsement for PLC Programming",
+                "1"
+            ],
+            [
+                "Prototyping",
+                "See 3 endorsements for Prototyping",
+                "3",
+                "Prototyping",
+                "Endorse"
+            ],
+            [
+                "Prototyping",
+                "See 3 endorsements for Prototyping",
+                "3"
+            ]
+        ],
+        "summary": "    I LOVE engineering. I do design and consulting work. I have a good grasp on mechanical and electrical systems. I have knowledge in the following areas:•\tElectronic Designs and Prototyping, including circuit design, board layout, and embedded programming.•\t3d Design and Fabrication (Solidworks, SolidEdge)•\tMetal working skills •\tWorking with supply houses in the United States, Taiwan and China•\tPower Electronic and Motors•\tHarmonic and Frequency analysis•\tData visualization and analysis, using Matlab and similar numerical analysis programs.Currently I am doing my own product designs, consulting with local businesses and am the founder of Local Works, Flagstaff's Community Workshop. FlagLocalWorks.com\n  \n  \n",
+        "name": "Joseph Davidson",
+        "title": "Founder and Lead Engineer at ElectricLIFE Engineering, and founder at Local Works",
+        "url": "linkedin.com/in/joseph-davidson-5b889b21",
+        "phone": null,
+        "email": "josephraydavidson@gmail.com"
+    }
+]

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6228256191651340288/",
+    "participants": [
+        {
+            "name": "Tony Felice",
+            "title": "President at Felice Agency",
+            "url": "linkedin.com/in/tonyfelicepr",
+            "phone": null,
+            "email": "tony@felicewhitney.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "You're a genius!\n",
+            "time": "2018-01-20T17:06:00.000Z"
+        },
+        {
+            "from": "Tony Felice",
+            "message": "aw shucks\n",
+            "time": "2018-01-20T23:47:00.000Z"
+        }
+    ]
+}

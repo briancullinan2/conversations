@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6212745592192454657/",
+    "participants": [
+        {
+            "name": "Sean Cramer",
+            "title": "Head of Voice of the Customer at Amazon",
+            "url": "linkedin.com/in/cosmocramer",
+            "phone": null,
+            "email": "cramersean@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-08T21:52:00.000Z"
+        }
+    ]
+}

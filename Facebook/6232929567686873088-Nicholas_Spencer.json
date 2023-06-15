@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6232929567686873088/",
+    "participants": [
+        {
+            "name": "Nicholas Spencer",
+            "title": "VP of Business Development",
+            "url": "linkedin.com/in/nicholasrecruiting",
+            "phone": "480.276.0707 (Mobile)",
+            "email": "nic.spencer@azstaffingagency.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-02T14:36:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Nicholas Spencer",
+            "time": "2017-05-05T19:13:00.000Z",
+            "message": "I have these great junior to senior Software Engineer opportunities in the Phoenix area that I think you would be perfect for. If you or someone you know who is similar to your qualifications might be interested in hearing more about it, please let me know and if you could send me your resume so we can move forward.\n\nBest Regards,\n\nNic Spencer\nVP of Business Development \nnic.spencer@azstaffingagency.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-05T20:40:00.000Z",
+            "message": "What company?\n"
+        },
+        {
+            "from": "Nicholas Spencer",
+            "time": "2017-05-13T23:39:00.000Z",
+            "message": "I can't give yoh the company name until we speak and have a resume. That way I know how interested you are in the position. Not trying to be rude but people will try and bypass recruiters and go straight to the company themselves. People also try to get the company name and try to get my the client to work with them instead of the recruiter who posted the job.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-13T23:57:00.000Z",
+            "message": "I promise not to cut you out.\n"
+        },
+        {
+            "from": "Nicholas Spencer",
+            "time": "2017-05-14T00:01:00.000Z",
+            "message": "Well I have a few places. AxoSoft, Shotzoom, and the Joint\n"
+        }
+    ]
+}

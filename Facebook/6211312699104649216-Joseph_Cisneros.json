@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6211312699104649216/",
+    "participants": [
+        {
+            "name": "Joseph Cisneros",
+            "title": "Site Reliability Engineer",
+            "url": "linkedin.com/in/josephcisneros",
+            "phone": null,
+            "email": "jcisneros@ctcs.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "You've arrived just in time! You must be a wizard!\n",
+            "time": "2017-12-04T22:59:00.000Z"
+        }
+    ]
+}

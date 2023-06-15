@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6227556611909566464/",
+    "participants": [
+        {
+            "name": "David Richardson",
+            "title": "VP of Engineering",
+            "url": "linkedin.com/in/david-richardson-074148",
+            "phone": "602-697-5807 (Mobile)",
+            "email": "dlr@davids.org"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-18T18:46:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "thread": "/messaging/thread/6192791676122124288/",
+    "participants": [
+        {
+            "name": "Tyler Weir",
+            "title": "Sr. IT Recruiter",
+            "url": "linkedin.com/in/tyler-weir-30239338",
+            "phone": "",
+            "email": "tweir@pdsinc.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Tyler Weir",
+            "message": "Full Time Opportunity - Software Engineer - Phoenix, Az\ntweir@pdsinc.com",
+            "time": "2016-10-14T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Thank you for the connect Tyler.  I am so busy with interviews right now, I need to start skipping steps.  If you don't understand something about my experience, it would be extremely helpful if you could help me improve my resume to make it more understandable.  Check this out:",
+            "time": "2016-10-14T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Any ideas?  I need help.  :)",
+            "time": "2017-10-31T21:19:00.000Z"
+        },
+        {
+            "from": "Tyler Weir",
+            "message": "the resume you sent me is for marissa?",
+            "time": "2017-10-31T21:22:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Yes, I am wondering if I should reformat my resume to look like hers.  You can already see my resume from my LinkedIn profile right?",
+            "time": "2017-10-31T22:00:00.000Z"
+        },
+        {
+            "from": "Tyler Weir",
+            "message": "no it's not allowing me to view your resume. go ahead and send me your resume and I'll take a look at it",
+            "time": "2017-10-31T22:26:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "That is a problem.  Did you accept my connect?",
+            "time": "2017-10-31T22:26:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Do you see the experience section on \nhttps://www.linkedin.com/in/megamindbrian",
+            "time": "2017-10-31T22:26:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "???",
+            "time": "2017-10-31T22:35:00.000Z"
+        },
+        {
+            "from": "Tyler Weir",
+            "message": "What kind of feedback have you been getting from the places you've interviewed?",
+            "time": "2017-10-31T22:54:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Excellent feedback!  I have 3 technical interviews set up for next week.  What does your timeline look like?",
+            "time": "2017-10-31T23:34:00.000Z"
+        }
+    ]
+}

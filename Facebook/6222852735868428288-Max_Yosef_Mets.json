@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6222852735868428288/",
+    "participants": [
+        {
+            "name": "Max Yosef Mets",
+            "title": "CEO at Branto inc",
+            "url": "linkedin.com/in/maxyosefmets",
+            "phone": null,
+            "email": "maxmets@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-05T19:15:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6222930086077829120/",
+    "participants": [
+        {
+            "name": "'Luni' Libes",
+            "title": "Entrepreneur, Author, Mentor, Advisor, Investor",
+            "url": "linkedin.com/in/lunarmobiscuit",
+            "phone": null,
+            "email": "lunarmobiscuit@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "'Luni'​ Libes",
+            "message": "Thank you for linking.\n\n(Apologies for the following message if we just met, as it gets sent automatically to everyone who asks to connect).\n\nHow can I help you? If you connected looking for (or to provide) help or advice, please be specific and brief. I appreciate your confidence in reaching out to me, but as you can imagine, I get dozens of such requests per week. My priories are mission-driven for-profit startups, who might fit into Fledge (about.fledge.co) or investors who might fund the fledglings (fledglings.fledge.co).\n\nTo help as many entrepreneurs as possible, I've shared 25+ years of experience in The Next Step series of books, (lunarmobiscuit.com/the-next-step and amazon.com/author/luni) and my blog is full of advice and observations (lunarmobiscuit.com/blog). Please have a look and I welcome your input and engagement.\n\nLastly, if you are selling SEO, web development, sales leads, or anything else, please know that I do not answer solicitations from here.\n\nThank you.\n",
+            "time": "2018-01-06T00:22:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "How did you automate this?\n",
+            "time": "2018-01-06T13:22:00.000Z"
+        },
+        {
+            "from": "'Luni'​ Libes",
+            "message": "Human beings, based in the Philippines. They do great online work if you need help with that.\n",
+            "time": "2018-01-06T17:49:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "You're a genius. I was thinking to use selenium and Docker. I'll let you know when it's ready and you too can replace your human workforce with robots ;)\n",
+            "time": "2018-01-06T17:59:00.000Z"
+        },
+        {
+            "from": "'Luni'​ Libes",
+            "message": "LinkedIn doesn't have any APIs to automate the process, otherwise I'd use Zapier. I presume its scrapable, but they do change the UI quite often too. Cheaper to hire Filipino humans than to write code.\n",
+            "time": "2018-01-07T01:25:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I agree scraping can be susceptible to change but I am thinking to match actions and text selection based on very general appearance of the site. Like the messages page always lists all the people you have contacted on the left side, this isn't likely to change anytime soon even though the classes or theme might change underneath.\n",
+            "time": "2018-01-11T15:42:00.000Z"
+        }
+    ]
+}

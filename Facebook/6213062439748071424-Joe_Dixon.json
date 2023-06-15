@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6213062439748071424/",
+    "participants": [
+        {
+            "name": "Joe Dixon",
+            "title": "General Manager",
+            "url": "linkedin.com/in/joe-dixon-25800aa9",
+            "phone": null,
+            "email": "joedixon60@cox.net"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-12-09T18:51:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Joe Dixon",
+            "time": "2017-03-08T15:38:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-08T18:39:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

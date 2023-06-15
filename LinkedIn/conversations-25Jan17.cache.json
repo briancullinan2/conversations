@@ -1,0 +1,789 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Jake Stoll | Software Engineer at Resa",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Jake Stoll",
+        "url": "linkedin.com/in/jake-stoll-aa462295",
+        "phone": "4804591338 (Home)",
+        "email": "jake.r.stoll@outlook.com",
+        "title": "Software Engineer at Resa"
+      }
+    ],
+    "message": "What happened at MindSpree?",
+    "time": "2017-01-25T19:41:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Elena Behringer | Owner, Crystal Rose > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Elena Behringer",
+        "url": "linkedin.com/in/elena-behringer-a8992b32",
+        "email": "bigdealgirl@gmail.com",
+        "title": "Owner, Crystal Rose"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Have a great 2017!",
+    "time": "2017-01-25T17:41:00.000Z",
+    "title": "Owner, Crystal Rose"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Elena Behringer | Owner, Crystal Rose",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Elena Behringer",
+        "url": "linkedin.com/in/elena-behringer-a8992b32",
+        "email": "bigdealgirl@gmail.com",
+        "title": "Owner, Crystal Rose"
+      }
+    ],
+    "message": "You too! :)",
+    "time": "2017-01-25T18:18:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Katelyn Fukayama (Edmonds) | Producer at True Story Films",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Katelyn Fukayama (Edmonds)",
+        "url": "linkedin.com/in/katelynedmonds",
+        "email": "emmybound@gmail.com",
+        "title": "Producer at True Story Films"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-25T18:18:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Steve Miksta | Sr. VP of Sales Development at VIP Mortgage Inc.",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Steve Miksta",
+        "url": "linkedin.com/in/themikstateam",
+        "email": "smiksta@vipmtginc.com",
+        "title": "Sr. VP of Sales Development at VIP Mortgage Inc."
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-25T17:39:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Ronen Magid | Founder at Performagram > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ronen Magid",
+        "url": "linkedin.com/in/ronenmagid",
+        "email": "ronenmagid@gmail.com",
+        "title": "Founder at Performagram"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Sure",
+    "time": "2017-01-25T02:16:00.000Z",
+    "title": "Founder at Performagram"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Ronen Magid | Founder at Performagram > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ronen Magid",
+        "url": "linkedin.com/in/ronenmagid",
+        "email": "ronenmagid@gmail.com",
+        "title": "Founder at Performagram"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "How can I help you?",
+    "time": "2017-01-25T02:16:00.000Z",
+    "title": "Founder at Performagram"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Ronen Magid | Founder at Performagram",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ronen Magid",
+        "url": "linkedin.com/in/ronenmagid",
+        "email": "ronenmagid@gmail.com",
+        "title": "Founder at Performagram"
+      }
+    ],
+    "message": "Not sure yet. What is hcm/performance?",
+    "time": "2017-01-25T13:53:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Ronen Magid | Founder at Performagram > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ronen Magid",
+        "url": "linkedin.com/in/ronenmagid",
+        "email": "ronenmagid@gmail.com",
+        "title": "Founder at Performagram"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "HCM is Human Capital Management. A space for all HR related software and services. It's a $15B/year market. Performance Management is a subset of the HCM pie. Alone, it's a $1.3B/year market.",
+    "time": "2017-01-25T14:20:00.000Z",
+    "title": "Founder at Performagram"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Ronen Magid | Founder at Performagram",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ronen Magid",
+        "url": "linkedin.com/in/ronenmagid",
+        "email": "ronenmagid@gmail.com",
+        "title": "Founder at Performagram"
+      }
+    ],
+    "message": "I've been having a lot of ideas regarding that lately. Education is taking too long and on the other end of this technological dark age we are going through, our highly valued jobs as technical workers will turn in to a blue collar less than glamorous career path. I predict in ten years, educating ourselves and others will really be the only thing meaningful left to do. Everything else will be done for us by robots and trained algorithms.",
+    "time": "2017-01-25T15:15:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Ronen Magid | Founder at Performagram",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ronen Magid",
+        "url": "linkedin.com/in/ronenmagid",
+        "email": "ronenmagid@gmail.com",
+        "title": "Founder at Performagram"
+      }
+    ],
+    "message": "As far as performance goes. The current tools leave something to be desired. See the problem with management is pretty much everything. It's just management. It doesn't matter how much data you collect, what matters is how we act on that data. So how is management acting on performance data? The approach is all wrong. Data has to be useful to the people the data comes from in order for it to be even a \"subset\" of useful to management. I want to write a service that tells me how much time I spend on LinkedIn in versus how much time I spend working. That data is useful to me because it forces me to justify to myself the time I spend social networking. I am forced to prioritize the utility of the social network in comparison to my utility as an employee. The system as a whole could hold people accountable to how many new skills they learn.",
+    "time": "2017-01-25T15:15:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Ronen Magid | Founder at Performagram > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ronen Magid",
+        "url": "linkedin.com/in/ronenmagid",
+        "email": "ronenmagid@gmail.com",
+        "title": "Founder at Performagram"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Spying tools have been proven to be a wrong approach and failed financially. They are still used in \"low wage\" environment. Those environment don't interest me. Performagram takes a different approach to analyzing data and gives real valuable insight that no other tool gives.",
+    "time": "2017-01-25T15:27:00.000Z",
+    "title": "Founder at Performagram"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Ronen Magid | Founder at Performagram",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ronen Magid",
+        "url": "linkedin.com/in/ronenmagid",
+        "email": "ronenmagid@gmail.com",
+        "title": "Founder at Performagram"
+      }
+    ],
+    "message": "Right. I am glad you agree. But I believe the reason the spying tools failed is because it is made for managers not for employees. Who is the insight for with Performagram? Managers or employees?",
+    "time": "2017-01-25T15:29:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Ronen Magid | Founder at Performagram > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ronen Magid",
+        "url": "linkedin.com/in/ronenmagid",
+        "email": "ronenmagid@gmail.com",
+        "title": "Founder at Performagram"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "There are \"self discovery\" tools for people. I use one on my Mac to tell me where I spend my time. But this has no value in the workplace, as proven by the market. Intelligent employees don't want to be micromanaged. They want to be judged by whether they do their work well or not and they don't expect to be criticized for opening Facebook during the work day if they do their work well.",
+    "time": "2017-01-25T15:53:00.000Z",
+    "title": "Founder at Performagram"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Ronen Magid | Founder at Performagram > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ronen Magid",
+        "url": "linkedin.com/in/ronenmagid",
+        "email": "ronenmagid@gmail.com",
+        "title": "Founder at Performagram"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "micromanaged = also spied on....",
+    "time": "2017-01-25T15:53:00.000Z",
+    "title": "Founder at Performagram"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Ronen Magid | Founder at Performagram",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ronen Magid",
+        "url": "linkedin.com/in/ronenmagid",
+        "email": "ronenmagid@gmail.com",
+        "title": "Founder at Performagram"
+      }
+    ],
+    "message": "I just started in corporate America. I am learning pretty quick what micromanage means. Can I come work for you?",
+    "time": "2017-01-25T17:22:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Ronen Magid | Founder at Performagram > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ronen Magid",
+        "url": "linkedin.com/in/ronenmagid",
+        "email": "ronenmagid@gmail.com",
+        "title": "Founder at Performagram"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Performagram is still in the fundraising stage. It's way too early for anyone to come work for me. It will live or die based on my success at fundraising.",
+    "time": "2017-01-25T17:25:00.000Z",
+    "title": "Founder at Performagram"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Ronen Magid | Founder at Performagram",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ronen Magid",
+        "url": "linkedin.com/in/ronenmagid",
+        "email": "ronenmagid@gmail.com",
+        "title": "Founder at Performagram"
+      }
+    ],
+    "message": "If you are hungry you can always come for dinner.",
+    "time": "2017-01-25T17:32:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Michael Fitzgibbon | Chief Underwriting Officer at Slice",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Michael Fitzgibbon",
+        "url": "linkedin.com/in/michael-fitzgibbon-757aaa30",
+        "phone": "647-218-7976 (Mobile)",
+        "email": "michael.fitzgibbon1@icloud.com",
+        "title": "Chief Underwriting Officer at Slice"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-25T15:02:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Gail Conn | CEO at Phi Power Communications",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Gail Conn",
+        "url": "linkedin.com/in/gailconn",
+        "phone": "212 355-2341 (Work)",
+        "email": "gail@phipower.com",
+        "title": "CEO at Phi Power Communications"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-25T13:52:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Neil Ticktin | CEO at Xplain Corp, Event Intl, MacTech",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Neil Ticktin",
+        "url": "linkedin.com/in/neilticktin",
+        "email": "neil-lists@xplain.com",
+        "title": "CEO at Xplain Corp, Event Intl, MacTech"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-25T13:51:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Christopher Graham | VP of Product and Marketing at HYFN",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Christopher Graham",
+        "url": "linkedin.com/in/christopheragraham",
+        "phone": "310-975-5656 (Mobile)",
+        "email": "christopherandrewgraham@gmail.com",
+        "title": "VP of Product and Marketing at HYFN"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-25T02:03:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Jason Torres | Mechanical Design Engineer",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Jason Torres",
+        "url": "linkedin.com/in/jasonet",
+        "email": "jason.estrellado.torres@gmail.com",
+        "title": "Mechanical Design Engineer"
+      }
+    ],
+    "message": "Thank you for connecting! Nice work! :)",
+    "time": "2017-01-25T01:53:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Cole (Dave Bulmer) Prime | Full Stack Engineer, Freerange.",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Cole (Dave Bulmer) Prime",
+        "url": "linkedin.com/in/davidbulmer",
+        "email": "linkedin@avhp.com",
+        "title": "Full Stack Engineer, Freerange."
+      }
+    ],
+    "message": "I am always interested in the super natural.",
+    "time": "2017-01-25T01:51:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Cole (Dave Bulmer) Prime | Full Stack Engineer, Freerange.",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Cole (Dave Bulmer) Prime",
+        "url": "linkedin.com/in/davidbulmer",
+        "email": "linkedin@avhp.com",
+        "title": "Full Stack Engineer, Freerange."
+      }
+    ],
+    "message": "I don't believe in coincidence.",
+    "time": "2017-01-25T01:51:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Arlyn Stotts | Owner, Stotts Creative > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Arlyn Stotts",
+        "url": "linkedin.com/in/arlyn-stotts-32aa535",
+        "email": "arlyn@stottscreative.com",
+        "title": "Owner, Stotts Creative"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "You bet, Brian. Thanks for connecting with me. Let me know if I can ever be of service to you.",
+    "time": "2017-01-25T01:43:00.000Z",
+    "title": "Owner, Stotts Creative"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Anastasia Gamick | Chief of Staff at Momentum Machines Company",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Anastasia Gamick",
+        "url": "linkedin.com/in/anastasiagamick",
+        "email": "anastasia@momentummachines.com",
+        "title": "Chief of Staff at Momentum Machines Company"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-25T01:36:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Melissa McFarlin | Founder + Creative Director + Maker at Sway Sundries",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Melissa McFarlin",
+        "url": "linkedin.com/in/melissaerinmcfarlin",
+        "email": "melissa@mcfarlin.me",
+        "title": "Founder + Creative Director + Maker at Sway Sundries"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-25T01:35:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Jan17",
+    "participants": "Brian Cullinan | wizard > Harry Karidis | Director/Producer at Karidis Productions, Inc.",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Harry Karidis",
+        "url": "linkedin.com/in/harrykaridis",
+        "email": "harry@harrykaridis.com",
+        "title": "Director/Producer at Karidis Productions, Inc."
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-25T00:39:00.000Z",
+    "title": "wizard"
+  }
+]

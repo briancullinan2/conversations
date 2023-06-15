@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/5974609344686235648/",
+    "participants": [
+        {
+            "name": "Maria Montoya",
+            "title": "Career Services & Partner Relations Manager | Career Existentialist | Professional Development Nerd",
+            "url": "linkedin.com/in/mariamontoya",
+            "phone": "602-350-6497 (Home)",
+            "email": "maria.montoya@galvanize.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Maria Montoya",
+            "message": "Work with fun new technologies, smarty-pants peers, and a cereal bar!",
+            "time": "2015-02-20T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-11-01T23:48:00.000Z"
+        }
+    ]
+}

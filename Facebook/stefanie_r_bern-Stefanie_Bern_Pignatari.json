@@ -1,0 +1,27 @@
+{
+    "thread": "https://www.facebook.com/messages/archived/t/stefanie.r.bern",
+    "participants": [
+        {
+            "name": "Stefanie Bern Pignatari",
+            "description": "Lives in Glendale, Arizona",
+            "url": "From Phoenix, Arizona"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Brian",
+            "time": "2005-11-22T16:30:00.000Z",
+            "message": "Brian\nHi, long time no speak.\n"
+        },
+        {
+            "from": "Stefanie",
+            "time": "2005-11-22T20:55:00.000Z",
+            "message": "\nHey,\r\nHow's it goin?\n\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2005-11-24T04:40:00.000Z",
+            "message": "Brian\ngood good, how about you? enjoying college?\n"
+        }
+    ]
+}

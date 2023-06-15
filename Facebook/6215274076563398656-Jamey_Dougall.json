@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6215274076563398656/",
+    "participants": [
+        {
+            "name": "Jamey Dougall",
+            "title": "Broad range of technical skills that will take your business to the next level!",
+            "url": "linkedin.com/in/jamey-dougall-793368b6",
+            "phone": null,
+            "email": "jamey@godaddy.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting?\n",
+            "time": "2017-12-15T21:20:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "!\n",
+            "time": "2017-12-15T21:20:00.000Z"
+        }
+    ]
+}

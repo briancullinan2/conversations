@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6226492989800271872/",
+    "participants": [
+        {
+            "name": "Elena Behringer",
+            "title": "Owner, Crystal Rose",
+            "url": "linkedin.com/in/elena-behringer-a8992b32",
+            "phone": null,
+            "email": "bigdealgirl@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-15T20:20:00.000Z"
+        },
+        {
+            "from": "Elena Behringer",
+            "message": "Have a great 2017!\n",
+            "time": "2018-01-25T17:41:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "You too! :)\n",
+            "time": "2018-01-25T18:18:00.000Z"
+        }
+    ]
+}

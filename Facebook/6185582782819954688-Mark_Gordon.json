@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6185582782819954688/",
+    "participants": [
+        {
+            "name": "Mark Gordon",
+            "title": "Ring is hiring!",
+            "url": "linkedin.com/in/markwgordon",
+            "phone": null,
+            "email": "mark.gordon@ring.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Mark Gordon",
+            "message": "Development Positions in Phoenix",
+            "time": "2014-06-18T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Hey, I am looking for new opportunities, how are you doing?",
+            "time": "2016-09-24T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Sorry sent that twice, got ahead of myself.  Weird LinkedIn doesn't combine messages from people.",
+            "time": "2017-10-05T23:00:00.000Z"
+        }
+    ]
+}

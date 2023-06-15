@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6252517328009904130/",
+    "participants": [
+        {
+            "name": "Ted Newman",
+            "title": "VP, Compliance and Risk Systems at Raymond James Financial",
+            "url": "linkedin.com/in/newmanted",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-03-28T15:51:00.000Z",
+            "message": "I know​ something you don't know! ;P\n"
+        },
+        {
+            "from": "Ted Newman",
+            "time": "2017-03-28T17:58:00.000Z",
+            "message": "?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-28T18:07:00.000Z",
+            "message": "Dang it, now I have to deliver on my promise... Money isn't real.\n"
+        }
+    ]
+}

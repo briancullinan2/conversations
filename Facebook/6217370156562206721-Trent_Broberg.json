@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6217370156562206721/",
+    "participants": [
+        {
+            "name": "Trent Broberg",
+            "title": "GM - Truckstop.com",
+            "url": "linkedin.com/in/trentbroberg",
+            "phone": null,
+            "email": "brobergtrent@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-21T16:09:00.000Z"
+        },
+        {
+            "from": "Trent Broberg",
+            "message": "Thanks Brian. Hope all is well. If there's anything I can do for you let me know\n",
+            "time": "2017-12-21T17:11:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you. I imagine your busy with the rollout of new autonomous trucks.\n",
+            "time": "2017-12-21T17:13:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6213394687831662592/",
+    "participants": [
+        {
+            "name": "Mike McMillan",
+            "title": "Vice President and General Manager at Epsilon",
+            "url": "linkedin.com/in/michaelamcmillan",
+            "phone": "908-419-9447 (Mobile)",
+            "email": "michael.a.mcmillan@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-10T16:52:00.000Z"
+        }
+    ]
+}

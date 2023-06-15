@@ -1,0 +1,981 @@
+﻿Session Start (bjcullinan:Nerd Andrew): Mon Aug 06 23:14:34 2007
+[08/06/2007 11:14:36 PM] Brian Cullinan: hi
+[08/06/2007 11:14:49 PM] Brian Cullinan: remember me?
+[08/06/2007 11:14:58 PM] Brian Cullinan: we took a linux class together at PVCC
+[08/06/2007 11:16:28 PM] Nerd Andrew: yeah, what's up?
+[08/06/2007 11:16:32 PM] Brian Cullinan: hows life?
+[08/06/2007 11:16:43 PM] Brian Cullinan: i use linux full time now
+[08/06/2007 11:16:49 PM] Brian Cullinan: built my own awesome server
+[08/06/2007 11:16:55 PM] Brian Cullinan: all command line
+[08/06/2007 11:16:58 PM] Nerd Andrew: been busy, yeah I use every platform known to man (almost)
+[08/06/2007 11:17:03 PM] Brian Cullinan: on top of vmware
+[08/06/2007 11:17:11 PM] Brian Cullinan: you check out the OLPC?
+[08/06/2007 11:17:18 PM] Nerd Andrew: yeah of course
+[08/06/2007 11:17:23 PM] Nerd Andrew: have you checked out Xen?
+[08/06/2007 11:17:29 PM] Brian Cullinan: not yet
+[08/06/2007 11:17:33 PM] Nerd Andrew: it's pretty slick
+[08/06/2007 11:17:39 PM] Brian Cullinan: i'll have to look at it
+[08/06/2007 11:17:47 PM] Brian Cullinan: i've got around 2.5 TB now
+[08/06/2007 11:17:52 PM] Nerd Andrew: offers some cool things that vmware doesn't
+[08/06/2007 11:17:55 PM] Brian Cullinan: going to get 4 more 500GB drives
+[08/06/2007 11:18:01 PM] Nerd Andrew: I haven't yet built up my new rig
+[08/06/2007 11:18:14 PM] Nerd Andrew: fry's is eselling the 500gb seagates for like $100 now
+[08/06/2007 11:18:22 PM] Nerd Andrew: with the 750's at like $200
+[08/06/2007 11:18:34 PM] Brian Cullinan: yeah i love it
+[08/06/2007 11:18:39 PM] Brian Cullinan: 20 cents per gig is great
+[08/06/2007 11:18:53 PM] Nerd Andrew: also, mythtv is great.......when you actually get it to work!
+[08/06/2007 11:19:22 PM] Brian Cullinan: yeah i tried that, had some problems and gave up
+[08/06/2007 11:19:25 PM] Nerd Andrew: too bad that zap2it is pulling (or threatening to pull) the free listing data
+[08/06/2007 11:19:31 PM] Brian Cullinan: i have 2 supported tuners though
+[08/06/2007 11:19:42 PM] Nerd Andrew: I'll have to dig into my box and reconfigure (grrr lol)
+[08/06/2007 11:19:44 PM] Nerd Andrew: what tuners?
+[08/06/2007 11:19:56 PM] Nerd Andrew: pvr150's?
+[08/06/2007 11:20:16 PM] Brian Cullinan: tv wonder 650, and some hauppage tuner
+[08/06/2007 11:20:26 PM] Nerd Andrew: the tv wonder is a PITA!
+[08/06/2007 11:20:57 PM] Nerd Andrew: played with the recent ubuntu yet?
+[08/06/2007 11:21:18 PM] Nerd Andrew: I've been sending quite a few machines out with it
+[08/06/2007 11:21:36 PM] Nerd Andrew: much more user-friendly than linux typically has been
+[08/06/2007 11:21:54 PM] Nerd Andrew: but then again, I like all things debian
+[08/06/2007 11:21:59 PM] Brian Cullinan: xen support pci or direct video card usage?
+[08/06/2007 11:22:21 PM] Nerd Andrew: should, it's just a virtulization software
+[08/06/2007 11:22:41 PM] Brian Cullinan: i have the new ubuntu server installed and used the gui a few months ago, so i am not sure if its the newest one
+[08/06/2007 11:22:43 PM] Nerd Andrew: (Link: http://en.wikipedia.org/wiki/Xen)http://en.wikipedia.org/wiki/Xen
+[08/06/2007 11:23:24 PM] Brian Cullinan: yeah looks nice
+[08/06/2007 11:24:01 PM] Nerd Andrew: anyway, still sticking with AMD chips myself
+[08/06/2007 11:24:09 PM] Brian Cullinan: i've been reinstalling windows all nice trying to get it to work on this sony laptop
+[08/06/2007 11:24:15 PM] Nerd Andrew: I built my cousin a dual dual core athlonFX72
+[08/06/2007 11:24:22 PM] Nerd Andrew: which one?
+[08/06/2007 11:24:25 PM] Brian Cullinan: yeah i love AMD, people call me a fan boy, but i am really just a loyalist
+[08/06/2007 11:24:36 PM] Brian Cullinan: sony vaio intel duo
+[08/06/2007 11:24:44 PM] Nerd Andrew: ei model #
+[08/06/2007 11:24:46 PM] Brian Cullinan: they didn't offer amd when i ordered it for my dad
+[08/06/2007 11:25:00 PM] Nerd Andrew: I have been buthurt by vaio's for a while
+[08/06/2007 11:25:03 PM] Brian Cullinan: pcg-8V2L
+[08/06/2007 11:25:23 PM] Nerd Andrew: they run too damn hot for my liking (well the little ones anyway)
+[08/06/2007 11:25:26 PM] Brian Cullinan: the VGN-AR170G
+[08/06/2007 11:25:56 PM] Brian Cullinan: yeah this ones surprisingly cool, but its the stupid intel chip that drives up the temp
+[08/06/2007 11:26:04 PM] Brian Cullinan: and i just realized tonight it supports raid
+[08/06/2007 11:26:17 PM] Brian Cullinan: so i am thinking about upgrading the drives
+[08/06/2007 11:26:22 PM] Nerd Andrew: it's also the fact that the damn thing didn't use a very good cooling solution
+[08/06/2007 11:26:27 PM] Brian Cullinan: yeah
+[08/06/2007 11:26:41 PM] Brian Cullinan: i can't even find the vents on it
+[08/06/2007 11:26:48 PM] Nerd Andrew: look on the bottom
+[08/06/2007 11:26:49 PM] Brian Cullinan: my ferrari is a lot cooler
+[08/06/2007 11:27:02 PM] Nerd Andrew: glad to hear you got one
+[08/06/2007 11:27:06 PM] Nerd Andrew: I love those laptops
+[08/06/2007 11:27:27 PM] Brian Cullinan: yup, thanks to your suggestion it had the exact specs i wanted, except for lack of camera, but i think the new ones have it
+[08/06/2007 11:27:28 PM] Nerd Andrew: I have an acer and a gateway
+[08/06/2007 11:27:32 PM] Nerd Andrew: both with turions
+[08/06/2007 11:27:54 PM] Brian Cullinan: yeah mine had a turion, i can't wait for amds dual core mobile
+[08/06/2007 11:28:00 PM] Nerd Andrew: my m6805 finally got killed at an airport
+[08/06/2007 11:28:04 PM] Nerd Andrew: =(
+[08/06/2007 11:28:06 PM] Brian Cullinan: and their new quad core comes out soon
+[08/06/2007 11:28:10 PM] Brian Cullinan: that sucks
+[08/06/2007 11:28:14 PM] Nerd Andrew: yeah
+[08/06/2007 11:28:25 PM] Nerd Andrew: although I think I'll score a new logic board for it soon
+[08/06/2007 11:28:35 PM] Nerd Andrew: what did it in was liquid soap oddly enough
+[08/06/2007 11:28:45 PM] Nerd Andrew: I had 3 laptops with me and was unpacking them
+[08/06/2007 11:28:46 PM] Brian Cullinan: finally there are boards that support ddr2 with amd chips
+[08/06/2007 11:28:51 PM] Nerd Andrew: so I was using like 6 bins
+[08/06/2007 11:29:03 PM] Nerd Andrew: and the one I put my m6805 in had some soap in it
+[08/06/2007 11:29:03 PM] Brian Cullinan: i was still buying pc3200 and its more expensive then the new stuff!
+[08/06/2007 11:29:18 PM] Brian Cullinan: soap in your laptop?
+[08/06/2007 11:29:21 PM] Brian Cullinan: thats not good
+[08/06/2007 11:29:22 PM] Nerd Andrew: yeah, although there is no real advantage for it
+[08/06/2007 11:29:23 PM] Nerd Andrew: yeah
+[08/06/2007 11:29:30 PM] Nerd Andrew: I didn't notice it till I was on the plane
+[08/06/2007 11:29:35 PM] Nerd Andrew: it went right through a vent
+[08/06/2007 11:29:36 PM] Brian Cullinan: that sucks
+[08/06/2007 11:29:40 PM] Brian Cullinan: what a shitty way to go
+[08/06/2007 11:29:45 PM] Nerd Andrew: and nailed the graphics memory
+[08/06/2007 11:29:53 PM] Brian Cullinan: awww
+[08/06/2007 11:29:58 PM] Nerd Andrew: but on the other hand, 2003-2007 isn't a bad run for a laptop
+[08/06/2007 11:30:07 PM] Brian Cullinan: yeah thats true
+[08/06/2007 11:30:25 PM] Brian Cullinan: i already want to upgrade the memory in this sony
+[08/06/2007 11:30:40 PM] Nerd Andrew: I can't wait for AMD to finally get their open source drivers for their graphics cards out
+[08/06/2007 11:30:46 PM] Brian Cullinan: i can't believe i only ordered it with 512
+[08/06/2007 11:30:49 PM] Nerd Andrew: since they pledged to do that when they bought ati
+[08/06/2007 11:30:57 PM] Brian Cullinan: yeah that would be awesome
+[08/06/2007 11:31:02 PM] Nerd Andrew: on the bright side ddr2 sodimm is fucking cheap
+[08/06/2007 11:31:11 PM] Brian Cullinan: yeah it is
+[08/06/2007 11:31:18 PM] Nerd Andrew: on any given week you should be able to score a 2gb module for $120 or less
+[08/06/2007 11:31:28 PM] Brian Cullinan: i still pay like 160 for 2 gigs of pc3200 it sucks
+[08/06/2007 11:31:33 PM] Nerd Andrew: or a 2gb (1gbx2) kit for $98
+[08/06/2007 11:31:36 PM] Brian Cullinan: i could get ddr2 for half that price
+[08/06/2007 11:31:41 PM] Nerd Andrew: well it depends where you get it
+[08/06/2007 11:31:53 PM] Nerd Andrew: got something for you to drool over though
+[08/06/2007 11:31:58 PM] Brian Cullinan: what?
+[08/06/2007 11:32:22 PM] Nerd Andrew: (Link: http://www.newegg.com/Product/Product.aspx?Item=N82E16813131146)http://www.newegg.com/Product/Product.aspx?Item=N82E16813131146
+[08/06/2007 11:32:37 PM] Nerd Andrew: this is the mobo I built my cousin's comp around
+[08/06/2007 11:32:57 PM] Nerd Andrew: he's very happy with it lol
+[08/06/2007 11:33:22 PM] Brian Cullinan: oh dude seen it already
+[08/06/2007 11:33:28 PM] Brian Cullinan: and i did drool over it for like half and hour
+[08/06/2007 11:33:33 PM] Nerd Andrew: yeah 
+[08/06/2007 11:33:41 PM] Brian Cullinan: i love that board
+[08/06/2007 11:33:41 PM] Nerd Andrew: it is a toaster though lol
+[08/06/2007 11:33:53 PM] Brian Cullinan: if i was going to spend the money on a new computer that would be it
+[08/06/2007 11:33:59 PM] Nerd Andrew: but still, 4 pci-ex slots lol
+[08/06/2007 11:34:09 PM] Nerd Andrew: plus the quad core opty's will use that socket
+[08/06/2007 11:34:19 PM] Nerd Andrew: making an 8 way dual board.......god damn
+[08/06/2007 11:35:11 PM] Nerd Andrew: I love how AMD always plays the game...... dual core in same thermal and electrical envelope as single core, quad core in same electrical and thermal as dual core(with improvements?!)
+[08/06/2007 11:35:12 PM] Brian Cullinan: yeah thats hot
+[08/06/2007 11:35:32 PM] Nerd Andrew: also AMD's rock at virtulization 
+[08/06/2007 11:35:40 PM] Brian Cullinan: can you even get the quad cores on newegg?
+[08/06/2007 11:35:44 PM] Nerd Andrew: the 80 core intel chip looks damn cool
+[08/06/2007 11:35:46 PM] Nerd Andrew: not yet
+[08/06/2007 11:36:13 PM] Nerd Andrew: technically they arn't out just yet
+[08/06/2007 11:36:23 PM] Brian Cullinan: maybe on zipzoomfly they had the dual cores before newegg back in the day
+[08/06/2007 11:36:37 PM] Brian Cullinan: so they might have then sooner this time too
+[08/06/2007 11:36:50 PM] Nerd Andrew: oh. I do have a couple new friends, they are dd-wrt and linksys wrt54gl
+[08/06/2007 11:37:07 PM] Nerd Andrew: that way I don't have to set up smoothwalls and ipcops for every client anymore
+[08/06/2007 11:37:12 PM] Brian Cullinan: i like the d-link stuff
+[08/06/2007 11:37:19 PM] Brian Cullinan: linksys bios drives me nuts
+[08/06/2007 11:37:25 PM] Nerd Andrew: as long as it runs linux I am happy
+[08/06/2007 11:37:31 PM] Nerd Andrew: notice me saying "dd-wrt"
+[08/06/2007 11:37:44 PM] Brian Cullinan: meh, smoothwall is hotter
+[08/06/2007 11:37:48 PM] Brian Cullinan: just build your own
+[08/06/2007 11:37:54 PM] Nerd Andrew: (Link: http://dd-wrt.com/dd-wrtv2/index.php)http://dd-wrt.com/dd-wrtv2/index.php
+[08/06/2007 11:38:05 PM] Brian Cullinan: 4 port 1000gbs pci cards aren't that expensive
+[08/06/2007 11:38:23 PM] Nerd Andrew: smoothwall and ipcop are sweet, but there isn't any reason to have that when they gots a laptop and a desktop and that's it
+[08/06/2007 11:38:37 PM] Brian Cullinan: yeah good point
+[08/06/2007 11:38:40 PM] Nerd Andrew: plus these things can do alot of shit
+[08/06/2007 11:38:59 PM] Brian Cullinan: i want to build a smoothwall box just so i can vpn into it, instead of trying to find a good router with vpn passthrough
+[08/06/2007 11:39:03 PM] Nerd Andrew: and for $60 are a pretty decent bargain
+[08/06/2007 11:39:10 PM] Brian Cullinan: yeah good deal
+[08/06/2007 11:39:24 PM] Nerd Andrew: but yeah, all linux and the very cool thing is
+[08/06/2007 11:39:31 PM] Nerd Andrew: that they have a WDS
+[08/06/2007 11:39:42 PM] Nerd Andrew: so you can setup like a shitload of them
+[08/06/2007 11:39:46 PM] Nerd Andrew: and make a seemless wifi 
+[08/06/2007 11:39:47 PM] Brian Cullinan: yeah thats awesome
+[08/06/2007 11:40:06 PM] Brian Cullinan: i've learned so much about linux since that class
+[08/06/2007 11:40:18 PM] Nerd Andrew: also that firmware lets you overclock the wrt (hehehehehehe)
+[08/06/2007 11:40:23 PM] Brian Cullinan: i learned assembly too, i want to explore the linux kernel
+[08/06/2007 11:40:34 PM] Nerd Andrew: oooh neat
+[08/06/2007 11:40:37 PM] Brian Cullinan: overclock your router, seems a little excessive
+[08/06/2007 11:40:39 PM] Nerd Andrew: straight c would help too
+[08/06/2007 11:40:48 PM] Brian Cullinan: yeah the kernel is so complex
+[08/06/2007 11:40:51 PM] Nerd Andrew: which assembly though?
+[08/06/2007 11:41:01 PM] Nerd Andrew: at this point, it's pretty nutty
+[08/06/2007 11:41:02 PM] Brian Cullinan: but at least i can identify when they are using an assembly include
+[08/06/2007 11:41:15 PM] Brian Cullinan: i learned att_syntax and intel_syntax
+[08/06/2007 11:41:18 PM] Nerd Andrew: I would probably start looking at the bsd source
+[08/06/2007 11:41:39 PM] Nerd Andrew: since they don't literally pack all of it in there
+[08/06/2007 11:41:48 PM] Brian Cullinan: yeah
+[08/06/2007 11:42:09 PM] Nerd Andrew: oh also that firmware lets you screw with the power
+[08/06/2007 11:42:12 PM] Nerd Andrew: output
+[08/06/2007 11:42:20 PM] Nerd Andrew: you can go all the way to 1/4 watt
+[08/06/2007 11:42:27 PM] Brian Cullinan: thats so awesome, i might have to get one of those too
+[08/06/2007 11:42:33 PM] Nerd Andrew: (fcc probably wouln't approve hehehe)
+[08/06/2007 11:42:42 PM] Brian Cullinan: yeah i imagine
+[08/06/2007 11:43:08 PM] Nerd Andrew: people have set those damn things up with modified satellite dishes to reach distances of 5-7 miles
+[08/06/2007 11:43:15 PM] Nerd Andrew: on stock hardware with that firmware
+[08/06/2007 11:43:34 PM] Brian Cullinan: lol that so awesome
+[08/06/2007 11:43:37 PM] Nerd Andrew: granted it's line of sight, it's still pretty cool
+[08/06/2007 11:44:14 PM] Brian Cullinan: yeah you could mount the dish on your roof and have the home owners ass. complaining
+[08/06/2007 11:44:18 PM] Nerd Andrew: so whenever you see an older wrt54gs check the version number 
+[08/06/2007 11:44:51 PM] Nerd Andrew: (Link: http://68.230.99.144:8090/images/newroom/CleanRoom/Desk/P1010002small.jpg)http://68.230.99.144:8090/images/newroom/CleanRoom/Desk/P1010002small.jpg
+[08/06/2007 11:44:55 PM] Nerd Andrew: older picture
+[08/06/2007 11:45:00 PM] Nerd Andrew: but not much has changed
+[08/06/2007 11:45:10 PM] Brian Cullinan: my setup changed
+[08/06/2007 11:45:13 PM] Brian Cullinan: sec
+[08/06/2007 11:45:16 PM] Nerd Andrew: (except for a new 22" mitsubishi replacing that apple)
+[08/06/2007 11:45:53 PM] Brian Cullinan: isp pisses me off
+[08/06/2007 11:46:00 PM] Nerd Andrew: who you got?
+[08/06/2007 11:47:10 PM] Nerd Andrew: lol I love looking at my old setups (looking in my archives)
+[08/06/2007 11:47:27 PM] Brian Cullinan: quest phone line with a small company isp that offers fixed ip
+[08/06/2007 11:47:32 PM] Nerd Andrew: (Link: http://68.230.99.144:8090/images/MISC/06.jpg)http://68.230.99.144:8090/images/MISC/06.jpg
+[08/06/2007 11:47:33 PM] Nerd Andrew: ic
+[08/06/2007 11:48:22 PM] Nerd Andrew: how much up do you get?
+[08/06/2007 11:48:40 PM] Nerd Andrew: cox has us stuck with a dismal 60Kbyte atm
+[08/06/2007 11:48:41 PM] Brian Cullinan: like 3
+[08/06/2007 11:48:51 PM] Brian Cullinan: not really 3 but they claim 3
+[08/06/2007 11:49:00 PM] Nerd Andrew: 3 up?
+[08/06/2007 11:49:04 PM] Brian Cullinan: like 200 max
+[08/06/2007 11:49:06 PM] Brian Cullinan: yeah
+[08/06/2007 11:49:07 PM] Brian Cullinan: 7 down
+[08/06/2007 11:49:10 PM] Nerd Andrew: ic
+[08/06/2007 11:49:14 PM] Brian Cullinan: but really like 500kbs
+[08/06/2007 11:49:25 PM] Brian Cullinan: can't find good picture of my setup
+[08/06/2007 11:49:28 PM] Nerd Andrew: adsl or vdsl?
+[08/06/2007 11:49:37 PM] Nerd Andrew: I got a d40 recently. 
+[08/06/2007 11:49:46 PM] Brian Cullinan: this will do
+[08/06/2007 11:50:30 PM] Brian Cullinan: fucking isp times out whenever i access my own server
+[08/06/2007 11:50:40 PM] Nerd Andrew: that sucks
+[08/06/2007 11:50:43 PM] Brian Cullinan: its ridiculous, its like they are trying to block port 80 like cox
+[08/06/2007 11:50:47 PM] Brian Cullinan: but it doesn't work half the time
+[08/06/2007 11:50:52 PM] Brian Cullinan: and other ports are just as bad
+[08/06/2007 11:50:52 PM] Nerd Andrew:  = /
+[08/06/2007 11:50:59 PM] Nerd Andrew: fucking weird
+[08/06/2007 11:51:02 PM] Brian Cullinan: (Link: http://209.250.30.30/Share/Pictures/Other/random/DSC01146.JPG)http://209.250.30.30/Share/Pictures/Other/random/DSC01146.JPG(Link: http://209.250.30.30/Share/Pictures/Other/random/DSC01146.JPG)
+[08/06/2007 11:51:07 PM] Nerd Andrew: are they traffic shaping?
+[08/06/2007 11:51:11 PM] Brian Cullinan: if it times out just try again
+[08/06/2007 11:51:20 PM] Brian Cullinan: if they are they are doing it wrong
+[08/06/2007 11:51:29 PM] Nerd Andrew: nuce...
+[08/06/2007 11:51:47 PM] Brian Cullinan: my desktop is the short one, now it has a new case
+[08/06/2007 11:51:54 PM] Nerd Andrew: I haven't gotten lcd's just yet because they are only now getting to my liking
+[08/06/2007 11:51:59 PM] Brian Cullinan: and i have a new condo and desk, but that is the gist of it
+[08/06/2007 11:52:09 PM] Brian Cullinan: that acer is hot
+[08/06/2007 11:52:12 PM] Nerd Andrew: vista for me has been a nightmare, worse then the beta
+[08/06/2007 11:52:13 PM] Brian Cullinan: 24"
+[08/06/2007 11:52:20 PM] Brian Cullinan: i have vista
+[08/06/2007 11:52:23 PM] Nerd Andrew: how's it been for you?
+[08/06/2007 11:52:27 PM] Nerd Andrew: yeah I see
+[08/06/2007 11:52:28 PM] Brian Cullinan: i am just using the zune skin
+[08/06/2007 11:52:32 PM] Brian Cullinan: not really vista
+[08/06/2007 11:52:34 PM] Nerd Andrew: kk
+[08/06/2007 11:52:37 PM] Brian Cullinan: everyone gets them confused
+[08/06/2007 11:52:45 PM] Nerd Andrew: I was looking at the laptop lol
+[08/06/2007 11:52:49 PM] Brian Cullinan: on the laptop i had vista
+[08/06/2007 11:52:52 PM] Brian Cullinan: and it blows
+[08/06/2007 11:52:56 PM] Nerd Andrew: yeah 
+[08/06/2007 11:53:01 PM] Brian Cullinan: i have to reinstall xp because it drove me nuts
+[08/06/2007 11:53:07 PM] Brian Cullinan: can find a good crack for it
+[08/06/2007 11:53:09 PM] Nerd Andrew: I bought 2 new laptops
+[08/06/2007 11:53:16 PM] Nerd Andrew: and got rid of vista on both
+[08/06/2007 11:53:29 PM] Nerd Andrew: after deciding that after trimming off all I could
+[08/06/2007 11:53:39 PM] Brian Cullinan: yeah vista sucks, terrible driver support, too much memory focused on gui
+[08/06/2007 11:53:40 PM] Nerd Andrew: it still fucking used 280mb of ram at idle
+[08/06/2007 11:53:48 PM] Brian Cullinan: yeah
+[08/06/2007 11:53:50 PM] Brian Cullinan: exactly
+[08/06/2007 11:53:58 PM] Nerd Andrew: unacceptable when I can get XP to run with the much trimming @ 75megs
+[08/06/2007 11:54:04 PM] Brian Cullinan: yeah
+[08/06/2007 11:54:12 PM] Nerd Andrew: also the gui hangs alot
+[08/06/2007 11:54:25 PM] Nerd Andrew: have you tried using printers?
+[08/06/2007 11:54:28 PM] Nerd Andrew: god damn nightmare
+[08/06/2007 11:54:34 PM] Nerd Andrew: also the windows nanny is hell to disable
+[08/06/2007 11:55:08 PM] Brian Cullinan: i mean how am i supposed to run 3 out of 10 office programs at once, plus eclipse, plus 2 out of 10 adobe studios, plus visual studio with multiple projects open all at once on vista? i can do it on xp just fine
+[08/06/2007 11:55:17 PM] Nerd Andrew: too much work for something which is windows XP, has all it's pitfalls, uses more ram, and....
+[08/06/2007 11:55:39 PM] Nerd Andrew: yeah things lag up the more you have open
+[08/06/2007 11:55:45 PM] Nerd Andrew: it's like a cascading effect
+[08/06/2007 11:55:58 PM] Brian Cullinan: yeah, but xp handles it fine, vista sucks
+[08/06/2007 11:56:22 PM] Nerd Andrew: anyway printer support is perhaps the worst complaint I get
+[08/06/2007 11:56:34 PM] Nerd Andrew: getting printers to work is...hellish
+[08/06/2007 11:57:07 PM] Brian Cullinan: i wanted to use the new media center for a media/tv server but i couldn't get any tv tuners installed on it
+[08/06/2007 11:57:26 PM] Nerd Andrew: if you want to use the media box without myth
+[08/06/2007 11:57:32 PM] Nerd Andrew: I suggest GBPVR
+[08/06/2007 11:57:34 PM] Brian Cullinan: i set up and iso server using automount and it loads all my dvds over the network in the media center library, its so hot
+[08/06/2007 11:57:42 PM] Nerd Andrew: running under XP pro or so
+[08/06/2007 11:58:02 PM] Brian Cullinan: nothing is as pretty as the microsoft media center though
+[08/06/2007 11:58:16 PM] Nerd Andrew: well for pretty
+[08/06/2007 11:58:19 PM] Nerd Andrew: there is beyondtv
+[08/06/2007 11:58:32 PM] Nerd Andrew: for functionality (and freebie) there is gbpvr
+[08/06/2007 11:59:02 PM] Brian Cullinan: that looks alright but still not as good
+[08/06/2007 11:59:09 PM] Nerd Andrew: on this windoze box I run gbpvr and a adaptec 3610 I got at a thrift shop
+[08/06/2007 11:59:11 PM] Brian Cullinan: microsofts is so glassy
+[08/06/2007 11:59:13 PM] Brian Cullinan: i love it
+[08/06/2007 11:59:31 PM] Nerd Andrew: records and schedules the way I like it
+[08/06/2007 11:59:49 PM] Brian Cullinan: i might try gbpvr
+[08/06/2007 11:59:57 PM] Nerd Andrew: MCE is like hell when it comes to drivers I've found
+[08/07/2007 12:00:05 AM] Brian Cullinan: other problem is getting tv listings for flagstaff
+[08/07/2007 12:00:11 AM] Nerd Andrew: I remember my previous experience was I almost had everything working
+[08/07/2007 12:00:22 AM] Nerd Andrew: that shouldn't  be a problem
+[08/07/2007 12:00:47 AM] Nerd Andrew: well it shouldn't be a prob until sep 1'st anyway
+[08/07/2007 12:01:04 AM] Brian Cullinan: why sep 1st?
+[08/07/2007 12:01:06 AM] Nerd Andrew: but gb-pvr can take anything in xmltv form
+[08/07/2007 12:01:18 AM] Nerd Andrew: zap2it will revoke free listing data
+[08/07/2007 12:01:27 AM] Brian Cullinan: yeah i will have to look at xmltv website and see if flagstaff is supported
+[08/07/2007 12:01:31 AM] Nerd Andrew: so basically you will need to scrape data somewhere else
+[08/07/2007 12:01:38 AM] Brian Cullinan: yeah
+[08/07/2007 12:01:40 AM] Nerd Andrew: well basically
+[08/07/2007 12:01:40 AM] Brian Cullinan: that sucks
+[08/07/2007 12:01:45 AM] Nerd Andrew: xmltv is the parser
+[08/07/2007 12:01:59 AM] Nerd Andrew: but don't worry, there's a project in the mix
+[08/07/2007 12:02:03 AM] Brian Cullinan: oh, what does like media portal use?
+[08/07/2007 12:02:08 AM] Brian Cullinan: thats what i was thinking of
+[08/07/2007 12:02:19 AM] Nerd Andrew: I'll bet there's probably a project
+[08/07/2007 12:02:26 AM] Nerd Andrew: but wait on that a bit
+[08/07/2007 12:02:29 AM] Brian Cullinan: some xmltv solution that works well
+[08/07/2007 12:02:43 AM] Nerd Andrew: (Link: http://labs.zap2it.com/ztvws/ztvws_login/1,1059,TMS01-1,00.html)http://labs.zap2it.com/ztvws/ztvws_login/1,1059,TMS01-1,00.html
+[08/07/2007 12:02:49 AM] Nerd Andrew: but that's the one I am using atm
+[08/07/2007 12:03:24 AM] Nerd Andrew: (Link: http://schedulesdirect.org/)http://schedulesdirect.org/
+[08/07/2007 12:03:38 AM] Nerd Andrew: ^ and those guys are working on a solution to the zap2it problem
+[08/07/2007 12:03:51 AM] Brian Cullinan: alright 3rd time installing windows almost done
+[08/07/2007 12:03:54 AM] Nerd Andrew: but they probably won't be done 'till a month in advance
+[08/07/2007 12:03:55 AM] Brian Cullinan: fucking sony
+[08/07/2007 12:04:07 AM] Nerd Andrew: so what's been the major prob?
+[08/07/2007 12:04:14 AM] Brian Cullinan: the raid
+[08/07/2007 12:04:20 AM] Nerd Andrew: btw I will be back in 7mins
+[08/07/2007 12:04:21 AM] Nerd Andrew: ic
+[08/07/2007 12:05:25 AM] Brian Cullinan: i had to slipstream the raid drivers using nLite, then first time install worked and reboot didn't without the raid just regular drives, now i reactived raid and installing again
+[08/07/2007 12:07:52 AM] Nerd Andrew: the other way of doing it is using a usb floppy drive
+[08/07/2007 12:07:59 AM] Brian Cullinan: tried it
+[08/07/2007 12:08:09 AM] Brian Cullinan: that was part of the first first time
+[08/07/2007 12:08:13 AM] Nerd Andrew: ouch
+[08/07/2007 12:08:13 AM] Brian Cullinan: lol
+[08/07/2007 12:08:15 AM] Brian Cullinan: yeah
+[08/07/2007 12:08:41 AM] Nerd Andrew: the bios should be able to patch that in as a "real" a drive
+[08/07/2007 12:08:47 AM] Nerd Andrew: but oh well
+[08/07/2007 12:09:04 AM] Brian Cullinan: yeah i think it will work this time
+[08/07/2007 12:09:17 AM] Nerd Andrew: I think the funniest thing I've ever had to do
+[08/07/2007 12:09:30 AM] Nerd Andrew: was install win2k on a machine...
+[08/07/2007 12:09:34 AM] Nerd Andrew: you ready?
+[08/07/2007 12:09:36 AM] Brian Cullinan: yeah
+[08/07/2007 12:09:40 AM] Nerd Andrew: with a scsi floppy drive
+[08/07/2007 12:09:45 AM] Brian Cullinan: omg
+[08/07/2007 12:09:54 AM] Brian Cullinan: ohhh the humanity
+[08/07/2007 12:09:56 AM] Nerd Andrew: and of course the mobo didn't have a floppy port
+[08/07/2007 12:09:59 AM] Brian Cullinan: that would be strange
+[08/07/2007 12:10:02 AM] Nerd Andrew: only onboard scsi
+[08/07/2007 12:10:20 AM] Nerd Andrew: was a weird ass server
+[08/07/2007 12:10:42 AM] Nerd Andrew: I ended up putting in a usb pci card
+[08/07/2007 12:10:48 AM] Nerd Andrew: and using my superdisk drive
+[08/07/2007 12:10:53 AM] Nerd Andrew: and that worked 
+[08/07/2007 12:11:02 AM] Nerd Andrew: so I could load the oddball scsi card up
+[08/07/2007 12:11:14 AM] Brian Cullinan: yeah
+[08/07/2007 12:11:32 AM] Nerd Andrew: actually I think I remember one that was weirder
+[08/07/2007 12:11:47 AM] Nerd Andrew: I had a client with a Dell CPX with a busted docking station port
+[08/07/2007 12:11:55 AM] Nerd Andrew: needed xp reinstalled
+[08/07/2007 12:12:03 AM] Nerd Andrew: I don't know if you ever have seen a cp/x
+[08/07/2007 12:12:15 AM] Nerd Andrew: but it doesn't have a floppy drive or a cd drive, or even a bay
+[08/07/2007 12:12:23 AM] Brian Cullinan: oh
+[08/07/2007 12:12:29 AM] Nerd Andrew: a single 1.1 usb port is what you get
+[08/07/2007 12:12:32 AM] Brian Cullinan: that would be difficult
+[08/07/2007 12:12:35 AM] Nerd Andrew: and no the bios won't boot off of it
+[08/07/2007 12:12:35 AM] Brian Cullinan: yeah
+[08/07/2007 12:12:38 AM] Nerd Andrew: here's what I did
+[08/07/2007 12:13:01 AM] Nerd Andrew: formated the drive in another box, and I put the cd on the hard drive and made it bootable
+[08/07/2007 12:13:10 AM] Brian Cullinan: ahh
+[08/07/2007 12:13:15 AM] Nerd Andrew: so then dumped the hard drive in
+[08/07/2007 12:13:19 AM] Nerd Andrew: setup windows
+[08/07/2007 12:13:23 AM] Nerd Andrew: yada yada
+[08/07/2007 12:13:24 AM] Brian Cullinan: yeah i see
+[08/07/2007 12:13:29 AM] Nerd Andrew: and amazingly it worked
+[08/07/2007 12:13:38 AM] Brian Cullinan: i want to put dsl on my usb drive
+[08/07/2007 12:13:44 AM] Nerd Andrew: dsl is awesome
+[08/07/2007 12:13:50 AM] Brian Cullinan: i got a 4 gig pqi
+[08/07/2007 12:13:59 AM] Nerd Andrew: I have one on a 20gb 2.5" drive
+[08/07/2007 12:14:06 AM] Brian Cullinan: seagate?
+[08/07/2007 12:14:09 AM] Nerd Andrew: drives people at public places with public comps nuts
+[08/07/2007 12:14:11 AM] Nerd Andrew: yeah
+[08/07/2007 12:14:13 AM] Brian Cullinan: love it
+[08/07/2007 12:14:14 AM] Nerd Andrew: err
+[08/07/2007 12:14:16 AM] Nerd Andrew: wait
+[08/07/2007 12:14:21 AM] Nerd Andrew: that 20 is an old IBM
+[08/07/2007 12:14:25 AM] Brian Cullinan: ah
+[08/07/2007 12:14:29 AM] Nerd Andrew: but wither way
+[08/07/2007 12:14:31 AM] Nerd Andrew: free to me
+[08/07/2007 12:14:33 AM] Brian Cullinan: seagate has some nice ones too
+[08/07/2007 12:14:38 AM] Nerd Andrew: I have several seagates
+[08/07/2007 12:14:50 AM] Nerd Andrew: including a 7200rpm 60gb in my gateway
+[08/07/2007 12:15:04 AM] Nerd Andrew: (woot 7200, woot 2.5", boo eats power =(
+[08/07/2007 12:15:34 AM] Nerd Andrew: although they are making their 15k scsi drives in 2.5" now too
+[08/07/2007 12:15:39 AM] Nerd Andrew: that just blows my mind
+[08/07/2007 12:15:52 AM] Brian Cullinan: yeah thats awesome
+[08/07/2007 12:16:10 AM] Nerd Andrew: they are fuscking expensive 
+[08/07/2007 12:16:11 AM] Nerd Andrew: (Link: http://www.amazon.com/36GB-Sas-Single-Port-Drive/dp/B000M7UXSU)http://www.amazon.com/36GB-Sas-Single-Port-Drive/dp/B000M7UXSU
+[08/07/2007 12:16:30 AM] Nerd Andrew: I dealt with some hp opty servers which had them in
+[08/07/2007 12:16:42 AM] Brian Cullinan: thats cool
+[08/07/2007 12:16:43 AM] Nerd Andrew: quick, quiet, and don't use alot of power 
+[08/07/2007 12:16:50 AM] Brian Cullinan: i like the ibm enterprise servers the best
+[08/07/2007 12:17:17 AM] Nerd Andrew: I like sun's a whole lot
+[08/07/2007 12:17:24 AM] Nerd Andrew: not happy with Dells.......
+[08/07/2007 12:17:30 AM] Nerd Andrew: their bios sucks monkey balls
+[08/07/2007 12:17:37 AM] Brian Cullinan: nah suns are so proprietary with their solaris stuff
+[08/07/2007 12:17:46 AM] Nerd Andrew: nah I mean their opty stuff
+[08/07/2007 12:17:56 AM] Brian Cullinan: and hps are nice but not enough redundancy options
+[08/07/2007 12:17:58 AM] Nerd Andrew: (although there's nothing wrong with sparc)
+[08/07/2007 12:18:11 AM] Brian Cullinan: ibm has all redundant stuff, even backup powersupply options
+[08/07/2007 12:18:12 AM] Nerd Andrew: (except the price that is)
+[08/07/2007 12:18:25 AM] Nerd Andrew: IBM's all have 1 bad thing in common
+[08/07/2007 12:18:29 AM] Nerd Andrew: the big red button
+[08/07/2007 12:18:35 AM] Brian Cullinan: lol
+[08/07/2007 12:18:46 AM] Nerd Andrew: esp on their really high end shit
+[08/07/2007 12:19:12 AM] Brian Cullinan: yeah
+[08/07/2007 12:19:14 AM] Nerd Andrew: although I tell you
+[08/07/2007 12:19:16 AM] Nerd Andrew: (Link: http://domino.research.ibm.com/comm/pr.nsf/pages/rsc.bluegene_2004.html)http://domino.research.ibm.com/comm/pr.nsf/pages/rsc.bluegene_2004.html
+[08/07/2007 12:19:29 AM] Nerd Andrew: I wouldn't mind a few of those
+[08/07/2007 12:19:29 AM] Brian Cullinan: so beautiful
+[08/07/2007 12:19:38 AM] Brian Cullinan: i know those are so nice
+[08/07/2007 12:19:48 AM] Nerd Andrew: starting at 30k
+[08/07/2007 12:19:57 AM] Nerd Andrew: (not too shabby)
+[08/07/2007 12:20:08 AM] Brian Cullinan: yeah sun's starts at like 40
+[08/07/2007 12:20:19 AM] Nerd Andrew: well in that range anyway
+[08/07/2007 12:21:06 AM] Nerd Andrew: (Link: http://www.sun.com/servers/blades/8000/)http://www.sun.com/servers/blades/8000/
+[08/07/2007 12:21:10 AM] Nerd Andrew: but things like those
+[08/07/2007 12:21:16 AM] Nerd Andrew: I've been really happy with them
+[08/07/2007 12:21:19 AM] Brian Cullinan: (Link: http://domino.research.ibm.com/comm/pr.nsf/pages/rscd.bluegene-picaj.html/$FILE/ASC%20dedication_15.jpg)http://domino.research.ibm.com/comm/pr.nsf/pages/rscd.bluegene-picaj.html/$FILE/A(Link: http://domino.research.ibm.com/comm/pr.nsf/pages/rscd.bluegene-picaj.html/$FILE/ASC%20dedication_15.jpg)SC%20dedication_15.jpg
+[08/07/2007 12:21:29 AM] Brian Cullinan: yeah blades are nice
+[08/07/2007 12:21:43 AM] Brian Cullinan: i don't know, i just would never run solaris
+[08/07/2007 12:21:48 AM] Brian Cullinan: i want more options then that
+[08/07/2007 12:22:08 AM] Brian Cullinan: but aren't they going less proprietary, aren't they coming out with a new system?
+[08/07/2007 12:22:09 AM] Nerd Andrew: (Link: http://www.sun.com/servers/x64/x4600/)http://www.sun.com/servers/x64/x4600/
+[08/07/2007 12:22:14 AM] Brian Cullinan: i read about it on slashdot
+[08/07/2007 12:22:14 AM] Nerd Andrew: also I nabbed one of those
+[08/07/2007 12:22:26 AM] Nerd Andrew: well nabbed as in worked on it a while
+[08/07/2007 12:23:19 AM] Brian Cullinan: why would you need such a big room for such consolidated servers?
+[08/07/2007 12:23:33 AM] Nerd Andrew: lol
+[08/07/2007 12:23:47 AM] Nerd Andrew: well I've seen things like I shown you
+[08/07/2007 12:23:51 AM] Nerd Andrew: placed in one rack
+[08/07/2007 12:23:51 AM] Brian Cullinan: its just so beautiful, i bet when they turn on the lights each row of lights turn on sequentially
+[08/07/2007 12:23:56 AM] Nerd Andrew: replaced 3 racks
+[08/07/2007 12:24:07 AM] Brian Cullinan: thats what i would do if i had a room like that
+[08/07/2007 12:24:11 AM] Nerd Andrew: and they just leave the 1 with the one or 2 servers in it
+[08/07/2007 12:24:21 AM] Nerd Andrew: if I had a room like that
+[08/07/2007 12:24:28 AM] Nerd Andrew: it would be stacked floor to ceiling
+[08/07/2007 12:24:35 AM] Brian Cullinan: and when you flip the switch i would make it play that tune that you see in every epic seen on the movies
+[08/07/2007 12:24:40 AM] Nerd Andrew: with anything and everything you can imagine
+[08/07/2007 12:25:07 AM] Nerd Andrew: (until the power ran out anyway)
+[08/07/2007 12:25:16 AM] Nerd Andrew: then it would be me on the roof adding solar panels
+[08/07/2007 12:25:24 AM] Brian Cullinan: lol
+[08/07/2007 12:25:27 AM] Brian Cullinan: yeah
+[08/07/2007 12:25:37 AM] Brian Cullinan: or using a river like googles new data farm
+[08/07/2007 12:25:59 AM] Nerd Andrew: lol I never know what's a practical joke and what isn't from google
+[08/07/2007 12:26:00 AM] Nerd Andrew: -D
+[08/07/2007 12:26:32 AM] Brian Cullinan: it was on slashdot, they used water generators that use to power a steel mill
+[08/07/2007 12:26:39 AM] Brian Cullinan: in oklahoma i think
+[08/07/2007 12:26:52 AM] Nerd Andrew: although their first sushi chef quit and started his own resteraunt chain
+[08/07/2007 12:27:22 AM] Brian Cullinan: they even got laws changed so they didn't have to make their power usage public
+[08/07/2007 12:27:30 AM] Brian Cullinan: thats awesome
+[08/07/2007 12:27:34 AM] Brian Cullinan: i want to work for google
+[08/07/2007 12:27:39 AM] Brian Cullinan: i started my own website company
+[08/07/2007 12:27:44 AM] Brian Cullinan: rp-s.com/new.php
+[08/07/2007 12:27:52 AM] Nerd Andrew: (Link: http://www.newegg.com/Product/Product.aspx?Item=N82E16859105294)http://www.newegg.com/Product/Product.aspx?Item=N82E16859105294
+[08/07/2007 12:27:55 AM] Nerd Andrew: imagine 1/2 of that
+[08/07/2007 12:28:09 AM] Nerd Andrew: and that's the hp server I was messing with that had the 15k drives
+[08/07/2007 12:28:27 AM] Nerd Andrew: I loved how they tipped the drives that way
+[08/07/2007 12:28:30 AM] Nerd Andrew: and keps it 3u
+[08/07/2007 12:28:32 AM] Brian Cullinan: finally windows works
+[08/07/2007 12:28:37 AM] Nerd Andrew: (well not that server anwyay)
+[08/07/2007 12:28:42 AM] Nerd Andrew: oxymoron detected
+[08/07/2007 12:28:50 AM] Brian Cullinan: you remember jared that took that linux class?
+[08/07/2007 12:29:08 AM] Nerd Andrew: I probably do, but I am terrible with names
+[08/07/2007 12:29:17 AM] Brian Cullinan: he was the kind of bigger kid
+[08/07/2007 12:29:20 AM] Nerd Andrew: what's he been up to?
+[08/07/2007 12:29:21 AM] Brian Cullinan: he works at frys now
+[08/07/2007 12:29:34 AM] Brian Cullinan: i don't talk to him much because i lost his screen name
+[08/07/2007 12:29:44 AM] Brian Cullinan: but hes like a manager at frys electronics
+[08/07/2007 12:29:45 AM] Nerd Andrew: poor guy, has to wear a neck tie
+[08/07/2007 12:29:50 AM] Brian Cullinan: yeah
+[08/07/2007 12:29:50 AM] Nerd Andrew: neat
+[08/07/2007 12:29:57 AM] Brian Cullinan: but he probably gets discounted hardware
+[08/07/2007 12:30:21 AM] Nerd Andrew: just slight discount from what I know of
+[08/07/2007 12:30:40 AM] Nerd Andrew: I wish pc club didn't close down their close stores
+[08/07/2007 12:30:47 AM] Nerd Andrew: they left the one in mesa 
+[08/07/2007 12:31:29 AM] Nerd Andrew: anyway linux has enabled a old thing to make a comeback
+[08/07/2007 12:31:34 AM] Nerd Andrew: the mainframe
+[08/07/2007 12:31:39 AM] Nerd Andrew: (courtacy of IBM)
+[08/07/2007 12:31:44 AM] Brian Cullinan: what?
+[08/07/2007 12:32:01 AM] Nerd Andrew: basically, IBM is making linux mainframes
+[08/07/2007 12:32:22 AM] Brian Cullinan: thats awesome
+[08/07/2007 12:32:28 AM] Nerd Andrew: under the notion that 30 refridgerators can essentially replace 4,000 computers in a cluster
+[08/07/2007 12:32:46 AM] Nerd Andrew: good old power chips eh?
+[08/07/2007 12:32:50 AM] Brian Cullinan: yeah
+[08/07/2007 12:32:55 AM] Nerd Andrew: but yeah linux kicks serious tail
+[08/07/2007 12:32:59 AM] Brian Cullinan: yeah
+[08/07/2007 12:33:38 AM] Nerd Andrew: and for what it's worth, I am glad you hung onto it and started messing with it
+[08/07/2007 12:33:56 AM] Nerd Andrew: because it certainly has much different functionality than anything else out there
+[08/07/2007 12:33:57 AM] Brian Cullinan: yeah i love it, i am running 3 command line servers in vmware right now
+[08/07/2007 12:34:03 AM] Brian Cullinan: SVN, web, and file storage
+[08/07/2007 12:34:10 AM] Brian Cullinan: i love work on it
+[08/07/2007 12:34:42 AM] Brian Cullinan: just got e-mail working on my webserver
+[08/07/2007 12:34:49 AM] Brian Cullinan: bjcullinan@bjcullinan.com
+[08/07/2007 12:34:51 AM] Brian Cullinan: lol
+[08/07/2007 12:35:20 AM] Nerd Andrew: I love the fact when I setup old folks with ubuntu, they can click all the attachments, .scr's, and .exe's that they want, and they won't care
+[08/07/2007 12:35:31 AM] Nerd Andrew: heheheh
+[08/07/2007 12:35:39 AM] Brian Cullinan: yeah
+[08/07/2007 12:35:45 AM] Nerd Andrew: man, I tell you....
+[08/07/2007 12:36:00 AM] Nerd Andrew: the hardest thing to get somebody to give up
+[08/07/2007 12:36:02 AM] Nerd Andrew: is outlook
+[08/07/2007 12:36:18 AM] Brian Cullinan: i just wish ubuntu worked on my ferrari, they are getting better with laptop support, but it was a pain in the ass trying to get it to work
+[08/07/2007 12:36:22 AM] Brian Cullinan: i love outlook
+[08/07/2007 12:36:31 AM] Brian Cullinan: but i could switch to firebird
+[08/07/2007 12:36:45 AM] Nerd Andrew: IE, they get the idea after the 3rd time, not disabling AV, they get the 4th time, regularly scanning with spybot and ad-aware, they get the 2nd time
+[08/07/2007 12:37:21 AM] Nerd Andrew: yeah, been happy with thunderbird myself, and just gmail's web interface is usually enough for me
+[08/07/2007 12:37:21 AM] Brian Cullinan: i don't even have an AV installed
+[08/07/2007 12:37:27 AM] Brian Cullinan: nore anti spyware
+[08/07/2007 12:37:37 AM] Brian Cullinan: thats what i meant, thunderbird
+[08/07/2007 12:37:40 AM] Nerd Andrew: well you arn't an average user
+[08/07/2007 12:37:45 AM] Nerd Andrew: you know better
+[08/07/2007 12:37:59 AM] Nerd Andrew: teaching someone to actually have sense about what might be bad
+[08/07/2007 12:38:05 AM] Nerd Andrew: is very difficult
+[08/07/2007 12:38:14 AM] Brian Cullinan: yeah but my friend doesn't believe me that i don't need an AV, so he is going to give me a kapersky license to test my theory
+[08/07/2007 12:38:17 AM] Nerd Andrew: "OMG one of my friends sent me an ecard!"
+[08/07/2007 12:38:44 AM] Brian Cullinan: he wants to send me to a site that he knows has a virus first, and see if it infects my whole system
+[08/07/2007 12:38:47 AM] Nerd Andrew: I like bitdefender
+[08/07/2007 12:39:05 AM] Nerd Andrew: and of course symantec corp
+[08/07/2007 12:39:19 AM] Nerd Andrew: (which is not to be confused with norton's crappy ass retail products)
+[08/07/2007 12:39:41 AM] Brian Cullinan: i hate internet security suite
+[08/07/2007 12:39:43 AM] Brian Cullinan: its so gay
+[08/07/2007 12:39:45 AM] Nerd Andrew: avg gives the user enough to screw up their own system
+[08/07/2007 12:39:48 AM] Nerd Andrew: omg yes it is
+[08/07/2007 12:40:01 AM] Nerd Andrew: don't get me started on how dreadful that pos is
+[08/07/2007 12:40:01 AM] Brian Cullinan: the default settings for "protecting you" disable half of windows functionality
+[08/07/2007 12:40:13 AM] Brian Cullinan: by default windows file sharing is completely disabled
+[08/07/2007 12:40:25 AM] Brian Cullinan: and you have to dig through a shit load of setting to re enable it
+[08/07/2007 12:40:36 AM] Nerd Andrew: smb is actually one of the most insecure things about windows
+[08/07/2007 12:40:46 AM] Nerd Andrew: but if you are behind a *nix box
+[08/07/2007 12:40:49 AM] Nerd Andrew: no worries at all
+[08/07/2007 12:40:49 AM] Brian Cullinan: yeah but i still want to use it
+[08/07/2007 12:41:17 AM] Nerd Andrew: heck, I use it
+[08/07/2007 12:41:25 AM] Brian Cullinan: granted windows took a good idea, and managed to fuck it up with security holes, but i still want to use it to get to my linux servers
+[08/07/2007 12:41:31 AM] Nerd Andrew: but no netbios infiltrates my network anyway
+[08/07/2007 12:41:38 AM] Nerd Andrew: nothing gets in or out 
+[08/07/2007 12:41:48 AM] Nerd Andrew: yeah
+[08/07/2007 12:42:13 AM] Brian Cullinan: i have mutiple router levels, so i have netbios port forwarded to my file server lol
+[08/07/2007 12:42:32 AM] Brian Cullinan: its pretty insecure, net bios and 445
+[08/07/2007 12:43:05 AM] Brian Cullinan: but our modem is above that, so my roommate can get to my fileserver but its still blocked off from the outside
+[08/07/2007 12:43:58 AM] Nerd Andrew: what I hate is when MS takes an existing idea (web browser for an example with open standards) and fucks it totally (activeX) and makes it so that webpages coded in their WYSIWYG editor (frontpage)...no can that, it's a WYSIWTF editor come up so messed up as to not display properly, and the fucked totally portion enables remote unauthorized code downloading and execution
+[08/07/2007 12:44:19 AM] Nerd Andrew: I mean there should be nothing that insecure about a damn web browser!
+[08/07/2007 12:44:35 AM] Nerd Andrew: and then!
+[08/07/2007 12:44:38 AM] Brian Cullinan: thats why i use dreamweaver or notepad
+[08/07/2007 12:44:42 AM] Brian Cullinan: not frontpage 4 me
+[08/07/2007 12:44:50 AM] Nerd Andrew: they made a copy of it integrated with the OS file browser
+[08/07/2007 12:44:58 AM] Nerd Andrew: that is soooooooooooooo fucked up
+[08/07/2007 12:45:09 AM] Nerd Andrew: I use vi myself
+[08/07/2007 12:45:16 AM] Nerd Andrew: for everything now-a-days
+[08/07/2007 12:45:19 AM] Brian Cullinan: yeah vim and gvim
+[08/07/2007 12:45:34 AM] Nerd Andrew: they got vim compiled for windoze too
+[08/07/2007 12:45:37 AM] Nerd Andrew: makes life happier
+[08/07/2007 12:45:40 AM] Brian Cullinan: i love the hex editor on it, they might as well call it hax edit
+[08/07/2007 12:45:52 AM] Nerd Andrew: lol, it's handy as hell
+[08/07/2007 12:46:30 AM] Nerd Andrew: esp when you are looking through captured packets because you are bored
+[08/07/2007 12:46:33 AM] Brian Cullinan: i have to get synergy on my laptop first thing, so i can install like crazy with the shared keyboard and mouse
+[08/07/2007 12:47:29 AM] Nerd Andrew: man, I found a receipt the the day that would make you belly laugh 
+[08/07/2007 12:48:06 AM] Nerd Andrew: $490 for a 250meg quantum IDE hard drive 
+[08/07/2007 12:48:58 AM] Nerd Andrew: I remember when... "man, what are you going to do with all that room! I can't belive it's under $2 a meg!"
+[08/07/2007 12:50:25 AM] Brian Cullinan: yeah
+[08/07/2007 12:50:28 AM] Brian Cullinan: i remember those days
+[08/07/2007 12:50:49 AM] Brian Cullinan: i deleted my recycle bin
+[08/07/2007 12:51:05 AM] Brian Cullinan:  = windows rm cmd
+[08/07/2007 12:51:44 AM] Nerd Andrew: I just disable mine but leave the icon
+[08/07/2007 12:52:11 AM] Nerd Andrew: too bad you can still recover shit easily though
+[08/07/2007 12:52:11 AM] Brian Cullinan: i only have 4 icons on my desktop and i like it that way
+[08/07/2007 12:52:20 AM] Nerd Andrew: I have a fuckload as usual
+[08/07/2007 12:52:22 AM] Brian Cullinan: wanna guess?
+[08/07/2007 12:52:32 AM] Brian Cullinan: documents, computer, network, firefox
+[08/07/2007 12:52:33 AM] Brian Cullinan: lol
+[08/07/2007 12:52:37 AM] Nerd Andrew: lol
+[08/07/2007 12:53:00 AM] Nerd Andrew: my laptop doesn't even have a desktop
+[08/07/2007 12:53:05 AM] Nerd Andrew: well one of the laptops
+[08/07/2007 12:53:24 AM] Nerd Andrew: I got xp pro running in 66 megs of ram with an alternate shell 
+[08/07/2007 12:53:39 AM] Nerd Andrew: on a p3 500 laptop that I use for car diagnostics
+[08/07/2007 12:53:44 AM] Nerd Andrew: it actually runs decent too
+[08/07/2007 12:54:01 AM] Brian Cullinan: thats awesome
+[08/07/2007 12:54:03 AM] Nerd Andrew: (laptop's got 192 megs of ram, so firefox is even snappy)
+[08/07/2007 12:54:12 AM] Brian Cullinan: yeah
+[08/07/2007 12:54:20 AM] Nerd Andrew: but it's 100% explorer free unless I call it up manually
+[08/07/2007 12:54:31 AM] Brian Cullinan: i have like 100 plugins for firefox so if i am browsing for a little while it gets up to like 200 megs
+[08/07/2007 12:54:31 AM] Brian Cullinan: lol
+[08/07/2007 12:54:41 AM] Nerd Andrew: well it will anyway
+[08/07/2007 12:55:14 AM] Nerd Andrew: firefox tends to be that way if you leave it up for extended periods of time visiting a multitude of websites
+[08/07/2007 12:55:20 AM] Nerd Andrew: as there is a big debate going on
+[08/07/2007 12:55:33 AM] Brian Cullinan: yeah but i have like 10 dev tools all of which i love and use every day
+[08/07/2007 12:55:38 AM] Nerd Andrew: which is how long should you cache visited sites in memory and check them
+[08/07/2007 12:56:10 AM] Nerd Andrew: it makes for great browsing, but in the long run it ends up being a mem hogg
+[08/07/2007 12:56:11 AM] Brian Cullinan: i have to hand it to sony, their driver section is really really nice
+[08/07/2007 12:56:19 AM] Nerd Andrew: and any memory leaks exastribates it
+[08/07/2007 12:56:29 AM] Nerd Andrew: yeah, it's nice when they work
+[08/07/2007 12:56:34 AM] Nerd Andrew: and when it's complete
+[08/07/2007 12:56:44 AM] Brian Cullinan: its well organized and they actually have all their drivers on here
+[08/07/2007 12:56:55 AM] Nerd Andrew: sometimes you get something and you have to manually recover something on a crashed drive
+[08/07/2007 12:56:58 AM] Nerd Andrew: because they are like
+[08/07/2007 12:57:07 AM] Nerd Andrew: "no new version avai"
+[08/07/2007 12:57:12 AM] Brian Cullinan: yeah
+[08/07/2007 12:57:22 AM] Nerd Andrew: one thing though
+[08/07/2007 12:57:32 AM] Nerd Andrew: I didn't check on the specs
+[08/07/2007 12:57:41 AM] Nerd Andrew: you running an nvidia card in that laptop?
+[08/07/2007 12:58:00 AM] Nerd Andrew: like a 7400-7600 or something similar?
+[08/07/2007 12:58:27 AM] Nerd Andrew: normally I would have checked but I am a bit tired now
+[08/07/2007 12:58:39 AM] Brian Cullinan: yes
+[08/07/2007 12:58:41 AM] Brian Cullinan: 6800
+[08/07/2007 12:58:57 AM] Brian Cullinan: its nice enough
+[08/07/2007 12:59:05 AM] Brian Cullinan: sry 7600
+[08/07/2007 12:59:08 AM] Brian Cullinan: little better
+[08/07/2007 12:59:30 AM] Nerd Andrew: well the jury is out
+[08/07/2007 12:59:35 AM] Nerd Andrew: *still out on that
+[08/07/2007 12:59:49 AM] Nerd Andrew: but basically 6600-7600-8600, sorta the same
+[08/07/2007 01:00:00 AM] Nerd Andrew: 6800>7600, 
+[08/07/2007 01:00:13 AM] Brian Cullinan: oOo hardware decoder on this laptop
+[08/07/2007 01:00:14 AM] Nerd Andrew: I really hate these numbering games that ati and nv have been playing
+[08/07/2007 01:00:19 AM] Nerd Andrew: it gives people headaches
+[08/07/2007 01:01:14 AM] Nerd Andrew: speaking of headaches I need to hammer out some with a client's 7950gx2
+[08/07/2007 01:01:26 AM] Nerd Andrew: I think I'll get that tommorow
+[08/07/2007 01:01:36 AM] Brian Cullinan: i like ati
+[08/07/2007 01:01:54 AM] Brian Cullinan: i have a sapphire x1800 in my desktop right now
+[08/07/2007 01:01:59 AM] Brian Cullinan: it treats me well
+[08/07/2007 01:02:09 AM] Nerd Andrew: got a x1900xtx in this rig
+[08/07/2007 01:02:11 AM] Brian Cullinan: and i have a spare geforce 7800 gt in my closes
+[08/07/2007 01:02:21 AM] Brian Cullinan: but i like the ati better
+[08/07/2007 01:02:22 AM] Nerd Andrew: the drivers decide to crash sometimes
+[08/07/2007 01:02:33 AM] Nerd Andrew: I had a dual 6600gt/256meg at one point
+[08/07/2007 01:02:35 AM] Nerd Andrew: in SLI
+[08/07/2007 01:02:42 AM] Nerd Andrew: but I was not happy with it at all
+[08/07/2007 01:03:30 AM] Nerd Andrew: drivers have seemed to be the sticking point for both nv and ati for a while, and really shows why proprietary things that go that far are bad
+[08/07/2007 01:03:51 AM] Brian Cullinan: yeah that drives me nuts
+[08/07/2007 01:03:57 AM] Brian Cullinan: virtually no support on other OSes
+[08/07/2007 01:04:15 AM] Nerd Andrew: and the support on windows is lacking
+[08/07/2007 01:06:17 AM] Nerd Andrew: (Link: http://68.230.99.144:8090/images/tc/pics/01.jpg)http://68.230.99.144:8090/images/tc/pics/01.jpg
+[08/07/2007 01:06:30 AM] Nerd Andrew: ^there's an example of how crazy my nikon d40 is
+[08/07/2007 01:06:50 AM] Nerd Andrew: and that's not SHQ either
+[08/07/2007 01:07:28 AM] Brian Cullinan: shit i got to get to bed
+[08/07/2007 01:07:36 AM] Brian Cullinan: i have to get up and work later today
+[08/07/2007 01:07:44 AM] Nerd Andrew: I do too, been a pleasure hearing from you again
+[08/07/2007 01:08:03 AM] Brian Cullinan: yeah you too
+[08/07/2007 01:08:20 AM] Nerd Andrew: (Link: http://68.230.99.144:8090/images/smoothwall/02.png)http://68.230.99.144:8090/images/smoothwall/02.png
+[08/07/2007 01:08:30 AM] Nerd Andrew: too bad I will need to get cox out here soon
+[08/07/2007 01:08:37 AM] Nerd Andrew: to replace my cable lines
+[08/07/2007 01:09:39 AM] Nerd Andrew: (Link: http://68.230.99.144:8090/images/section/001.jpg)http://68.230.99.144:8090/images/section/001.jpg
+[08/07/2007 01:09:46 AM] Nerd Andrew: (Link: http://68.230.99.144:8090/images/section/002.jpg)http://68.230.99.144:8090/images/section/002.jpg
+[08/07/2007 01:10:01 AM] Nerd Andrew: ^that's from a containment building of a nuclear power plant =D
+[08/07/2007 01:10:12 AM] Nerd Andrew: (which I got to visit before the reactor was removed)
+[08/07/2007 01:10:35 AM] Brian Cullinan: what is it?
+[08/07/2007 01:11:02 AM] Nerd Andrew: core from the steel containment structure
+[08/07/2007 01:11:10 AM] Brian Cullinan: wow
+[08/07/2007 01:11:16 AM] Nerd Andrew: it's freaking heavy
+[08/07/2007 01:11:32 AM] Brian Cullinan: how much does it weigh?
+[08/07/2007 01:11:32 AM] Nerd Andrew: imagine a 40' diameter cylinder
+[08/07/2007 01:11:43 AM] Nerd Andrew: that's what it came from
+[08/07/2007 01:11:47 AM] Brian Cullinan: wow
+[08/07/2007 01:11:51 AM] Nerd Andrew: it's a good 20lbs or so
+[08/07/2007 01:12:39 AM] Nerd Andrew: (Link: http://68.230.99.144:8090/images/newroom/CleanRoom/Oscilliscope/P1010054.JPG)http://68.230.99.144:8090/images/newroom/CleanRoom/Oscilliscope/P1010054.JPG
+[08/07/2007 01:12:44 AM] Nerd Andrew: (Link: http://68.230.99.144:8090/images/newroom/CleanRoom/Oscilliscope/P1010055.JPG)http://68.230.99.144:8090/images/newroom/CleanRoom/Oscilliscope/P1010055.JPG
+[08/07/2007 01:12:53 AM] Nerd Andrew: and that was one of my favorite projects
+[08/07/2007 01:13:00 AM] Nerd Andrew: I have 2 now, that one and an all tube one
+[08/07/2007 01:13:04 AM] Nerd Andrew: both work great
+[08/07/2007 01:13:18 AM] Brian Cullinan: nice
+[08/07/2007 01:13:42 AM] Nerd Andrew: (Link: http://68.230.99.144:8090/images/room/room08.jpg)http://68.230.99.144:8090/images/room/room08.jpg
+[08/07/2007 01:13:44 AM] Nerd Andrew: lol
+[08/07/2007 01:13:53 AM] Nerd Andrew: setup from years gone by
+[08/07/2007 01:15:09 AM] Nerd Andrew: back from 2003
+[08/07/2007 01:18:46 AM] Brian Cullinan: shit its not recognizing my sound device
+[08/07/2007 01:18:52 AM] Brian Cullinan: its not even showing that it exists
+[08/07/2007 01:18:56 AM] Brian Cullinan: fucking sony
+[08/07/2007 01:19:00 AM] Nerd Andrew: actually
+[08/07/2007 01:19:06 AM] Nerd Andrew: that's normal
+[08/07/2007 01:19:11 AM] Nerd Andrew: you got the driver for it?
+[08/07/2007 01:19:19 AM] Nerd Andrew: if so find the setup file, run it
+[08/07/2007 01:19:21 AM] Nerd Andrew: reboot
+[08/07/2007 01:19:27 AM] Brian Cullinan: yeah driver install closed because it couldn't see that it exists
+[08/07/2007 01:19:29 AM] Nerd Andrew: it's a ...oh what the fuck are they called...
+[08/07/2007 01:19:45 AM] Nerd Andrew: what's the driver say it's for?
+[08/07/2007 01:19:54 AM] Nerd Andrew: I am trying to remember the exact wording
+[08/07/2007 01:19:56 AM] Brian Cullinan: the high def audio
+[08/07/2007 01:19:58 AM] Brian Cullinan: segmatel
+[08/07/2007 01:20:04 AM] Nerd Andrew: segmatel that's it
+[08/07/2007 01:20:19 AM] Brian Cullinan: not even showing up that it exists on the motherboard though
+[08/07/2007 01:20:20 AM] Nerd Andrew: check device manager and have it scan for changes
+[08/07/2007 01:20:25 AM] Brian Cullinan: not showing anywhere in device manager
+[08/07/2007 01:20:35 AM] Nerd Andrew: a pci handler has to be installed first
+[08/07/2007 01:20:42 AM] Nerd Andrew: or something for the chipset
+[08/07/2007 01:20:50 AM] Nerd Andrew: before you can install the driver
+[08/07/2007 01:20:55 AM] Brian Cullinan: i installed chipset
+[08/07/2007 01:21:00 AM] Nerd Andrew: and even then it won't come up as an unknown device
+[08/07/2007 01:21:09 AM] Brian Cullinan: nope
+[08/07/2007 01:23:04 AM] Nerd Andrew: if I recall
+[08/07/2007 01:23:16 AM] Nerd Andrew: if you can get the hd codec to install first
+[08/07/2007 01:23:23 AM] Nerd Andrew: everything will then work
+[08/07/2007 01:23:40 AM] Nerd Andrew: I am trying to remember how I got around this issue last time
+[08/07/2007 01:23:47 AM] Nerd Andrew: but I can't remember when I am this tired
+[08/07/2007 01:24:01 AM] Brian Cullinan: pci device has an exclamation point next to it
+[08/07/2007 01:24:28 AM] Nerd Andrew: ok find out if the sigmatel thing extraced files somewhere
+[08/07/2007 01:24:36 AM] Nerd Andrew: then get the pci device, that's the sound
+[08/07/2007 01:24:41 AM] Nerd Andrew: or apart of it
+[08/07/2007 01:24:46 AM] Brian Cullinan: can't find the driver
+[08/07/2007 01:24:57 AM] Nerd Andrew: point it manually to extraced file
+[08/07/2007 01:24:58 AM] Nerd Andrew: s
+[08/07/2007 01:25:10 AM] Brian Cullinan: its not showing up under unknown devices though
+[08/07/2007 01:25:20 AM] Brian Cullinan: it shows up under system devices
+[08/07/2007 01:25:26 AM] Nerd Andrew: yeah that sounds right
+[08/07/2007 01:25:49 AM] Nerd Andrew: I just remember it was damn odd
+[08/07/2007 01:26:10 AM] Nerd Andrew: (Link: ftp://202.65.194.212/pc/audio/WDM_R172a.zip)ftp://202.65.194.212/pc/audio/WDM_R172a.zip
+[08/07/2007 01:26:15 AM] Nerd Andrew: grab that first
+[08/07/2007 01:26:18 AM] Nerd Andrew: and install it
+[08/07/2007 01:27:08 AM] Brian Cullinan: what is that?
+[08/07/2007 01:27:15 AM] Nerd Andrew: hd codec
+[08/07/2007 01:27:32 AM] Nerd Andrew: I just remember it was very screwy to get it working and that had something to do with it
+[08/07/2007 01:27:54 AM] Nerd Andrew: I'll leave this IM up to remind me I need to get you the solution if that doesn't get you on the right track
+[08/07/2007 01:28:02 AM] Nerd Andrew: ttyl and good night =)
+[08/07/2007 01:28:08 AM] Brian Cullinan: good night
+[08/07/2007 01:28:13 AM] Brian Cullinan: thanks for the help
+[08/07/2007 01:29:43 AM] Nerd Andrew: holy crap, I found a list of pre-installed software on that rig
+[08/07/2007 01:29:49 AM] Nerd Andrew: must have run like shit lol
+[08/07/2007 01:29:53 AM] Brian Cullinan: could have something to do with the face that i installed the wrong OS
+[08/07/2007 01:29:53 AM] Nerd Andrew: well good night
+[08/07/2007 01:30:08 AM] Nerd Andrew: nah
+[08/07/2007 01:30:12 AM] Brian Cullinan: its an MCE, i even have an MCE license on the back
+[08/07/2007 01:30:37 AM] Nerd Andrew: that problem is a problem with all sigmatel things
+[08/07/2007 01:30:45 AM] Brian Cullinan: i will have to slipstream and mce disk and reinstall tomorrow
+[08/07/2007 01:31:10 AM] Brian Cullinan: because i want the mce software upgrades that come with windows
+[08/07/2007 01:31:15 AM] Nerd Andrew: ic
+[08/07/2007 01:31:31 AM] Nerd Andrew: well anyway I am going to bed now so I will be able to think tommorow
+[08/07/2007 01:31:40 AM] Nerd Andrew: but I did hit this snag on 7 laptops,
+[08/07/2007 01:31:48 AM] Brian Cullinan: ok goodnight
+[08/07/2007 01:31:52 AM] Nerd Andrew: and overcame it somehow 
+[08/07/2007 01:32:04 AM] Nerd Andrew: too bad that when I've done it I remember it like a car accident
+Session Close (Nerd Andrew): Tue Aug 07 01:55:38 2007
+
+
+Session Start (bjcullinan:Nerd Andrew): Tue Aug 07 07:33:24 2007
+[08/07/2007 07:33:24 AM] Nerd Andrew: just remembered, I installed this -> (Link: http://downloadcenter.intel.com/Detail_Desc.aspx?agr=N&ProductID=2300&DwnldID=13499&strOSs=44&OSFullName=Windows*%20XP%20Professional&lang=eng)http://downloadcenter.intel.com/Detail_Desc.aspx?agr=N&ProductID=2300&DwnldID=13499&strOSs=44&OSFullName=Windows*%20XP%20Professional&lang=eng 
+ 
+[08/07/2007 07:33:41 AM] Nerd Andrew: rebooted 2x, then installed sigmatel drivers
+[08/07/2007 07:34:15 AM] Nerd Andrew: I might have had to delete that odd looking "PCI Device" from device manager, but I think that's everything
+[08/07/2007 07:34:30 AM] Nerd Andrew: now going back to sleep
+Session Close (Nerd Andrew): Tue Aug 07 11:01:04 2007
+
+
+Session Start (bjcullinan:Nerd Andrew): Tue Aug 07 12:50:34 2007
+[08/07/2007 12:50:51 PM] Brian Cullinan: got audio working
+[08/07/2007 12:50:57 PM] Brian Cullinan: just needed to run wizard manually
+[08/07/2007 12:51:11 PM] Brian Cullinan: your intel update probably helped too so thanks
+Session Close (Nerd Andrew): Tue Aug 07 12:56:15 2007
+
+
+Session Start (bjcullinan:Nerd Andrew): Tue Aug 07 13:04:36 2007
+[08/07/2007 01:04:37 PM] Nerd Andrew: good deal
+Session Close (Nerd Andrew): Tue Aug 07 13:05:25 2007
+
+
+Session Start (bjcullinan:Nerd Andrew): Tue Aug 07 13:06:23 2007
+[08/07/2007 01:06:32 PM] Brian Cullinan: but i think i put in a hacked key
+[08/07/2007 01:06:58 PM] Nerd Andrew: no problem in that unless you install genuine advantage
+[08/07/2007 01:07:24 PM] Brian Cullinan: yeah its installed
+[08/07/2007 01:07:34 PM] Nerd Andrew: well there is a way to remove it
+[08/07/2007 01:07:35 PM] Brian Cullinan: but i have a valid key i just couldn't figure out how to change it
+[08/07/2007 01:07:39 PM] Nerd Andrew: it's just a pain in the ass
+[08/07/2007 01:07:40 PM] Brian Cullinan: but now i have it sorted out
+[08/07/2007 01:07:42 PM] Nerd Andrew: (Link: http://windowsupdate.62nds.com/)http://windowsupdate.62nds.com/
+[08/07/2007 01:07:46 PM] Nerd Andrew: kk
+[08/07/2007 01:07:57 PM] Brian Cullinan: there is a key update tool
+[08/07/2007 01:08:02 PM] Nerd Andrew: ^update site that doesn't require genuine advantage or even IE
+[08/07/2007 01:08:14 PM] Nerd Andrew: also there is a command
+[08/07/2007 01:08:27 PM] Nerd Andrew: msoobe -...something, let me look it up
+[08/07/2007 01:09:01 PM] Brian Cullinan: shit the key update tool sucks so much it says must be run on a supported operating system
+[08/07/2007 01:09:18 PM] Nerd Andrew: c:\windows\system32\oobe\msoobe.exe /a
+[08/07/2007 01:09:22 PM] Nerd Andrew: type that in run
+[08/07/2007 01:09:48 PM] Nerd Andrew: then click "Yes I want to telephone a customer service" blah blah
+[08/07/2007 01:09:50 PM] Nerd Andrew: and next
+[08/07/2007 01:09:56 PM] Nerd Andrew: then click change product key
+[08/07/2007 01:10:17 PM] Nerd Andrew: did that get you to the right place?
+[08/07/2007 01:10:35 PM] Brian Cullinan: looks like i have to reinstall again
+[08/07/2007 01:10:46 PM] Nerd Andrew: not accepting new key?
+[08/07/2007 01:11:03 PM] Brian Cullinan: i already activated with a bad key before genuine advatange
+[08/07/2007 01:11:13 PM] Brian Cullinan: now i can't get back to the telephone support
+[08/07/2007 01:11:50 PM] Nerd Andrew: ok, there is a way 
+[08/07/2007 01:12:23 PM] Nerd Andrew: start regedit
+[08/07/2007 01:12:32 PM] Brian Cullinan: i tried the registry mod
+[08/07/2007 01:12:57 PM] Nerd Andrew: goto hkey_local_machine\software\microsoft\windowsnt\current version\WPAEvents
+[08/07/2007 01:13:11 PM] Nerd Andrew: then find OOBETimer and click modify
+[08/07/2007 01:13:14 PM] Brian Cullinan: tried that
+[08/07/2007 01:13:21 PM] Nerd Andrew: change one digit of that mess
+[08/07/2007 01:13:30 PM] Nerd Andrew: then close regedit
+[08/07/2007 01:13:54 PM] Brian Cullinan: still says already activated
+[08/07/2007 01:13:56 PM] Nerd Andrew: then hit run and msoobe /a
+[08/07/2007 01:14:00 PM] Nerd Andrew: hang on
+[08/07/2007 01:14:07 PM] Nerd Andrew: you have to close that shit first
+[08/07/2007 01:14:11 PM] Brian Cullinan: i did
+[08/07/2007 01:14:19 PM] Brian Cullinan: before i tried
+[08/07/2007 01:14:32 PM] Nerd Andrew: hrmm changing one digit of that registry key
+[08/07/2007 01:14:42 PM] Nerd Andrew: should deactivate windows
+[08/07/2007 01:14:58 PM] Brian Cullinan: i even removed the entire string and it didn't work
+[08/07/2007 01:15:14 PM] Nerd Andrew: hrmm removing the entire string wouldn't work
+[08/07/2007 01:15:18 PM] Nerd Andrew: only corrupting it
+[08/07/2007 01:15:34 PM] Nerd Andrew: you have to make it checksum bad
+[08/07/2007 01:15:42 PM] Nerd Andrew: anyway there is one more thing you can do
+[08/07/2007 01:15:43 PM] Nerd Andrew: (Link: http://www.mydigitallife.info/2006/11/05/ways-to-crack-and-disable-wga-validation-tool-and-wga-notifications-plus-download-and-install-bypassing-genuine-windows-validate-requirement/)http://www.mydigitallife.info/2006/11/05/ways-to-crack-and-disable-wga-validation-tool-and-wga-notifications-plus-download-and-install-bypassing-genuine-windows-validate-requirement/
+[08/07/2007 01:15:49 PM] Nerd Andrew: although it's a bit lengthy
+[08/07/2007 01:18:03 PM] Brian Cullinan: i might just have to reinstall AGAIN
+[08/07/2007 01:18:13 PM] Nerd Andrew: the 2 options you have is fake wga or remove it with a scalpal
+[08/07/2007 01:19:39 PM] Brian Cullinan: why doesn't the synergy clipboard ever fucking work
+[08/07/2007 01:19:47 PM] Nerd Andrew: (Link: http://www.mydigitallife.info/2006/06/28/official-ways-to-disable-or-manually-uninstall-the-microsoft-windows-genuine-advantage-notifications-from-microsoft/)http://www.mydigitallife.info/2006/06/28/official-ways-to-disable-or-manually-uninstall-the-microsoft-windows-genuine-advantage-notifications-from-microsoft/
+[08/07/2007 01:19:58 PM] Nerd Andrew: that's the easiest way of getting rid of it
+[08/07/2007 01:21:10 PM] Nerd Andrew: then just don't use windows update from ms, and everything is good
+Session Close (Nerd Andrew): Tue Aug 07 13:55:27 2007
+
+
+Session Start (bjcullinan:Nerd Andrew): Mon Aug 13 17:05:14 2007
+[08/13/2007 05:05:24 PM] Brian Cullinan: you know of a software that can split up an mp3?
+[08/13/2007 05:05:30 PM] Brian Cullinan: does auto gk do it?
+[08/13/2007 05:05:46 PM] Brian Cullinan: or mplayer?
+Session Close (Nerd Andrew): Mon Aug 13 17:47:34 2007
+
+
+Session Start (bjcullinan:Nerd Andrew): Tue Aug 14 09:32:49 2007
+[08/14/2007 09:32:49 AM] Nerd Andrew: what do you mean in "split up an mp3"?
+ 
+[08/14/2007 09:35:01 AM] Brian Cullinan: nvm i got it
+[08/14/2007 09:35:05 AM] Nerd Andrew: kk
+[08/14/2007 09:35:22 AM] Brian Cullinan: i had a copy of sonar 4 laying around
+Session Close (Nerd Andrew): Tue Aug 14 10:01:07 2007
+
+
+Session Start (bjcullinan:Nerd Andrew): Wed Aug 15 14:00:09 2007
+[08/15/2007 02:00:35 PM] Brian Cullinan: got my laptop working again, i had to use a recovery CD and hack the installation process to avoid installing all of sony's extra bullshit
+[08/15/2007 02:00:51 PM] Brian Cullinan: now i am setting ubuntu 7 up in vmware
+[08/15/2007 02:02:34 PM] Brian Cullinan: i used to have an amazing GUI system, i ran XDM through xinet using nobody user on top of the vlc server, so it would ask for a login whenever you connect with vlc and authenticate that way
+[08/15/2007 02:10:02 PM] Brian Cullinan: *vnc
+Session Close (Nerd Andrew): Wed Aug 15 14:40:04 2007
+
+
+Session Start (bjcullinan:Nerd Andrew): Thu Aug 16 14:11:30 2007
+[08/16/2007 02:11:55 PM] Brian Cullinan: my packages come today i'm so excited, newegg had a cyberpower UPS on sale i had to grab another one for the other side of my desk
+[08/16/2007 02:12:16 PM] Nerd Andrew: nice
+[08/16/2007 02:12:20 PM] Nerd Andrew: which VA did you get?
+[08/16/2007 02:12:22 PM] Brian Cullinan: those things are getting so cheap, i bought the CP900AVR for 80 bucks
+[08/16/2007 02:12:35 PM] Nerd Andrew: k
+[08/16/2007 02:12:49 PM] Nerd Andrew: I only use rackmount UPS's anymore 
+[08/16/2007 02:12:54 PM] Brian Cullinan: too bad there was 15 dollar shipping because its like 10 pounds
+[08/16/2007 02:13:02 PM] Nerd Andrew: granted I ask a heck of alot of my ups's
+[08/16/2007 02:13:26 PM] Brian Cullinan: yeah their rackmounts are more then i need, just something to prevent restarts on the flash power shortages and enough time to shut stuff down
+[08/16/2007 02:13:42 PM] Brian Cullinan: i am not looking to run servers for hours without power
+[08/16/2007 02:13:52 PM] Nerd Andrew: I am happy with my 1500va rackmounted cyberpower
+[08/16/2007 02:14:03 PM] Brian Cullinan: yeah those are nice
+[08/16/2007 02:14:16 PM] Brian Cullinan: cyberpower is coming out with a new line with lcd displays
+[08/16/2007 02:14:18 PM] Nerd Andrew: it will keep my firewall and networking gear running for 17 hours that I've tested it
+[08/16/2007 02:14:20 PM] Brian Cullinan: they look pretty sexy
+[08/16/2007 02:14:37 PM] Nerd Andrew: I like samsung's, NEC's, and Viewsonic's
+[08/16/2007 02:14:58 PM] Nerd Andrew: I don't think I'd use anyone else's lcd's
+[08/16/2007 02:15:07 PM] Brian Cullinan: sorry, misunderstood, little lcd displays on the UPS
+[08/16/2007 02:15:14 PM] Nerd Andrew:  lol
+[08/16/2007 02:15:24 PM] Nerd Andrew: had LCD's on my APC's
+[08/16/2007 02:15:29 PM] Nerd Andrew: although they were useless
+[08/16/2007 02:15:41 PM] Nerd Andrew: I like the little LED status panel on my rackmounted unit
+[08/16/2007 02:15:47 PM] Brian Cullinan: yeah
+[08/16/2007 02:16:03 PM] Brian Cullinan: and i bought a peerless lct 101 monitor mount for my desk
+[08/16/2007 02:16:29 PM] Brian Cullinan: its a pretty awesome double jointed arm, you have to look at the technical specs to see all the rotation options
+[08/16/2007 02:16:29 PM] Nerd Andrew: meh =/
+ 
+[08/16/2007 02:16:58 PM] Brian Cullinan: i have always wanted one, i might buy 2 more for my other two monitors if this one goes well
+[08/16/2007 02:17:05 PM] Nerd Andrew: my next display system will likely consist of LED lamp LCD or DLP projectors
+[08/16/2007 02:17:59 PM] Brian Cullinan: do one of those DLP with the translucent glass/rear projection
+[08/16/2007 02:18:10 PM] Brian Cullinan: that would be so hot to run putty and eclipse on
+[08/16/2007 02:18:19 PM] Nerd Andrew: nah
+[08/16/2007 02:18:22 PM] Nerd Andrew: none of that for me
+[08/16/2007 02:18:32 PM] Nerd Andrew: just some nice projection fabric
+[08/16/2007 02:18:36 PM] Nerd Andrew: (Link: http://www.projectorreviews.com/mitsubishi/pk-20-pocketprojector/index.php)http://www.projectorreviews.com/mitsubishi/pk-20-pocketprojector/index.php
+[08/16/2007 02:18:56 PM] Nerd Andrew: anyway, the first gen units are already out
+[08/16/2007 02:19:07 PM] Nerd Andrew: and the quality will only go up from here
+[08/16/2007 02:19:21 PM] Brian Cullinan: yeah, i had a cool idea to frame the projection fabric with like a regular picture frame, then just nail it to the wall like you would a picture, kind of a stylistic thing i think
+[08/16/2007 02:19:29 PM] Brian Cullinan: leaves behind small holes too
+[08/16/2007 02:19:33 PM] Nerd Andrew: =/
+[08/16/2007 02:19:36 PM] Brian Cullinan: don't have to buy a stand
+[08/16/2007 02:19:44 PM] Nerd Andrew: I guess I am more of a form=function kind of guy
+[08/16/2007 02:19:53 PM] Nerd Andrew: if it's there to work, than it's not there to look cool
+[08/16/2007 02:20:14 PM] Nerd Andrew: if it happens to look cool without sacrificing any function than I am happy
+[08/16/2007 02:20:19 PM] Brian Cullinan: oh i totally agree, a projector would work, i just think it should look good too
+[08/16/2007 02:20:35 PM] Nerd Andrew: I would have like 4 of them
+[08/16/2007 02:20:38 PM] Nerd Andrew: side by side
+[08/16/2007 02:21:00 PM] Nerd Andrew: probably rear proj due to room constraints
+[08/16/2007 02:21:34 PM] Nerd Andrew: but the cool thing would be I could have all of my desk free of monitors
+[08/16/2007 02:22:53 PM] Brian Cullinan: yeah
+[08/16/2007 02:23:48 PM] Brian Cullinan: thats what i am going for with this mount, even though it attaches to the back of the desk, it gives me a lot more robust options as to where it actually is placed and frees up all the space underneath it where the stand currently is
+[08/16/2007 02:23:59 PM] Brian Cullinan: i can slide my keyboard back further
+[08/16/2007 02:24:08 PM] Brian Cullinan: put it up higher in the air and watch a movie
+[08/16/2007 02:24:23 PM] Brian Cullinan: or move it up and set my laptop underneath it
+[08/16/2007 02:50:39 PM] Brian Cullinan: man probe lol
+Session Close (Nerd Andrew): Thu Aug 16 15:20:52 2007
+
+
+Session Start (bjcullinan:Nerd Andrew): Mon Aug 20 03:48:56 2007
+[08/20/2007 03:48:57 AM] Brian Cullinan: (Link: http://209.250.30.30/Share/Pictures/Other/1%20petabyte.JPG)http://209.250.30.30/Share/Pictures/Other/1%20petabyte.JPG
+Session Close (Nerd Andrew): Mon Aug 20 03:49:01 2007
+
+
+Session Start (bjcullinan:Nerd Andrew): Mon Aug 20 07:31:26 2007
+[08/20/2007 07:31:26 AM] Nerd Andrew: dare 
+ I ask if that's an error or not?
+[08/20/2007 07:43:14 AM] Nerd Andrew: (because I laugh at the thought of windows file sharing and how long that would take to register)
+[08/20/2007 07:43:27 AM] Nerd Andrew: (and at the thought of you having that many hard drives)
+[08/20/2007 07:43:38 AM] Nerd Andrew: so, let's hear it for vista bugs? =/
+[08/20/2007 07:43:51 AM] Nerd Andrew: *XP bugs
+[08/20/2007 12:12:17 PM] Brian Cullinan: not an error
+[08/20/2007 12:12:37 PM] Brian Cullinan: ntfs on linux over smb with a sparse file
+[08/20/2007 12:12:39 PM] Brian Cullinan: hotness
+Session Close (Nerd Andrew): Mon Aug 20 12:13:06 2007
+
+
+Session Start (bjcullinan:Nerd Andrew): Wed Aug 29 15:28:42 2007
+[08/29/2007 03:29:15 PM] Brian Cullinan: Any suggestion for installing a cyberpower USB driver on my ubuntu machine?
+[08/29/2007 03:34:17 PM] Brian Cullinan: I got this monitor mount, Peerless LCT 101.  Holds 25 pounds its really nice.
+Session Close (Nerd Andrew): Wed Aug 29 16:04:19 2007
+
+
+Session Start (bjcullinan:Nerd Andrew): Tue Oct 09 17:54:42 2007
+[10/09/2007 05:55:08 PM] Brian Cullinan: can Xen allow guest operating systems to access PCI devices directly?
+[10/09/2007 05:55:58 PM] Nerd Andrew: well it would let them access pci through the hyperviser, and it should be pretty transparent enough for most hardware level things to work
+[10/09/2007 05:56:05 PM] Nerd Andrew: what is needed? raid card?
+[10/09/2007 05:56:44 PM] Brian Cullinan: i was thinking about doing a vitual media server so i would need a TV tuner on my video card or multiple TV tuners to work
+[10/09/2007 05:57:19 PM] Nerd Andrew: hrmmm depends upon the card
+[10/09/2007 05:57:34 PM] Nerd Andrew: I wouldn't get any video card that has an integrated tuner though
+[10/09/2007 05:57:48 PM] Brian Cullinan: i have a TV wonder, and an all in wonder and a hauppage pvr 150
+[10/09/2007 05:57:54 PM] Nerd Andrew: ic
+[10/09/2007 05:58:11 PM] Nerd Andrew: although why would you want to run it with xen? 
+[10/09/2007 05:58:36 PM] Nerd Andrew: usually a media center would be something dedicated
+[10/09/2007 05:58:47 PM] Brian Cullinan: i have a dedicated box, but its a pain in the ass to maintain
+[10/09/2007 05:59:07 PM] Nerd Andrew: what software are you using?
+[10/09/2007 05:59:11 PM] Brian Cullinan: just looking for another reason to switch from vmware
+[10/09/2007 05:59:18 PM] Brian Cullinan: currently windows MCE is installed
+[10/09/2007 05:59:21 PM] Nerd Andrew: k, 
+[10/09/2007 05:59:26 PM] Brian Cullinan: and i am thinking about switching to mythTV
+[10/09/2007 05:59:33 PM] Brian Cullinan: unless you can think of a better one
+[10/09/2007 05:59:34 PM] Nerd Andrew: I hope you have alot of hdd space 0_x
+[10/09/2007 05:59:41 PM] Brian Cullinan: i do
+[10/09/2007 05:59:45 PM] Nerd Andrew: 500gb barely keeps my 2 tuners happy
+[10/09/2007 05:59:56 PM] Nerd Andrew: and that's dedicated for nothing but TV
+[10/09/2007 06:00:14 PM] Brian Cullinan: nice
+[10/09/2007 06:00:20 PM] Brian Cullinan: well i don't like TV that much
+[10/09/2007 06:00:26 PM] Nerd Andrew: stupid me wanting to keep eps of alot of things
+[10/09/2007 06:00:54 PM] Nerd Andrew: anyway I need to head off in a sec
+[10/09/2007 06:01:15 PM] Nerd Andrew: but if you do myth
+[10/09/2007 06:01:26 PM] Nerd Andrew: just be aware... you may not get it right the first try
+[10/09/2007 06:01:35 PM] Nerd Andrew: but once you get everything up to speed, it'll rock
+[10/09/2007 06:02:04 PM] Nerd Andrew: but that tv wonder card may be a pita, the pvr150 should be just fine though
+[10/09/2007 06:04:06 PM] Brian Cullinan: yeah the pvr came with a sageTV package
+[10/09/2007 06:04:11 PM] Nerd Andrew: the more different cap cards you have in a system, the more complicated things like setting up detection of channels,  binding EPG data, and making the color balance so that everything doesn't look like it was broadcasted for the aliens in the original war of the worlds movie
+[10/09/2007 06:04:17 PM] Nerd Andrew: doesn't surprise me
+[10/09/2007 06:04:41 PM] Nerd Andrew: I am using a buggy interface that's been better than beyondtv or sage for me
+[10/09/2007 06:05:05 PM] Nerd Andrew: (as far as memory footprint is involved and being able to do other things like play video games while something is recording)
+[10/09/2007 06:05:09 PM] Nerd Andrew: called gb-pvr
+[10/09/2007 06:05:23 PM] Nerd Andrew: although it's front ends (there's 2 different ones) suck
+[10/09/2007 06:05:32 PM] Nerd Andrew: it's backend is practically bulletproof
+[10/09/2007 06:05:45 PM] Nerd Andrew: and my experiments with myth have been fun thus far
+[10/09/2007 06:05:59 PM] Nerd Andrew: (it's just it's not hooked up to 2 22" monitors)
+[10/09/2007 06:06:11 PM] Nerd Andrew: (or my bigscreen )
+[10/09/2007 06:06:29 PM] Nerd Andrew: (I have a little linux media streamer that I use for the bigscreen)
+[10/09/2007 06:06:39 PM] Nerd Andrew: anyway I literally have to run
+[10/09/2007 06:06:42 PM] Nerd Andrew: ttyl
+[10/09/2007 06:06:50 PM] Brian Cullinan: ok i'll seriously consider it, the alternative would be sticking with windows MCE which currently only runs one of my cards, but if i know there is support for multiples i will switch
+Session Close (Nerd Andrew): Tue Oct 09 18:06:54 2007
+
+
+Session Start (bjcullinan:Nerd Andrew): Tue Oct 09 18:07:02 2007
+[10/09/2007 06:07:02 PM] Nerd Andrew: mce has been a mess for me
+[10/09/2007 06:07:15 PM] Nerd Andrew: I find XP pro does a much better job with the right piece of software
+[10/09/2007 06:07:27 PM] Nerd Andrew: (and it's much less pickier about drivers)
+[10/09/2007 06:07:38 PM] Brian Cullinan: yeah i use the pro drivers on mce anyways
+[10/09/2007 06:08:02 PM] Nerd Andrew: (lol I am actually using mce drivers for my adaptec 3610 usb dual tuner)
+[10/09/2007 06:08:09 PM] Nerd Andrew: (in xp heheheh)
+[10/09/2007 06:09:02 PM] Nerd Andrew: (I scored the tuner at a goodwill for $15)
+[10/09/2007 06:09:10 PM] Nerd Andrew: (so I feel pretty damn good about it)
+[10/09/2007 06:11:44 PM] Brian Cullinan: nice, g2g to game club
+Session Close (Nerd Andrew): Tue Oct 09 18:41:46 2007
+
+
+Session Start (bjcullinan:Nerd Andrew): Tue Nov 20 15:26:38 2007
+[11/20/2007 03:26:47 PM] Brian Cullinan: how do you make streams seekable in apache?
+[11/20/2007 03:27:08 PM] Nerd Andrew: like streaming vid?
+[11/20/2007 03:27:26 PM] Nerd Andrew: I thought that had more to do with what codec you use
+[11/20/2007 03:27:34 PM] Nerd Andrew: than the webserver
+[11/20/2007 03:29:13 PM] Brian Cullinan: yeah i mean i could set up a vlc server to do it but that is a pain in the ass, i was wondering if there was a way to make all files seekable
+[11/20/2007 03:29:57 PM] Nerd Andrew: not that I've messed with
+[11/20/2007 03:30:05 PM] Nerd Andrew: so sorry to not have the answer there
+[11/20/2007 03:30:22 PM] Brian Cullinan: you usually have an answer for everything
+[11/20/2007 03:30:29 PM] Brian Cullinan: i'll tell you if i find anything
+[11/20/2007 03:30:42 PM] Brian Cullinan: but i thought other stuff used seekable files too, not just videos
+[11/20/2007 03:30:58 PM] Brian Cullinan: like firefox can pause and resume downloading when the server supports seek
+[11/20/2007 03:31:35 PM] Nerd Andrew: not too many things that I can think of, and I've found myself able to resume downloads on a stock apache install
+[11/20/2007 03:32:03 PM] Nerd Andrew: I would probably have an answer if my upload wasn't crap at my house =)
+[11/20/2007 03:32:59 PM] Brian Cullinan: you should get a dedicated line like t3 going into your house
+[11/20/2007 03:33:25 PM] Nerd Andrew: I should but my wallet screams for mercy whenever I even pass a thought about it
+[11/20/2007 03:40:05 PM] Brian Cullinan: i guess i could learn to use vlc
+[11/20/2007 03:40:31 PM] Nerd Andrew: vlc works well for me
+[11/20/2007 03:40:38 PM] Nerd Andrew: a tad buggy but still nice
+[11/20/2007 03:52:25 PM] Brian Cullinan: i just had problems getting avi files to be seekable
+Session Close (Nerd Andrew): Tue Nov 20 16:22:27 2007
+
+
+Session Start (bjcullinan:Nerd Andrew): Tue Apr 22 01:34:45 2008
+[04/22/2008 01:34:52 AM] Brian Cullinan: programming for the Z80 is fun
+Session Close (Nerd Andrew): Tue Apr 22 01:35:03 2008
+
+

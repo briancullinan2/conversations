@@ -1,0 +1,74 @@
+{
+    "thread": "/messaging/thread/6198985941793718272/",
+    "participants": [
+        {
+            "name": "Rolan Liwanag",
+            "title": "Platform Developer at Trax Technologies",
+            "url": "linkedin.com/in/rolan-liwanag-1b506220",
+            "phone": "6026289493 (Mobile)",
+            "email": "rolan_liwanag@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-10-30T22:37:00.000Z"
+        },
+        {
+            "from": "Rolan Liwanag",
+            "message": "Welcome!",
+            "time": "2017-10-30T22:39:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I am trying to build my skills can you +1 me for a bunch?",
+            "time": "2017-10-30T22:41:00.000Z"
+        },
+        {
+            "from": "Rolan Liwanag",
+            "message": "Sure",
+            "time": "2017-10-30T19:01:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I wonder if this affects search ranking in LinkedIn.",
+            "time": "2017-10-30T19:03:00.000Z"
+        },
+        {
+            "from": "Rolan Liwanag",
+            "message": "I am not sure about it. I think it is more of how many connections you have, in what industry and the position and job description you held",
+            "time": "2017-10-30T19:03:00.000Z"
+        },
+        {
+            "from": "Rolan Liwanag",
+            "message": "And the length of your profile",
+            "time": "2017-10-30T19:25:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Probably, once you have been found.  But I think a lot recruiting software just does boolean matching.",
+            "time": "2017-10-30T19:25:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Do you write that kind of stuff for TEK Systems?",
+            "time": "2017-10-30T19:34:00.000Z"
+        },
+        {
+            "from": "Rolan Liwanag",
+            "message": "I worked on several kinds and types of applications but not yet on a social networking site for job board like LinkedIn",
+            "time": "2017-10-30T19:34:00.000Z"
+        },
+        {
+            "from": "Rolan Liwanag",
+            "message": "I just said those reasoning based on my experience with LinkedIn. I was not taking LinkedIn seriously before and not even updating my profile but recruiters always found a way to find me back then even when I was a mid level developer in my career",
+            "time": "2017-10-30T19:40:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Yeah I never took it seriously either and recently went through a transformation. Now I am writing a robot to help me prioritize my socializing.",
+            "time": "2017-10-30T19:44:00.000Z"
+        }
+    ]
+}

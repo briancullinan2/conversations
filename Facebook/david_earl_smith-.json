@@ -1,0 +1,73 @@
+{
+    "thread": "https://www.facebook.com/messages/t/david.earl.smith",
+    "participants": [
+        {}
+    ],
+    "messages": [
+        {
+            "from": "Brian",
+            "message": "Brian\nAren't you curious if I still exist?\n",
+            "time": "2016-10-13T18:34:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nDoes a CNAME do any redirecting?\n",
+            "time": "2018-05-20T16:30:00.000Z"
+        },
+        {
+            "from": "David",
+            "message": "\nYes, at the DNS layer. Normally, another query would be necessary after getting a cname response. Although, if the responding server knows the response to that query too, it often includes it.\n",
+            "time": "2018-05-20T16:30:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nCan I use it to mask another domain like us-central1-sosmethod-36e55.cloudfunctions.net?\nAlso, do you think this is stupid sosmethod.io?\n",
+            "time": "2018-05-20T16:30:00.000Z"
+        },
+        {
+            "from": "David",
+            "message": "\nYou can't use a cname to hide a hostname from a sleuth, but it's a great way to make a simpler URL or hide a weird hostname from a layman.\n",
+            "time": "2018-05-20T16:30:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nOk good enough.\n",
+            "time": "2018-05-20T16:30:00.000Z"
+        },
+        {
+            "from": "David",
+            "message": "\nI'm driving so can't look at websites, but I'll check them it later.\n",
+            "time": "2018-05-20T16:30:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nOk be safe ttyl\n",
+            "time": "2018-05-20T16:30:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nHow do we make more money with IT in Flagstaff?\nI want to move.\nDo you have too much work than you can handle?\n",
+            "time": "2017-08-05T04:00:00.000Z"
+        },
+        {
+            "from": "David",
+            "message": "\nHah you totally should! It looked for a bit like I'd need to hire, but currently I'm not quite as busy as necessary to cover wages for more people. There's a lot of ups and downs.\nMaybe with advertising...\n",
+            "time": "2017-08-05T16:45:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nWhat's wrong with liking stuff?\nmegamindbrian/jupytangular\njupytangular - The jupyter angular2 stack for creating wire-frame UX.\ngithub.com\nOnce I get through a few scripts I'll try to abstract it to cover mostly all sites and then build an API and service off of the utilities.\nLike a smoke testing service for apps.\n$5 per month\n",
+            "time": "2017-08-29T03:15:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nQ: What kind of car does Mickey Mouse's wife drive?\nA: A minnie van!\n",
+            "time": "2017-11-12T06:07:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nI'm thankful for you!!��\n\n",
+            "time": "2017-11-23T19:12:00.000Z"
+        }
+    ]
+}

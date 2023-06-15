@@ -1,0 +1,114 @@
+{
+    "thread": "/messaging/thread/6227480815337562112/",
+    "participants": [
+        {
+            "name": "Russ White",
+            "title": "Co-Founder and Co-Publisher at Vegas Shade and QLife Magazine",
+            "url": "linkedin.com/in/russwhite",
+            "phone": null,
+            "email": "russwhite@me.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Russ White",
+            "time": "2018-01-18T18:28:00.000Z",
+            "message": "And a brief code review. You can tell a lot by how someone structures their code. Whether it's good or not comes down to how they think and communicate not how they write it.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-01-18T18:30:00.000Z",
+            "message": "Good points. I try to ask a lot of questions when communicating. Thank you for answering them!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-01-18T19:32:00.000Z",
+            "message": "Is it OK for me to connect to randoms and steal a few moments of their time as long as I am learning something? You are the first person to answer my question in a similar way that I did.\n"
+        },
+        {
+            "from": "Russ White",
+            "time": "2018-01-18T19:35:00.000Z",
+            "message": "I dunno how others feel. I'm certainly okay with it.\n"
+        },
+        {
+            "from": "Russ White",
+            "time": "2018-01-18T19:35:00.000Z",
+            "message": "The first person I connected with on Facebook that I'd never met before turned out to be one of my closest friends years later.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-01-18T19:49:00.000Z",
+            "message": "Excellent!\n"
+        },
+        {
+            "from": "Russ White",
+            "time": "2018-01-20T20:03:00.000Z",
+            "message": "Happy Friday. So what are the tools in your arsenal these days? What do you like using? What are you exploring?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-01-20T20:19:00.000Z",
+            "message": "Good question! I love Docker. I use to call it Linux administration but now it's basically solved for me. I am using Nodejs on sosmethod.herokuapp.com. I am using PowerShell to automate access management provisioning at Schwab. I used PHP and Symfony for years but PHP is slow. PHP version 7 is supposed to be twice as fast. I use AWS and heroku, but I've tried blue shift and azure too and I like the competition in that market space. Internally I am exploring meditation. It is amazing how I feel more observant of others just from focused relaxation.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-01-20T20:19:00.000Z",
+            "message": "Happy Friday!\n"
+        },
+        {
+            "from": "Russ White",
+            "time": "2018-01-20T20:56:00.000Z",
+            "message": "On the backend I'm using PHP, Laravel and Mongo (no more SQL anywhere). Front end is mostly jQuery and Bootstrap. I run exclusively on AWS. Laravel turned me on to Vagrant for my local dev environment. I've done iOS in the past, and will get back into it soon.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-01-20T21:56:00.000Z",
+            "message": "Cool. Swift is cool as a language but their API sucks. Microsoft already solved enumerable collections with LINQ I don't see why they don't just copy that for swift. Especially since swift has great generics. Laravel looks cool, similar to symfony. Finally someone who doesn't spout off about React.\n"
+        },
+        {
+            "from": "Russ White",
+            "time": "2018-01-20T21:58:00.000Z",
+            "message": "Most of the API has to maintain compatibility with Cocoa/Obj-C parallels, and open-sourcing Swift leads me to some interesting ideas in the coming years.\n"
+        },
+        {
+            "from": "Russ White",
+            "time": "2017-03-06T22:51:00.000Z",
+            "message": "Happy Monday.. How have you been?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-06T22:57:00.000Z",
+            "message": "Excellent. How are you? I just started a new job at swiftpage.\n"
+        },
+        {
+            "from": "Russ White",
+            "time": "2017-03-06T22:58:00.000Z",
+            "message": "Congrats! I saw that. What are you doing there?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-06T23:20:00.000Z",
+            "message": "Looks like platform development. Having a good grasp of the entire codebase. Migrating to angular 2.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-07T23:26:00.000Z",
+            "message": "How are things going on your end?\n"
+        },
+        {
+            "from": "Russ White",
+            "time": "2017-03-07T23:28:00.000Z",
+            "message": "I got laid off from my Silicon Valley job last month, but that now allows me to work on the magazine full time now. It's what I was planning on anyway, just happened a month before I was hoping for.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-07T23:51:00.000Z",
+            "message": "Oh that sucks, I am sorry. Good thing you have a backup plan.\n"
+        },
+        {
+            "from": "Russ White",
+            "time": "2017-03-08T09:01:00.000Z",
+            "message": "It's always been the primary plan. Excited to be focused once again.\n"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "thread": "/messaging/thread/6212135083239895040/",
+    "participants": [
+        {
+            "name": "Katherine Miller",
+            "title": "Sales Associate at Gap",
+            "url": "linkedin.com/in/katherine-miller-7a0527100",
+            "phone": "",
+            "email": "millerskatherine@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Congratulations!",
+            "time": "2017-12-07T05:26:00.000Z"
+        },
+        {
+            "from": "Katherine Miller",
+            "message": "For what?",
+            "time": "2017-11-07T05:27:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Connecting to my network :D",
+            "time": "2017-11-07T05:28:00.000Z"
+        },
+        {
+            "from": "Katherine Miller",
+            "message": "Lol okay",
+            "time": "2017-11-07T05:29:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "You look really familiar, we must have run into each other at green house.",
+            "time": "2017-11-07T13:20:00.000Z"
+        },
+        {
+            "from": "Katherine Miller",
+            "message": "Are you a frequent customer?",
+            "time": "2017-12-08T16:20:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Not really, probably only a few times a year. When did you start there?",
+            "time": "2017-11-07T16:53:00.000Z"
+        },
+        {
+            "from": "Katherine Miller",
+            "message": "Last May",
+            "time": "2017-12-09T00:51:00.000Z"
+        }
+    ]
+}

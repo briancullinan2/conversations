@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6237639605080911872/",
+    "participants": [
+        {
+            "name": "Brad Shroyer",
+            "title": "Senior UX Designer",
+            "url": "linkedin.com/in/bshroyer",
+            "phone": null,
+            "email": "brad.shroyer@mac.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-15T14:32:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Brad Shroyer",
+            "time": "2018-02-15T17:17:00.000Z",
+            "message": "no problem. How are you? Anything I can do to help?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-15T18:30:00.000Z",
+            "message": "Do you like working at GD?\n"
+        },
+        {
+            "from": "Brad Shroyer",
+            "time": "2018-02-15T18:34:00.000Z",
+            "message": "Are you looking at an opening?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-15T18:38:00.000Z",
+            "message": "I wish, I don't know how I could be useful there yet.\n"
+        },
+        {
+            "from": "Brad Shroyer",
+            "time": "2018-02-15T18:41:00.000Z",
+            "message": "It's rewarding and challenging. Like all jobs it's got its highs and lows.\n"
+        }
+    ]
+}

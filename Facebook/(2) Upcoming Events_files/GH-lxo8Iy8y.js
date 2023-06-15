@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["CjAyU"]); }
+
+__d('AdsBusinessIntegrityAppealTip.react',['fbt','BUIAdoptionXUIText.react','Link.react','React'],(function a(b,c,d,e,f,g,h){'use strict';var i,j;i=babelHelpers.inherits(k,c('React').Component);j=i&&i.prototype;k.prototype.render=function(){return c('React').createElement(c('BUIAdoptionXUIText.react'),{size:this.props.size},h._("If you think your ad follows our {Advertising Policies}, you can appeal this disapproval.",[h.param('Advertising Policies',c('React').createElement(c('Link.react'),{href:'https://www.facebook.com/policies/ads/'},h._("Advertising Policies")))]))};function k(){i.apply(this,arguments)}k.defaultProps={size:'small'};f.exports=k}),null);

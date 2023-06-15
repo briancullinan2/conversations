@@ -1,0 +1,629 @@
+[
+    {
+        "resourceName": "people/c567193830184706254",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgxFY3pXVXRyRTAwWT0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7df13c88ef3e0ce"
+                    }
+                },
+                "displayName": "Stephen Houghton",
+                "familyName": "Houghton",
+                "givenName": "Stephen",
+                "displayNameLastFirst": "Houghton, Stephen"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "117477577061913044366"
+                    }
+                },
+                "displayName": "Stephen Houghton",
+                "familyName": "Houghton",
+                "givenName": "Stephen",
+                "displayNameLastFirst": "Houghton, Stephen"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "105859832683526854152"
+                    }
+                },
+                "displayName": "Stephen Houghton",
+                "familyName": "Houghton",
+                "givenName": "Stephen",
+                "displayNameLastFirst": "Houghton, Stephen"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7df13c88ef3e0ce"
+                    }
+                },
+                "value": "stephen.meyer.houghton@gmail.com",
+                "type": "other",
+                "formattedType": "Other"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7df13c88ef3e0ce"
+                    }
+                },
+                "value": "stephen@studysauce.com",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7df13c88ef3e0ce"
+                    }
+                },
+                "value": "(760) 583-6389",
+                "canonicalForm": "+17605836389",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "35 Mutual Connections",
+                "You and Stephen both know Pamela Metivier, Thomas Blondi, and 33 others"
+            ],
+            [
+                "You both worked at Study Sauce",
+                "You both worked at Study Sauce from Sep 2013 to Nov 2016"
+            ],
+            [
+                "Autonomous Vehicle Technical Operations Director",
+                "Stephen shared this"
+            ],
+            [
+                "Deployment Associate",
+                "Stephen shared this"
+            ],
+            [
+                "GM, not Tesla, is a better bet on the autonomous vehicle future right now, Deutsche Bank says",
+                "Stephen liked"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "VP Global Markets",
+                "Company Name",
+                "Cruise Automation",
+                "Dates Employed",
+                "May 2016 – Present",
+                "Employment Duration",
+                "1 yr 6 mos"
+            ],
+            [
+                "Founder",
+                "Company Name",
+                "Study Sauce",
+                "Dates Employed",
+                "Sep 2013 – Present",
+                "Employment Duration",
+                "4 yrs 2 mos"
+            ],
+            [
+                "Chief Operating Officer",
+                "Company Name",
+                "More Than Your Score",
+                "Dates Employed",
+                "Jan 2013 – Jul 2013",
+                "Employment Duration",
+                "7 mos",
+                "Location",
+                "Scottsdale, AZ"
+            ],
+            [
+                "Chief Operating Officer",
+                "Company Name",
+                "Taking Point",
+                "Dates Employed",
+                "Feb 2012 – Dec 2012",
+                "Employment Duration",
+                "11 mos"
+            ],
+            [
+                "Engagement Manager",
+                "Company Name",
+                "McKinsey & Company",
+                "Dates Employed",
+                "Oct 2008 – Mar 2012",
+                "Employment Duration",
+                "3 yrs 6 mos"
+            ],
+            [
+                "Summer Intern",
+                "Company Name",
+                "Google",
+                "Dates Employed",
+                "Aug 2007 – Sep 2007",
+                "Employment Duration",
+                "2 mos",
+                "Worked within AdWords in the Hyderabad, India office."
+            ],
+            [
+                "Summer Associate",
+                "Company Name",
+                "McKinsey & Company",
+                "Dates Employed",
+                "May 2007 – Aug 2007",
+                "Employment Duration",
+                "4 mos"
+            ],
+            [
+                "Captain",
+                "Company Name",
+                "United States Marine Corps",
+                "Dates Employed",
+                "May 2001 – Oct 2005",
+                "Employment Duration",
+                "4 yrs 6 mos"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Stanford University Graduate School of Business",
+                "Degree Name",
+                "MBA",
+                "Field Of Study",
+                "General Business",
+                "Dates attended or expected graduation",
+                "2006 – 2008",
+                "Activities and Societies:",
+                "Energy, Consulting, Off Duty, and Entrepreneurship Clubs, Co-President of Texas Club"
+            ],
+            [
+                "Stanford University Graduate School of Business",
+                "Degree Name",
+                "MBA",
+                "Field Of Study",
+                "General Business",
+                "Dates attended or expected graduation",
+                "2006 – 2008",
+                "Activities and Societies:",
+                "Energy, Consulting, Off Duty, and Entrepreneurship Clubs, Co-President of Texas Club"
+            ],
+            [
+                "Harvard Kennedy School",
+                "Degree Name",
+                "MPA",
+                "Field Of Study",
+                "National Security and Political Advocacy Focus",
+                "Dates attended or expected graduation",
+                "2005 – 2008",
+                "Activities and Societies:",
+                "President of the Armed Forces Club, National Security PIC, Elected Politics PIC"
+            ],
+            [
+                "Harvard Kennedy School",
+                "Degree Name",
+                "MPA",
+                "Field Of Study",
+                "National Security and Political Advocacy Focus",
+                "Dates attended or expected graduation",
+                "2005 – 2008",
+                "Activities and Societies:",
+                "President of the Armed Forces Club, National Security PIC, Elected Politics PIC"
+            ],
+            [
+                "Southern Methodist University",
+                "Degree Name",
+                "BBA",
+                "Field Of Study",
+                "Finance",
+                "Dates attended or expected graduation",
+                "1997 – 2001",
+                "Activities and Societies:",
+                "Beta Gamma Sigma, Honors Program, Junior Class Council, Pi Kappa Alpha Fratenity, Golden Key National Honors Society, SMU (Cox) Mentor Program Coordinator"
+            ],
+            [
+                "Southern Methodist University",
+                "Degree Name",
+                "BBA",
+                "Field Of Study",
+                "Finance",
+                "Dates attended or expected graduation",
+                "1997 – 2001",
+                "Activities and Societies:",
+                "Beta Gamma Sigma, Honors Program, Junior Class Council, Pi Kappa Alpha Fratenity, Golden Key National Honors Society, SMU (Cox) Mentor Program Coordinator"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Harvard Kennedy School",
+                "46,308 followers"
+            ],
+            [
+                "Stanford University Graduate School of Business",
+                "150,229 followers"
+            ],
+            [
+                "College Parents of America",
+                "346 members"
+            ],
+            [
+                "Valley Leadership",
+                "586 followers"
+            ],
+            [
+                "Leadership for Student Success & Higher Education",
+                "2,439 members"
+            ],
+            [
+                "Northern Trust Wealth Management",
+                "18,775 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Harvard Kennedy School",
+                "46,308 followers"
+            ],
+            [
+                "Harvard Kennedy School",
+                "46,308 followers"
+            ],
+            [
+                "Stanford University Graduate School of Business",
+                "150,229 followers"
+            ],
+            [
+                "Stanford University Graduate School of Business",
+                "150,229 followers"
+            ],
+            [
+                "College Parents of America",
+                "346 members"
+            ],
+            [
+                "College Parents of America",
+                "346 members"
+            ],
+            [
+                "Valley Leadership",
+                "586 followers"
+            ],
+            [
+                "Valley Leadership",
+                "586 followers"
+            ],
+            [
+                "Leadership for Student Success & Higher Education",
+                "2,439 members"
+            ],
+            [
+                "Leadership for Student Success & Higher Education",
+                "2,439 members"
+            ],
+            [
+                "Northern Trust Wealth Management",
+                "18,775 followers"
+            ],
+            [
+                "Northern Trust Wealth Management",
+                "18,775 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Brad Shroyer",
+                "Senior UX Designer",
+                "December 13, 2016, Stephen managed Brad directly",
+                "Brad is the consummate team player.  He is a very talented  guy that doesn't take himself too seriously.  He also has a  knack for  working with engineers and executives to make sure everyone is happy with the end result...a rare skill.  He is an outstanding performer that will make any team better."
+            ],
+            [
+                "Brad Shroyer",
+                "Senior UX Designer",
+                "December 13, 2016, Stephen managed Brad directly"
+            ],
+            [
+                "Brad Shroyer",
+                "Senior UX Designer",
+                "December 13, 2016, Stephen managed Brad directly"
+            ],
+            [
+                "Brad Shroyer",
+                "Senior UX Designer",
+                "December 13, 2016, Stephen managed Brad directly"
+            ],
+            "Senior UX Designer",
+            [
+                "Brad is the consummate team player.  He is a very talented  guy that doesn't take himself too seriously.  He also has a  knack for  working with engineers and executives to make sure everyone is happy with the end result...a rare skill.  He is an outstanding performer that will make any team better."
+            ],
+            [
+                "Brad is the consummate team player.  He is a very talented  guy that doesn't take himself too seriously.  He also has a  knack for  working with engineers and executives to make sure everyone is happy with the end result...a rare skill.  He is an outstanding performer that will make any team better."
+            ],
+            [
+                "Joe Winslow",
+                "Creation, Production, and Deployment of Conflict Zone Environments and Elements  (Currently Cleared)",
+                "January 13, 2014, Stephen worked with Joe but at different companies",
+                "Joe is a phenomenal businessman that I would work with again in a heartbeat.  His leadership skills have been polished by his time in the Marine Corps and he has applied them with tremendous success in his business ventures.  His positive demeanor and resourcefulness make him a tenacious problem-solver and an invaluable asset to any team tackling a difficult problem.  I can't recommend him highly enough!"
+            ],
+            [
+                "Joe Winslow",
+                "Creation, Production, and Deployment of Conflict Zone Environments and Elements  (Currently Cleared)",
+                "January 13, 2014, Stephen worked with Joe but at different companies"
+            ],
+            [
+                "Joe Winslow",
+                "Creation, Production, and Deployment of Conflict Zone Environments and Elements  (Currently Cleared)",
+                "January 13, 2014, Stephen worked with Joe but at different companies"
+            ],
+            [
+                "Joe Winslow",
+                "Creation, Production, and Deployment of Conflict Zone Environments and Elements  (Currently Cleared)",
+                "January 13, 2014, Stephen worked with Joe but at different companies"
+            ],
+            "Creation, Production, and Deployment of Conflict Zone Environments and Elements  (Currently Cleared)",
+            [
+                "Joe is a phenomenal businessman that I would work with again in a heartbeat.  His leadership skills have been polished by his time in the Marine Corps and he has applied them with tremendous success in his business ventures.  His positive demeanor and resourcefulness make him a tenacious problem-solver and an invaluable asset to any team tackling a difficult problem.  I can't recommend him highly enough!"
+            ],
+            [
+                "Joe is a phenomenal businessman that I would work with again in a heartbeat.  His leadership skills have been polished by his time in the Marine Corps and he has applied them with tremendous success in his business ventures.  His positive demeanor and resourcefulness make him a tenacious problem-solver and an invaluable asset to any team tackling a difficult problem.  I can't recommend him highly enough!"
+            ]
+        ],
+        "skills": [
+            [
+                "Strategy",
+                "See 41 endorsements for Strategy",
+                "41",
+                "Strategy",
+                "Endorse",
+                "Endorsed by Paul Arnold and 4 others who are highly skilled at this",
+                "Endorsed by Stephen Grutzius (mutual connection)"
+            ],
+            [
+                "Strategy",
+                "See 41 endorsements for Strategy",
+                "41"
+            ],
+            [
+                "Business Strategy",
+                "See 36 endorsements for Business Strategy",
+                "36",
+                "Business Strategy",
+                "Endorse",
+                "Endorsed by Stephen Grutzius (mutual connection)",
+                "Endorsed by 4 of Stephen’s colleagues at McKinsey & Company"
+            ],
+            [
+                "Business Strategy",
+                "See 36 endorsements for Business Strategy",
+                "36"
+            ],
+            [
+                "Start-ups",
+                "See 27 endorsements for Start-ups",
+                "27",
+                "Start-ups",
+                "Endorse",
+                "Endorsed by Paul Arnold and 3 others who are highly skilled at this",
+                "Endorsed by Joshua Manley and 1 other mutual connection"
+            ],
+            [
+                "Start-ups",
+                "See 27 endorsements for Start-ups",
+                "27"
+            ],
+            [
+                "Entrepreneurship",
+                "See 24 endorsements for Entrepreneurship",
+                "24",
+                "Entrepreneurship",
+                "Endorse"
+            ],
+            [
+                "Entrepreneurship",
+                "See 24 endorsements for Entrepreneurship",
+                "24"
+            ],
+            [
+                "Strategic Planning",
+                "See 17 endorsements for Strategic Planning",
+                "17",
+                "Strategic Planning",
+                "Endorse"
+            ],
+            [
+                "Strategic Planning",
+                "See 17 endorsements for Strategic Planning",
+                "17"
+            ],
+            [
+                "Corporate Development",
+                "See 15 endorsements for Corporate Development",
+                "15",
+                "Corporate Development",
+                "Endorse"
+            ],
+            [
+                "Corporate Development",
+                "See 15 endorsements for Corporate Development",
+                "15"
+            ],
+            [
+                "Management Consulting",
+                "See 14 endorsements for Management Consulting",
+                "14",
+                "Management Consulting",
+                "Endorse"
+            ],
+            [
+                "Management Consulting",
+                "See 14 endorsements for Management Consulting",
+                "14"
+            ],
+            [
+                "Business Development",
+                "See 10 endorsements for Business Development",
+                "10",
+                "Business Development",
+                "Endorse"
+            ],
+            [
+                "Business Development",
+                "See 10 endorsements for Business Development",
+                "10"
+            ],
+            [
+                "Mergers & Acquisitions",
+                "See 10 endorsements for Mergers & Acquisitions",
+                "10",
+                "Mergers & Acquisitions",
+                "Endorse"
+            ],
+            [
+                "Mergers & Acquisitions",
+                "See 10 endorsements for Mergers & Acquisitions",
+                "10"
+            ],
+            [
+                "Financial Modeling",
+                "See 8 endorsements for Financial Modeling",
+                "8",
+                "Financial Modeling",
+                "Endorse"
+            ],
+            [
+                "Financial Modeling",
+                "See 8 endorsements for Financial Modeling",
+                "8"
+            ],
+            [
+                "Competitive Analysis",
+                "See 8 endorsements for Competitive Analysis",
+                "8",
+                "Competitive Analysis",
+                "Endorse"
+            ],
+            [
+                "Competitive Analysis",
+                "See 8 endorsements for Competitive Analysis",
+                "8"
+            ],
+            [
+                "Program Management",
+                "See 7 endorsements for Program Management",
+                "7",
+                "Program Management",
+                "Endorse"
+            ],
+            [
+                "Program Management",
+                "See 7 endorsements for Program Management",
+                "7"
+            ],
+            [
+                "Cross-functional Team Leadership",
+                "See 5 endorsements for Cross-functional Team Leadership",
+                "5",
+                "Cross-functional Team Leadership",
+                "Endorse"
+            ],
+            [
+                "Cross-functional Team Leadership",
+                "See 5 endorsements for Cross-functional Team Leadership",
+                "5"
+            ],
+            [
+                "Product Management",
+                "See 5 endorsements for Product Management",
+                "5",
+                "Product Management",
+                "Endorse"
+            ],
+            [
+                "Product Management",
+                "See 5 endorsements for Product Management",
+                "5"
+            ],
+            [
+                "Financial Analysis",
+                "See 3 endorsements for Financial Analysis",
+                "3",
+                "Financial Analysis",
+                "Endorse"
+            ],
+            [
+                "Financial Analysis",
+                "See 3 endorsements for Financial Analysis",
+                "3"
+            ],
+            [
+                "Investments",
+                "See 3 endorsements for Investments",
+                "3",
+                "Investments",
+                "Endorse"
+            ],
+            [
+                "Investments",
+                "See 3 endorsements for Investments",
+                "3"
+            ],
+            [
+                "Emerging Markets",
+                "See 1 endorsement for Emerging Markets",
+                "1",
+                "Emerging Markets",
+                "Endorse"
+            ],
+            [
+                "Emerging Markets",
+                "See 1 endorsement for Emerging Markets",
+                "1"
+            ]
+        ],
+        "summary": "",
+        "name": "Stephen Houghton",
+        "title": "VP Global Markets at Cruise",
+        "url": "linkedin.com/in/stephen-houghton-5644427",
+        "phone": null,
+        "email": "stephen.meyer.houghton@gmail.com"
+    }
+]

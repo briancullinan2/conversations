@@ -1,0 +1,1980 @@
+﻿Session Start (bjcullinan:Steve McVey): Thu May 17 14:53:46 2007
+[14:53] Steve McVey: Must have your connection working...
+[14:54] BJCullinan: yeah
+[14:54] Steve McVey: good speed?
+[14:54] BJCullinan: DNS is required with static IP
+[14:54] Steve McVey: of course
+[14:54] Steve McVey: is it the same ip he had before?
+[14:54] BJCullinan: also older wireless model didn't even detect connection
+[14:54] BJCullinan: yes same IP
+[14:54] BJCullinan: 209.250.30.30
+[14:54] Steve McVey: great, nothing to chnage then
+[14:54] BJCullinan: yeah but we got a brand new upgraded wireless modem/router
+[14:55] BJCullinan: "fell off the back" type thing
+[14:55] Steve McVey: thats good
+[14:55] BJCullinan: yeah nice guy
+[14:55] Steve McVey: service guy came out?
+[14:55] BJCullinan: couldn't get it working completely but even said he'd file it as an outside job so we didn't get charged 100 bucks for it
+[14:55] BJCullinan: yeah
+[14:55] Steve McVey: thats nice
+[14:56] BJCullinan: yeah Dave was happy
+[14:56] Steve McVey: got my Cakewalk code?
+[14:56] BJCullinan: his car is messed up again, so he was pretty upset when i couldn't get it working
+[14:56] BJCullinan: yeah thought i e-mailed it to you
+[14:56] BJCullinan: never got it?
+[14:56] Steve McVey: nope]
+[14:57] BJCullinan: SN: CWPA8.04-821003
+ CD Key: 730-800059-6275
+[14:57] Steve McVey: thanks.
+[14:59] Steve McVey: gotta go take chase to trumpet
+[15:01] BJCullinan: cya
+Session Close (Steve McVey): Thu May 17 15:01:21 2007
+
+
+Session Start (bjcullinan:Steve McVey): Thu May 17 15:01:26 2007
+[15:01] Steve McVey: vbbye
+[15:06] BJCullinan: know of any password management database software?
+[15:09] BJCullinan: i need my copy of XP Pro, its on my desk in my room
+[15:10] BJCullinan: i'll call mom with stuff i need too
+Session Close (Steve McVey): Thu May 17 16:00:03 2007
+
+
+Session Start (bjcullinan:Steve McVey): Thu May 17 16:23:51 2007
+[05/17/2007 04:23:51 PM] Steve McVey: password management for a Web site? or for a personal password vault?
+[05/17/2007 04:24:40 PM] BJCullinan: a passworf vault
+[05/17/2007 04:24:48 PM] BJCullinan: enterprise level
+[05/17/2007 04:24:55 PM] BJCullinan: one we can use for our company
+[05/17/2007 04:25:22 PM] Steve McVey: by enterprise you mean 3 people
+[05/17/2007 04:25:46 PM] BJCullinan: well, something we can expand to a very large database
+[05/17/2007 04:25:54 PM] Steve McVey: are we talking like ms active directory?
+[05/17/2007 04:25:55 PM] BJCullinan: so yeah 3 people now, but eventually 50
+[05/17/2007 04:26:04 PM] BJCullinan: ms active directory?
+[05/17/2007 04:26:07 PM] Steve McVey: yes
+[05/17/2007 04:26:19 PM] Steve McVey: id and password management
+[05/17/2007 04:26:33 PM] Steve McVey: single sign-on also
+[05/17/2007 04:26:49 PM] Steve McVey: probably some open source out there
+[05/17/2007 04:26:53 PM] Steve McVey: look up ldap
+[05/17/2007 04:27:05 PM] BJCullinan: (Link: http://en.wikipedia.org/wiki/Active_Directory)http://en.wikipedia.org/wiki/Active_Directory
+[05/17/2007 04:27:06 PM] BJCullinan: ?
+[05/17/2007 04:27:10 PM] BJCullinan: ah ldap
+[05/17/2007 04:27:13 PM] BJCullinan: that i recognize
+[05/17/2007 04:27:45 PM] BJCullinan: maybe not quite so extensive
+[05/17/2007 04:27:49 PM] BJCullinan: well
+[05/17/2007 04:27:59 PM] BJCullinan: not sure, i'll look into thanks
+[05/17/2007 04:28:02 PM] Steve McVey: ok
+[05/17/2007 04:28:23 PM] Steve McVey: your Winxp in a real orange folder?
+[05/17/2007 04:28:34 PM] BJCullinan: maybe not log in stuff as much as just keeping track of passwords
+[05/17/2007 04:28:48 PM] BJCullinan: yes its in a blue and orange folder
+[05/17/2007 04:28:56 PM] BJCullinan: on my desk
+[05/17/2007 04:29:11 PM] Steve McVey: (Link: http://keepass.info/)http://keepass.info/
+[05/17/2007 04:29:14 PM] BJCullinan: i really just want an image of it
+[05/17/2007 04:29:33 PM] BJCullinan: yeah thats really nice software
+[05/17/2007 04:29:42 PM] BJCullinan: i started using that a few weeks ago
+[05/17/2007 04:30:00 PM] Steve McVey: (Link: http://sdm.sourceforge.net/)http://sdm.sourceforge.net/
+[05/17/2007 04:30:14 PM] BJCullinan: but maybe thats a little too user base, we need something database like, so maybe an implementation of ldap will work
+[05/17/2007 04:30:18 PM] Steve McVey: (Link: http://www.bytecode.com.au/passwordsafeswt/)http://www.bytecode.com.au/passwordsafeswt/
+[05/17/2007 04:31:15 PM] BJCullinan: the one we are using now, Password Manager XP, keeps corrupting our databases and we have to refer to backups
+[05/17/2007 04:31:42 PM] Steve McVey: does it do what you need?
+[05/17/2007 04:32:07 PM] BJCullinan: there are somethings about it that i don't like but yes
+[05/17/2007 04:32:12 PM] BJCullinan: it gets the job done
+[05/17/2007 04:32:24 PM] Steve McVey: commercial or free?
+[05/17/2007 04:32:31 PM] BJCullinan: but it might be just as time consuming to restore databases all the time, then to just find a new one
+[05/17/2007 04:32:33 PM] BJCullinan: commercial
+[05/17/2007 04:32:39 PM] BJCullinan: supposedly they made a fix for it
+[05/17/2007 04:33:18 PM] BJCullinan: and it had to do with our NetDrive software, but one of the things it did was it didn't reopen the file each time, it kept some sort of cache of the database
+[05/17/2007 04:33:39 PM] Steve McVey: they should be interested in fixing it then
+[05/17/2007 04:33:56 PM] BJCullinan: they did make a fix for it based on our recommendations
+[05/17/2007 04:34:29 PM] BJCullinan: but i am just worried it isn't grabbing the new databases each time we open it
+[05/17/2007 04:37:36 PM] BJCullinan: anywho the company is sending me a new case and video card
+[05/17/2007 04:37:46 PM] BJCullinan: i'm gonna try out a ati x1900
+[05/17/2007 04:37:56 PM] Steve McVey: good
+[05/17/2007 04:38:21 PM] BJCullinan: and another coolermaster case, because the one i have now is so cramped i had to put a fan grate on the inside inorder to get it closed
+[05/17/2007 04:43:16 PM] BJCullinan: (Link: http://www.dev.fireandfriendsz.com/)http://www.dev.fireandfriendsz.com/
+[05/17/2007 04:43:21 PM] BJCullinan: just wrote that site last night
+[05/17/2007 04:43:39 PM] BJCullinan: jambonie.com is coming along great, you should sign up for an account
+[05/17/2007 04:44:29 PM] BJCullinan: we are going to put an events calendar on the band profile page, that would be a great way for you to let your friends know whats coming up
+[05/17/2007 04:45:50 PM] BJCullinan: we installed the same engine that you tube uses for converting any video to flv so it can be played in the flash player
+[05/17/2007 04:45:56 PM] BJCullinan: it was pretty pricy
+[05/17/2007 04:49:57 PM] Steve McVey: cant register on jambonie
+[05/17/2007 04:50:04 PM] Steve McVey: link is turned off
+[05/17/2007 04:50:38 PM] BJCullinan: hm strange
+[05/17/2007 04:50:59 PM] BJCullinan: so you can't get here
+[05/17/2007 04:51:00 PM] BJCullinan: (Link: http://www.jambonie.com/Register/)http://www.jambonie.com/Register/
+[05/17/2007 04:51:10 PM] Steve McVey: another link worked
+[05/17/2007 04:51:22 PM] Steve McVey: above the teh little guy watching your mouse cursor
+Session Close (Steve McVey): Thu May 17 17:56:07 2007
+
+
+Session Start (bjcullinan:Steve McVey): Tue Jun 05 16:52:17 2007
+[06/05/2007 04:52:18 PM] Steve McVey: Did you leave my Cakewalk disk here or take it back with you?
+[06/05/2007 04:52:30 PM] BJCullinan: i gave it to you and never saw it again
+[06/05/2007 04:53:36 PM] Steve McVey: ugh..they lost my registration and i need the numbers again
+[06/05/2007 04:54:12 PM] BJCullinan: SN: CWPA8.04-821003
+ CD Key: 730-800059-6275
+ 
+[06/05/2007 04:54:26 PM] Steve McVey: just saw it in my history.
+[06/05/2007 04:54:32 PM] Steve McVey: you sure you dont have it?
+[06/05/2007 04:54:52 PM] BJCullinan: i don't think so unless you left it here
+[06/05/2007 04:55:00 PM] Steve McVey: possible
+[06/05/2007 04:55:12 PM] BJCullinan: i thought it went right into that box
+[06/05/2007 04:55:23 PM] BJCullinan: maybe check with andrew and chase in the stack of games i left
+[06/05/2007 04:55:28 PM] Steve McVey: ok.
+[06/05/2007 04:55:30 PM] Steve McVey: which box?
+[06/05/2007 04:55:38 PM] Steve McVey: the one you went through with mom?
+[06/05/2007 04:55:58 PM] BJCullinan: the one i brought home
+[06/05/2007 04:56:27 PM] Steve McVey: yes, did you go through it and sort it out or was it all to be left here?
+[06/05/2007 04:56:40 PM] BJCullinan: it was all left there
+[06/05/2007 04:56:55 PM] BJCullinan: everything in it, i took the box back empty
+[06/05/2007 04:57:05 PM] BJCullinan: so it must be in the stack of games i left for andrew and chase
+[06/05/2007 04:57:07 PM] Steve McVey: ok, will look through games
+[06/05/2007 04:57:29 PM] Steve McVey: did you get a call from david the jeep buyer?
+[06/05/2007 04:57:37 PM] BJCullinan: don't think so
+[06/05/2007 04:57:42 PM] BJCullinan: you tell him to call my cell?
+[06/05/2007 04:58:01 PM] Steve McVey: mom  wrote him a note that he got yesterday with your cell phone number..
+[06/05/2007 04:58:27 PM] Steve McVey: you should take him the winch when you go back.
+[06/05/2007 04:58:33 PM] Steve McVey: he can give you my license plate
+[06/05/2007 04:58:37 PM] BJCullinan: ok
+[06/05/2007 04:58:42 PM] BJCullinan: whats his phone number?
+[06/05/2007 04:59:13 PM] Steve McVey: 928-853-3166 Cell
+[06/05/2007 05:00:23 PM] BJCullinan: ok i'll keep a look out for it
+Session Close (Steve McVey): Tue Jun 05 17:22:36 2007
+
+
+Session Start (bjcullinan:Steve McVey): Fri Jun 15 18:19:09 2007
+[06/15/2007 06:19:10 PM] Steve McVey: Dave Skersick 928-853-3166 Cell
+[06/15/2007 06:19:26 PM] Steve McVey: 928-853-3166 Home
+[06/15/2007 06:20:14 PM] Steve McVey: 004672996438 is acct number you need
+[06/15/2007 07:19:47 PM] Brian Cullinan: i transfered it already
+[06/15/2007 07:19:48 PM] *** Auto-response from Steve McVey: I am currently away from the computer.
+[06/15/2007 07:20:02 PM] Brian Cullinan: did it show up?
+[06/15/2007 07:35:24 PM] Steve McVey: ill check
+[06/15/2007 07:36:13 PM] Steve McVey: yes, its there
+[06/15/2007 07:36:34 PM] Brian Cullinan: ok great
+Session Close (Steve McVey): Fri Jun 15 20:06:36 2007
+
+
+Session Start (bjcullinan:Steve McVey): Sat Jun 16 13:53:35 2007
+[06/16/2007 01:53:39 PM] Brian Cullinan: hey
+[06/16/2007 01:53:54 PM] Brian Cullinan: my friend recommended using a sealant that makes the grout look darker
+[06/16/2007 01:54:03 PM] Brian Cullinan: like its always wet, so it doesn't change colors
+[06/16/2007 01:54:30 PM] Steve McVey: yeah, havent heard of that
+[06/16/2007 01:54:40 PM] Brian Cullinan: oh
+[06/16/2007 01:55:04 PM] Steve McVey: if its a problem, we can always redo it
+[06/16/2007 01:56:18 PM] Brian Cullinan: joanna might want to stay an additional month
+[06/16/2007 01:56:30 PM] Steve McVey: does that work for you?
+[06/16/2007 01:56:41 PM] Brian Cullinan: not sure yet
+[06/16/2007 01:56:45 PM] Brian Cullinan: she drives me nuts
+[06/16/2007 01:56:55 PM] Brian Cullinan: but living with dave is good
+[06/16/2007 01:56:57 PM] Steve McVey: saves you a few dollars
+[06/16/2007 01:57:09 PM] Brian Cullinan: yeah thats one reason to have her stay
+[06/16/2007 01:57:18 PM] Brian Cullinan: but i get tired of cleaning up after her
+[06/16/2007 01:57:34 PM] Brian Cullinan: mom give you my message a few weeks back
+[06/16/2007 01:57:40 PM] Steve McVey: about what?
+[06/16/2007 01:58:09 PM] Brian Cullinan: after having my own place i don't blame you for making us clean up every weekend
+[06/16/2007 01:58:18 PM] Steve McVey: yes, she did say that.
+[06/16/2007 01:58:27 PM] Steve McVey: a litel frequent cleaning saves the big work
+[06/16/2007 01:58:35 PM] Brian Cullinan: so i guess "i told you so" would be in order
+[06/16/2007 01:58:46 PM] Steve McVey: its call learning life's lessons
+[06/16/2007 01:58:57 PM] Brian Cullinan: yeah
+[06/16/2007 02:50:18 PM] Brian Cullinan: i need donations for a projector
+[06/16/2007 02:50:30 PM] Steve McVey: i have some spare power cords...
+[06/16/2007 02:50:41 PM] Brian Cullinan: hmmm could i sell them?
+[06/16/2007 02:50:53 PM] Brian Cullinan: maybe i could sell this geforce i have
+[06/16/2007 02:50:53 PM] Steve McVey: probably not, but you could use them to power the projector
+[06/16/2007 02:51:04 PM] Brian Cullinan: you want a geforce 7800?
+[06/16/2007 02:51:08 PM] Steve McVey: no.
+[06/16/2007 02:51:13 PM] Steve McVey: find a cheapy on ebay?
+[06/16/2007 02:51:37 PM] Brian Cullinan: i could use some help looking
+[06/16/2007 02:52:32 PM] Brian Cullinan: i really like what viewsonic has to offer
+[06/16/2007 02:52:44 PM] Steve McVey: what resolution?
+[06/16/2007 02:53:53 PM] Brian Cullinan: (Link: http://www.newegg.com/Product/Product.aspx?Item=N82E16889219007)http://www.newegg.com/Product/Product.aspx?Item=N82E16889219007(Link: http://www.newegg.com/Product/Product.aspx?Item=N82E16889219007)
+[06/16/2007 02:54:12 PM] Brian Cullinan: either 1024x720 (widescreen) or 1024x768
+[06/16/2007 02:54:27 PM] Brian Cullinan: optoma has some nice ones too and they get good reviews
+[06/16/2007 02:55:05 PM] Brian Cullinan: at least 1000 lumens, preferably 1500 lumens
+[06/16/2007 02:55:32 PM] Steve McVey: (Link: http://cgi.ebay.com/NEW-Optoma-Technology-EP749XGA-DLP-Multimedia-Projector_W0QQitemZ180130304551QQihZ008QQcategoryZ48653QQrdZ1QQcmdZViewItem)http://cgi.ebay.com/NEW-Optoma-Technology-EP749XGA-DLP-Mul(Link: http://cgi.ebay.com/NEW-Optoma-Technology-EP749XGA-DLP-Multimedia-Projector_W0QQitemZ180130304551QQihZ008QQcategoryZ48653QQrdZ1QQcmdZViewItem)timedia-Projector_W0QQitemZ180130304551QQihZ008QQcateg(Link: http://cgi.ebay.com/NEW-Optoma-Technology-EP749XGA-DLP-Multimedia-Projector_W0QQitemZ180130304551QQihZ008QQcategoryZ48653QQrdZ1QQcmdZViewItem)oryZ48653QQrdZ1QQcmdZViewItem
+[06/16/2007 02:56:32 PM] Steve McVey: bunch of them on ebay, but that resolution is not HD
+[06/16/2007 02:57:01 PM] Steve McVey: heres a new one that does 1080i
+[06/16/2007 02:57:04 PM] Steve McVey: (Link: http://cgi.ebay.com/New-Optoma-EP738-Multimedia-DLP-Digital-Projector-1080i_W0QQitemZ140128694338QQihZ004QQcategoryZ48653QQrdZ1QQcmdZViewItem)http://cgi.ebay.com/New-Optoma-EP738-Multimedia-DLP-Digital-P(Link: http://cgi.ebay.com/New-Optoma-EP738-Multimedia-DLP-Digital-Projector-1080i_W0QQitemZ140128694338QQihZ004QQcategoryZ48653QQrdZ1QQcmdZViewItem)rojector-1080i_W0QQitemZ140128694338QQihZ004QQcategoryZ(Link: http://cgi.ebay.com/New-Optoma-EP738-Multimedia-DLP-Digital-Projector-1080i_W0QQitemZ140128694338QQihZ004QQcategoryZ48653QQrdZ1QQcmdZViewItem)48653QQrdZ1QQcmdZViewItem
+[06/16/2007 02:57:15 PM] Steve McVey: (Link: http://cgi.ebay.com/New-Optoma-EP738-Multimedia-DLP-Digital-Projector-1080i_W0QQitemZ140128694338QQihZ004QQcategoryZ48653QQrdZ1QQcmdZViewItem)http://cgi.ebay.com/New-Optoma-EP738-Multimedia-DLP-Digital-P(Link: http://cgi.ebay.com/New-Optoma-EP738-Multimedia-DLP-Digital-Projector-1080i_W0QQitemZ140128694338QQihZ004QQcategoryZ48653QQrdZ1QQcmdZViewItem)rojector-1080i_W0QQitemZ140128694338QQihZ004QQcategoryZ(Link: http://cgi.ebay.com/New-Optoma-EP738-Multimedia-DLP-Digital-Projector-1080i_W0QQitemZ140128694338QQihZ004QQcategoryZ48653QQrdZ1QQcmdZViewItem)48653QQrdZ1QQcmdZViewItem
+[06/16/2007 02:57:49 PM] Steve McVey: only 800x600
+[06/16/2007 02:59:17 PM] Brian Cullinan: ok, thanks, i'll keep looking on ebay
+[06/16/2007 02:59:53 PM] Brian Cullinan: i think the most we are willing to spend is 800 total
+[06/16/2007 03:00:04 PM] Steve McVey: projector and screen?
+[06/16/2007 03:00:33 PM] Brian Cullinan: just on the projector
+[06/16/2007 03:00:39 PM] Steve McVey: gotcha
+[06/16/2007 03:00:42 PM] Brian Cullinan: we are constructing the screen ourselves
+Session Close (Steve McVey): Sat Jun 16 15:30:44 2007
+
+
+Session Start (bjcullinan:Steve McVey): Tue Jun 26 20:42:05 2007
+[06/26/2007 08:42:05 PM] Steve McVey: called cox...should be fixed tomorrow
+[06/26/2007 08:42:12 PM] Steve McVey: Your new password will be....
+[06/26/2007 08:42:24 PM] Steve McVey: A96745302
+[06/26/2007 08:42:27 PM] Steve McVey: Capital A
+[06/26/2007 08:42:29 PM] Brian Cullinan: ok great
+[06/26/2007 08:42:32 PM] Brian Cullinan: yep
+[06/26/2007 08:42:39 PM] Steve McVey: give it a try in the morning
+[06/26/2007 08:42:43 PM] Brian Cullinan: so they called you?
+[06/26/2007 08:43:04 PM] Steve McVey: no i called them
+[06/26/2007 08:43:07 PM] Brian Cullinan: oh you called cox
+[06/26/2007 08:43:16 PM] Brian Cullinan: i am lisdekic
+[06/26/2007 08:43:30 PM] Brian Cullinan: *dyslexic 
+Session Close (Steve McVey): Tue Jun 26 21:16:57 2007
+
+
+Session Start (bjcullinan:Steve McVey): Wed Jun 27 11:13:19 2007
+[06/27/2007 11:13:20 AM] Steve McVey: Looks like your account is back
+[06/27/2007 11:32:35 AM] Brian Cullinan: ok great
+Session Close (Steve McVey): Wed Jun 27 12:06:55 2007
+
+
+Session Start (bjcullinan:Steve McVey): Mon Aug 06 10:52:39 2007
+[08/06/2007 10:52:39 AM] Steve McVey: Tried your jambonie site lately?
+[08/06/2007 10:52:48 AM] Steve McVey: Has a user/password...looks like a hack
+[08/06/2007 10:53:52 AM] Brian Cullinan: interesting
+[08/06/2007 10:55:05 AM] Brian Cullinan: it is intentional i guess
+[08/06/2007 10:55:08 AM] Brian Cullinan: just asked
+[08/06/2007 10:55:40 AM] Steve McVey: ok.
+[08/06/2007 10:55:49 AM] Brian Cullinan: "long story"
+[08/06/2007 10:55:54 AM] Brian Cullinan: not sure why they changed it
+Session Close (Steve McVey): Mon Aug 06 11:26:42 2007
+
+
+Session Start (bjcullinan:Steve McVey): Wed Aug 08 15:17:59 2007
+[08/08/2007 03:17:59 PM] Steve McVey: got your rent payment, thanks.
+[08/08/2007 03:18:17 PM] Steve McVey: did you remind dave?
+[08/08/2007 03:30:24 PM] Brian Cullinan: he wrote the check out to you again
+[08/08/2007 03:30:37 PM] Brian Cullinan: he says they want to charge 5 dollars a month for bill pay
+[08/08/2007 03:30:50 PM] Steve McVey: thought he had bofa?
+[08/08/2007 03:31:00 PM] Brian Cullinan: and if he adds your account the way i did, supposedly you can transfer out of the other persons account
+[08/08/2007 03:31:12 PM] Brian Cullinan: no he only has chase like the one i am paying with
+[08/08/2007 03:31:17 PM] Steve McVey: if so he can transfer, not bill pay and there is no charge
+[08/08/2007 03:31:22 PM] Steve McVey: i see
+[08/08/2007 03:31:35 PM] Steve McVey: no problem. just have him mail it
+[08/08/2007 03:31:42 PM] Brian Cullinan: but is that true for bank of america?  when you add another persons account you can tranfer from their account into yours?
+[08/08/2007 03:31:49 PM] Steve McVey: no...
+[08/08/2007 03:31:53 PM] Steve McVey: you can transfer out
+[08/08/2007 03:31:58 PM] Steve McVey: but not in
+[08/08/2007 03:31:59 PM] Brian Cullinan: but it shows up in the From: list
+[08/08/2007 03:32:12 PM] Brian Cullinan: from account list has all the accounts
+[08/08/2007 03:32:23 PM] Steve McVey: doesnt make sense
+[08/08/2007 03:32:42 PM] Brian Cullinan: well chase was the same way so maybe i should call and ask
+[08/08/2007 03:33:23 PM] Steve McVey: havent gotten new engine for corolla yet
+[08/08/2007 03:33:26 PM] Steve McVey: should be soon
+[08/08/2007 03:33:40 PM] Steve McVey: so may not trade cars til next week
+[08/08/2007 03:34:37 PM] Brian Cullinan: darnit
+Session Close (Steve McVey): Wed Aug 08 15:35:32 2007
+
+
+Session Start (bjcullinan:Steve McVey): Wed Aug 08 15:36:10 2007
+[08/08/2007 03:36:10 PM] Steve McVey: accounts i transfer to do not show up in the from list
+[08/08/2007 03:36:19 PM] Brian Cullinan: oh
+[08/08/2007 03:36:34 PM] Brian Cullinan: well in chase they do, maybe thats why the required the 4 digit verification
+[08/08/2007 03:37:04 PM] Steve McVey: you will have him mail the check since we wont see you for a while?
+[08/08/2007 03:37:20 PM] Brian Cullinan: yes i will tell him to mail it
+[08/08/2007 03:37:35 PM] Steve McVey: k, thx
+[08/08/2007 03:42:58 PM] Brian Cullinan: do you use CTRL for crouch?
+[08/08/2007 03:43:21 PM] Steve McVey: no...C
+[08/08/2007 03:43:30 PM] Steve McVey: ctrl is heal
+[08/08/2007 03:44:27 PM] Brian Cullinan: chase uses ctrl
+[08/08/2007 03:44:44 PM] Brian Cullinan: no right sidestep when crouched
+[08/08/2007 03:45:03 PM] Steve McVey: just shift fingers
+Session Close (Steve McVey): Wed Aug 08 15:53:17 2007
+
+
+Session Start (bjcullinan:Steve McVey): Thu Aug 09 20:58:18 2007
+[08/09/2007 08:58:20 PM] Brian Cullinan: you there?
+[08/09/2007 08:58:48 PM] Brian Cullinan: i need help identifying a piece of hardware
+[08/09/2007 08:59:11 PM] Brian Cullinan: v
+[08/09/2007 08:59:45 PM] Brian Cullinan: (Link: http://www.homedepot.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10051&langId=-1&catalogId=10053&productId=100388233&N=10000003+90401&marketID=401&locStoreNum=8125)http://www.homedepot.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10051(Link: http://www.homedepot.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10051&langId=-1&catalogId=10053&productId=100388233&N=10000003+90401&marketID=401&locStoreNum=8125)&langId=-1&catalogId=10053&productId=100388233&N=10000003+90401&marketID(Link: http://www.homedepot.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10051&langId=-1&catalogId=10053&productId=100388233&N=10000003+90401&marketID=401&locStoreNum=8125)=401&locStoreNum=8125
+[08/09/2007 09:01:04 PM] Brian Cullinan: i need to know what that cool type of bracket is called, i'd like to explore more options for easily mounted shelving and research how its installed and what kind of hole it would leave in the wall if it is ever removed
+Session Close (Steve McVey): Thu Aug 09 21:25:39 2007
+
+
+Session Start (bjcullinan:Steve McVey): Thu Aug 09 21:46:19 2007
+[08/09/2007 09:46:19 PM] Steve McVey: Gallery bracket (probably a brand name
+[08/09/2007 09:46:27 PM] Steve McVey: what are you going to do with that??
+[08/09/2007 09:46:52 PM] Brian Cullinan: well just looking, they look cool
+[08/09/2007 09:47:30 PM] Brian Cullinan: but if i want to put shelves in my room that aren't going to hold anything too heavy i think those would be a good choise
+[08/09/2007 09:47:43 PM] Steve McVey: i see
+Session Close (Steve McVey): Thu Aug 09 23:08:59 2007
+
+
+Session Start (bjcullinan:Steve McVey): Fri Oct 05 11:52:56 2007
+[10/05/2007 11:52:56 AM] Steve McVey: Bugging you for rent for Oct.
+[10/05/2007 12:54:06 PM] Brian Cullinan: mom said transfer 150
+[10/05/2007 12:54:14 PM] Brian Cullinan: i'll get daves today
+[10/05/2007 01:09:08 PM] Brian Cullinan: what does toslink mean?
+[10/05/2007 01:09:08 PM] *** Auto-response from Steve McVey: I am currently away from the computer.
+[10/05/2007 01:09:15 PM] Brian Cullinan: referring to an optical cable
+Session Close (Steve McVey): Fri Oct 05 13:17:19 2007
+
+
+Session Start (bjcullinan:Steve McVey): Fri Oct 05 13:20:19 2007
+[10/05/2007 01:20:19 PM] Steve McVey: ok, 650 -500 i assume
+[10/05/2007 01:20:37 PM] Brian Cullinan: yes
+[10/05/2007 01:20:43 PM] Steve McVey: toslink in what context?
+[10/05/2007 01:21:36 PM] Steve McVey: digital/optical connection?
+[10/05/2007 01:21:49 PM] Brian Cullinan: yes
+[10/05/2007 01:21:58 PM] Brian Cullinan: i need a longer DVI cable
+[10/05/2007 01:22:23 PM] Steve McVey: (Link: http://en.wikipedia.org/wiki/Image)http://en.wikipedia.org/wiki/Image:TOSLINK.jpg
+[10/05/2007 01:22:40 PM] Steve McVey: (Link: http://en.wikipedia.org/wiki/TOSLINK)http://en.wikipedia.org/wiki/TOSLINK
+[10/05/2007 01:22:43 PM] Steve McVey: has a picture
+[10/05/2007 01:23:13 PM] Steve McVey: that should just be an audio cable
+[10/05/2007 01:23:43 PM] Brian Cullinan: i ordered a 50 footer
+[10/05/2007 01:24:00 PM] Steve McVey: going from what to what?
+[10/05/2007 01:24:22 PM] Brian Cullinan: digital out on media server around the room to digital in on receiver
+[10/05/2007 01:24:38 PM] Brian Cullinan: the analog doesn't play real 5.1
+[10/05/2007 01:25:04 PM] Brian Cullinan: so even though everything is converted to analog eventually, there are multiple channels that can be expressed on the digital signal
+[10/05/2007 01:25:06 PM] Steve McVey: i see, so comp will be on opposite wall fromprojector?
+[10/05/2007 01:25:24 PM] Steve McVey: oh you mean stereo
+[10/05/2007 01:25:40 PM] Brian Cullinan: yeah
+[10/05/2007 01:25:51 PM] Brian Cullinan: no i bought a optical cable
+[10/05/2007 01:26:00 PM] Steve McVey: can you put all that stuff on the same wall?
+[10/05/2007 01:26:01 PM] Brian Cullinan: but it will be higher quality then using the stereo cable
+[10/05/2007 01:26:26 PM] Brian Cullinan: no room for receiver, its on opposite wall with the subwoofer and center speaker
+[10/05/2007 01:26:50 PM] Brian Cullinan: so computer and project are on the same wall, then receiver is across from it
+[10/05/2007 01:27:08 PM] Steve McVey: cant move receiver? long speaker cable might be cheaper
+[10/05/2007 01:29:03 PM] Brian Cullinan: all the couches are on the other wall
+[10/05/2007 01:29:14 PM] Steve McVey: k
+[10/05/2007 01:29:48 PM] Brian Cullinan: it would be nice to have some kind of shelf to put the receiver and center speaker on
+[10/05/2007 01:30:02 PM] Brian Cullinan: g2g to class
+[10/05/2007 01:30:14 PM] Brian Cullinan: and i needed a DVI cable
+[10/05/2007 01:30:28 PM] Brian Cullinan: you know the max length for a DVI signal is 5 meters
+[10/05/2007 01:30:36 PM] Steve McVey: ok, cya
+[10/05/2007 01:30:46 PM] Brian Cullinan: actually it is 15 meters
+[10/05/2007 01:30:47 PM] Brian Cullinan: sry
+[10/05/2007 01:30:56 PM] Steve McVey: 15 * 3 = 45 ft
+[10/05/2007 01:31:13 PM] Brian Cullinan: yeah, 50 ft can be achieved with really high quality cables
+Session Close (Steve McVey): Fri Oct 05 13:31:24 2007
+
+
+Session Start (bjcullinan:Steve McVey): Fri Oct 19 16:10:45 2007
+[10/19/2007 04:10:53 PM] Brian Cullinan: want to subscribe to my calendar?
+[10/19/2007 04:12:24 PM] Brian Cullinan: i have outlook publishing my calendars to my webdav server, then google imports the calendars, and also outlook supports the internet calendar, so i can make changes to my schedule anywhere and outlook will download it from google, and any changes i make in outlook will also show up in google
+[10/19/2007 04:14:01 PM] Brian Cullinan: and i can share any calendar with anyone
+[10/19/2007 04:15:27 PM] Steve McVey: sounds good...
+[10/19/2007 04:15:31 PM] Steve McVey: that many things on your calendar?
+[10/19/2007 04:16:21 PM] Brian Cullinan: yup
+[10/19/2007 04:16:27 PM] Brian Cullinan: even teachers office hours
+Session Close (Steve McVey): Fri Oct 19 16:33:43 2007
+
+
+Session Start (bjcullinan:Steve McVey): Mon Oct 29 15:35:32 2007
+[10/29/2007 03:35:51 PM] Brian Cullinan: so looks like i can get a math minor with 1 or 2 extra math classes
+[10/29/2007 03:38:18 PM] Steve McVey: that would be nice
+[10/29/2007 03:38:33 PM] Steve McVey: hows the car?
+[10/29/2007 03:38:49 PM] Brian Cullinan: i'll call at 4
+[10/29/2007 03:39:09 PM] Steve McVey: k
+[10/29/2007 03:39:23 PM] Brian Cullinan: so i want to take virtual worlds next semester
+[10/29/2007 03:39:46 PM] Brian Cullinan: but that would mean i'd still have 300 level classes next year
+[10/29/2007 03:44:22 PM] Steve McVey: virtual worlds? is that a class?
+[10/29/2007 03:44:28 PM] Brian Cullinan: yes
+[10/29/2007 03:44:51 PM] Brian Cullinan: so i looks like i am on track to graduate fall of 2009
+[10/29/2007 03:44:56 PM] Brian Cullinan: instead of spring
+[10/29/2007 03:45:09 PM] Brian Cullinan: i would need an extra semester to finish the math minor
+[10/29/2007 03:45:38 PM] Brian Cullinan: unless i take all 2 math classes at once with like 2 CS classes and a capstone
+[10/29/2007 03:47:35 PM] Steve McVey: well, that would be good.
+[10/29/2007 03:47:52 PM] Brian Cullinan: that is too many classes at once
+[10/29/2007 03:48:19 PM] Steve McVey: i mean fall would be good
+[10/29/2007 03:48:22 PM] Brian Cullinan: but i think the math minor is worth an extra semester
+[10/29/2007 03:48:46 PM] Brian Cullinan: and by taking calc 3, just like any 3rd class in the series, i will remember calculus forever
+Session Close (Steve McVey): Mon Oct 29 17:04:00 2007
+
+
+Session Start (bjcullinan:Steve McVey): Mon Oct 29 21:46:02 2007
+[10/29/2007 09:46:09 PM] Brian Cullinan: talked to car place today
+[10/29/2007 09:46:15 PM] Steve McVey: yeah?
+[10/29/2007 09:46:30 PM] Brian Cullinan: they said there was no updated info in the computer, and Ron wasn't there, so i should call back earlier tomorrow
+[10/29/2007 09:46:38 PM] Steve McVey: k
+Session Close (Steve McVey): Mon Oct 29 21:46:41 2007
+
+
+Session Start (bjcullinan:Steve McVey): Tue Oct 30 19:13:36 2007
+[10/30/2007 07:13:59 PM] Brian Cullinan: So, sounds like they took a look at the car and couldn't find the short, they are going to look at it again tomorrow.
+[10/30/2007 07:14:00 PM] *** Auto-response from Steve McVey: I am currently away from the computer.
+Session Close (Steve McVey): Tue Oct 30 19:14:03 2007
+
+
+Session Start (bjcullinan:Steve McVey): Tue Oct 30 21:32:49 2007
+[10/30/2007 09:32:49 PM] Steve McVey: ok.
+[10/30/2007 09:36:42 PM] Steve McVey: you gonna make it home for your dentist appt?
+[10/30/2007 09:37:46 PM] Brian Cullinan: not sure yet
+[10/30/2007 09:38:15 PM] Steve McVey: mght be tough to get another one soon
+Session Close (Steve McVey): Tue Oct 30 21:41:56 2007
+
+
+Session Start (bjcullinan:Steve McVey): Thu Nov 01 12:52:08 2007
+[11/01/2007 12:52:20 PM] Brian Cullinan: so i figured out my whole schedule for the next 4 semesters
+[11/01/2007 12:52:36 PM] Steve McVey: good
+[11/01/2007 12:52:56 PM] Brian Cullinan: and i only need calc 3, which everyone says is easier then calc 2 in order to get a math minor
+[11/01/2007 12:53:21 PM] Steve McVey: that would be nice
+[11/01/2007 12:54:47 PM] Brian Cullinan: i thought so, considering i don't really like math
+Session Close (Steve McVey): Thu Nov 01 13:24:49 2007
+
+
+Session Start (bjcullinan:Steve McVey): Fri Nov 09 12:46:02 2007
+[11/09/2007 12:46:02 PM] Steve McVey: Rent is overdue...
+[11/09/2007 12:46:27 PM] Steve McVey: Any update on the car?
+[11/09/2007 12:46:32 PM] Steve McVey: When does your dad get in?
+[11/09/2007 03:12:31 PM] Brian Cullinan: paying it now
+[11/09/2007 03:12:33 PM] Brian Cullinan: sorry it's late
+Session Close (Steve McVey): Fri Nov 09 15:13:10 2007
+
+
+Session Start (bjcullinan:Steve McVey): Fri Nov 09 15:15:23 2007
+[11/09/2007 03:15:24 PM] Steve McVey: thx
+Session Close (Steve McVey): Fri Nov 09 15:15:40 2007
+
+
+Session Start (bjcullinan:Steve McVey): Thu Nov 15 10:00:22 2007
+[11/15/2007 10:00:48 AM] Brian Cullinan: my setup is so awesome.  I have taken data backups to the next level.
+[11/15/2007 10:01:21 AM] Brian Cullinan: i put all the settings for the programs i use in the subversion, so i can restore and transfer to my laptop easily
+[11/15/2007 10:01:21 AM] *** Auto-response from Steve McVey: I am currently away from the computer.
+[11/15/2007 10:01:35 AM] Brian Cullinan: you should set up subversion on your server
+Session Close (Steve McVey): Thu Nov 15 10:03:18 2007
+
+
+Session Start (bjcullinan:Steve McVey): Thu Nov 15 10:29:10 2007
+[11/15/2007 10:29:10 AM] Steve McVey: i just use samba to copy back and forth
+[11/15/2007 10:29:15 AM] Steve McVey: my content is very static
+[11/15/2007 10:48:31 AM] Brian Cullinan: yeah
+[11/15/2007 10:48:31 AM] *** Auto-response from Steve McVey: I am currently away from the computer.
+[11/15/2007 10:49:14 AM] Brian Cullinan: my content is pretty dynamic since i have multiple computers with the exact same setup (preferably) 
+Session Close (Steve McVey): Thu Nov 15 10:51:02 2007
+
+
+Session Start (bjcullinan:Steve McVey): Thu Nov 15 13:32:53 2007
+[11/15/2007 01:32:53 PM] Steve McVey: got your rent, still need david's
+[11/15/2007 01:33:02 PM] Brian Cullinan: i am going to the bank now
+[11/15/2007 01:33:07 PM] Steve McVey: ok, thx
+[11/15/2007 01:33:10 PM] Steve McVey: update on the car?
+[11/15/2007 01:38:10 PM] Brian Cullinan: they are looking into ordering a speedometer head
+[11/15/2007 01:38:24 PM] Brian Cullinan: i guess it is causing a short
+[11/15/2007 01:41:31 PM] Steve McVey: weird
+[11/15/2007 01:41:42 PM] Steve McVey: at least they have it pinned down then
+[11/15/2007 01:42:12 PM] Steve McVey: have them fix the dash lights that are burnt out at the same time if they arepulling the dash apart
+[11/15/2007 01:48:03 PM] Brian Cullinan: ok i will have to call them
+[11/15/2007 01:49:41 PM] Brian Cullinan: i find it hard to believe the entire console blew out because of the speedometer head
+[11/15/2007 01:49:55 PM] Brian Cullinan: i think there is another one
+[11/15/2007 01:56:09 PM] Steve McVey: well, the entire dash is on one fuse, so very possible
+[11/15/2007 01:56:48 PM] Brian Cullinan: but how does a speedometer head go bad?
+Session Close (Steve McVey): Thu Nov 15 14:37:44 2007
+
+
+Session Start (bjcullinan:Steve McVey): Thu Nov 15 15:53:13 2007
+[11/15/2007 03:54:12 PM] Brian Cullinan: Sorry it took so long to get rent to you, errands take longer without a car
+Session Close (Steve McVey): Thu Nov 15 15:54:12 2007
+
+
+Session Start (bjcullinan:Steve McVey): Thu Nov 15 15:57:34 2007
+[11/15/2007 03:57:35 PM] Steve McVey: np.
+[11/15/2007 03:58:02 PM] Brian Cullinan: should finish transferring by tomorrow
+[11/15/2007 03:59:38 PM] Steve McVey: k, thx
+Session Close (Steve McVey): Thu Nov 15 16:03:28 2007
+
+
+Session Start (bjcullinan:Steve McVey): Wed Feb 20 12:35:54 2008
+[02/20/2008 12:35:54 PM] Steve McVey: there?
+[02/20/2008 12:36:24 PM] Steve McVey: That leaking we saw appears to be transmission fluid. Should take it to the mechanic and have them see where it is leaking.
+[02/20/2008 12:36:37 PM] Steve McVey: If you run too low, the transmission will be shot.
+[02/20/2008 12:37:17 PM] Steve McVey: There is a dipstick for transmission fluid, just like the oil one. Read your owners manual to see how to check it.
+[02/20/2008 12:37:28 PM] Steve McVey: For some cars, you need to be in gear when checking.
+[02/20/2008 12:53:26 PM] Brian Cullinan: ok i will check it out today
+[02/20/2008 12:53:40 PM] Brian Cullinan: should i take it back to midas or the other place?
+[02/20/2008 12:53:53 PM] Brian Cullinan: should i get more transmission fluid right away?
+[02/20/2008 12:54:09 PM] Steve McVey: i dont like midas....
+[02/20/2008 12:54:24 PM] Brian Cullinan: should i take it back to the other place?
+[02/20/2008 12:54:24 PM] Steve McVey: check the level and go get some if it's low.
+[02/20/2008 12:54:28 PM] Brian Cullinan: ok
+[02/20/2008 12:54:33 PM] Steve McVey: if it gets too low, disaster...
+[02/20/2008 12:54:40 PM] Brian Cullinan: can i get a new car now?
+[02/20/2008 12:54:51 PM] Steve McVey: i would go back to the mechanic who fixed the electrical
+[02/20/2008 12:55:01 PM] Steve McVey: unkless you have an aamco nearby
+[02/20/2008 12:55:01 PM] Brian Cullinan: ok i will give him a call
+[02/20/2008 12:55:11 PM] Brian Cullinan: g2g to class brb
+[02/20/2008 12:55:18 PM] Steve McVey: k cya
+[02/20/2008 04:25:02 PM] Steve McVey: (Link: http://www.samarins.com/check/transmission.html)http://www.samarins.com/check/transmission.html
+[02/20/2008 04:25:42 PM] Steve McVey: Check trans fluid when engine running and trans in Park. Good to run through gears once to make sure fluid is circulating
+[02/20/2008 04:27:33 PM] Steve McVey: Must use the exact fluid recommended in owners manual
+[02/20/2008 04:31:00 PM] Brian Cullinan: ok i will try to find it
+[02/20/2008 04:31:26 PM] Brian Cullinan:  in the manual
+Session Close (Steve McVey): Wed Feb 20 16:32:16 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Feb 20 22:52:57 2008
+[02/20/2008 10:53:27 PM] Brian Cullinan: didn't get around to checking it today but i am sure the fluid isn't very low
+[02/20/2008 10:53:54 PM] Steve McVey: probably, but just want to keep an eye on it.
+[02/20/2008 10:54:02 PM] Brian Cullinan: understood
+[02/20/2008 10:54:10 PM] Steve McVey: it could get worse and leak faster
+[02/20/2008 10:55:24 PM] Brian Cullinan: on another note my friend suggested a language learning software but it is quite costly, i can't remember the name but i might download a version to try it out, if it work might be worth looking into for improving all of our secondary languages
+[02/20/2008 10:55:48 PM] Steve McVey: as in spoken language?
+[02/20/2008 10:55:58 PM] Brian Cullinan: yes
+[02/20/2008 10:56:17 PM] Steve McVey: there are hundreds of them out there
+[02/20/2008 10:56:42 PM] Brian Cullinan: interesting method of learning, it is focused around making the user figure out what phrases mean by associating then with pictures
+[02/20/2008 10:57:14 PM] Brian Cullinan: my friend is a computer scientist and knows probably 10 non-computer languages
+[02/20/2008 10:57:33 PM] Brian Cullinan: mostly from this software
+[02/20/2008 10:57:41 PM] Steve McVey: nice
+[02/20/2008 10:57:53 PM] Brian Cullinan: it is one of the big ones, just can't remember the name
+[02/20/2008 10:58:01 PM] Steve McVey: berlitz?
+[02/20/2008 10:58:06 PM] Brian Cullinan: nope
+[02/20/2008 10:59:19 PM] Brian Cullinan: i will find out tomorrow and let you know
+[02/20/2008 10:59:24 PM] Steve McVey: k
+[02/20/2008 10:59:29 PM] Steve McVey: bed time....
+[02/20/2008 10:59:37 PM] Brian Cullinan: yea me too pretty soon
+Session Close (Steve McVey): Wed Feb 20 23:03:37 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Feb 20 23:20:21 2008
+[02/20/2008 11:20:30 PM] Brian Cullinan: my friend highly suggests rosetta stone
+[02/20/2008 11:20:31 PM] *** Auto-response from Steve McVey: I am currently away from the computer.
+[02/20/2008 11:20:39 PM] Brian Cullinan: just remembered the name
+[02/20/2008 11:21:01 PM] Brian Cullinan: (Link: http://www.rosettastone.com/)http://www.rosettastone.com/(Link: http://www.rosettastone.com/)
+[02/20/2008 11:21:22 PM] Brian Cullinan: but it is about 200 dollars per language
+Session Close (Steve McVey): Wed Feb 20 23:51:24 2008
+
+
+Session Start (bjcullinan:Steve McVey): Thu Feb 21 08:38:53 2008
+[02/21/2008 08:39:08 AM] Brian Cullinan: have you heard of that language software before?
+[02/21/2008 08:39:48 AM] Steve McVey: yes seen it advertised
+[02/21/2008 08:40:15 AM] Brian Cullinan: my friend says it's really good, i am going to download the spanish one and see if it works for me too
+[02/21/2008 08:40:25 AM] Brian Cullinan: i might finally be able to understand chase
+Session Close (Steve McVey): Thu Feb 21 08:44:11 2008
+
+
+Session Start (bjcullinan:Steve McVey): Thu Feb 28 22:34:54 2008
+[02/28/2008 10:34:54 PM] Steve McVey: i have a spare 1GB PC-5300 SO-DIMM
+[02/28/2008 10:35:00 PM] Steve McVey: Will that work in your notebook?
+[02/28/2008 10:35:13 PM] Steve McVey: SODIMM
+[02/28/2008 11:01:13 PM] Brian Cullinan: probably but i already have 2 gigs
+Session Close (Steve McVey): Thu Feb 28 23:01:46 2008
+
+
+Session Start (bjcullinan:Steve McVey): Sun Mar 09 09:56:32 2008
+[03/09/2008 09:56:32 AM] Steve McVey: Thx for the rent pymt. Did you get your leak checked out?
+[03/09/2008 10:24:21 AM] *** "Steve McVey" signed off at Sun Mar 09 10:24:21 2008.
+Session Close (Steve McVey): Sun Mar 09 13:10:05 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Mar 11 14:40:12 2008
+[03/11/2008 02:40:12 PM] Steve McVey: still need dave's rent
+[03/11/2008 02:40:15 PM] Steve McVey: when you coming home?
+[03/11/2008 02:40:22 PM] Steve McVey: did you get the leak checked?
+[03/11/2008 04:14:07 PM] Brian Cullinan: i did not get the leak checked
+[03/11/2008 04:14:21 PM] Brian Cullinan: i was just going to get some more fluid but there is nothing about it in the book
+[03/11/2008 04:14:33 PM] Brian Cullinan: i am going to go deposit and transfer the check now
+[03/11/2008 04:14:33 PM] Steve McVey: ok, better check the level before you drive it home
+[03/11/2008 04:14:37 PM] Steve McVey: k
+[03/11/2008 04:14:39 PM] Steve McVey: thx
+[03/11/2008 04:14:43 PM] Steve McVey: when you coming home?
+[03/11/2008 04:14:48 PM] Brian Cullinan: friday
+[03/11/2008 04:15:04 PM] Steve McVey: let me see if i can find the proper fluid
+[03/11/2008 04:19:52 PM] Steve McVey: it may tell you on the cap of the reservoir
+[03/11/2008 04:20:13 PM] Steve McVey: owners manual should have it
+[03/11/2008 04:20:16 PM] Steve McVey: perhaps under specs
+[03/11/2008 04:32:03 PM] Brian Cullinan: ok i'll look again
+Session Close (Steve McVey): Tue Mar 11 16:35:10 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Mar 11 16:36:13 2008
+[03/11/2008 04:36:13 PM] Steve McVey: DEXRON III
+[03/11/2008 04:36:22 PM] Steve McVey: (III = 3)
+[03/11/2008 04:36:26 PM] Brian Cullinan: oh ok
+[03/11/2008 04:36:27 PM] Brian Cullinan: thanks
+Session Close (Steve McVey): Tue Mar 11 16:36:47 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Mar 11 16:41:08 2008
+[03/11/2008 04:41:08 PM] Steve McVey: i have your tax info
+[03/11/2008 04:41:18 PM] Steve McVey: w2 and OH refund statement
+[03/11/2008 04:41:31 PM] Brian Cullinan: cool i will have to get that done before i come back from break
+Session Close (Steve McVey): Tue Mar 11 16:59:07 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Mar 11 16:59:21 2008
+[03/11/2008 04:59:27 PM] Brian Cullinan: battlestar galactica is amazing
+[03/11/2008 04:59:28 PM] *** Auto-response from Steve McVey: I am currently away from the computer.
+Session Close (Steve McVey): Tue Mar 11 16:59:28 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Mar 11 17:07:50 2008
+[03/11/2008 05:07:50 PM] Steve McVey: nerd...
+[03/11/2008 05:07:58 PM] Brian Cullinan: yuppers
+[03/11/2008 05:08:11 PM] Brian Cullinan: they made new ones
+[03/11/2008 05:08:19 PM] Brian Cullinan: i am not watching the ones from the 80s
+Session Close (Steve McVey): Tue Mar 11 17:16:31 2008
+
+
+Session Start (bjcullinan:Steve McVey): Fri Apr 04 15:56:38 2008
+[04/04/2008 03:56:38 PM] Steve McVey: heard you are coming home sat?
+[04/04/2008 04:31:28 PM] Steve McVey: April rent is due!
+[04/04/2008 04:31:39 PM] Steve McVey: Maybe you can bring home a check from Dave?
+Session Close (Steve McVey): Fri Apr 04 18:03:40 2008
+
+
+Session Start (bjcullinan:Steve McVey): Sun Apr 13 17:04:51 2008
+[04/13/2008 05:04:52 PM] Steve McVey: Here is the part #:
+[04/13/2008 05:04:53 PM] Steve McVey: QMF51U1-6R3-J1
+[04/13/2008 05:05:01 PM] Steve McVey: from the JVC web site
+[04/13/2008 05:06:06 PM] Steve McVey: go here and put in your model #
+[04/13/2008 05:06:09 PM] Steve McVey: (Link: http://www.jvcservice.com/Service/default.asp)http://www.jvcservice.com/Service/default.asp
+[04/13/2008 05:24:44 PM] Brian Cullinan: cool thanks
+Session Close (Steve McVey): Sun Apr 13 17:54:46 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon Apr 14 16:59:14 2008
+[04/14/2008 04:59:14 PM] Steve McVey: talked to corolla mechanic
+[04/14/2008 04:59:29 PM] Steve McVey: when check engine light stays on, problem is not critical. if it starts flashing...
+[04/14/2008 04:59:41 PM] Steve McVey: that means pull over now and get it fixed.
+[04/14/2008 04:59:51 PM] Steve McVey: didnt know it flashed
+[04/14/2008 04:59:55 PM] Steve McVey: s okeep an eye on it
+[04/14/2008 09:00:37 PM] *** You have been disconnected. Mon Apr 14 21:00:37 2008.
+[04/14/2008 09:00:51 PM] *** "Steve McVey" signed on at Mon Apr 14 21:00:51 2008.
+[04/14/2008 09:30:13 PM] *** You have been disconnected. Mon Apr 14 21:30:13 2008.
+[04/14/2008 09:30:22 PM] *** "Steve McVey" signed on at Mon Apr 14 21:30:22 2008.
+[04/14/2008 11:43:50 PM] *** You have been disconnected. Mon Apr 14 23:43:50 2008.
+[04/14/2008 11:44:11 PM] *** "Steve McVey" signed on at Mon Apr 14 23:44:11 2008.
+[04/15/2008 01:27:37 AM] *** You have been disconnected. Tue Apr 15 01:27:37 2008.
+[04/15/2008 01:27:46 AM] *** "Steve McVey" signed on at Tue Apr 15 01:27:46 2008.
+Session Close (Steve McVey): Tue Apr 15 01:57:14 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon Apr 21 09:25:25 2008
+[04/21/2008 09:25:25 AM] Steve McVey: just sent an email to your cox account
+[04/21/2008 09:29:52 AM] *** You have been disconnected. Mon Apr 21 09:29:52 2008.
+[04/21/2008 09:30:00 AM] *** "Steve McVey" signed on at Mon Apr 21 09:30:00 2008.
+[04/21/2008 09:47:58 AM] Brian Cullinan: did i forget to tell you the check engine light went off?
+[04/21/2008 09:48:09 AM] Steve McVey: didnt hear that
+[04/21/2008 09:48:15 AM] Steve McVey: weird
+[04/21/2008 09:48:20 AM] Steve McVey: usually they have to be reset
+[04/21/2008 09:48:41 AM] Brian Cullinan: maybe just the flashing kind has to be reset
+[04/21/2008 09:48:49 AM] Steve McVey: dunno
+[04/21/2008 09:48:49 AM] Brian Cullinan: or maybe the light burnt out
+[04/21/2008 09:48:52 AM] Steve McVey: got my email?
+[04/21/2008 09:49:09 AM] Brian Cullinan: yes, i got e-mails, so you want me to send a signed copy, and e-mail a scan?
+[04/21/2008 09:49:31 AM] Brian Cullinan: finding a scanner will be a pain, maybe the office in the engineering building has one i can use
+[04/21/2008 09:49:56 AM] Steve McVey: just print and mail then
+[04/21/2008 09:51:03 AM] Brian Cullinan: so no need to scan it?
+[04/21/2008 09:51:26 AM] Steve McVey: no, was just an option
+[04/21/2008 09:51:50 AM] Steve McVey: just print, sign and mail, unless you have a fax machine handy
+[04/21/2008 09:52:12 AM] Brian Cullinan: ok
+[04/21/2008 09:52:55 AM] Steve McVey: get a new receiver?
+[04/21/2008 09:53:22 AM] Brian Cullinan: yes, they actually had a model that wasn't showing up online
+[04/21/2008 09:53:35 AM] Steve McVey: which?
+[04/21/2008 09:53:45 AM] Brian Cullinan: it is a 5.1 sony, and it DOES have optical input
+[04/21/2008 09:54:00 AM] Brian Cullinan: the 5.1 online only hax coax
+[04/21/2008 09:54:13 AM] Brian Cullinan: $203 + tax
+[04/21/2008 09:54:25 AM] Brian Cullinan: not sure if i can remember the model number
+[04/21/2008 09:54:42 AM] Steve McVey: not important
+[04/21/2008 09:54:46 AM] Steve McVey: sound good then?
+[04/21/2008 09:55:50 AM] Brian Cullinan: it sounds good, it is a little more powerful in wattage
+Session Close (Steve McVey): Mon Apr 21 10:29:36 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Apr 22 20:49:47 2008
+[04/22/2008 08:49:47 PM] Steve McVey: Check engine still off?
+[04/22/2008 08:50:02 PM] Steve McVey: Did you mail that insurance form?
+[04/22/2008 09:19:45 PM] Brian Cullinan: getting to it, engine light is still off
+Session Close (Steve McVey): Tue Apr 22 21:20:25 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Apr 22 21:47:53 2008
+[04/22/2008 09:47:53 PM] Steve McVey: great...i think
+Session Close (Steve McVey): Tue Apr 22 21:48:18 2008
+
+
+Session Start (bjcullinan:Steve McVey): Thu Apr 24 22:52:45 2008
+[04/24/2008 10:52:49 PM] Brian Cullinan: still up?
+[04/24/2008 10:52:55 PM] Steve McVey: barely
+[04/24/2008 10:53:04 PM] Brian Cullinan: let mom know i was napping when you head down
+[04/24/2008 10:53:13 PM] Steve McVey: did she call you?
+[04/24/2008 10:53:28 PM] Brian Cullinan: yeah
+[04/24/2008 10:53:34 PM] Steve McVey: can she call you now?
+[04/24/2008 10:53:39 PM] Brian Cullinan: you know how she worries when i don't answer
+[04/24/2008 10:53:43 PM] Brian Cullinan: yes i suppose so
+[04/24/2008 10:53:52 PM] Brian Cullinan: i will be up all night working on projects
+[04/24/2008 10:53:58 PM] Brian Cullinan: got 3 of them due monday
+[04/24/2008 10:54:11 PM] Steve McVey: ok, she just went to bed, sostill awake
+[04/24/2008 10:54:24 PM] Brian Cullinan: should i call?
+[04/24/2008 10:54:52 PM] Steve McVey: no ill have her call you if she wants
+[04/24/2008 10:54:57 PM] Brian Cullinan: ok
+[04/24/2008 10:55:02 PM] Steve McVey: cya
+[04/24/2008 10:55:10 PM] Brian Cullinan: bie
+Session Close (Steve McVey): Thu Apr 24 22:55:11 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon May 05 11:09:26 2008
+[05/05/2008 11:09:26 AM] Steve McVey: did you send in the insurance discount thing?
+[05/05/2008 11:09:32 AM] Brian Cullinan: oh shoot
+[05/05/2008 11:09:38 AM] Brian Cullinan: i need a printer here!
+[05/05/2008 11:09:42 AM] Steve McVey: Is the car still running ok, no check engine light?
+[05/05/2008 11:09:50 AM] Brian Cullinan: every time i go to school, i forget
+[05/05/2008 11:10:06 AM] Brian Cullinan: car is ok, probably should check the oil, engine light is off
+[05/05/2008 11:10:12 AM] Steve McVey: good
+[05/05/2008 11:10:19 AM] Steve McVey: still working on how to solve
+[05/05/2008 11:10:29 AM] Brian Cullinan: i will run over to school now and print out the form
+[05/05/2008 11:10:30 AM] Steve McVey: probably leave it with them while youre in OH
+[05/05/2008 11:11:22 AM] Brian Cullinan: hmm, that will work, got about 4 weeks total including seattle
+[05/05/2008 11:14:00 AM] *** You have been disconnected. Mon May 05 11:14:00 2008.
+[05/05/2008 11:14:15 AM] *** "Steve McVey" signed on at Mon May 05 11:14:15 2008.
+Session Close (Steve McVey): Mon May 05 11:23:10 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon May 05 11:24:07 2008
+[05/05/2008 11:24:17 AM] Brian Cullinan: omg stuff copies so much faster with a gigabit router
+[05/05/2008 11:24:29 AM] Steve McVey: true
+Session Close (Steve McVey): Mon May 05 11:40:51 2008
+
+
+Session Start (bjcullinan:Steve McVey): Fri May 09 09:22:56 2008
+[05/09/2008 09:22:56 AM] Steve McVey: Rent!
+Session Close (Steve McVey): Fri May 09 09:48:54 2008
+
+
+Session Start (bjcullinan:Steve McVey): Sat May 10 09:51:26 2008
+[05/10/2008 09:51:26 AM] Steve McVey: Don't forget Mother's Day is tomorrow.
+[05/10/2008 02:12:05 PM] Brian Cullinan: darnit dave left for kingman already
+[05/10/2008 02:12:05 PM] *** Auto-response from Steve McVey: I am currently away from the computer.
+[05/10/2008 02:12:11 PM] Brian Cullinan: and i told him to write a check
+[05/10/2008 02:14:59 PM] Steve McVey: have him mail it then
+[05/10/2008 02:15:11 PM] Brian Cullinan: i will
+[05/10/2008 02:17:20 PM] Brian Cullinan: so i am kind of tired of leeching off cox
+[05/10/2008 02:17:40 PM] Brian Cullinan: my new e-mail is wise@bjcullinan.com
+[05/10/2008 02:17:55 PM] Steve McVey: ok, old ones still work?
+[05/10/2008 02:18:05 PM] Brian Cullinan: if my server goes down i am going to have the rp-s server pickup the slack on the e-mail
+[05/10/2008 02:18:10 PM] Brian Cullinan: old on still works ok
+[05/10/2008 02:18:23 PM] Brian Cullinan: last night it kept asking for a password kind of annoying
+[05/10/2008 02:18:28 PM] Brian Cullinan: but i get too much spam
+[05/10/2008 02:18:39 PM] Brian Cullinan: so i am setting up aliases for everything i sign up for
+[05/10/2008 02:20:51 PM] Brian Cullinan: but i will have to keep the cox account before i can switch everything over
+Session Close (Steve McVey): Sat May 10 14:51:26 2008
+
+
+Session Start (bjcullinan:Steve McVey): Sun May 11 20:33:45 2008
+[05/11/2008 08:33:45 PM] Steve McVey: Did you mail the insurance discount form?
+[05/11/2008 08:34:06 PM] Steve McVey: Are you still having a problem with the dryer?
+[05/11/2008 09:52:38 PM] *** "Steve McVey" signed off at Sun May 11 21:52:38 2008.
+Session Close (Steve McVey): Mon May 12 00:22:29 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue May 13 20:49:06 2008
+[05/13/2008 08:49:06 PM] Steve McVey: Rent is (past) due...
+[05/13/2008 08:49:10 PM] Steve McVey: Did you mail the insurance form?
+[05/13/2008 08:49:18 PM] Steve McVey: Is the dryer still a problem?
+[05/13/2008 08:51:58 PM] Brian Cullinan: dry still a problem
+[05/13/2008 08:52:11 PM] Brian Cullinan: i will get the check now and transfer it at the bank tomorrow
+[05/13/2008 08:52:17 PM] Brian Cullinan: mine should have transfered already
+[05/13/2008 08:52:47 PM] Brian Cullinan: and as i told mom, i have filled out the insurance form 3 times now, and every time it has disappeared before i could get it in the mail
+[05/13/2008 08:53:08 PM] Brian Cullinan: the last time i even had an envelope and a stamp on it, but now i can't find it
+[05/13/2008 08:53:18 PM] Brian Cullinan: this wouldn't be such a problem if i had a printer!
+[05/13/2008 08:53:48 PM] Brian Cullinan: i have to go to campus to print it, then somehow go to all my classes and make it back here with the form to mail it
+[05/13/2008 08:57:20 PM] Brian Cullinan: last time i thought i had it, but now i can't find the envelope to finish writing the no doubt illegible address on it and mail it.
+[05/13/2008 08:57:27 PM] Brian Cullinan: so when is it actually due?
+[05/13/2008 08:57:53 PM] Brian Cullinan: can i do it tomorrow and be ok, or are you going to have to fight with them about it being late?
+Session Close (Steve McVey): Tue May 13 21:27:55 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue May 13 22:29:36 2008
+[05/13/2008 10:29:36 PM] Steve McVey: It's due whenever i would like to start saving money...
+[05/13/2008 10:30:45 PM] Steve McVey: the rent transfer is pending, so should go tomorrow
+[05/13/2008 10:31:38 PM] Steve McVey: is there some kind of maintenance to do on the dryer?
+[05/13/2008 10:31:54 PM] Steve McVey: have you ever cleaned out a lint trap?
+[05/13/2008 10:32:08 PM] Steve McVey: is it possible the vent is clogged?
+[05/13/2008 10:32:14 PM] Steve McVey: these are common dryer problems
+[05/13/2008 10:32:26 PM] Steve McVey: is there a manual online?
+Session Close (Steve McVey): Tue May 13 23:17:00 2008
+
+
+Session Start (bjcullinan:Steve McVey): Fri May 16 19:15:06 2008
+[05/16/2008 07:15:40 PM] Brian Cullinan: so a program i had on my phone kept trying to connect to the internet all the time, so it was eating up the batter every day because the internet was always on
+[05/16/2008 07:15:46 PM] *** Auto-response from Steve McVey: I am currently away from the computer.
+[05/16/2008 07:15:49 PM] Brian Cullinan: now it is back to lasting for days
+Session Close (Steve McVey): Fri May 16 19:15:49 2008
+
+
+Session Start (bjcullinan:Steve McVey): Fri May 16 23:04:14 2008
+[05/16/2008 11:04:14 PM] Steve McVey: makes sense...
+Session Close (Steve McVey): Fri May 16 23:43:57 2008
+
+
+Session Start (bjcullinan:Steve McVey): Sun Jun 01 13:27:40 2008
+[06/01/2008 01:27:40 PM] Steve McVey: Do you have server info for andrew's nau email account?
+[06/01/2008 01:27:50 PM] Steve McVey: tryinfg to set him up in outlook
+[06/01/2008 01:28:03 PM] Brian Cullinan: yeah sec
+[06/01/2008 01:29:22 PM] Brian Cullinan: pop3 dana.ucc.nau.edu
+[06/01/2008 01:29:29 PM] Brian Cullinan: smtp mailgate.nau.edu
+[06/01/2008 01:29:43 PM] Brian Cullinan: but it is like cox, you can only send mail through it when you are on their network
+[06/01/2008 01:29:59 PM] Steve McVey: ok, at least we can retieve then
+[06/01/2008 01:29:59 PM] Brian Cullinan: incoming requires ssl
+[06/01/2008 01:30:07 PM] Brian Cullinan: under more settings -> advanced
+[06/01/2008 01:30:22 PM] Steve McVey: you mean pop3 requires ssl?
+[06/01/2008 01:31:01 PM] Brian Cullinan: yes
+[06/01/2008 01:31:05 PM] Steve McVey: k
+[06/01/2008 01:31:15 PM] Steve McVey: it is june...rent due again
+[06/01/2008 01:31:22 PM] Steve McVey: did you figure out how to get service on the dryer?
+[06/01/2008 01:31:47 PM] Brian Cullinan: i have been busy
+[06/01/2008 01:32:05 PM] Steve McVey: taking clothes to the laundry facility?
+[06/01/2008 01:32:17 PM] Brian Cullinan: haven't needed to since
+[06/01/2008 01:32:21 PM] Brian Cullinan: probably about time
+Session Close (Steve McVey): Sun Jun 01 14:21:06 2008
+
+
+Session Start (bjcullinan:Steve McVey): Thu Jun 05 17:19:24 2008
+[06/05/2008 05:19:24 PM] Steve McVey: Got your rent. Thanks for better timing
+[06/05/2008 05:20:00 PM] Brian Cullinan: depositing and transferring dave's tomorrow,
+[06/05/2008 05:22:04 PM] Steve McVey: k, ppreciat eit
+[06/05/2008 05:22:46 PM] Steve McVey: let me know when you figure ou tthe dryer service thing
+[06/05/2008 05:22:57 PM] Steve McVey: also, you are coming home on 6/16, correct?
+[06/05/2008 05:23:36 PM] Steve McVey: will want to drop off the car at the mechanics
+[06/05/2008 05:44:52 PM] Brian Cullinan: yeah
+[06/05/2008 05:44:52 PM] *** Auto-response from Steve McVey: I am currently away from the computer.
+Session Close (Steve McVey): Thu Jun 05 17:44:55 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Jul 02 21:59:26 2008
+[07/02/2008 09:59:26 PM] Steve McVey: Rent time again!
+[07/02/2008 10:08:37 PM] Steve McVey: Got car back today.. no leask so far
+[07/02/2008 10:33:12 PM] *** You have been disconnected. Wed Jul 02 22:33:12 2008.
+[07/02/2008 10:33:17 PM] *** "Steve McVey" signed on at Wed Jul 02 22:33:17 2008.
+[07/03/2008 12:26:15 AM] *** You have been disconnected. Thu Jul 03 00:26:15 2008.
+[07/03/2008 12:28:35 AM] *** "Steve McVey" signed on at Thu Jul 03 00:28:35 2008.
+[07/03/2008 12:48:07 AM] *** You have been disconnected. Thu Jul 03 00:48:07 2008.
+[07/03/2008 12:52:27 AM] *** "Steve McVey" signed on at Thu Jul 03 00:52:27 2008.
+[07/03/2008 11:38:56 AM] *** You have been disconnected. Thu Jul 03 11:38:56 2008.
+[07/03/2008 11:39:08 AM] *** "Steve McVey" signed on at Thu Jul 03 11:39:08 2008.
+[07/03/2008 05:49:37 PM] *** You have been disconnected. Thu Jul 03 17:49:37 2008.
+[07/03/2008 05:49:43 PM] *** "Steve McVey" signed on at Thu Jul 03 17:49:43 2008.
+[07/03/2008 06:34:11 PM] *** You have been disconnected. Thu Jul 03 18:34:11 2008.
+[07/03/2008 06:34:22 PM] *** "Steve McVey" signed on at Thu Jul 03 18:34:22 2008.
+[07/03/2008 08:32:51 PM] *** You have been disconnected. Thu Jul 03 20:32:51 2008.
+[07/03/2008 08:32:58 PM] *** "Steve McVey" signed on at Thu Jul 03 20:32:58 2008.
+[07/03/2008 11:16:24 PM] *** You have been disconnected. Thu Jul 03 23:16:24 2008.
+[07/03/2008 11:16:29 PM] *** "Steve McVey" signed on at Thu Jul 03 23:16:29 2008.
+[07/04/2008 02:13:57 AM] *** You have been disconnected. Fri Jul 04 02:13:57 2008.
+[07/04/2008 02:14:02 AM] *** "Steve McVey" signed on at Fri Jul 04 02:14:02 2008.
+Session Start (bjcullinan:Steve McVey): Thu Jul 31 09:18:51 2008
+[07/31/2008 09:18:51 AM] Steve McVey: reinstalling mom's software
+[07/31/2008 09:19:15 AM] Steve McVey: do you have a trillian license?
+[07/31/2008 01:15:16 PM] Brian Cullinan: i only have one
+[07/31/2008 01:15:52 PM] Brian Cullinan: user: b.cullinan@cox.net
+ pass: 4Y3xxB2B
+[07/31/2008 01:16:03 PM] Brian Cullinan: not sure if i will get kicked off it she is using it
+[07/31/2008 01:17:55 PM] Brian Cullinan: she getting the new office?
+[07/31/2008 01:19:15 PM] Brian Cullinan: i never see any big improvements anymore, its like they change design stuff, and add a few more features, like online dictionary and summary and translation tools, but it is still horrible slow and bulky
+[07/31/2008 01:19:34 PM] Brian Cullinan: and they forgot what a dropdown menu is
+[07/31/2008 01:20:06 PM] *** You have been disconnected. Thu Jul 31 13:20:06 2008.
+[07/31/2008 01:20:23 PM] *** "Steve McVey" signed on at Thu Jul 31 13:20:23 2008.
+[07/31/2008 01:34:36 PM] Steve McVey: no new office, just doing a rebuild to clean up the crap. 
+[07/31/2008 01:34:36 PM] Steve McVey: also new hardware
+[07/31/2008 01:34:49 PM] Steve McVey: amd x2 4800+
+[07/31/2008 01:35:01 PM] Steve McVey: sata hard drive
+[07/31/2008 01:35:05 PM] Steve McVey: 2G c6400
+[07/31/2008 01:35:10 PM] Steve McVey: pc6400
+[07/31/2008 01:35:24 PM] Steve McVey: wasnt she using your license before?
+[07/31/2008 01:40:25 PM] Brian Cullinan: yeah probably, i have a crack for 3.1 also
+[07/31/2008 01:41:06 PM] Brian Cullinan: sounds like some pretty decent specs, she should have a better computer then me
+[07/31/2008 01:42:16 PM] Steve McVey: ill try it with my license first. maybe she had the crack. it never expires 
+[07/31/2008 01:42:34 PM] Brian Cullinan: so is the van getting repaired in time for me to borrow it?
+[07/31/2008 01:43:06 PM] Steve McVey: when are you going?
+[07/31/2008 01:43:13 PM] Brian Cullinan: the 5th
+[07/31/2008 01:43:24 PM] Brian Cullinan: in 6 days
+[07/31/2008 01:43:27 PM] Steve McVey: only thing wrong is the wipers
+[07/31/2008 01:45:22 PM] Brian Cullinan: yeah, maybe i could treat it with some rainx just in case, if you are not going to have them fixed by then
+[07/31/2008 01:45:50 PM] Steve McVey: hope so but no guarantee
+[07/31/2008 01:46:36 PM] Brian Cullinan: so what day can i come pick it up?
+[07/31/2008 01:46:51 PM] Steve McVey: have to ask mom. she would need it for parties if she has any
+[07/31/2008 01:57:11 PM] Brian Cullinan: she hasn't mentioned anything, i talked to her about taking it, but it is possible she didn't consider that
+[07/31/2008 01:59:00 PM] Brian Cullinan: anytime that weekend or the few days before is fine, crystal wants to come up tuesday, so i am also trying to plan ahead for when andrew comes up with his stuff only a week later
+[07/31/2008 02:05:29 PM] Steve McVey: that would be this weekend then since the 6th is wednesday
+[07/31/2008 02:31:47 PM] Brian Cullinan: yes i meant after defcon, maybe mom should come up with andrew in the camry because i don't think he has ever driven in the mountains, and then you come up in the van, and one of you can take my car back
+[07/31/2008 02:32:28 PM] Brian Cullinan: so i guess i will still have to drive back to phoenix after defcon
+Session Close (Steve McVey): Thu Jul 31 14:32:34 2008
+
+
+Session Start (bjcullinan:Steve McVey): Thu Jul 31 14:33:47 2008
+[07/31/2008 02:33:47 PM] Steve McVey: we'll figure it out...
+Session Close (Steve McVey): Thu Jul 31 14:48:22 2008
+
+
+Session Start (bjcullinan:Steve McVey): Thu Jul 31 18:16:49 2008
+[07/31/2008 06:16:53 PM] Brian Cullinan: i need a shoe rack
+[07/31/2008 06:17:06 PM] Brian Cullinan: couldn't find one at walmart
+Session Close (Steve McVey): Thu Jul 31 18:24:22 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon Aug 04 11:31:50 2008
+[08/04/2008 11:31:50 AM] Steve McVey: Another month another rent due...
+[08/04/2008 11:32:18 AM] Steve McVey: Bring us a check from Dave?
+[08/04/2008 12:01:15 PM] *** You have been disconnected. Mon Aug 04 12:01:15 2008.
+[08/04/2008 12:01:26 PM] *** "Steve McVey" signed on at Mon Aug 04 12:01:26 2008.
+Session Close (Steve McVey): Mon Aug 04 14:45:04 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Aug 12 20:24:36 2008
+[08/12/2008 08:24:36 PM] Steve McVey: if youre going todrive crystals car cross country...
+[08/12/2008 08:24:53 PM] Steve McVey: i would encourage her to get some fluids replaced and check that spare tire.
+[08/12/2008 08:25:19 PM] Steve McVey: quarter-sized drop of something on my garage floor...
+[08/12/2008 08:25:24 PM] Steve McVey: and it was really dark
+[08/12/2008 08:25:32 PM] Steve McVey: oil or trans fluid
+[08/12/2008 08:53:44 PM] Brian Cullinan: she actually just got it replaced like a month ago, so i imagine that was just from the frame
+[08/12/2008 08:55:20 PM] Steve McVey: id check all the fluids to make sure
+[08/12/2008 08:55:34 PM] Steve McVey: tires look fairly worn, so make sure your spare is good
+[08/12/2008 09:40:53 PM] Brian Cullinan: ok
+[08/12/2008 09:40:54 PM] *** Auto-response from Steve McVey: I am currently away from the computer.
+Session Close (Steve McVey): Tue Aug 12 22:00:23 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Sep 03 11:11:43 2008
+[09/03/2008 11:11:45 AM] Brian Cullinan: (Link: http://mfrost.typepad.com/cute_overload/2008/09/la-la-la-la-cov.html)http://mfrost.typepad.com/cute_overload/2008/09/la-la-la-la-cov.html
+Session Close (Steve McVey): Wed Sep 03 11:11:47 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Sep 03 11:12:46 2008
+[09/03/2008 11:12:46 AM] Steve McVey: on phone...
+[09/03/2008 11:12:49 AM] Steve McVey: what is this?
+Session Close (Steve McVey): Wed Sep 03 11:12:50 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Sep 03 11:29:16 2008
+[09/03/2008 11:29:16 AM] Steve McVey: It's Septmeber, another rent due!
+[09/03/2008 11:29:21 AM] Steve McVey: Thinking about cleaning som carpets
+[09/03/2008 11:29:26 AM] Steve McVey: in the condo
+[09/03/2008 11:29:42 AM] Steve McVey: would need to move everything around to get to them
+[09/03/2008 11:30:01 AM] Steve McVey: i can just bring my machine up
+[09/03/2008 11:30:12 AM] Brian Cullinan: couches would be easy
+[09/03/2008 11:30:17 AM] Brian Cullinan: bedrooms not so much
+[09/03/2008 11:30:46 AM] Brian Cullinan: i need a new chair mat
+[09/03/2008 11:31:45 AM] Steve McVey: remind me when we come up next time and ill stop at costco
+[09/03/2008 11:32:06 AM] Brian Cullinan: i am thinking of a different solution
+[09/03/2008 11:32:16 AM] Brian Cullinan: those mats are stupidly over priced
+[09/03/2008 11:33:21 AM] Brian Cullinan: why is the bank of america site down?
+[09/03/2008 11:34:38 AM] Steve McVey: working for me
+[09/03/2008 11:34:54 AM] Brian Cullinan: i am using my verizon connection
+[09/03/2008 11:35:17 AM] Brian Cullinan: weird it just started up again
+[09/03/2008 11:36:21 AM] Steve McVey: this is the mobile site?
+[09/03/2008 11:36:32 AM] Brian Cullinan: no, it's working again
+[09/03/2008 11:36:57 AM] Brian Cullinan: well rent will set me under 1000 dollars in my savings account
+[09/03/2008 11:37:32 AM] Steve McVey: bummer
+[09/03/2008 11:37:42 AM] Brian Cullinan: yeah, i eat too much
+[09/03/2008 11:37:47 AM] Steve McVey: thought you were paying rent out of your dads acct
+[09/03/2008 11:38:12 AM] Brian Cullinan: not enough in that account because of food and home depot
+[09/03/2008 11:38:53 AM] Brian Cullinan: great, quest guy left and i still don't have internet
+[09/03/2008 11:42:50 AM] *** You have been disconnected. Wed Sep 03 11:42:50 2008.
+[09/03/2008 11:48:07 AM] *** "Steve McVey" signed on at Wed Sep 03 11:48:07 2008.
+[09/03/2008 11:48:34 AM] Brian Cullinan: out of all the sites that i visit from my phone, and the dsl connection, bank of america is the slowest
+Session Close (Steve McVey): Wed Sep 03 11:49:19 2008
+
+
+Session Start (bjcullinan:Steve McVey): Thu Sep 04 16:59:54 2008
+[09/04/2008 04:59:54 PM] Steve McVey: (Link: http://www.thewebsiteisdown.com/)http://www.thewebsiteisdown.com/
+[09/04/2008 05:00:46 PM] *** "Steve McVey" signed off at Thu Sep 04 17:00:46 2008.
+Session Close (Steve McVey): Thu Sep 04 17:50:55 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon Sep 08 19:02:11 2008
+[09/08/2008 07:02:11 PM] Steve McVey: did you make two deposits for rent? 150 + 500?
+[09/08/2008 07:40:27 PM] *** You have been disconnected. Mon Sep 08 19:40:27 2008.
+[09/08/2008 07:40:37 PM] *** "Steve McVey" signed on at Mon Sep 08 19:40:37 2008.
+[09/08/2008 09:39:02 PM] *** You have been disconnected. Mon Sep 08 21:39:02 2008.
+[09/08/2008 09:39:10 PM] *** "Steve McVey" signed on at Mon Sep 08 21:39:10 2008.
+[09/08/2008 10:23:35 PM] *** You have been disconnected. Mon Sep 08 22:23:35 2008.
+[09/08/2008 10:23:43 PM] *** "Steve McVey" signed on at Mon Sep 08 22:23:43 2008.
+[09/08/2008 11:21:33 PM] Brian Cullinan: i thought it was 3
+[09/08/2008 11:21:33 PM] *** Auto-response from Steve McVey: I am currently away from the computer.
+[09/08/2008 11:21:59 PM] Brian Cullinan: 500 first, 150 from my account, and the last 550 from dave should have transfered by now
+Session Close (Steve McVey): Mon Sep 08 23:27:51 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Sep 09 07:29:31 2008
+[09/09/2008 07:29:31 AM] Steve McVey: got them all. thanks. you are about to overdraw your checking acct by 2.79
+[09/09/2008 07:32:13 AM] *** You have been disconnected. Tue Sep 09 07:32:13 2008.
+[09/09/2008 07:32:19 AM] *** "Steve McVey" signed on at Tue Sep 09 07:32:19 2008.
+Session Close (Steve McVey): Tue Sep 09 09:54:17 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Sep 09 10:40:57 2008
+[09/09/2008 10:41:29 AM] Brian Cullinan: so i am going to take all the parts out of the case
+[09/09/2008 10:41:51 AM] Brian Cullinan: i am taking the pci cards off the board and using PCI ribbon cables to connect them
+[09/09/2008 10:42:22 AM] Brian Cullinan: and taking the power supply out of the casing, so everything is exposed and laying flat
+[09/09/2008 10:43:25 AM] Brian Cullinan: i think it will look really cool
+[09/09/2008 10:44:41 AM] Steve McVey: inside the table i presume
+[09/09/2008 10:44:53 AM] Brian Cullinan: yes underneath the glass
+[09/09/2008 10:45:15 AM] Brian Cullinan: so i will have another layer suspended to hold up the parts
+[09/09/2008 10:45:49 AM] Steve McVey: maybe you should just modify a glass table
+[09/09/2008 10:46:21 AM] Brian Cullinan: i am devising it so that there is only 1 piece that will have to be removed to make it look like a regular glass coffee table, and that is the bottom of it
+[09/09/2008 10:46:55 AM] Brian Cullinan: buying a glass table would be more expensive, manufacturing costs and such, i want the finish the same color as the black table
+[09/09/2008 10:47:13 AM] Steve McVey: im not so sure i would assume that
+[09/09/2008 10:47:24 AM] Steve McVey: if they make 1000 glass tables and you make one...
+[09/09/2008 10:47:29 AM] Brian Cullinan: besides i can get the glass without paying for it
+[09/09/2008 10:47:55 AM] Steve McVey: i see
+[09/09/2008 10:51:04 AM] Brian Cullinan: do you know what kind of screws those would be?
+[09/09/2008 10:51:14 AM] Brian Cullinan: like a finish screw but with a way to lock it
+[09/09/2008 10:52:44 AM] Steve McVey: yes, but dont know the name for it
+[09/09/2008 10:52:56 AM] Steve McVey: a trip to home depot might work
+[09/09/2008 10:53:54 AM] Steve McVey: (Link: http://www.bobvila.com/SmartBuys/Blum_KD_knockdown_Assembly_Fittings-p13702.html)http://www.bobvila.com/SmartBuys/Blum_KD_knockdown_Assem(Link: http://www.bobvila.com/SmartBuys/Blum_KD_knockdown_Assembly_Fittings-p13702.html)bly_Fittings-p13702.html
+[09/09/2008 11:09:40 AM] Brian Cullinan: g2g clean desks at work
+[09/09/2008 11:09:42 AM] Brian Cullinan: ttyl
+Session Close (Steve McVey): Tue Sep 09 11:09:55 2008
+
+
+Session Start (bjcullinan:Steve McVey): Fri Sep 12 10:16:09 2008
+[09/12/2008 10:16:09 AM] Steve McVey: am369@dana.ucc.nau.edu
+[09/12/2008 10:16:25 AM] Steve McVey: andrew's address is unknown. is this correct?
+[09/12/2008 11:24:12 AM] Brian Cullinan: am639
+[09/12/2008 11:24:34 AM] Brian Cullinan: and use @nau.edu from now on
+[09/12/2008 11:25:44 AM] Steve McVey: k, will try it
+Session Close (Steve McVey): Fri Sep 12 11:26:05 2008
+
+
+Session Start (bjcullinan:Steve McVey): Fri Sep 12 11:26:19 2008
+[09/12/2008 11:26:19 AM] Steve McVey: his return address is am369
+Session Close (Steve McVey): Fri Sep 12 11:26:19 2008
+
+
+Session Start (bjcullinan:Steve McVey): Fri Sep 12 11:27:54 2008
+[09/12/2008 11:27:56 AM] Steve McVey: is that config'd in outlook?
+[09/12/2008 11:28:19 AM] Brian Cullinan: i don't think so, but i can go set him up with it
+[09/12/2008 11:28:38 AM] Brian Cullinan: i have mine in outlook
+[09/12/2008 11:28:40 AM] Steve McVey: thought ther was a reply to adress
+[09/12/2008 11:29:27 AM] Brian Cullinan: reply to address?
+[09/12/2008 11:29:43 AM] Steve McVey: yes, in outlook config
+[09/12/2008 11:29:53 AM] Steve McVey: could be wrong there
+[09/12/2008 11:30:18 AM] Brian Cullinan: not sure what you are trying to do
+[09/12/2008 11:30:29 AM] Steve McVey: his email header shows it coming from am369
+[09/12/2008 11:30:43 AM] Brian Cullinan: really?
+[09/12/2008 11:30:46 AM] Brian Cullinan: thats odd
+[09/12/2008 11:30:47 AM] Steve McVey: yes
+[09/12/2008 11:31:02 AM] Steve McVey: Andrew McVey [am369@dana.ucc.nau.edu]
+[09/12/2008 11:31:06 AM] Brian Cullinan: am639@nau.eduam639@nau.edu
+[09/12/2008 11:31:20 AM] Brian Cullinan: that's what it says on ldap, has he been getting e-mails?
+[09/12/2008 11:31:33 AM] Brian Cullinan: am639@nau.edu
+[09/12/2008 11:31:35 AM] Steve McVey: cant send to that address
+[09/12/2008 11:31:46 AM] Brian Cullinan: to the one i gave you?
+[09/12/2008 11:33:10 AM] Steve McVey: no the one that shows on the "from" in his emails
+[09/12/2008 11:35:31 AM] Brian Cullinan: yeah, i will have to go look at his set up
+[09/12/2008 11:35:52 AM] Brian Cullinan: he may have typed it in the email address section wrong, but then typed in the right username
+[09/12/2008 11:35:59 AM] Steve McVey: could be
+[09/12/2008 11:36:00 AM] Brian Cullinan: i am not sure if her is even using outlook
+[09/12/2008 11:36:09 AM] Brian Cullinan: it is kind of a pain to set up
+[09/12/2008 11:36:10 AM] Steve McVey: yes, we set him up here before he went up
+[09/12/2008 11:36:17 AM] Brian Cullinan: oh ok
+[09/12/2008 11:36:29 AM] Steve McVey: also, he needs to change his primary account the nau.edu one
+[09/12/2008 11:36:42 AM] Steve McVey: because you cant use cox as primary for sending unless youre on their network
+[09/12/2008 11:36:55 AM] Brian Cullinan: correct
+[09/12/2008 11:37:00 AM] Brian Cullinan: same with NAU
+[09/12/2008 11:37:13 AM] Brian Cullinan: which is why you should just eliminate the problem and set up google
+[09/12/2008 11:37:22 AM] Steve McVey: he ie also having some freezing when using tv and big lag every 5 minutes when playing games
+[09/12/2008 11:37:23 AM] Brian Cullinan: or send off your own server like I do
+[09/12/2008 11:37:41 AM] Brian Cullinan: Yes did you update the video and tv card drivers?
+[09/12/2008 11:37:49 AM] Steve McVey: video yes
+[09/12/2008 11:37:51 AM] Steve McVey: tv card no
+[09/12/2008 11:38:15 AM] Brian Cullinan: i am thinking he has something running and that is causing the lag but he says he closes stuff down
+[09/12/2008 11:38:30 AM] Brian Cullinan: so maybe the new drivers are causing the problem/
+[09/12/2008 11:38:30 AM] Brian Cullinan: ?
+[09/12/2008 11:38:31 AM] Steve McVey: im wondering if it is the tv doing DVR or something
+[09/12/2008 11:38:52 AM] Steve McVey: same with old or new drivers
+[09/12/2008 11:39:01 AM] Brian Cullinan: didn't want to go main stram and just get him a tv wonder from ati huh?
+[09/12/2008 11:39:16 AM] Steve McVey: didnt have any
+[09/12/2008 11:42:00 AM] Brian Cullinan: i finally have a little free time today, i can go take a look
+[09/12/2008 11:42:13 AM] Steve McVey: would appreciate it
+[09/12/2008 11:42:27 AM] Steve McVey: i think latest tv driver and software if there is one
+[09/12/2008 11:42:33 AM] Brian Cullinan: but then it is homework the rest of the weekend
+[09/12/2008 11:42:35 AM] Steve McVey: dont know about game lag
+[09/12/2008 11:42:50 AM] Steve McVey: i am writing him about his email address
+Session Close (Steve McVey): Fri Sep 12 12:15:42 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon Sep 15 18:35:40 2008
+[09/15/2008 06:35:48 PM] Brian Cullinan: i think i am done with palm
+[09/15/2008 06:35:49 PM] *** Auto-response from Steve McVey: I am currently away from the computer.
+[09/15/2008 06:36:13 PM] Brian Cullinan: blackberry is coming out with a touch screen
+[09/15/2008 07:02:05 PM] Steve McVey: yes, been talked about for 2 years
+[09/15/2008 07:02:21 PM] Steve McVey: officially announced?
+[09/15/2008 07:16:07 PM] Brian Cullinan: no
+[09/15/2008 07:16:09 PM] Brian Cullinan: still leaked
+[09/15/2008 07:16:31 PM] Steve McVey: table coming along?
+[09/15/2008 07:16:33 PM] Steve McVey: i saw the pics
+[09/15/2008 07:17:04 PM] Brian Cullinan: need to sand it with a finer gran
+[09/15/2008 07:17:08 PM] Brian Cullinan: then stain
+[09/15/2008 07:17:41 PM] Steve McVey: might consider minwax that stains and finishes
+[09/15/2008 07:17:48 PM] Brian Cullinan: hmmm
+[09/15/2008 07:17:54 PM] Brian Cullinan: i already bought the stuff
+[09/15/2008 07:18:14 PM] Steve McVey: no big deal then
+Session Close (Steve McVey): Mon Sep 15 20:19:06 2008
+
+
+Session Start (bjcullinan:Steve McVey): Thu Sep 18 10:20:41 2008
+[09/18/2008 10:21:07 AM] Brian Cullinan: if you come accross a motherboard that is going to get tossed out, i need the pci-e female socket off of it
+[09/18/2008 10:21:20 AM] Brian Cullinan: unless you think i could order it online, i can't find one
+[09/18/2008 10:21:46 AM] Steve McVey: dont have any with pci-e that are not i working order
+[09/18/2008 10:21:48 AM] Brian Cullinan: nvm may have just found one
+Session Close (Steve McVey): Thu Sep 18 10:51:50 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon Sep 22 00:24:27 2008
+[09/22/2008 12:24:29 AM] Brian Cullinan: (Link: http://xkcd.com/323/)http://xkcd.com/323/
+[09/22/2008 12:24:29 AM] *** Auto-response from Steve McVey: I am currently away from the computer.
+Session Close (Steve McVey): Mon Sep 22 00:24:32 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon Sep 22 17:02:59 2008
+[09/22/2008 05:03:16 PM] Brian Cullinan: Did you enjoy the Ballmer Peak cartoon?
+Session Close (Steve McVey): Mon Sep 22 17:39:30 2008
+
+
+Session Start (bjcullinan:Steve McVey): Thu Sep 25 12:21:00 2008
+[09/25/2008 12:21:07 PM] Brian Cullinan: Cool pants: (Link: http://feeds.gawker.com/~r/gizmodo/full/~3/403056046/cordarounds-dress-pants-hide-blindingly-bright-bike-reflectors)http://feeds.gawker.com/~r/gizmodo/full/~3/403056046/cordarounds-dress(Link: http://feeds.gawker.com/~r/gizmodo/full/~3/403056046/cordarounds-dress-pants-hide-blindingly-bright-bike-reflectors)-pants-hide-blindingly-bright-bike-reflectors
+[09/25/2008 12:23:01 PM] Steve McVey: yes, but only if you ride a bike...
+[09/25/2008 12:27:40 PM] Brian Cullinan: You used to ride your bike a lot, i thought you might enjoy those.
+[09/25/2008 12:32:05 PM] Brian Cullinan: Did i tell you i got Spore.
+[09/25/2008 12:32:08 PM] Brian Cullinan: from EA
+[09/25/2008 12:32:11 PM] Steve McVey: nope
+[09/25/2008 12:32:15 PM] Steve McVey: any good?
+[09/25/2008 12:32:25 PM] Brian Cullinan: I haven't played it much because i've been busy, but it is a pretty cool game.
+[09/25/2008 12:32:43 PM] Brian Cullinan: Very unique.
+Session Close (Steve McVey): Thu Sep 25 12:36:20 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Sep 30 11:58:29 2008
+[09/30/2008 11:58:39 AM] Brian Cullinan: no need for those Power cards anymore
+[09/30/2008 11:58:41 AM] Brian Cullinan: (Link: http://feeds.engadget.com/~r/weblogsinc/engadget/~3/407510677/)http://feeds.engadget.com/~r/weblogsinc/engadget/~3/407510677/
+[09/30/2008 11:59:00 AM] Brian Cullinan: or whatever that bottom of the line brand you buy is
+[09/30/2008 11:59:50 AM] Steve McVey: i have been buying evga/nvidia
+[09/30/2008 12:00:54 PM] Brian Cullinan: i am still an ati loyalist
+Session Close (Steve McVey): Tue Sep 30 12:03:55 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Oct 01 18:19:51 2008
+[10/01/2008 06:20:01 PM] Brian Cullinan: You know how i can void upgrading my hardware?
+[10/01/2008 06:20:32 PM] Brian Cullinan: Every time i think about how nice a chip or video or motherboard upgrade would be, i just think of a better technology to wait for.
+[10/01/2008 06:20:53 PM] Brian Cullinan: They are going to start putting cell processors on video cards, i think i will wait until then.
+[10/01/2008 06:21:19 PM] Brian Cullinan: AMD is coming out with a six core processor next year, and intel is coming out with an 8.
+Session Close (Steve McVey): Wed Oct 01 18:21:23 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Oct 01 18:43:40 2008
+[10/01/2008 06:43:40 PM] Steve McVey: same old story...
+[10/01/2008 06:43:50 PM] Steve McVey: whatever you buy now will be obsolete shortly
+[10/01/2008 06:44:00 PM] Steve McVey: there is always something better around the corner
+[10/01/2008 06:44:13 PM] Steve McVey: much cheaper to stay a step or two behind...
+Session Close (Steve McVey): Wed Oct 01 19:44:47 2008
+
+
+Session Start (bjcullinan:Steve McVey): Thu Oct 02 11:05:13 2008
+[10/02/2008 11:05:15 AM] Brian Cullinan: (Link: http://gizmodo.com/5048872/dean-kamens-full-bionic-luke-arm-video-from-all-things-d)http://gizmodo.com/5048872/dean-kamens-full-bionic-luke-arm-video-from-all-things-d
+[10/02/2008 11:21:31 AM] Brian Cullinan: now we just need a hyper drive
+[10/02/2008 11:22:34 AM] Brian Cullinan: (Link: http://www.engadget.com/2008/09/25/china-takes-the-leap-emdrive-aka-infinite-improbability-drive-n/)http://www.engadget.com/2008/09/25/china-takes-the-leap-emdrive-aka-infinite-impro(Link: http://www.engadget.com/2008/09/25/china-takes-the-leap-emdrive-aka-infinite-improbability-drive-n/)bability-drive-n/
+Session Close (Steve McVey): Thu Oct 02 12:06:58 2008
+
+
+Session Start (bjcullinan:Steve McVey): Fri Oct 03 10:59:18 2008
+[10/03/2008 10:59:18 AM] Steve McVey: carpet cleaning success?
+[10/03/2008 11:00:24 AM] Brian Cullinan: hmmm, you will have to see it
+[10/03/2008 11:12:14 AM] Steve McVey: did you get the vacuum to work?
+Session Close (Steve McVey): Fri Oct 03 12:06:51 2008
+
+
+Session Start (bjcullinan:Steve McVey): Sun Oct 05 17:37:06 2008
+[10/05/2008 05:37:06 PM] Steve McVey: Andrew somehow lost his outlook
+[10/05/2008 05:37:13 PM] Steve McVey: i ma having him try system restore
+[10/05/2008 05:37:29 PM] Steve McVey: if that doesnt work, he would need the office 2007 disk
+[10/05/2008 05:37:42 PM] Steve McVey: i just ripped a copy to a .nrg image file (Nero)
+[10/05/2008 05:37:55 PM] Steve McVey: can you take that and burn it for him if needed?
+[10/05/2008 05:38:31 PM] Steve McVey: it is only 379 MB
+[10/05/2008 05:39:24 PM] Steve McVey: not sure if copy protect will cause problems but it didnt during the rip
+[10/05/2008 05:47:39 PM] Brian Cullinan: it should work
+[10/05/2008 05:47:42 PM] Brian Cullinan: i need a key too
+[10/05/2008 05:47:52 PM] Brian Cullinan: and link to download?
+[10/05/2008 05:49:37 PM] Steve McVey: i believ eyou can do the repair without a new key, but ill give it to you
+[10/05/2008 05:57:33 PM] Steve McVey: (Link: ftp://24.251.169.102/Upload_Here/)ftp://24.251.169.102/Upload_Here/
+[10/05/2008 06:33:38 PM] Brian Cullinan: failed to connect
+[10/05/2008 06:33:38 PM] *** Auto-response from Steve McVey: I am currently away from the computer.
+[10/05/2008 06:33:50 PM] Brian Cullinan: i will just find a copy on usenet
+[10/05/2008 06:34:00 PM] Brian Cullinan: if we are just doing a repair
+Session Close (Steve McVey): Sun Oct 05 19:30:00 2008
+
+
+Session Start (bjcullinan:Steve McVey): Sun Oct 05 22:29:53 2008
+[10/05/2008 10:29:53 PM] Steve McVey: hmmm.. not sure why
+[10/05/2008 10:30:01 PM] Steve McVey: might have to reset my router
+[10/05/2008 10:30:16 PM] Steve McVey: or i could just send it direct via trillian
+[10/05/2008 10:36:39 PM] *** Steve McVey is trying to send you "Microsoft Office 2007 Small Business Upgrade.nrg".
+Session Close (Steve McVey): Sun Oct 05 23:13:41 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon Oct 06 14:08:06 2008
+[10/06/2008 02:08:55 PM] Brian Cullinan: when you get the chance tell mom i am going to ohio for thanksgiving and crystal is meeting me, and also january 15th just after the semester starts to go skiing in Holiday Valley
+[10/06/2008 02:09:15 PM] Steve McVey: ok.
+[10/06/2008 02:09:21 PM] Steve McVey: try my ftp erver again...
+[10/06/2008 02:09:31 PM] Steve McVey: did you get the file for office?
+[10/06/2008 02:09:44 PM] Brian Cullinan: already got the file via trillian
+[10/06/2008 02:09:57 PM] Steve McVey: ok, but i want to see if you can access the ftp server
+[10/06/2008 02:09:58 PM] Brian Cullinan: looks like it works
+[10/06/2008 02:10:03 PM] Brian Cullinan: what server are you using?
+[10/06/2008 02:10:08 PM] Steve McVey: vsftpd
+[10/06/2008 02:10:16 PM] Steve McVey: so it was just my router hanging up
+[10/06/2008 02:10:32 PM] Steve McVey: its been up for 47 days
+[10/06/2008 02:10:56 PM] Brian Cullinan: nice
+[10/06/2008 02:11:22 PM] Steve McVey: were you able to burn a disk?
+[10/06/2008 02:11:47 PM] Brian Cullinan: haven't tried yet just finished today after i went to bed
+[10/06/2008 02:12:18 PM] Brian Cullinan: probably a good idea to leave all our personal pictures and band pictures un protected
+[10/06/2008 02:12:47 PM] Steve McVey: that was the idea, so people could get them easily
+[10/06/2008 02:13:05 PM] Steve McVey: should just take them down now
+[10/06/2008 02:13:24 PM] Brian Cullinan: hanging up again
+[10/06/2008 02:13:39 PM] Brian Cullinan: nvm
+[10/06/2008 02:14:19 PM] Steve McVey: i see some 425s
+[10/06/2008 02:14:22 PM] Steve McVey: in the log
+Session Close (Steve McVey): Mon Oct 06 14:23:01 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Oct 07 20:47:37 2008
+[10/07/2008 08:47:51 PM] Brian Cullinan: 22" monitors are disproportionally cheaper these days
+[10/07/2008 08:50:12 PM] Steve McVey: yes, how much?
+[10/07/2008 08:50:39 PM] Brian Cullinan: you can get them for 300
+[10/07/2008 08:51:06 PM] Steve McVey: not bad
+[10/07/2008 08:51:11 PM] Steve McVey: did you burn andrew a disk yet?
+[10/07/2008 08:51:58 PM] Brian Cullinan: yes and gave it to him
+[10/07/2008 08:52:12 PM] Steve McVey: good. should work. i was able to copy it here and run it
+[10/07/2008 08:53:25 PM] Steve McVey: hes going to try it shortly
+[10/07/2008 08:53:45 PM] Steve McVey: ok, ill check back later before bed time
+Session Close (Steve McVey): Tue Oct 07 21:57:16 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Oct 08 11:14:08 2008
+[10/08/2008 11:14:11 AM] Brian Cullinan: you around?
+[10/08/2008 11:15:11 AM] Steve McVey: yes
+[10/08/2008 11:15:39 AM] Brian Cullinan: when did we get our first gateway computer in the old house in ohio?
+[10/08/2008 11:15:46 AM] Brian Cullinan: that was the first one we had at home right?
+[10/08/2008 11:16:08 AM] Steve McVey: nope.
+[10/08/2008 11:16:15 AM] Steve McVey: i had a 386 in vienna
+[10/08/2008 11:16:24 AM] Steve McVey: or do you just mean ohio
+[10/08/2008 11:16:38 AM] Brian Cullinan: well i never used that one
+[10/08/2008 11:16:46 AM] Brian Cullinan: did i?
+[10/08/2008 11:16:59 AM] Brian Cullinan: i can't remember if i was playing reader rabbit at that age
+[10/08/2008 11:16:59 AM] Steve McVey: sure.. reader rabbit etc
+[10/08/2008 11:17:13 AM] Steve McVey: treasure mountain
+[10/08/2008 11:17:16 AM] Brian Cullinan: yeah
+[10/08/2008 11:17:26 AM] Brian Cullinan: well when did we get the gateway in ohio
+[10/08/2008 11:17:32 AM] Brian Cullinan: that is the one i remember the most
+[10/08/2008 11:17:46 AM] Steve McVey: 1995?
+[10/08/2008 11:17:57 AM] Steve McVey: i think it came with win/95
+[10/08/2008 11:18:02 AM] Brian Cullinan: yeah i remember it came with win 95
+[10/08/2008 11:22:37 AM] Steve McVey: 1998 was when we  learned visual basic
+[10/08/2008 12:11:15 PM] Brian Cullinan: yeah
+[10/08/2008 12:11:24 PM] Brian Cullinan: wait
+[10/08/2008 12:11:30 PM] Brian Cullinan: it had to be a year before that
+[10/08/2008 12:11:39 PM] Brian Cullinan: because quake 3 came out in 99
+[10/08/2008 12:11:49 PM] Brian Cullinan: and i was programming long before quake 3 came out
+[10/08/2008 12:12:20 PM] Brian Cullinan: i remember i used my knowledge of coding to script up some config files for quake 3
+[10/08/2008 12:12:46 PM] Steve McVey: im pretty sure of the year because you were 12
+[10/08/2008 12:13:02 PM] Brian Cullinan: 6th grade?
+[10/08/2008 12:17:29 PM] Brian Cullinan: i am blogging
+[10/08/2008 12:17:46 PM] Steve McVey: yes
+Session Close (Steve McVey): Wed Oct 08 12:48:12 2008
+
+
+Session Start (bjcullinan:Steve McVey): Thu Oct 16 14:33:17 2008
+[10/16/2008 02:33:35 PM] Brian Cullinan: what was the brand name of the toilet part i need?
+[10/16/2008 02:34:35 PM] Steve McVey: fluid master in a red/green box
+[10/16/2008 02:35:07 PM] Brian Cullinan: thanks
+[10/16/2008 02:35:59 PM] Steve McVey: ill see if i can find a part/model no.
+Session Close (Steve McVey): Thu Oct 16 15:30:28 2008
+
+
+Session Start (bjcullinan:Steve McVey): Thu Oct 16 16:14:33 2008
+[10/16/2008 04:14:43 PM] Brian Cullinan: couldn't find a door handle or light shade
+[10/16/2008 04:28:48 PM] Steve McVey: ok, send me the details on the shade
+[10/16/2008 04:28:55 PM] Steve McVey: di they have handles?
+[10/16/2008 04:51:02 PM] Brian Cullinan: yes but nothing like the old one
+[10/16/2008 04:54:38 PM] Steve McVey: doenst have to match
+[10/16/2008 05:12:03 PM] Brian Cullinan: not even the same size
+[10/16/2008 05:13:08 PM] Steve McVey: k, can you send me dimensions or brand or something?
+[10/16/2008 05:13:46 PM] Steve McVey: maybe the office would know wht it is
+Session Close (Steve McVey): Thu Oct 16 17:43:48 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Oct 21 12:28:44 2008
+[10/21/2008 12:28:56 PM] Brian Cullinan: the bank of america website has problems in firefox
+[10/21/2008 12:29:08 PM] Steve McVey: not surprised
+[10/21/2008 12:29:22 PM] Steve McVey: latest firefox release?
+[10/21/2008 12:30:00 PM] Steve McVey: 2.0.0.14?
+[10/21/2008 12:30:09 PM] Brian Cullinan: don't banks has money to pay for good programmers?  all the crap they are doing to the site looks ridiculous.  i think they can't let go of the legacy code, and as a result it has become bloated
+[10/21/2008 12:30:13 PM] Brian Cullinan: 3.0.3
+[10/21/2008 12:30:17 PM] Brian Cullinan: been out for months
+[10/21/2008 12:30:27 PM] Steve McVey: hmm... yeah im running latest
+[10/21/2008 12:31:00 PM] Brian Cullinan: maybe i should work for their website team
+[10/21/2008 12:31:07 PM] Brian Cullinan: the chase site is beautiful
+[10/21/2008 12:31:31 PM] Steve McVey: the problemis they have very strict versioning that takes lots of times to see changes
+[10/21/2008 12:31:56 PM] Brian Cullinan: because of security?
+[10/21/2008 12:32:37 PM] Steve McVey: and auditing, and general change control testing so it doesnt  crash
+[10/21/2008 12:33:36 PM] Brian Cullinan: i don't think that adding a bunch of javascript ajax crap is really necessary when it comes to online banking
+[10/21/2008 12:34:23 PM] Steve McVey: but its sooo cool
+[10/21/2008 12:34:42 PM] Steve McVey: you do want a cool web site right?
+[10/21/2008 12:38:38 PM] Brian Cullinan: lol right
+[10/21/2008 12:39:00 PM] Steve McVey: actually it can save a lot of prcessing by not having to send a whole page
+[10/21/2008 12:39:11 PM] Steve McVey: plus quicker of the user
+[10/21/2008 12:39:17 PM] Steve McVey: if used correctly....
+[10/21/2008 12:39:47 PM] Brian Cullinan: you know i am an advocate of using ajax, i just think the boa site has issues
+[10/21/2008 12:40:00 PM] Steve McVey: probably
+[10/21/2008 12:40:07 PM] Brian Cullinan: our server got hacked
+[10/21/2008 12:40:13 PM] Steve McVey: if they run it the way they run their branches
+[10/21/2008 12:40:14 PM] Brian Cullinan: i have to go around and change all my passwords
+[10/21/2008 12:40:28 PM] Brian Cullinan: since i use a password filler i figure i will just make them all randomly generated
+[10/21/2008 12:40:35 PM] Steve McVey: which server?
+[10/21/2008 12:40:39 PM] Brian Cullinan: acm server
+[10/21/2008 12:40:45 PM] Steve McVey: running what?
+[10/21/2008 12:41:11 PM] Brian Cullinan: ubuntu, mediawiki, wordpress, joomla, phpBB
+[10/21/2008 12:41:22 PM] Brian Cullinan: we haven't figured out where they got in yet
+[10/21/2008 12:42:33 PM] Brian Cullinan: he is russian or something, left a screen open with a bunch of taunts, and got the entire forum database, so my password is in there, just a simple run through a raindbow table and he could get in to all my bank accounts and google and everything
+[10/21/2008 12:42:51 PM] Steve McVey: hmmm...
+[10/21/2008 12:43:02 PM] Steve McVey: maybe you should have mutli passwords depending on risk
+[10/21/2008 12:43:10 PM] Steve McVey: i use one for banks, etc
+[10/21/2008 12:43:20 PM] Steve McVey: another for public sites
+[10/21/2008 12:43:30 PM] Steve McVey: another for low-risk stuff
+[10/21/2008 12:44:06 PM] Brian Cullinan: yeah, random is ok with me, i can even get the plugin for my phone in case i ever forget a password
+[10/21/2008 12:44:14 PM] Steve McVey: i had my yahoo account hijacked, but the password was not the same for important stuff
+[10/21/2008 12:44:18 PM] Brian Cullinan: i can always look it up on remote desktop
+[10/21/2008 12:44:29 PM] Brian Cullinan: maybe i'll store the encrypted database on a thumbdrive
+[10/21/2008 12:44:59 PM] Steve McVey: there are software pkgs that do password safe stuff
+Session Close (Steve McVey): Tue Oct 21 13:33:33 2008
+
+
+Session Start (bjcullinan:Steve McVey): Sun Oct 26 14:43:44 2008
+[10/26/2008 02:43:47 PM] Brian Cullinan: (Link: http://209.250.30.30/Share/Pictures/016.jpg)http://209.250.30.30/Share/Pictures/016.jpg
+[10/26/2008 02:56:05 PM] Brian Cullinan: (Link: http://www.lowes.com/lowes/lkn?action=productDetail&productId=96879-1811-BE44ABZ5C&lpage=none)http://www.lowes.com/lowes/lkn?action=productDetail&productId=96879-1811-BE44A(Link: http://www.lowes.com/lowes/lkn?action=productDetail&productId=96879-1811-BE44ABZ5C&lpage=none)BZ5C&lpage=none
+[10/26/2008 02:58:44 PM] Steve McVey: so only three lights total?
+[10/26/2008 02:59:39 PM] Brian Cullinan: yes
+[10/26/2008 02:59:48 PM] Steve McVey: and this is the exact model?
+[10/26/2008 03:00:06 PM] Brian Cullinan: no
+[10/26/2008 03:00:22 PM] Steve McVey: what is different?
+[10/26/2008 03:00:31 PM] Brian Cullinan: not sure
+[10/26/2008 03:00:40 PM] Brian Cullinan: i'll look at some other tags to see if i can find it
+[10/26/2008 03:00:46 PM] Steve McVey: k
+[10/26/2008 03:01:51 PM] Brian Cullinan: d4401u
+[10/26/2008 03:02:06 PM] Brian Cullinan: that is the only number that looks like it could be a model number
+[10/26/2008 03:02:31 PM] Steve McVey: this fan is model BE44ABZ5C
+[10/26/2008 03:02:35 PM] Steve McVey: not same format
+[10/26/2008 03:04:41 PM] Brian Cullinan: yeah can't find anything else
+Session Close (Steve McVey): Sun Oct 26 15:34:43 2008
+
+
+Session Start (bjcullinan:Steve McVey): Sun Oct 26 20:04:58 2008
+[10/26/2008 08:05:04 PM] Brian Cullinan: Happy birthday
+[10/26/2008 08:05:04 PM] *** Auto-response from Steve McVey: I am currently away from the computer.
+Session Close (Steve McVey): Sun Oct 26 20:35:06 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon Oct 27 10:23:11 2008
+[10/27/2008 10:23:11 AM] Steve McVey: thx for hbd
+[10/27/2008 10:23:24 AM] Steve McVey: andrew got his new nonitor yesterday.
+[10/27/2008 10:23:40 AM] Steve McVey: the old one likely just needs new capacitors
+[10/27/2008 10:23:54 AM] Steve McVey: wanna try your hand at soldering some new ones in?
+[10/27/2008 10:24:00 AM] Brian Cullinan: sure
+[10/27/2008 10:24:14 AM] Brian Cullinan: we would have to go to frys and get replacements
+[10/27/2008 10:24:28 AM] Steve McVey: yes, first you would have to find them inside the case
+[10/27/2008 10:24:34 AM] Brian Cullinan: you think it is on the power supply in the monitor?
+[10/27/2008 10:24:41 AM] Steve McVey: no idea
+[10/27/2008 10:24:55 AM] Steve McVey: i just read some forums that said it is almost always capacitor failure
+[10/27/2008 10:25:07 AM] Steve McVey: usually they are bulging or leaking
+[10/27/2008 10:25:17 AM] Brian Cullinan: i just ordered a magnifying glass with a little stand and clips on the sides for soldering
+[10/27/2008 10:26:06 AM] Steve McVey: might help unless you have to hold the whole thing
+[10/27/2008 10:26:35 AM] Steve McVey: anyways ask andrew if he wants youto give it a try
+[10/27/2008 10:26:44 AM] Brian Cullinan: i think i can face it down towards the desk, there are like 5 pivoting points
+[10/27/2008 10:26:52 AM] Brian Cullinan: ok
+[10/27/2008 10:27:00 AM] Brian Cullinan: has he seen the new one?
+[10/27/2008 10:27:06 AM] Steve McVey: he has it
+[10/27/2008 10:27:13 AM] Brian Cullinan: oh ok
+[10/27/2008 10:27:19 AM] Steve McVey: snet it back with his friend brad
+[10/27/2008 10:27:21 AM] Brian Cullinan: what kind/size?
+[10/27/2008 10:27:34 AM] Steve McVey: LG 22" wide 2ms 1680x1050
+[10/27/2008 10:27:44 AM] Steve McVey: 10000:1
+[10/27/2008 10:27:50 AM] Brian Cullinan: nice
+[10/27/2008 10:27:59 AM] Steve McVey: yes, looks good
+[10/27/2008 10:28:02 AM] Steve McVey: early xmas gift
+[10/27/2008 10:28:34 AM] Steve McVey: $259, good deal
+[10/27/2008 10:32:35 AM] Brian Cullinan: yeah definitely
+[10/27/2008 10:32:43 AM] Brian Cullinan: the 22 are getting real cheap
+[10/27/2008 10:33:02 AM] Brian Cullinan: i am waiting for the 24s to get cheap so i can get another one to match my currents monitor
+[10/27/2008 10:33:05 AM] Steve McVey: you can get one for under 200 but specs arent great
+[10/27/2008 10:39:44 AM] Brian Cullinan: i tried to pay off my credit card but it didn't work
+[10/27/2008 10:40:30 AM] Brian Cullinan: this stuff is electronic, shouldn't it go through immediately?
+[10/27/2008 10:40:42 AM] Brian Cullinan: i mean computers don't have to take the weekend off
+[10/27/2008 10:40:47 AM] Steve McVey: how did you pay?
+[10/27/2008 10:40:55 AM] Brian Cullinan: using my checking account
+[10/27/2008 10:41:07 AM] Steve McVey: bill pay or transfer?
+[10/27/2008 10:41:46 AM] Brian Cullinan: transfer using the citi website
+[10/27/2008 10:42:03 AM] Brian Cullinan: not sure
+[10/27/2008 10:42:18 AM] Brian Cullinan: it asked me for my routing and account number on the credit card site
+[10/27/2008 10:42:27 AM] Brian Cullinan: and i select it from a drop down to use that account
+[10/27/2008 10:43:08 AM] Steve McVey: is credit card thru same bank as schecking?
+[10/27/2008 10:43:16 AM] Brian Cullinan: no
+[10/27/2008 10:43:29 AM] Steve McVey: k, then there will be a delay same as bill payment
+[10/27/2008 10:43:58 AM] Steve McVey: keep that in mid to order payment early to avoid finance charges
+[10/27/2008 10:44:02 AM] Steve McVey: mind
+[10/27/2008 10:44:19 AM] Brian Cullinan: ok
+[10/27/2008 10:44:29 AM] Steve McVey: finance carge = evil
+[10/27/2008 10:44:59 AM] Brian Cullinan: yeah
+[10/27/2008 10:45:07 AM] Brian Cullinan: well i am well ahead of my next due date
+[10/27/2008 10:45:37 AM] Brian Cullinan: i pay it off right when the statement comes out, i may wait until the closest friday when i get pair for work
+Session Close (Steve McVey): Mon Oct 27 10:50:16 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Oct 28 10:23:05 2008
+[10/28/2008 10:24:12 AM] Brian Cullinan: so the ACM server got hacked by some romanian guy, and David Smith, who was an administrator of the server, his NAU accounts got hacked last night, he had to call and get all his passwords changed around.
+Session Close (Steve McVey): Tue Oct 28 10:26:23 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Oct 28 10:51:11 2008
+[10/28/2008 10:51:11 AM] Steve McVey: lovely
+[10/28/2008 10:51:17 AM] Steve McVey: Hacking is sooo cool
+[10/28/2008 10:51:33 AM] Steve McVey: got all your pws changed?
+[10/28/2008 10:58:37 AM] Brian Cullinan: it's cool if a company hires you to test their network vulnerabilities
+Session Close (Steve McVey): Tue Oct 28 11:42:26 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Oct 29 11:41:06 2008
+[10/29/2008 11:41:14 AM] Brian Cullinan: did i tell you i got my dns server working?
+[10/29/2008 11:46:37 AM] Brian Cullinan: so i no longer have to rely on another company to manage my sub domains.
+[10/29/2008 11:46:56 AM] Steve McVey: i see
+[10/29/2008 11:47:57 AM] Brian Cullinan: it is pretty handy being able to go in an add a subdomain, then apache can recognize it as a different virtual server and send it to a completely different website
+Session Close (Steve McVey): Wed Oct 29 12:14:40 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Oct 29 13:56:19 2008
+[10/29/2008 01:56:27 PM] Brian Cullinan: i get free microsoft software from acm
+[10/29/2008 01:56:35 PM] Brian Cullinan: new vista 64 business edition
+[10/29/2008 01:56:49 PM] Brian Cullinan: how much is an ultimate upgrade?
+[10/29/2008 01:59:07 PM] Steve McVey: no idea
+[10/29/2008 01:59:13 PM] Steve McVey: should be able to find it easy
+[10/29/2008 01:59:27 PM] Brian Cullinan: ya
+[10/29/2008 01:59:37 PM] Brian Cullinan: i also get windows server
+[10/29/2008 01:59:39 PM] Brian Cullinan: 2008
+[10/29/2008 02:06:14 PM] Steve McVey: permanent license or has to be renewed?
+[10/29/2008 02:09:03 PM] Brian Cullinan: not sure
+[10/29/2008 02:09:09 PM] Brian Cullinan: will have to get back to you
+[10/29/2008 02:09:19 PM] Steve McVey: no matter here...just make sure you know
+[10/29/2008 02:09:21 PM] Brian Cullinan: don't feel like reading the faq right now
+Session Close (Steve McVey): Wed Oct 29 15:09:32 2008
+
+
+Session Start (bjcullinan:Steve McVey): Sun Nov 02 08:11:10 2008
+[11/02/2008 08:11:10 AM] Steve McVey: (Link: http://www.sj-r.com/news/x347033968/-Battle-of-the-Brains-computer-competition-tests-students)http://www.sj-r.com/news/x347033968/-Battle-of-the-Brains-comp(Link: http://www.sj-r.com/news/x347033968/-Battle-of-the-Brains-computer-competition-tests-students)uter-competition-tests-students(Link: http://www.sj-r.com/news/x347033968/-Battle-of-the-Brains-computer-competition-tests-students)(Link: http://www.sj-r.com/news/x347033968/-Battle-of-the-Brains-computer-competition-tests-students)
+[11/02/2008 08:29:19 AM] *** You have been disconnected. Sun Nov 02 08:29:19 2008.
+[11/02/2008 08:29:28 AM] *** "Steve McVey" signed on at Sun Nov 02 08:29:28 2008.
+Session Close (Steve McVey): Sun Nov 02 11:49:08 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Nov 04 10:18:17 2008
+[11/04/2008 10:18:17 AM] Steve McVey: sounds like andrew is having power supply problems. do you have a spare?
+[11/04/2008 10:21:25 AM] Brian Cullinan: i wish, i have my broken one that i could try to RMA and get back
+[11/04/2008 10:21:35 AM] Brian Cullinan: dave doesn't either
+[11/04/2008 10:21:44 AM] Steve McVey: hmm
+[11/04/2008 10:21:54 AM] Brian Cullinan: i'll tweet and see if anyone else bas one
+[11/04/2008 10:21:56 AM] Brian Cullinan: *has
+[11/04/2008 10:22:09 AM] Steve McVey: I have a couple but need to fgure outhow to get one there
+[11/04/2008 10:22:20 AM] Steve McVey: check around up there first
+Session Close (Steve McVey): Tue Nov 04 10:38:36 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Nov 05 11:26:59 2008
+[11/05/2008 11:27:05 AM] Brian Cullinan: my 20" monitor died
+[11/05/2008 11:28:24 AM] Brian Cullinan: i guess i will have to take it apart later
+Session Close (Steve McVey): Wed Nov 05 11:28:38 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Nov 05 11:29:57 2008
+[11/05/2008 11:30:06 AM] Brian Cullinan: actually i think it might still be under warranty
+Session Close (Steve McVey): Wed Nov 05 11:30:25 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Nov 05 11:30:26 2008
+[11/05/2008 11:30:26 AM] Steve McVey: hmm
+[11/05/2008 11:30:40 AM] Steve McVey: i read that the biggest problem is capacitor failure
+[11/05/2008 11:30:50 AM] Steve McVey: you could look and see if caps are bulging or leaking
+[11/05/2008 11:31:04 AM] Steve McVey: how is the car?
+[11/05/2008 11:31:11 AM] Brian Cullinan: but i would probably have to open it up voiding the warranty
+[11/05/2008 11:31:28 AM] Brian Cullinan: the spare is a little flat, i am going to take it to get air today
+[11/05/2008 11:31:41 AM] Steve McVey: alignment seem ok?
+[11/05/2008 11:31:51 AM] Brian Cullinan: but i don't feel any vibrating or hear any noises
+[11/05/2008 11:32:13 AM] Steve McVey: ok, once you get air in it, see if it pulls either direction
+[11/05/2008 11:32:30 AM] Steve McVey: the costco warranty is in the glove box
+[11/05/2008 11:32:39 AM] Steve McVey: you might read that to see what our options are
+[11/05/2008 11:32:48 AM] Brian Cullinan: ok
+[11/05/2008 11:33:03 AM] Steve McVey: pretty sure there is creidt for road hazard
+[11/05/2008 11:33:20 AM] Brian Cullinan: yeah
+[11/05/2008 11:36:44 AM] Steve McVey: (Link: http://www.costco.com/Images/Content/Misc/PDF/TIRE.pdf)http://www.costco.com/Images/Content/Misc/PDF/TIRE.p(Link: http://www.costco.com/Images/Content/Misc/PDF/TIRE.pdf)df
+[11/05/2008 11:37:28 AM] Steve McVey: also, it's rent time again
+[11/05/2008 11:39:14 AM] Brian Cullinan: it is pending
+[11/05/2008 11:39:18 AM] Brian Cullinan: dave gave his to mom
+[11/05/2008 11:39:28 AM] Steve McVey: k, i have dave's. thx.
+[11/05/2008 12:01:25 PM] Brian Cullinan: so we might be able to get them to give us some tired
+[11/05/2008 12:01:30 PM] Brian Cullinan: can we just buy 1?
+[11/05/2008 12:01:48 PM] Steve McVey: probably, but usually you should replace them in pairs
+[11/05/2008 12:01:54 PM] Brian Cullinan: oh ok
+[11/05/2008 12:02:02 PM] Brian Cullinan: but still cheaper then replacing all 4
+[11/05/2008 12:02:08 PM] Steve McVey: for sure
+[11/05/2008 12:02:15 PM] Brian Cullinan: so what are we looking at 50 bucks a piece?
+[11/05/2008 12:02:25 PM] Steve McVey: more like 80
+[11/05/2008 12:02:32 PM] Brian Cullinan: hmmm
+Session Close (Steve McVey): Wed Nov 05 12:32:34 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon Nov 10 12:01:39 2008
+[11/10/2008 12:01:39 PM] Steve McVey: andrew tried installing the new power supply without success
+[11/10/2008 12:01:49 PM] Steve McVey: in fact, it may have screwed up his motherboard
+[11/10/2008 12:02:05 PM] Steve McVey: can you get over there this week to see if you can figure it out?
+[11/10/2008 12:02:35 PM] Steve McVey: he put the old powere supply back and now gets no POST
+[11/10/2008 12:04:53 PM] Brian Cullinan: that's not good
+[11/10/2008 12:05:07 PM] Brian Cullinan: so it wasn't just the video card?
+[11/10/2008 12:05:15 PM] Steve McVey: no, there is no beep
+[11/10/2008 12:05:25 PM] Brian Cullinan: i didn't realize he got it i could have helped him last night
+[11/10/2008 12:05:35 PM] Brian Cullinan: maybe he doesn't have a mb speaker?
+[11/10/2008 12:05:45 PM] Steve McVey: no beep, no POST
+[11/10/2008 12:06:01 PM] Steve McVey: was working fine except for ps fan
+[11/10/2008 12:06:09 PM] Steve McVey: put new ps in, no beep no POST
+[11/10/2008 12:06:16 PM] Steve McVey: put old ps back in, no beep no POST
+[11/10/2008 12:06:54 PM] Steve McVey: anyways, he is dead in the water
+[11/10/2008 12:06:57 PM] Brian Cullinan: hmmm
+[11/10/2008 12:08:34 PM] Steve McVey: tried bios reset and removing peripheral connections
+[11/10/2008 12:09:09 PM] Brian Cullinan: yeah
+[11/10/2008 12:12:20 PM] Brian Cullinan: i need a movie that is the all time epitome of robot movies
+[11/10/2008 12:12:42 PM] Steve McVey: maybe memory and/or video card is not seated properly?
+[11/10/2008 12:12:49 PM] Brian Cullinan: yeah could be
+[11/10/2008 12:13:00 PM] Steve McVey: The Day the Earth Stood Still
+[11/10/2008 12:13:03 PM] Brian Cullinan: i told him i would try to look at it today but mondays are really busy for me
+[11/10/2008 12:13:16 PM] Steve McVey: k, no crisis but get there when you can
+[11/10/2008 12:13:41 PM] Brian Cullinan: the old one?
+[11/10/2008 12:13:46 PM] Steve McVey: yup
+[11/10/2008 12:17:28 PM] Brian Cullinan: hmmm
+[11/10/2008 12:17:45 PM] Brian Cullinan: maybe short circuit or terminator would be more mainstream
+[11/10/2008 12:18:03 PM] Steve McVey: for sure, but that one started the whole robot sci-fi thing
+[11/10/2008 12:18:56 PM] Steve McVey: Also, try Roby the Robot
+[11/10/2008 12:19:02 PM] Steve McVey: RObby the Robot
+[11/10/2008 12:19:27 PM] Brian Cullinan: lol hmmm
+Session Close (Steve McVey): Mon Nov 10 12:44:19 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Nov 12 12:26:20 2008
+[11/12/2008 12:26:20 PM] Steve McVey: looks like andrew is back up and running
+[11/12/2008 12:26:23 PM] Steve McVey: what was the issue?
+[11/12/2008 12:26:27 PM] Brian Cullinan: yeah, not sure
+[11/12/2008 12:26:51 PM] Steve McVey: just pulled out compnents and re-installed?
+[11/12/2008 12:27:55 PM] Brian Cullinan: yeah, the little beep still happens before the post, kind of strange, i thought it was an error message but turns out it works
+[11/12/2008 12:28:38 PM] Steve McVey: isnt it normal to beep once before post?
+[11/12/2008 12:30:14 PM] Brian Cullinan: i thought it usually beeps when its done with the mem check
+[11/12/2008 12:31:06 PM] Steve McVey: i thought itwas after checking all the peripherals before you see anything on-scren. guess ill pay attention next time i reboot
+[11/12/2008 12:33:19 PM] Steve McVey: the award bios site says:
+[11/12/2008 12:33:20 PM] Steve McVey: The only AwardBIOS beep code indicates that a video error has occurred and the BIOS cannot initialize the video screen to display any additional information. This beep code consists of a single long beep followed by two short beeps. Any other beeps are probably a RAM (Random Access Memory) problems. 
+ 
+[11/12/2008 12:33:38 PM] Steve McVey: was it award bios or ami?
+[11/12/2008 12:35:28 PM] Steve McVey: Here is the ami code doc:
+[11/12/2008 12:35:29 PM] Steve McVey: (Link: http://www.ami.com/support/doc/AMIBIOS8_Checkpoint_and_Beep_Code_List_PUB.pdf)http://www.ami.com/support/doc/AMIBIOS8_Checkpoint_and_Bee(Link: http://www.ami.com/support/doc/AMIBIOS8_Checkpoint_and_Beep_Code_List_PUB.pdf)p_Code_List_PUB.pdf
+[11/12/2008 12:36:51 PM] Steve McVey: i wonder if a bios flash would help?
+[11/12/2008 12:39:19 PM] Brian Cullinan: i think it was award
+[11/12/2008 12:39:21 PM] Brian Cullinan: maybe
+[11/12/2008 12:39:29 PM] Brian Cullinan: andrew is going to bring it home this weekend
+[11/12/2008 12:39:38 PM] Steve McVey: ok. well check it over then
+[11/12/2008 12:39:45 PM] Steve McVey: coming home friday night?
+[11/12/2008 12:43:32 PM] *** "Steve McVey" signed off at Wed Nov 12 12:43:32 2008.
+[11/12/2008 12:49:36 PM] *** "Steve McVey" signed on at Wed Nov 12 12:49:36 2008.
+Session Close (Steve McVey): Wed Nov 12 13:19:38 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon Nov 24 10:59:46 2008
+[11/24/2008 10:59:53 AM] Brian Cullinan: Will you tell mom to go online?
+[11/24/2008 11:00:07 AM] Steve McVey: she just left
+[11/24/2008 11:00:10 AM] Brian Cullinan: Do we still have that little refrigerator from a few years back?
+[11/24/2008 11:00:20 AM] Steve McVey: the whit mini fridge?
+[11/24/2008 11:00:23 AM] Brian Cullinan: yeah
+[11/24/2008 11:00:27 AM] Steve McVey: no, gave it away
+[11/24/2008 11:00:30 AM] Brian Cullinan: bummer
+[11/24/2008 11:00:49 AM] Brian Cullinan: I want to put all my computers into racks
+[11/24/2008 11:01:12 AM] Brian Cullinan: so i need to turn the coffee table in to something new
+Session Close (Steve McVey): Mon Nov 24 11:11:59 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon Nov 24 11:51:57 2008
+[11/24/2008 11:52:13 AM] Brian Cullinan: The Robert Mondavi was pretty good, thanks for the recommendation.
+Session Close (Steve McVey): Mon Nov 24 11:52:14 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon Nov 24 11:52:22 2008
+[11/24/2008 11:52:22 AM] Steve McVey: no prob
+Session Close (Steve McVey): Mon Nov 24 11:52:25 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Dec 03 14:44:22 2008
+[12/03/2008 02:44:25 PM] Brian Cullinan: I need a movie
+[12/03/2008 02:45:18 PM] Brian Cullinan: we are having a speaker from Translational Genomics, so i thought a movie about chemical warfare or biological weapons would be appropriate.
+[12/03/2008 02:45:22 PM] Brian Cullinan: any ideas?
+[12/03/2008 02:45:55 PM] Steve McVey: entertaining or ducumentary?
+[12/03/2008 03:57:03 PM] Brian Cullinan: i think we are going to watch Gattaca
+[12/03/2008 03:57:10 PM] Brian Cullinan: that relates to Genomics
+Session Close (Steve McVey): Wed Dec 03 16:06:05 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Dec 03 16:12:03 2008
+[12/03/2008 04:12:03 PM] Steve McVey: never heard of it but looks interesting
+[12/03/2008 04:12:17 PM] Brian Cullinan: it's really good
+Session Close (Steve McVey): Wed Dec 03 16:45:34 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Dec 03 21:31:43 2008
+[12/03/2008 09:31:48 PM] Brian Cullinan: i need help finding a part
+[12/03/2008 09:31:50 PM] Brian Cullinan: (Link: http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_3/index.jsp)http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_head(Link: http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_3/index.jsp)phones/quietcomfort_3/index.jsp
+[12/03/2008 09:31:57 PM] Brian Cullinan: the pads on the headphones broke
+[12/03/2008 09:32:06 PM] Brian Cullinan: i am not sure they would replace them
+[12/03/2008 09:34:50 PM] Steve McVey: got a warranty?
+[12/03/2008 09:39:07 PM] Steve McVey: one year
+[12/03/2008 09:40:00 PM] Brian Cullinan: yeah i might be able to replace it, i will try to do it soon
+[12/03/2008 09:40:11 PM] Brian Cullinan: i got it for christmas last year
+[12/03/2008 09:40:19 PM] Steve McVey: cutting it close.
+[12/03/2008 09:40:22 PM] Steve McVey: i would call them
+[12/03/2008 09:40:24 PM] Steve McVey: javascript:openNewWin('(Link: http://owners.bose.com/controller?event=VIEW_STATIC_PAGE_EVENT&url=/global_popups/service_plans.jsp',570,450)http://owners.bose.com/control(Link: http://owners.bose.com/controller?event=VIEW_STATIC_PAGE_EVENT&url=/global_popups/service_plans.jsp',570,450)ler?event=VIEW_STATIC_PAGE_EVENT&url=/global_po(Link: http://owners.bose.com/controller?event=VIEW_STATIC_PAGE_EVENT&url=/global_popups/service_plans.jsp',570,450)pups/service_plans.jsp',570,450);
+[12/03/2008 09:40:42 PM] Brian Cullinan: yeah i have to call about my monitor that died too
+[12/03/2008 09:40:54 PM] Steve McVey: time does not improve these things
+Session Close (Steve McVey): Wed Dec 03 21:53:19 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon Dec 08 14:12:35 2008
+[12/08/2008 02:12:45 PM] Brian Cullinan: I am taking a 500 level class next semester
+Session Close (Steve McVey): Mon Dec 08 14:12:48 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon Dec 08 14:12:57 2008
+[12/08/2008 02:12:58 PM] Steve McVey: congrats...
+Session Close (Steve McVey): Mon Dec 08 14:17:14 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon Dec 08 14:17:59 2008
+[12/08/2008 02:17:59 PM] Steve McVey: which one?
+[12/08/2008 02:18:10 PM] Brian Cullinan: Distributed Systems
+[12/08/2008 02:18:12 PM] Brian Cullinan: CS 565
+Session Close (Steve McVey): Mon Dec 08 14:48:14 2008
+
+
+Session Start (bjcullinan:Steve McVey): Wed Dec 10 16:13:27 2008
+[12/10/2008 04:13:34 PM] Brian Cullinan: so i tried to rma my monitor
+[12/10/2008 04:13:48 PM] Brian Cullinan: but i think it is older then 3 years, and i don't have a proof of purchase
+[12/10/2008 04:14:00 PM] Brian Cullinan: so i have it apart now
+[12/10/2008 04:14:05 PM] Brian Cullinan: trying to get power supply off
+[12/10/2008 04:21:49 PM] Brian Cullinan: so what am i looking for here?
+Session Close (Steve McVey): Wed Dec 10 16:46:00 2008
+
+
+Session Start (bjcullinan:Steve McVey): Thu Dec 11 13:03:57 2008
+[12/11/2008 01:04:26 PM] Brian Cullinan: so i think i fixed the disket tape adapter for the car
+[12/11/2008 01:05:02 PM] Brian Cullinan: it wouldn't work in the Camry either, there is some weird locking device that i don't think was working right, i removed it and it worked so maybe it will work in the van too
+[12/11/2008 01:06:03 PM] Brian Cullinan: i also tore apart my phone earbuds and soldered them to the adapter, so now i can stream music off my server and play it in my car
+[12/11/2008 01:06:35 PM] Steve McVey: maybe you should have gone into EE
+[12/11/2008 01:07:13 PM] Steve McVey: figure out your capactors?
+[12/11/2008 01:07:13 PM] Brian Cullinan: trying to figure out circuits is boring to me, and it has more math
+[12/11/2008 01:07:30 PM] Brian Cullinan: i am going to call envision and try to order the part again
+[12/11/2008 01:08:14 PM] Brian Cullinan: if that doesn't work i guess i will have to order some capacitors
+[12/11/2008 01:08:29 PM] Steve McVey: i see
+[12/11/2008 01:42:48 PM] Brian Cullinan: i am waiting for a tech person to call me back, i called and left a message but i haven't heard from them
+[12/11/2008 01:43:23 PM] Brian Cullinan: their automated phone systems specifically says, "For technical support, or to order a replacement part for your television or monitor press 3"
+[12/11/2008 01:43:31 PM] Brian Cullinan: so that sounds like exactly what i want to do
+[12/11/2008 01:43:50 PM] Brian Cullinan: i can't think of a part that you would need to replace that doesn't include opening the thing up
+[12/11/2008 01:58:38 PM] Steve McVey: yu, especially if you are seeing bad capacitors
+Session Close (Steve McVey): Thu Dec 11 15:16:40 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Dec 16 16:47:05 2008
+[12/16/2008 04:47:19 PM] Brian Cullinan: remember when i showed you the picture of the batman costume
+[12/16/2008 04:47:27 PM] Steve McVey: yes
+[12/16/2008 04:47:33 PM] Brian Cullinan: and i asked you about one of the materials, it looked like carbon fiber
+[12/16/2008 04:47:47 PM] Brian Cullinan: you said it looked like a sporting material like you know where to find it
+[12/16/2008 04:48:08 PM] Brian Cullinan: i think i need to get some, because the thickness of it will affect the way i carve the clay
+[12/16/2008 04:48:15 PM] Brian Cullinan: do you know where i could find it?
+[12/16/2008 04:48:23 PM] Steve McVey: nope
+[12/16/2008 04:48:42 PM] Steve McVey: im sure thre are lots of internet sites that carry woven fabrics
+[12/16/2008 04:49:17 PM] Brian Cullinan: hmm, where have you seen that kind of pattern before not on carbon fiber?
+[12/16/2008 04:49:43 PM] Steve McVey: backpack?
+[12/16/2008 04:49:45 PM] Steve McVey: jacket?
+[12/16/2008 04:49:45 PM] Brian Cullinan: because looking at the picture again, the amount of reflection from the lighting looks like there is some kind of plastic coating
+[12/16/2008 04:50:02 PM] Steve McVey: car interior?
+[12/16/2008 04:54:00 PM] Brian Cullinan: i wouldn't even know where to begin to search for something like that
+[12/16/2008 04:54:20 PM] Brian Cullinan: i think i should just order carbon fiber
+[12/16/2008 04:54:58 PM] Steve McVey: that should be cheap
+[12/16/2008 04:55:20 PM] Brian Cullinan: i don't know how to find any alternative
+[12/16/2008 04:55:30 PM] Brian Cullinan: i know carbon fiber would have the same appearance
+[12/16/2008 04:55:42 PM] Brian Cullinan: what else has that pattern with a plastic finish over it?
+[12/16/2008 04:56:13 PM] Steve McVey: raw carbon fiber doenst have a plastic finish
+[12/16/2008 04:57:04 PM] Brian Cullinan: (Link: http://www.robotcombat.com/products/carbon_fiber_graphite_hex_sheets.html)http://www.robotcombat.com/products/carbon_fiber_graphite_hex_sheets.html(Link: http://www.robotcombat.com/products/carbon_fiber_graphite_hex_sheets.html)
+[12/16/2008 04:59:31 PM] Steve McVey: (Link: http://dragonplate.com/default.asp)http://dragonplate.com/default.asp
+[12/16/2008 05:01:19 PM] Steve McVey: (Link: http://www.solarcomposites.com/composites/compositecarbon.html)http://www.solarcomposites.com/composites/composite(Link: http://www.solarcomposites.com/composites/compositecarbon.html)carbon.html
+[12/16/2008 05:02:30 PM] Steve McVey: search.ebay.com/carbon-fiber-cloth 
+[12/16/2008 05:15:47 PM] Steve McVey: (Link: http://www.ahh.biz/fabric_catagories/mesh_and_netting.htm)http://www.ahh.biz/fabric_catagories/mesh_and_netting.(Link: http://www.ahh.biz/fabric_catagories/mesh_and_netting.htm)htm
+[12/16/2008 05:18:56 PM] Brian Cullinan: i think i have looked here, they don't have much silver mesh
+Session Close (Steve McVey): Tue Dec 16 17:48:58 2008
+
+
+Session Start (bjcullinan:Steve McVey): Mon Dec 29 13:58:36 2008
+[12/29/2008 01:58:36 PM] Steve McVey: Is there anything you can print that would show you getting a 3.0 GPA or better?
+[12/29/2008 01:59:12 PM] Steve McVey: I can save $200 on insurance
+[12/29/2008 02:00:07 PM] Brian Cullinan: i can forge something
+[12/29/2008 02:00:33 PM] Steve McVey: just dont tell me
+[12/29/2008 02:00:44 PM] Steve McVey: i printed a page off the NAU site for Andrew
+Session Close (Steve McVey): Mon Dec 29 14:08:25 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Dec 30 10:44:52 2008
+[12/30/2008 10:45:02 AM] Brian Cullinan: what is the name of the place we stay at in rocky point?
+[12/30/2008 10:45:04 AM] Brian Cullinan: ask mom?
+[12/30/2008 10:46:18 AM] Steve McVey: las palomas?
+[12/30/2008 10:51:28 AM] Brian Cullinan: sounds right, trying to find it on google
+Session Close (Steve McVey): Tue Dec 30 11:31:20 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Dec 30 18:17:16 2008
+[12/30/2008 06:17:50 PM] Brian Cullinan: will you figure out when molly's wedding was, got some pictures here that need a date and subject
+[12/30/2008 06:36:23 PM] Steve McVey: ask mom...
+[12/30/2008 06:37:26 PM] Brian Cullinan: shes not online
+[12/30/2008 06:37:41 PM] Steve McVey: isnt there a date in the properties?
+[12/30/2008 06:37:49 PM] Brian Cullinan: nope
+[12/30/2008 06:37:54 PM] Brian Cullinan: camera didn't support it i guess
+[12/30/2008 06:38:01 PM] Brian Cullinan: they are from tim
+[12/30/2008 06:38:31 PM] Steve McVey: call her
+Session Close (Steve McVey): Tue Dec 30 19:08:43 2008
+
+
+Session Start (bjcullinan:Steve McVey): Tue Jan 06 16:14:26 2009
+[01/06/2009 04:14:26 PM] Steve McVey: There is a Brake Masters at:
+[01/06/2009 04:15:05 PM] Steve McVey: 6 South Milton  
+  
+ Flagstaff, AZ 86001  
+ 928-214-7000 
+ 6 South Milton  
+  
+ Flagstaff, AZ 86001  
+ 928-214-7000 
+ 6 South Milton  
+  
+ Flagstaff, AZ 86001  
+ 928-214-7000  
+ 6 South Milton (Corner of Milton and Phoenix)
+[01/06/2009 04:15:29 PM] Steve McVey: They have an online coupon for an oil change, tire rotation, brake check at:
+[01/06/2009 04:15:32 PM] Steve McVey: (Link: http://brakemasters.com/locview.php?id=45)http://brakemasters.com/locview.php?id=45
+[01/06/2009 04:18:04 PM] Steve McVey: $18.95 plus $2.00 disposal fee
+Session Close (Steve McVey): Tue Jan 06 17:19:40 2009
+
+
+Session Start (bjcullinan:Steve McVey): Wed Jan 07 10:14:30 2009
+[01/07/2009 10:28:53 AM] Brian Cullinan: we have to figure out a way to bolt the rafters together
+[01/07/2009 10:28:56 AM] Brian Cullinan: this is driving me nuts
+[01/07/2009 10:30:09 AM] Steve McVey: Don't get your hopes too high on that one....
+[01/07/2009 10:30:54 AM] Brian Cullinan: i tried looking in where the vent is, but it is completely enclosed, doesn't look like i will be able to see what arrangement the rafters are in, only other thing i can think of it to remove one of the fan fixtures and look through there
+[01/07/2009 10:31:27 AM] Brian Cullinan: or ask
+[01/07/2009 10:31:34 AM] Brian Cullinan: can't we bolt them ourselves?
+[01/07/2009 10:32:13 AM] Brian Cullinan: if we know where they are can't we just sink the screws through the drywall and then cover it up with some putty and paint?
+[01/07/2009 10:32:38 AM] Brian Cullinan: we can screw it in past the dry wall, or cut out a little square
+[01/07/2009 10:33:09 AM] Steve McVey: I suspect what you are hearing is the floor above you shifting against the studs
+[01/07/2009 10:34:18 AM] Brian Cullinan: then we can still find out the arrangement of studs in order to figure out if they can fill the entire ceiling with noise reducing insulation
+[01/07/2009 10:36:11 AM] Steve McVey: I would ask if anyone else has seen that as an issue, if so what have they done?
+[01/07/2009 10:37:04 AM] Brian Cullinan: ask people at the office?
+[01/07/2009 10:37:18 AM] Steve McVey: yes
+[01/07/2009 10:37:41 AM] Steve McVey: you can also ask about the washer status
+[01/07/2009 10:37:49 AM] Steve McVey: did you get my brake masters info?
+[01/07/2009 10:39:55 AM] Brian Cullinan: yup, i had no idea there was one there
+[01/07/2009 10:40:07 AM] Brian Cullinan: i will take it soon
+[01/07/2009 10:42:35 AM] Steve McVey: ok, please don't delay....
+Session Close (Steve McVey): Wed Jan 07 16:58:06 2009
+
+
+Session Start (bjcullinan:Steve McVey): Tue Jan 13 20:48:04 2009
+[01/13/2009 08:48:26 PM] Brian Cullinan: check with mom to see if the tuition refund went through
+[01/13/2009 08:48:30 PM] Brian Cullinan: got oil changed
+[01/13/2009 08:48:41 PM] Brian Cullinan: see you tomorrow night, i'm going to try to work so it might be late
+Session Close (Steve McVey): Tue Jan 13 20:49:49 2009
+
+
+Session Start (bjcullinan:Steve McVey): Tue Jan 13 21:01:34 2009
+[01/13/2009 09:01:34 PM] Steve McVey: how  would i know if tuition was refunded?
+[01/14/2009 12:36:53 AM] *** "Steve McVey" signed off at Wed Jan 14 00:36:53 2009.
+Session Close (Steve McVey): Wed Jan 14 00:45:18 2009
+
+
+Session Start (bjcullinan:Steve McVey): Sat Jan 24 14:28:14 2009
+[01/24/2009 02:28:26 PM] Brian Cullinan: do you think orange juice is still good if it sat out overnight?
+Session Close (Steve McVey): Sat Jan 24 15:46:52 2009
+
+
+Session Start (bjcullinan:Steve McVey): Sat Jan 24 22:12:02 2009
+[01/24/2009 10:12:02 PM] Steve McVey: probably not. about 4-6 hours is maximum
+[01/24/2009 11:21:01 PM] *** You have been disconnected. Sat Jan 24 23:21:01 2009.
+[01/24/2009 11:21:13 PM] *** "Steve McVey" signed on at Sat Jan 24 23:21:13 2009.
+[01/24/2009 11:51:05 PM] Brian Cullinan: lame
+[01/24/2009 11:51:07 PM] *** Auto-response from Steve McVey: I am currently away from the computer.
+Session Close (Steve McVey): Sat Jan 24 23:58:49 2009
+
+
+Session Start (bjcullinan:Steve McVey): Tue Jan 27 12:56:50 2009
+[01/27/2009 12:57:11 PM] Brian Cullinan: should i go protest budget cuts for higher education in arizona tomorrow?
+[01/27/2009 12:57:32 PM] Steve McVey: only if you believe in it
+[01/27/2009 12:57:39 PM] Steve McVey: or it will get you chicks
+[01/27/2009 12:58:25 PM] Steve McVey: if they dont cut budgets, where will the money come from?
+[01/27/2009 12:58:36 PM] Steve McVey: ask the organizers that question
+[01/27/2009 12:58:58 PM] Steve McVey: perhaps they will take it from road maintenance
+[01/27/2009 12:59:12 PM] Steve McVey: or fire fighters
+[01/27/2009 01:00:04 PM] Steve McVey: or just raise tuition by 50%
+[01/27/2009 01:00:38 PM] Brian Cullinan: hmm, maybe i won't have to pay for tuition, but as a republican i don't like paying other people
+[01/27/2009 01:00:53 PM] Brian Cullinan: so i don't want taxes to go up, especially in flagstaff
+[01/27/2009 01:01:07 PM] Brian Cullinan: but i care about my professors and the people i work with
+[01/27/2009 01:01:29 PM] Brian Cullinan: but there is no guarantee that if they don't cut funds they will still keep their job
+[01/27/2009 01:02:29 PM] Steve McVey: everyone with an interest protests cuts to their interest
+[01/27/2009 01:02:35 PM] Steve McVey: but how do you solve the problem?
+[01/27/2009 01:03:04 PM] Steve McVey: what will nau cut first if they have less money?
+[01/27/2009 01:35:44 PM] Brian Cullinan: staff and teachers
+[01/27/2009 01:35:54 PM] Steve McVey: says who?
+[01/27/2009 01:36:35 PM] Steve McVey: just make sure you separate facts from  feelings when analyzing something
+[01/27/2009 01:36:56 PM] Steve McVey: was there an official communication from the administration?
+[01/27/2009 01:37:48 PM] Steve McVey: surely there is a way to aks the administration what  actions they would take if there were a budget cut
+[01/27/2009 01:38:24 PM] Steve McVey: you can either be smart about these things and armed with facts or just be part of an angry mob 
+[01/27/2009 01:38:38 PM] Steve McVey: angry mog = less work
+[01/27/2009 02:14:51 PM] Brian Cullinan: yeah
+[01/27/2009 02:16:19 PM] Steve McVey: just google nau budget cuts to get some info
+[01/27/2009 02:16:20 PM] Steve McVey: (Link: http://www4.nau.edu/insidenau/extra/2008/7_25_08/index.htm)http://www4.nau.edu/insidenau/extra/2008/7_25_08/index.htm
+[01/27/2009 02:17:55 PM] Steve McVey: (Link: http://www.azdailysun.com/articles/2008/10/15/news/20081015_front_183330.txt)http://www.azdailysun.com/articles/2008/10/15/news/20081015_fr(Link: http://www.azdailysun.com/articles/2008/10/15/news/20081015_front_183330.txt)ont_183330.txt
+Session Close (Steve McVey): Tue Jan 27 15:56:59 2009
+
+
+Session Start (bjcullinan:Steve McVey): Mon Feb 09 23:38:50 2009
+[02/09/2009 11:39:02 PM] Brian Cullinan: a one way trip takes 25000 flight miles with us airways right?
+Session Close (Steve McVey): Tue Feb 10 00:20:19 2009
+
+
+Session Start (bjcullinan:Steve McVey): Tue Feb 10 07:52:23 2009
+[02/10/2009 07:52:23 AM] Steve McVey: i think so
+[02/10/2009 07:52:59 AM] Steve McVey: but im not sure you can buy a one-way trip with points
+Session Close (Steve McVey): Tue Feb 10 09:50:35 2009
+
+
+Session Start (bjcullinan:Steve McVey): Fri Feb 13 12:49:27 2009
+[02/13/2009 12:49:29 PM] Brian Cullinan: do we still have the pc133 from a long time ago?
+[02/13/2009 12:50:10 PM] Steve McVey: ill check
+[02/13/2009 12:52:12 PM] Steve McVey: i have 2 x 256MB unmatched
+[02/13/2009 12:52:18 PM] Steve McVey: and 1 x 512MB
+[02/13/2009 12:52:20 PM] Steve McVey: PC133
+[02/13/2009 03:44:09 PM] *** You have been disconnected. Fri Feb 13 15:44:09 2009.
+[02/13/2009 03:44:16 PM] *** "Steve McVey" signed on at Fri Feb 13 15:44:16 2009.
+[02/13/2009 04:56:55 PM] Brian Cullinan: nice
+[02/13/2009 04:56:59 PM] Brian Cullinan: can i have the 512?
+Session Close (Steve McVey): Fri Feb 13 16:57:00 2009
+
+
+Session Start (bjcullinan:Steve McVey): Fri Feb 13 16:57:07 2009
+[02/13/2009 04:57:08 PM] Steve McVey: yes, you can have them all
+[02/13/2009 04:57:11 PM] Steve McVey: ill leave them on my desk
+[02/13/2009 04:57:17 PM] Brian Cullinan: ok thanks!
+[02/13/2009 04:57:26 PM] Brian Cullinan: working hard?  thats what mom said
+[02/13/2009 04:59:07 PM] Steve McVey: yup, going to be gone for two weeks then some of the following weeek
+[02/13/2009 05:00:09 PM] Brian Cullinan: oh, where are you going?
+Session Close (Steve McVey): Fri Feb 13 17:32:59 2009
+
+
+Session Start (bjcullinan:Steve McVey): Fri Feb 13 20:04:23 2009
+[02/13/2009 08:04:23 PM] Steve McVey: singapore for a week, then beijing for a week
+Session Close (Steve McVey): Fri Feb 13 23:55:41 2009
+
+
+Session Start (bjcullinan:Steve McVey): Fri Apr 10 15:12:53 2009
+[04/10/2009 03:12:59 PM] Brian Cullinan: Dave wants to move out May 1st
+[04/10/2009 03:15:29 PM] Steve McVey: really? wow
+[04/10/2009 03:16:17 PM] Brian Cullinan: yeah i don't know
+[04/10/2009 03:16:20 PM] Steve McVey: know anyone to move in for the summer?
+[04/10/2009 03:18:37 PM] Brian Cullinan: i could try an find someone, but probably not
+[04/10/2009 03:18:49 PM] Brian Cullinan: people don't like the idea of just the summer
+[04/10/2009 03:19:07 PM] Brian Cullinan: there are some that would like to live with me, but it would be a pain for them to move in for only 3 months
+[04/10/2009 03:19:20 PM] Brian Cullinan: and i don't think any of them want to share a bunk bed
+[04/10/2009 03:19:26 PM] Steve McVey: then it costs me 500..
+[04/10/2009 03:20:47 PM] Brian Cullinan: yeah...
+[04/10/2009 03:23:52 PM] Brian Cullinan: i guess crystal can contribute
+Session Close (Steve McVey): Fri Apr 10 16:05:31 2009
+
+
+Session Start (bjcullinan:Steve McVey): Fri Apr 10 16:40:00 2009
+[04/10/2009 04:40:09 PM] Brian Cullinan: how about 375 for 3 months?
+[04/10/2009 04:40:13 PM] Brian Cullinan: better then nothing right?
+[04/10/2009 04:41:15 PM] Brian Cullinan: (Link: http://media.bjcullinan.com/)http://media.bjcullinan.com/
+[04/10/2009 05:02:15 PM] Steve McVey: looks like ms skydrive
+[04/10/2009 05:02:46 PM] Brian Cullinan: skydive?
+[04/10/2009 05:02:51 PM] Brian Cullinan: skydrive?
+[04/10/2009 05:02:58 PM] Steve McVey: yes
+[04/10/2009 05:03:17 PM] Steve McVey: (Link: http://cid-0fdfe7ceb78f61d7.skydrive.live.com/home.aspx)http://cid-0fdfe7ceb78f61d7.skydrive.live.com/home.aspx
+[04/10/2009 05:03:20 PM] Brian Cullinan: yeah
+[04/10/2009 05:03:30 PM] Brian Cullinan: i just call it livesync
+[04/10/2009 05:03:44 PM] Brian Cullinan: but thats where i got it from, i hate designing templates
+Session Close (Steve McVey): Fri Apr 10 17:34:02 2009
+
+
+Session Start (bjcullinan:Steve McVey): Wed Apr 15 15:30:37 2009
+[04/15/2009 03:30:37 PM] Steve McVey: just sent you an email to your cox account. APS coming out to swap meters
+[04/15/2009 03:30:46 PM] Steve McVey: tomorrow
+[04/15/2009 04:09:29 PM] Brian Cullinan: will i lose power?
+[04/15/2009 04:09:33 PM] Brian Cullinan: how long with it take?
+[04/15/2009 04:13:15 PM] Steve McVey: yeah you will lose power for sure
+[04/15/2009 04:13:30 PM] Steve McVey: no idea how long, but should not be more than 10 min or so from what i have seen before
+[04/15/2009 08:27:00 PM] Brian Cullinan: what time are they coming?
+[04/15/2009 08:27:05 PM] Brian Cullinan: i won't be home most of the day
+[04/15/2009 08:27:36 PM] Steve McVey: no idea
+Session Close (Steve McVey): Wed Apr 15 23:08:52 2009
+
+
+Session Start (bjcullinan:Steve McVey): Mon Apr 20 13:06:40 2009
+[04/20/2009 01:06:40 PM] Steve McVey: got an automated phone call from blockbuster
+[04/20/2009 01:06:52 PM] Steve McVey: they say you have a movie out in columbus
+[04/20/2009 01:06:59 PM] Steve McVey: that you will be charged for
+[04/20/2009 01:07:01 PM] Steve McVey: tomrrow
+[04/20/2009 01:41:18 PM] *** "Steve McVey" signed off at Mon Apr 20 13:41:18 2009.
+Session Close (Steve McVey): Mon Apr 20 13:56:42 2009
+
+
+Session Start (bjcullinan:Steve McVey): Wed May 06 09:24:07 2009
+[05/06/2009 09:24:07 AM] Steve McVey: what's up with Dave and the Condo?
+[05/06/2009 11:54:15 AM] Brian Cullinan: Dave is moving out and Mike is moving in.
+[05/06/2009 11:57:16 AM] Brian Cullinan: Basically my options were, Dave moves out maybe a month in to the summer, and we go with no roommate for 2 months, or i find a new roommate to take up the full summer.  Mike is really enthusiastic about living there, and Dave wasn't, so i have to kick him out in order to fill all 3 months of summer
+[05/06/2009 12:03:48 PM] Steve McVey: so dave is still there?
+[05/06/2009 12:04:36 PM] Brian Cullinan: I told him he has until the 15th, but it doesn't sound like he found a place.  And Mike is expecting to move in the 15th, so i am not really sure what to do.
+[05/06/2009 12:05:10 PM] Steve McVey: is mike flexible on that?
+[05/06/2009 12:05:21 PM] Steve McVey: just cant kick dave (assuming he pays some rent)
+[05/06/2009 12:05:27 PM] Brian Cullinan: not really, because he lives in an apartment
+[05/06/2009 12:05:49 PM] Brian Cullinan: yes, he said he would send a check for half the month
+[05/06/2009 12:06:18 PM] Steve McVey: any way to accomodate all three for a week or two?
+[05/06/2009 12:06:42 PM] Brian Cullinan: i am sure we could figure it out
+[05/06/2009 12:07:35 PM] Brian Cullinan: but for the last 3 months Dave has been talking about moving out and has assured me that he would be able to find a new place by the 15th
+[05/06/2009 12:07:46 PM] Steve McVey: i see
+[05/06/2009 12:08:18 PM] Brian Cullinan: and now the time has come and he isn't doing anything about it, and hasn't started packing up, so he is pretty unreliable at this point
+[05/06/2009 12:09:36 PM] Steve McVey: has he left everything in good shape?
+[05/06/2009 12:10:55 PM] Brian Cullinan: there is a spot on the carpet need the doorway that is pretty dark, and a hole in the dry wall from the futon, and another from the door despite the new doorstopper
+[05/06/2009 12:11:19 PM] Brian Cullinan: i can patch those up easily enough, but the spot didn't come out with the cleaner when we tried
+[05/06/2009 12:11:31 PM] Brian Cullinan: other then that i think it's in pretty good shape
+[05/06/2009 12:11:42 PM] Steve McVey: ok, normal accidental stuff
+[05/06/2009 12:11:48 PM] Brian Cullinan: yup
+[05/06/2009 12:12:22 PM] Steve McVey: would be nice to clean carpets and pain that room over the summer
+[05/06/2009 12:12:40 PM] Steve McVey: when would mike move out?
+[05/06/2009 12:12:46 PM] Brian Cullinan: yeah
+[05/06/2009 12:13:07 PM] Brian Cullinan: probably august 15th, i think he has plans to move in to an apartment then
+[05/06/2009 12:13:26 PM] Steve McVey: that works well then
+[05/06/2009 12:13:31 PM] Brian Cullinan: yup
+[05/06/2009 12:13:46 PM] Steve McVey: and did you set a price?
+[05/06/2009 12:16:08 PM] Brian Cullinan: i told him 400 would be ok, with the hope that Crystal will also be able to contribute to rent
+[05/06/2009 12:16:38 PM] Brian Cullinan: but she might not even be there for most the summer since i will be gone so much, she may stay in tucson with her mom
+[05/06/2009 12:16:58 PM] Steve McVey: i see, when do you go get her?
+[05/06/2009 12:17:25 PM] Brian Cullinan: 23rd at 9:06 AM
+[05/06/2009 12:17:45 PM] Brian Cullinan: we should be back june 4th in time for keifer's wedding the 8th
+[05/06/2009 12:41:49 PM] *** "Steve McVey" signed off at Wed May 06 12:41:49 2009.
+Session Close (Steve McVey): Wed May 06 13:11:51 2009
+
+
+Session Start (bjcullinan:Steve McVey): Wed May 06 15:25:20 2009
+[05/06/2009 03:25:20 PM] Steve McVey: looks like someone transfered $500 to my account today. Who is that?
+[05/06/2009 03:25:27 PM] Brian Cullinan: me
+[05/06/2009 03:25:45 PM] Brian Cullinan: i can get you the other 150 thursday at midnight
+[05/06/2009 03:25:56 PM] Steve McVey: oh ok, just wondered about the odd amount
+[05/06/2009 03:26:31 PM] Brian Cullinan: yeah, account got low from the trip to vegas and buying groceries and medication and such
+[05/06/2009 03:28:51 PM] Steve McVey: i'm familiar with that concept...
+[05/06/2009 03:30:04 PM] Brian Cullinan: yeah.
+Session Close (Steve McVey): Wed May 06 16:12:07 2009
+
+

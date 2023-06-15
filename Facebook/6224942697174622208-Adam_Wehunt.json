@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6224942697174622208/",
+    "participants": [
+        {
+            "name": "Adam Wehunt",
+            "title": "Software Developer | React, Angular, Node",
+            "url": "linkedin.com/in/ajwehunt",
+            "phone": "480-527-1703 (Mobile)",
+            "email": "adamjwehunt@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-11T13:39:00.000Z"
+        }
+    ]
+}

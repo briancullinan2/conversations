@@ -1,0 +1,29 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "16May15",
+    "participants": "Brian Cullinan | wizard > Linda Zaruches | Talent Acquisition",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Linda Zaruches",
+        "url": "linkedin.com/in/linda-zaruches-3a87562",
+        "email": "waltersstar2012@gmail.com",
+        "title": "Talent Acquisition"
+      }
+    ],
+    "message": "Thank you for the interest, my resume is attached to this message.\nForward attachment\nDownload Brian Cullinan.pdf\nPDF\nBrian Cullinan.pdf",
+    "time": "2015-05-16T03:43:00.000Z",
+    "title": "wizard"
+  }
+]

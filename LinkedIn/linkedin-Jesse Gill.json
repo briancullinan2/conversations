@@ -1,0 +1,751 @@
+[
+    {
+        "resourceName": "people/c2684346240855007459",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "2540b6af0c5160e3"
+                    }
+                },
+                "displayName": "Jesse Gill",
+                "familyName": "Gill",
+                "givenName": "Jesse",
+                "displayNameLastFirst": "Gill, Jesse"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "109622849173160562091"
+                    }
+                },
+                "displayName": "Jesse Gill",
+                "familyName": "Gill",
+                "givenName": "Jesse",
+                "displayNameLastFirst": "Gill, Jesse"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "2540b6af0c5160e3"
+                    }
+                },
+                "value": "+1-520-275-9283",
+                "canonicalForm": "+15202759283",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "9 Mutual Connections",
+                "You and Jesse both know James Cantwell, Malena Grosz, and 7 others"
+            ],
+            [
+                "1 Mutual Group",
+                "You and Jesse are both in the Northern Arizona University Alumni Association group"
+            ],
+            [
+                "Show more",
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Senior Solutions Engineer",
+                "Company Name",
+                "Integral Ad Science",
+                "Dates Employed",
+                "Dec 2015 – Present",
+                "Employment Duration",
+                "1 yr 11 mos",
+                "Location",
+                "Greater New York City Area"
+            ],
+            [
+                "Compliance Implementation Consultant",
+                "Company Name",
+                "Charles River Development",
+                "Dates Employed",
+                "Mar 2015 – Nov 2015",
+                "Employment Duration",
+                "9 mos",
+                "Location",
+                "Greater New York City Area"
+            ],
+            [
+                "Trading Services and Compliance Consultant",
+                "Company Name",
+                "Advent Software",
+                "Dates Employed",
+                "Apr 2011 – Feb 2015",
+                "Employment Duration",
+                "3 yrs 11 mos",
+                "Location",
+                "San Francisco Bay Area"
+            ],
+            [
+                "Senior Client Support Representative, Trading Services",
+                "Company Name",
+                "Advent Software",
+                "Dates Employed",
+                "May 2010 – Apr 2011",
+                "Employment Duration",
+                "1 yr",
+                "Location",
+                "San Francisco Bay Area"
+            ],
+            [
+                "Product, Co Founder",
+                "Company Name",
+                "Snap.fm",
+                "Dates Employed",
+                "Jan 2007 – May 2010",
+                "Employment Duration",
+                "3 yrs 5 mos",
+                "Location",
+                "Allston, MA",
+                "• Conceptualized, financed, and launched a music social bookmarking website called Snap.fm• Conducted talent search for lead engineer• Built a strong community of 1500 monthly active users"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "B.S.",
+                "Field Of Study",
+                "Electronic Media And Film, Advertising",
+                "Dates attended or expected graduation",
+                "2003 – 2009",
+                "Activities and Societies:",
+                "National Association of Broadcasters, College Radio Manager",
+                "Throughout college I was extremely focused on studying and experimenting with new technologies that were shaping the future of electronic media. Through academic studies and hands-on experience I was able to build a solid understanding of hardware systems and their software counterparts.• Contributed an interactive audio short, photographs and written content for Corners Magazine as part of a combined EMF/Journalism Capstone project.• Web Manager and DJ at student-run radio station.• Senior resource at campus Television Services.• Operated online community of over 500 students through direct connect hub PinkHub."
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "B.S.",
+                "Field Of Study",
+                "Electronic Media And Film, Advertising",
+                "Dates attended or expected graduation",
+                "2003 – 2009",
+                "Activities and Societies:",
+                "National Association of Broadcasters, College Radio Manager",
+                "Throughout college I was extremely focused on studying and experimenting with new technologies that were shaping the future of electronic media. Through academic studies and hands-on experience I was able to build a solid understanding of hardware systems and their software counterparts.• Contributed an interactive audio short, photographs and written content for Corners Magazine as part of a combined EMF/Journalism Capstone project.• Web Manager and DJ at student-run radio station.• Senior resource at campus Television Services.• Operated online community of over 500 students through direct connect hub PinkHub."
+            ],
+            [
+                "General Assembly",
+                "Field Of Study",
+                "Product Management",
+                "Dates attended or expected graduation",
+                "2014 – 2015",
+                "Conceptualized and developed a Resource Coordination Outsource product utilizing the following framework:Product Market Fit• Market research, customer development, and testing/validating an MVPUX Design• Personal and empathy map creation; user stories drafting and product wireframing/storyboarding for internal and external testingBusiness Fundamentals• Key metrics, pricing, and financial modelingCommunicating with Stakeholders• Presenting a product roadmap, project managment, and product specsFinal Presentation• 10-minute product pitch highlighting all of the above-listed concepts"
+            ],
+            [
+                "General Assembly",
+                "Field Of Study",
+                "Product Management",
+                "Dates attended or expected graduation",
+                "2014 – 2015",
+                "Conceptualized and developed a Resource Coordination Outsource product utilizing the following framework:Product Market Fit• Market research, customer development, and testing/validating an MVPUX Design• Personal and empathy map creation; user stories drafting and product wireframing/storyboarding for internal and external testingBusiness Fundamentals• Key metrics, pricing, and financial modelingCommunicating with Stakeholders• Presenting a product roadmap, project managment, and product specsFinal Presentation• 10-minute product pitch highlighting all of the above-listed concepts"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Mentor",
+                "Company Name",
+                "iMentor",
+                "Dates volunteered",
+                "Nov 2016 – Present",
+                "Volunteer duration",
+                "1 yr",
+                "Cause",
+                "Economic Empowerment"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Tesla",
+                "1,158,328 followers"
+            ],
+            [
+                "Havas",
+                "120,130 followers"
+            ],
+            [
+                "Nancy LublinNancy Lublin is a LinkedIn Influencer",
+                "Founder & CEO, Crisis Text Line",
+                "409,102 followers"
+            ],
+            [
+                "BlackBerry",
+                "262,939 followers"
+            ],
+            [
+                "Crispin Porter + Bogusky",
+                "77,534 followers"
+            ],
+            [
+                "Goodby Silverstein & Partners",
+                "28,584 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Tesla",
+                "1,158,328 followers"
+            ],
+            [
+                "Tesla",
+                "1,158,328 followers"
+            ],
+            [
+                "Havas",
+                "120,130 followers"
+            ],
+            [
+                "Havas",
+                "120,130 followers"
+            ],
+            [
+                "Nancy LublinNancy Lublin is a LinkedIn Influencer",
+                "Founder & CEO, Crisis Text Line",
+                "409,102 followers"
+            ],
+            [
+                "Nancy LublinNancy Lublin is a LinkedIn Influencer",
+                "Founder & CEO, Crisis Text Line",
+                "409,102 followers"
+            ],
+            [
+                "Nancy Lublin is a LinkedIn Influencer"
+            ],
+            [
+                "BlackBerry",
+                "262,939 followers"
+            ],
+            [
+                "BlackBerry",
+                "262,939 followers"
+            ],
+            [
+                "Crispin Porter + Bogusky",
+                "77,534 followers"
+            ],
+            [
+                "Crispin Porter + Bogusky",
+                "77,534 followers"
+            ],
+            [
+                "Goodby Silverstein & Partners",
+                "28,584 followers"
+            ],
+            [
+                "Goodby Silverstein & Partners",
+                "28,584 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Devin Poehlman",
+                "Digital Marketing Manager",
+                "June 30, 2009, Jesse worked with Devin in the same group",
+                "One of the most creative and web savvy people I know, but with a great view of the \"big picture.\""
+            ],
+            [
+                "Devin Poehlman",
+                "Digital Marketing Manager",
+                "June 30, 2009, Jesse worked with Devin in the same group"
+            ],
+            [
+                "Devin Poehlman",
+                "Digital Marketing Manager",
+                "June 30, 2009, Jesse worked with Devin in the same group"
+            ],
+            [
+                "Devin Poehlman",
+                "Digital Marketing Manager",
+                "June 30, 2009, Jesse worked with Devin in the same group"
+            ],
+            "Digital Marketing Manager",
+            [
+                "One of the most creative and web savvy people I know, but with a great view of the \"big picture.\""
+            ],
+            [
+                "One of the most creative and web savvy people I know, but with a great view of the \"big picture.\""
+            ],
+            [
+                "Devin Poehlman",
+                "Digital Marketing Manager",
+                "August 18, 2009, Devin worked with Jesse in the same group",
+                "Very driven and motivated manager and developer.  Very creative and flexible.  He is able to quickly adapt to changing situations.  Devin is content focused and a great web producer. He is able to produce web shorts on limited notice and shoot/edit promptly and efficiently."
+            ],
+            [
+                "Devin Poehlman",
+                "Digital Marketing Manager",
+                "August 18, 2009, Devin worked with Jesse in the same group"
+            ],
+            [
+                "Devin Poehlman",
+                "Digital Marketing Manager",
+                "August 18, 2009, Devin worked with Jesse in the same group"
+            ],
+            [
+                "Devin Poehlman",
+                "Digital Marketing Manager",
+                "August 18, 2009, Devin worked with Jesse in the same group"
+            ],
+            "Digital Marketing Manager",
+            [
+                "Very driven and motivated manager and developer.  Very creative and flexible.  He is able to quickly adapt to changing situations.  Devin is content focused and a great web producer. He is able to produce web shorts on limited notice and shoot/edit promptly and efficiently."
+            ],
+            [
+                "Very driven and motivated manager and developer.  Very creative and flexible.  He is able to quickly adapt to changing situations.  Devin is content focused and a great web producer. He is able to produce web shorts on limited notice and shoot/edit promptly and efficiently."
+            ]
+        ],
+        "skills": [
+            [
+                "Programmatic Media Trading",
+                "Programmatic Media Trading",
+                "Endorse",
+                "Be the first to endorse Jesse for this skill"
+            ],
+            [
+                "Programmatic Media Trading"
+            ],
+            [
+                "Programmatic Media Buying",
+                "Programmatic Media Buying",
+                "Endorse",
+                "Be the first to endorse Jesse for this skill"
+            ],
+            [
+                "Programmatic Media Buying"
+            ],
+            [
+                "Real-Time Bidding (RTB)",
+                "Real-Time Bidding (RTB)",
+                "Endorse",
+                "Be the first to endorse Jesse for this skill"
+            ],
+            [
+                "Real-Time Bidding (RTB)"
+            ],
+            [
+                "Nunchuku Skills",
+                "See 2 endorsements for Nunchuku Skills",
+                "2",
+                "Nunchuku Skills",
+                "Endorse"
+            ],
+            [
+                "Nunchuku Skills",
+                "See 2 endorsements for Nunchuku Skills",
+                "2"
+            ],
+            [
+                "Enterprise Software",
+                "See 27 endorsements for Enterprise Software",
+                "27",
+                "Enterprise Software",
+                "Endorse"
+            ],
+            [
+                "Enterprise Software",
+                "See 27 endorsements for Enterprise Software",
+                "27"
+            ],
+            [
+                "Project Management",
+                "See 21 endorsements for Project Management",
+                "21",
+                "Project Management",
+                "Endorse"
+            ],
+            [
+                "Project Management",
+                "See 21 endorsements for Project Management",
+                "21"
+            ],
+            [
+                "Business Analysis",
+                "See 21 endorsements for Business Analysis",
+                "21",
+                "Business Analysis",
+                "Endorse"
+            ],
+            [
+                "Business Analysis",
+                "See 21 endorsements for Business Analysis",
+                "21"
+            ],
+            [
+                "Integration",
+                "See 20 endorsements for Integration",
+                "20",
+                "Integration",
+                "Endorse"
+            ],
+            [
+                "Integration",
+                "See 20 endorsements for Integration",
+                "20"
+            ],
+            [
+                "Process Improvement",
+                "See 19 endorsements for Process Improvement",
+                "19",
+                "Process Improvement",
+                "Endorse"
+            ],
+            [
+                "Process Improvement",
+                "See 19 endorsements for Process Improvement",
+                "19"
+            ],
+            [
+                "Customer Service",
+                "See 19 endorsements for Customer Service",
+                "19",
+                "Customer Service",
+                "Endorse"
+            ],
+            [
+                "Customer Service",
+                "See 19 endorsements for Customer Service",
+                "19"
+            ],
+            [
+                "CRM",
+                "See 19 endorsements for CRM",
+                "19",
+                "CRM",
+                "Endorse"
+            ],
+            [
+                "CRM",
+                "See 19 endorsements for CRM",
+                "19"
+            ],
+            [
+                "Technical Support",
+                "See 15 endorsements for Technical Support",
+                "15",
+                "Technical Support",
+                "Endorse"
+            ],
+            [
+                "Technical Support",
+                "See 15 endorsements for Technical Support",
+                "15"
+            ],
+            [
+                "Salesforce.com",
+                "See 15 endorsements for Salesforce.com",
+                "15",
+                "Salesforce.com",
+                "Endorse"
+            ],
+            [
+                "Salesforce.com",
+                "See 15 endorsements for Salesforce.com",
+                "15"
+            ],
+            [
+                "Social Media",
+                "See 13 endorsements for Social Media",
+                "13",
+                "Social Media",
+                "Endorse"
+            ],
+            [
+                "Social Media",
+                "See 13 endorsements for Social Media",
+                "13"
+            ],
+            [
+                "Testing",
+                "See 9 endorsements for Testing",
+                "9",
+                "Testing",
+                "Endorse"
+            ],
+            [
+                "Testing",
+                "See 9 endorsements for Testing",
+                "9"
+            ],
+            [
+                "SaaS",
+                "See 7 endorsements for SaaS",
+                "7",
+                "SaaS",
+                "Endorse"
+            ],
+            [
+                "SaaS",
+                "See 7 endorsements for SaaS",
+                "7"
+            ],
+            [
+                "Databases",
+                "See 7 endorsements for Databases",
+                "7",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 7 endorsements for Databases",
+                "7"
+            ],
+            [
+                "Order Management",
+                "See 6 endorsements for Order Management",
+                "6",
+                "Order Management",
+                "Endorse"
+            ],
+            [
+                "Order Management",
+                "See 6 endorsements for Order Management",
+                "6"
+            ],
+            [
+                "SQL",
+                "See 6 endorsements for SQL",
+                "6",
+                "SQL",
+                "Endorse"
+            ],
+            [
+                "SQL",
+                "See 6 endorsements for SQL",
+                "6"
+            ],
+            [
+                "Management",
+                "See 6 endorsements for Management",
+                "6",
+                "Management",
+                "Endorse"
+            ],
+            [
+                "Management",
+                "See 6 endorsements for Management",
+                "6"
+            ],
+            [
+                "Advent Moxy",
+                "See 4 endorsements for Advent Moxy",
+                "4",
+                "Advent Moxy",
+                "Endorse"
+            ],
+            [
+                "Advent Moxy",
+                "See 4 endorsements for Advent Moxy",
+                "4"
+            ],
+            [
+                "Advent APX",
+                "See 4 endorsements for Advent APX",
+                "4",
+                "Advent APX",
+                "Endorse"
+            ],
+            [
+                "Advent APX",
+                "See 4 endorsements for Advent APX",
+                "4"
+            ],
+            [
+                "Financial Services",
+                "See 6 endorsements for Financial Services",
+                "6",
+                "Financial Services",
+                "Endorse"
+            ],
+            [
+                "Financial Services",
+                "See 6 endorsements for Financial Services",
+                "6"
+            ],
+            [
+                "Agile Methodologies",
+                "See 4 endorsements for Agile Methodologies",
+                "4",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 4 endorsements for Agile Methodologies",
+                "4"
+            ],
+            [
+                "Software Documentation",
+                "See 3 endorsements for Software Documentation",
+                "3",
+                "Software Documentation",
+                "Endorse"
+            ],
+            [
+                "Software Documentation",
+                "See 3 endorsements for Software Documentation",
+                "3"
+            ],
+            [
+                "Advent AMG Platform",
+                "See 2 endorsements for Advent AMG Platform",
+                "2",
+                "Advent AMG Platform",
+                "Endorse"
+            ],
+            [
+                "Advent AMG Platform",
+                "See 2 endorsements for Advent AMG Platform",
+                "2"
+            ],
+            [
+                "Software Workflow Optimization",
+                "See 2 endorsements for Software Workflow Optimization",
+                "2",
+                "Software Workflow Optimization",
+                "Endorse"
+            ],
+            [
+                "Software Workflow Optimization",
+                "See 2 endorsements for Software Workflow Optimization",
+                "2"
+            ],
+            [
+                "Advent Rules Manager",
+                "See 2 endorsements for Advent Rules Manager",
+                "2",
+                "Advent Rules Manager",
+                "Endorse"
+            ],
+            [
+                "Advent Rules Manager",
+                "See 2 endorsements for Advent Rules Manager",
+                "2"
+            ],
+            [
+                "Sales",
+                "See 2 endorsements for Sales",
+                "2",
+                "Sales",
+                "Endorse"
+            ],
+            [
+                "Sales",
+                "See 2 endorsements for Sales",
+                "2"
+            ],
+            [
+                "Product Management",
+                "See 2 endorsements for Product Management",
+                "2",
+                "Product Management",
+                "Endorse"
+            ],
+            [
+                "Product Management",
+                "See 2 endorsements for Product Management",
+                "2"
+            ],
+            [
+                "Agile Project Management",
+                "See 2 endorsements for Agile Project Management",
+                "2",
+                "Agile Project Management",
+                "Endorse"
+            ],
+            [
+                "Agile Project Management",
+                "See 2 endorsements for Agile Project Management",
+                "2"
+            ],
+            [
+                "Data Analysis",
+                "See 1 endorsement for Data Analysis",
+                "1",
+                "Data Analysis",
+                "Endorse"
+            ],
+            [
+                "Data Analysis",
+                "See 1 endorsement for Data Analysis",
+                "1"
+            ],
+            [
+                "Electronic Trading Systems",
+                "See 1 endorsement for Electronic Trading Systems",
+                "1",
+                "Electronic Trading Systems",
+                "Endorse"
+            ],
+            [
+                "Electronic Trading Systems",
+                "See 1 endorsement for Electronic Trading Systems",
+                "1"
+            ],
+            [
+                "Cat Sitting",
+                "See 1 endorsement for Cat Sitting",
+                "1",
+                "Cat Sitting",
+                "Endorse"
+            ],
+            [
+                "Cat Sitting",
+                "See 1 endorsement for Cat Sitting",
+                "1"
+            ]
+        ],
+        "summary": "    Experienced Solutions Engineer with a demonstrated history of working in both the commercial web and enterprise software industries. Passionate about enabling client success by using innovative technologies to create industry leading products.\n  \n  \n",
+        "name": "Jesse Gill",
+        "title": "Senior Solutions Engineer at Integral Ad Science",
+        "url": "linkedin.com/in/jessegill",
+        "phone": "415.509.5244 (Mobile)",
+        "email": "gill.jesse@gmail.com"
+    }
+]

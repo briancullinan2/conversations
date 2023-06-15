@@ -1,0 +1,36 @@
+﻿Session Start (b.cullinan@cox.net:Group Conversation 30429): Mon Jun 25 21:40:42 2007
+[06/25/2007 09:40:49 PM] Brian Cullinan: ok then just read
+[06/25/2007 09:40:50 PM] Robert Douglas: and earlier when u called i was on my motorcycle
+[06/25/2007 09:40:51 PM] Robert Douglas: alex is sleeping i think
+[06/25/2007 09:41:01 PM] Brian Cullinan: well then he can read it in the morning
+[06/25/2007 09:41:19 PM] Brian Cullinan: i'm just gonna talk, you can read it whenever
+[06/25/2007 09:41:27 PM] Robert Douglas: i can read now
+[06/25/2007 09:41:33 PM] Robert Douglas: should be quick call
+[06/25/2007 09:41:36 PM] Brian Cullinan: and i will put this in worklog, i just thought you guys should have it on your mind
+[06/25/2007 09:41:37 PM] Robert Douglas: waiting for client to get update
+[06/25/2007 09:41:40 PM] Brian Cullinan: so here is my progress with the SVN:
+[06/25/2007 09:41:45 PM] Robert Douglas: ok cool
+[06/25/2007 09:42:57 PM] Brian Cullinan: i made some discoveries about permissions on individual sections, but it doesn't change our current layout we can just add this to what we have
+[06/25/2007 09:43:35 PM] Brian Cullinan: SVN does support permissions on specific folders, but as i stated earlier, just like every filesystem ever made you can still see that a folder exists
+[06/25/2007 09:43:45 PM] Brian Cullinan: for that reason we are keeping the current layout
+[06/25/2007 09:44:51 PM] Brian Cullinan: so what we can add is user or group specific permissions to folders inside the SVN, this can be helpful if we have a large staff and want to limit access, it won't matter if our staff sees that something exists because they won't be able to get in, and they work for us so who cares anyways
+[06/25/2007 09:45:17 PM] Brian Cullinan: but we will still have the ability to limit access, so its very helpful
+[06/25/2007 09:46:30 PM] Brian Cullinan: for example if we have a specialist working on a site, we can limit the access, the developer will still be able to see that certain files exist, but it doesn't matter if 1. they can't access them, and 2. they are working on the site anyways so who cares
+[06/25/2007 09:47:20 PM] Brian Cullinan: if we set up each client like Robert proposed with the files structure
+ Client
+ -website
+ --docs
+ --dev
+ --live
+[06/25/2007 09:48:07 PM] Brian Cullinan: something of that sort, we can restrict access on everything, and only allow a specialist to access the dev section, even though they will be able to see that website and Client exist
+[06/25/2007 09:49:02 PM] Brian Cullinan: So current progress the docs SVN is up and running under 3 different names for each department, this will be useful if we ever have to send a link to another department they will know what they are accessing
+[06/25/2007 09:50:27 PM] Brian Cullinan: so each department can be accessed with the following links:
+ ACC
+ Accounting
+ ACC - Accounting
+[06/25/2007 09:51:04 PM] Brian Cullinan: i will finish clients and i need one of you to clarify the file structure for each client, i think we agreed on Robert's file structure
+[06/25/2007 09:51:20 PM] Brian Cullinan: go ahead and let me know any time robert and i will copy it out of the convo
+[06/25/2007 09:51:21 PM] Brian Cullinan: ttyl
+Session Close (Group Conversation 30429): Mon Jun 25 23:35:41 2007
+
+

@@ -1,0 +1,285 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "19 Mutual Connections",
+                "You and Bojan both know Anders Tyslan, Greyson Mitchem, and 17 others"
+            ],
+            [
+                "Bojan can introduce you to 3 people at The Aerospace Corporation",
+                "Bojan worked at The Aerospace Corporation"
+            ],
+            [
+                "My company website is finally ready :). Well sort of :)",
+                "https://lnkd.in/gdqcJRn",
+                "Bojan shared this"
+            ],
+            [
+                "View my verified achievement on Acclaim.",
+                "Bojan shared this"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Security Architect, PowerShell Developer, Identity & Access Management and Information Security",
+                "Company Name",
+                "InfoSec Automation, LLC",
+                "Dates Employed",
+                "Mar 2017 – Present",
+                "Employment Duration",
+                "9 mos",
+                "Location",
+                "El Segundo, Ca",
+                "Responsibilities:Technical Lead for IAM and InfoSec projects,  from POC through all the project phases including implementation, testing and operations. Make changes to current and engineer new business processes to maximize the use of PowerShell and other Scripting Technologies and Automation whenever possible across multiple Information Security domains.Integrate IAM and InfoSec Applications and Systems with AD,  LDAP, Exchange, O365, Azure, HRMS, ITMS, Databases, File Systems, Storage and other DCO Applications and Systems.Create  Custom, Enterprise PowerShell Scripts used to report and analyze the effectiveness of IAM and InfoSec processes for managing users, computer, groups and OUs in Active Directory.Design and implement a plan for AD clean-up. Disable and remove inactive user, group and computer objects. Re-order existing OU structure to maximize efficiency for management of  AD objects.Use PowerShell Scripting, to create adhoc or scheduled custom reporting out of AD and other sources of data.Create custom PowerShell automation for various tasks including user accounts provisioning and de-provisioning, custom alerting and scheduled reporting.Key Accomplishments:Using Sapien PowerShell Studio (PowerShell ISE), design and implement  GUI PowerShell Forms application for user account creation in Active Directory. This application is used by the members of the service desk team to create new user accounts in a consistent and uniform fashion. Hence, contributing not only to productivity but also to security through consistency and integrity.Created fully automated process, for synchronized removal of user accounts from several Identity and Access Management Systems (Identity Management Database - Courion, LDAP - Oracle Enterprise Directory, Active Directory. Based on “source of record” HRMS, system running on SAP, set of PowerShell scripts running as a scheduled task was designed to compare and remove user accounts from all the systems above."
+            ],
+            [
+                "Sr. Security Architect, Chief Security Organization",
+                "Company Name",
+                "AT&T",
+                "Dates Employed",
+                "Oct 2016 – Mar 2017",
+                "Employment Duration",
+                "6 mos",
+                "Location",
+                "El Segundo, Ca",
+                "Responsibilities:Manage Project Security Assessments, Data Classifications and Project Security Requirements. Establish Security Controls based on AT&T Security Policy and Requirements (ASPR), and validate their effectiveness. Validate Application Security Controls, based on OWASP guidelines and Secure Coding Practices as defined in ASPR"
+            ],
+            [
+                "Sr. Information Security Consultant, Identity and Access Management",
+                "Company Name",
+                "The Aerospace Corporation",
+                "Dates Employed",
+                "Feb 2016 – Oct 2016",
+                "Employment Duration",
+                "9 mos",
+                "Location",
+                "El Segundo, Ca",
+                "Responsibilities:Review current Identity Management, Access Management and Directory Services controls and make suggestions for improvements. Analyze current automated solutions with focus on finding ways to improve performance. Analyze and design PowerShell scripts, used for reporting, automation and integration of Identity and Access Management Systems with Azure Active Directory, Office 365, LDAP, SAP and other systems. Troubleshoot Access and Identity issues, design solutions, test and implement. Create all accompanying documentation, including detail design diagrams.Key Accomplishments:Improved performance of an enterprise script for exporting data out of Active Directory and into the Courion Identity Database. I was able to reduce the time it took for the script to run from 40 minutes to 3 minutes. This enabled our team to run this automated task on a much tighter schedule and reduced the time needed to provision accounts for users. This had a very positive impact on our productivity and customer service.Successfully troubleshoot a long standing issue with one of our enterprise scripts which was inaccurately reporting on Office 365 license inventory and usage. Identified the problem and created a new set of scripts with additional error checking and logging capabilities.  As a result of this effort, attestation efficiency and security has been increased, while downtime due to lack of license resources has been completely eliminated.Led a team effort for migrating over 1000 mail enabled groups from our Secure LDAP directory into Office 365. Created automated reporting capability to identify the groups to be moved. Designed process using PowerShell scripts recreate groups in Office 365. This dramatically reduced the amount of manual work involved with the move and also eliminated possibility of errors while enhanced consistency."
+            ],
+            [
+                "Lead Security Engineer, Data Loss Prevention",
+                "Company Name",
+                "Toyota North America",
+                "Dates Employed",
+                "Mar 2012 – Feb 2016",
+                "Employment Duration",
+                "4 yrs",
+                "Responsibilities:Security Architect and Technical Lead for the Data Loss Prevention (DLP), Data Discovery, Email Prevent, Mobile DLP and other security projects. Lead a team of four offshore resources providing standards, guidelines and procedures to follow during maintenance and operations of the DLP Systems.Collaborate with external auditors to conduct compliance audits, presenting results to senior management.Design and maintain policies, response rules and data identifiers for effective discovery of data at rest and data in motion. Key Accomplishments:Using Symantec System Requirements documentation, designed and implemented Data Loss Prevention (Vontu), and Data Insight in the large enterprise environment spanning multiple geographic locations. System was designed utilizing completely virtualized environment running Windows 2008 Enterprise 64 bit OS. This simplified design allowed for quick implementation and reduced cost to the project as well as lowered operational and maintenance costs.Enhanced functionality of the Symantec DLP product, and provided integration with Active Directory, by writing a set of scripts to consume employee data from Aveksa application running on Oracle database and using LDAP with directory services. As a result of this effort, all reported incidents coming from the Symantec Data Loss Prevention now include number of additional information such as manger email, which provide for more efficient workflow and reduce time it takes to resolve an incident.Help our Access and Identity Management group create automated solution for producing auditing reports. These reports leveraged information coming from the tool for managing UNIX accounts using Active Directory, Centrify, and the Aveksa Application. This solution is used daily by the managers attesting to their employee’s access levels. As a result of this effort, attestation efficiency and security has been increased"
+            ],
+            [
+                "Consultant, Information Security",
+                "Company Name",
+                "Torrance Memorial Medical Center",
+                "Dates Employed",
+                "Jun 2011 – Mar 2012",
+                "Employment Duration",
+                "10 mos",
+                "Location",
+                "Torrance, Ca",
+                "Responsibilities:•\tPerform security analysis of the current implementation of Active Directory at TMMC, and make suggestions for improvements.  Work with Senior Management and other Infrastructure, Engineering and Operations Teams to outline a plan for implementation of all the security improvements. Provide best practice security consulting for multiple compliance initiatives, with a focus on providing solid solutions.  Create technical implementation plans, project plans, and worked closely with customers to provide the solutions that fulfill their needs. Make changes to current and engineer new business processes to maximize the use of Scripting Technologies and Automation whenever possible in the areas of User Access provisioning and de-provisioning, Auditing, Reporting, and Information Security.Key Accomplishments:•\tIdentified as a need and implemented Employee ID as the unique identifier for all domain users in Active Directory. This made it possible to uniquely identify user’s identity between the systems in use by Human Resources ( on-boarding process ) and AD. This was also prerequisite for all other Automation that followed and is listed in other key accomplishments below.  Finally, utilizing Employee ID as unique identifier, I created a script to disable 276 domain user accounts in AD that were showing as terminated employees in the HR Systems.•\tEnvisioned, developed and implemented fully automated process for disabling domain user accounts in AD based on Daily Termination Reports from HR. Resulted in ongoing team savings of more than 10 hours per week.  In addition to workload savings, this work resulted in increased security as user accounts for terminated employees were disabled in a uniform and timely fashion.  Partnered with many teams across the enterprise to perform business analysis prior to creating this highly successful service."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Loyola Marymount University",
+                "Degree Name",
+                "Bachelor of Science",
+                "Field Of Study",
+                "Electrical Engineering",
+                "Grade",
+                "3.76",
+                "Dates attended or expected graduation",
+                "1995 – 1998",
+                "Cum Laude"
+            ],
+            [
+                "Loyola Marymount University",
+                "Degree Name",
+                "Bachelor of Science",
+                "Field Of Study",
+                "Electrical Engineering",
+                "Grade",
+                "3.76",
+                "Dates attended or expected graduation",
+                "1995 – 1998",
+                "Cum Laude"
+            ],
+            [
+                "University of Belgrade",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Mechanical Engineering",
+                "Dates attended or expected graduation",
+                "1988 – 1991"
+            ],
+            [
+                "University of Belgrade",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Mechanical Engineering",
+                "Dates attended or expected graduation",
+                "1988 – 1991"
+            ],
+            [
+                "Petar Drapsin",
+                "Degree Name",
+                "HS",
+                "Field Of Study",
+                "Aviation",
+                "Dates attended or expected graduation",
+                "1985 – 1987"
+            ],
+            [
+                "Petar Drapsin",
+                "Degree Name",
+                "HS",
+                "Field Of Study",
+                "Aviation",
+                "Dates attended or expected graduation",
+                "1985 – 1987"
+            ],
+            "Recommendations",
+            [
+                "Walt BettingerWalt Bettinger is a LinkedIn Influencer",
+                "President & CEO at Charles Schwab",
+                "152,742 followers"
+            ],
+            [
+                "Pirelli",
+                "260,399 followers"
+            ],
+            [
+                "Northrop Grumman",
+                "335,701 followers"
+            ],
+            [
+                "Information Systems Security Association (ISSA) Discussion Forum",
+                "60,133 members"
+            ],
+            [
+                "Toyota North America",
+                "91,127 followers"
+            ],
+            [
+                "The Aerospace Corporation",
+                "22,730 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Walt BettingerWalt Bettinger is a LinkedIn Influencer",
+                "President & CEO at Charles Schwab",
+                "152,742 followers"
+            ],
+            [
+                "Walt BettingerWalt Bettinger is a LinkedIn Influencer",
+                "President & CEO at Charles Schwab",
+                "152,742 followers"
+            ],
+            [
+                "Walt Bettinger is a LinkedIn Influencer"
+            ],
+            [
+                "Pirelli",
+                "260,399 followers"
+            ],
+            [
+                "Pirelli",
+                "260,399 followers"
+            ],
+            [
+                "Northrop Grumman",
+                "335,701 followers"
+            ],
+            [
+                "Northrop Grumman",
+                "335,701 followers"
+            ],
+            [
+                "Information Systems Security Association (ISSA) Discussion Forum",
+                "60,133 members"
+            ],
+            [
+                "Information Systems Security Association (ISSA) Discussion Forum",
+                "60,133 members"
+            ],
+            [
+                "Toyota North America",
+                "91,127 followers"
+            ],
+            [
+                "Toyota North America",
+                "91,127 followers"
+            ],
+            [
+                "The Aerospace Corporation",
+                "22,730 followers"
+            ],
+            [
+                "The Aerospace Corporation",
+                "22,730 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Tylor Hagerman",
+                "Senior Product Manager",
+                "November 24, 2010, Tylor worked with Bojan in different groups",
+                "I highly recommend Bojan.  He is a talented engineer who always comes up with creative solutions to the most challenging tasks.  Bojan listens well and tailors his work to meet his customer's needs.  He has a knack for creating automation that saves everyone time and money.  Someone will be lucky to acquire his abilities -- we sure do miss them!"
+            ],
+            [
+                "Tylor Hagerman",
+                "Senior Product Manager",
+                "November 24, 2010, Tylor worked with Bojan in different groups"
+            ],
+            [
+                "Tylor Hagerman",
+                "Senior Product Manager",
+                "November 24, 2010, Tylor worked with Bojan in different groups"
+            ],
+            [
+                "Tylor Hagerman",
+                "Senior Product Manager",
+                "November 24, 2010, Tylor worked with Bojan in different groups"
+            ],
+            "Senior Product Manager",
+            [
+                "I highly recommend Bojan.  He is a talented engineer who always comes up with creative solutions to the most challenging tasks.  Bojan listens well and tailors his work to meet his customer's needs.  He has a knack for creating automation that saves everyone time and money.  Someone will be lucky to acquire his abilities -- we sure do miss them!"
+            ],
+            [
+                "I highly recommend Bojan.  He is a talented engineer who always comes up with creative solutions to the most challenging tasks.  Bojan listens well and tailors his work to meet his customer's needs.  He has a knack for creating automation that saves everyone time and money.  Someone will be lucky to acquire his abilities -- we sure do miss them!"
+            ]
+        ],
+        "skills": [],
+        "summary": "    SUMMARY:Proven IT  Automation Engineer and Developer and Scripting Expert with expertise in Active Directory Management, Reporting and Integration with other InfoSec and IAM Applications and Windows Systems Administration.  Specialties include Information Security with focus on Security Architecture, Project Governance and Compliance, Applications Security, Access Controls, Access and Identity Management, Automation (PowerShell Scripting Expert), Audit and Reporting, Directory Services, Azure, O365, Integration and Innovation, and System Administration with extensive experience in the Telecommunications, Financial, Healthcare, and Department of Defense (DoD) industries. US Citizen\n  \n  \n",
+        "name": "Bojan Nisavic, CISSP",
+        "title": "Security Architect, PowerShell Developer, IAM and Information Security",
+        "url": "linkedin.com/in/bojannisavic",
+        "phone": "",
+        "email": "bnisavic@yahoo.com"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6212405610508541952/",
+    "participants": [
+        {
+            "name": "Bill Bennett",
+            "title": "Senior Director of Development at GoDaddy.com",
+            "url": "linkedin.com/in/bill-bennett-16952561",
+            "phone": null,
+            "email": "linkedin@billbennett.org"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-07T23:21:00.000Z"
+        }
+    ]
+}

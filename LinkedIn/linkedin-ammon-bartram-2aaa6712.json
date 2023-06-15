@@ -1,0 +1,288 @@
+[
+    {
+        "resourceName": "people/c4996894293142306307",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMWXR3Ui9FSkFLeFU9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "455888e28aec7e03"
+                    }
+                },
+                "displayName": "Ammon (Triple Byte) Bartram",
+                "familyName": "Bartram",
+                "givenName": "Ammon (Triple Byte)",
+                "displayNameLastFirst": "Bartram, Ammon (Triple Byte)"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "455888e28aec7e03"
+                    }
+                },
+                "value": "+1 415-529-5217",
+                "canonicalForm": "+14155295217",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "1 Mutual Connection",
+                "You and Ammon both know Mat Sherman"
+            ],
+            [
+                "Ammon can introduce you to 4 people at Google",
+                "You are following Google"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Co-Founder",
+                "Company Name",
+                "Triplebyte",
+                "Dates Employed",
+                "Mar 2015 – Present",
+                "Employment Duration",
+                "2 yrs 9 mos",
+                "Location",
+                "San Francisco Bay Area"
+            ],
+            [
+                "Co-founder",
+                "Company Name",
+                "Socialcam",
+                "Dates Employed",
+                "Sep 2011 – Aug 2014",
+                "Employment Duration",
+                "3 yrs"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "Justin.tv",
+                "Dates Employed",
+                "Sep 2009 – Sep 2011",
+                "Employment Duration",
+                "2 yrs 1 mo"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "State University of New York College at Potsdam",
+                "Degree Name",
+                "BA",
+                "Field Of Study",
+                "Computer Science, Mathematics",
+                "Dates attended or expected graduation",
+                "2006 – 2009"
+            ],
+            [
+                "State University of New York College at Potsdam",
+                "Degree Name",
+                "BA",
+                "Field Of Study",
+                "Computer Science, Mathematics",
+                "Dates attended or expected graduation",
+                "2006 – 2009"
+            ],
+            [
+                "Universidad de León"
+            ],
+            [
+                "Universidad de León"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Justin.tv",
+                "968 followers"
+            ],
+            [
+                "Universidad de León",
+                "28,534 followers"
+            ],
+            [
+                "State University of New York College at Potsdam",
+                "19,166 followers"
+            ],
+            [
+                "Triplebyte",
+                "437 followers"
+            ],
+            [
+                "State University of New York College at Potsdam",
+                "18,280 followers"
+            ],
+            [
+                "Universidad de León",
+                "25,313 followers"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Justin.tv",
+                "968 followers"
+            ],
+            [
+                "Justin.tv",
+                "968 followers"
+            ],
+            [
+                "Universidad de León",
+                "28,534 followers"
+            ],
+            [
+                "Universidad de León",
+                "28,534 followers"
+            ],
+            [
+                "State University of New York College at Potsdam",
+                "19,166 followers"
+            ],
+            [
+                "State University of New York College at Potsdam",
+                "19,166 followers"
+            ],
+            [
+                "Triplebyte",
+                "437 followers"
+            ],
+            [
+                "Triplebyte",
+                "437 followers"
+            ],
+            [
+                "State University of New York College at Potsdam",
+                "18,280 followers"
+            ],
+            [
+                "State University of New York College at Potsdam",
+                "18,280 followers"
+            ],
+            [
+                "Universidad de León",
+                "25,313 followers"
+            ],
+            [
+                "Universidad de León",
+                "25,313 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Python",
+                "See 13 endorsements for Python",
+                "13",
+                "Python",
+                "Endorse",
+                "Endorsed by Sven Pedersen and 1 other who is highly skilled at this",
+                "Endorsed by 2 of Ammon’s colleagues at Triplebyte"
+            ],
+            [
+                "Python",
+                "See 13 endorsements for Python",
+                "13"
+            ],
+            [
+                "Git",
+                "See 13 endorsements for Git",
+                "13",
+                "Git",
+                "Endorse",
+                "Endorsed by Dima Korolev and 1 other who is highly skilled at this",
+                "Endorsed by 2 of Ammon’s colleagues at Justin.tv"
+            ],
+            [
+                "Git",
+                "See 13 endorsements for Git",
+                "13"
+            ],
+            [
+                "Streaming Media",
+                "See 3 endorsements for Streaming Media",
+                "3",
+                "Streaming Media",
+                "Endorse",
+                "Artyom Voronetskiy and 2 connections have given endorsements for this skill"
+            ],
+            [
+                "Streaming Media",
+                "See 3 endorsements for Streaming Media",
+                "3"
+            ],
+            [
+                "Scalability",
+                "See 3 endorsements for Scalability",
+                "3",
+                "Scalability",
+                "Endorse"
+            ],
+            [
+                "Scalability",
+                "See 3 endorsements for Scalability",
+                "3"
+            ],
+            [
+                "PostgreSQL",
+                "See 3 endorsements for PostgreSQL",
+                "3",
+                "PostgreSQL",
+                "Endorse"
+            ],
+            [
+                "PostgreSQL",
+                "See 3 endorsements for PostgreSQL",
+                "3"
+            ],
+            [
+                "iPhone development",
+                "See 1 endorsement for iPhone development",
+                "1",
+                "iPhone development",
+                "Endorse"
+            ],
+            [
+                "iPhone development",
+                "See 1 endorsement for iPhone development",
+                "1"
+            ]
+        ],
+        "summary": "  Working hard on to improve technical interviewing and hiring at Triplebyte \n  \n  \n",
+        "name": "Ammon Bartram",
+        "title": "Co-founder at Triplebyte",
+        "url": "linkedin.com/in/ammon-bartram-2aaa6712",
+        "phone": "415.343.5436 (Mobile)",
+        "email": "ammonbartram@gmail.com"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6222143107039846400/",
+    "participants": [
+        {
+            "name": "Doktor Gurson",
+            "title": "Founder/CEO at Doblet & Angel Investor",
+            "url": "linkedin.com/in/doktorgurson",
+            "phone": "415-938-7566 (Mobile)",
+            "email": "dgurson@doblet.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-03T20:15:00.000Z"
+        }
+    ]
+}

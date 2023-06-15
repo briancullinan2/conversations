@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6200661947386511360/",
+    "participants": [
+        {
+            "name": "James Jacob",
+            "title": "Director of Infrastructure Systems at OARnet",
+            "url": "linkedin.com/in/jimjacob",
+            "phone": null,
+            "email": "jjjacob@dropinsolutions.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "James Jacob",
+            "message": "Congrats on the new role! Hope you're doing well.",
+            "time": "2017-11-05T13:36:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "OK be honest with me, isn't that the same text that LinkedIn recommends from the feed? Am I the only one that changes it before sending?",
+            "time": "2017-10-04T17:16:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6218516775705853952/",
+    "participants": [
+        {
+            "name": "John Wolff",
+            "title": "IT Practice Lead at VincentBenjamin",
+            "url": "linkedin.com/in/johnwolffvb",
+            "phone": "602.595.9900 (Work)",
+            "email": "jwolff@vincentbenjamin.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-24T20:05:00.000Z"
+        }
+    ]
+}

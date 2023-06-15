@@ -1,0 +1,742 @@
+<session type="start" time="1203041823" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1203041823" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="did%20u%20get%20it%3F"/>
+<message type="information_standard" time="1203041830" medium="AIM" text="You%20have%20received%20C%3A%5CDocuments%20and%20Settings%5CBrian%20Cullinan%5CMy%20Documents%5CSAXLocalNameCount%2Ejava%2E"/>
+<message type="outgoing_privateMessage" time="1203041833" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="yes"/>
+<message type="incoming_privateMessage" time="1203041836" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="there%20ya%20go"/>
+<session type="stop" time="1203041839" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1203041845" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1203041845" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="it%20does%20something%20realy%20dumb"/>
+<message type="incoming_privateMessage" time="1203041853" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="but%20it%20will%20help%20u%20setup%20the%20parser"/>
+<message type="incoming_privateMessage" time="1203041860" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="and%20get%20ya%20on%20your%20way"/>
+<message type="incoming_privateMessage" time="1203041891" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="all%20it%20does%20is%20count%20the%20nuber%20of%20elements%20of%20certian%20name%20and%20return%20that%20name%20and%20the%20total"/>
+<message type="incoming_privateMessage" time="1203041902" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="using%20a%20hashtable"/>
+<message type="incoming_privateMessage" time="1203042128" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="usfull%20to%20get%20ya%20started%20with%20itext%20when%20u%20get%20to%20it%20%2E%2E%2E"/>
+<message type="incoming_privateMessage" time="1203042130" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%3Ca%20href%3D%22http%3A%2F%2Fwww%2D128%2Eibm%2Ecom%2Fdeveloperworks%2Fopensource%2Flibrary%2Fos%2Djavapdf%2F%22%3Ehttp%3A%2F%2Fwww%2D128%2Eibm%2Ecom%2Fdeveloperworks%2Fopensource%2Flibrary%3C%2Fa%3E%3Ca%20href%3D%22http%3A%2F%2Fwww%2D128%2Eibm%2Ecom%2Fdeveloperworks%2Fopensource%2Flibrary%2Fos%2Djavapdf%2F%22%3E%2Fos%2Djavapdf%2F%3C%2Fa%3E"/>
+<message type="incoming_privateMessage" time="1203042143" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="full%20refrence%20%2E%2E%2E%2E"/>
+<message type="incoming_privateMessage" time="1203042144" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20%3Ca%20href%3D%22http%3A%2F%2Fitext%2Eugent%2Ebe%2Flibrary%2Fapi%2F%22%3E%3Ca%20href%3D%22http%3A%2F%2Fitext%2Eugent%2Ebe%2Flibrary%2Fapi%2F%22%3Ehttp%3A%2F%2Fitext%2Eugent%2Ebe%2Flibrary%2Fapi%2F%3C%2Fa%3E"/>
+<message type="outgoing_privateMessage" time="1203043645" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="so%20i%20have%20it%20reading%20in%20the%20whole%20xml%20file%20now"/>
+<message type="outgoing_privateMessage" time="1203043656" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="now%20i%20just%20need%20to%20get%20it%20to%20print%20it%20out"/>
+<message type="incoming_privateMessage" time="1203043667" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ya%20that%20sample%20is%20good%20for%20gething%20that%20working"/>
+<message type="incoming_privateMessage" time="1203043689" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="just%20got%20change%20the%20s%2Eo%2Epln%27s%20to%20itext%20api%20format"/>
+<message type="outgoing_privateMessage" time="1203043883" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="we%20have%20an%20exam%20tomorrow%3F"/>
+<message type="incoming_privateMessage" time="1203043892" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="what"/>
+<message type="incoming_privateMessage" time="1203043900" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="what%20class%3F"/>
+<message type="outgoing_privateMessage" time="1203043903" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20must%20have%20set%20it%20wrong"/>
+<message type="incoming_privateMessage" time="1203043912" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="it%3F"/>
+<message type="outgoing_privateMessage" time="1203043918" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="the%20calendar%20event"/>
+<message type="incoming_privateMessage" time="1203043933" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="theres%20no%20exams%20in%20xml"/>
+<message type="incoming_privateMessage" time="1203043939" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="just%20a%20final"/>
+<message type="outgoing_privateMessage" time="1203043951" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="yeah%20weird"/>
+<message type="outgoing_privateMessage" time="1203044104" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="how%20do%20you%20print%20out%20the%20content%20of%20the%20elements%20or%20the%20data%20using%20that%20class%3F"/>
+<message type="incoming_privateMessage" time="1203044123" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="what%3F"/>
+<message type="outgoing_privateMessage" time="1203044169" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20can%27t%20figure%20out%20how%20to%20get%20the%20data%20in%20an%20element"/>
+<message type="incoming_privateMessage" time="1203044188" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="oh"/>
+<message type="incoming_privateMessage" time="1203044191" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="like%20the%20tagname%3F"/>
+<message type="incoming_privateMessage" time="1203044195" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="or%20the%20attname%3F"/>
+<message type="incoming_privateMessage" time="1203044199" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="or%20what%3F"/>
+<message type="outgoing_privateMessage" time="1203044202" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="like%20the%20fuckin%20data"/>
+<message type="outgoing_privateMessage" time="1203044216" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="like%20the%20shit%20in%20between%20the%20begin%20tag%20and%20the%20close%20tag"/>
+<message type="incoming_privateMessage" time="1203044219" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="the%20chars%20in%20a%20tag%3F"/>
+<message type="incoming_privateMessage" time="1203044222" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ya"/>
+<message type="outgoing_privateMessage" time="1203044223" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="To%20provide%20the%20best%20IT%20education%20ever%2E"/>
+<message type="incoming_privateMessage" time="1203044223" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ok"/>
+<message type="outgoing_privateMessage" time="1203044226" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="fuck"/>
+<message type="incoming_privateMessage" time="1203044227" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="its%20a%20char%20array%20event"/>
+<message type="incoming_privateMessage" time="1203044232" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="one%20sec%20let%20me%20look%20it%20up"/>
+<message type="incoming_privateMessage" time="1203044288" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20%20%20%20%20public%20void%20characters%20%28char%20%5B%5D%20ch%2C%20int%20start%2C%20int%20length%29%20%7B"/>
+<message type="outgoing_privateMessage" time="1203044347" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="that%20doesn%27t%20really%20help"/>
+<message type="incoming_privateMessage" time="1203044353" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="um"/>
+<message type="outgoing_privateMessage" time="1203044366" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="oh%20i%20see"/>
+<message type="incoming_privateMessage" time="1203044368" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="thats%20the%20method%20for%20giving%20you%20text%20between%20elements"/>
+<message type="outgoing_privateMessage" time="1203044375" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="ok"/>
+<message type="incoming_privateMessage" time="1203044390" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="that%20gets%20called%20ever%20time%20it%20see%20text"/>
+<message type="incoming_privateMessage" time="1203044391" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="and%20theres%20a%20new%20String%20method"/>
+<message type="incoming_privateMessage" time="1203044397" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="that%20takes%20all%203%20of%20them"/>
+<message type="incoming_privateMessage" time="1203044404" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="in%20java"/>
+<message type="outgoing_privateMessage" time="1203044486" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="how%20do%20i%20only%20get%20the%20characters%20on%20elements%20without%20elements%20inside%20of%20them%3F"/>
+<message type="incoming_privateMessage" time="1203044541" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="you%20dont%20get%20to%20control%20when%20chars%20method%20is%20called%20you%20only%20get%20to%20control%20what%20to%20do%20when%20it%20is%20called"/>
+<message type="incoming_privateMessage" time="1203044591" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="heres%20what%20i%20did%20nub%20%3AP"/>
+<message type="incoming_privateMessage" time="1203044598" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20String%20st%20%3D%20new%20String%20%28ch%2C%20start%2C%20length%29%2Etrim%20%28%29%3B"/>
+<message type="incoming_privateMessage" time="1203044613" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20if%20%28st%2Elength%20%28%29%20%3E%200%29%20%7B"/>
+<message type="outgoing_privateMessage" time="1203044652" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="but%20that%20will%20return%20the%20whole%20stupid%20tree%20of%20xml"/>
+<message type="incoming_privateMessage" time="1203044661" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="no"/>
+<message type="incoming_privateMessage" time="1203044664" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="it%20realy%20wont"/>
+<message type="incoming_privateMessage" time="1203044673" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="i%20should%20know%20cuz%20i%20did%20it%20and%20it%20works%20great"/>
+<message type="outgoing_privateMessage" time="1203044688" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="oh"/>
+<message type="outgoing_privateMessage" time="1203044717" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20hate%20java"/>
+<message type="incoming_privateMessage" time="1203044775" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="i%20love%20java%20i%20hate%20stupid%20pachages%20that%20are%20gay%20to%20use%20and%20we%20get%20very%20little%20instruction"/>
+<message type="incoming_privateMessage" time="1203044848" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="it%20can%20be%20very%20gay%20a%20times"/>
+<message type="outgoing_privateMessage" time="1203047196" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20hate%20setting%20up%20the%20fucking%20class%20path%20all%20the%20damn%20time"/>
+<message type="incoming_privateMessage" time="1203047217" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="hence%20why%20i%20used%20eclipse"/>
+<message type="outgoing_privateMessage" time="1203047329" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="was%20he%20trying%20to%20spell%20bill%20gates%3F"/>
+<message type="outgoing_privateMessage" time="1203047332" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="gehts%3F"/>
+<message type="incoming_privateMessage" time="1203047344" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="doubt%20it"/>
+<session type="stop" time="1203047435" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1203060426" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1203060426" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="did%20u%20finish%3F"/>
+<message type="outgoing_privateMessage" time="1203060437" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20am%20going%20to%20work%20on%20it%20more%20tomorrow"/>
+<message type="incoming_privateMessage" time="1203060546" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="u%20do%20know%20ur%20website%20has%20bugs%3F"/>
+<message type="outgoing_privateMessage" time="1203060613" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="yes%20because%20i%20am%20working%20on%20it"/>
+<message type="incoming_privateMessage" time="1203060632" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="i%20see"/>
+<message type="outgoing_privateMessage" time="1203060838" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="no%20more%20bugs"/>
+<session type="stop" time="1203061210" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1203061701" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1203061701" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="wow%20lucas%20whent%20TV"/>
+<message type="outgoing_privateMessage" time="1203061751" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="what%20now%3F"/>
+<message type="incoming_privateMessage" time="1203061763" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="A%20new%20era%20of%20Star%20Wars%20entertainment%20begins%20in%202008%20when%20STAR%20WARS%3A%20THE%20CLONE%20WARS%2C%20from%20creator%20George%20Lucas%2C%20premieres%20as%20an%20all%2Dnew%20feature%20film%20in%20August%2C%20followed%20by%20the%20television%20series%20debut%20in%20the%20fall%2C%20in%20a%20partnership%20announced%20today%20between%20Lucasfilm%20Ltd%2E%2C%20Warner%20Bros%2E%20Pictures%20and%20Turner%20Broadcasting%20System%20Inc%2E"/>
+<message type="incoming_privateMessage" time="1203061806" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="all%20cgi%20too%3F"/>
+<message type="outgoing_privateMessage" time="1203061861" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="what%20is%20cgi%3F"/>
+<message type="incoming_privateMessage" time="1203061897" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="computer%20generated%20imagry%20"/>
+<message type="incoming_privateMessage" time="1203062169" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="so%20ya%20hes%20going%20come%20out%20with%20a%20cgi%20based%20on%20the%20cloe%20wars%20movie"/>
+<message type="outgoing_privateMessage" time="1203062213" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="wow"/>
+<message type="incoming_privateMessage" time="1203062235" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="and%20its%20going%20be%20on%20tv%20lolz"/>
+<message type="outgoing_privateMessage" time="1203062474" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="that%20is%20a%20pretty%20hot%20server%20list"/>
+<message type="incoming_privateMessage" time="1203062488" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="all%200%27s%3F"/>
+<message type="outgoing_privateMessage" time="1203062491" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20will%20have%20rcon%20access%20for%20quake%203%20at%20least"/>
+<session type="stop" time="1203062907" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1203568340" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1203568340" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="you%20looked%20at%20dom%20yet%3F"/>
+<message type="outgoing_privateMessage" time="1203568360" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="wow%20you%20ever%20hear%20of%20methuzela%3F"/>
+<message type="incoming_privateMessage" time="1203568407" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="nope"/>
+<message type="outgoing_privateMessage" time="1203568434" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="omfg"/>
+<message type="outgoing_privateMessage" time="1203568452" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20guess%20he%20lived%20for%20700%20%22years%22"/>
+<message type="incoming_privateMessage" time="1203568469" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="900%3F"/>
+<message type="outgoing_privateMessage" time="1203568510" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="in%20the%20old%20testament%2C%20i%20found%20the%20term%20in%20bicentennial%20man"/>
+<message type="incoming_privateMessage" time="1203568547" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="does%20it%20talk%20about%20DOM%20in%20the%20old%20testament%3F"/>
+<message type="outgoing_privateMessage" time="1203568560" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="are%20you%20christian%3F"/>
+<message type="incoming_privateMessage" time="1203568573" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="lolz%20um%20no"/>
+<message type="outgoing_privateMessage" time="1203568583" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="sorry"/>
+<message type="outgoing_privateMessage" time="1203568596" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="but%20no%20i%20haven%27t%20started%20on%20DOM"/>
+<message type="outgoing_privateMessage" time="1203568608" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="but%20i%20know%20a%20lot%20about%20DOM%20alread"/>
+<message type="outgoing_privateMessage" time="1203568613" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="%2Aalready"/>
+<message type="incoming_privateMessage" time="1203568614" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="get%20cracken%20its%20due%202morrow"/>
+<message type="outgoing_privateMessage" time="1203568626" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="it%27s%20due%20friday"/>
+<message type="incoming_privateMessage" time="1203568629" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="i%20cant%20get%20the%20sample%20to%20work"/>
+<message type="incoming_privateMessage" time="1203568631" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="i%20know"/>
+<message type="incoming_privateMessage" time="1203568634" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="just%20givin%20u%20shit"/>
+<message type="outgoing_privateMessage" time="1203568639" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="tomorrow%20is%20thusday"/>
+<message type="outgoing_privateMessage" time="1203568644" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="%2Athursday"/>
+<message type="incoming_privateMessage" time="1203568645" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="i%20KNOW"/>
+<message type="outgoing_privateMessage" time="1203568646" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20know"/>
+<message type="outgoing_privateMessage" time="1203568655" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="just%20giving%20you%20shit"/>
+<message type="incoming_privateMessage" time="1203568670" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="im%20full%20of%20shit%20i%20dont%20need%20any%20more"/>
+<message type="outgoing_privateMessage" time="1203568723" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="have%20you%20gotten%20the%20christian%20talk"/>
+<message type="outgoing_privateMessage" time="1203568724" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="%3F"/>
+<message type="incoming_privateMessage" time="1203568744" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ive%20goten%20the%20bible%20thumper%20talk"/>
+<message type="incoming_privateMessage" time="1203568748" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="does%20that%20count%3F"/>
+<message type="outgoing_privateMessage" time="1203569293" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="hmmm"/>
+<message type="outgoing_privateMessage" time="1203569298" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20guess%20so"/>
+<message type="outgoing_privateMessage" time="1203569312" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="someday%20we%20may%20have%20that%20talk"/>
+<message type="outgoing_privateMessage" time="1203569318" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="but%20not%20soon"/>
+<message type="outgoing_privateMessage" time="1203569356" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="what%20does%20zaren%20mean%3F"/>
+<message type="incoming_privateMessage" time="1203569423" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="its%20a%20german%20word"/>
+<message type="outgoing_privateMessage" time="1203569442" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="yes%20what%20does%20it%20mean%3F"/>
+<message type="incoming_privateMessage" time="1203569456" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="czars"/>
+<message type="incoming_privateMessage" time="1203569460" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="wtf%20that%20is%20iono"/>
+<message type="outgoing_privateMessage" time="1203569479" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="sounds%20japanese"/>
+<message type="outgoing_privateMessage" time="1203569492" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="czar%20like%20zar%20of%20russia%3F"/>
+<message type="outgoing_privateMessage" time="1203569504" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20don%27t%20know%20if%20they%20are%20spelled%20the%20same"/>
+<message type="incoming_privateMessage" time="1203569524" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="um%20i%20translated%20it%20online%20and%20it%20shit%20in%20english%20it%20ment%20czars"/>
+<message type="outgoing_privateMessage" time="1203569538" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="zar%20like%20ruler%3F"/>
+<message type="outgoing_privateMessage" time="1203569548" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="yes"/>
+<message type="outgoing_privateMessage" time="1203569556" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20didn%27t%20know%20it%20was%20spelled%20with%20a%20c"/>
+<message type="incoming_privateMessage" time="1203569565" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="czars"/>
+<message type="incoming_privateMessage" time="1203569567" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="shit"/>
+<message type="incoming_privateMessage" time="1203569575" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="A%20male%20monarch%20or%20emperor%2C%20especially%20one%20of%20the%20emperors%20who%20ruled%20Russia%20until%20the%20revolution%20of%201917%2E%20%0A%20"/>
+<message type="incoming_privateMessage" time="1203569584" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%3AP%20czars%20is%20a%20english%20word"/>
+<message type="outgoing_privateMessage" time="1203569602" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="like%20i%20said%2C%20i%20didn%27t%20know%20it%20was%20spelled%20with%20a%20x"/>
+<message type="outgoing_privateMessage" time="1203569604" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="%2Ac"/>
+<message type="incoming_privateMessage" time="1203569607" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%3Ca%20href%3D%22http%3A%2F%2Fdictionary%2Ereference%2Ecom%2Fbrowse%2Fczars%22%3Ehttp%3A%2F%2Fdictionary%2Ereference%2Ecom%2Fbrowse%2Fczars%3C%2Fa%3E"/>
+<message type="outgoing_privateMessage" time="1203569613" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="yeah%20i%20know%20now"/>
+<message type="outgoing_privateMessage" time="1203569614" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="fuck"/>
+<message type="incoming_privateMessage" time="1203569629" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="its%20not%20spelt%20in%20rushen%20with%20a%20c"/>
+<message type="incoming_privateMessage" time="1203569635" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="in%20rushen%20its%20a%20zar"/>
+<message type="incoming_privateMessage" time="1203569638" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="or%20tsar"/>
+<message type="incoming_privateMessage" time="1203569648" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="in%20english%20its%20got%20a%20c"/>
+<message type="outgoing_privateMessage" time="1203569658" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="kkthxbye"/>
+<message type="outgoing_privateMessage" time="1203569663" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20am%20going%20to%20bed"/>
+<message type="outgoing_privateMessage" time="1203569668" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20drank"/>
+<message type="outgoing_privateMessage" time="1203569671" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="now%20i%20sleep"/>
+<session type="stop" time="1203570037" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1203610940" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1203610940" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="finaly%20finished%20dom"/>
+<session type="stop" time="1203614831" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1203666014" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1203666014" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="done%20yet%3F"/>
+<message type="outgoing_privateMessage" time="1203666032" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="haven%27t%20started"/>
+<message type="incoming_privateMessage" time="1203666067" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="oh%20my"/>
+<message type="incoming_privateMessage" time="1203666073" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="want%20the%20sample%20agin%3F"/>
+<message type="outgoing_privateMessage" time="1203666075" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="is%20ti%20hard%3F"/>
+<message type="outgoing_privateMessage" time="1203666081" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="yeah"/>
+<message type="incoming_privateMessage" time="1203666083" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="its%20gay"/>
+<message type="information_standard" time="1203666108" medium="AIM" text="Joe%20Flieger%20is%20trying%20to%20send%20you%20%22DOMSerializer%2Ejava%22%2E"/>
+<message type="incoming_privateMessage" time="1203666118" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="acpt"/>
+<message type="information_standard" time="1203666132" medium="AIM" text="You%20have%20received%20C%3A%5CDocuments%20and%20Settings%5CBrian%20Cullinan%5CMy%20Documents%5CDOMSerializer%2Ejava%2E"/>
+<message type="incoming_privateMessage" time="1203666155" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="90%25%20of%20that%20file%20is%20not%20needed"/>
+<message type="incoming_privateMessage" time="1203666231" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="i%20del%20like%20the%20whole%20file%20cept%20main%20and%20even%20some%20of%20main%20and%20removed%20like%201%2F2%20the%20imports"/>
+<session type="stop" time="1203668687" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1203673511" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1203673511" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="finished%20next%20weeks%20assignment%20too"/>
+<status type="Offline" time="1203679311" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1203679311" medium="AIM" text="%22Joe%20Flieger%22%20signed%20off%20at%20Fri%20Feb%2022%2004%3A21%3A51%202008%2E"/>
+<status type="online" time="1203679462" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1203679462" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Fri%20Feb%2022%2004%3A24%3A22%202008%2E"/>
+<session type="stop" time="1203694293" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1203885185" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1203885185" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="have%20u%20used%20the%20key_state%20array%20in%20any%20of%20your%20vw%20projects%3F"/>
+<session type="stop" time="1203885420" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1204867011" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1204867011" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="finish%20yet%3F"/>
+<message type="outgoing_privateMessage" time="1204869403" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="finish%20what%3F"/>
+<message type="incoming_privateMessage" time="1204869482" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="xquerey%3F"/>
+<message type="outgoing_privateMessage" time="1204869533" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="no"/>
+<message type="incoming_privateMessage" time="1204869589" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="slacker%3F"/>
+<session type="stop" time="1204869694" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1205254954" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1205254956" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="joe"/>
+<session type="stop" time="1205254959" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1206602100" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1206602100" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="up%3F"/>
+<message type="outgoing_privateMessage" time="1206605687" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="yes"/>
+<message type="incoming_privateMessage" time="1206605710" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="did%20u%20do%20signatures%20this%20or%20inheratance%20for%20scheme%20yet%3F"/>
+<message type="incoming_privateMessage" time="1206605996" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="wow%20where%20did%20u%20go%3F"/>
+<message type="outgoing_privateMessage" time="1206606106" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20am%20confused%20what%20are%20you%20asking%3F"/>
+<message type="incoming_privateMessage" time="1206606170" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="wow%20didnt%20here%20your%20responce"/>
+<message type="incoming_privateMessage" time="1206606172" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="um"/>
+<message type="incoming_privateMessage" time="1206606195" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="im%20trying%20to%20do%20the%20last%203%20parts%20for%20me%20for%20the%20396%20assignment"/>
+<message type="incoming_privateMessage" time="1206606220" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="signatures%20for%20like%20named%20methods"/>
+<message type="incoming_privateMessage" time="1206606253" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="the%20%2Athis%2A%20var%20for%20recursivly%20calling%20it%20self"/>
+<message type="incoming_privateMessage" time="1206606267" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="and%20inhearitance"/>
+<message type="incoming_privateMessage" time="1206606767" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="guess%20i%20lost%20you"/>
+<message type="outgoing_privateMessage" time="1206607279" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="yeah%20so%20the%20%2Athis%2A%20is%20just%20defined%20in%20the%20let%20and%20it%20does%20the%20exact%20same%20thing%20calling%20the%20object%20normally%20would"/>
+<message type="incoming_privateMessage" time="1206607405" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="that%20makes%20sence%20just%20not%20sure%20how%20im%20going%20implment%20that"/>
+<message type="incoming_privateMessage" time="1206607410" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="signatures%3F"/>
+<message type="incoming_privateMessage" time="1206607438" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="thinking%20i%20would%20add%20a%20check%20for%20number%20of%20args%20and%20make%20sure%20it%20matches"/>
+<message type="outgoing_privateMessage" time="1206607457" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="use%20a%20%28let"/>
+<message type="incoming_privateMessage" time="1206607459" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="havent%20even%20thought%20about%20inheratance"/>
+<message type="outgoing_privateMessage" time="1206607477" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="do%20like%20%28let%20%28%28%2Athis%20%26lt%3Bprocedure%3E"/>
+<message type="outgoing_privateMessage" time="1206607486" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="and%20the%20procedure%20is%20evaluated"/>
+<message type="outgoing_privateMessage" time="1206607505" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="so%20when%20%28%2Athis%20is%20called%20it%20will%20evaluate%20the%20procedure%20defined%20in%20let"/>
+<message type="incoming_privateMessage" time="1206607543" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ya%20i%20get%20that%20but%20geting%20it%20to%20work%20is%20a%20whole%20nother%20thing"/>
+<message type="incoming_privateMessage" time="1206607569" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="can%20you%20realy%20just%20use%20procedure%20or%20are%20you%20just%20using%20that%20as%20shorthand%3F"/>
+<message type="incoming_privateMessage" time="1206608051" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ya%20got%20the%20let%20and%20this%20setup%20but%20not%20sure%20what%20goes%20in%20for%20%26lt%3Bporc%3E"/>
+<message type="incoming_privateMessage" time="1206609766" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="well%20i%20guess%20ill%20see%202%20morrow"/>
+<message type="incoming_privateMessage" time="1206609774" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="thx%20for%20the%20input"/>
+<session type="stop" time="1206610267" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1206731227" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1206731227" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="there%3F"/>
+<message type="outgoing_privateMessage" time="1206735858" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="yeah"/>
+<message type="incoming_privateMessage" time="1206735876" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="when%20is%20prin%20due%3F"/>
+<message type="outgoing_privateMessage" time="1206735888" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="5%20i%20think"/>
+<message type="incoming_privateMessage" time="1206735895" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ya%20thats%20what%20i%20thought"/>
+<session type="stop" time="1206735904" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1206784835" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<filetransfer type="outgoing_filetransferInitialize" time="1206784843" medium="AIM" to="FJoeAZ" from="bjcullinan" link="%5C%5CFileserver%5Csoftware%5CMy%20Downloads%2Ezip"/>
+<filetransfer type="outgoing_filetransferStart" time="1206784848" medium="AIM" to="FJoeAZ" from="bjcullinan" link="%5C%5CFileserver%5Csoftware%5CMy%20Downloads%2Ezip"/>
+<message type="information_standard" time="1206784849" medium="AIM" text="Joe%20Flieger%20has%20received%20My%20Downloads%2Ezip%2E"/>
+<filetransfer type="outgoing_filetransferUninitialize" time="1206784849" medium="AIM" to="FJoeAZ" from="bjcullinan" link="%5C%5CFileserver%5Csoftware%5CMy%20Downloads%2Ezip"/>
+<session type="stop" time="1206784855" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1206989781" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1206989781" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%3Ca%20href%3D%22http%3A%2F%2Fwww%2Egiganews%2Ecom%2F%3Fc%3Dgn192820%22%3Ehttp%3A%2F%2Fwww%2Egiganews%2Ecom%2F%3Fc%3Dgn192820%3C%2Fa%3E"/>
+<message type="incoming_privateMessage" time="1206989796" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="i%20get%2020%20bucks%20if%20u%20use%20that%20i%20guess%20%2E%2E%2E"/>
+<session type="stop" time="1206991074" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1207023243" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1207023243" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="are%20u%20using%20your%203%20day%20trial%3F"/>
+<message type="outgoing_privateMessage" time="1207023255" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="no"/>
+<message type="outgoing_privateMessage" time="1207023258" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="not%20currently"/>
+<message type="incoming_privateMessage" time="1207023284" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="why%3F"/>
+<message type="outgoing_privateMessage" time="1207023304" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="because%20i%20have%20to%20pay%20for%20newzbin"/>
+<message type="incoming_privateMessage" time="1207023315" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="fjoeaz"/>
+<message type="incoming_privateMessage" time="1207023317" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="123456"/>
+<message type="outgoing_privateMessage" time="1207023394" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="thanks"/>
+<message type="outgoing_privateMessage" time="1207023441" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20will%20probably%20buy%20credits%20tomorrow"/>
+<message type="outgoing_privateMessage" time="1207024322" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="now%20that%20i%20can%20get%20anything%20i%20don%27t%20know%20what%20to%20get"/>
+<message type="outgoing_privateMessage" time="1207024332" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="you%20can%20use%20my%20login%20if%20you%20want%20to"/>
+<message type="outgoing_privateMessage" time="1207024344" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="get%2010%20more%20connections"/>
+<message type="incoming_privateMessage" time="1207024459" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="you%20can%20set%20nl%20to%2010%20coonctions%20at%20a%20time"/>
+<message type="outgoing_privateMessage" time="1207024477" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20know"/>
+<message type="outgoing_privateMessage" time="1207024488" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="so%20you%20could%20add%20another%20set%20of%2010%20connections"/>
+<message type="outgoing_privateMessage" time="1207024492" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="and%20use%20mine"/>
+<message type="outgoing_privateMessage" time="1207024495" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="since%20i%20am%20not"/>
+<message type="outgoing_privateMessage" time="1207024515" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="if%20you%20are%20downloading%20stuff%20right%20now"/>
+<message type="outgoing_privateMessage" time="1207024547" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="so%20instead%20of%20doing%20thumbnails%20of%20a%20video%2C%20i%20think%20i%20should%20extract%20like%20a%2030%20second%20clip%20and%20play%20that"/>
+<message type="outgoing_privateMessage" time="1207024560" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="what%20do%20you%20think%3F"/>
+<message type="outgoing_privateMessage" time="1207024576" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20am%20working%20on%20my%20project%20for%20xml%20class%20it%20has%20to%20be%20impressive"/>
+<message type="incoming_privateMessage" time="1207024979" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="sry%20was%20doing%20soming%20thing"/>
+<message type="incoming_privateMessage" time="1207025041" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="not%20sure%20how%20that%20makes%20it%20more%20xml%20fancy"/>
+<message type="outgoing_privateMessage" time="1207025054" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20am%20just%20going%20to%20display%20lots%20of%20fancy%20stuff"/>
+<message type="incoming_privateMessage" time="1207025076" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="i%20see"/>
+<message type="incoming_privateMessage" time="1207025091" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="not%20sure%20how%20ez%20that%20is%20going%20to%20be%20then"/>
+<message type="incoming_privateMessage" time="1207025095" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="with%20keyframs"/>
+<message type="incoming_privateMessage" time="1207025104" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="and%20creating%20clips"/>
+<message type="incoming_privateMessage" time="1207025110" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="and%20where%20to%20creat%20the%20clip"/>
+<message type="incoming_privateMessage" time="1207025133" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="first%2015s%20my%20be%20just%20black%20space"/>
+<message type="incoming_privateMessage" time="1207025148" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="then%20agin%20so%20may%20the%20first%20frame"/>
+<message type="outgoing_privateMessage" time="1207025153" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20was%20going%20to%20skip%203%20seconds%20then%20record%20the%20next%2015"/>
+<message type="incoming_privateMessage" time="1207025165" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="and%20that%20makes%20it%20harder"/>
+<message type="outgoing_privateMessage" time="1207025168" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20just%20think%20the%20preview%20should%20be%20the%20same%20medium%20you%20know%3F"/>
+<message type="incoming_privateMessage" time="1207025176" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="cuz%20all%20the%20video%20info%20is%20in%20the%20first%20part%20of%20the%20file"/>
+<message type="incoming_privateMessage" time="1207025185" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="so%20u%20cant%20just%20chop%20at%2015%20sec"/>
+<message type="incoming_privateMessage" time="1207025190" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ull%20have%20to%20do%20a%20reencode"/>
+<message type="outgoing_privateMessage" time="1207025211" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="yes%20i%20know%20i%20will%20have%20to%20reencode"/>
+<message type="outgoing_privateMessage" time="1207025222" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="that%20is%20what%20ffmpeg%20on%20a%20linux%20command%20line%20is%20for"/>
+<message type="incoming_privateMessage" time="1207025223" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="no%20u%20wouldnt%20for%20first%2015%20sec"/>
+<message type="incoming_privateMessage" time="1207025260" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="if%20u%20cut%20off%20the%20last%20part%20of%20the%20file%20in%20this%20case%20everything%20but%20the%20first%2015%20sec%20then%20no%20reencode%20is%20neded"/>
+<message type="outgoing_privateMessage" time="1207025273" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="don%27t%20worry%20about%20how"/>
+<message type="incoming_privateMessage" time="1207025275" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="then%20agin%20it%20will%20be%20full%20size%20and%20quality%20%2E%2E%2E%20iono%20if%20thats%20what%20u%20want"/>
+<message type="outgoing_privateMessage" time="1207025279" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="how%20is%20not%20a%20problem"/>
+<message type="incoming_privateMessage" time="1207025324" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="lots%20of%20extra%20processing%20the%20first%20time%20through%20i%20guess"/>
+<message type="incoming_privateMessage" time="1207025335" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="not%20all%20bad"/>
+<message type="incoming_privateMessage" time="1207025337" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ne%20how"/>
+<message type="incoming_privateMessage" time="1207025364" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="might%20want%20to%20do%20something%20cool%20like%2015s%20of%20vid%20for%20every%20iono%2015%20min%3F"/>
+<message type="incoming_privateMessage" time="1207025426" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="and%20on%20that%20know%20u%20ever%20used%20avs%3F"/>
+<message type="outgoing_privateMessage" time="1207025503" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="well%20i%20will%20have%20another%20view%20viewer%2C%20where%20you%20can%20play%20a%20little%20playbar%20over%20the%20thumbnail%20and%20it%20will%20start%20playing%20the%20thumbnail%20and%20when%20you%20click%20it%20will%20play%20the%20video%20from%20that%20position%20in%20a%20bigger%20area"/>
+<message type="incoming_privateMessage" time="1207026882" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="if%20there%20xvid%20vids%20you%20could%20just%20stream%20the%20vids%20with%20the%20new%20divix%20browser%20plugin"/>
+<message type="outgoing_privateMessage" time="1207026925" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20can%20make%20them%20that"/>
+<message type="incoming_privateMessage" time="1207026950" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="bascily%20if%20they%20are%20avi%27s%20in%20any%20format"/>
+<message type="outgoing_privateMessage" time="1207026954" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="but%20i%20was%20just%20going%20to%20let%20the%20user%20choose%20between%20quicktime%2C%20flash%2C%20and%20windows%20media%20player%20and%20stream%20them%20through%20that"/>
+<message type="incoming_privateMessage" time="1207026961" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="the%20new%20divix%20browser%20pluging%20could%20stream%20it%20for%20u"/>
+<message type="outgoing_privateMessage" time="1207027566" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20figure%20if%20i%20make%20some%20fancy%20displays%20along%20with%20the%20rss%20stuff%20he%20will%20want%20to%20give%20me%20more%20credit"/>
+<message type="incoming_privateMessage" time="1207027884" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="is%20this%20for%202%20weeks%20worth%20of%20stuff%3F"/>
+<message type="outgoing_privateMessage" time="1207027894" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="yes"/>
+<session type="stop" time="1207028689" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1207032390" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1207032390" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="are%20u%20going%20get%20the%20unlimited%20one"/>
+<message type="incoming_privateMessage" time="1207032396" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="cuz%20on%2010%20connections"/>
+<message type="incoming_privateMessage" time="1207032405" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="u%20can%20dl%20like%20crazy%20fast"/>
+<message type="incoming_privateMessage" time="1207032413" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="if%20i%20used%20some%20of%20you%20connections"/>
+<message type="incoming_privateMessage" time="1207032417" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="it%20wouldnt%20mater"/>
+<message type="incoming_privateMessage" time="1207032425" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="shit%20u%20can%20dl%20fast%20on%20one%20connection"/>
+<message type="outgoing_privateMessage" time="1207034012" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20have%20the%20unlimited%20downloads"/>
+<message type="outgoing_privateMessage" time="1207034019" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="that%20still%20only%20comes%20with%2010%20connections"/>
+<message type="outgoing_privateMessage" time="1207034028" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20told%20you%2C%20you%20could%20use%20some"/>
+<message type="outgoing_privateMessage" time="1207034035" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="are%20you%20download%20right%20now%3F"/>
+<message type="incoming_privateMessage" time="1207034309" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="my%20point%20was%20with%201%20connection%20i%20can%20dl%20at%20max%20speed"/>
+<message type="incoming_privateMessage" time="1207034321" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="with%2010%20i%20just%20dl%20at%20max%20speed%20a%20little%20better"/>
+<message type="incoming_privateMessage" time="1207034331" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="and%20even%20if%20i%20had%20100%20more%20it%20would%20do%20anything"/>
+<message type="outgoing_privateMessage" time="1207034354" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="ok"/>
+<message type="outgoing_privateMessage" time="1207034360" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="you%20didn%27t%20say%20that%20before"/>
+<session type="stop" time="1207034604" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1207295299" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1207295299" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="you%20havent%20by%20chance%20every%20used%20ganymed%20for%20sftp%20have%20u%3F"/>
+<message type="outgoing_privateMessage" time="1207295474" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="nope"/>
+<message type="incoming_privateMessage" time="1207295589" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="this%20is%20gay"/>
+<session type="stop" time="1207295595" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1207295606" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1207295606" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="it%20does%20everything%20but%20write%20to%20the%20file%20on%20the%20server"/>
+<message type="incoming_privateMessage" time="1207295624" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="its%20like%20im%20not%20closing%20the%20file%20in%20java%20or%20flushing%20the%20buffer%20"/>
+<message type="incoming_privateMessage" time="1207295633" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="but%20i%20didnt%20use%20a%20buffer%20and%20i%20did%20close%20everything"/>
+<message type="incoming_privateMessage" time="1207295645" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="how%20ur%20thing%20coming%3F"/>
+<message type="outgoing_privateMessage" time="1207295825" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20am%20doing%20a%20different%20project"/>
+<message type="incoming_privateMessage" time="1207295857" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="wow"/>
+<message type="incoming_privateMessage" time="1207295859" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="i%20know%20this"/>
+<session type="stop" time="1207296087" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1207299665" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1207299665" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="still%20up%3F"/>
+<message type="information_standard" time="1207300178" medium="AIM" text="You%20have%20been%20disconnected%2E%20Fri%20Apr%2004%2002%3A09%3A38%202008%2E"/>
+<status type="Offline" time="1207300178" medium="AIM" from="FJoeAZ"/>
+<session type="stop" time="1207300229" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1207785375" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1207785375" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="so%20yes%20it%20can%20save%20to%20a%20remote%20server%20%2E%2E%2E%20you%20setup%20a%20server%20and%20say%20you%20want%20to%20save%20the%20file%20there%20and%20then%20everytime%20you%20save%20the%20file%20it%20saves%20it%20on%20the%20server%20not%20sure%20how%20dw%20works%20but%20seems%20simular%20and%20i%20though%20komodo%20was%20decent%20but%20at%20the%20time%20i%20never%20throught%20to%20use%20dw%20nor%20have%20i%20tryed%20it%20so%20there%20you%20have%20it"/>
+<session type="stop" time="1207785831" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1207991804" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1207991804" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="redownload%20lifehouse"/>
+<message type="incoming_privateMessage" time="1207991814" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="merge%20your%20pod%20folders"/>
+<session type="stop" time="1207993626" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1208056776" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1208056777" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="here"/>
+<message type="information_standard" time="1208056800" medium="AIM" text="Joe%20Flieger%20is%20trying%20to%20send%20you%20%22Tag%2Eand%2ERename%2Ev3%2E4%2E6%2Erar%22%2E"/>
+<message type="incoming_privateMessage" time="1208056915" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="wow%20i%20was%20dling"/>
+<message type="incoming_privateMessage" time="1208056921" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="makes%20it%20slow%20lolz"/>
+<message type="information_standard" time="1208056963" medium="AIM" text="You%20have%20received%20C%3A%5CDocuments%20and%20Settings%5CBrian%20Cullinan%5CMy%20Documents%5CTag%2Eand%2ERename%2Ev3%2E4%2E6%2Erar%2E"/>
+<message type="outgoing_privateMessage" time="1208056978" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="thanks"/>
+<message type="incoming_privateMessage" time="1208057108" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="whats%20the%20windows%20snaping%20program%20%26amp%3B%20the%20toss%20this%20window%20over%20there%20program%3F"/>
+<message type="incoming_privateMessage" time="1208057150" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="oh%20and%20i%20ment%20to%20ask%20u"/>
+<message type="incoming_privateMessage" time="1208057188" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="do%20u%20know%20what%20a%20cue%20file%20is%20cuz%20usnet%20alot%20of%20the%20times%20has%20the%20mp%273%20with%20cue%20files"/>
+<message type="outgoing_privateMessage" time="1208057204" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="a%20cue%20file%20is%20a%20CD%20image"/>
+<message type="incoming_privateMessage" time="1208057217" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="not%20this%20file"/>
+<message type="outgoing_privateMessage" time="1208057220" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="or%20an%20image%20descriptor"/>
+<message type="incoming_privateMessage" time="1208057234" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="cue%20file%20for%20mp3%27s%20is%20like%20a%20hearder%20track%20info%20file"/>
+<message type="incoming_privateMessage" time="1208057254" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="and%20u%20cuz%20use%20the%20info%20to%20split%20the%20mp%273s%20into%20singleton%20tracks"/>
+<message type="incoming_privateMessage" time="1208057290" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ne%20how"/>
+<message type="information_standard" time="1208057342" medium="AIM" text="Joe%20Flieger%20is%20trying%20to%20send%20you%20%22cuesplitter_setup%2Eexe%22%2E"/>
+<message type="incoming_privateMessage" time="1208057352" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="this%20is%20the%20best%20one%20i%20found"/>
+<message type="incoming_privateMessage" time="1208057360" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="u%20might%20need%20it%20one%20day"/>
+<message type="outgoing_privateMessage" time="1208057365" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="why%20do%20i%20need%20that%3F"/>
+<message type="incoming_privateMessage" time="1208057376" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="so%20like%20u%20get%20this%20one%20mp3"/>
+<message type="incoming_privateMessage" time="1208057381" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="thats%20like%20200%20megs"/>
+<message type="incoming_privateMessage" time="1208057389" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="and%20its%20suposed%20to%20be%20a%20full%20cd"/>
+<message type="incoming_privateMessage" time="1208057395" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="but%20it%20comes%20with%20a%20cue%20file"/>
+<message type="incoming_privateMessage" time="1208057402" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="u%20run%20the%20cue%20file%20through%20this%20program"/>
+<message type="incoming_privateMessage" time="1208057424" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="and%20suddenly%20u%20have%2020%2010%20meg%20files%20one%20for%20each%20track"/>
+<message type="incoming_privateMessage" time="1208057431" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="all%20split%20at%20the%20right%20point"/>
+<message type="outgoing_privateMessage" time="1208057562" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20think%20i%27ll%20be%20ok"/>
+<message type="incoming_privateMessage" time="1208057703" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="i%20dled%20like%2010%20diffrnt%20progams%20"/>
+<message type="incoming_privateMessage" time="1208057713" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="and%20thats%20the%20only%20one%20that%20worked%20right%20%2F%20good"/>
+<message type="outgoing_privateMessage" time="1208057818" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="can%27t%20you%20just%20mount%20the%20cue%20file%3F"/>
+<message type="incoming_privateMessage" time="1208057839" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="hmm%20adent%20thought%20of%20that%20it%20might%20work"/>
+<message type="outgoing_privateMessage" time="1208057854" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="so%20we%20need%20to%20trade%20libraries"/>
+<message type="incoming_privateMessage" time="1208057859" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ne%20how"/>
+<message type="incoming_privateMessage" time="1208057860" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="um"/>
+<message type="outgoing_privateMessage" time="1208057864" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20am%20going%20to%20review%20my%20media%20comarer%20program"/>
+<message type="outgoing_privateMessage" time="1208057869" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="%2Acomparer"/>
+<message type="outgoing_privateMessage" time="1208057877" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="then%20i%20will%20have%20you%20run%20it"/>
+<message type="incoming_privateMessage" time="1208057885" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="the%20window%20snap%20to%20program%20and%20the%20toss%20that%20window%20to%20that%20monitor%20program%3F"/>
+<message type="outgoing_privateMessage" time="1208057885" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="and%20see%20if%20it%20works%20ok"/>
+<message type="incoming_privateMessage" time="1208057913" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="its%20going%20to%20be%20a%20while%20before%20im%20rdy%20for%20that"/>
+<message type="incoming_privateMessage" time="1208057920" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="70gigs%20is%20well%20orginzed"/>
+<message type="outgoing_privateMessage" time="1208057925" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="then%20i%20will%20make%20some%20changes%20probably%2C%20then%20we%20will%20run%20it%20again%20on%20our%20systems%20to%20get%20the%20actual%20difference%20file"/>
+<message type="incoming_privateMessage" time="1208057930" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="where%20as%2065%20gigs%20is%20not%20at%20all"/>
+<message type="outgoing_privateMessage" time="1208057937" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="you%20should%20get%20on%20that"/>
+<message type="incoming_privateMessage" time="1208057952" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="thats%20why%20i%20was%20like%20wow"/>
+<message type="outgoing_privateMessage" time="1208057953" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="doesn%27t%20tag%20and%20rename%20make%20it%20easy%3F"/>
+<message type="incoming_privateMessage" time="1208057954" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="no"/>
+<message type="incoming_privateMessage" time="1208057956" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="holy%20shit"/>
+<status type="Offline" time="1208058043" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1208058043" medium="AIM" text="%22Joe%20Flieger%22%20signed%20off%20at%20Sat%20Apr%2012%2020%3A40%3A43%202008%2E"/>
+<status type="online" time="1208058471" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1208058471" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sat%20Apr%2012%2020%3A47%3A51%202008%2E"/>
+<message type="outgoing_privateMessage" time="1208058481" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="get%20organizing"/>
+<message type="outgoing_privateMessage" time="1208058490" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="doesn%27t%20tag%20and%20rename%20make%20it%20easy%3F"/>
+<message type="incoming_privateMessage" time="1208058504" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ya%20bet%20its%2065%20gigs"/>
+<message type="incoming_privateMessage" time="1208058516" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%2Abut"/>
+<message type="incoming_privateMessage" time="1208058528" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="um%20i%20had%20to%20restart"/>
+<message type="incoming_privateMessage" time="1208058555" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="the%20window%20snap%20to%20program%20and%20the%20toss%20that%20window%20to%20that%20monitor%20program%3F"/>
+<message type="incoming_privateMessage" time="1208058562" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="dont%20make%20me%20ask%20agin%20%3F"/>
+<message type="incoming_privateMessage" time="1208058564" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="lolz"/>
+<message type="outgoing_privateMessage" time="1208058599" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="sorry"/>
+<message type="outgoing_privateMessage" time="1208058603" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="allSnap"/>
+<message type="outgoing_privateMessage" time="1208058606" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="and%20Ultramon"/>
+<message type="outgoing_privateMessage" time="1208058623" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="Ultramon%20is%20shareware"/>
+<message type="outgoing_privateMessage" time="1208058728" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20am%20looking%20for%20an%20ultramon%20alternative%20because%20it%20kind%20of%20sucks"/>
+<message type="incoming_privateMessage" time="1208058784" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="the%20windo%20tosser%3F"/>
+<message type="outgoing_privateMessage" time="1208058789" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="yeah"/>
+<message type="incoming_privateMessage" time="1208058790" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="or%20does%20it%20do%20other%20things%20too%3F"/>
+<message type="outgoing_privateMessage" time="1208058802" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="multi%20desktop%20wallpapering"/>
+<message type="outgoing_privateMessage" time="1208058809" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="streatching%20the%20task%20bar"/>
+<message type="incoming_privateMessage" time="1208058832" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ya%20i%20just%20want%20the%20added%20menubar%20buttons"/>
+<message type="incoming_privateMessage" time="1208058853" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="i%20think%20nvida%20does%20that%20allread%20anyhow"/>
+<message type="incoming_privateMessage" time="1208058858" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="but%20its%20not%20just%20a%20button"/>
+<message type="outgoing_privateMessage" time="1208058885" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="you%20can%20also%20do%20a%20hotkey"/>
+<session type="stop" time="1208059168" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1208997138" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1208997138" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="slacker%20pay%20attenction"/>
+<message type="incoming_privateMessage" time="1208997206" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="dont%20denie%20it"/>
+<session type="stop" time="1208997278" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1209009802" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1209009802" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="give%20it%20back%20fag"/>
+<message type="incoming_privateMessage" time="1209009807" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="fsafs"/>
+<message type="incoming_privateMessage" time="1209009807" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="f"/>
+<message type="incoming_privateMessage" time="1209009808" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="f"/>
+<message type="incoming_privateMessage" time="1209009808" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="d"/>
+<message type="incoming_privateMessage" time="1209009808" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="d"/>
+<message type="incoming_privateMessage" time="1209009809" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="df"/>
+<message type="incoming_privateMessage" time="1209009809" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="a"/>
+<message type="incoming_privateMessage" time="1209009809" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="dfa"/>
+<message type="incoming_privateMessage" time="1209009810" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="da"/>
+<message type="incoming_privateMessage" time="1209009810" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="dfa"/>
+<message type="incoming_privateMessage" time="1209009810" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ad"/>
+<message type="incoming_privateMessage" time="1209009813" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="f"/>
+<message type="incoming_privateMessage" time="1209009816" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="lolz"/>
+<message type="incoming_privateMessage" time="1209009821" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="your%20not%20looking"/>
+<message type="incoming_privateMessage" time="1209009823" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="give%20it%20back%20now%21"/>
+<message type="incoming_privateMessage" time="1209009830" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="if%20u%20dont%20ill%20kick%20you%20in%20the%20balls"/>
+<message type="incoming_privateMessage" time="1209009853" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="df"/>
+<message type="incoming_privateMessage" time="1209009854" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ad"/>
+<message type="incoming_privateMessage" time="1209009854" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="fd"/>
+<message type="incoming_privateMessage" time="1209009854" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="fda"/>
+<message type="incoming_privateMessage" time="1209009854" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="f"/>
+<message type="incoming_privateMessage" time="1209009855" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="df"/>
+<message type="incoming_privateMessage" time="1209009855" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="sa"/>
+<message type="incoming_privateMessage" time="1209009855" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="afs"/>
+<message type="incoming_privateMessage" time="1209009855" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="asf"/>
+<message type="incoming_privateMessage" time="1209009856" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="afs"/>
+<message type="incoming_privateMessage" time="1209009856" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="fas"/>
+<message type="incoming_privateMessage" time="1209009856" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="sfa"/>
+<message type="incoming_privateMessage" time="1209009856" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="fsa"/>
+<message type="incoming_privateMessage" time="1209009857" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="d"/>
+<message type="incoming_privateMessage" time="1209009867" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="fss"/>
+<session type="stop" time="1209009885" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1209537562" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1209537563" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="sry%20msn%20is%20allways%20realy%20slow"/>
+<message type="outgoing_privateMessage" time="1209537571" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="yeah"/>
+<message type="incoming_privateMessage" time="1209537574" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="wow%20this%20upload%20blows"/>
+<message type="incoming_privateMessage" time="1209537577" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="i%20should%20be%20geting%2060k"/>
+<message type="incoming_privateMessage" time="1209537592" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="did%20u%20watching%20the%20video%3F"/>
+<message type="outgoing_privateMessage" time="1209537617" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20will"/>
+<message type="outgoing_privateMessage" time="1209537618" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="jeese"/>
+<message type="information_standard" time="1209537671" medium="AIM" text="You%20have%20received%20users%5Cdefault%5Cdownloads%5CAIM%5Cbjcullinan%5Cdist%2Erar%2E"/>
+<message type="incoming_privateMessage" time="1209537960" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="did%20u%20play%20my%20game%20or%20watch%20my%20movie"/>
+<message type="outgoing_privateMessage" time="1209539193" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="not%20yet"/>
+<message type="incoming_privateMessage" time="1209540239" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="u%20seem%20busy%20yet%20u%20took%20the%20time%20to%20just%20see%20how%20things%20are%20going%20with%20me%3F"/>
+<message type="incoming_privateMessage" time="1209540248" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%3AP"/>
+<message type="outgoing_privateMessage" time="1209542137" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20am%20busy"/>
+<session type="stop" time="1209544502" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1209585959" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1209585959" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="is%20there%20class%20today%3F"/>
+<message type="outgoing_privateMessage" time="1209587824" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20believe%20so"/>
+<session type="stop" time="1209588297" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1209679009" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1209679010" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="busy%3F"/>
+<message type="outgoing_privateMessage" time="1209679016" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="a%20little"/>
+<message type="outgoing_privateMessage" time="1209679019" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="what%20is%20up%3F"/>
+<message type="incoming_privateMessage" time="1209679029" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="had%20a%20q%20on%20the%20last%20assignment%20for%20xml"/>
+<message type="outgoing_privateMessage" time="1209679080" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="what%27s%20up%3F"/>
+<message type="incoming_privateMessage" time="1209679092" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="i%20created%20a%20webservce%20and%20a%20webserviceclient%20and%20a%20java%20class%20for%20the%20client%20and%20a%20gui%20for%20that%20class"/>
+<message type="incoming_privateMessage" time="1209679117" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="but%20it%20seems%20like%20to%20me%20that%20i%20am%20missing%20something%20like%20a%20connect%20and%20disconnect"/>
+<message type="outgoing_privateMessage" time="1209679141" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20am%20in%20105"/>
+<message type="incoming_privateMessage" time="1209679148" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="im%20at%20home"/>
+<message type="incoming_privateMessage" time="1209679150" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="lolz"/>
+<message type="incoming_privateMessage" time="1209679179" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="should%20i%20just%20come%20down%3F"/>
+<message type="outgoing_privateMessage" time="1209679266" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="yeah"/>
+<message type="incoming_privateMessage" time="1209679275" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ok%20ur%20going%20be%20rnd%20cuz%20im%20leaveing%20now"/>
+<message type="incoming_privateMessage" time="1209679278" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%3F"/>
+<message type="outgoing_privateMessage" time="1209679288" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%27ll%20be%20here"/>
+<session type="stop" time="1209679292" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1209680389" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1209680389" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ok%20im%20here"/>
+<session type="stop" time="1209680696" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1209682436" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1209682436" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="thx%20for%20the%20help"/>
+<message type="incoming_privateMessage" time="1209682455" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%3A%29"/>
+<session type="stop" time="1209682491" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1209689085" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1209689085" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="didnt%20want%20aim%20to%20miss%20out%20on%20the%20love%20%2E%2E%2E"/>
+<message type="outgoing_privateMessage" time="1209689097" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="damnit"/>
+<session type="stop" time="1209689106" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1209786984" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1209786984" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="you%20doing%20another%20bsg%20party%3F"/>
+<message type="outgoing_privateMessage" time="1209788530" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="yeah"/>
+<message type="incoming_privateMessage" time="1209788546" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="the%20show%20starts%20in%20like%2010%20min%20doesnt%20it%3F"/>
+<message type="outgoing_privateMessage" time="1209788554" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="started%20at%209"/>
+<message type="incoming_privateMessage" time="1209788572" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="i%20thought%20i%20came%20on%20at%20930%20for%20u"/>
+<session type="stop" time="1209790374" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1209810670" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1209810670" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="u%20up%3F"/>
+<message type="information_standard" time="1209815251" medium="AIM" text="You%20have%20been%20disconnected%2E%20Sat%20May%2003%2004%3A47%3A31%202008%2E"/>
+<status type="Offline" time="1209815251" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1209815271" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1209815271" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sat%20May%2003%2004%3A47%3A51%202008%2E"/>
+<session type="stop" time="1209844864" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1209996152" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1209996152" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="when%20are%20we%20meeting%20up%3F"/>
+<session type="stop" time="1210003230" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1210042681" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1210042681" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="when%20are%20we%20meeting%20for%20xml%20and%20prince%3F"/>
+<message type="information_standard" time="1210043086" medium="AIM" text="You%20have%20been%20disconnected%2E%20Mon%20May%2005%2020%3A04%3A46%202008%2E"/>
+<status type="Offline" time="1210043086" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1210043101" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1210043101" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Mon%20May%2005%2020%3A05%3A01%202008%2E"/>
+<session type="stop" time="1210045369" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1215561814" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1215561814" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="trying%20here"/>
+<message type="information_standard" time="1215561818" medium="AIM" text="Joe%20Flieger%20is%20trying%20to%20send%20you%20%22SuperCopier2beta1%2D9%2Eexe%22%2E"/>
+<message type="information_standard" time="1215561856" medium="AIM" text="You%20have%20received%20users%5Cdefault%5Cdownloads%5CAIM%5Cbjcullinan%5CSuperCopier2beta1%2D9%2Eexe%2E"/>
+<message type="incoming_privateMessage" time="1215561862" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="there%20ya%20go"/>
+<message type="incoming_privateMessage" time="1215561868" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="its%20for%20file%20transfures"/>
+<message type="incoming_privateMessage" time="1215561874" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="replaces%20the%20windows%20one"/>
+<session type="stop" time="1215565204" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1218076356" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1218076356" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="you%3F"/>
+<message type="information_standard" time="1218102496" medium="AIM" text="You%20have%20been%20disconnected%2E%20Thu%20Aug%2007%2002%3A48%3A16%202008%2E"/>
+<status type="Offline" time="1218102496" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218102508" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218102508" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Thu%20Aug%2007%2002%3A48%3A28%202008%2E"/>
+<message type="information_standard" time="1218104274" medium="AIM" text="You%20have%20been%20disconnected%2E%20Thu%20Aug%2007%2003%3A17%3A54%202008%2E"/>
+<status type="Offline" time="1218104274" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218104306" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218104306" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Thu%20Aug%2007%2003%3A18%3A26%202008%2E"/>
+<message type="information_standard" time="1218105171" medium="AIM" text="You%20have%20been%20disconnected%2E%20Thu%20Aug%2007%2003%3A32%3A51%202008%2E"/>
+<status type="Offline" time="1218105171" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218105197" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218105197" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Thu%20Aug%2007%2003%3A33%3A17%202008%2E"/>
+<message type="information_standard" time="1218122082" medium="AIM" text="You%20have%20been%20disconnected%2E%20Thu%20Aug%2007%2008%3A14%3A42%202008%2E"/>
+<status type="Offline" time="1218122082" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218122093" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218122093" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Thu%20Aug%2007%2008%3A14%3A53%202008%2E"/>
+<message type="information_standard" time="1218134539" medium="AIM" text="You%20have%20been%20disconnected%2E%20Thu%20Aug%2007%2011%3A42%3A19%202008%2E"/>
+<status type="Offline" time="1218134539" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218134548" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218134548" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Thu%20Aug%2007%2011%3A42%3A28%202008%2E"/>
+<message type="information_standard" time="1218184377" medium="AIM" text="You%20have%20been%20disconnected%2E%20Fri%20Aug%2008%2001%3A32%3A57%202008%2E"/>
+<status type="Offline" time="1218184377" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218184397" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218184397" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Fri%20Aug%2008%2001%3A33%3A17%202008%2E"/>
+<message type="information_standard" time="1218190603" medium="AIM" text="You%20have%20been%20disconnected%2E%20Fri%20Aug%2008%2003%3A16%3A43%202008%2E"/>
+<status type="Offline" time="1218190603" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218190614" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218190614" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Fri%20Aug%2008%2003%3A16%3A54%202008%2E"/>
+<message type="information_standard" time="1218192381" medium="AIM" text="You%20have%20been%20disconnected%2E%20Fri%20Aug%2008%2003%3A46%3A21%202008%2E"/>
+<status type="Offline" time="1218192381" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218192391" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218192391" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Fri%20Aug%2008%2003%3A46%3A31%202008%2E"/>
+<message type="information_standard" time="1218195059" medium="AIM" text="You%20have%20been%20disconnected%2E%20Fri%20Aug%2008%2004%3A30%3A59%202008%2E"/>
+<status type="Offline" time="1218195059" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218195069" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218195069" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Fri%20Aug%2008%2004%3A31%3A09%202008%2E"/>
+<message type="information_standard" time="1218203976" medium="AIM" text="You%20have%20been%20disconnected%2E%20Fri%20Aug%2008%2006%3A59%3A36%202008%2E"/>
+<status type="Offline" time="1218203976" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218203987" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218203987" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Fri%20Aug%2008%2006%3A59%3A47%202008%2E"/>
+<message type="information_standard" time="1218241334" medium="AIM" text="You%20have%20been%20disconnected%2E%20Fri%20Aug%2008%2017%3A22%3A14%202008%2E"/>
+<status type="Offline" time="1218241334" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218241344" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218241344" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Fri%20Aug%2008%2017%3A22%3A24%202008%2E"/>
+<message type="information_standard" time="1218243111" medium="AIM" text="You%20have%20been%20disconnected%2E%20Fri%20Aug%2008%2017%3A51%3A51%202008%2E"/>
+<status type="Offline" time="1218243111" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218243136" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218243136" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Fri%20Aug%2008%2017%3A52%3A16%202008%2E"/>
+<message type="information_standard" time="1218244003" medium="AIM" text="You%20have%20been%20disconnected%2E%20Fri%20Aug%2008%2018%3A06%3A43%202008%2E"/>
+<status type="Offline" time="1218244003" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218244033" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218244033" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Fri%20Aug%2008%2018%3A07%3A13%202008%2E"/>
+<message type="information_standard" time="1218276038" medium="AIM" text="You%20have%20been%20disconnected%2E%20Sat%20Aug%2009%2003%3A00%3A38%202008%2E"/>
+<status type="Offline" time="1218276038" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218276065" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218276065" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sat%20Aug%2009%2003%3A01%3A05%202008%2E"/>
+<message type="information_standard" time="1218282271" medium="AIM" text="You%20have%20been%20disconnected%2E%20Sat%20Aug%2009%2004%3A44%3A31%202008%2E"/>
+<status type="Offline" time="1218282271" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218282281" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218282281" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sat%20Aug%2009%2004%3A44%3A41%202008%2E"/>
+<message type="information_standard" time="1218284048" medium="AIM" text="You%20have%20been%20disconnected%2E%20Sat%20Aug%2009%2005%3A14%3A08%202008%2E"/>
+<status type="Offline" time="1218284048" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218284067" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218284067" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sat%20Aug%2009%2005%3A14%3A27%202008%2E"/>
+<message type="information_standard" time="1218291173" medium="AIM" text="You%20have%20been%20disconnected%2E%20Sat%20Aug%2009%2007%3A12%3A53%202008%2E"/>
+<status type="Offline" time="1218291173" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218291184" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218291184" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sat%20Aug%2009%2007%3A13%3A04%202008%2E"/>
+<message type="information_standard" time="1218320130" medium="AIM" text="You%20have%20been%20disconnected%2E%20Sat%20Aug%2009%2015%3A15%3A30%202008%2E"/>
+<status type="Offline" time="1218320130" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218320488" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218320488" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sat%20Aug%2009%2015%3A21%3A28%202008%2E"/>
+<message type="information_standard" time="1218359694" medium="AIM" text="You%20have%20been%20disconnected%2E%20Sun%20Aug%2010%2002%3A14%3A54%202008%2E"/>
+<status type="Offline" time="1218359694" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218359715" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218359715" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sun%20Aug%2010%2002%3A15%3A15%202008%2E"/>
+<message type="information_standard" time="1218360580" medium="AIM" text="You%20have%20been%20disconnected%2E%20Sun%20Aug%2010%2002%3A29%3A40%202008%2E"/>
+<status type="Offline" time="1218360580" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218360608" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218360608" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sun%20Aug%2010%2002%3A30%3A08%202008%2E"/>
+<message type="information_standard" time="1218366816" medium="AIM" text="You%20have%20been%20disconnected%2E%20Sun%20Aug%2010%2004%3A13%3A36%202008%2E"/>
+<status type="Offline" time="1218366816" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218366826" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218366826" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sun%20Aug%2010%2004%3A13%3A46%202008%2E"/>
+<message type="information_standard" time="1218373933" medium="AIM" text="You%20have%20been%20disconnected%2E%20Sun%20Aug%2010%2006%3A12%3A13%202008%2E"/>
+<status type="Offline" time="1218373933" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218373945" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218373945" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sun%20Aug%2010%2006%3A12%3A25%202008%2E"/>
+<message type="information_standard" time="1218388193" medium="AIM" text="You%20have%20been%20disconnected%2E%20Sun%20Aug%2010%2010%3A09%3A53%202008%2E"/>
+<status type="Offline" time="1218388193" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218388202" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218388202" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sun%20Aug%2010%2010%3A10%3A02%202008%2E"/>
+<message type="information_standard" time="1218389071" medium="AIM" text="You%20have%20been%20disconnected%2E%20Sun%20Aug%2010%2010%3A24%3A31%202008%2E"/>
+<status type="Offline" time="1218389071" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218389081" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218389081" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sun%20Aug%2010%2010%3A24%3A41%202008%2E"/>
+<message type="information_standard" time="1218390848" medium="AIM" text="You%20have%20been%20disconnected%2E%20Sun%20Aug%2010%2010%3A54%3A08%202008%2E"/>
+<status type="Offline" time="1218390848" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218390859" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218390859" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sun%20Aug%2010%2010%3A54%3A19%202008%2E"/>
+<message type="information_standard" time="1218403305" medium="AIM" text="You%20have%20been%20disconnected%2E%20Sun%20Aug%2010%2014%3A21%3A45%202008%2E"/>
+<status type="Offline" time="1218403305" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218403317" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218403317" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sun%20Aug%2010%2014%3A21%3A57%202008%2E"/>
+<message type="information_standard" time="1218415762" medium="AIM" text="You%20have%20been%20disconnected%2E%20Sun%20Aug%2010%2017%3A49%3A22%202008%2E"/>
+<status type="Offline" time="1218415762" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218415774" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218415774" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sun%20Aug%2010%2017%3A49%3A34%202008%2E"/>
+<message type="information_standard" time="1218422879" medium="AIM" text="You%20have%20been%20disconnected%2E%20Sun%20Aug%2010%2019%3A47%3A59%202008%2E"/>
+<status type="Offline" time="1218422879" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218422890" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218422890" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sun%20Aug%2010%2019%3A48%3A10%202008%2E"/>
+<message type="information_standard" time="1218424656" medium="AIM" text="You%20have%20been%20disconnected%2E%20Sun%20Aug%2010%2020%3A17%3A36%202008%2E"/>
+<status type="Offline" time="1218424656" medium="AIM" from="FJoeAZ"/>
+<status type="online" time="1218424669" medium="AIM" from="FJoeAZ"/>
+<message type="information_standard" time="1218424669" medium="AIM" text="%22Joe%20Flieger%22%20signed%20on%20at%20Sun%20Aug%2010%2020%3A17%3A49%202008%2E"/>
+<session type="stop" time="1218439306" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1220674658" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1220674663" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20am%20going%20to%20be%20called%20back"/>
+<message type="incoming_privateMessage" time="1220674704" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="im%20going%20to%20ryan%20rob%27s"/>
+<message type="incoming_privateMessage" time="1220674713" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="drop%20off%20his%20dremel"/>
+<message type="outgoing_privateMessage" time="1220674722" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="invite%20him%20over%20here"/>
+<message type="incoming_privateMessage" time="1220674725" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="so%20text%20me%20or%20call%20me%20if%20im%20not%20back"/>
+<message type="incoming_privateMessage" time="1220674764" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="ill%20call%20you%20when%20i%20get%20there%20im%20guessing%20hes%20not%20going%20want%20to%20just%20hang%20out%20with%202%20ppl%20but%20will%20see"/>
+<session type="stop" time="1220676188" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1222070489" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1222070489" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20over%20here"/>
+<message type="information_standard" time="1222070494" medium="AIM" text="Joe%20Flieger%20is%20trying%20to%20send%20you%20%22dia%2EJPG%22%2E"/>
+<message type="information_standard" time="1222070495" medium="AIM" text="You%20have%20received%20users%5Cdefault%5Cdownloads%5CAIM%5Cbjcullinan%5Cdia%2EJPG%2E"/>
+<message type="incoming_privateMessage" time="1222070524" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20a%3D%20first%20sentance%20b%3Dsecond%20sentance%20c%3Danswer"/>
+<message type="incoming_privateMessage" time="1222070548" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20gimi%20ur%20nubers%20so%20i%20can%20be%20sure%20thats%20right%3F"/>
+<message type="outgoing_privateMessage" time="1222070664" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="160%20cm%2C%20125%20degrees%2C%20138%20cm%2C%2040%20degrees"/>
+<message type="incoming_privateMessage" time="1222070675" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20ya%20thats%20about%20right"/>
+<message type="outgoing_privateMessage" time="1222070684" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="so%20we%20are%20calculating%20b%3F"/>
+<message type="incoming_privateMessage" time="1222070692" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20no"/>
+<message type="outgoing_privateMessage" time="1222070695" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="c%3F"/>
+<message type="incoming_privateMessage" time="1222070704" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20160%2C125%20%3D%20a"/>
+<message type="incoming_privateMessage" time="1222070710" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20138%2C40%20%3D%20b"/>
+<message type="incoming_privateMessage" time="1222070719" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20so%20ya%20c"/>
+<message type="outgoing_privateMessage" time="1222070731" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="hmmm"/>
+<message type="incoming_privateMessage" time="1222070739" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20so%20you%20break%20a%20into%20x%20and%20y"/>
+<message type="incoming_privateMessage" time="1222070745" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20you%20break%20b%20into%20x%20and%20y"/>
+<message type="incoming_privateMessage" time="1222070751" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20a%20%2B%20b%20%3D%20c"/>
+<message type="outgoing_privateMessage" time="1222070765" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="ok"/>
+<message type="incoming_privateMessage" time="1222070780" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20not%20excatly%20but%20u%20just%20ignore%20the%20%2Dx%20value%20for%20a"/>
+<message type="incoming_privateMessage" time="1222070789" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20and%20sub%20the%20y%20values"/>
+<message type="outgoing_privateMessage" time="1222070801" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="ok"/>
+<message type="incoming_privateMessage" time="1222070810" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20so%20its%20like%20i%20said%20c%20%3D%20a%20%2D%20b"/>
+<message type="incoming_privateMessage" time="1222070836" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20but%20it%20doesnt%20mater%20if%20u%20just%20find%20raw%20size%20values%20and%20just%20add%20or%20sub%20so%20they%20fight%20the%20pic%20right"/>
+<message type="incoming_privateMessage" time="1222070840" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20you%20should%20be%20fine"/>
+<message type="incoming_privateMessage" time="1222070850" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20then%20you%20should%20get%20a%20x%20and%20y%20for%20c"/>
+<message type="incoming_privateMessage" time="1222070907" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20once%20u%20got%20that%20u%20covert%20back%20and%20if%20u%20need%20help%20with%20any%20of%20if%20along%20the%20way%20let%20me%20know%20or%20even%20converting%20back"/>
+<message type="outgoing_privateMessage" time="1222072716" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="got%20it"/>
+<message type="outgoing_privateMessage" time="1222072718" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="all%20done%21"/>
+<message type="outgoing_privateMessage" time="1222072724" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="thanks%20for%20the%20help%20again"/>
+<message type="incoming_privateMessage" time="1222072730" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20nite"/>
+<message type="outgoing_privateMessage" time="1222072736" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="nite"/>
+<session type="stop" time="1222072747" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1224386996" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1224386996" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="wtf%20"/>
+<message type="information_standard" time="1224386998" medium="AIM" text="Joe%20Flieger%20is%20trying%20to%20send%20you%20%22cuesplitter_setup%2Eexe%22%2E"/>
+<message type="information_standard" time="1224387000" medium="AIM" text="Joe%20Flieger%20is%20trying%20to%20send%20you%20%22cuesplitter_setup%2Eexe%22%2E"/>
+<message type="information_standard" time="1224387002" medium="AIM" text="Joe%20Flieger%20is%20trying%20to%20send%20you%20%22cuesplitter_setup%2Eexe%22%2E"/>
+<message type="incoming_privateMessage" time="1224387005" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="wow%20"/>
+<session type="stop" time="1224387011" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1224387028" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1224387028" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%20omg"/>
+<message type="outgoing_privateMessage" time="1224387044" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="it%27s%20not%20going%20to%20fucking%20wort"/>
+<message type="outgoing_privateMessage" time="1224387049" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="%2Awork"/>
+<message type="outgoing_privateMessage" time="1224387050" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="stop%20it"/>
+<session type="stop" time="1224387053" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1224387054" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1224387054" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="i%20did%20"/>
+<session type="stop" time="1224387057" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1224489991" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="stop" time="1224489997" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1228243077" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1228243080" medium="AIM" to="FJoeAZ" from="bjcullinan" from_display="Brian%20Cullinan" text="Wake%20up%21"/>
+<session type="stop" time="1228243082" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="start" time="1228606750" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1228606750" medium="AIM" to="bjcullinan" from="FJoeAZ" from_display="Joe%20Flieger" text="%3Ca%20href%3D%22http%3A%2F%2Fpacs%2Epe%2Ekr%2Ftechdoc%2Fdicom%2Ephp%23developers%22%3Ehttp%3A%2F%2Fpacs%2Epe%2Ekr%2Ftechdoc%2Fdicom%2Ephp%23developers%3C%2Fa%3E"/>
+<message type="information_standard" time="1228606807" medium="AIM" text="Joe%20Flieger%20is%20trying%20to%20send%20you%20%22DICOM%2Ezip%22%2E"/>
+<message type="information_standard" time="1228606816" medium="AIM" text="You%20have%20received%20users%5Cdefault%5Cdownloads%5CAIM%5Cbjcullinan%5CDICOM%2Ezip%2E"/>
+<message type="information_standard" time="1228607989" medium="AIM" text="Joe%20Flieger%20is%20trying%20to%20send%20you%20%227NAEXW1O%22%2E"/>
+<message type="information_standard" time="1228607995" medium="AIM" text="You%20have%20received%20users%5Cdefault%5Cdownloads%5CAIM%5Cbjcullinan%5C7NAEXW1O%2E"/>
+<icon time="1244544223" medium="AIM" from="fjoeaz" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfjoeaz%2D1244544223%2Ejpg"/>
+<icon time="1244668997" medium="AIM" from="fjoeaz" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfjoeaz%2D1244668996%2Ejpg"/>
+<icon time="1244692842" medium="AIM" from="fjoeaz" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfjoeaz%2D1244692842%2Ejpg"/>
+<icon time="1245019927" medium="AIM" from="fjoeaz" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfjoeaz%2D1245019927%2Ejpg"/>
+<icon time="1245045522" medium="AIM" from="fjoeaz" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfjoeaz%2D1245045521%2Ejpg"/>
+<icon time="1245384647" medium="AIM" from="fjoeaz" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfjoeaz%2D1245384647%2Ejpg"/>
+<icon time="1245621172" medium="AIM" from="fjoeaz" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfjoeaz%2D1245621172%2Ejpg"/>
+<icon time="1245875449" medium="AIM" from="fjoeaz" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfjoeaz%2D1245875449%2Ejpg"/>
+<icon time="1245971742" medium="AIM" from="fjoeaz" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfjoeaz%2D1245971742%2Ejpg"/>
+<icon time="1246507202" medium="AIM" from="fjoeaz" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfjoeaz%2D1246507202%2Ejpg"/>
+<session type="start" time="1246606598" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<session type="stop" time="1246606599" medium="AIM" to="FJoeAZ" from="bjcullinan"/>
+<icon time="1246730823" medium="AIM" from="fjoeaz" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfjoeaz%2D1246730823%2Ejpg"/>
+<icon time="1246980898" medium="AIM" from="fjoeaz" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfjoeaz%2D1246980898%2Ejpg"/>
+<icon time="1247194005" medium="AIM" from="fjoeaz" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dfjoeaz%2D1247194005%2Ejpg"/>
+<icon time="1248979725" medium="AIM" from="FJoeAZ" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DFJoeAZ%2D1248979725%2Egif"/>
+<icon time="1250406453" medium="AIM" from="FJoeAZ" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DFJoeAZ%2D1250406453%2Ejpg"/>

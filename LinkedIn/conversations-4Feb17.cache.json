@@ -1,0 +1,29 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "4Feb17",
+    "participants": "Carey Ransom | Chief Product Officer at Experian Consumer Services > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Carey Ransom",
+        "url": "linkedin.com/in/careyransom",
+        "email": "carey@ransomholdings.com",
+        "title": "Chief Product Officer at Experian Consumer Services"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Nice to connect with you, too, Brian",
+    "time": "2017-02-04T02:53:00.000Z",
+    "title": "Chief Product Officer at Experian Consumer Services"
+  }
+]

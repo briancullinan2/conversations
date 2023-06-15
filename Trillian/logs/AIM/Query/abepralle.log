@@ -1,0 +1,520 @@
+﻿Session Start (bjcullinan:Abe Pralle): Thu Feb 28 23:31:48 2008
+[02/28/2008 11:32:20 PM] Brian Cullinan: Is there an easy way of converting primitives to bits and/or sending it to a bitwriter and having it write out the full length?
+[02/28/2008 11:33:26 PM] *** "Abe Pralle" signed off at Thu Feb 28 23:33:26 2008.
+[02/28/2008 11:34:46 PM] *** "Abe Pralle" signed on at Thu Feb 28 23:34:46 2008.
+[02/28/2008 11:35:34 PM] Brian Cullinan: Are you there?
+[02/28/2008 11:36:06 PM] Abe Pralle: Sup
+[02/28/2008 11:36:10 PM] Brian Cullinan: Is there an easy way of converting primitives to bits and/or sending it to a bitwriter and having it write out the full length?
+[02/28/2008 11:36:53 PM] Brian Cullinan: Or is there a section that explains the functions that can be performed on primitives in more detail?
+[02/28/2008 11:40:18 PM] Abe Pralle: Just the BitWriter should do the trick:
+ Integers: write( n, 8/16/32/64 )
+ Reals: write( as_Int32( r32 ), 32 ) or write( as_Int64( r64 ), 32 )
+ Booleans: write( 1 ) or write( 0 )
+[02/28/2008 11:41:03 PM] Brian Cullinan: I may have figured it out, i was doing a write on a file writer, when I needed to init: the BitWriter with a filewriter
+[02/28/2008 11:41:08 PM] Brian Cullinan: i think it will work now
+[02/28/2008 11:41:20 PM] Abe Pralle: cool
+[02/28/2008 11:43:17 PM] Brian Cullinan: I am writing a serializer for each different recorded events
+[02/28/2008 11:43:23 PM] Brian Cullinan: should make for a lot smaller files
+[02/29/2008 12:00:12 AM] Brian Cullinan: Doesn't seem to be writing the correct value, it just writes zeroes with 0d0a on the end of the file.
+Session Close (Abe Pralle): Fri Feb 29 00:04:15 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Fri Feb 29 00:11:34 2008
+[02/29/2008 12:11:34 AM] Abe Pralle: That's a LFCR or \n \r
+[02/29/2008 12:13:09 AM] Brian Cullinan: looks like when i use write_low_high it outputs the correct value in reverse obviously, but when i use the general write (high_low) is doesn't output the integer at all.  Is this an error, or am i doing something wrong?
+[02/29/2008 12:17:04 AM] Abe Pralle: write_low_high calls general write() as its definition, so it's definitely working
+[02/29/2008 12:18:10 AM] Abe Pralle: Are you making sure to close() the file after writing?
+[02/29/2008 12:18:15 AM] Brian Cullinan: Yes
+[02/29/2008 12:18:33 AM] Brian Cullinan: It outputs lots of zeros then the LFCR
+[02/29/2008 12:19:38 AM] Brian Cullinan: it prints out the correct number of zeros, but no value
+[02/29/2008 12:20:41 AM] Brian Cullinan: Maybe i should e-mail you the game i created just for testing this.
+[02/29/2008 12:21:36 AM] Abe Pralle: hmm, I'm getting something similar...
+[02/29/2008 12:22:00 AM] Brian Cullinan: well that's good
+[02/29/2008 12:22:44 AM] Brian Cullinan: well i broke my entire game to implement this new binary recording method with serialization, so it's not like i can fix it tonight
+[02/29/2008 12:22:47 AM] Brian Cullinan: time for bed
+[02/29/2008 12:22:50 AM] Brian Cullinan: good night
+Session Close (Abe Pralle): Fri Feb 29 00:26:32 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Fri Feb 29 00:26:48 2008
+[02/29/2008 12:27:26 AM] Brian Cullinan: Let me know if you figure anything out, otherwise i will just have to keep using the low_high
+Session Close (Abe Pralle): Fri Feb 29 00:27:27 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Fri Feb 29 00:27:55 2008
+[02/29/2008 12:27:55 AM] Abe Pralle: I just sent it to you - maybe you missed it 'cause the connection's been spotty
+[02/29/2008 12:28:19 AM] Abe Pralle: [00:24] AbePralle: I'll post the new version with the fix here in a few, but if you want to fix it in the meantime: find the write(Int32,Int32) definition in BitWriter (in standard.slag) and chance the first line to look like this:
+ [00:24] AbePralle:       value &= (Int64(1).left_shifted(n_bits) - 1)
+   
+ [00:24] AbePralle: (addition of an Int64 cast)
+ [00:24] AbePralle: Night!
+[02/29/2008 12:28:52 AM] Brian Cullinan: ah thanks
+[02/29/2008 12:30:47 AM] *** "Abe Pralle" signed off at Fri Feb 29 00:30:47 2008.
+Session Close (Abe Pralle): Fri Feb 29 00:30:49 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Fri Feb 29 13:23:53 2008
+[02/29/2008 01:23:56 PM] Brian Cullinan: Hi
+[02/29/2008 01:24:34 PM] Brian Cullinan: Is there a type of writer that i could write to temporarily, until the bits are written to a file?
+[02/29/2008 01:24:45 PM] Brian Cullinan: Like a buffer
+[02/29/2008 01:25:35 PM] Abe Pralle: Sure... a StringBuilder is a PrintWriter, so you can just wrap one of those in a BitWriter.
+[02/29/2008 01:30:13 PM] Brian Cullinan: ok that should work
+[02/29/2008 01:30:31 PM] Brian Cullinan: then i can clear the string builder or print it to a file
+Session Close (Abe Pralle): Fri Feb 29 13:30:37 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Fri Feb 29 13:31:39 2008
+[02/29/2008 01:31:39 PM] Abe Pralle: yeah
+[02/29/2008 03:00:01 PM] *** "Abe Pralle" signed off at Fri Feb 29 15:00:01 2008.
+[02/29/2008 04:10:31 PM] *** "Abe Pralle" signed on at Fri Feb 29 16:10:31 2008.
+[02/29/2008 06:03:19 PM] *** "Abe Pralle" signed off at Fri Feb 29 18:03:19 2008.
+Session Close (Abe Pralle): Fri Feb 29 18:10:49 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Sun Mar 02 14:05:56 2008
+[03/02/2008 02:12:32 PM] Brian Cullinan: So it seems like when my game is playing it back the recorded information, it is going abnormally slow.  Do you think there could be any high cost functions when reading?  What is the cost of conversions between int64 and real64?
+[03/02/2008 02:13:26 PM] Abe Pralle: Those conversions are fast.  How were you playing things back before?
+[03/02/2008 02:13:56 PM] Brian Cullinan: before it was reading faster than it does now and i was doing tons and tons of string parsing
+[03/02/2008 02:14:38 PM] Brian Cullinan: so it doesn't make any sense that this bit parsing would be slow
+[03/02/2008 02:15:49 PM] Abe Pralle: No, it shouldn't be.  Both the bit reading and the text parsing are based on the same underlying mechanism of inputting a byte at a time, and text parsing definitely has more conversions involved with it.
+[03/02/2008 02:17:30 PM] Abe Pralle: I would guess it's something else you changed since your previous version...
+[03/02/2008 02:17:54 PM] Brian Cullinan: could be
+[03/02/2008 02:18:50 PM] Brian Cullinan: but i am rewriting the entire mechanism for the recording so there is many changes to existing code, it is more re-doing, i am only recording the view position and the player position currently
+[03/02/2008 02:20:58 PM] Abe Pralle: I don't follow
+[03/02/2008 02:22:34 PM] Brian Cullinan: I just mean i don't know what change could affect the speed when i am rewriting the entire controller.
+[03/02/2008 02:23:16 PM] Brian Cullinan: Weirder still the drawing seems to be fine, something wrong with how it is reading i guess.
+[03/02/2008 02:27:03 PM] Brian Cullinan: ah i think i found the problem
+[03/02/2008 02:51:58 PM] Brian Cullinan: So my recorder works now but I am still having some problems with the BitReader
+[03/02/2008 02:58:36 PM] Abe Pralle: Have you isolated what they are?
+Session Close (Abe Pralle): Sun Mar 02 15:28:38 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Sun Mar 02 18:42:40 2008
+[03/02/2008 06:42:43 PM] Brian Cullinan: excellent
+Session Close (Abe Pralle): Sun Mar 02 18:42:46 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Sun Mar 02 23:41:28 2008
+[03/02/2008 11:41:43 PM] Brian Cullinan: Wow this baby is fast, thanks for all your help with that BitReader!
+[03/02/2008 11:42:15 PM] Brian Cullinan: Time to implement walls and more animations
+[03/02/2008 11:46:24 PM] Brian Cullinan: I think i will make my own charsets, i want them to be isotropic and show shadows
+Session Close (Abe Pralle): Sun Mar 02 23:49:08 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Sun Mar 02 23:52:47 2008
+[03/02/2008 11:52:47 PM] Abe Pralle: Glad to hear!
+[03/03/2008 12:05:21 AM] *** "Abe Pralle" signed off at Mon Mar 03 00:05:21 2008.
+Session Close (Abe Pralle): Mon Mar 03 00:37:06 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Mon Mar 03 11:21:20 2008
+[03/03/2008 11:21:45 AM] Brian Cullinan: What is the effect called where the sides bend in towards the center to make it looks more 3d?
+[03/03/2008 11:22:00 AM] Brian Cullinan: *look
+[03/03/2008 11:24:25 AM] Abe Pralle: fisheye, maybe?
+[03/03/2008 11:25:04 AM] Brian Cullinan: The primate panic game did it with the waves and the beach
+[03/03/2008 11:26:35 AM] Abe Pralle: Oh, that's a basic perspective transformation
+[03/03/2008 11:27:26 AM] Abe Pralle: x' = x k / z, y' = y k / z
+[03/03/2008 11:28:04 AM] Abe Pralle: Where x, y, and z are the 3D coordinates and k is a scaling constant so they don't disappear into the vanishing point too quickly.
+[03/03/2008 11:29:35 AM] Brian Cullinan: yeah i guess i was kind of doing this before when i tried to do 3d
+Session Close (Abe Pralle): Mon Mar 03 11:38:36 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Mon Mar 03 12:12:53 2008
+[03/03/2008 12:13:03 PM] Brian Cullinan: Wow that is trippy
+Session Close (Abe Pralle): Mon Mar 03 12:34:49 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Mon Mar 03 16:36:55 2008
+[03/03/2008 04:37:22 PM] Brian Cullinan: Is drawing an image based on 4 points a lot more expensive?
+[03/03/2008 04:38:38 PM] Abe Pralle: Than?
+[03/03/2008 04:38:53 PM] Brian Cullinan: Just using the image.draw at a vector location.
+[03/03/2008 04:40:15 PM] Abe Pralle: No... the regular draw() resolves into a call to the draw at 4 arbitrary points.
+[03/03/2008 04:40:23 PM] Brian Cullinan: awesome
+Session Close (Abe Pralle): Mon Mar 03 16:52:27 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Tue Mar 04 01:01:22 2008
+[03/04/2008 01:01:30 AM] Brian Cullinan: i should port md2 models to slag
+[03/04/2008 01:03:05 AM] Abe Pralle: There's no support for z-buffer or hidden surface removal :(
+[03/04/2008 01:03:34 AM] Abe Pralle: Though of course that could be done at the native layer (C++) level sometime
+Session Close (Abe Pralle): Tue Mar 04 01:21:22 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Thu Mar 06 11:28:17 2008
+Session Close (Abe Pralle): Thu Mar 06 11:58:20 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Fri Mar 07 03:03:34 2008
+[03/07/2008 03:03:45 AM] Brian Cullinan: so the wall collision is a lot hard then i thought
+[03/07/2008 03:03:54 AM] Brian Cullinan: works, but still some bugs
+[03/07/2008 03:05:00 AM] Abe Pralle: yeah, I know the feeling
+[03/07/2008 03:05:56 AM] Brian Cullinan: can't stop watching the BSG
+[03/07/2008 03:06:04 AM] Brian Cullinan: i am going to make a level based on it
+[03/07/2008 03:07:27 AM] Abe Pralle: sweet!
+[03/07/2008 03:07:37 AM] Abe Pralle: It's a great show
+[03/07/2008 03:07:46 AM] Brian Cullinan: affirmative
+Session Close (Abe Pralle): Fri Mar 07 03:09:07 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Sun Mar 09 20:40:18 2008
+[03/09/2008 08:40:38 PM] Brian Cullinan: I decided i am going to need some kind of 3d to achieve the effect i want
+[03/09/2008 08:40:58 PM] Abe Pralle: yeah?
+[03/09/2008 08:42:24 PM] Brian Cullinan: Yeah i got walls working great, but the models still don't look good enough, i am thinking of just doing cheap stretching at critical points on the images
+[03/09/2008 08:42:46 PM] Brian Cullinan: Like where the sides line up with each other.
+[03/09/2008 08:46:08 PM] Abe Pralle: hmm
+[03/09/2008 08:46:12 PM] Abe Pralle: gtg - ttyl
+[03/09/2008 08:46:27 PM] *** "Abe Pralle" signed off at Sun Mar 09 20:46:27 2008.
+[03/09/2008 08:49:21 PM] *** "Abe Pralle" signed on at Sun Mar 09 20:49:21 2008.
+Session Close (Abe Pralle): Sun Mar 09 20:52:33 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Wed Mar 12 16:11:09 2008
+[03/12/2008 04:11:35 PM] Brian Cullinan: So i have been working with joe on 3d, what would you think about making it a plugin for slagcore?
+[03/12/2008 04:11:56 PM] Brian Cullinan: it is looking pretty nice and a lot easier to implement then i thought it would be
+[03/12/2008 04:12:41 PM] Abe Pralle: Yeah, sure.
+[03/12/2008 04:13:24 PM] Brian Cullinan: my next project will be in 3D, it would be really cool to do terrain in 3D as well
+Session Close (Abe Pralle): Wed Mar 12 16:30:23 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Wed Mar 26 09:37:34 2008
+[03/26/2008 09:37:46 AM] Brian Cullinan: Have you seen "Tin Man"?
+[03/26/2008 09:38:21 AM] Abe Pralle: Yeah.  I thought Part 1 was so-so, Part 2 was really good, and Part 3 was decent.
+[03/26/2008 09:38:47 AM] Brian Cullinan: Good to know, I put it on my Netflix queue
+Session Close (Abe Pralle): Wed Mar 26 10:04:11 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Fri Apr 04 02:49:28 2008
+[04/04/2008 02:49:28 AM] *** NOTE: This user is offline.  Your messages will most likely *not* be received!
+Session Close (Abe Pralle): Fri Apr 04 02:49:31 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Tue Apr 08 12:24:48 2008
+[04/08/2008 12:25:03 PM] Brian Cullinan: Don't let them switch over to emacs entirely
+[04/08/2008 12:25:20 PM] Brian Cullinan: There are a lot of prof.s that would like to
+Session Close (Abe Pralle): Tue Apr 08 12:25:24 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Tue Apr 08 13:39:37 2008
+[04/08/2008 01:39:37 PM] Abe Pralle: Heh, no worries.
+Session Close (Abe Pralle): Tue Apr 08 14:20:45 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Wed Apr 16 11:13:57 2008
+[04/16/2008 11:14:07 AM] Brian Cullinan: want to come over for dinner tonight?
+[04/16/2008 11:15:16 AM] Abe Pralle: Hmm, sounds interesting.  Gonna have anything veggie?
+[04/16/2008 11:16:19 AM] Brian Cullinan: We are doing burritos/fajitas i think, so i will pick up some extra veggies when i go to (organic) bashes with leah
+[04/16/2008 11:19:41 AM] Brian Cullinan: Sound good?
+[04/16/2008 11:20:45 AM] Brian Cullinan: oOo farmers market (says Leah)
+[04/16/2008 11:21:40 AM] Abe Pralle: Sure, sounds good.  What time?
+[04/16/2008 11:22:58 AM] Brian Cullinan: 7:30
+[04/16/2008 11:24:39 AM] Abe Pralle: Aight.
+[04/16/2008 11:25:28 AM] Brian Cullinan: Bring your girlfriend
+[04/16/2008 11:26:11 AM] Abe Pralle: Planning on it.
+Session Close (Abe Pralle): Wed Apr 16 11:29:51 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Thu Apr 17 11:24:19 2008
+[04/17/2008 11:24:28 AM] Brian Cullinan: Nice to know i am not the only one hung over
+[04/17/2008 11:24:43 AM] Brian Cullinan: I keep forgetting not to get drunk in the middle of the week
+Session Close (Abe Pralle): Thu Apr 17 11:25:36 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Thu Apr 17 11:32:12 2008
+[04/17/2008 11:32:12 AM] Abe Pralle: hehe
+[04/17/2008 11:32:44 AM] Brian Cullinan: i am glad you guys came over last night, that was fun, next time i am definitely having less A
+[04/17/2008 11:33:16 AM] Abe Pralle: Yeah I had a good time too
+[04/17/2008 12:32:37 PM] *** You have been disconnected. Thu Apr 17 12:32:37 2008.
+[04/17/2008 12:32:46 PM] *** "Abe Pralle" signed on at Thu Apr 17 12:32:46 2008.
+Session Close (Abe Pralle): Thu Apr 17 15:54:25 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Sat Apr 19 23:02:23 2008
+[04/19/2008 11:02:29 PM] Brian Cullinan: man those cookies were good
+Session Close (Abe Pralle): Sat Apr 19 23:04:03 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Sat Apr 19 23:07:32 2008
+[04/19/2008 11:07:32 PM] Abe Pralle: yeah, sorry I missed 'em!
+[04/19/2008 11:08:03 PM] Brian Cullinan: well, it's ok, i am sure you two had better things to do
+Session Close (Abe Pralle): Sat Apr 19 23:38:05 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Sun Apr 20 00:12:40 2008
+[04/20/2008 12:12:50 AM] Brian Cullinan: on a personal note, i am really bored tonight
+[04/20/2008 12:13:42 AM] Brian Cullinan: the not available chick is way more not available then i thought she was, and the available chick that i was interested in from the party just became not available today
+[04/20/2008 12:14:46 AM] Abe Pralle: :( Which is which?
+[04/20/2008 12:15:13 AM] Brian Cullinan: i'll be honest with you
+[04/20/2008 12:15:34 AM] Brian Cullinan: crystal and andrea consecutively
+[04/20/2008 12:17:47 AM] Brian Cullinan: maybe watching The Sentinel will be interesting
+[04/20/2008 12:17:54 AM] Abe Pralle: Crystal?  As in, Steve's girlfriend for 5 years Crystal? ;)
+[04/20/2008 12:18:42 AM] Brian Cullinan: *ashamed* that would be the one
+[04/20/2008 12:18:51 AM] Brian Cullinan: what can i say, she's a good catch
+[04/20/2008 12:21:05 AM] Brian Cullinan: wow eva longoria is in this, this movie just got way more interesting
+[04/20/2008 12:21:14 AM] Brian Cullinan: and keifer sutherland
+[04/20/2008 12:21:24 AM] Abe Pralle: Yeah I never caught that one.  Looked cool.
+[04/20/2008 12:26:23 AM] Brian Cullinan: What are you up to tonight?
+[04/20/2008 12:27:28 AM] Abe Pralle: Went to Phoenix to see the Sweeney Todd musical (play); got back a little while ago & just catching up on email & stuff.
+[04/20/2008 12:28:07 AM] Brian Cullinan: omg, you went with megan!? she said you were busy. i totally forgot about that. how did you like it?
+[04/20/2008 12:28:49 AM] Abe Pralle: It was pretty cool - I'm not a S.Todd convert or anything, but it was fun.
+[04/20/2008 12:29:49 AM] Brian Cullinan: sounds good, i love musicals.
+[04/20/2008 12:42:06 AM] Brian Cullinan: So Facebook isn't working, i got wall comments and comments on photos in my e-mail, but they disappeared.  very strange
+[04/20/2008 12:43:36 AM] Abe Pralle: Huh... we'll hope it's temporary.
+Session Close (Abe Pralle): Sun Apr 20 00:53:03 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Mon Apr 21 10:36:00 2008
+[04/21/2008 10:36:10 AM] Brian Cullinan: we should implement ssh on the iphone
+Session Close (Abe Pralle): Mon Apr 21 10:36:12 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Mon Apr 21 11:18:05 2008
+[04/21/2008 11:18:05 AM] Abe Pralle: I'm sure someone's going to... I'll stick to games. ;)
+Session Close (Abe Pralle): Mon Apr 21 11:18:23 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Wed Apr 23 11:21:53 2008
+Session Close (Abe Pralle): Wed Apr 23 11:24:22 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Thu Apr 24 10:09:28 2008
+[04/24/2008 10:09:41 AM] Brian Cullinan: will you be in your office at 11?
+[04/24/2008 10:09:42 AM] *** Auto-response from Abe Pralle: I am currently away from the computer.
+Session Close (Abe Pralle): Thu Apr 24 10:14:56 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Thu Apr 24 10:22:05 2008
+[04/24/2008 10:22:05 AM] Abe Pralle: yeah
+[04/24/2008 10:22:52 AM] Brian Cullinan: k, i am going to stop by
+Session Close (Abe Pralle): Thu Apr 24 10:24:43 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Thu Apr 24 10:24:53 2008
+[04/24/2008 10:24:53 AM] Abe Pralle: cool
+Session Close (Abe Pralle): Thu Apr 24 10:27:36 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Fri Apr 25 16:08:16 2008
+[04/25/2008 04:08:28 PM] Brian Cullinan: lolz, are you stealing back all my party guests?
+[04/25/2008 04:14:48 PM] Abe Pralle: Just the Doctor Who fans...
+[04/25/2008 04:15:16 PM] Abe Pralle: We'll prolly cruise over after BSG and catch some afterparty though
+[04/25/2008 04:36:09 PM] Brian Cullinan: sounds good, i look forward to it
+[04/25/2008 04:36:27 PM] Brian Cullinan: i don't think as many people are coming, not sure, probably just the same group if anything
+Session Close (Abe Pralle): Fri Apr 25 16:45:00 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Sun Apr 27 23:38:09 2008
+[04/27/2008 11:38:45 PM] Brian Cullinan: hey i caught your facebook status, sorry to see that, i hope everything is alright
+[04/27/2008 11:40:37 PM] Abe Pralle: Thanks - yeah, we'll see how things fall out.
+[04/27/2008 11:42:07 PM] Brian Cullinan: yeah, hang in there, women are just complicated sometimes
+[04/27/2008 11:43:01 PM] Abe Pralle: Thanks. :)
+Session Close (Abe Pralle): Sun Apr 27 23:58:11 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Thu May 01 16:10:47 2008
+[05/01/2008 04:11:04 PM] Brian Cullinan: We will have to work out a time to meet about working on slag this summer.
+[05/01/2008 04:11:11 PM] Brian Cullinan: I am very excited!
+[05/01/2008 04:13:05 PM] Abe Pralle: Cool!  Well let's have a little get-together for interested programmers after finals are over.  There's a few different projects that we can work on for fun and profit!
+Session Close (Abe Pralle): Thu May 01 16:21:17 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Thu May 01 16:23:44 2008
+[05/01/2008 04:23:52 PM] Brian Cullinan: Did you get me e-mail?
+[05/01/2008 04:25:32 PM] Brian Cullinan: I could really go for some wine.
+[05/01/2008 04:26:12 PM] Abe Pralle: The connect 4 project?  Yeah.
+[05/01/2008 04:26:57 PM] Brian Cullinan: It isn't very good, but I tried.  My final project should be pretty fun.
+[05/01/2008 04:52:02 PM] *** You have been disconnected. Thu May 01 16:52:02 2008.
+[05/01/2008 04:52:12 PM] *** "Abe Pralle" signed on at Thu May 01 16:52:12 2008.
+Session Close (Abe Pralle): Thu May 01 17:00:57 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Mon May 05 00:40:33 2008
+[05/05/2008 12:40:39 AM] Brian Cullinan: did the search party find you?
+[05/05/2008 12:41:30 AM] Abe Pralle: Jesus, yes.  I was at a movie, big surprise... :)
+[05/05/2008 12:41:49 AM] Brian Cullinan: ahahahahahaha
+[05/05/2008 12:41:56 AM] Brian Cullinan: silly kids, i told them not to worry
+[05/05/2008 12:46:12 AM] Brian Cullinan: but i am glad you are ok
+[05/05/2008 12:47:13 AM] Abe Pralle: h... thanks.  I'm glad 
+[05/05/2008 12:47:16 AM] Abe Pralle: *ah
+[05/05/2008 12:47:21 AM] Abe Pralle: I'm glad you're okay too
+[05/05/2008 12:48:03 AM] Brian Cullinan: i am ok
+Session Close (Abe Pralle): Mon May 05 01:18:05 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Wed May 07 13:24:23 2008
+[05/07/2008 01:24:30 PM] Brian Cullinan: have you ever played Eraser?
+[05/07/2008 01:24:31 PM] *** Auto-response from Abe Pralle: I am currently away from the computer.
+Session Close (Abe Pralle): Wed May 07 13:29:20 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Wed May 07 13:44:19 2008
+[05/07/2008 01:44:19 PM] Abe Pralle: No, haven't heard of it.
+Session Close (Abe Pralle): Wed May 07 15:08:31 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Thu May 08 11:12:14 2008
+[05/08/2008 11:12:22 AM] Brian Cullinan: Did you get my e-mail?
+Session Close (Abe Pralle): Thu May 08 11:12:33 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Tue May 13 17:52:00 2008
+[05/13/2008 05:52:58 PM] Brian Cullinan: So, we should meet to talk about the GUI plug-in.  I think a good starting point would be porting over the Javacore GUI functionality.
+[05/13/2008 05:53:02 PM] *** "Abe Pralle" signed off at Tue May 13 17:53:02 2008.
+Session Close (Abe Pralle): Tue May 13 17:56:33 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Tue May 27 13:48:18 2008
+[05/27/2008 01:48:18 PM] Abe Pralle: Heya
+[05/27/2008 01:48:54 PM] Brian Cullinan: hey
+[05/27/2008 01:50:14 PM] Brian Cullinan: So i was thinking a good starting point for the GUI plugin as far as functionality goes would the be porting over the Java version
+[05/27/2008 01:52:07 PM] Abe Pralle: Now let's see: we're talking about the idea of Plasmacore applets running in web pages, right?
+[05/27/2008 01:53:30 PM] Brian Cullinan: I was just referring to making a GUI plugin for Slagcore.  Making it easier for someone to create menus and controls (buttons, scrollbars, etc.) for plasmacore
+[05/27/2008 01:54:58 PM] Brian Cullinan: You said there was a GUI plugin for Javacore, so i thought it would be nice to get a copy of that to port over to slagcore as a starting point.
+[05/27/2008 01:56:39 PM] Abe Pralle: Ahh, cool, I get ya - yeah, that'd be a good project.
+[05/27/2008 01:58:13 PM] Abe Pralle: Getting your hands dirty first by porting the Java version would be a good start, but keep in mind I think it could use a bit of a rework by the end.
+[05/27/2008 01:59:08 PM] Brian Cullinan: yes, but i thought it might be nice to use as a reference for what functionality the new one should have.
+[05/27/2008 01:59:47 PM] Brian Cullinan: i was thinking about basing controls and layout functionality on .Net, just because i think it is a lot easier to use then the swing crap.
+[05/27/2008 01:59:56 PM] Abe Pralle: Here's a version of the old Java Plasmacore that includes the gui package:
+ (Link: http://www.plasmaworks.com/old/pwgk/Plasmacore-0.24.zip)http://www.plasmaworks.com/old/pwgk/Plasmacore-0.24.zip
+[05/27/2008 02:00:08 PM] Brian Cullinan: excellent
+[05/27/2008 02:00:38 PM] Abe Pralle: I'm not familiar with the .net style, but if you like it then sounds good to me.
+Session Close (Abe Pralle): Tue May 27 14:33:36 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Mon Sep 01 18:59:24 2008
+[09/01/2008 06:59:25 PM] Brian Cullinan: (Link: http://www.new.facebook.com/event.php?eid=72897770623)http://www.new.facebook.com/event.php?eid=72897770623
+Session Close (Abe Pralle): Mon Sep 01 18:59:26 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Mon Sep 01 19:00:22 2008
+[09/01/2008 07:00:22 PM] Abe Pralle: sounds pretty sweet
+[09/01/2008 07:04:34 PM] *** You have been disconnected. Mon Sep 01 19:04:34 2008.
+[09/01/2008 07:39:54 PM] *** "Abe Pralle" signed on at Mon Sep 01 19:39:54 2008.
+[09/01/2008 07:45:09 PM] *** "Abe Pralle" signed off at Mon Sep 01 19:45:09 2008.
+Session Close (Abe Pralle): Mon Sep 01 20:04:42 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Sat Sep 06 13:54:29 2008
+[09/06/2008 01:54:30 PM] Brian Cullinan: (Link: http://www.new.facebook.com/home.php#/event.php?eid=72897770623)http://www.new.facebook.com/home.php#/event.php?eid=72897770623
+[09/06/2008 01:54:37 PM] Brian Cullinan: oops
+[09/06/2008 01:54:41 PM] Brian Cullinan: i already showed you that
+[09/06/2008 01:54:54 PM] Brian Cullinan: you should join if you know that far down the line you will be available
+Session Close (Abe Pralle): Sat Sep 06 13:55:27 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Sat Sep 06 13:58:14 2008
+[09/06/2008 01:58:14 PM] Abe Pralle: Aight, I switched my RSVP to "attending" :)
+Session Close (Abe Pralle): Sat Sep 06 13:59:20 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Sat Sep 06 13:59:28 2008
+[09/06/2008 01:59:30 PM] Brian Cullinan: wooo!
+Session Close (Abe Pralle): Sat Sep 06 14:31:25 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Sun Sep 07 15:47:27 2008
+[09/07/2008 03:47:46 PM] Brian Cullinan: (Link: http://209.250.30.30/calendars/tt0439100/IMDb.ics)http://209.250.30.30/calendars/tt0439100/IMDb.ics
+[09/07/2008 03:48:01 PM] Brian Cullinan: a script i wrote to parse through IMDb and collect tv show information
+[09/07/2008 03:48:27 PM] Brian Cullinan: you can replace the tt.. number with any show ID from imdb, and have multiple ones by seperating them with commas
+Session Close (Abe Pralle): Sun Sep 07 15:48:44 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Sun Sep 07 15:49:01 2008
+[09/07/2008 03:49:01 PM] Abe Pralle: Hmm - shows me a bunch of this:
+ BEGIN:VCALENDAR VERSION:2.0 METHOD:PUBLISH X-CALSTART:20000101T000000 X-CALEND:21000101T000000 X-WR-CALNAME:IMDb BEGIN:VTIMEZONE TZID:Arizona BEGIN:STANDARD DTSTART:16010101T000000 TZOFFSETFROM:-0600 TZOFFSETTO:-0700 END:STANDARD END:VTIMEZONE BEGIN:VEVENT CLASS:PUBLIC DTEND;TZID=Arizona:20080907T223000 DTSTART
+[09/07/2008 03:49:25 PM] Brian Cullinan: yes you can add the link to google calendar to have it parsed, or your e-mail if it supports internet calendars
+[09/07/2008 03:49:33 PM] Brian Cullinan: or add to ical
+[09/07/2008 03:49:55 PM] Brian Cullinan: so in google you would "Add by URL"
+Session Close (Abe Pralle): Sun Sep 07 15:50:29 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Sun Sep 07 15:52:18 2008
+[09/07/2008 03:52:18 PM] Abe Pralle: hmm - I don't know much about all that but sounds pretty cool.
+[09/07/2008 03:52:35 PM] Brian Cullinan: you don't use google calendar?
+Session Close (Abe Pralle): Sun Sep 07 15:56:23 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Sun Sep 07 15:56:24 2008
+[09/07/2008 03:56:24 PM] Abe Pralle: I do a little bit.  I'll try it.
+Session Close (Abe Pralle): Sun Sep 07 15:56:27 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Sun Sep 07 15:58:36 2008
+[09/07/2008 03:58:36 PM] Abe Pralle: Ahhh, I see.  Nice!
+[09/07/2008 03:58:51 PM] Brian Cullinan: spore
+[09/07/2008 03:59:03 PM] Brian Cullinan: comes out today
+[09/07/2008 03:59:07 PM] Brian Cullinan: i am going to go get it now
+[09/07/2008 04:00:17 PM] Abe Pralle: sweet
+[09/07/2008 04:10:47 PM] *** "Abe Pralle" signed off at Sun Sep 07 16:10:47 2008.
+Session Close (Abe Pralle): Sun Sep 07 16:34:13 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Mon Sep 08 10:22:26 2008
+[09/08/2008 10:22:28 AM] Brian Cullinan: Spore is amazing btw.  But it wouldn't be a Maxis game if it had an autosave, i lost about 6 hours progress.  It crashed when i was just starting to work on my galactic empire. :-(
+Session Close (Abe Pralle): Mon Sep 08 10:22:31 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Mon Sep 08 10:24:45 2008
+[09/08/2008 10:24:45 AM] Abe Pralle: lame
+[09/08/2008 10:25:02 AM] Abe Pralle: though as a CS major you should know better than to do anything for 6 hours without saving. ;)
+[09/08/2008 10:26:29 AM] Brian Cullinan: lawlz, i know right?  When programming every other key is CTRL+S.  I wonder if i can bind it in the game.  You going to pick it up soon?
+[09/08/2008 10:27:01 AM] Abe Pralle: Prolly not (no time!) - I'd be interested to check it out though.
+[09/08/2008 10:28:34 AM] Brian Cullinan: Yeah, no time.  Maybe next weekend i will get around to playing it again.
+[09/08/2008 10:42:25 AM] Brian Cullinan: Are you going to the faculty dinner at Ecks?
+[09/08/2008 10:44:44 AM] Abe Pralle: yeah
+[09/08/2008 10:44:52 AM] Brian Cullinan: Awesome!
+Session Close (Abe Pralle): Mon Sep 08 10:46:36 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Tue Sep 09 01:07:00 2008
+[09/09/2008 01:07:07 AM] Brian Cullinan: you see the new sarah connor?
+[09/09/2008 01:07:57 AM] *** "Abe Pralle" signed off at Tue Sep 09 01:07:57 2008.
+[09/09/2008 01:18:07 AM] *** You have been disconnected. Tue Sep 09 01:18:07 2008.
+Session Close (Abe Pralle): Tue Sep 09 01:20:09 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Wed Sep 24 01:56:56 2008
+[09/24/2008 01:57:04 AM] Brian Cullinan: I am confused
+[09/24/2008 01:58:09 AM] Abe Pralle: ya?
+[09/24/2008 01:58:10 AM] Brian Cullinan: nvm
+[09/24/2008 01:58:17 AM] Brian Cullinan: well
+[09/24/2008 01:59:18 AM] Brian Cullinan: instead of defining like IF, and ELSE, and END, and BEGIN, and CONST, can't i just make them a KEYWORD type, and then compare their content to handle the specific ones in my parser?
+[09/24/2008 01:59:43 AM] Abe Pralle: Yeah, that's fine.
+[09/24/2008 01:59:47 AM] Brian Cullinan: kk
+[09/24/2008 01:59:50 AM] Brian Cullinan: thanks
+[09/24/2008 02:00:09 AM] Abe Pralle: sure
+[09/24/2008 02:03:51 AM] Brian Cullinan: and since my language isn't very big, would it be ok to include parseLiteral, and parseIntLiteral, and parseStringLiteral all in 1 class?
+[09/24/2008 02:05:31 AM] Abe Pralle: Are those methods?
+[09/24/2008 02:05:48 AM] Brian Cullinan: yes
+[09/24/2008 02:05:56 AM] Brian Cullinan: inside the node class Literal
+[09/24/2008 02:06:12 AM] Abe Pralle: sure
+[09/24/2008 02:06:39 AM] Brian Cullinan: sweet
+[09/24/2008 02:31:48 AM] *** "Abe Pralle" signed off at Wed Sep 24 02:31:48 2008.
+[09/24/2008 02:46:31 AM] *** You have been disconnected. Wed Sep 24 02:46:31 2008.
+Session Close (Abe Pralle): Wed Sep 24 03:16:33 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Fri Oct 31 12:48:50 2008
+[10/31/2008 12:49:09 PM] Brian Cullinan: Crystal is going to meet Ronald Moore, and hopefully get his autograph on a copy of BSG.
+[10/31/2008 12:49:40 PM] Abe Pralle: Sweet!
+[10/31/2008 12:49:49 PM] Abe Pralle: How'd that happen?
+[10/31/2008 12:51:29 PM] Brian Cullinan: He went to school at Cornell, he is giving a presentation, so i can only assume he and the actor he is bringing Christopher McDonald will be around to sign.
+[10/31/2008 12:51:52 PM] Abe Pralle: coolness
+[10/31/2008 12:52:04 PM] Brian Cullinan: yeah, i am excited
+Session Close (Abe Pralle): Fri Oct 31 13:22:06 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Thu Nov 13 12:13:16 2008
+[11/13/2008 12:13:19 PM] Brian Cullinan: Are you there?
+Session Close (Abe Pralle): Thu Nov 13 12:13:20 2008
+
+
+Session Start (bjcullinan:Abe Pralle): Thu Nov 13 14:01:21 2008
+[11/13/2008 02:01:21 PM] Abe Pralle: am now
+Session Close (Abe Pralle): Thu Nov 13 14:46:09 2008
+
+
+Session Start (bjcullinan:abepralle): Mon May 18 21:10:47 2009
+[05/18/2009 09:10:47 PM] *** NOTE: This user is offline.  Your messages will most likely *not* be received!
+Session Close (Abe Pralle): Mon May 18 21:11:29 2009
+
+

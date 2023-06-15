@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6180098679618236417/",
+    "participants": [
+        {
+            "name": "Paul Falkenbach",
+            "title": "VP Sales & Marketing at National Sign Systems",
+            "url": "linkedin.com/in/paul-falkenbach-0491a83",
+            "phone": null,
+            "email": "pfalkenbach@natsignsys.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "I just got laid off from work, I'd love to talk to you about everything I've learned over 6 years of innovation in technology.",
+            "time": "2016-09-09T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "4804660856",
+            "time": "2017-10-05T19:56:00.000Z"
+        },
+        {
+            "from": "Paul Falkenbach",
+            "message": "Call me anytime. I will try calling you as well.",
+            "time": "2017-10-05T11:45:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Totally different answer than what Jim gave me.  I really need help on this because you're way smarter than me.  I don't think he is enabling this company to keep up with the tech boom that's coming.  It is all about mindset, if you are interested, look at this link and please talk to me so we can talk about really hard questions.",
+            "time": "2017-10-05T11:45:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "https://www.gatesnotes.com/Books/Mindset-The-New-Psychology-of-Success",
+            "time": "2017-10-05T17:39:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6212332220254875649/",
+    "participants": [
+        {
+            "name": "Chase Leslie",
+            "title": "Recruiter at Aetna",
+            "url": "linkedin.com/in/chase-leslie-a3907479",
+            "phone": null,
+            "email": "chase.leslie@extendhealth.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-07T18:30:00.000Z"
+        }
+    ]
+}

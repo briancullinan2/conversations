@@ -1,0 +1,49 @@
+{
+    "thread": "/messaging/thread/6210570033932824577/",
+    "participants": [
+        {
+            "name": "Jenny (Miller) Smerdel",
+            "title": "Talent Acquisition Manager at Kinney Group, Inc.",
+            "url": "linkedin.com/in/jennyannemiller",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Jenny (Miller) Smerdel",
+            "message": "Building a world class AppDynamics team\n\nHi Brian, \n\nI would take a daring bet and say you've never heard of Kinney Group before BUT if can swallow one more recruiter email and read this message all the way through than consider that your good deed for today ;)\n\nMy name is Jenny Miller and I'm a recruiter for Kinney Group, a cloud solutions integrator for Federal agencies and Fortune 1000 companies. We are currently looking for an Application Engineer to join our team that is interested in being trained up to be an AppDynamics expert.\n\nKinney Group invests a lot in our colleagues in the form of training, certifications, and project autonomy. Our culture has been a factor of our financial success and internal gusto. If this sparked any interest please don't hesitate to reach out!\n\nwww.kinneygroup.com\n\nThanks,\n\nJenny Miller\nPeople Operations Associate, Recruiter\njenny.miller@kinneygroup.com\n",
+            "time": "2017-12-02T12:00:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "OK thanks !\n",
+            "time": "2017-12-02T22:45:00.000Z"
+        },
+        {
+            "from": "Jenny (Miller) Smerdel",
+            "message": "Would you be interested in a brief informational call next week?\n",
+            "time": "2017-12-03T19:51:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Not much time for calls. What is the most important information in 1 sentence?\n",
+            "time": "2017-12-04T22:39:00.000Z"
+        },
+        {
+            "from": "Jenny (Miller) Smerdel",
+            "message": "Unique opportunity to help build a new program focused on AppDynamics professional services. Tons of training provided, no relo required, but heavy travel (50%-75%). Thoughts?\n",
+            "time": "2017-12-05T18:23:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Not in to travel or working for a recruiting agency. Thank you for reaching out :)\n",
+            "time": "2017-12-05T18:49:00.000Z"
+        },
+        {
+            "from": "Jenny (Miller) Smerdel",
+            "message": "We aren't a recruiting agency but I completely understand not wanting to travel. I appreciate your time and consideration!\n",
+            "time": "2017-12-05T20:17:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6174755212012646400/",
+    "participants": [
+        {
+            "name": "Dieter Otte",
+            "title": "Associate Professor of Computer Science at NAU",
+            "url": "linkedin.com/in/dieter-otte-4bb39115",
+            "phone": "",
+            "email": "dieter.otte@nau.edu"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Dieter Otte",
+            "message": "",
+            "time": "2017-10-31T16:12:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2016-08-26T12:00:00.000Z"
+        }
+    ]
+}

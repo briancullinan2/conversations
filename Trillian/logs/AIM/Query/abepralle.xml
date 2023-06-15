@@ -1,0 +1,561 @@
+<session type="start" time="1204266708" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1204266740" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Is%20there%20an%20easy%20way%20of%20converting%20primitives%20to%20bits%20and%2For%20sending%20it%20to%20a%20bitwriter%20and%20having%20it%20write%20out%20the%20full%20length%3F"/>
+<status type="Offline" time="1204266806" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1204266806" medium="AIM" text="%22Abe%20Pralle%22%20signed%20off%20at%20Thu%20Feb%2028%2023%3A33%3A26%202008%2E"/>
+<status type="online" time="1204266886" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1204266886" medium="AIM" text="%22Abe%20Pralle%22%20signed%20on%20at%20Thu%20Feb%2028%2023%3A34%3A46%202008%2E"/>
+<message type="outgoing_privateMessage" time="1204266934" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Are%20you%20there%3F"/>
+<message type="incoming_privateMessage" time="1204266966" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Sup"/>
+<message type="outgoing_privateMessage" time="1204266970" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Is%20there%20an%20easy%20way%20of%20converting%20primitives%20to%20bits%20and%2For%20sending%20it%20to%20a%20bitwriter%20and%20having%20it%20write%20out%20the%20full%20length%3F"/>
+<icon time="1204266970" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1204266970%2Ejpg"/>
+<message type="outgoing_privateMessage" time="1204267013" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Or%20is%20there%20a%20section%20that%20explains%20the%20functions%20that%20can%20be%20performed%20on%20primitives%20in%20more%20detail%3F"/>
+<message type="incoming_privateMessage" time="1204267218" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Just%20the%20BitWriter%20should%20do%20the%20trick%3A%0A%20Integers%3A%20write%28%20n%2C%208%2F16%2F32%2F64%20%29%0A%20Reals%3A%20write%28%20as_Int32%28%20r32%20%29%2C%2032%20%29%20or%20write%28%20as_Int64%28%20r64%20%29%2C%2032%20%29%0A%20Booleans%3A%20write%28%201%20%29%20or%20write%28%200%20%29"/>
+<message type="outgoing_privateMessage" time="1204267263" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="I%20may%20have%20figured%20it%20out%2C%20i%20was%20doing%20a%20write%20on%20a%20file%20writer%2C%20when%20I%20needed%20to%20init%3A%20the%20BitWriter%20with%20a%20filewriter"/>
+<message type="outgoing_privateMessage" time="1204267268" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20think%20it%20will%20work%20now"/>
+<message type="incoming_privateMessage" time="1204267280" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="cool"/>
+<message type="outgoing_privateMessage" time="1204267397" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="I%20am%20writing%20a%20serializer%20for%20each%20different%20recorded%20events"/>
+<message type="outgoing_privateMessage" time="1204267403" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="should%20make%20for%20a%20lot%20smaller%20files"/>
+<message type="outgoing_privateMessage" time="1204268412" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Doesn%27t%20seem%20to%20be%20writing%20the%20correct%20value%2C%20it%20just%20writes%20zeroes%20with%200d0a%20on%20the%20end%20of%20the%20file%2E"/>
+<session type="stop" time="1204268655" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1204269094" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1204269094" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="That%27s%20a%20LFCR%20or%20%5Cn%20%5Cr"/>
+<message type="outgoing_privateMessage" time="1204269189" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="looks%20like%20when%20i%20use%20write_low_high%20it%20outputs%20the%20correct%20value%20in%20reverse%20obviously%2C%20but%20when%20i%20use%20the%20general%20write%20%28high_low%29%20is%20doesn%27t%20output%20the%20integer%20at%20all%2E%20%20Is%20this%20an%20error%2C%20or%20am%20i%20doing%20something%20wrong%3F"/>
+<message type="incoming_privateMessage" time="1204269424" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="write_low_high%20calls%20general%20write%28%29%20as%20its%20definition%2C%20so%20it%27s%20definitely%20working"/>
+<message type="incoming_privateMessage" time="1204269490" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Are%20you%20making%20sure%20to%20close%28%29%20the%20file%20after%20writing%3F"/>
+<message type="outgoing_privateMessage" time="1204269495" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Yes"/>
+<message type="outgoing_privateMessage" time="1204269513" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="It%20outputs%20lots%20of%20zeros%20then%20the%20LFCR"/>
+<message type="outgoing_privateMessage" time="1204269578" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="it%20prints%20out%20the%20correct%20number%20of%20zeros%2C%20but%20no%20value"/>
+<message type="outgoing_privateMessage" time="1204269641" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Maybe%20i%20should%20e%2Dmail%20you%20the%20game%20i%20created%20just%20for%20testing%20this%2E"/>
+<message type="incoming_privateMessage" time="1204269696" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="hmm%2C%20I%27m%20getting%20something%20similar%2E%2E%2E"/>
+<message type="outgoing_privateMessage" time="1204269720" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="well%20that%27s%20good"/>
+<message type="outgoing_privateMessage" time="1204269764" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="well%20i%20broke%20my%20entire%20game%20to%20implement%20this%20new%20binary%20recording%20method%20with%20serialization%2C%20so%20it%27s%20not%20like%20i%20can%20fix%20it%20tonight"/>
+<message type="outgoing_privateMessage" time="1204269767" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="time%20for%20bed"/>
+<message type="outgoing_privateMessage" time="1204269770" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="good%20night"/>
+<session type="stop" time="1204269992" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1204270008" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1204270046" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Let%20me%20know%20if%20you%20figure%20anything%20out%2C%20otherwise%20i%20will%20just%20have%20to%20keep%20using%20the%20low_high"/>
+<session type="stop" time="1204270047" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1204270075" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1204270075" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="I%20just%20sent%20it%20to%20you%20%2D%20maybe%20you%20missed%20it%20%27cause%20the%20connection%27s%20been%20spotty"/>
+<message type="incoming_privateMessage" time="1204270099" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="%5B00%3A24%5D%20AbePralle%3A%20I%27ll%20post%20the%20new%20version%20with%20the%20fix%20here%20in%20a%20few%2C%20but%20if%20you%20want%20to%20fix%20it%20in%20the%20meantime%3A%20find%20the%20write%28Int32%2CInt32%29%20definition%20in%20BitWriter%20%28in%20standard%2Eslag%29%20and%20chance%20the%20first%20line%20to%20look%20like%20this%3A%0A%20%5B00%3A24%5D%20AbePralle%3A%20%20%20%20%20%20%20value%20%26amp%3B%3D%20%28Int64%281%29%2Eleft_shifted%28n_bits%29%20%2D%201%29%0A%20%20%20%0A%20%5B00%3A24%5D%20AbePralle%3A%20%28addition%20of%20an%20Int64%20cast%29%0A%20%5B00%3A24%5D%20AbePralle%3A%20Night%21"/>
+<message type="outgoing_privateMessage" time="1204270132" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="ah%20thanks"/>
+<status type="Offline" time="1204270247" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1204270247" medium="AIM" text="%22Abe%20Pralle%22%20signed%20off%20at%20Fri%20Feb%2029%2000%3A30%3A47%202008%2E"/>
+<session type="stop" time="1204270249" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1204316633" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1204316636" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Hi"/>
+<message type="outgoing_privateMessage" time="1204316674" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Is%20there%20a%20type%20of%20writer%20that%20i%20could%20write%20to%20temporarily%2C%20until%20the%20bits%20are%20written%20to%20a%20file%3F"/>
+<message type="outgoing_privateMessage" time="1204316685" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Like%20a%20buffer"/>
+<message type="incoming_privateMessage" time="1204316735" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Sure%2E%2E%2E%20a%20StringBuilder%20is%20a%20PrintWriter%2C%20so%20you%20can%20just%20wrap%20one%20of%20those%20in%20a%20BitWriter%2E"/>
+<message type="outgoing_privateMessage" time="1204317013" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="ok%20that%20should%20work"/>
+<icon time="1204317013" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1204317013%2Ebmp"/>
+<message type="outgoing_privateMessage" time="1204317031" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="then%20i%20can%20clear%20the%20string%20builder%20or%20print%20it%20to%20a%20file"/>
+<session type="stop" time="1204317037" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1204317099" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1204317099" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="yeah"/>
+<status type="Offline" time="1204322401" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1204322401" medium="AIM" text="%22Abe%20Pralle%22%20signed%20off%20at%20Fri%20Feb%2029%2015%3A00%3A01%202008%2E"/>
+<status type="online" time="1204326631" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1204326631" medium="AIM" text="%22Abe%20Pralle%22%20signed%20on%20at%20Fri%20Feb%2029%2016%3A10%3A31%202008%2E"/>
+<status type="Offline" time="1204333399" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1204333399" medium="AIM" text="%22Abe%20Pralle%22%20signed%20off%20at%20Fri%20Feb%2029%2018%3A03%3A19%202008%2E"/>
+<session type="stop" time="1204333849" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1204491956" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1204492352" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="So%20it%20seems%20like%20when%20my%20game%20is%20playing%20it%20back%20the%20recorded%20information%2C%20it%20is%20going%20abnormally%20slow%2E%20%20Do%20you%20think%20there%20could%20be%20any%20high%20cost%20functions%20when%20reading%3F%20%20What%20is%20the%20cost%20of%20conversions%20between%20int64%20and%20real64%3F"/>
+<message type="incoming_privateMessage" time="1204492406" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Those%20conversions%20are%20fast%2E%20%20How%20were%20you%20playing%20things%20back%20before%3F"/>
+<message type="outgoing_privateMessage" time="1204492436" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="before%20it%20was%20reading%20faster%20than%20it%20does%20now%20and%20i%20was%20doing%20tons%20and%20tons%20of%20string%20parsing"/>
+<icon time="1204492436" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1204492436%2Ejpg"/>
+<message type="outgoing_privateMessage" time="1204492478" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="so%20it%20doesn%27t%20make%20any%20sense%20that%20this%20bit%20parsing%20would%20be%20slow"/>
+<message type="incoming_privateMessage" time="1204492549" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="No%2C%20it%20shouldn%27t%20be%2E%20%20Both%20the%20bit%20reading%20and%20the%20text%20parsing%20are%20based%20on%20the%20same%20underlying%20mechanism%20of%20inputting%20a%20byte%20at%20a%20time%2C%20and%20text%20parsing%20definitely%20has%20more%20conversions%20involved%20with%20it%2E"/>
+<message type="incoming_privateMessage" time="1204492650" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="I%20would%20guess%20it%27s%20something%20else%20you%20changed%20since%20your%20previous%20version%2E%2E%2E"/>
+<message type="outgoing_privateMessage" time="1204492674" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="could%20be"/>
+<message type="outgoing_privateMessage" time="1204492730" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="but%20i%20am%20rewriting%20the%20entire%20mechanism%20for%20the%20recording%20so%20there%20is%20many%20changes%20to%20existing%20code%2C%20it%20is%20more%20re%2Ddoing%2C%20i%20am%20only%20recording%20the%20view%20position%20and%20the%20player%20position%20currently"/>
+<message type="incoming_privateMessage" time="1204492858" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="I%20don%27t%20follow"/>
+<message type="outgoing_privateMessage" time="1204492954" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="I%20just%20mean%20i%20don%27t%20know%20what%20change%20could%20affect%20the%20speed%20when%20i%20am%20rewriting%20the%20entire%20controller%2E"/>
+<message type="outgoing_privateMessage" time="1204492996" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Weirder%20still%20the%20drawing%20seems%20to%20be%20fine%2C%20something%20wrong%20with%20how%20it%20is%20reading%20i%20guess%2E"/>
+<message type="outgoing_privateMessage" time="1204493223" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="ah%20i%20think%20i%20found%20the%20problem"/>
+<message type="outgoing_privateMessage" time="1204494718" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="So%20my%20recorder%20works%20now%20but%20I%20am%20still%20having%20some%20problems%20with%20the%20BitReader"/>
+<message type="incoming_privateMessage" time="1204495116" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Have%20you%20isolated%20what%20they%20are%3F"/>
+<session type="stop" time="1204496918" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1204508560" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1204508563" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="excellent"/>
+<session type="stop" time="1204508566" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1204526488" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1204526503" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Wow%20this%20baby%20is%20fast%2C%20thanks%20for%20all%20your%20help%20with%20that%20BitReader%21"/>
+<message type="outgoing_privateMessage" time="1204526535" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Time%20to%20implement%20walls%20and%20more%20animations"/>
+<message type="outgoing_privateMessage" time="1204526784" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="I%20think%20i%20will%20make%20my%20own%20charsets%2C%20i%20want%20them%20to%20be%20isotropic%20and%20show%20shadows"/>
+<session type="stop" time="1204526948" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1204527167" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1204527167" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Glad%20to%20hear%21"/>
+<status type="Offline" time="1204527921" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1204527921" medium="AIM" text="%22Abe%20Pralle%22%20signed%20off%20at%20Mon%20Mar%2003%2000%3A05%3A21%202008%2E"/>
+<session type="stop" time="1204529826" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1204568480" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1204568505" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="What%20is%20the%20effect%20called%20where%20the%20sides%20bend%20in%20towards%20the%20center%20to%20make%20it%20looks%20more%203d%3F"/>
+<message type="outgoing_privateMessage" time="1204568520" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="%2Alook"/>
+<message type="incoming_privateMessage" time="1204568665" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="fisheye%2C%20maybe%3F"/>
+<message type="outgoing_privateMessage" time="1204568704" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="The%20primate%20panic%20game%20did%20it%20with%20the%20waves%20and%20the%20beach"/>
+<message type="incoming_privateMessage" time="1204568795" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Oh%2C%20that%27s%20a%20basic%20perspective%20transformation"/>
+<message type="incoming_privateMessage" time="1204568846" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="x%27%20%3D%20x%20k%20%2F%20z%2C%20y%27%20%3D%20y%20k%20%2F%20z"/>
+<message type="incoming_privateMessage" time="1204568884" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Where%20x%2C%20y%2C%20and%20z%20are%20the%203D%20coordinates%20and%20k%20is%20a%20scaling%20constant%20so%20they%20don%27t%20disappear%20into%20the%20vanishing%20point%20too%20quickly%2E"/>
+<message type="outgoing_privateMessage" time="1204568975" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="yeah%20i%20guess%20i%20was%20kind%20of%20doing%20this%20before%20when%20i%20tried%20to%20do%203d"/>
+<session type="stop" time="1204569516" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1204571573" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1204571583" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Wow%20that%20is%20trippy"/>
+<session type="stop" time="1204572889" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1204587415" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1204587442" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Is%20drawing%20an%20image%20based%20on%204%20points%20a%20lot%20more%20expensive%3F"/>
+<message type="incoming_privateMessage" time="1204587518" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Than%3F"/>
+<message type="outgoing_privateMessage" time="1204587533" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Just%20using%20the%20image%2Edraw%20at%20a%20vector%20location%2E"/>
+<message type="incoming_privateMessage" time="1204587615" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="No%2E%2E%2E%20the%20regular%20draw%28%29%20resolves%20into%20a%20call%20to%20the%20draw%20at%204%20arbitrary%20points%2E"/>
+<message type="outgoing_privateMessage" time="1204587623" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="awesome"/>
+<session type="stop" time="1204588347" medium="AIM" to="abepralle" from="bjcullinan"/>
+<icon time="1204597417" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1204597417%2Ejpg"/>
+<session type="start" time="1204617682" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1204617690" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20should%20port%20md2%20models%20to%20slag"/>
+<message type="incoming_privateMessage" time="1204617785" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="There%27s%20no%20support%20for%20z%2Dbuffer%20or%20hidden%20surface%20removal%20%3A%28"/>
+<message type="incoming_privateMessage" time="1204617814" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Though%20of%20course%20that%20could%20be%20done%20at%20the%20native%20layer%20%28C%2B%2B%29%20level%20sometime"/>
+<session type="stop" time="1204618882" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1204828097" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="stop" time="1204829900" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1204884214" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1204884225" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="so%20the%20wall%20collision%20is%20a%20lot%20hard%20then%20i%20thought"/>
+<message type="outgoing_privateMessage" time="1204884234" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="works%2C%20but%20still%20some%20bugs"/>
+<message type="incoming_privateMessage" time="1204884300" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="yeah%2C%20I%20know%20the%20feeling"/>
+<message type="outgoing_privateMessage" time="1204884356" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="can%27t%20stop%20watching%20the%20BSG"/>
+<icon time="1204884356" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1204884356%2Ejpg"/>
+<message type="outgoing_privateMessage" time="1204884364" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20am%20going%20to%20make%20a%20level%20based%20on%20it"/>
+<message type="incoming_privateMessage" time="1204884447" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="sweet%21"/>
+<message type="incoming_privateMessage" time="1204884457" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="It%27s%20a%20great%20show"/>
+<message type="outgoing_privateMessage" time="1204884466" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="affirmative"/>
+<session type="stop" time="1204884547" medium="AIM" to="abepralle" from="bjcullinan"/>
+<icon time="1204914216" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1204914216%2Ebmp"/>
+<icon time="1204959608" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1204959608%2Ejpg"/>
+<session type="start" time="1205120418" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1205120438" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="I%20decided%20i%20am%20going%20to%20need%20some%20kind%20of%203d%20to%20achieve%20the%20effect%20i%20want"/>
+<message type="incoming_privateMessage" time="1205120458" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="yeah%3F"/>
+<message type="outgoing_privateMessage" time="1205120544" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Yeah%20i%20got%20walls%20working%20great%2C%20but%20the%20models%20still%20don%27t%20look%20good%20enough%2C%20i%20am%20thinking%20of%20just%20doing%20cheap%20stretching%20at%20critical%20points%20on%20the%20images"/>
+<message type="outgoing_privateMessage" time="1205120566" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Like%20where%20the%20sides%20line%20up%20with%20each%20other%2E"/>
+<message type="incoming_privateMessage" time="1205120768" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="hmm"/>
+<message type="incoming_privateMessage" time="1205120772" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="gtg%20%2D%20ttyl"/>
+<status type="Offline" time="1205120787" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1205120787" medium="AIM" text="%22Abe%20Pralle%22%20signed%20off%20at%20Sun%20Mar%2009%2020%3A46%3A27%202008%2E"/>
+<status type="online" time="1205120961" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1205120961" medium="AIM" text="%22Abe%20Pralle%22%20signed%20on%20at%20Sun%20Mar%2009%2020%3A49%3A21%202008%2E"/>
+<session type="stop" time="1205121153" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1205363469" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1205363495" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="So%20i%20have%20been%20working%20with%20joe%20on%203d%2C%20what%20would%20you%20think%20about%20making%20it%20a%20plugin%20for%20slagcore%3F"/>
+<message type="outgoing_privateMessage" time="1205363516" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="it%20is%20looking%20pretty%20nice%20and%20a%20lot%20easier%20to%20implement%20then%20i%20thought%20it%20would%20be"/>
+<message type="incoming_privateMessage" time="1205363561" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Yeah%2C%20sure%2E"/>
+<message type="outgoing_privateMessage" time="1205363604" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="my%20next%20project%20will%20be%20in%203D%2C%20it%20would%20be%20really%20cool%20to%20do%20terrain%20in%203D%20as%20well"/>
+<icon time="1205363605" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1205363605%2Ebmp"/>
+<session type="stop" time="1205364623" medium="AIM" to="abepralle" from="bjcullinan"/>
+<icon time="1205789239" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1205789239%2Ejpg"/>
+<session type="start" time="1206549454" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1206549466" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Have%20you%20seen%20%22Tin%20Man%22%3F"/>
+<message type="incoming_privateMessage" time="1206549501" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Yeah%2E%20%20I%20thought%20Part%201%20was%20so%2Dso%2C%20Part%202%20was%20really%20good%2C%20and%20Part%203%20was%20decent%2E"/>
+<message type="outgoing_privateMessage" time="1206549527" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Good%20to%20know%2C%20I%20put%20it%20on%20my%20Netflix%20queue"/>
+<icon time="1206549528" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1206549528%2Ebmp"/>
+<session type="stop" time="1206551051" medium="AIM" to="abepralle" from="bjcullinan"/>
+<icon time="1206943764" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1206943764%2Ejpg"/>
+<icon time="1207094806" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1207094806%2Ebmp"/>
+<session type="start" time="1207302568" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="information_standard" time="1207302568" medium="AIM" text="NOTE%3A%20This%20user%20is%20offline%2E%20%20Your%20messages%20will%20most%20likely%20%2Anot%2A%20be%20received%21"/>
+<session type="stop" time="1207302571" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1207682688" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1207682703" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Don%27t%20let%20them%20switch%20over%20to%20emacs%20entirely"/>
+<message type="outgoing_privateMessage" time="1207682720" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="There%20are%20a%20lot%20of%20prof%2Es%20that%20would%20like%20to"/>
+<session type="stop" time="1207682724" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1207687177" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1207687177" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Heh%2C%20no%20worries%2E"/>
+<session type="stop" time="1207689645" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1208369637" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1208369647" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="want%20to%20come%20over%20for%20dinner%20tonight%3F"/>
+<message type="incoming_privateMessage" time="1208369716" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Hmm%2C%20sounds%20interesting%2E%20%20Gonna%20have%20anything%20veggie%3F"/>
+<message type="outgoing_privateMessage" time="1208369779" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="We%20are%20doing%20burritos%2Ffajitas%20i%20think%2C%20so%20i%20will%20pick%20up%20some%20extra%20veggies%20when%20i%20go%20to%20%28organic%29%20bashes%20with%20leah"/>
+<message type="outgoing_privateMessage" time="1208369981" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Sound%20good%3F"/>
+<message type="outgoing_privateMessage" time="1208370045" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="oOo%20farmers%20market%20%28says%20Leah%29"/>
+<message type="incoming_privateMessage" time="1208370100" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Sure%2C%20sounds%20good%2E%20%20What%20time%3F"/>
+<message type="outgoing_privateMessage" time="1208370178" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="7%3A30"/>
+<message type="incoming_privateMessage" time="1208370279" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Aight%2E"/>
+<message type="outgoing_privateMessage" time="1208370328" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Bring%20your%20girlfriend"/>
+<message type="incoming_privateMessage" time="1208370371" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Planning%20on%20it%2E"/>
+<session type="stop" time="1208370591" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1208456659" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1208456668" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Nice%20to%20know%20i%20am%20not%20the%20only%20one%20hung%20over"/>
+<message type="outgoing_privateMessage" time="1208456683" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="I%20keep%20forgetting%20not%20to%20get%20drunk%20in%20the%20middle%20of%20the%20week"/>
+<session type="stop" time="1208456736" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1208457132" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1208457132" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="hehe"/>
+<message type="outgoing_privateMessage" time="1208457164" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20am%20glad%20you%20guys%20came%20over%20last%20night%2C%20that%20was%20fun%2C%20next%20time%20i%20am%20definitely%20having%20less%20A"/>
+<message type="incoming_privateMessage" time="1208457196" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Yeah%20I%20had%20a%20good%20time%20too"/>
+<status type="away" time="1208458663" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1208460757" medium="AIM" text="You%20have%20been%20disconnected%2E%20Thu%20Apr%2017%2012%3A32%3A37%202008%2E"/>
+<status type="Offline" time="1208460757" medium="AIM" from="abepralle"/>
+<status type="online" time="1208460766" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1208460766" medium="AIM" text="%22Abe%20Pralle%22%20signed%20on%20at%20Thu%20Apr%2017%2012%3A32%3A46%202008%2E"/>
+<status type="online" time="1208464728" medium="AIM" from="abepralle"/>
+<status type="away" time="1208466099" medium="AIM" from="abepralle"/>
+<session type="stop" time="1208472865" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1208671343" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1208671349" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="man%20those%20cookies%20were%20good"/>
+<session type="stop" time="1208671443" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1208671652" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1208671652" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="yeah%2C%20sorry%20I%20missed%20%27em%21"/>
+<message type="outgoing_privateMessage" time="1208671683" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="well%2C%20it%27s%20ok%2C%20i%20am%20sure%20you%20two%20had%20better%20things%20to%20do"/>
+<icon time="1208671684" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1208671684%2Ejpg"/>
+<session type="stop" time="1208673485" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1208675560" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1208675570" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="on%20a%20personal%20note%2C%20i%20am%20really%20bored%20tonight"/>
+<message type="outgoing_privateMessage" time="1208675622" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="the%20not%20available%20chick%20is%20way%20more%20not%20available%20then%20i%20thought%20she%20was%2C%20and%20the%20available%20chick%20that%20i%20was%20interested%20in%20from%20the%20party%20just%20became%20not%20available%20today"/>
+<message type="incoming_privateMessage" time="1208675686" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="%3A%28%20Which%20is%20which%3F"/>
+<message type="outgoing_privateMessage" time="1208675713" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="i%27ll%20be%20honest%20with%20you"/>
+<message type="outgoing_privateMessage" time="1208675734" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="crystal%20and%20andrea%20consecutively"/>
+<message type="outgoing_privateMessage" time="1208675867" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="maybe%20watching%20The%20Sentinel%20will%20be%20interesting"/>
+<message type="incoming_privateMessage" time="1208675874" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Crystal%3F%20%20As%20in%2C%20Steve%27s%20girlfriend%20for%205%20years%20Crystal%3F%20%3B%29"/>
+<message type="outgoing_privateMessage" time="1208675922" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="%2Aashamed%2A%20that%20would%20be%20the%20one"/>
+<message type="outgoing_privateMessage" time="1208675931" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="what%20can%20i%20say%2C%20she%27s%20a%20good%20catch"/>
+<message type="outgoing_privateMessage" time="1208676065" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="wow%20eva%20longoria%20is%20in%20this%2C%20this%20movie%20just%20got%20way%20more%20interesting"/>
+<message type="outgoing_privateMessage" time="1208676074" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="and%20keifer%20sutherland"/>
+<message type="incoming_privateMessage" time="1208676084" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Yeah%20I%20never%20caught%20that%20one%2E%20%20Looked%20cool%2E"/>
+<message type="outgoing_privateMessage" time="1208676383" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="What%20are%20you%20up%20to%20tonight%3F"/>
+<message type="incoming_privateMessage" time="1208676448" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Went%20to%20Phoenix%20to%20see%20the%20Sweeney%20Todd%20musical%20%28play%29%3B%20got%20back%20a%20little%20while%20ago%20%26amp%3B%20just%20catching%20up%20on%20email%20%26amp%3B%20stuff%2E"/>
+<message type="outgoing_privateMessage" time="1208676487" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="omg%2C%20you%20went%20with%20megan%21%3F%20she%20said%20you%20were%20busy%2E%20i%20totally%20forgot%20about%20that%2E%20how%20did%20you%20like%20it%3F"/>
+<message type="incoming_privateMessage" time="1208676529" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="It%20was%20pretty%20cool%20%2D%20I%27m%20not%20a%20S%2ETodd%20convert%20or%20anything%2C%20but%20it%20was%20fun%2E"/>
+<message type="outgoing_privateMessage" time="1208676589" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="sounds%20good%2C%20i%20love%20musicals%2E"/>
+<message type="outgoing_privateMessage" time="1208677326" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="So%20Facebook%20isn%27t%20working%2C%20i%20got%20wall%20comments%20and%20comments%20on%20photos%20in%20my%20e%2Dmail%2C%20but%20they%20disappeared%2E%20%20very%20strange"/>
+<message type="incoming_privateMessage" time="1208677416" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Huh%2E%2E%2E%20we%27ll%20hope%20it%27s%20temporary%2E"/>
+<session type="stop" time="1208677983" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1208799360" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1208799370" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="we%20should%20implement%20ssh%20on%20the%20iphone"/>
+<session type="stop" time="1208799372" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1208801885" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1208801885" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="I%27m%20sure%20someone%27s%20going%20to%2E%2E%2E%20I%27ll%20stick%20to%20games%2E%20%3B%29"/>
+<session type="stop" time="1208801903" medium="AIM" to="abepralle" from="bjcullinan"/>
+<icon time="1208908879" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1208908879%2Ebmp"/>
+<session type="start" time="1208974913" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="stop" time="1208975062" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1209056968" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1209056981" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="will%20you%20be%20in%20your%20office%20at%2011%3F"/>
+<message type="information_standard" time="1209056982" medium="AIM" text="Auto%2Dresponse%20from%20Abe%20Pralle%3A%20I%20am%20currently%20away%20from%20the%20computer%2E"/>
+<session type="stop" time="1209057296" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1209057725" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1209057725" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="yeah"/>
+<message type="outgoing_privateMessage" time="1209057772" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="k%2C%20i%20am%20going%20to%20stop%20by"/>
+<icon time="1209057773" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1209057773%2Ejpg"/>
+<session type="stop" time="1209057883" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1209057893" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1209057893" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="cool"/>
+<session type="stop" time="1209058056" medium="AIM" to="abepralle" from="bjcullinan"/>
+<icon time="1209105103" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1209105103%2Ejpg"/>
+<session type="start" time="1209164896" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1209164908" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="lolz%2C%20are%20you%20stealing%20back%20all%20my%20party%20guests%3F"/>
+<message type="incoming_privateMessage" time="1209165288" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Just%20the%20Doctor%20Who%20fans%2E%2E%2E"/>
+<message type="incoming_privateMessage" time="1209165316" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="We%27ll%20prolly%20cruise%20over%20after%20BSG%20and%20catch%20some%20afterparty%20though"/>
+<message type="outgoing_privateMessage" time="1209166569" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="sounds%20good%2C%20i%20look%20forward%20to%20it"/>
+<icon time="1209166570" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1209166570%2Ebmp"/>
+<message type="outgoing_privateMessage" time="1209166587" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20don%27t%20think%20as%20many%20people%20are%20coming%2C%20not%20sure%2C%20probably%20just%20the%20same%20group%20if%20anything"/>
+<session type="stop" time="1209167100" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1209364689" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1209364725" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="hey%20i%20caught%20your%20facebook%20status%2C%20sorry%20to%20see%20that%2C%20i%20hope%20everything%20is%20alright"/>
+<message type="incoming_privateMessage" time="1209364837" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Thanks%20%2D%20yeah%2C%20we%27ll%20see%20how%20things%20fall%20out%2E"/>
+<message type="outgoing_privateMessage" time="1209364927" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="yeah%2C%20hang%20in%20there%2C%20women%20are%20just%20complicated%20sometimes"/>
+<icon time="1209364927" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1209364927%2Ejpg"/>
+<message type="incoming_privateMessage" time="1209364981" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Thanks%2E%20%3A%29"/>
+<session type="stop" time="1209365891" medium="AIM" to="abepralle" from="bjcullinan"/>
+<icon time="1209492564" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1209492564%2Ejpg"/>
+<session type="start" time="1209683447" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1209683464" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="We%20will%20have%20to%20work%20out%20a%20time%20to%20meet%20about%20working%20on%20slag%20this%20summer%2E"/>
+<message type="outgoing_privateMessage" time="1209683471" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="I%20am%20very%20excited%21"/>
+<message type="incoming_privateMessage" time="1209683585" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Cool%21%20%20Well%20let%27s%20have%20a%20little%20get%2Dtogether%20for%20interested%20programmers%20after%20finals%20are%20over%2E%20%20There%27s%20a%20few%20different%20projects%20that%20we%20can%20work%20on%20for%20fun%20and%20profit%21"/>
+<session type="stop" time="1209684077" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1209684224" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1209684232" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Did%20you%20get%20me%20e%2Dmail%3F"/>
+<message type="outgoing_privateMessage" time="1209684332" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="I%20could%20really%20go%20for%20some%20wine%2E"/>
+<message type="incoming_privateMessage" time="1209684372" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="The%20connect%204%20project%3F%20%20Yeah%2E"/>
+<message type="outgoing_privateMessage" time="1209684417" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="It%20isn%27t%20very%20good%2C%20but%20I%20tried%2E%20%20My%20final%20project%20should%20be%20pretty%20fun%2E"/>
+<message type="information_standard" time="1209685922" medium="AIM" text="You%20have%20been%20disconnected%2E%20Thu%20May%2001%2016%3A52%3A02%202008%2E"/>
+<status type="Offline" time="1209685922" medium="AIM" from="abepralle"/>
+<status type="online" time="1209685932" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1209685932" medium="AIM" text="%22Abe%20Pralle%22%20signed%20on%20at%20Thu%20May%2001%2016%3A52%3A12%202008%2E"/>
+<session type="stop" time="1209686457" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1209973233" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1209973239" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="did%20the%20search%20party%20find%20you%3F"/>
+<message type="incoming_privateMessage" time="1209973290" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Jesus%2C%20yes%2E%20%20I%20was%20at%20a%20movie%2C%20big%20surprise%2E%2E%2E%20%3A%29"/>
+<message type="outgoing_privateMessage" time="1209973309" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="ahahahahahaha"/>
+<icon time="1209973309" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1209973309%2Ejpg"/>
+<message type="outgoing_privateMessage" time="1209973316" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="silly%20kids%2C%20i%20told%20them%20not%20to%20worry"/>
+<message type="outgoing_privateMessage" time="1209973572" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="but%20i%20am%20glad%20you%20are%20ok"/>
+<message type="incoming_privateMessage" time="1209973633" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="h%2E%2E%2E%20thanks%2E%20%20I%27m%20glad%20"/>
+<message type="incoming_privateMessage" time="1209973636" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="%2Aah"/>
+<message type="incoming_privateMessage" time="1209973641" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="I%27m%20glad%20you%27re%20okay%20too"/>
+<message type="outgoing_privateMessage" time="1209973683" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20am%20ok"/>
+<session type="stop" time="1209975485" medium="AIM" to="abepralle" from="bjcullinan"/>
+<icon time="1210006750" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1210006750%2Ejpg"/>
+<session type="start" time="1210191863" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1210191870" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="have%20you%20ever%20played%20Eraser%3F"/>
+<message type="information_standard" time="1210191871" medium="AIM" text="Auto%2Dresponse%20from%20Abe%20Pralle%3A%20I%20am%20currently%20away%20from%20the%20computer%2E"/>
+<session type="stop" time="1210192160" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1210193059" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1210193059" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="No%2C%20haven%27t%20heard%20of%20it%2E"/>
+<session type="stop" time="1210198111" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1210270334" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1210270342" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Did%20you%20get%20my%20e%2Dmail%3F"/>
+<session type="stop" time="1210270353" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1210726320" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1210726378" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="So%2C%20we%20should%20meet%20to%20talk%20about%20the%20GUI%20plug%2Din%2E%20%20I%20think%20a%20good%20starting%20point%20would%20be%20porting%20over%20the%20Javacore%20GUI%20functionality%2E"/>
+<status type="Offline" time="1210726382" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1210726382" medium="AIM" text="%22Abe%20Pralle%22%20signed%20off%20at%20Tue%20May%2013%2017%3A53%3A02%202008%2E"/>
+<session type="stop" time="1210726592" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1211921298" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1211921298" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Heya"/>
+<message type="outgoing_privateMessage" time="1211921334" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="hey"/>
+<icon time="1211921334" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1211921334%2Ejpg"/>
+<message type="outgoing_privateMessage" time="1211921414" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="So%20i%20was%20thinking%20a%20good%20starting%20point%20for%20the%20GUI%20plugin%20as%20far%20as%20functionality%20goes%20would%20the%20be%20porting%20over%20the%20Java%20version"/>
+<message type="incoming_privateMessage" time="1211921527" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Now%20let%27s%20see%3A%20we%27re%20talking%20about%20the%20idea%20of%20Plasmacore%20applets%20running%20in%20web%20pages%2C%20right%3F"/>
+<message type="outgoing_privateMessage" time="1211921610" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="I%20was%20just%20referring%20to%20making%20a%20GUI%20plugin%20for%20Slagcore%2E%20%20Making%20it%20easier%20for%20someone%20to%20create%20menus%20and%20controls%20%28buttons%2C%20scrollbars%2C%20etc%2E%29%20for%20plasmacore"/>
+<message type="outgoing_privateMessage" time="1211921698" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="You%20said%20there%20was%20a%20GUI%20plugin%20for%20Javacore%2C%20so%20i%20thought%20it%20would%20be%20nice%20to%20get%20a%20copy%20of%20that%20to%20port%20over%20to%20slagcore%20as%20a%20starting%20point%2E"/>
+<message type="incoming_privateMessage" time="1211921799" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Ahh%2C%20cool%2C%20I%20get%20ya%20%2D%20yeah%2C%20that%27d%20be%20a%20good%20project%2E"/>
+<message type="incoming_privateMessage" time="1211921893" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Getting%20your%20hands%20dirty%20first%20by%20porting%20the%20Java%20version%20would%20be%20a%20good%20start%2C%20but%20keep%20in%20mind%20I%20think%20it%20could%20use%20a%20bit%20of%20a%20rework%20by%20the%20end%2E"/>
+<message type="outgoing_privateMessage" time="1211921948" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="yes%2C%20but%20i%20thought%20it%20might%20be%20nice%20to%20use%20as%20a%20reference%20for%20what%20functionality%20the%20new%20one%20should%20have%2E"/>
+<message type="outgoing_privateMessage" time="1211921987" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20was%20thinking%20about%20basing%20controls%20and%20layout%20functionality%20on%20%2ENet%2C%20just%20because%20i%20think%20it%20is%20a%20lot%20easier%20to%20use%20then%20the%20swing%20crap%2E"/>
+<message type="incoming_privateMessage" time="1211921996" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Here%27s%20a%20version%20of%20the%20old%20Java%20Plasmacore%20that%20includes%20the%20gui%20package%3A%0A%20%3Ca%20href%3D%22http%3A%2F%2Fwww%2Eplasmaworks%2Ecom%2Fold%2Fpwgk%2FPlasmacore%2D0%2E24%2Ezip%22%3Ehttp%3A%2F%2Fwww%2Eplasmaworks%2Ecom%2Fold%2Fpwgk%2FPlasmacore%2D0%2E24%2Ezip%3C%2Fa%3E"/>
+<message type="outgoing_privateMessage" time="1211922008" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="excellent"/>
+<message type="incoming_privateMessage" time="1211922038" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="I%27m%20not%20familiar%20with%20the%20%2Enet%20style%2C%20but%20if%20you%20like%20it%20then%20sounds%20good%20to%20me%2E"/>
+<session type="stop" time="1211924016" medium="AIM" to="abepralle" from="bjcullinan"/>
+<icon time="1211957735" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1211957735%2Ejpg"/>
+<icon time="1212442685" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1212442685%2Ebmp"/>
+<icon time="1214691705" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1214691705%2Ejpg"/>
+<icon time="1215476406" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1215476406%2Ebmp"/>
+<icon time="1215883872" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1215883872%2Ejpg"/>
+<icon time="1217122484" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1217122484%2Ebmp"/>
+<icon time="1217557376" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1217557376%2Ejpg"/>
+<icon time="1217882636" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1217882636%2Ebmp"/>
+<icon time="1218529115" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1218529115%2Ejpg"/>
+<icon time="1219266125" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1219266125%2Ebmp"/>
+<icon time="1220234514" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1220234514%2Ejpg"/>
+<session type="start" time="1220320764" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1220320765" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="%3Ca%20href%3D%22http%3A%2F%2Fwww%2Enew%2Efacebook%2Ecom%2Fevent%2Ephp%3Feid%3D72897770623%22%3Ehttp%3A%2F%2Fwww%2Enew%2Efacebook%2Ecom%2Fevent%2Ephp%3Feid%3D72897770623%3C%2Fa%3E"/>
+<session type="stop" time="1220320766" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1220320822" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1220320822" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="sounds%20pretty%20sweet"/>
+<message type="information_standard" time="1220321074" medium="AIM" text="You%20have%20been%20disconnected%2E%20Mon%20Sep%2001%2019%3A04%3A34%202008%2E"/>
+<status type="Offline" time="1220321074" medium="AIM" from="abepralle"/>
+<status type="online" time="1220323194" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1220323194" medium="AIM" text="%22Abe%20Pralle%22%20signed%20on%20at%20Mon%20Sep%2001%2019%3A39%3A54%202008%2E"/>
+<status type="Offline" time="1220323509" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1220323509" medium="AIM" text="%22Abe%20Pralle%22%20signed%20off%20at%20Mon%20Sep%2001%2019%3A45%3A09%202008%2E"/>
+<session type="stop" time="1220324682" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1220734469" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1220734470" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="%3Ca%20href%3D%22http%3A%2F%2Fwww%2Enew%2Efacebook%2Ecom%2Fhome%2Ephp%23%2Fevent%2Ephp%3Feid%3D72897770623%22%3Ehttp%3A%2F%2Fwww%2Enew%2Efacebook%2Ecom%2Fhome%2Ephp%23%2Fevent%2Ephp%3Feid%3D72897770623%3C%2Fa%3E"/>
+<message type="outgoing_privateMessage" time="1220734477" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="oops"/>
+<message type="outgoing_privateMessage" time="1220734481" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20already%20showed%20you%20that"/>
+<message type="outgoing_privateMessage" time="1220734494" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="you%20should%20join%20if%20you%20know%20that%20far%20down%20the%20line%20you%20will%20be%20available"/>
+<session type="stop" time="1220734527" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1220734694" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1220734694" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Aight%2C%20I%20switched%20my%20RSVP%20to%20%22attending%22%20%3A%29"/>
+<session type="stop" time="1220734760" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1220734768" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1220734770" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="wooo%21"/>
+<session type="stop" time="1220736685" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1220827647" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1220827666" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="%3Ca%20href%3D%22http%3A%2F%2F209%2E250%2E30%2E30%2Fcalendars%2Ftt0439100%2FIMDb%2Eics%22%3Ehttp%3A%2F%2F209%2E250%2E30%2E30%2Fcalendars%2Ftt0439100%2FIMDb%2Eics%3C%2Fa%3E"/>
+<message type="outgoing_privateMessage" time="1220827681" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="a%20script%20i%20wrote%20to%20parse%20through%20IMDb%20and%20collect%20tv%20show%20information"/>
+<message type="outgoing_privateMessage" time="1220827707" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="you%20can%20replace%20the%20tt%2E%2E%20number%20with%20any%20show%20ID%20from%20imdb%2C%20and%20have%20multiple%20ones%20by%20seperating%20them%20with%20commas"/>
+<session type="stop" time="1220827724" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1220827741" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1220827741" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Hmm%20%2D%20shows%20me%20a%20bunch%20of%20this%3A%0A%20BEGIN%3AVCALENDAR%20VERSION%3A2%2E0%20METHOD%3APUBLISH%20X%2DCALSTART%3A20000101T000000%20X%2DCALEND%3A21000101T000000%20X%2DWR%2DCALNAME%3AIMDb%20BEGIN%3AVTIMEZONE%20TZID%3AArizona%20BEGIN%3ASTANDARD%20DTSTART%3A16010101T000000%20TZOFFSETFROM%3A%2D0600%20TZOFFSETTO%3A%2D0700%20END%3ASTANDARD%20END%3AVTIMEZONE%20BEGIN%3AVEVENT%20CLASS%3APUBLIC%20DTEND%3BTZID%3DArizona%3A20080907T223000%20DTSTART"/>
+<message type="outgoing_privateMessage" time="1220827765" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="yes%20you%20can%20add%20the%20link%20to%20google%20calendar%20to%20have%20it%20parsed%2C%20or%20your%20e%2Dmail%20if%20it%20supports%20internet%20calendars"/>
+<message type="outgoing_privateMessage" time="1220827773" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="or%20add%20to%20ical"/>
+<message type="outgoing_privateMessage" time="1220827795" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="so%20in%20google%20you%20would%20%22Add%20by%20URL%22"/>
+<session type="stop" time="1220827829" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1220827938" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1220827938" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="hmm%20%2D%20I%20don%27t%20know%20much%20about%20all%20that%20but%20sounds%20pretty%20cool%2E"/>
+<message type="outgoing_privateMessage" time="1220827955" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="you%20don%27t%20use%20google%20calendar%3F"/>
+<session type="stop" time="1220828183" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1220828184" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1220828184" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="I%20do%20a%20little%20bit%2E%20%20I%27ll%20try%20it%2E"/>
+<session type="stop" time="1220828187" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1220828316" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1220828316" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Ahhh%2C%20I%20see%2E%20%20Nice%21"/>
+<message type="outgoing_privateMessage" time="1220828331" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="spore"/>
+<message type="outgoing_privateMessage" time="1220828343" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="comes%20out%20today"/>
+<message type="outgoing_privateMessage" time="1220828347" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="i%20am%20going%20to%20go%20get%20it%20now"/>
+<message type="incoming_privateMessage" time="1220828417" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="sweet"/>
+<status type="Offline" time="1220829047" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1220829047" medium="AIM" text="%22Abe%20Pralle%22%20signed%20off%20at%20Sun%20Sep%2007%2016%3A10%3A47%202008%2E"/>
+<session type="stop" time="1220830453" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1220894546" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1220894548" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Spore%20is%20amazing%20btw%2E%20%20But%20it%20wouldn%27t%20be%20a%20Maxis%20game%20if%20it%20had%20an%20autosave%2C%20i%20lost%20about%206%20hours%20progress%2E%20%20It%20crashed%20when%20i%20was%20just%20starting%20to%20work%20on%20my%20galactic%20empire%2E%20%3A%2D%28"/>
+<session type="stop" time="1220894551" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1220894685" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1220894685" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="lame"/>
+<message type="incoming_privateMessage" time="1220894702" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="though%20as%20a%20CS%20major%20you%20should%20know%20better%20than%20to%20do%20anything%20for%206%20hours%20without%20saving%2E%20%3B%29"/>
+<message type="outgoing_privateMessage" time="1220894789" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="lawlz%2C%20i%20know%20right%3F%20%20When%20programming%20every%20other%20key%20is%20CTRL%2BS%2E%20%20I%20wonder%20if%20i%20can%20bind%20it%20in%20the%20game%2E%20%20You%20going%20to%20pick%20it%20up%20soon%3F"/>
+<icon time="1220894789" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1220894789%2Ebmp"/>
+<message type="incoming_privateMessage" time="1220894821" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Prolly%20not%20%28no%20time%21%29%20%2D%20I%27d%20be%20interested%20to%20check%20it%20out%20though%2E"/>
+<message type="outgoing_privateMessage" time="1220894914" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Yeah%2C%20no%20time%2E%20%20Maybe%20next%20weekend%20i%20will%20get%20around%20to%20playing%20it%20again%2E"/>
+<message type="outgoing_privateMessage" time="1220895745" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Are%20you%20going%20to%20the%20faculty%20dinner%20at%20Ecks%3F"/>
+<message type="incoming_privateMessage" time="1220895884" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="yeah"/>
+<message type="outgoing_privateMessage" time="1220895892" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Awesome%21"/>
+<session type="stop" time="1220895996" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1220947620" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1220947627" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="you%20see%20the%20new%20sarah%20connor%3F"/>
+<status type="Offline" time="1220947677" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1220947677" medium="AIM" text="%22Abe%20Pralle%22%20signed%20off%20at%20Tue%20Sep%2009%2001%3A07%3A57%202008%2E"/>
+<message type="information_standard" time="1220948287" medium="AIM" text="You%20have%20been%20disconnected%2E%20Tue%20Sep%2009%2001%3A18%3A07%202008%2E"/>
+<session type="stop" time="1220948409" medium="AIM" to="abepralle" from="bjcullinan"/>
+<icon time="1221150815" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1221150815%2Ejpg"/>
+<session type="start" time="1222246616" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1222246624" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="I%20am%20confused"/>
+<message type="incoming_privateMessage" time="1222246689" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="ya%3F"/>
+<message type="outgoing_privateMessage" time="1222246690" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="nvm"/>
+<icon time="1222246690" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1222246690%2Ebmp"/>
+<message type="outgoing_privateMessage" time="1222246697" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="well"/>
+<message type="outgoing_privateMessage" time="1222246758" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="instead%20of%20defining%20like%20IF%2C%20and%20ELSE%2C%20and%20END%2C%20and%20BEGIN%2C%20and%20CONST%2C%20can%27t%20i%20just%20make%20them%20a%20KEYWORD%20type%2C%20and%20then%20compare%20their%20content%20to%20handle%20the%20specific%20ones%20in%20my%20parser%3F"/>
+<message type="incoming_privateMessage" time="1222246783" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Yeah%2C%20that%27s%20fine%2E"/>
+<message type="outgoing_privateMessage" time="1222246787" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="kk"/>
+<message type="outgoing_privateMessage" time="1222246790" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="thanks"/>
+<message type="incoming_privateMessage" time="1222246809" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="sure"/>
+<message type="outgoing_privateMessage" time="1222247031" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="and%20since%20my%20language%20isn%27t%20very%20big%2C%20would%20it%20be%20ok%20to%20include%20parseLiteral%2C%20and%20parseIntLiteral%2C%20and%20parseStringLiteral%20all%20in%201%20class%3F"/>
+<message type="incoming_privateMessage" time="1222247131" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Are%20those%20methods%3F"/>
+<message type="outgoing_privateMessage" time="1222247148" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="yes"/>
+<message type="outgoing_privateMessage" time="1222247156" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="inside%20the%20node%20class%20Literal"/>
+<message type="incoming_privateMessage" time="1222247172" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="sure"/>
+<message type="outgoing_privateMessage" time="1222247199" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="sweet"/>
+<status type="Offline" time="1222248708" medium="AIM" from="abepralle"/>
+<message type="information_standard" time="1222248708" medium="AIM" text="%22Abe%20Pralle%22%20signed%20off%20at%20Wed%20Sep%2024%2002%3A31%3A48%202008%2E"/>
+<message type="information_standard" time="1222249591" medium="AIM" text="You%20have%20been%20disconnected%2E%20Wed%20Sep%2024%2002%3A46%3A31%202008%2E"/>
+<session type="stop" time="1222251393" medium="AIM" to="abepralle" from="bjcullinan"/>
+<icon time="1222844079" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1222844079%2Ejpg"/>
+<icon time="1224118518" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1224118518%2Ebmp"/>
+<icon time="1224953115" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1224953115%2Ejpg"/>
+<icon time="1225217270" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1225217270%2Ebmp"/>
+<session type="start" time="1225482530" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1225482549" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Crystal%20is%20going%20to%20meet%20Ronald%20Moore%2C%20and%20hopefully%20get%20his%20autograph%20on%20a%20copy%20of%20BSG%2E"/>
+<message type="incoming_privateMessage" time="1225482580" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="Sweet%21"/>
+<message type="incoming_privateMessage" time="1225482589" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="How%27d%20that%20happen%3F"/>
+<message type="outgoing_privateMessage" time="1225482689" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="He%20went%20to%20school%20at%20Cornell%2C%20he%20is%20giving%20a%20presentation%2C%20so%20i%20can%20only%20assume%20he%20and%20the%20actor%20he%20is%20bringing%20Christopher%20McDonald%20will%20be%20around%20to%20sign%2E"/>
+<message type="incoming_privateMessage" time="1225482712" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="coolness"/>
+<message type="outgoing_privateMessage" time="1225482724" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="yeah%2C%20i%20am%20excited"/>
+<status type="away" time="1225484106" medium="AIM" from="abepralle"/>
+<session type="stop" time="1225484526" medium="AIM" to="abepralle" from="bjcullinan"/>
+<icon time="1225868890" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1225868890%2Ejpg"/>
+<icon time="1225904897" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1225904897%2Ebmp"/>
+<icon time="1225954325" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1225954325%2Ejpg"/>
+<icon time="1225994358" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1225994358%2Ebmp"/>
+<icon time="1226026154" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1226026154%2Ejpg"/>
+<icon time="1226509815" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1226509815%2Ebmp"/>
+<icon time="1226562206" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1226562206%2Ejpg"/>
+<icon time="1226598865" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1226598865%2Ebmp"/>
+<session type="start" time="1226603596" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1226603599" medium="AIM" to="abepralle" from="bjcullinan" from_display="Brian%20Cullinan" text="Are%20you%20there%3F"/>
+<session type="stop" time="1226603600" medium="AIM" to="abepralle" from="bjcullinan"/>
+<session type="start" time="1226610081" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1226610081" medium="AIM" to="bjcullinan" from="abepralle" from_display="Abe%20Pralle" text="am%20now"/>
+<status type="away" time="1226611652" medium="AIM" from="abepralle"/>
+<session type="stop" time="1226612769" medium="AIM" to="abepralle" from="bjcullinan"/>
+<icon time="1226654967" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1226654967%2Ejpg"/>
+<icon time="1226938306" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1226938306%2Ebmp"/>
+<icon time="1231400283" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1231400283%2Ejpg"/>
+<icon time="1231526670" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1231526669%2Ebmp"/>
+<icon time="1231893917" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1231893917%2Ejpg"/>
+<icon time="1232677863" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1232677863%2Ejpg"/>
+<icon time="1232725264" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1232725264%2Ejpg"/>
+<icon time="1233982077" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1233982077%2Ejpg"/>
+<icon time="1234372071" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1234372071%2Ejpg"/>
+<icon time="1234909488" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1234909488%2Ejpg"/>
+<icon time="1234973189" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1234973189%2Ejpg"/>
+<icon time="1235100168" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1235100168%2Ejpg"/>
+<icon time="1235144647" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1235144647%2Ejpg"/>
+<icon time="1235186846" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1235186846%2Ejpg"/>
+<icon time="1235495831" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1235495831%2Ejpg"/>
+<icon time="1235504545" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1235504545%2Ejpg"/>
+<icon time="1235670340" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1235670340%2Ejpg"/>
+<icon time="1235804085" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1235804085%2Ejpg"/>
+<icon time="1236013569" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236013569%2Ejpg"/>
+<icon time="1236041063" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236041063%2Ejpg"/>
+<icon time="1236100110" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236100110%2Ejpg"/>
+<icon time="1236107195" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236107195%2Ejpg"/>
+<icon time="1236113595" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236113595%2Egif"/>
+<icon time="1236186008" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236186008%2Ejpg"/>
+<icon time="1236208375" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236208375%2Egif"/>
+<icon time="1236215476" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236215476%2Egif"/>
+<icon time="1236286227" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236286227%2Ejpg"/>
+<icon time="1236312809" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236312809%2Egif"/>
+<icon time="1236359234" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236359234%2Ejpg"/>
+<icon time="1236382427" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236382426%2Egif"/>
+<icon time="1236615005" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236615005%2Ejpg"/>
+<icon time="1236645494" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236645494%2Egif"/>
+<icon time="1236705251" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236705251%2Ejpg"/>
+<icon time="1236733777" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236733777%2Egif"/>
+<icon time="1236787402" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236787402%2Ejpg"/>
+<icon time="1236888019" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1236888019%2Egif"/>
+<icon time="1237824477" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1237824477%2Ejpg"/>
+<icon time="1237850208" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1237850208%2Egif"/>
+<icon time="1237913611" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1237913611%2Ejpg"/>
+<icon time="1238022961" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1238022961%2Egif"/>
+<icon time="1238088029" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1238088029%2Ejpg"/>
+<icon time="1238113619" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1238113619%2Egif"/>
+<icon time="1238169144" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1238169144%2Ejpg"/>
+<icon time="1238199385" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1238199385%2Egif"/>
+<icon time="1238436647" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1238436647%2Ejpg"/>
+<icon time="1238455013" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1238455013%2Egif"/>
+<icon time="1238520786" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1238520786%2Ejpg"/>
+<icon time="1238528134" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1238528134%2Egif"/>
+<icon time="1238605464" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1238605464%2Ejpg"/>
+<icon time="1238629302" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1238629302%2Egif"/>
+<icon time="1239401247" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1239401247%2Ejpg"/>
+<icon time="1239405402" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1239405402%2Egif"/>
+<icon time="1239642362" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1239642362%2Ejpg"/>
+<icon time="1239666824" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1239666824%2Egif"/>
+<icon time="1239730591" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1239730591%2Ejpg"/>
+<icon time="1239738337" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1239738337%2Egif"/>
+<icon time="1239746134" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1239746134%2Ejpg"/>
+<icon time="1239755820" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1239755820%2Egif"/>
+<icon time="1239814935" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1239814935%2Ejpg"/>
+<icon time="1239846550" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1239846550%2Egif"/>
+<icon time="1239903084" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1239903084%2Ejpg"/>
+<icon time="1239912041" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1239912041%2Egif"/>
+<icon time="1239921555" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1239921555%2Ejpg"/>
+<icon time="1239928214" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1239928214%2Egif"/>
+<icon time="1239984556" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1239984556%2Ejpg"/>
+<icon time="1240012517" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1240012517%2Egif"/>
+<icon time="1240247155" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1240247155%2Ejpg"/>
+<icon time="1240279392" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1240279392%2Egif"/>
+<icon time="1240334929" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1240334929%2Ejpg"/>
+<icon time="1240343359" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1240343359%2Egif"/>
+<icon time="1240419859" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1240419859%2Ejpg"/>
+<icon time="1240443507" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1240443507%2Egif"/>
+<icon time="1240589312" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1240589312%2Ejpg"/>
+<icon time="1240616461" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1240616461%2Egif"/>
+<icon time="1240848499" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1240848499%2Ejpg"/>
+<icon time="1240879734" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1240879734%2Egif"/>
+<icon time="1240940010" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1240940010%2Ejpg"/>
+<icon time="1240950075" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1240950075%2Egif"/>
+<icon time="1241145281" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1241145281%2Ejpg"/>
+<icon time="1241192760" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1241192760%2Ejpg"/>
+<icon time="1241297527" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1241297527%2Egif"/>
+<icon time="1241463646" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1241463646%2Ejpg"/>
+<icon time="1241482714" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1241482714%2Egif"/>
+<icon time="1241556372" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1241556372%2Ejpg"/>
+<icon time="1241567893" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1241567893%2Egif"/>
+<icon time="1241732599" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1241732599%2Ejpg"/>
+<icon time="1241747283" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1241747283%2Egif"/>
+<icon time="1241811608" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1241811608%2Ejpg"/>
+<icon time="1241840776" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1241840776%2Egif"/>
+<icon time="1241893129" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1241893129%2Ejpg"/>
+<icon time="1241905068" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1241905068%2Egif"/>
+<icon time="1242419396" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1242419396%2Ejpg"/>
+<icon time="1242427035" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1242427035%2Egif"/>
+<session type="start" time="1242706247" medium="AIM" to="abepralle" from="bjcullinan"/>
+<message type="information_standard" time="1242706247" medium="AIM" text="NOTE%3A%20This%20user%20is%20offline%2E%20%20Your%20messages%20will%20most%20likely%20%2Anot%2A%20be%20received%21"/>
+<session type="stop" time="1242706289" medium="AIM" to="abepralle" from="bjcullinan"/>
+<icon time="1243197540" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1243197540%2Ejpg"/>
+<icon time="1243209916" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1243209916%2Egif"/>
+<icon time="1243212251" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1243212251%2Ejpg"/>
+<icon time="1243287793" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1243287793%2Egif"/>
+<icon time="1245534993" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1245534993%2Ejpg"/>
+<icon time="1245562532" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1245562532%2Egif"/>
+<icon time="1248938642" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1248938642%2Ejpg"/>
+<icon time="1250353057" medium="AIM" from="abepralle" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Dabepralle%2D1250353057%2Egif"/>

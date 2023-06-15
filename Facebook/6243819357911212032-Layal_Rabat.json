@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6243819357911212032/",
+    "participants": [
+        {
+            "name": "Layal Rabat",
+            "title": "I make data into stories.",
+            "url": "linkedin.com/in/layalrabat",
+            "phone": null,
+            "email": "layal.rabat@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Layal Rabat",
+            "time": "2017-03-04T15:48:00.000Z",
+            "message": "I don't know who you are but how can I not add someone who works as a wizard?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-04T16:40:00.000Z",
+            "message": "Thank you for connecting! That was my thinking too. You are a genius ;)\n"
+        }
+    ]
+}

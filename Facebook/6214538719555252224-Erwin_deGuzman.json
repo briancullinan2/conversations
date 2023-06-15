@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6214538719555252224/",
+    "participants": [
+        {
+            "name": "Erwin deGuzman",
+            "title": "Recruiter / Sourcer / Headhunter",
+            "url": "linkedin.com/in/ejdeguzman",
+            "phone": "",
+            "email": "erwinjdeguzman@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Erwin deGuzman",
+            "time": "2017-12-13T12:00:00.000Z",
+            "message": "Sr. DevOps Engineer Opportunity at Early Warning - Scottsdale\n\nHi Brian, \n\nI understand you may not be actively looking but I came across your resume online and saw you had experience with scripting languages, virtualization and automation. I have a full-time opportunity I would like you to take a look at if you are open to it. Details are below. We will relocate qualified candidates.\n\nPlease feel free to email or call me directly (480-426-2282) if you have any questions or would like more info.\n\nDo you want to build modern, scalable, cutting edge systems, and infrastructure? \n\nWe are looking for rock star DevOps engineers to join our team to build new generation of systems for financial industry.\n\nIf you like working with Big Data, Cloud, IaaS, Paas, microservices, containers, and other cutting edge technologies, this is the job for you!\n\nEssential functions and responsibilities:\n\n- Develop automation and processes to enable teams to deploy, manage, configure, scale and monitor their applications in on premise data center and in cloud\n\n- Architect and recommend fault tolerant and scalable system solutions\n\n- Write scripts and application to support automation, continuous delivery, and monitoring\n\n- System troubleshooting and problem solving across platform and application domains\n\n- Recommend and implement changes to existing hardware and operating system infrastructure\n\n- Represent the Systems Group in Technology Review Boards ensuring that best practices and consistent methodologies are considered\n\n- Diagnose and resolve hardware related server problems (failed disks, network cards, CPU, memory, etc.) and act as escalation point to troubleshoot hardware and operating system problems and suggest possible performance tuning\n\nErwin deGuzman\nerwin.deguzman@earlywarning.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-12-13T20:40:00.000Z",
+            "message": "Thank you for reaching out!\n"
+        },
+        {
+            "from": "Erwin deGuzman",
+            "time": "2017-05-09T12:00:00.000Z",
+            "message": "Full Stack Software Engineer Opportunity - Early Warning - Phoenix AZ - Relo available\n\nBrian, \n\nI understand you may not be actively looking but I came across your impressive profile online. We are currently expanding our Software Engineering and Development team at our corporate office in Scottsdale and I wanted to share with you a little bit about our organization:\n\nWe are creating the future of payments by delivering innovative payment and risk solutions to financial institutions nationwide. For over 25 years, Early Warning has been a leader in financial technology that protects and advances the global financial system.\n\nEarly Warning is owned and governed by seven of the largest banks in the United States, this unique business model facilitates a data exchange system based on collaborative intelligence and trusted exchange. \n\nPlease feel free to email or call me directly (480-426-2282) if you have any questions or would like to learn more about joining our development team.\n\nI look forward to hearing from you.\n\nErwin deGuzman\nerwin.deguzman@earlywarning.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-09T22:57:00.000Z",
+            "message": "I love that cause. I don't love the financial industry.\n"
+        }
+    ]
+}

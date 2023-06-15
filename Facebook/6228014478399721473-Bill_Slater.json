@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6228014478399721473/",
+    "participants": [
+        {
+            "name": "Bill Slater",
+            "title": "Editor Owner at Edit Alchemy LLC",
+            "url": "linkedin.com/in/bill-slater-1b89258a",
+            "phone": null,
+            "email": "editalchemy@me.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-20T01:06:00.000Z"
+        }
+    ]
+}

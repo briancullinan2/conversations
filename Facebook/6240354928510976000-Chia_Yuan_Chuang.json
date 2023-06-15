@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6240354928510976000/",
+    "participants": [
+        {
+            "name": "Chia-Yuan Chuang",
+            "title": "Software Developer at Coplex",
+            "url": "linkedin.com/in/chia-yuan-chuang-28704b4",
+            "phone": null,
+            "email": "lancy0511@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-23T02:22:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

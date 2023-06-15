@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6317506435236405248/",
+    "participants": [
+        {
+            "name": "Dan Garriott",
+            "title": "Hardware Recruiting (R&D) at Apple | I find the best talent for the world's best company | Connect: dgarriott@apple.com",
+            "url": "linkedin.com/in/dangarriott",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Dan Garriott",
+            "message": "Interested in speaking with you.\ndgarriott@apple.com\ndgarriott@apple.com",
+            "time": "2017-09-23T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Ok I'll do it.",
+            "time": "2017-09-25T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I might be too crazy for Apple though",
+            "time": "2017-09-25T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "They don't exactly hire the average genius.",
+            "time": "2017-09-25T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "My biggest gripe with tech companies. As soon as their \"awesome\" product goes out the door I am ready to start criticizing it. Which is great if you are product manager but as someone trying to get the job looks dangerous.",
+            "time": "2017-11-04T16:35:00.000Z"
+        }
+    ]
+}

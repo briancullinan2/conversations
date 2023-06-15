@@ -1,0 +1,69 @@
+{
+    "thread": "/messaging/thread/6194578565032394752/",
+    "participants": [
+        {
+            "name": "Andy Arminio",
+            "title": "Sr IT Architecture Analyst at UnitedHealth Group",
+            "url": "linkedin.com/in/andrewarminio",
+            "phone": null,
+            "email": "andrew.arminio@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-10-05T18:43:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-10-05T18:43:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-10-05T18:47:00.000Z"
+        },
+        {
+            "from": "Andy Arminio",
+            "message": "",
+            "time": "2017-10-05T19:11:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I am looking for a job in Flagstaff to no avail. Where are you working now?",
+            "time": "2017-10-05T22:27:00.000Z"
+        },
+        {
+            "from": "Andy Arminio",
+            "message": "Optum (part of UHG) in Denver. Good luck with your job hunt, Flag's a tough market.",
+            "time": "2017-10-05T00:08:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Yeah thanks",
+            "time": "2017-10-05T00:08:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "What do you think of this?",
+            "time": "2017-10-05T00:09:00.000Z"
+        },
+        {
+            "from": "Andy Arminio",
+            "message": "The colored dots thing for years of experience looks nice, but it's hard to read at a glance. For your bullet points on your employment history, I'd suggest focusing on accomplishments/things built and use active phrasing and numbers if you've got them. Like, instead of \"Automated security scanner/ethical hacking presented in vibrant UI/UX.\", something like \"Created security scanner covering 5000+ vulnerabilities\" or something to that effect.",
+            "time": "2017-10-05T06:32:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Oh good idea.",
+            "time": "2017-10-05T06:32:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "A couple people have had a hard time with the dots like they try and compare them to actual years as if it matters. It's really just to get people to read it.",
+            "time": "2017-10-05T06:34:00.000Z"
+        }
+    ]
+}

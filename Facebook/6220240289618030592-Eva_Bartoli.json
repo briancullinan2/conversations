@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6220240289618030592/",
+    "participants": [
+        {
+            "name": "Eva Bartoli",
+            "title": "Senior Recruiter @TriZetto Group A Cognizant Company",
+            "url": "linkedin.com/in/eva-bartoli-699ab313",
+            "phone": null,
+            "email": "Eva.Bartoli@Cognizant.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-12-29T14:14:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Eva Bartoli",
+            "time": "2017-03-08T11:40:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-11T16:25:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

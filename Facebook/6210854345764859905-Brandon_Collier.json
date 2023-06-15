@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6210854345764859905/",
+    "participants": [
+        {
+            "name": "Brandon Collier",
+            "title": "Firmware Engineer at Intel Corporation",
+            "url": "linkedin.com/in/brandon-collier-44b95567",
+            "phone": "",
+            "email": "brandon@collier.in"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "You're a genius!",
+            "time": "2017-12-03T16:37:00.000Z"
+        },
+        {
+            "from": "Brandon Collier",
+            "message": "I am?",
+            "time": "2017-10-26T17:08:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I think everyone is they just haven't realized it.",
+            "time": "2017-10-26T17:38:00.000Z"
+        }
+    ]
+}

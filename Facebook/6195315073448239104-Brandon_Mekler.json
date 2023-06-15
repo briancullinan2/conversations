@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6195315073448239104/",
+    "participants": [
+        {
+            "name": "Brandon Mekler",
+            "title": "Senior studying at Northern Arizona University",
+            "url": "linkedin.com/in/brandon-mekler-4b7083a4",
+            "phone": "",
+            "email": "bmekler24@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Hi, thank you for the connect!",
+            "time": "2017-10-30T19:30:00.000Z"
+        },
+        {
+            "from": "Brandon Mekler",
+            "message": "Hello and thank you for the connect as well!",
+            "time": "2017-10-30T07:05:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Want to +1 each other's skills?",
+            "time": "2017-10-30T07:05:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "If you max out your skills recruiters can use it to match you to jobs.",
+            "time": "2017-10-30T07:05:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "So I added as many as possible to mine.",
+            "time": "2017-10-30T11:25:00.000Z"
+        }
+    ]
+}

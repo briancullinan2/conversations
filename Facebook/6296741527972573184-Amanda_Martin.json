@@ -1,0 +1,129 @@
+{
+    "thread": "/messaging/thread/6296741527972573184/",
+    "participants": [
+        {
+            "name": "Amanda Martin",
+            "title": "Technical Recruiter at SMCI",
+            "url": "linkedin.com/in/amanda-martin-a97327b0",
+            "phone": "",
+            "email": "AMartin@smci.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Amanda Martin",
+            "time": "2017-07-28T16:42:00.000Z",
+            "message": "Hey Brian! We have an awesome opportunity open right now for a DH client in Scottsdale. They are looking for an AngularJS Front End Web Developer to add to their team. Are you open to getting more details?!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-28T18:36:00.000Z",
+            "message": "What company?\n"
+        },
+        {
+            "from": "Amanda Martin",
+            "time": "2017-07-28T19:40:00.000Z",
+            "message": "ICE\n"
+        },
+        {
+            "from": "Amanda Martin",
+            "time": "2017-07-28T19:40:00.000Z",
+            "message": "International Cruises & Excursions\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-31T17:48:00.000Z",
+            "message": "They don't hire people like me.\n"
+        },
+        {
+            "from": "Amanda Martin",
+            "time": "2017-08-02T15:54:00.000Z",
+            "message": "LOL! What do you mean people like you? :)\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-08-02T15:56:00.000Z",
+            "message": "Disruptive.\n"
+        },
+        {
+            "from": "Amanda Martin",
+            "time": "2017-08-02T16:02:00.000Z",
+            "message": "Oh. OK. I see -- if you happen to know anyone who has Angular experience I certainly appreciate any help. We have a $1000 referral bonus for this role.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-08-02T16:12:00.000Z",
+            "message": "I started to like angular a lot.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-08-02T16:12:00.000Z",
+            "message": "What do they want? Maybe I can do two jobs at a time like Evan Spiegel?\n"
+        },
+        {
+            "from": "Amanda Martin",
+            "time": "2017-08-02T16:23:00.000Z",
+            "message": "Haha! Here is what they are looking for:\nWe are looking for an AngularJS Front-End Web Developer to join our client’s innovative and dynamic technology environment. The successful candidate will develop, test and implement software while working with the Business Development/Product Management teams. \nResponsibilities:\n•\tSupport all phases of software development from creation to implementation and support. \n•\tCreate and maintain web applications and services that interact with platform data management repositories.\n•\tDevelop sophisticated UI utilizing partial design concepts integrated to core API platform.\n•\tCreate reusable modules and components which extend the elements of core AngularJS\n•\tWork with designers, software engineers and architects for platform design and development.\n•\tDesign and build scalable framework to backend services that scale to meet concurrency and performance requirements using C#, ASP.NET MVC, Web API. \n•\tDeliver seamless responsive customer experiences based on various browser/device utilization\n•\tWork with QA team to ensure the solution delivers highest quality and highly available products.\n•\tArchitect and automate the build process for production, using TFS and other toolsets as defined\nRequired:\n•\tBachelor’s degree in Computer Science, Computer Engineering or related field\n•\tMinimum of 5+ years of software development experience with 2+ years AngularJS experience, and a deep knowledge of best practices\n•\tMust be skilled building RESTful APIs\n•\tMust be able to build UI Web Components\n•\tMust have excellent communication skills, and able to communicate clearly in English, both verbally and written.\n•\tMust have excellent work ethic and attitude\n•\tMust be able to work with little direction, and be able to complete projects under strict deadlines\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-08-07T17:52:00.000Z",
+            "message": "AngularJS or angular 2? AngularJS and Angular2 are out of date. We're on angular 4 now.\n"
+        },
+        {
+            "from": "Amanda Martin",
+            "time": "2017-08-07T21:49:00.000Z",
+            "message": "AngularJS\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-08-07T22:01:00.000Z",
+            "message": "Bummer. That's so outdated. Are you sure that is what they want?\n"
+        },
+        {
+            "from": "Amanda Martin",
+            "time": "2017-08-07T22:07:00.000Z",
+            "message": "Yes, and they're moving to Angular2 soon\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-08-07T22:11:00.000Z",
+            "message": "Wow that's like the perfect scapegoat.\n"
+        },
+        {
+            "from": "Amanda Martin",
+            "time": "2017-08-07T22:18:00.000Z",
+            "message": "What do you mean?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-08-07T22:50:00.000Z",
+            "message": "Hard to get excited about \"moving to that soon\".\n"
+        },
+        {
+            "from": "Amanda Martin",
+            "time": "2017-08-07T23:07:00.000Z",
+            "message": "Well its not Angular4 that's for sure! Sounds/looks like Swiftpage is using some cutting edge technologies.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-08-07T23:23:00.000Z",
+            "message": "It's the only way to make things exciting. Software development is pretty awful.\n"
+        },
+        {
+            "from": "Amanda Martin",
+            "time": "2017-08-07T23:40:00.000Z",
+            "message": "No way! It's exciting! I wish I could be a developer! LOL\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-08-07T23:50:00.000Z",
+            "message": "Really? You like running in to crippling bugs outside your control?\n"
+        },
+        {
+            "from": "Amanda Martin",
+            "time": "2017-08-08T00:08:00.000Z",
+            "message": "Sounds exciting\n"
+        }
+    ]
+}

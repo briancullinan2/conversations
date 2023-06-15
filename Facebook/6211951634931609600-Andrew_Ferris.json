@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6211951634931609600/",
+    "participants": [
+        {
+            "name": "Andrew Ferris",
+            "title": "Specialized Technology Recruiter - Software/Engineering/eDiscovery",
+            "url": "linkedin.com/in/ferrisandrew",
+            "phone": "",
+            "email": "alt.ferrisa@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "You're a genius!",
+            "time": "2017-12-06T17:18:00.000Z"
+        },
+        {
+            "from": "Andrew Ferris",
+            "message": "That's what I keep telling people. How is everything going? I left you a voice mail yesterday, did you get it?",
+            "time": "2017-10-25T18:32:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Yes. Sorry I didn't call back. Things are going smoothly.",
+            "time": "2017-10-25T18:38:00.000Z"
+        }
+    ]
+}

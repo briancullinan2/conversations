@@ -1,0 +1,47 @@
+{
+    "thread": "https://www.facebook.com/messages/t/dylan.hennessy2?filter=unread",
+    "participants": [
+        {
+            "name": "Dylan Hennessy",
+            "description": "Lives in Dallas, Texas",
+            "url": "From Phoenix, Arizona"
+        }
+    ],
+    "messages": [
+        {
+            "time": "2017-11-28T00:24:00.000Z",
+            "from": "Dylan",
+            "message": "Dylan\nHey Brian. You serious about being able to do the app? Honestly, I’m looking for a technical partner. I’ve always had one in the past but I’m outside my element on this one"
+        },
+        {
+            "time": "2017-11-28T00:24:00.000Z",
+            "from": "Brian",
+            "message": "Brian\nCan you describe the project?"
+        },
+        {
+            "time": "2017-11-28T00:24:00.000Z",
+            "from": "Dylan",
+            "message": "Dylan\nSure. Really, without getting too deep into the details, it’s an AR meets Waze styled marketing product specific to niche venues\nHate doing the “it’s Waze” for AR thing but it’s the quickest explanation"
+        },
+        {
+            "time": "2017-11-28T00:24:00.000Z",
+            "from": "Brian",
+            "message": "Brian\nMakes sense."
+        },
+        {
+            "time": "2017-11-28T19:15:00.000Z",
+            "from": "Dylan",
+            "message": "Dylan\nSo, is this within your realm of capability and does it peak interest?"
+        },
+        {
+            "time": "2017-11-28T19:15:00.000Z",
+            "from": "Brian",
+            "message": "Brian\nYeah.  I have like 3 projects that require some mapping directions functions, so I have to play around with the API.  Angular OK for the app?\nHow will the person initiate looking for a place?  Like a basic Yelp style but only listing places you've contracted with?"
+        },
+        {
+            "time": "2017-11-28T22:33:00.000Z",
+            "from": "Dylan",
+            "message": "Dylan\nIt’s geared towards sports venues so they would be able to, from their seats, scan the stadium and see what food is at each concession and where the restaurants are"
+        }
+    ]
+}

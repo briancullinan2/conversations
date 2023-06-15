@@ -1,0 +1,340 @@
+[
+    {
+        "resourceName": "people/c328885162329531520",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMOE9lQWkrWkNjYms9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "4906f50088c6480"
+                    }
+                },
+                "displayName": "Alfred Maldonado",
+                "familyName": "Maldonado",
+                "givenName": "Alfred",
+                "displayNameLastFirst": "Maldonado, Alfred"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "106498852556120421964"
+                    }
+                },
+                "displayName": "alfred maldonado",
+                "familyName": "maldonado",
+                "givenName": "alfred",
+                "displayNameLastFirst": "maldonado, alfred"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "4906f50088c6480"
+                    }
+                },
+                "value": "+1-480-290-4423",
+                "canonicalForm": "+14802904423",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "1 Mutual Connection",
+                "You and Alfred both know Kim Moody"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Driver",
+                "Company Name",
+                "Uber",
+                "Dates Employed",
+                "Jan 2016 – Present",
+                "Employment Duration",
+                "1 yr 11 mos",
+                "Location",
+                "Phoenix, Arizona"
+            ],
+            [
+                "Driver",
+                "Company Name",
+                "Lyft",
+                "Dates Employed",
+                "Nov 2015 – Present",
+                "Employment Duration",
+                "2 yrs 1 mo",
+                "Location",
+                "Phoenix, Arizona"
+            ],
+            [
+                "Intern",
+                "Company Name",
+                "80/20 Records",
+                "Dates Employed",
+                "Mar 2015 – Present",
+                "Employment Duration",
+                "2 yrs 9 mos",
+                "Location",
+                "Phoenix, Arizona"
+            ],
+            [
+                "Ticket Sales Representative",
+                "Company Name",
+                "The Phoenix Symphony",
+                "Dates Employed",
+                "Jun 2013 – Feb 2015",
+                "Employment Duration",
+                "1 yr 9 mos"
+            ],
+            [
+                "Sales Representative",
+                "Company Name",
+                "SkyMall",
+                "Dates Employed",
+                "May 2011 – Apr 2013",
+                "Employment Duration",
+                "2 yrs"
+            ],
+            [
+                "Team Member",
+                "Company Name",
+                "Jamba Juice",
+                "Dates Employed",
+                "Aug 2010 – Apr 2011",
+                "Employment Duration",
+                "9 mos",
+                "Location",
+                "Boulder, Colorado"
+            ],
+            [
+                "Security Guard",
+                "Company Name",
+                "TEAM Security",
+                "Dates Employed",
+                "May 2009 – May 2010",
+                "Employment Duration",
+                "1 yr 1 mo"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of Colorado Boulder",
+                "Field Of Study",
+                "Music",
+                "Dates attended or expected graduation",
+                "2010 – 2011"
+            ],
+            [
+                "University of Colorado Boulder",
+                "Field Of Study",
+                "Music",
+                "Dates attended or expected graduation",
+                "2010 – 2011"
+            ],
+            [
+                "Mesa Community College",
+                "Field Of Study",
+                "Music",
+                "Dates attended or expected graduation",
+                "2006 – 2010"
+            ],
+            [
+                "Mesa Community College",
+                "Field Of Study",
+                "Music",
+                "Dates attended or expected graduation",
+                "2006 – 2010"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Mesa Community College",
+                "40,611 followers"
+            ],
+            [
+                "University of Colorado Boulder",
+                "206,727 followers"
+            ],
+            [
+                "Lyft",
+                "66,006 followers"
+            ],
+            [
+                "Inc. Magazine",
+                "1,829,156 followers"
+            ],
+            [
+                "University of Colorado Boulder",
+                "219,463 followers"
+            ],
+            [
+                "Live Nation Entertainment",
+                "184,335 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (64)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Mesa Community College",
+                "40,611 followers"
+            ],
+            [
+                "Mesa Community College",
+                "40,611 followers"
+            ],
+            [
+                "University of Colorado Boulder",
+                "206,727 followers"
+            ],
+            [
+                "University of Colorado Boulder",
+                "206,727 followers"
+            ],
+            [
+                "Lyft",
+                "66,006 followers"
+            ],
+            [
+                "Lyft",
+                "66,006 followers"
+            ],
+            [
+                "Inc. Magazine",
+                "1,829,156 followers"
+            ],
+            [
+                "Inc. Magazine",
+                "1,829,156 followers"
+            ],
+            [
+                "University of Colorado Boulder",
+                "219,463 followers"
+            ],
+            [
+                "University of Colorado Boulder",
+                "219,463 followers"
+            ],
+            [
+                "Live Nation Entertainment",
+                "184,335 followers"
+            ],
+            [
+                "Live Nation Entertainment",
+                "184,335 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Customer Service",
+                "See 1 endorsement for Customer Service",
+                "1",
+                "Customer Service",
+                "Endorse",
+                "Daniela Tauchmann, M.A., CCRC, CHTP has given an endorsement for this skill"
+            ],
+            [
+                "Customer Service",
+                "See 1 endorsement for Customer Service",
+                "1"
+            ],
+            [
+                "Entertainment",
+                "See 1 endorsement for Entertainment",
+                "1",
+                "Entertainment",
+                "Endorse",
+                "Maria Maldonado has given an endorsement for this skill"
+            ],
+            [
+                "Entertainment",
+                "See 1 endorsement for Entertainment",
+                "1"
+            ],
+            [
+                "Microsoft Office",
+                "See 1 endorsement for Microsoft Office",
+                "1",
+                "Microsoft Office",
+                "Endorse",
+                "Endorsed by 1 connection"
+            ],
+            [
+                "Microsoft Office",
+                "See 1 endorsement for Microsoft Office",
+                "1"
+            ],
+            [
+                "Social Media",
+                "Social Media",
+                "Endorse"
+            ],
+            [
+                "Social Media"
+            ],
+            [
+                "Teaching",
+                "Teaching",
+                "Endorse"
+            ],
+            [
+                "Teaching"
+            ],
+            [
+                "Bands",
+                "Bands",
+                "Endorse"
+            ],
+            [
+                "Bands"
+            ],
+            [
+                "Research",
+                "Research",
+                "Endorse"
+            ],
+            [
+                "Research"
+            ]
+        ],
+        "summary": "",
+        "name": "Alfred Maldonado",
+        "title": "Driver with lyft and Uber, Intern at 80/20 Records",
+        "url": "linkedin.com/in/alfred-maldonado-3613a731",
+        "phone": "4802904423 (Home)",
+        "email": "alfred.maldonado1@gmail.com"
+    }
+]

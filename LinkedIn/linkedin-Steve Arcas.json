@@ -1,0 +1,316 @@
+[
+    {
+        "resourceName": "people/c6145061075697605293",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "5547a47d8c091aad"
+                    }
+                },
+                "displayName": "Steve Arcas",
+                "familyName": "Arcas",
+                "givenName": "Steve",
+                "displayNameLastFirst": "Arcas, Steve"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "102831743248149446050"
+                    }
+                },
+                "displayName": "Steve Arcas",
+                "familyName": "Arcas",
+                "givenName": "Steve",
+                "displayNameLastFirst": "Arcas, Steve"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "5547a47d8c091aad"
+                    }
+                },
+                "value": "sarcas@gmail.com"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "5547a47d8c091aad"
+                    }
+                },
+                "value": "+1-480-375-8600",
+                "canonicalForm": "+14803758600",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "14 Mutual Connections",
+                "You and Steve both know Abe Pralle, Matthew Shanker, and 12 others"
+            ],
+            [
+                "You both studied at Northern Arizona University",
+                "You both studied at Northern Arizona University from 2007 to 2010"
+            ],
+            [
+                "Show more",
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Lighting Designer",
+                "Company Name",
+                "Walter Productions",
+                "Dates Employed",
+                "Sep 2014 – Present",
+                "Employment Duration",
+                "3 yrs 2 mos"
+            ],
+            [
+                "Math Teacher",
+                "Company Name",
+                "Dobson High School",
+                "Dates Employed",
+                "Aug 2012 – Nov 2012",
+                "Employment Duration",
+                "4 mos",
+                "TIR Teacher in Residence program through MPS"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Arts (BA)",
+                "Field Of Study",
+                "Philosophy",
+                "Dates attended or expected graduation",
+                "2007 – 2011"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer",
+                "Company Name",
+                "Free Arts for Abused Children of Arizona",
+                "Dates volunteered",
+                "Feb 2015 – Oct 2015",
+                "Volunteer duration",
+                "9 mos"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Northern Arizona University Alumni Association",
+                "8,811 members"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ],
+            [
+                "Walter Productions",
+                "46 followers"
+            ],
+            [
+                "See connections (94)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Northern Arizona University Alumni Association",
+                "8,811 members"
+            ],
+            [
+                "Northern Arizona University Alumni Association",
+                "8,811 members"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ],
+            [
+                "Walter Productions",
+                "46 followers"
+            ],
+            [
+                "Walter Productions",
+                "46 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Teaching",
+                "See 8 endorsements for Teaching",
+                "8",
+                "Teaching",
+                "Remove Endorsement",
+                "Endorsed by George Rudebusch, who is highly skilled at this",
+                "Endorsed by Ryan Raub and 2 other mutual connections"
+            ],
+            [
+                "Teaching",
+                "See 8 endorsements for Teaching",
+                "8"
+            ],
+            [
+                "Tutoring",
+                "See 5 endorsements for Tutoring",
+                "5",
+                "Tutoring",
+                "Remove Endorsement",
+                "Endorsed by Elyse Field and 1 other mutual connection"
+            ],
+            [
+                "Tutoring",
+                "See 5 endorsements for Tutoring",
+                "5"
+            ],
+            [
+                "Educational Technology",
+                "See 5 endorsements for Educational Technology",
+                "5",
+                "Educational Technology",
+                "Remove Endorsement",
+                "Endorsed by Ryan Raub and 1 other mutual connection",
+                "Endorsed by 4 of your colleagues at Northern Arizona University"
+            ],
+            [
+                "Educational Technology",
+                "See 5 endorsements for Educational Technology",
+                "5"
+            ],
+            [
+                "Classroom Management",
+                "See 3 endorsements for Classroom Management",
+                "3",
+                "Classroom Management",
+                "Remove Endorsement"
+            ],
+            [
+                "Classroom Management",
+                "See 3 endorsements for Classroom Management",
+                "3"
+            ],
+            [
+                "Curriculum Development",
+                "See 3 endorsements for Curriculum Development",
+                "3",
+                "Curriculum Development",
+                "Remove Endorsement"
+            ],
+            [
+                "Curriculum Development",
+                "See 3 endorsements for Curriculum Development",
+                "3"
+            ],
+            [
+                "Algebra",
+                "See 3 endorsements for Algebra",
+                "3",
+                "Algebra",
+                "Remove Endorsement"
+            ],
+            [
+                "Algebra",
+                "See 3 endorsements for Algebra",
+                "3"
+            ],
+            [
+                "Educational Leadership",
+                "See 2 endorsements for Educational Leadership",
+                "2",
+                "Educational Leadership",
+                "Remove Endorsement"
+            ],
+            [
+                "Educational Leadership",
+                "See 2 endorsements for Educational Leadership",
+                "2"
+            ],
+            [
+                "Differentiated Instruction",
+                "See 2 endorsements for Differentiated Instruction",
+                "2",
+                "Differentiated Instruction",
+                "Remove Endorsement"
+            ],
+            [
+                "Differentiated Instruction",
+                "See 2 endorsements for Differentiated Instruction",
+                "2"
+            ],
+            [
+                "Secondary Education",
+                "See 2 endorsements for Secondary Education",
+                "2",
+                "Secondary Education",
+                "Remove Endorsement"
+            ],
+            [
+                "Secondary Education",
+                "See 2 endorsements for Secondary Education",
+                "2"
+            ]
+        ],
+        "summary": "",
+        "name": "Steve Arcas",
+        "title": "Lighting Designer at Walter Productions",
+        "url": "linkedin.com/in/steve-arcas-0b777029",
+        "phone": null,
+        "email": "sarcas@gmail.com"
+    }
+]

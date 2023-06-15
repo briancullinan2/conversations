@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6257720621149540352/",
+    "participants": [
+        {
+            "name": "Thom Shuler",
+            "title": "Sr. Software Engineer",
+            "url": "linkedin.com/in/thomshuler",
+            "phone": "512-694-9104 (Mobile)",
+            "email": "Thom.Shuler+linkedin@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-04-12T00:27:00.000Z",
+            "message": "You're a genius!\n"
+        }
+    ]
+}

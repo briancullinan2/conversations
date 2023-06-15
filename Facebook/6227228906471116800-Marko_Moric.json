@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6227228906471116800/",
+    "participants": [
+        {
+            "name": "Marko Moric",
+            "title": "Principal Training Advisor at StormWind Studios",
+            "url": "linkedin.com/in/onlinetrainingcourse",
+            "phone": "480-339-2946 (Work)",
+            "email": "marko.moric@stormwind.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-17T21:04:00.000Z"
+        }
+    ]
+}

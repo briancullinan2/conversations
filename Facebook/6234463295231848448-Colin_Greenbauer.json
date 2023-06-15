@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6234463295231848448/",
+    "participants": [
+        {
+            "name": "Colin Greenbauer",
+            "title": "Account Executive at SAP",
+            "url": "linkedin.com/in/colin-greenbauer-73a65a23",
+            "phone": "630-303-4806 (Work)",
+            "email": "colin.greenbauer@sap.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-06T20:11:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

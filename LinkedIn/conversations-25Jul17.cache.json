@@ -1,0 +1,28 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "25Jul17",
+    "participants": "Rafi Brosh | Manager, Enterprise Support (Cloud Technical Account Managers) at Amazon Web Services - I am hiring in PHX! > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Rafi Brosh",
+        "url": "linkedin.com/in/rafibrosh",
+        "title": "Manager, Enterprise Support (Cloud Technical Account Managers) at Amazon Web Services - I am hiring in PHX!"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Thanks Brian, I will check and get back to you if relevant.",
+    "time": "2017-07-25T01:40:00.000Z",
+    "title": "Manager, Enterprise Support (Cloud Technical Account Managers) at Amazon Web Services - I am hiring in PHX!"
+  }
+]

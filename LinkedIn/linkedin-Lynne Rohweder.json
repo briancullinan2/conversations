@@ -1,0 +1,651 @@
+[
+    {
+        "resourceName": "people/c8703099777854931189",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgxBM3c5Q1ppMVRyMD0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "78c79f230fd300f5"
+                    }
+                },
+                "displayName": "Lynne Rohweder",
+                "familyName": "Rohweder",
+                "givenName": "Lynne",
+                "displayNameLastFirst": "Rohweder, Lynne"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "78c79f230fd300f5"
+                    }
+                },
+                "value": "lrohweder@epnet.com",
+                "type": "other",
+                "formattedType": "Other"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "78c79f230fd300f5"
+                    }
+                },
+                "value": "roger@epnet.com",
+                "type": "home",
+                "formattedType": "Home"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "78c79f230fd300f5"
+                    }
+                },
+                "value": "(919) 489-9412 ext. 203",
+                "canonicalForm": "+19194899412",
+                "type": "work",
+                "formattedType": "Work"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "78c79f230fd300f5"
+                    }
+                },
+                "value": "+1-919-402-0304",
+                "canonicalForm": "+19194020304",
+                "type": "home",
+                "formattedType": "Home"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "78c79f230fd300f5"
+                    }
+                },
+                "value": "(919) 475-5570",
+                "canonicalForm": "+19194755570",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "78c79f230fd300f5"
+                    }
+                },
+                "value": "919-475-5571",
+                "canonicalForm": "+19194755571",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "5 Mutual Connections",
+                "You and Lynne both know Roger Rohweder, Linda McVey, and 3 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Senior Director - Creative Content/Project Management",
+                "Company Name",
+                "EBSCO Publishing - NoveList Division",
+                "Dates Employed",
+                "Aug 2000 – Present",
+                "Employment Duration",
+                "17 yrs 3 mos",
+                "- High level project management of all customer facing products and releases as well as other projects as defined- Manage and define strategic directions for Creative Content Services for NoveList product line"
+            ],
+            [
+                "Senior Director - Portfolio Management",
+                "Company Name",
+                "EBSCO Information Services - Novelist Division",
+                "Dates Employed",
+                "Jan 2017 – May 2017",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "Durham, North Carolina"
+            ],
+            [
+                "Senior Instruction Designer",
+                "Company Name",
+                "Signature Training",
+                "Dates Employed",
+                "Nov 1997 – Jul 2000",
+                "Employment Duration",
+                "2 yrs 9 mos"
+            ],
+            [
+                "Training Manager",
+                "Company Name",
+                "Mobil Oil",
+                "Dates Employed",
+                "1987 – 1997",
+                "Employment Duration",
+                "10 yrs"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "George Mason University",
+                "Degree Name",
+                "Master of Education (M.Ed.)",
+                "Field Of Study",
+                "Instructional Technology",
+                "Dates attended or expected graduation",
+                "1984 – 1987"
+            ],
+            [
+                "George Mason University",
+                "Degree Name",
+                "Master of Education (M.Ed.)",
+                "Field Of Study",
+                "Instructional Technology",
+                "Dates attended or expected graduation",
+                "1984 – 1987"
+            ],
+            [
+                "University of North Carolina at Chapel Hill",
+                "Degree Name",
+                "Bachelor's degree",
+                "Field Of Study",
+                "French",
+                "Dates attended or expected graduation",
+                "1971 – 1975"
+            ],
+            [
+                "University of North Carolina at Chapel Hill",
+                "Degree Name",
+                "Bachelor's degree",
+                "Field Of Study",
+                "French",
+                "Dates attended or expected graduation",
+                "1971 – 1975"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Scaled Agile Framework® (SAFe®)",
+                "21,651 members"
+            ],
+            [
+                "George Mason University",
+                "160,659 followers"
+            ],
+            [
+                "University of North Carolina at Chapel Hill",
+                "221,389 followers"
+            ],
+            [
+                "George Mason University",
+                "150,582 followers"
+            ],
+            [
+                "University of North Carolina at Chapel Hill",
+                "205,733 followers"
+            ],
+            [
+                "See connections (183)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Scaled Agile Framework® (SAFe®)",
+                "21,651 members"
+            ],
+            [
+                "Scaled Agile Framework® (SAFe®)",
+                "21,651 members"
+            ],
+            [
+                "George Mason University",
+                "160,659 followers"
+            ],
+            [
+                "George Mason University",
+                "160,659 followers"
+            ],
+            [
+                "University of North Carolina at Chapel Hill",
+                "221,389 followers"
+            ],
+            [
+                "University of North Carolina at Chapel Hill",
+                "221,389 followers"
+            ],
+            [
+                "George Mason University",
+                "150,582 followers"
+            ],
+            [
+                "George Mason University",
+                "150,582 followers"
+            ],
+            [
+                "University of North Carolina at Chapel Hill",
+                "205,733 followers"
+            ],
+            [
+                "University of North Carolina at Chapel Hill",
+                "205,733 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Carol Walter",
+                "Senior Development Specialist",
+                "February 13, 2014, Carol reported directly to Lynne",
+                "Lynne was an absolute joy to work for.  She's one of the most intelligent women I've know.  She is extremely knowledgeable of the NoveList offerings, as well as the parent company, EBSCO Industries. She leads and guides her staff with amazing confidence and integrity.  She values new and innovative thinking.  I was blessed to work for her, even for only a short period of time."
+            ],
+            [
+                "Carol Walter",
+                "Senior Development Specialist",
+                "February 13, 2014, Carol reported directly to Lynne"
+            ],
+            [
+                "Carol Walter",
+                "Senior Development Specialist",
+                "February 13, 2014, Carol reported directly to Lynne"
+            ],
+            [
+                "Carol Walter",
+                "Senior Development Specialist",
+                "February 13, 2014, Carol reported directly to Lynne"
+            ],
+            "Senior Development Specialist",
+            [
+                "Lynne was an absolute joy to work for.  She's one of the most intelligent women I've know.  She is extremely knowledgeable of the NoveList offerings, as well as the parent company, EBSCO Industries. She leads and guides her staff with amazing confidence and integrity.  She values new and innovative thinking.  I was blessed to work for her, even for only a short period of time."
+            ],
+            [
+                "Lynne was an absolute joy to work for.  She's one of the most intelligent women I've know.  She is extremely knowledgeable of the NoveList offerings, as well as the parent company, EBSCO Industries. She leads and guides her staff with amazing confidence and integrity.  She values new and innovative thinking.  I was blessed to work for her, even for only a short period of time."
+            ],
+            [
+                "Brittany M. Bryan",
+                "Regional Manager for EBSCO and Community Volunteer",
+                "March 31, 2016, Lynne managed Brittany M. directly",
+                "I first met Brittany Bryan, when she applied for an entry level position with our software company. Out of 20 plus very qualified candidates, she \"stuck out\" because she was focused, smart, articulate and comfortable with herself and her skills. Over the next very short years, she demonstrated such a wealth of talents, that she was quickly promoted to jobs with far more responsibility and leadership while pursuing masters degree in \"her spare time.\" Brittany has many strengths: savvy and insightful communication skills, an innovative spirit, very fast learner, a strong business acumen, a avid listener, a relentless focus on delivery, a personal and professional drive that makes you so excited to have her working for or with you! In the past few years, she has since moved to sales with our parent company where she continues to hone the above skills and most importantly, she makes whoever she is working with feel like they are the most important person on the planet."
+            ],
+            [
+                "Brittany M. Bryan",
+                "Regional Manager for EBSCO and Community Volunteer",
+                "March 31, 2016, Lynne managed Brittany M. directly"
+            ],
+            [
+                "Brittany M. Bryan",
+                "Regional Manager for EBSCO and Community Volunteer",
+                "March 31, 2016, Lynne managed Brittany M. directly"
+            ],
+            [
+                "Brittany M. Bryan",
+                "Regional Manager for EBSCO and Community Volunteer",
+                "March 31, 2016, Lynne managed Brittany M. directly"
+            ],
+            "Regional Manager for EBSCO and Community Volunteer",
+            [
+                "I first met Brittany Bryan, when she applied for an entry level position with our software company. Out of 20 plus very qualified candidates, she \"stuck out\" because she was focused, smart, articulate and comfortable with herself and her skills. Over the next very short years, she demonstrated such a wealth of talents, that she was quickly promoted to jobs with far more responsibility and leadership while pursuing masters degree in \"her spare time.\" Brittany has many strengths: savvy and insightful communication skills, an innovative spirit, very fast learner, a strong business acumen, a avid listener, a relentless focus on delivery, a personal and professional drive that makes you so excited to have her working for or with you! In the past few years, she has since moved to sales with our parent company where she continues to hone the above skills and most importantly, she makes whoever she is working with feel like they are the most important person on the planet."
+            ],
+            [
+                "I first met Brittany Bryan, when she applied for an entry level position with our software company. Out of 20 plus very qualified candidates, she \"stuck out\" because she was focused, smart, articulate and comfortable with herself and her skills. Over the next very short years, she demonstrated such a wealth of talents, that she was quickly promoted to jobs with far more responsibility and leadership while pursuing masters degree in \"her spare time.\" Brittany has many strengths: savvy and insightful communication skills, an innovative spirit, very fast learner, a strong business acumen, a avid listener, a relentless focus on delivery, a personal and professional drive that makes you so excited to have her working for or with you! In the past few years, she has since moved to sales with our parent company where she continues to hone the above skills and most importantly, she makes whoever she is working with feel like they are the most important person on the planet."
+            ]
+        ],
+        "skills": [
+            [
+                "Strategic Planning",
+                "See 16 endorsements for Strategic Planning",
+                "16",
+                "Strategic Planning",
+                "Endorse",
+                "Endorsed by Linda McVey and 1 other mutual connection",
+                "Endorsed by 5 of Lynne’s colleagues at EBSCO Information Services"
+            ],
+            [
+                "Strategic Planning",
+                "See 16 endorsements for Strategic Planning",
+                "16"
+            ],
+            [
+                "Management",
+                "See 16 endorsements for Management",
+                "16",
+                "Management",
+                "Endorse",
+                "Endorsed by Roger Rohweder (mutual connection)",
+                "Endorsed by 4 of Lynne’s colleagues at EBSCO Information Services"
+            ],
+            [
+                "Management",
+                "See 16 endorsements for Management",
+                "16"
+            ],
+            [
+                "Cross-functional Team Leadership",
+                "See 14 endorsements for Cross-functional Team Leadership",
+                "14",
+                "Cross-functional Team Leadership",
+                "Endorse",
+                "Endorsed by Roger Rohweder (mutual connection)",
+                "Endorsed by 4 of Lynne’s colleagues at EBSCO Information Services"
+            ],
+            [
+                "Cross-functional Team Leadership",
+                "See 14 endorsements for Cross-functional Team Leadership",
+                "14"
+            ],
+            [
+                "Project Management",
+                "See 12 endorsements for Project Management",
+                "12",
+                "Project Management",
+                "Endorse"
+            ],
+            [
+                "Project Management",
+                "See 12 endorsements for Project Management",
+                "12"
+            ],
+            [
+                "Interpersonal Communication Abilities",
+                "See 10 endorsements for Interpersonal Communication Abilities",
+                "10",
+                "Interpersonal Communication Abilities",
+                "Endorse"
+            ],
+            [
+                "Interpersonal Communication Abilities",
+                "See 10 endorsements for Interpersonal Communication Abilities",
+                "10"
+            ],
+            [
+                "Leadership",
+                "See 8 endorsements for Leadership",
+                "8",
+                "Leadership",
+                "Endorse"
+            ],
+            [
+                "Leadership",
+                "See 8 endorsements for Leadership",
+                "8"
+            ],
+            [
+                "Training",
+                "See 9 endorsements for Training",
+                "9",
+                "Training",
+                "Endorse"
+            ],
+            [
+                "Training",
+                "See 9 endorsements for Training",
+                "9"
+            ],
+            [
+                "Facilitators",
+                "See 7 endorsements for Facilitators",
+                "7",
+                "Facilitators",
+                "Endorse"
+            ],
+            [
+                "Facilitators",
+                "See 7 endorsements for Facilitators",
+                "7"
+            ],
+            [
+                "Content Management",
+                "See 8 endorsements for Content Management",
+                "8",
+                "Content Management",
+                "Remove Endorsement"
+            ],
+            [
+                "Content Management",
+                "See 8 endorsements for Content Management",
+                "8"
+            ],
+            [
+                "Program Implementation",
+                "See 5 endorsements for Program Implementation",
+                "5",
+                "Program Implementation",
+                "Endorse"
+            ],
+            [
+                "Program Implementation",
+                "See 5 endorsements for Program Implementation",
+                "5"
+            ],
+            [
+                "Strategy",
+                "See 6 endorsements for Strategy",
+                "6",
+                "Strategy",
+                "Endorse"
+            ],
+            [
+                "Strategy",
+                "See 6 endorsements for Strategy",
+                "6"
+            ],
+            [
+                "Agile Project Management",
+                "See 1 endorsement for Agile Project Management",
+                "1",
+                "Agile Project Management",
+                "Endorse"
+            ],
+            [
+                "Agile Project Management",
+                "See 1 endorsement for Agile Project Management",
+                "1"
+            ],
+            [
+                "Scaled Agile Framework (SAFe)",
+                "See 1 endorsement for Scaled Agile Framework (SAFe)",
+                "1",
+                "Scaled Agile Framework (SAFe)",
+                "Endorse"
+            ],
+            [
+                "Scaled Agile Framework (SAFe)",
+                "See 1 endorsement for Scaled Agile Framework (SAFe)",
+                "1"
+            ],
+            [
+                "Interpersonal Communication",
+                "See 1 endorsement for Interpersonal Communication",
+                "1",
+                "Interpersonal Communication",
+                "Endorse"
+            ],
+            [
+                "Interpersonal Communication",
+                "See 1 endorsement for Interpersonal Communication",
+                "1"
+            ],
+            [
+                "Agile Methodologies",
+                "See 2 endorsements for Agile Methodologies",
+                "2",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 2 endorsements for Agile Methodologies",
+                "2"
+            ],
+            [
+                "Leadership Development",
+                "See 5 endorsements for Leadership Development",
+                "5",
+                "Leadership Development",
+                "Endorse"
+            ],
+            [
+                "Leadership Development",
+                "See 5 endorsements for Leadership Development",
+                "5"
+            ],
+            [
+                "Facilitation",
+                "See 3 endorsements for Facilitation",
+                "3",
+                "Facilitation",
+                "Endorse"
+            ],
+            [
+                "Facilitation",
+                "See 3 endorsements for Facilitation",
+                "3"
+            ],
+            [
+                "Customer Service",
+                "See 4 endorsements for Customer Service",
+                "4",
+                "Customer Service",
+                "Endorse"
+            ],
+            [
+                "Customer Service",
+                "See 4 endorsements for Customer Service",
+                "4"
+            ],
+            [
+                "Public Speaking",
+                "See 2 endorsements for Public Speaking",
+                "2",
+                "Public Speaking",
+                "Endorse"
+            ],
+            [
+                "Public Speaking",
+                "See 2 endorsements for Public Speaking",
+                "2"
+            ],
+            [
+                "CRM",
+                "See 3 endorsements for CRM",
+                "3",
+                "CRM",
+                "Endorse"
+            ],
+            [
+                "CRM",
+                "See 3 endorsements for CRM",
+                "3"
+            ],
+            [
+                "Organization",
+                "See 1 endorsement for Organization",
+                "1",
+                "Organization",
+                "Endorse"
+            ],
+            [
+                "Organization",
+                "See 1 endorsement for Organization",
+                "1"
+            ],
+            [
+                "Technical Writing",
+                "See 4 endorsements for Technical Writing",
+                "4",
+                "Technical Writing",
+                "Endorse"
+            ],
+            [
+                "Technical Writing",
+                "See 4 endorsements for Technical Writing",
+                "4"
+            ],
+            [
+                "Content Development",
+                "See 1 endorsement for Content Development",
+                "1",
+                "Content Development",
+                "Endorse"
+            ],
+            [
+                "Content Development",
+                "See 1 endorsement for Content Development",
+                "1"
+            ],
+            [
+                "Program Evaluation",
+                "See 1 endorsement for Program Evaluation",
+                "1",
+                "Program Evaluation",
+                "Endorse"
+            ],
+            [
+                "Program Evaluation",
+                "See 1 endorsement for Program Evaluation",
+                "1"
+            ],
+            [
+                "Library Instruction",
+                "See 1 endorsement for Library Instruction",
+                "1",
+                "Library Instruction",
+                "Endorse"
+            ],
+            [
+                "Library Instruction",
+                "See 1 endorsement for Library Instruction",
+                "1"
+            ],
+            [
+                "Program Management",
+                "See 2 endorsements for Program Management",
+                "2",
+                "Program Management",
+                "Endorse"
+            ],
+            [
+                "Program Management",
+                "See 2 endorsements for Program Management",
+                "2"
+            ]
+        ],
+        "summary": "",
+        "name": "Lynne Rohweder",
+        "title": "Senior Director - Portfolio Management at EBSCO Information Systems - NoveList Division",
+        "url": "linkedin.com/in/lynne-rohweder-95080760",
+        "phone": null,
+        "email": "lynnerohweder@yahoo.com"
+    }
+]

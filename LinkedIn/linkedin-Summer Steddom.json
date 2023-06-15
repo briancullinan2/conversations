@@ -1,0 +1,621 @@
+[
+    {
+        "experience": [
+            "Highlights",
+            [
+                "8 Mutual Connections",
+                "You and Summer both know Leah Shanker, David McArthur, and 6 others"
+            ],
+            [
+                "You both worked at Northern Arizona University",
+                "You both worked at Northern Arizona University from Sep 2007 to May 2009"
+            ],
+            [
+                "Show more",
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Software Systems Engineer - Team Lead",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Oct 2007 – Present",
+                "Employment Duration",
+                "10 yrs 1 mo",
+                "Location",
+                "Flagstaff, Arizona Area",
+                "Technical and managerial lead for a team of 6 software engineers and system administrators.Project technical lead for systems integration with central IAM initiatives. Systems Architect and consultant for campus departments and community partnership organizations.My team and I develop, support and maintain mission critical core services such as fully centralized DNS, DHCP, Metadirectory and Directory Services through LDAP, Web SSO, Federated SSO and MFA/2FA services for campus.Headliner projects I was responsible for:    (2015) Modernization of application risk analysis, vetting and credentialing policies and procedures for centralized management of LOA Implementation of basic Adaptive Authentication for applications based on user LOA and analysis of their connectivity details and device    (2014/2015) Re-architected and modernized Directory Service deployment using UnboundID. Directory services for the following:        i. Centralized Metadirectory for all NAU identities (~200,000 tracked users)        ii. Centralized authority for all web AuthN and AuthZ services (Web SSO, Federated SSO, etc.)        iii. Zone and host record attribute management for DNS/DHCP         iv. Name Services for all Oracle Databases         v. Real-time sender and recipient canonical repository for email gateway    (2014) Implementing MFA for security sensitive positions on campus Providing provisioning via strong-auth and out of band communication for self-service credentialing    (2011) Implementing fully automated DNSSEC deployment for all zones under our NAU.edu umbrella using ISC.org BIND DNS. Asked to speak at the ISC.org Open Day Confrence to detail our deployment success as one of the first Higher Ed entities to fully deeply DNSSEC and the only one to have the system fully automated."
+            ],
+            [
+                "Software Systems Engineer Sr.",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Sep 2002 – Oct 2007",
+                "Employment Duration",
+                "5 yrs 2 mos",
+                "A multi-platform full stack developer (C, C++, PERL, Java, .Net) focused on building middleware tools and services. Received multiple promotions working independently under general strategic direction. Frequently tapped as a formal project technical lead for solutions integrations.Headliner projects I was responsible for:(2007) Migrated university affiliate system into PeopleSoft and established PeopleSoft as the new central personRegistry; keeping the existing Metadirectory as the central identity repository to abstract the ERP from campus integrations.(2006) Implemented single email address/aliases for entire campus community; retiring multiple mail systems using LDAP as the realtime backend for sender/recipient canonical evaluation in the mail gateways.(2005) Developed an ISAPI Extension and Filter in C++ for MS IIS 6 to support CAS WEB SSO (later converted to .Net HttpModule and Java Servlet Filter). (2005) Converted most of the major campus web applications to use CAS Web SSO.(2004) Implemented \"CAS Web SSO\" integration for PeopleSoft. Was told that we were the first institution in the Higher Education space to attempt or complete this.(2004) Customized the WU-imapd server (developed in C) to support \"CAS proxy ticket authentication\" from our web based student portal, uPortal, mail channel.(2003) Developed a dynamic ETL engine for processing information from the PeopleSoft ERP into the centralized Personregistry and Metadirectory.(2003) Developed a dynamic web based GUI in .Net to display the LDAP schema and extended information for campus developers to use as a reference when looking to integrate with the central directory server. (2002) Developed custom SOAP server (wrapped with inetd) and associated services for automated provisioning/deprovisioning of Solaris 9 user accounts from a PERL based client firing on actions from the central LDAP based Metadirectory. Enabled PAM-LDAP and NSS_LDAP   for central user authentication."
+            ],
+            [
+                "Support Systems Analyst",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Dec 2000 – Sep 2002",
+                "Employment Duration",
+                "1 yr 10 mos",
+                "Administered and maintained the organisation's information systems (UNIX and Win-NT) to ensure that they functioned reliably and in accordance with user needs (~25,000 users). Installed, configured, administered, and maintained OS and most complex information systems and associated hardware, in accordance with technical specifications, so that the organisation's information systems function reliably.  Communicated with system users; and investigated, trouble-shoot, and resolved system problems so that user problems are resolved quickly and satisfactorily.Focused mainly on automating account provisioning, PAM-LDAP integration, Solaris 8/9 administration. Also Functioned as a backup Win-NT administrator for"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Electrical and Electronics Engineering",
+                "Dates attended or expected graduation",
+                "1997 – 2001",
+                "Studied semiconductor fabrication and MEMS.Interned with Central IT as a Unix/Solaris Systems Administrator."
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Electrical and Electronics Engineering",
+                "Dates attended or expected graduation",
+                "1997 – 2001",
+                "Studied semiconductor fabrication and MEMS.Interned with Central IT as a Unix/Solaris Systems Administrator."
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science (B.S.)",
+                "Field Of Study",
+                "Electrical and Electronics Engineering",
+                "Dates attended or expected graduation",
+                "1996 – 2001"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science (B.S.)",
+                "Field Of Study",
+                "Electrical and Electronics Engineering",
+                "Dates attended or expected graduation",
+                "1996 – 2001"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Young Adult LGBT Support Group Facilitator (weekly)",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates volunteered",
+                "Feb 2013 – Present",
+                "Volunteer duration",
+                "4 yrs 9 mos",
+                "Cause",
+                "Health",
+                "As a group moderator and facilitator I support transgender youth who are in the process of, or considering, transition. We are heavily based in WPATH.org standards of care and we work to insure that attendees are living healthy and being realistic in their life choices. Much as a life coach, I Individually I help people navigate the complex path of obtaining legal correction of name and gender."
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,809 followers"
+            ],
+            [
+                "See connections (116)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,809 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,809 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "John Campbell",
+                "Peace Corps Volunteer, Dornod Institute, Mongolia",
+                "February 15, 2014, John managed Summer directly",
+                "Summer is a strong technical lead with good interpersonal skills and a deep understanding of business needs. More than once she found solutions to problems that others simply would not or could not find. Her contributions were consistent and outstanding."
+            ],
+            [
+                "John Campbell",
+                "Peace Corps Volunteer, Dornod Institute, Mongolia",
+                "February 15, 2014, John managed Summer directly"
+            ],
+            [
+                "John Campbell",
+                "Peace Corps Volunteer, Dornod Institute, Mongolia",
+                "February 15, 2014, John managed Summer directly"
+            ],
+            [
+                "John Campbell",
+                "Peace Corps Volunteer, Dornod Institute, Mongolia",
+                "February 15, 2014, John managed Summer directly"
+            ],
+            "Peace Corps Volunteer, Dornod Institute, Mongolia",
+            [
+                "Summer is a strong technical lead with good interpersonal skills and a deep understanding of business needs. More than once she found solutions to problems that others simply would not or could not find. Her contributions were consistent and outstanding."
+            ],
+            [
+                "Summer is a strong technical lead with good interpersonal skills and a deep understanding of business needs. More than once she found solutions to problems that others simply would not or could not find. Her contributions were consistent and outstanding."
+            ]
+        ],
+        "skills": [
+            [
+                "Perl",
+                "See 12 endorsements for Perl",
+                "12",
+                "Perl",
+                "Endorse",
+                "Endorsed by 11 of Summer’s colleagues at Northern Arizona University"
+            ],
+            [
+                "Perl",
+                "See 12 endorsements for Perl",
+                "12"
+            ],
+            [
+                "Unix",
+                "See 11 endorsements for Unix",
+                "11",
+                "Unix",
+                "Endorse",
+                "Endorsed by Jeffery Tye, who is highly skilled at this",
+                "Endorsed by Andy Arminio (mutual connection)"
+            ],
+            [
+                "Unix",
+                "See 11 endorsements for Unix",
+                "11"
+            ],
+            [
+                "SQL",
+                "See 10 endorsements for SQL",
+                "10",
+                "SQL",
+                "Endorse",
+                "Endorsed by 9 of Summer’s colleagues at Northern Arizona University"
+            ],
+            [
+                "SQL",
+                "See 10 endorsements for SQL",
+                "10"
+            ],
+            [
+                "Programming",
+                "See 9 endorsements for Programming",
+                "9",
+                "Programming",
+                "Endorse"
+            ],
+            [
+                "Programming",
+                "See 9 endorsements for Programming",
+                "9"
+            ],
+            [
+                "Java",
+                "See 7 endorsements for Java",
+                "7",
+                "Java",
+                "Endorse"
+            ],
+            [
+                "Java",
+                "See 7 endorsements for Java",
+                "7"
+            ],
+            [
+                "Databases",
+                "See 7 endorsements for Databases",
+                "7",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 7 endorsements for Databases",
+                "7"
+            ],
+            [
+                "Linux",
+                "See 6 endorsements for Linux",
+                "6",
+                "Linux",
+                "Endorse"
+            ],
+            [
+                "Linux",
+                "See 6 endorsements for Linux",
+                "6"
+            ],
+            [
+                "Software Development",
+                "See 6 endorsements for Software Development",
+                "6",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development",
+                "See 6 endorsements for Software Development",
+                "6"
+            ],
+            [
+                "HTML",
+                "See 4 endorsements for HTML",
+                "4",
+                "HTML",
+                "Endorse"
+            ],
+            [
+                "HTML",
+                "See 4 endorsements for HTML",
+                "4"
+            ],
+            [
+                "LDAP",
+                "See 4 endorsements for LDAP",
+                "4",
+                "LDAP",
+                "Endorse"
+            ],
+            [
+                "LDAP",
+                "See 4 endorsements for LDAP",
+                "4"
+            ],
+            [
+                "Public Speaking",
+                "See 3 endorsements for Public Speaking",
+                "3",
+                "Public Speaking",
+                "Endorse"
+            ],
+            [
+                "Public Speaking",
+                "See 3 endorsements for Public Speaking",
+                "3"
+            ],
+            [
+                "C++",
+                "See 2 endorsements for C++",
+                "2",
+                "C++",
+                "Endorse"
+            ],
+            [
+                "C++",
+                "See 2 endorsements for C++",
+                "2"
+            ],
+            [
+                "C#",
+                "See 2 endorsements for C#",
+                "2",
+                "C#",
+                "Endorse"
+            ],
+            [
+                "C#",
+                "See 2 endorsements for C#",
+                "2"
+            ],
+            [
+                "DNS Management",
+                "See 2 endorsements for DNS Management",
+                "2",
+                "DNS Management",
+                "Endorse"
+            ],
+            [
+                "DNS Management",
+                "See 2 endorsements for DNS Management",
+                "2"
+            ],
+            [
+                "Authentication",
+                "See 2 endorsements for Authentication",
+                "2",
+                "Authentication",
+                "Endorse"
+            ],
+            [
+                "Authentication",
+                "See 2 endorsements for Authentication",
+                "2"
+            ],
+            [
+                "Two-factor Authentication",
+                "See 2 endorsements for Two-factor Authentication",
+                "2",
+                "Two-factor Authentication",
+                "Endorse"
+            ],
+            [
+                "Two-factor Authentication",
+                "See 2 endorsements for Two-factor Authentication",
+                "2"
+            ],
+            [
+                "Identity Management",
+                "See 2 endorsements for Identity Management",
+                "2",
+                "Identity Management",
+                "Endorse"
+            ],
+            [
+                "Identity Management",
+                "See 2 endorsements for Identity Management",
+                "2"
+            ],
+            [
+                "Higher Education",
+                "See 2 endorsements for Higher Education",
+                "2",
+                "Higher Education",
+                "Endorse"
+            ],
+            [
+                "Higher Education",
+                "See 2 endorsements for Higher Education",
+                "2"
+            ],
+            [
+                "JavaScript",
+                "See 1 endorsement for JavaScript",
+                "1",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 1 endorsement for JavaScript",
+                "1"
+            ],
+            [
+                "Software Engineering",
+                "See 1 endorsement for Software Engineering",
+                "1",
+                "Software Engineering",
+                "Endorse"
+            ],
+            [
+                "Software Engineering",
+                "See 1 endorsement for Software Engineering",
+                "1"
+            ],
+            [
+                "Multi-factor Authentication",
+                "See 1 endorsement for Multi-factor Authentication",
+                "1",
+                "Multi-factor Authentication",
+                "Endorse"
+            ],
+            [
+                "Multi-factor Authentication",
+                "See 1 endorsement for Multi-factor Authentication",
+                "1"
+            ],
+            [
+                "Identity Federation",
+                "See 1 endorsement for Identity Federation",
+                "1",
+                "Identity Federation",
+                "Endorse"
+            ],
+            [
+                "Identity Federation",
+                "See 1 endorsement for Identity Federation",
+                "1"
+            ],
+            [
+                "MySQL",
+                "See 1 endorsement for MySQL",
+                "1",
+                "MySQL",
+                "Endorse"
+            ],
+            [
+                "MySQL",
+                "See 1 endorsement for MySQL",
+                "1"
+            ],
+            [
+                "Identity and Access Management",
+                "See 1 endorsement for Identity and Access Management",
+                "1",
+                "Identity and Access Management",
+                "Endorse"
+            ],
+            [
+                "Identity and Access Management",
+                "See 1 endorsement for Identity and Access Management",
+                "1"
+            ],
+            [
+                "SOAP",
+                "See 1 endorsement for SOAP",
+                "1",
+                "SOAP",
+                "Endorse"
+            ],
+            [
+                "SOAP",
+                "See 1 endorsement for SOAP",
+                "1"
+            ],
+            [
+                "C",
+                "C",
+                "Endorse"
+            ],
+            [
+                "C"
+            ],
+            [
+                "Visual Studio",
+                "Visual Studio",
+                "Endorse"
+            ],
+            [
+                "Visual Studio"
+            ],
+            [
+                "Simulations",
+                "Simulations",
+                "Endorse"
+            ],
+            [
+                "Simulations"
+            ],
+            [
+                "XML",
+                "XML",
+                "Endorse"
+            ],
+            [
+                "XML"
+            ],
+            [
+                "DNSSEC",
+                "DNSSEC",
+                "Endorse"
+            ],
+            [
+                "DNSSEC"
+            ],
+            [
+                "Dhcpd",
+                "Dhcpd",
+                "Endorse"
+            ],
+            [
+                "Dhcpd"
+            ],
+            [
+                "DNS Server",
+                "DNS Server",
+                "Endorse"
+            ],
+            [
+                "DNS Server"
+            ],
+            [
+                "Strong Authentication",
+                "Strong Authentication",
+                "Endorse"
+            ],
+            [
+                "Strong Authentication"
+            ],
+            [
+                "Middleware",
+                "Middleware",
+                "Endorse"
+            ],
+            [
+                "Middleware"
+            ],
+            [
+                "SAML 2.0",
+                "SAML 2.0",
+                "Endorse"
+            ],
+            [
+                "SAML 2.0"
+            ],
+            [
+                "Credentialing",
+                "Credentialing",
+                "Endorse"
+            ],
+            [
+                "Credentialing"
+            ],
+            [
+                "Identity Verification",
+                "Identity Verification",
+                "Endorse"
+            ],
+            [
+                "Identity Verification"
+            ],
+            [
+                "High Availability",
+                "High Availability",
+                "Endorse"
+            ],
+            [
+                "High Availability"
+            ],
+            [
+                "Disaster Recovery",
+                "Disaster Recovery",
+                "Endorse"
+            ],
+            [
+                "Disaster Recovery"
+            ],
+            [
+                "NIST 800-63",
+                "NIST 800-63",
+                "Endorse"
+            ],
+            [
+                "NIST 800-63"
+            ]
+        ],
+        "summary": "    I am a systems architect with a strong emphasis in Identity and Access Management (IAM) coming from a background in full stack web development and enterprise systems administration. I have focused much of my career in management of next gen middleware and core identity services such as: Federated SSO, Metadirectory (Identity Repositories), LDAP, DNS, DHCP. I tend to see myself as a bit of a futurist in the IAM area and work to bring bleeding edge ideas to implementation.\n  \n  \n",
+        "name": "Summer Steddom",
+        "title": "Middleware and IAM Technical Lead - NAU",
+        "url": "linkedin.com/in/summer-steddom-25628582",
+        "phone": null,
+        "email": "Summer.Steddom@nau.edu"
+    }
+]

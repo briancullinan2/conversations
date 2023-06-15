@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6186625693099532288/",
+    "participants": [
+        {
+            "name": "Gaurav Sheoran",
+            "title": "Team Lead at TEKsystems",
+            "url": "linkedin.com/in/sheorangaurav",
+            "phone": "408.418.0161 Ext: 56046 (Work)",
+            "email": "gaurav.sheoran@ifimbschool.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Hey thank you for the connect!",
+            "time": "2017-10-31T20:01:00.000Z"
+        },
+        {
+            "from": "Gaurav Sheoran",
+            "message": "No problem! Thanks for accepting. I did saw your profile updated on indeed today thus was curious if you are looking for some new opportunities in Phoenix? If yes, I would be glad to help you out with that. I take care of positions all across Arizona and California.",
+            "time": "2017-10-31T20:18:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I am actually on the job hunt currently. I would love to know if you have a need in Phoenix for an enthusiastic software developer. I've been programming for over 15 years. How are things going for you? Any suggestions for Phoenix?",
+            "time": "2017-10-31T22:03:00.000Z"
+        },
+        {
+            "from": "Gaurav Sheoran",
+            "message": "Phoenix does have a lot of exciting positions coming up but there are not a lot of good developers out there to grab them. I think we are also communication back and forth in email. Lets schedule a call sometime this week to discuss further as I'm out of office most of next week and first two days of week after that.",
+            "time": "2017-10-31T22:22:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6311297158159179776/",
+    "participants": [
+        {
+            "name": "Christine Hartnett",
+            "title": "Technical Recruiter at GTN Technical Staffing and Consulting",
+            "url": "linkedin.com/in/christine-hartnett-47836391",
+            "phone": "",
+            "email": "christine.hartnett@gtntechnicalstaffing.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-09-06T20:41:00.000Z"
+        },
+        {
+            "from": "Christine Hartnett",
+            "message": "Absolutely! You have an interesting background. Any particular type of development you have been focused on lately?",
+            "time": "2017-11-04T20:44:00.000Z"
+        }
+    ]
+}

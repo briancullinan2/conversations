@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6234841432146919424/",
+    "participants": [
+        {
+            "name": "George Barnes",
+            "title": "Agent of Change",
+            "url": "linkedin.com/in/george-barnes-87264a51",
+            "phone": null,
+            "email": "georgej.barnes@live.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-07T21:13:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

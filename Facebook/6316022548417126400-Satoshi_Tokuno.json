@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6316022548417126400/",
+    "participants": [
+        {
+            "name": "Satoshi Tokuno",
+            "title": "Software Engineer",
+            "url": "linkedin.com/in/satoshi-tokuno-12954b122",
+            "phone": null,
+            "email": "rakumasa@outlook.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Satoshi Tokuno",
+            "message": "",
+            "time": "2017-09-19T21:37:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-09-19T21:37:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Swiftpage is cool, they need someone familiar with sitefinity for that specific role.",
+            "time": "2017-10-11T21:39:00.000Z"
+        },
+        {
+            "from": "Satoshi Tokuno",
+            "message": "Thank you for your response. I have not used Sitefinity, but I could learn it quickly. Do you think the hiring manager is looking for someone who has used it in a workplace environment, or would he/she consider someone who has learned it independently?",
+            "time": "2017-10-11T21:58:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Not sure. Worth an ask though, they probably want entry level",
+            "time": "2017-10-11T22:04:00.000Z"
+        },
+        {
+            "from": "Satoshi Tokuno",
+            "message": "",
+            "time": "2017-09-20T17:38:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,531 @@
+[
+    {
+        "experience": [
+            "Highlights",
+            [
+                "10 Mutual Connections",
+                "You and Mike both know Abe Pralle, Matthew Shanker, and 8 others"
+            ],
+            [
+                "You both studied at Northern Arizona University",
+                "You both studied at Northern Arizona University from 2005 to 2008"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Research Assistant",
+                "Company Name",
+                "University of Colorado Boulder",
+                "Dates Employed",
+                "Aug 2015 – Present",
+                "Employment Duration",
+                "2 yrs 3 mos",
+                "Location",
+                "Boulder, CO",
+                "Working in the Autonomous Robotics & Perception Lab"
+            ],
+            [
+                "Software Engineering Intern",
+                "Company Name",
+                "CANVAS Technology",
+                "Dates Employed",
+                "Jun 2016 – Aug 2016",
+                "Employment Duration",
+                "3 mos",
+                "Developed simulator for evaluating perception & control algorithmsImplemented integration testing framework"
+            ],
+            [
+                "Software Engineering Intern",
+                "Company Name",
+                "Open Source Robotics Foundation",
+                "Dates Employed",
+                "May 2015 – Aug 2015",
+                "Employment Duration",
+                "4 mos",
+                "Location",
+                "Mountain View, CA",
+                "Abstracted scene graph to allow seamless switching of render enginesImplemented render engines in Ogre and NVIDIA OptiXInterfaced new rendering framework with Gazebo simulator"
+            ],
+            [
+                "Software Engineering Intern",
+                "Company Name",
+                "NASA - National Aeronautics and Space Administration",
+                "Dates Employed",
+                "Jun 2014 – May 2015",
+                "Employment Duration",
+                "1 yr",
+                "Location",
+                "Hampton, VA",
+                "Developed algorithms for UAV perception using OpenCV and PCLDesigned and constructed sensor suite & perception pipelineWrote driver interface for IDS uEye cameras"
+            ],
+            [
+                "Database Administrator",
+                "Company Name",
+                "Clean Air Action Corporation",
+                "Dates Employed",
+                "May 2008 – May 2013",
+                "Employment Duration",
+                "5 yrs 1 mo",
+                "Location",
+                "Tulsa, OK",
+                "Developed and managed MySQL database and interfaces through Palm handhelds and the webLed training seminars and conducted field audits in East Africa and Central America project areasDesigned and implemented reports and analysis tools in MySQL, PHP, and Java"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of Colorado Boulder",
+                "Degree Name",
+                "Doctor of Philosophy (Ph.D.)",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2015 – 2018"
+            ],
+            [
+                "University of Colorado Boulder",
+                "Degree Name",
+                "Doctor of Philosophy (Ph.D.)",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2015 – 2018"
+            ],
+            [
+                "University of Colorado Boulder",
+                "Degree Name",
+                "Master’s Degree",
+                "Field Of Study",
+                "Computer Science",
+                "Grade",
+                "4.0",
+                "Dates attended or expected graduation",
+                "2013 – 2015"
+            ],
+            [
+                "University of Colorado Boulder",
+                "Degree Name",
+                "Master’s Degree",
+                "Field Of Study",
+                "Computer Science",
+                "Grade",
+                "4.0",
+                "Dates attended or expected graduation",
+                "2013 – 2015"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor’s Degree",
+                "Field Of Study",
+                "Computer Science",
+                "Grade",
+                "3.5",
+                "Dates attended or expected graduation",
+                "2005 – 2008"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor’s Degree",
+                "Field Of Study",
+                "Computer Science",
+                "Grade",
+                "3.5",
+                "Dates attended or expected graduation",
+                "2005 – 2008"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Zoox Inc.",
+                "5,312 followers"
+            ],
+            [
+                "PAL Robotics",
+                "4,943 followers"
+            ],
+            [
+                "NVIDIA",
+                "229,617 followers"
+            ],
+            [
+                "University of Colorado Boulder",
+                "218,307 followers"
+            ],
+            [
+                "CANVAS Technology",
+                "340 followers"
+            ],
+            [
+                "University of Colorado Boulder",
+                "206,616 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (75)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Zoox Inc.",
+                "5,312 followers"
+            ],
+            [
+                "Zoox Inc.",
+                "5,312 followers"
+            ],
+            [
+                "PAL Robotics",
+                "4,943 followers"
+            ],
+            [
+                "PAL Robotics",
+                "4,943 followers"
+            ],
+            [
+                "NVIDIA",
+                "229,617 followers"
+            ],
+            [
+                "NVIDIA",
+                "229,617 followers"
+            ],
+            [
+                "University of Colorado Boulder",
+                "218,307 followers"
+            ],
+            [
+                "University of Colorado Boulder",
+                "218,307 followers"
+            ],
+            [
+                "CANVAS Technology",
+                "340 followers"
+            ],
+            [
+                "CANVAS Technology",
+                "340 followers"
+            ],
+            [
+                "University of Colorado Boulder",
+                "206,616 followers"
+            ],
+            [
+                "University of Colorado Boulder",
+                "206,616 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Scene Understanding",
+                "Scene Understanding",
+                "Endorse",
+                "Be the first to endorse Mike for this skill"
+            ],
+            [
+                "Scene Understanding"
+            ],
+            [
+                "Light Source Estimation",
+                "Light Source Estimation",
+                "Endorse",
+                "Be the first to endorse Mike for this skill"
+            ],
+            [
+                "Light Source Estimation"
+            ],
+            [
+                "Computer Perception",
+                "Computer Perception",
+                "Endorse",
+                "Be the first to endorse Mike for this skill"
+            ],
+            [
+                "Computer Perception"
+            ],
+            [
+                "Path-tracing",
+                "Path-tracing",
+                "Endorse"
+            ],
+            [
+                "Path-tracing"
+            ],
+            [
+                "C++",
+                "See 2 endorsements for C++",
+                "2",
+                "C++",
+                "Endorse"
+            ],
+            [
+                "C++",
+                "See 2 endorsements for C++",
+                "2"
+            ],
+            [
+                "OptiX",
+                "OptiX",
+                "Endorse"
+            ],
+            [
+                "OptiX"
+            ],
+            [
+                "CUDA",
+                "CUDA",
+                "Endorse"
+            ],
+            [
+                "CUDA"
+            ],
+            [
+                "ROS",
+                "ROS",
+                "Endorse"
+            ],
+            [
+                "ROS"
+            ],
+            [
+                "OpenCV",
+                "OpenCV",
+                "Endorse"
+            ],
+            [
+                "OpenCV"
+            ],
+            [
+                "Java",
+                "See 8 endorsements for Java",
+                "8",
+                "Java",
+                "Endorse"
+            ],
+            [
+                "Java",
+                "See 8 endorsements for Java",
+                "8"
+            ],
+            [
+                "Software Engineering",
+                "See 1 endorsement for Software Engineering",
+                "1",
+                "Software Engineering",
+                "Endorse"
+            ],
+            [
+                "Software Engineering",
+                "See 1 endorsement for Software Engineering",
+                "1"
+            ],
+            [
+                "MySQL",
+                "See 9 endorsements for MySQL",
+                "9",
+                "MySQL",
+                "Remove Endorsement"
+            ],
+            [
+                "MySQL",
+                "See 9 endorsements for MySQL",
+                "9"
+            ],
+            [
+                "Databases",
+                "See 7 endorsements for Databases",
+                "7",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 7 endorsements for Databases",
+                "7"
+            ],
+            [
+                "C#",
+                "See 6 endorsements for C#",
+                "6",
+                "C#",
+                "Endorse"
+            ],
+            [
+                "C#",
+                "See 6 endorsements for C#",
+                "6"
+            ],
+            [
+                "PHP",
+                "See 6 endorsements for PHP",
+                "6",
+                "PHP",
+                "Endorse"
+            ],
+            [
+                "PHP",
+                "See 6 endorsements for PHP",
+                "6"
+            ],
+            [
+                "JavaScript",
+                "See 5 endorsements for JavaScript",
+                "5",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 5 endorsements for JavaScript",
+                "5"
+            ],
+            [
+                "Software Development",
+                "See 4 endorsements for Software Development",
+                "4",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development",
+                "See 4 endorsements for Software Development",
+                "4"
+            ],
+            [
+                "Database Design",
+                "See 3 endorsements for Database Design",
+                "3",
+                "Database Design",
+                "Endorse"
+            ],
+            [
+                "Database Design",
+                "See 3 endorsements for Database Design",
+                "3"
+            ],
+            [
+                "Shell Scripting",
+                "See 3 endorsements for Shell Scripting",
+                "3",
+                "Shell Scripting",
+                "Endorse"
+            ],
+            [
+                "Shell Scripting",
+                "See 3 endorsements for Shell Scripting",
+                "3"
+            ],
+            [
+                "XML",
+                "See 3 endorsements for XML",
+                "3",
+                "XML",
+                "Endorse"
+            ],
+            [
+                "XML",
+                "See 3 endorsements for XML",
+                "3"
+            ],
+            [
+                "Python",
+                "See 3 endorsements for Python",
+                "3",
+                "Python",
+                "Endorse"
+            ],
+            [
+                "Python",
+                "See 3 endorsements for Python",
+                "3"
+            ],
+            [
+                "Software Design",
+                "See 2 endorsements for Software Design",
+                "2",
+                "Software Design",
+                "Endorse"
+            ],
+            [
+                "Software Design",
+                "See 2 endorsements for Software Design",
+                "2"
+            ],
+            [
+                "Unix",
+                "See 2 endorsements for Unix",
+                "2",
+                "Unix",
+                "Endorse"
+            ],
+            [
+                "Unix",
+                "See 2 endorsements for Unix",
+                "2"
+            ],
+            [
+                "HTML 5",
+                "See 1 endorsement for HTML 5",
+                "1",
+                "HTML 5",
+                "Endorse"
+            ],
+            [
+                "HTML 5",
+                "See 1 endorsement for HTML 5",
+                "1"
+            ],
+            [
+                "Android",
+                "See 1 endorsement for Android",
+                "1",
+                "Android",
+                "Endorse"
+            ],
+            [
+                "Android",
+                "See 1 endorsement for Android",
+                "1"
+            ],
+            [
+                "Data Analysis",
+                "See 1 endorsement for Data Analysis",
+                "1",
+                "Data Analysis",
+                "Endorse"
+            ],
+            [
+                "Data Analysis",
+                "See 1 endorsement for Data Analysis",
+                "1"
+            ]
+        ],
+        "summary": "    I am currently pursuing a PhD in Computer Science at the University of Colorado and working as a research assistant in the Autonomous Robotics and Perception Group. My primary research interests are scene reconstruction, light source estimation, and perception for robotic applications.\n  \n  \n",
+        "name": "Mike Kasper",
+        "title": "Research Assistant at University of Colorado Boulder",
+        "url": "linkedin.com/in/mike-kasper",
+        "phone": null,
+        "email": "michael.kasper@colorado.edu"
+    }
+]

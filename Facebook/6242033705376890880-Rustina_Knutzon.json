@@ -1,0 +1,54 @@
+{
+    "thread": "/messaging/thread/6242033705376890880/",
+    "participants": [
+        {
+            "name": "Rustina Knutzon",
+            "title": "Arizona Real Estate Agent",
+            "url": "linkedin.com/in/rustina-knutzon-71083939",
+            "phone": "5152294659 (Mobile)",
+            "email": "rustina025@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Rustina Knutzon",
+            "time": "2017-02-27T16:37:00.000Z",
+            "message": "I came across your profile and am very impressed with your background. Congratulations on the success that you have had in your career. We currently have a few new projects in the works that I think your background would be perfect for. I'd love to speak with you about them if you are interested.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-02-27T17:33:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Rustina Knutzon",
+            "time": "2017-03-22T19:30:00.000Z",
+            "message": "I lead the Vaco Technology consulting division in Phoenix and we know a lot of the same people. \nCould I buy you coffee near your office? I’d love to learn more about your role and be a resource for you in 2017, whether it be with your staffing needs or just to share market intel. \n\nHow does your schedule look March 28th or 30th?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-22T19:34:00.000Z",
+            "message": "Those dates work for me. Coffee would be really convenient at Village Coffee Roasters on via de Ventura and Hayden if you are in the area.\n"
+        },
+        {
+            "from": "Rustina Knutzon",
+            "time": "2017-03-22T19:36:00.000Z",
+            "message": "Perfect! Does 9am work with your schedule?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-22T19:38:00.000Z",
+            "message": "Sure, want to send a calendar invite?\n"
+        },
+        {
+            "from": "Rustina Knutzon",
+            "time": "2017-03-22T19:50:00.000Z",
+            "message": "Yes, what is your email address?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-22T19:56:00.000Z",
+            "message": "Megamindbrian@gmail.com\n"
+        }
+    ]
+}

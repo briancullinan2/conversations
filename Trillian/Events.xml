@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<!DOCTYPE events
+		PUBLIC "--//IETF//DTD RFCxxxx XEVENTS 1.0//EN" "xevents.dtd">
+
+<!-- WARNING: This is a generated file by Trillian.  Do not update while -->
+<!--          Trillian is running otherwise updates will be erased       -->
+
+	<events>
+		<version>1.0</version>
+		<Prefs>
+			<setting name="idle" value="1"/>
+			<setting name="sounds" value="1"/>
+			<setting name="sounds_away" value="1"/>
+			<setting name="sounds_suppress" value="1"/>
+			<setting name="automatic_outbound" value="1"/>
+			<setting name="hide_disabled" value="1"/>
+			<setting name="video_capture" value="1"/>
+			<setting name="away_message" value="Set all Back"/>
+		</Prefs>
+		<AwayList>
+			<AwayGroup name="Root">
+				<AwayMessage label="Sleep" text="Sleep%2E%2E%2E%2E" awayState="1" awayMenu="1" autoRespond="1" system="0">
+					<Status medium="RENDEZVOUS" type="Away"/>
+					<Status medium="IRC" type="Away"/>
+					<Status medium="YAHOO" type="Custom"/>
+					<Status medium="MSN" type="Away"/>
+					<Status medium="AIM" type="Away"/>
+					<Status medium="ICQ" type="Away"/>
+					<Status medium="JABBER" type="xa"/>
+					<Status medium="NOVELL" type="Away"/>
+					<Status medium="XFIRE" type="away"/>
+				</AwayMessage>
+				<AwayMessage label="Vacation" text="I%20will%20be%20on%20vacation%2E%20Limited%20internet%20access%2E%20%20Wireless%20access%20signal%20is%20weak%20but%20i%20will%20check%20in%20every%20few%20hours%2E%20%20Please%20leave%20messages%2E" awayState="1" awayMenu="1" autoRespond="1" system="0">
+					<Status medium="RENDEZVOUS" type="Away"/>
+					<Status medium="IRC" type="Away"/>
+					<Status medium="YAHOO" type="Custom"/>
+					<Status medium="MSN" type="Away"/>
+					<Status medium="AIM" type="Away"/>
+					<Status medium="ICQ" type="Away"/>
+					<Status medium="JABBER" type="xa"/>
+					<Status medium="XFIRE" type="AFK"/>
+					<Status medium="SKYPE" type="na"/>
+					<Status medium="NOVELL" type="Away"/>
+				</AwayMessage>
+				<AwayMessage label="Set%20all%20Away" text="I%20am%20currently%20away%20from%20the%20computer%2E" awayState="1" awayMenu="1" autoRespond="1" system="1">
+					<Status medium="AIM" type="Away"/>
+					<Status medium="ICQ" type="Away"/>
+					<Status medium="MSN" type="Away"/>
+					<Status medium="YAHOO" type="Custom"/>
+					<Status medium="IRC" type="Away"/>
+					<Status medium="RENDEZVOUS" type="Away"/>
+					<Status medium="JABBER" type="xa"/>
+					<Status medium="XFIRE" type="away"/>
+					<Status medium="SKYPE" type="na"/>
+					<Status medium="NOVELL" type="Away"/>
+				</AwayMessage>
+				<AwayMessage label="Set%20all%20Invisible" text="" awayState="1" awayMenu="1" autoRespond="0" system="1">
+					<Status medium="AIM" type="Invisible"/>
+					<Status medium="ICQ" type="Invisible"/>
+					<Status medium="MSN" type="Appear%20Offline"/>
+					<Status medium="YAHOO" type="Invisible"/>
+					<Status medium="JABBER" type="invisible"/>
+					<Status medium="SKYPE" type="invisible"/>
+				</AwayMessage>
+				<AwayMessage label="Set%20all%20Back" text="" awayState="0" awayMenu="1" autoRespond="0" system="1">
+					<Status medium="AIM" type="Back"/>
+					<Status medium="ICQ" type="Available"/>
+					<Status medium="MSN" type="Online"/>
+					<Status medium="YAHOO" type="Available"/>
+					<Status medium="IRC" type="Online"/>
+					<Status medium="RENDEZVOUS" type="Online"/>
+					<Status medium="JABBER" type="online"/>
+					<Status medium="XFIRE" type="online"/>
+					<Status medium="SKYPE" type="online"/>
+					<Status medium="NOVELL" type="Available"/>
+				</AwayMessage>
+				<AwayMessage label="Set%20all%20Idle" text="I%20am%20currently%20idle%2E" awayState="1" awayMenu="0" autoRespond="1" system="1">
+					<Status medium="AIM" type="Do%20Nothing"/>
+					<Status medium="ICQ" type="Do%20Nothing"/>
+					<Status medium="MSN" type="Idle"/>
+					<Status medium="YAHOO" type="Idle"/>
+					<Status medium="IRC" type="Do%20Nothing"/>
+					<Status medium="RENDEZVOUS" type="Idle"/>
+					<Status medium="JABBER" type="away"/>
+					<Status medium="XFIRE" type="do%20nothing"/>
+					<Status medium="SKYPE" type="away"/>
+				</AwayMessage>
+			</AwayGroup>
+		</AwayList>
+		<EventList>
+			<EventItem type="Timer%3A%205" enabled="0">
+				<IdleEvent type="event" time="5"/>
+				<StatusAction type="action" awayMessage="Set%20all%20Idle"/>
+			</EventItem>
+			<EventItem type="Timer%3A%2020" enabled="0">
+				<IdleEvent type="event" time="20"/>
+				<StatusAction type="action" awayMessage="Set%20all%20Away"/>
+			</EventItem>
+			<EventItem type="Events%3A%20Screensaver%20Start" enabled="0">
+				<ProgramEvent type="event" eventType="Events: Screensaver Start"/>
+				<StatusAction type="action" awayMessage="Set%20all%20Away"/>
+			</EventItem>
+			<EventItem type="Events%3A%20Screensaver%20End" enabled="0">
+				<ProgramEvent type="event" eventType="Events: Screensaver End"/>
+				<StatusAction type="action" awayMessage="Set%20all%20Back"/>
+			</EventItem>
+			<EventItem type="Events%3A%20Idle%20back" enabled="0">
+				<ProgramEvent type="event" eventType="Events: Idle back"/>
+				<StatusAction type="action" awayMessage="Set%20all%20Back"/>
+			</EventItem>
+			<EventItem type="Message%3A%20IM%20Outbound" enabled="0">
+				<ProgramEvent type="event" eventType="Message: IM Outbound"/>
+				<StatusAction type="action" awayMessage="Set%20all%20Back"/>
+			</EventItem>
+			<EventItem type="Trillian%3A%20Exit%20Program" enabled="0">
+				<ProgramEvent type="event" eventType="Trillian: Exit Program"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="Trillian%3A%20Load%20Program" enabled="0">
+				<ProgramEvent type="event" eventType="Trillian: Load Program"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="Message%3A%20IM%20Inbound%20%28in%20focus%29" enabled="0">
+				<ProgramEvent type="event" eventType="Message: IM Inbound (in focus)"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="Message%3A%20IM%20Inbound%20%28out%20of%20focus%29" enabled="0">
+				<ProgramEvent type="event" eventType="Message: IM Inbound (out of focus)"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="Message%3A%20IM%20Outbound" enabled="0">
+				<ProgramEvent type="event" eventType="Message: IM Outbound"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="Message%3A%20Chat%20Inbound%20%28in%20focus%29" enabled="0">
+				<ProgramEvent type="event" eventType="Message: Chat Inbound (in focus)"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="Message%3A%20Chat%20Inbound%20%28out%20of%20focus%29" enabled="0">
+				<ProgramEvent type="event" eventType="Message: Chat Inbound (out of focus)"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="Message%3A%20Chat%20Outbound" enabled="0">
+				<ProgramEvent type="event" eventType="Message: Chat Outbound"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="Message%3A%20IM%20Window%20Creation" enabled="0">
+				<ProgramEvent type="event" eventType="Message: IM Window Creation"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="Contact%20List%3A%20Contact%20Signon" enabled="0">
+				<ProgramEvent type="event" eventType="Contact List: Contact Signon"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="Contact%20List%3A%20Contact%20Signoff" enabled="0">
+				<ProgramEvent type="event" eventType="Contact List: Contact Signoff"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="Contact%20List%3A%20MetaContact%20Signon" enabled="0">
+				<ProgramEvent type="event" eventType="Contact List: MetaContact Signon"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="Contact%20List%3A%20MetaContact%20Signoff" enabled="0">
+				<ProgramEvent type="event" eventType="Contact List: MetaContact Signoff"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="Mail%3A%20New%20Mail" enabled="0">
+				<ProgramEvent type="event" eventType="Mail: New Mail"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="Message%3A%20Pending%20Event" enabled="0">
+				<ProgramEvent type="event" eventType="Message: Pending Event"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="File%20Transfer%3A%20Pending%20Event" enabled="0">
+				<ProgramEvent type="event" eventType="File Transfer: Pending Event"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="IRC%3A%20Pending%20DCC%20Event" enabled="0">
+				<ProgramEvent type="event" eventType="IRC: Pending DCC Event"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="Video%3A%20Capture" enabled="0">
+				<ProgramEvent type="event" eventType="Video: Capture"/>
+				<SoundAction type="action" skinBased="1" fileName=""/>
+			</EventItem>
+			<EventItem type="Hotkey%3A%20Ctrl%2DShift%2DI" enabled="1">
+				<HotkeyEvent type="event" alt="0" shift="1" control="1" scan_code="1507329" key="73"/>
+				<ProgramAction type="action" actionText="Events: Next Event"/>
+			</EventItem>
+			<EventItem type="Hotkey%3A%20Ctrl%2DAlt%2DA" enabled="1">
+				<HotkeyEvent type="event" alt="1" shift="0" control="1" scan_code="1966081" key="65"/>
+				<ProgramAction type="action" actionText="Contact List: Toggle Visible"/>
+			</EventItem>
+			<EventItem type="Hotkey%3A%20Ctrl%2DAlt%2DC" enabled="1">
+				<HotkeyEvent type="event" alt="1" shift="0" control="1" scan_code="539885569" key="67"/>
+				<ProgramAction type="action" actionText="Trillian: Open Connection Manager"/>
+			</EventItem>
+		</EventList>
+	</events>

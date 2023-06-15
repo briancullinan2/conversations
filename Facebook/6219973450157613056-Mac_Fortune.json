@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6219973450157613056/",
+    "participants": [
+        {
+            "name": "Mac Fortune",
+            "title": "Experienced medical device professional and entrepreneur",
+            "url": "linkedin.com/in/macfortune",
+            "phone": "480.252.0130 (Mobile)",
+            "email": "macfortune@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-28T20:33:00.000Z"
+        },
+        {
+            "from": "Mac Fortune",
+            "message": "I see your still working full time but are you coding on the side as an independent?\n",
+            "time": "2017-12-29T04:15:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Yes.\n",
+            "time": "2017-12-29T14:19:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "How is it going?\n",
+            "time": "2017-08-11T05:09:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6211945354590507008/",
+    "participants": [
+        {
+            "name": "Simon Chelebian",
+            "title": "Technical Recruiter at VincentBenjamin",
+            "url": "linkedin.com/in/simonchelebian",
+            "phone": null,
+            "email": "Schelebian@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Simon Chelebian",
+            "message": "Hey Brian,\n\nThanks for the connect and hope you're enjoying your new role at The SOS Method Foundation. \n\nIf any of your friends or associates are ever open to exploring new opportunities in the PHX market, feel free to connect us and I can help them find the next best move. Or if you're ever looking for IT talent! \n\nCheers!\n\nSimon\n",
+            "time": "2017-12-06T16:53:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "You're a genius!\n",
+            "time": "2017-12-06T17:17:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I am always open to new opportunities.\n",
+            "time": "2017-12-06T17:34:00.000Z"
+        }
+    ]
+}

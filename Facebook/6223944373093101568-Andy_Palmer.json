@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6223944373093101568/",
+    "participants": [
+        {
+            "name": "Andy Palmer",
+            "title": "Co-Founder/CEO @ Tamr (aka CueBall)",
+            "url": "linkedin.com/in/andypalmer",
+            "phone": null,
+            "email": "andy.palmer@koalab.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-08T19:32:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "26Nov17",
+    "participants": "Brian Cullinan | wizard > Kathy Cullinan | Account Executive",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Kathy Cullinan",
+        "url": "linkedin.com/in/kathy-cullinan-84498724",
+        "email": "kathy@juliebakerdrg.com",
+        "title": "Account Executive"
+      }
+    ],
+    "message": "Hi Kathy, I was wondering if you can introduce me to Jack Cullinan?\n---\n(This message contains content optimized for the LinkedIn Mobile App. Update to the latest version at mobile.linkedin.com)",
+    "time": "2017-11-26T20:07:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "26Nov17",
+    "participants": "Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Thank you for connecting, you must be a genius!",
+    "time": "2017-11-26T20:06:00.000Z",
+    "title": "wizard"
+  }
+]

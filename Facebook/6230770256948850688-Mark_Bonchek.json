@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6230770256948850688/",
+    "participants": [
+        {
+            "name": "Mark Bonchek",
+            "title": "CEO of Shift Thinking, Speaker, Author",
+            "url": "linkedin.com/in/mbonchek",
+            "phone": null,
+            "email": "mark@markbonchek.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-27T15:39:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I want to build a personal analytics system that holds people accountable for how much they learn everyday. There is Atlas informatics, and plenty of spying tools to draw examples from, but my tool would be built for the employee such that they never have to justify their purpose in an annual employee review again, instead they can spoon feed the data to their managers until those managers retire and employee reviews are conducted entirely automatically.\n",
+            "time": "2018-01-27T15:39:00.000Z"
+        },
+        {
+            "from": "Mark Bonchek",
+            "message": "Interesting idea. Have you seen my article on little data?\n",
+            "time": "2018-01-27T15:55:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Link? If it is about how big data isn't useful unless it's useful to the people it was collected from then I agree completely. How come Chrome history only goes back 3 months with no options to change?\n",
+            "time": "2018-01-27T16:04:00.000Z"
+        },
+        {
+            "from": "Mark Bonchek",
+            "message": "https://hbr.org/2013/05/little-data-makes-big-data-mor\n",
+            "time": "2018-01-27T16:55:00.000Z"
+        }
+    ]
+}

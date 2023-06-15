@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6227491949746679808/",
+    "participants": [
+        {
+            "name": "Jane Gordon",
+            "title": "Principal at The Gordon Group",
+            "url": "linkedin.com/in/janekgordon",
+            "phone": null,
+            "email": "jane@gordongroupaz.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-18T14:29:00.000Z"
+        }
+    ]
+}

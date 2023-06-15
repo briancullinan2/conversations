@@ -1,0 +1,68 @@
+{
+    "thread": "https://www.facebook.com/messages/t/1089324394476784",
+    "participants": [
+        {}
+    ],
+    "messages": [
+        {
+            "from": "Craig",
+            "message": "\nCraig\nNice good to hear that im just chilling working on site\nWhat refinements you doing\n",
+            "time": "2017-10-14T19:31:00.000Z"
+        },
+        {
+            "from": "Condor",
+            "message": "\nCondor\nCurrently some bluetooth speakers that I found in a local store that I'm placing everywhere in the house now.. Problem is that they have this annoying AF Chinese voice so I'm thinking of replacing the controller with an Arduino\nAlso my bike is receiving some upgrades.. Gonna integrate one of my Raspberry Pi's in it to power the lights intelligently, based on time of day and proximity of my smartphone\n",
+            "time": "2017-10-14T19:31:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nhttp://grudgedu.synchro.net/\n",
+            "time": "2017-10-14T19:31:00.000Z"
+        },
+        {
+            "from": "Biprodeep",
+            "message": "\nBiprodeep\nIt will be interesting to note, how long it takes for ALSA and KRACK patches to roll out via repos.\n",
+            "time": "2017-10-16T19:06:00.000Z"
+        },
+        {
+            "from": "Condor",
+            "message": "\nCondor\nI wonder about that too actually.. Let's make some predictions!\nI think it'll arrive in less than a week \n",
+            "time": "2017-10-16T19:06:00.000Z"
+        },
+        {
+            "from": "Biprodeep",
+            "message": "\nBiprodeep\nKRACK has unofficially been rolled out by wpa_supplicant maintainers, they didn't just yet put it into their dev tree, once they do it, it will take around a day to get the update.\nRegarding ALSA it has yet to be patched and is a severe kernel bug that can be exploit to escalate privilege.\nALSA might take a week or more.\n",
+            "time": "2017-10-16T19:06:00.000Z"
+        },
+        {
+            "from": "Condor",
+            "message": "\nCondor\nThat's why I presume it'll be patched fast\nLast time that Dirty Cow thing didn't take a whole lot of time to get patched in upstream either\nBtw got any news on the Blueborne vulnerabilities? I haven't been following up with it recently \n",
+            "time": "2017-10-16T19:06:00.000Z"
+        },
+        {
+            "from": "Biprodeep",
+            "message": "\nBiprodeep\nThey have been patched I guess. Haven't check the release updates for them.\n\n",
+            "time": "2017-10-16T19:06:00.000Z"
+        },
+        {
+            "from": "Condor",
+            "message": "\nCondor\nHmm, I see 🤔\nCurrently printing the white paper btw. Looks interesting \n\n",
+            "time": "2017-10-16T19:06:00.000Z"
+        },
+        {
+            "from": "Akshay",
+            "message": "\nAkshay\n",
+            "time": "2017-10-17T13:44:00.000Z"
+        },
+        {
+            "from": "Akshay",
+            "message": "\nAkshay\nHappy Diwali friends \n",
+            "time": "2017-10-17T13:44:00.000Z"
+        },
+        {
+            "from": "Biprodeep",
+            "message": "\nBiprodeep\n+2\n",
+            "time": "2017-10-17T13:44:00.000Z"
+        }
+    ]
+}

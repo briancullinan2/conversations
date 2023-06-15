@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6214223726402170881/",
+    "participants": [
+        {
+            "name": "Richard Pollack",
+            "title": "Entrepreneur, CEO, Advisor",
+            "url": "linkedin.com/in/richardpollack",
+            "phone": "(212) 791-7000 (Work)",
+            "email": "rp@leoj.co"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-12T23:46:00.000Z"
+        },
+        {
+            "from": "Richard Pollack",
+            "message": "Pleasure.\n",
+            "time": "2017-12-13T00:07:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "How do you keep up with technology?\n",
+            "time": "2017-12-13T00:10:00.000Z"
+        }
+    ]
+}

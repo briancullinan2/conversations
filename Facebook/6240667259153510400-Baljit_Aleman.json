@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6240667259153510400/",
+    "participants": [
+        {
+            "name": "Baljit Aleman",
+            "title": "Operations Manager at Nationwide Insurance",
+            "url": "linkedin.com/in/baljit-aleman-68255045",
+            "phone": "210-800-6124 (Mobile)",
+            "email": "baljit.sihan@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-23T23:03:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Baljit Aleman",
+            "time": "2018-02-23T23:04:00.000Z",
+            "message": "👍\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-23T23:24:00.000Z",
+            "message": "👍\n"
+        }
+    ]
+}

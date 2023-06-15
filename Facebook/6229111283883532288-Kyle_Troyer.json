@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6229111283883532288/",
+    "participants": [
+        {
+            "name": "Kyle Troyer",
+            "title": "Application Engineer at Humana",
+            "url": "linkedin.com/in/kyle-troyer-b5854776",
+            "phone": null,
+            "email": "sktpnk605@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting me!\n",
+            "time": "2018-01-23T01:44:00.000Z"
+        }
+    ]
+}

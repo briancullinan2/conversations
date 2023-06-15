@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6214500650726809600/",
+    "participants": [
+        {
+            "name": "Carl (carl@crossfiremedia.com) Ford",
+            "title": "CEO - Crossfire Media",
+            "url": "linkedin.com/in/carlford",
+            "phone": "201-931-5870 (Home)",
+            "email": "carl.ford@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-13T18:06:00.000Z"
+        }
+    ]
+}

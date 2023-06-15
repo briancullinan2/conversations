@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6219973407937740800/",
+    "participants": [
+        {
+            "name": "Dolph Augustus",
+            "title": "Recruiting + Unleashing Human Potential",
+            "url": "linkedin.com/in/dolphaugustus",
+            "phone": null,
+            "email": "daugustus@mediatemple.net"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-28T20:33:00.000Z"
+        },
+        {
+            "from": "Dolph Augustus",
+            "message": "Happy Holidays!\n",
+            "time": "2017-12-28T21:12:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "You too! :)\n",
+            "time": "2017-12-28T21:15:00.000Z"
+        }
+    ]
+}

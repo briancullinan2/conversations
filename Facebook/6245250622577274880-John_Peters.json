@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6245250622577274880/",
+    "participants": [
+        {
+            "name": "John Peters",
+            "title": "Back to school starts this week, I am excited to see what this next year brings to my family and career at Epiq.",
+            "url": "linkedin.com/in/jmplinkedin",
+            "phone": null,
+            "email": "jmplinkedin@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "John Peters",
+            "time": "2017-03-08T14:33:00.000Z",
+            "message": "I need a wizard\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-08T18:40:00.000Z",
+            "message": "Thank you!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-08T18:40:00.000Z",
+            "message": "Oh. What do you need a wizard for?\n"
+        },
+        {
+            "from": "John Peters",
+            "time": "2017-03-09T20:07:00.000Z",
+            "message": "You never know but if you have one then it makes sense.\n"
+        }
+    ]
+}

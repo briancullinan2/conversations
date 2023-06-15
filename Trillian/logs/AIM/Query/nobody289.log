@@ -1,0 +1,188 @@
+﻿Session Start (bjcullinan:nobody289): Fri May 02 19:16:04 2008
+[05/02/2008 07:16:04 PM] nobody289: hey, what time is the party starting?
+[05/02/2008 07:22:45 PM] Brian Cullinan: when i start drinking
+[05/02/2008 07:23:13 PM] nobody289: so like about 9 this morning? ;)
+[05/02/2008 07:23:26 PM] Brian Cullinan: just about
+[05/02/2008 07:23:34 PM] Brian Cullinan: who is this? i don't have you saved
+[05/02/2008 07:23:54 PM] nobody289: heh.. it's matt
+[05/02/2008 07:24:23 PM] Brian Cullinan: right, i've been meaning to get your IM name
+[05/02/2008 07:24:33 PM] nobody289: well now you're all set
+[05/02/2008 07:25:06 PM] Brian Cullinan: sweet, see you tonight!
+[05/02/2008 07:25:14 PM] nobody289: w00t
+Session Close (Matt Shanker): Fri May 02 19:57:01 2008
+
+
+Session Start (bjcullinan:Matt Shanker): Sat May 03 18:00:12 2008
+Session Close (Matt Shanker): Sat May 03 18:00:23 2008
+
+
+Session Start (bjcullinan:Matt Shanker): Sun May 04 17:11:01 2008
+[05/04/2008 05:11:06 PM] Brian Cullinan: still getting relay?S
+[05/04/2008 05:11:10 PM] Brian Cullinan: *relays?
+[05/04/2008 05:11:10 PM] Matt Shanker: nope
+[05/04/2008 05:11:34 PM] Brian Cullinan: i fixed all the errors in the logs, but i haven't been getting any pandora e-mails
+[05/04/2008 05:11:51 PM] Brian Cullinan: and when i send a test to myself it goes through
+Session Close (Matt Shanker): Sun May 04 17:20:02 2008
+
+
+Session Start (bjcullinan:Matt Shanker): Tue May 06 13:37:20 2008
+[05/06/2008 01:37:24 PM] Brian Cullinan: how did it go?
+Session Close (Matt Shanker): Tue May 06 14:19:02 2008
+
+
+Session Start (bjcullinan:Matt Shanker): Wed May 14 20:16:59 2008
+[05/14/2008 08:17:13 PM] Brian Cullinan: do you have an extra (even crappy) power supply?
+[05/14/2008 08:17:16 PM] Brian Cullinan: for a computer
+[05/14/2008 08:17:20 PM] Matt Shanker: nope
+[05/14/2008 08:17:23 PM] Brian Cullinan: bummer
+[05/14/2008 08:17:37 PM] Brian Cullinan: i really don't want to put in a newegg order
+Session Close (Matt Shanker): Wed May 14 20:18:05 2008
+
+
+Session Start (bjcullinan:Matt Shanker): Wed May 28 23:40:46 2008
+[05/28/2008 11:41:02 PM] Brian Cullinan: for defcon we need a room for 5th through the 10th right?
+[05/28/2008 11:41:11 PM] Brian Cullinan: or 6th
+[05/28/2008 11:41:14 PM] Brian Cullinan: is the wednesday
+[05/28/2008 11:41:24 PM] Brian Cullinan: are we spending tuesday night there?
+[05/28/2008 11:41:32 PM] Matt Shanker: nope, just wednesday
+[05/28/2008 11:41:35 PM] Brian Cullinan: oh
+[05/28/2008 11:41:36 PM] Brian Cullinan: ok
+[05/28/2008 11:41:41 PM] Brian Cullinan: i am booking a room now
+[05/28/2008 11:41:47 PM] Matt Shanker: coo
+[05/28/2008 11:42:02 PM] Brian Cullinan: what is a delux room?
+[05/28/2008 11:42:09 PM] Matt Shanker: *shrug*
+[05/28/2008 11:57:03 PM] *** You have been disconnected. Wed May 28 23:57:03 2008.
+Session Close (Matt Shanker): Wed May 28 23:58:21 2008
+
+
+Session Start (bjcullinan:Matt Shanker): Mon Jul 21 22:16:49 2008
+[07/21/2008 10:16:57 PM] Brian Cullinan: where is your wife?
+[07/21/2008 10:17:13 PM] Brian Cullinan: how is your summer goin' man/
+[07/21/2008 10:17:14 PM] Brian Cullinan: ?
+[07/21/2008 10:17:17 PM] Brian Cullinan: long time no see
+[07/21/2008 10:17:25 PM] Brian Cullinan: you excited for defcon?
+Session Close (Matt Shanker): Mon Jul 21 22:24:58 2008
+
+
+Session Start (bjcullinan:Matt Shanker): Fri Aug 01 03:09:15 2008
+[08/01/2008 03:09:49 AM] Brian Cullinan: Leah's elbow alright? those two are too crazy for their own good.
+Session Close (Matt Shanker): Fri Aug 01 03:09:55 2008
+
+
+Session Start (bjcullinan:Matt Shanker): Sun Aug 03 22:08:50 2008
+[08/03/2008 10:08:59 PM] Brian Cullinan: trying to get mythtv set up
+[08/03/2008 10:09:04 PM] Brian Cullinan: it sucks
+Session Close (Matt Shanker): Sun Aug 03 23:11:48 2008
+
+
+Session Start (bjcullinan:Matt Shanker): Sun Aug 03 23:36:06 2008
+[08/03/2008 11:36:09 PM] Brian Cullinan: you around?
+[08/03/2008 11:36:14 PM] Brian Cullinan: i have a myth question.
+[08/03/2008 11:37:08 PM] Matt Shanker: sure
+[08/03/2008 11:37:10 PM] Matt Shanker: what up?
+[08/03/2008 11:37:27 PM] Brian Cullinan: i keep getting tv error: failed to get recording show list
+[08/03/2008 11:38:07 PM] Brian Cullinan: my tuner even works in vlc without a channel change, and whenever i run mythtv from the command line it opens up like it is going to start and then immediately exits and that is the error i get
+[08/03/2008 11:38:23 PM] Matt Shanker: did you run mythfilldatabase and make sure the backend is running after that?
+[08/03/2008 11:38:29 PM] Brian Cullinan: ye
+[08/03/2008 11:38:32 PM] Brian Cullinan: s
+[08/03/2008 11:38:40 PM] Matt Shanker: dunno, never seen that error before
+[08/03/2008 11:39:50 PM] Matt Shanker: did you set up your tuner correctly in the setup program?
+[08/03/2008 11:40:00 PM] Matt Shanker: that error will appear if there is no available tuner I think
+[08/03/2008 11:40:22 PM] Brian Cullinan: do i have to add all the channels too?
+[08/03/2008 11:40:29 PM] Brian Cullinan: or does it do it automatically?
+[08/03/2008 11:40:48 PM] Brian Cullinan: because when i run mythfilldatabase it says no channel sources defined or something
+[08/03/2008 11:41:00 PM] Matt Shanker: You need to set up a video source and you can scan for channels there
+[08/03/2008 11:41:08 PM] Matt Shanker: and then assign the video source to a tuner
+[08/03/2008 11:41:20 PM] Brian Cullinan: hmmm
+[08/03/2008 11:41:28 PM] Brian Cullinan: on the backend setup correct?
+[08/03/2008 11:41:35 PM] Matt Shanker: I'm pretty sure
+[08/03/2008 11:42:23 PM] Matt Shanker: should look something like this:
+ (Link: http://www.ozmyth.com/storage/users/1/1/images/2/medium.jpg)http://www.ozmyth.com/storage/users/1/1/images/2/medium.jpg
+[08/03/2008 11:42:48 PM] Matt Shanker: (Link: http://w2.eff.org/IP/broadcastflag/cookbook/screenshot-4.png)http://w2.eff.org/IP/broadcastflag/cookbook/screenshot-4.png
+[08/03/2008 11:45:00 PM] *** "Matt Shanker" signed off at Sun Aug 03 23:45:00 2008.
+[08/03/2008 11:51:41 PM] *** "Matt Shanker" signed on at Sun Aug 03 23:51:41 2008.
+Session Close (Matt Shanker): Mon Aug 04 00:21:43 2008
+
+
+Session Start (bjcullinan:Matt Shanker): Mon Aug 04 00:22:54 2008
+[08/04/2008 12:22:57 AM] Brian Cullinan: got it
+[08/04/2008 12:23:03 AM] Matt Shanker: coo
+[08/04/2008 12:23:08 AM] Brian Cullinan: that was ridiculous
+[08/04/2008 12:23:16 AM] Brian Cullinan: definitely a bad ui design
+[08/04/2008 12:23:48 AM] Matt Shanker: the awkwardness of it is partially due to the front-end/backend design
+[08/04/2008 12:24:18 AM] Brian Cullinan: i can't say i disagree with that paradigm because i have tried to write my own media server
+[08/04/2008 12:25:24 AM] Brian Cullinan: but the input devices we automatically inserted when i added the capture card, and then the inputs weren't assigned to any hardware device, for a noobie like me this can be very confusing
+[08/04/2008 12:27:11 AM] Matt Shanker: Yeah, the design is really made to be scalable. For example, you can have one beefy backend server with like 4 TV cards in it in a server closet. then you can put tiny little low-profile clients connected to each TV in your house and it would be a pretty sweet setup
+[08/04/2008 12:31:44 AM] Brian Cullinan: yeah that would be sweet
+[08/04/2008 12:31:57 AM] Brian Cullinan: now that i know it works i can imagine myself expanding on it
+[08/04/2008 12:32:30 AM] *** "Matt Shanker" signed off at Mon Aug 04 00:32:30 2008.
+Session Close (Matt Shanker): Mon Aug 04 01:02:32 2008
+
+
+Session Start (bjcullinan:Matt Shanker): Fri Aug 15 13:21:00 2008
+[08/15/2008 01:21:00 PM] *** NOTE: This user is offline.  Your messages will most likely *not* be received!
+Session Close (Matt Shanker): Fri Aug 15 13:21:01 2008
+
+
+Session Start (bjcullinan:Matt Shanker): Sat Aug 23 16:38:47 2008
+[08/23/2008 04:38:52 PM] Brian Cullinan: whats your phone number?
+Session Close (Matt Shanker): Sat Aug 23 17:02:05 2008
+
+
+Session Start (bjcullinan:Matt Shanker): Tue Sep 09 00:30:46 2008
+[09/09/2008 12:30:54 AM] Brian Cullinan: woo sarah connor chronicles!
+[09/09/2008 12:51:19 AM] *** You have been disconnected. Tue Sep 09 00:51:19 2008.
+[09/09/2008 12:52:55 AM] *** "Matt Shanker" signed on at Tue Sep 09 00:52:55 2008.
+Session Close (Matt Shanker): Tue Sep 09 01:06:47 2008
+
+
+Session Start (bjcullinan:Matt Shanker): Mon Dec 22 20:39:15 2008
+[12/22/2008 08:39:26 PM] Brian Cullinan: Hey, how were the slopes
+[12/22/2008 08:39:28 PM] Brian Cullinan: ?
+[12/22/2008 09:04:19 PM] *** You have been disconnected. Mon Dec 22 21:04:19 2008.
+[12/22/2008 09:04:27 PM] *** "Matt Shanker" signed on at Mon Dec 22 21:04:27 2008.
+[12/22/2008 09:48:56 PM] *** You have been disconnected. Mon Dec 22 21:48:56 2008.
+[12/22/2008 09:49:07 PM] *** "Matt Shanker" signed on at Mon Dec 22 21:49:07 2008.
+[12/22/2008 10:18:34 PM] *** You have been disconnected. Mon Dec 22 22:18:34 2008.
+[12/22/2008 10:18:56 PM] *** "Matt Shanker" signed on at Mon Dec 22 22:18:56 2008.
+[12/22/2008 10:28:46 PM] *** "Matt Shanker" signed off at Mon Dec 22 22:28:46 2008.
+[12/22/2008 10:33:34 PM] *** You have been disconnected. Mon Dec 22 22:33:34 2008.
+[12/22/2008 10:48:23 PM] *** You have been disconnected. Mon Dec 22 22:48:23 2008.
+Session Close (Matt Shanker): Mon Dec 22 23:18:27 2008
+
+
+Session Start (bjcullinan:Matt Shanker): Mon Feb 02 22:31:59 2009
+[02/02/2009 10:32:14 PM] Brian Cullinan: so what is with the tweet OMFG at 3:44 in the morning?
+[02/02/2009 10:32:24 PM] Brian Cullinan: either something is wrong, or you beat left 4 dead
+Session Close (Matt Shanker): Mon Feb 02 23:02:32 2009
+
+
+Session Start (bjcullinan:Matt Shanker): Wed Apr 01 19:25:08 2009
+[04/01/2009 07:25:25 PM] Brian Cullinan: i am having a really annoying problem that you might be able to help me with
+[04/01/2009 07:26:14 PM] Brian Cullinan: i finally figured out how to use a rsa key to log into ssh from my laptop to my server, but i can't figure out how to get it to work on my desktop
+[04/01/2009 07:27:01 PM] Brian Cullinan: i generate the key on my desktop, i add to my authorized keys on my server, and it still prompts for a password
+[04/01/2009 07:27:53 PM] Brian Cullinan: nvm, i think it's a problem with IP addresses
+Session Close (Matt Shanker): Wed Apr 01 19:30:52 2009
+
+
+Session Start (bjcullinan:Matt Shanker): Fri Apr 10 15:01:19 2009
+[04/10/2009 03:01:27 PM] Brian Cullinan: Hey i have an email server question for you
+[04/10/2009 03:01:33 PM] Matt Shanker: shoot
+[04/10/2009 03:02:36 PM] Brian Cullinan: So, i have a pop3 and pop3s port open on my server, but my router only forwards the pop3 port currently, if i open the pop3s port will all mail message come in over an encrypted pipe?  do other servers doing the sending check for the secure port first?
+[04/10/2009 03:03:36 PM] Matt Shanker: pop is for the mail client only, other servers doing the sending will be sending to your SMTP server
+[04/10/2009 03:05:09 PM] Brian Cullinan: ok, so i would have to option to receive my mail over encryption.  Is there a way of encrypting my smtp port that other servers send to?  How do i avoid someone intercepting it on it's way inbound?
+[04/10/2009 03:06:57 PM] Matt Shanker: Yes, you can encrypt SMTP, however it has to be agreed upon by both sender and receiver. As far as I know it's only realistic if you are controlling both the sending and receiving servers.
+[04/10/2009 03:07:56 PM] Brian Cullinan: which i am usually not
+[04/10/2009 03:08:13 PM] Brian Cullinan: so do people just not exploit incoming mail?
+[04/10/2009 03:08:22 PM] Brian Cullinan: people only attack checking your mail?
+[04/10/2009 03:09:35 PM] Matt Shanker: Depends on what you mean by exploiting incoming mail. If they can sniff SMTP communication then yes they can read all the mail. That's why for secure email people do client-side encryption (PGP encrypt the message itself)
+[04/10/2009 03:10:30 PM] Brian Cullinan: that makes sense
+[04/10/2009 03:20:15 PM] Brian Cullinan: Weird, i have been receiving and sending emails but i can't get my outgoing server to work in my mail client.
+[04/10/2009 03:26:24 PM] *** "Matt Shanker" signed off at Fri Apr 10 15:26:24 2009.
+Session Close (Matt Shanker): Fri Apr 10 15:56:26 2009
+
+
+Session Start (bjcullinan:nobody289): Mon May 18 21:13:16 2009
+Session Close (Matt Shanker): Mon May 18 21:13:46 2009
+
+

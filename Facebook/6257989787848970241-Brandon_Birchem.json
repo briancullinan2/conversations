@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6257989787848970241/",
+    "participants": [
+        {
+            "name": "Brandon Birchem",
+            "title": "Technical Recruiter at VanderHouwen",
+            "url": "linkedin.com/in/brandonbirchem",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Brandon Birchem",
+            "time": "2017-04-12T12:00:00.000Z",
+            "message": "Sr. Full Stack .NET Engineer\n\nI have a full time direct hire opportunity in Phoenix. Our client is looking to modernize all of their current .NET tech. The stack that will be used is C#/ASP.NET MVC, SQL, and AngularJS. Any interest in talking about the details?\n\nBrandon Birchem\n503-299-6811 | brandon.birchem@vanderhouwen.com\n"
+        }
+    ]
+}

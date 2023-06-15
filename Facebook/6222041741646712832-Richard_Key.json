@@ -1,0 +1,49 @@
+{
+    "thread": "/messaging/thread/6222041741646712832/",
+    "participants": [
+        {
+            "name": "Richard Key",
+            "title": "<title>Web Developer, Video Editor, Lover of Movies.</title>",
+            "url": "linkedin.com/in/richardkey",
+            "phone": "1-520-484-4918 (Mobile)",
+            "email": "social@busyrich.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-03T13:32:00.000Z"
+        },
+        {
+            "from": "Richard Key",
+            "message": "No problem.\n",
+            "time": "2018-01-14T21:28:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "What does loot storm do?\n",
+            "time": "2018-01-14T21:52:00.000Z"
+        },
+        {
+            "from": "Richard Key",
+            "message": "We do creative live streams.\n",
+            "time": "2018-01-14T22:11:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Cool!\n",
+            "time": "2018-01-14T23:35:00.000Z"
+        },
+        {
+            "from": "Richard Key",
+            "message": "Our next stream is Monday 3pm PST. Tune in if you are intrigued. https://www.twitch.tv/lootstorm\n",
+            "time": "2018-01-15T00:05:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Sweet, I will put it on my calendar.\n",
+            "time": "2018-01-15T00:29:00.000Z"
+        }
+    ]
+}

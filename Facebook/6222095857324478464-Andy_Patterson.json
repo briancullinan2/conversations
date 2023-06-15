@@ -1,0 +1,84 @@
+{
+    "thread": "/messaging/thread/6222095857324478464/",
+    "participants": [
+        {
+            "name": "Andy Patterson",
+            "title": "Co Founder at Purpose Pops",
+            "url": "linkedin.com/in/andy-patterson-79b80412",
+            "phone": null,
+            "email": "andympatterson@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-03T17:07:00.000Z"
+        },
+        {
+            "from": "Andy Patterson",
+            "message": "👍🏻\n",
+            "time": "2018-01-03T17:22:00.000Z"
+        },
+        {
+            "from": "Andy Patterson",
+            "message": "How did you stumbled across me on Linkedin?\n",
+            "time": "2018-01-03T17:22:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Showed up in my feed probably one of our mutual connections. I've been friending people with that CEO mindset.\n",
+            "time": "2018-01-03T17:29:00.000Z"
+        },
+        {
+            "from": "Andy Patterson",
+            "message": "ahh gotcha - right on\n",
+            "time": "2018-01-03T17:34:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "How's it going at purpose pops?\n",
+            "time": "2018-01-03T17:35:00.000Z"
+        },
+        {
+            "from": "Andy Patterson",
+            "message": "Its going - a bunch of learning lessons in 2016! \n\nWhat about you, what are you up to?\n",
+            "time": "2018-01-03T17:40:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Just started at champagne Charlie's. Working on sosmethod.herokuapp.com on the side. It's a meditation start up like calm or headspace. An angel is paying for it. Lots of learning in 2016 indeed, got laid off from an EdTech startup. The school system is taking too long for us to get traction. Would have been nice to start taking market share away from Pearson though. :)\n",
+            "time": "2018-01-03T18:05:00.000Z"
+        },
+        {
+            "from": "Andy Patterson",
+            "message": "oh right on, always nice to have angels! What ed tech company? \n\nAnd thats a sharp site man - you doing all the building and UI / UX?\n",
+            "time": "2018-01-03T18:11:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "EdTech was called studysauce.com still up and running if you want to check it out. My partner did the designs I just do the implementation. Works well enough. Not totally happy with the animations yet.\n",
+            "time": "2018-01-03T18:33:00.000Z"
+        },
+        {
+            "from": "Andy Patterson",
+            "message": "gotcha cool cool - so you are more on the technical side than the design UI / UX side of things?\n",
+            "time": "2018-01-03T18:57:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I guess so. I try to spend minimal time in Photoshop.\n",
+            "time": "2018-01-03T19:13:00.000Z"
+        },
+        {
+            "from": "Andy Patterson",
+            "message": "Gotcha - always nice to connect with solid developers! \n\nStay in touch\n",
+            "time": "2018-01-03T20:47:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you. You too! :)\n",
+            "time": "2018-01-03T20:49:00.000Z"
+        }
+    ]
+}

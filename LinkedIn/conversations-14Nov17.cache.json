@@ -1,0 +1,736 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Brian Cullinan | wizard > Alan Smith | Data Center Analyst at CIT Group",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Alan Smith",
+        "url": "linkedin.com/in/alan-smith-a749b88",
+        "email": "smith.j.alan@gmail.com",
+        "title": "Data Center Analyst at CIT Group"
+      }
+    ],
+    "message": "Judge Group?",
+    "time": "2017-11-14T19:30:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Alan Smith | Data Center Analyst at CIT Group > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Alan Smith",
+        "url": "linkedin.com/in/alan-smith-a749b88",
+        "email": "smith.j.alan@gmail.com",
+        "title": "Data Center Analyst at CIT Group"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Apply several times and never hear back",
+    "time": "2017-11-14T19:33:00.000Z",
+    "title": "Data Center Analyst at CIT Group"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Brian Cullinan | wizard > Alan Smith | Data Center Analyst at CIT Group",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Alan Smith",
+        "url": "linkedin.com/in/alan-smith-a749b88",
+        "email": "smith.j.alan@gmail.com",
+        "title": "Data Center Analyst at CIT Group"
+      }
+    ],
+    "message": "10 min",
+    "time": "2017-11-14T19:37:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Alan Smith | Data Center Analyst at CIT Group > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Alan Smith",
+        "url": "linkedin.com/in/alan-smith-a749b88",
+        "email": "smith.j.alan@gmail.com",
+        "title": "Data Center Analyst at CIT Group"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Huh",
+    "time": "2017-11-14T19:42:00.000Z",
+    "title": "Data Center Analyst at CIT Group"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Brian Cullinan | wizard > Alan Smith | Data Center Analyst at CIT Group",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Alan Smith",
+        "url": "linkedin.com/in/alan-smith-a749b88",
+        "email": "smith.j.alan@gmail.com",
+        "title": "Data Center Analyst at CIT Group"
+      }
+    ],
+    "message": "They told me they need a Networking guy I'll ask him to call you. Just got me a job at Charles Schwab.",
+    "time": "2017-11-14T19:43:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Alan Smith | Data Center Analyst at CIT Group > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Alan Smith",
+        "url": "linkedin.com/in/alan-smith-a749b88",
+        "email": "smith.j.alan@gmail.com",
+        "title": "Data Center Analyst at CIT Group"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Okay and sweet man!",
+    "time": "2017-11-14T19:44:00.000Z",
+    "title": "Data Center Analyst at CIT Group"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Brian Cullinan | wizard > Allison Martin | Technical Recruiter at Brooksource",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Allison Martin",
+        "url": "linkedin.com/in/allison-martin-4b8787a7",
+        "email": "amartin@brooksource.com",
+        "title": "Technical Recruiter at Brooksource"
+      }
+    ],
+    "message": "Thank you Allison, what is the name of the company?",
+    "time": "2017-11-14T18:27:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Allison Martin | Technical Recruiter at Brooksource > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Allison Martin",
+        "url": "linkedin.com/in/allison-martin-4b8787a7",
+        "email": "amartin@brooksource.com",
+        "title": "Technical Recruiter at Brooksource"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Our client is Verizon",
+    "time": "2017-11-14T19:31:00.000Z",
+    "title": "Technical Recruiter at Brooksource"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Brian Cullinan | wizard > Allison Martin | Technical Recruiter at Brooksource",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Allison Martin",
+        "url": "linkedin.com/in/allison-martin-4b8787a7",
+        "email": "amartin@brooksource.com",
+        "title": "Technical Recruiter at Brooksource"
+      }
+    ],
+    "message": "OK I could convince them to hire me.",
+    "time": "2017-11-14T21:12:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Allison Martin | Technical Recruiter at Brooksource > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Allison Martin",
+        "url": "linkedin.com/in/allison-martin-4b8787a7",
+        "email": "amartin@brooksource.com",
+        "title": "Technical Recruiter at Brooksource"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "I have attached the job description for you to review. If you are still interested please send your resume to my email at amartin@brooksource.com and we can set up a time to talk more about this opportunity.\n\nThank you,\n\nAllison Martin\nForward attachment\nDownload AWS Solutions Architect (2).docx\nDOC\nAWS Solutions Architect (2).docx\n27 KB",
+    "time": "2017-11-14T21:17:00.000Z",
+    "title": "Technical Recruiter at Brooksource"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Brian Cullinan | wizard > John R. Hall, Ed.D. | CEO, Greenwood Hall; Roosevelt University Board of Trustees; CEO, California Interagency Coordinating Council",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "John R. Hall, Ed.D.",
+        "url": "linkedin.com/in/johnrhall",
+        "phone": "3109078200 (Work)",
+        "email": "jhall@edugaged.com",
+        "title": "CEO, Greenwood Hall; Roosevelt University Board of Trustees; CEO, California Interagency Coordinating Council"
+      }
+    ],
+    "message": "I'd like to add you to my toolbox. ;D\n\n- Brian Cullinan",
+    "time": "2017-11-14T17:13:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Brian Cullinan | wizard > John R. Hall, Ed.D. | CEO, Greenwood Hall; Roosevelt University Board of Trustees; CEO, California Interagency Coordinating Council",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "John R. Hall, Ed.D.",
+        "url": "linkedin.com/in/johnrhall",
+        "phone": "3109078200 (Work)",
+        "email": "jhall@edugaged.com",
+        "title": "CEO, Greenwood Hall; Roosevelt University Board of Trustees; CEO, California Interagency Coordinating Council"
+      }
+    ],
+    "message": "Would you use studysauce.com for memorization?",
+    "time": "2017-11-14T18:29:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Brian Cullinan | wizard > John R. Hall, Ed.D. | CEO, Greenwood Hall; Roosevelt University Board of Trustees; CEO, California Interagency Coordinating Council",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "John R. Hall, Ed.D.",
+        "url": "linkedin.com/in/johnrhall",
+        "phone": "3109078200 (Work)",
+        "email": "jhall@edugaged.com",
+        "title": "CEO, Greenwood Hall; Roosevelt University Board of Trustees; CEO, California Interagency Coordinating Council"
+      }
+    ],
+    "message": "https://www.linkedin.com/in/chris-chomic-252aa410 Referred me to your company.",
+    "time": "2017-11-14T18:29:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Brian Cullinan | wizard > Kevin Neary | Digital Selling Strategies | Engage the Modern Buyer | Event Speaker | Growth Strategist | Tools & Analytics | CEO",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Kevin Neary",
+        "url": "linkedin.com/in/kevinneary",
+        "email": "kevin.neary@connectors.io",
+        "title": "Digital Selling Strategies | Engage the Modern Buyer | Event Speaker | Growth Strategist | Tools & Analytics | CEO"
+      }
+    ],
+    "message": "You look like a genius :D thank you for connecting!",
+    "time": "2017-11-14T18:26:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Brian Cullinan | wizard > Chris Chomic | Market Manager at AccruePartners",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Chris Chomic",
+        "url": "linkedin.com/in/chris-chomic-252aa410",
+        "email": "cchomic@accruepartners.com",
+        "title": "Market Manager at AccruePartners"
+      }
+    ],
+    "message": "I like that stack :D",
+    "time": "2017-11-14T15:35:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Chris Chomic | Market Manager at AccruePartners > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Chris Chomic",
+        "url": "linkedin.com/in/chris-chomic-252aa410",
+        "email": "cchomic@accruepartners.com",
+        "title": "Market Manager at AccruePartners"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Brian, \n\nGood Morning! I hope you had a great weekend. Let me know when you and i can speak in more detail about this position?",
+    "time": "2017-11-14T15:51:00.000Z",
+    "title": "Market Manager at AccruePartners"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Brian Cullinan | wizard > Chris Chomic | Market Manager at AccruePartners",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Chris Chomic",
+        "url": "linkedin.com/in/chris-chomic-252aa410",
+        "email": "cchomic@accruepartners.com",
+        "title": "Market Manager at AccruePartners"
+      }
+    ],
+    "message": "What's the name of this \"great company\"?",
+    "time": "2017-11-14T16:02:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Chris Chomic | Market Manager at AccruePartners > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Chris Chomic",
+        "url": "linkedin.com/in/chris-chomic-252aa410",
+        "email": "cchomic@accruepartners.com",
+        "title": "Market Manager at AccruePartners"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Brian, \n\nThe name of this company is \"Greenwood Hall\"",
+    "time": "2017-11-14T16:04:00.000Z",
+    "title": "Market Manager at AccruePartners"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Brian Cullinan | wizard > Chris Chomic | Market Manager at AccruePartners",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Chris Chomic",
+        "url": "linkedin.com/in/chris-chomic-252aa410",
+        "email": "cchomic@accruepartners.com",
+        "title": "Market Manager at AccruePartners"
+      }
+    ],
+    "message": "Looks good. I've had my fill of EdTech though. Moves too slowly. Noble cause but accounting takes too much money away from students.",
+    "time": "2017-11-14T16:11:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Chris Chomic | Market Manager at AccruePartners > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Chris Chomic",
+        "url": "linkedin.com/in/chris-chomic-252aa410",
+        "email": "cchomic@accruepartners.com",
+        "title": "Market Manager at AccruePartners"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Brian, \n\nThese guys are a little different that what you are thinking. That is why I said it is much easier to have a brief conversation to share the details around the position with you.",
+    "time": "2017-11-14T16:15:00.000Z",
+    "title": "Market Manager at AccruePartners"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Brian Cullinan | wizard > David Bouterse | Director of IT at National Sign Systems",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "David Bouterse",
+        "url": "linkedin.com/in/david-bouterse-a8b4724",
+        "email": "david@bouterse.com",
+        "title": "Director of IT at National Sign Systems"
+      }
+    ],
+    "message": "Do you use Ad Block +?",
+    "time": "2017-11-14T15:36:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Kara M. Goings | CMST Coordinator at Shawmut Design and Construction > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Kara M. Goings",
+        "url": "linkedin.com/in/kara-m-goings-5003716b",
+        "email": "goings.kara@gmail.com",
+        "title": "CMST Coordinator at Shawmut Design and Construction"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Hi Brian, \n\nI hope this message finds you well. Congratulations on your newly acquired position. Are you no longer looking for employment?\n\nThanks!",
+    "time": "2017-11-14T14:56:00.000Z",
+    "title": "CMST Coordinator at Shawmut Design and Construction"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Brian Cullinan | wizard > Kara M. Goings | CMST Coordinator at Shawmut Design and Construction",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Kara M. Goings",
+        "url": "linkedin.com/in/kara-m-goings-5003716b",
+        "email": "goings.kara@gmail.com",
+        "title": "CMST Coordinator at Shawmut Design and Construction"
+      }
+    ],
+    "message": "I would be interested in speaking to them but I haven't heard from anyone for over a week so I figured I just got dropped as a candidate.",
+    "time": "2017-11-14T15:11:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Kara M. Goings | CMST Coordinator at Shawmut Design and Construction > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Kara M. Goings",
+        "url": "linkedin.com/in/kara-m-goings-5003716b",
+        "email": "goings.kara@gmail.com",
+        "title": "CMST Coordinator at Shawmut Design and Construction"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Yes, I apologize for the process taking longer than usual. If you are still interested in the role i will get back to the hiring team and figure out what next steps will be. Thank you!",
+    "time": "2017-11-14T15:29:00.000Z",
+    "title": "CMST Coordinator at Shawmut Design and Construction"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Brian Cullinan | wizard > Kara M. Goings | CMST Coordinator at Shawmut Design and Construction",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Kara M. Goings",
+        "url": "linkedin.com/in/kara-m-goings-5003716b",
+        "email": "goings.kara@gmail.com",
+        "title": "CMST Coordinator at Shawmut Design and Construction"
+      }
+    ],
+    "message": "Thank you!",
+    "time": "2017-11-14T15:30:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Brian Cullinan | wizard > Robert A. Pasionek Energy | Technology | CEO | Innovative Strategies for Healthcare, Tech, Energy | SEC, M&A, & Tech Attorney | COO | JD & MBA",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Robert A. Pasionek Energy | Technology | CEO",
+        "url": "linkedin.com/in/robertapasionek",
+        "phone": "586 850 0058 (Mobile)",
+        "email": "rapasionek@gmail.com",
+        "title": "Innovative Strategies for Healthcare, Tech, Energy | SEC, M&A, & Tech Attorney | COO | JD & MBA"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-11-14T14:54:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Nov17",
+    "participants": "Brian Cullinan | wizard > Ciaran Crean | Founder & CEO, MicksGarage.com",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ciaran Crean",
+        "url": "linkedin.com/in/ciaran-crean-3a6550",
+        "phone": "0868317721 (Mobile)",
+        "email": "ciaran@micksgarage.ie",
+        "title": "Founder & CEO, MicksGarage.com"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-11-14T01:32:00.000Z",
+    "title": "wizard"
+  }
+]

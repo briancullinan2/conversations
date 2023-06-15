@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6215274173665726464/",
+    "participants": [
+        {
+            "name": "Rick Eames",
+            "title": "< >",
+            "url": "linkedin.com/in/rickeames",
+            "phone": null,
+            "email": "athos@pendragon.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-15T21:20:00.000Z"
+        }
+    ]
+}

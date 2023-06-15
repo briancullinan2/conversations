@@ -1,0 +1,386 @@
+[
+    {
+        "resourceName": "people/c5239437519434783882",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMOE9lQWkrWkNjYms9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "48b638aa08c39c8a"
+                    }
+                },
+                "displayName": "Davis Zanot",
+                "familyName": "Zanot",
+                "givenName": "Davis",
+                "displayNameLastFirst": "Zanot, Davis"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "48b638aa08c39c8a"
+                    }
+                },
+                "value": "928-301-7695",
+                "canonicalForm": "+19283017695",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "7 Mutual Connections",
+                "You and Davis both know Abe Pralle, Aaron Boushley, and 5 others"
+            ],
+            [
+                "You both studied at Northern Arizona University",
+                "You both studied at Northern Arizona University from 2006 to 2010"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "Axon",
+                "Dates Employed",
+                "Nov 2016 – Present",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "Seattle"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "AdColony",
+                "Dates Employed",
+                "Nov 2013 – Oct 2016",
+                "Employment Duration",
+                "3 yrs"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2006 – 2013"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "AdColony",
+                "11,515 followers"
+            ],
+            [
+                "Typesafe (now Lightbend)",
+                "5,646 followers"
+            ],
+            [
+                "Axon",
+                "17,045 followers"
+            ],
+            [
+                "Qihoo 360",
+                "14,840 followers"
+            ],
+            [
+                "Jirbo, Inc.",
+                "144 followers"
+            ],
+            [
+                "Killer Infographics",
+                "1,436 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (182)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "AdColony",
+                "11,515 followers"
+            ],
+            [
+                "AdColony",
+                "11,515 followers"
+            ],
+            [
+                "Typesafe (now Lightbend)",
+                "5,646 followers"
+            ],
+            [
+                "Typesafe (now Lightbend)",
+                "5,646 followers"
+            ],
+            [
+                "Axon",
+                "17,045 followers"
+            ],
+            [
+                "Axon",
+                "17,045 followers"
+            ],
+            [
+                "Qihoo 360",
+                "14,840 followers"
+            ],
+            [
+                "Qihoo 360",
+                "14,840 followers"
+            ],
+            [
+                "Jirbo, Inc.",
+                "144 followers"
+            ],
+            [
+                "Jirbo, Inc.",
+                "144 followers"
+            ],
+            [
+                "Killer Infographics",
+                "1,436 followers"
+            ],
+            [
+                "Killer Infographics",
+                "1,436 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Python",
+                "See 10 endorsements for Python",
+                "10",
+                "Python",
+                "Endorse",
+                "Endorsed by 6 of Davis’ colleagues at AdColony"
+            ],
+            [
+                "Python",
+                "See 10 endorsements for Python",
+                "10"
+            ],
+            [
+                "Scala",
+                "See 3 endorsements for Scala",
+                "3",
+                "Scala",
+                "Endorse",
+                "Endorsed by 3 of Davis’ colleagues at AdColony"
+            ],
+            [
+                "Scala",
+                "See 3 endorsements for Scala",
+                "3"
+            ],
+            [
+                "Java",
+                "See 12 endorsements for Java",
+                "12",
+                "Java",
+                "Endorse",
+                "Endorsed by 8 of Davis’ colleagues at AdColony"
+            ],
+            [
+                "Java",
+                "See 12 endorsements for Java",
+                "12"
+            ],
+            [
+                "Android Development",
+                "See 5 endorsements for Android Development",
+                "5",
+                "Android Development",
+                "Endorse"
+            ],
+            [
+                "Android Development",
+                "See 5 endorsements for Android Development",
+                "5"
+            ],
+            [
+                "Git",
+                "See 5 endorsements for Git",
+                "5",
+                "Git",
+                "Endorse"
+            ],
+            [
+                "Git",
+                "See 5 endorsements for Git",
+                "5"
+            ],
+            [
+                "JavaScript",
+                "See 14 endorsements for JavaScript",
+                "14",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 14 endorsements for JavaScript",
+                "14"
+            ],
+            [
+                "Amazon Web Services (AWS)",
+                "See 3 endorsements for Amazon Web Services (AWS)",
+                "3",
+                "Amazon Web Services (AWS)",
+                "Endorse"
+            ],
+            [
+                "Amazon Web Services (AWS)",
+                "See 3 endorsements for Amazon Web Services (AWS)",
+                "3"
+            ],
+            [
+                "OS X",
+                "See 3 endorsements for OS X",
+                "3",
+                "OS X",
+                "Endorse"
+            ],
+            [
+                "OS X",
+                "See 3 endorsements for OS X",
+                "3"
+            ],
+            [
+                "Linux",
+                "See 4 endorsements for Linux",
+                "4",
+                "Linux",
+                "Endorse"
+            ],
+            [
+                "Linux",
+                "See 4 endorsements for Linux",
+                "4"
+            ],
+            [
+                "HTML",
+                "See 12 endorsements for HTML",
+                "12",
+                "HTML",
+                "Endorse"
+            ],
+            [
+                "HTML",
+                "See 12 endorsements for HTML",
+                "12"
+            ],
+            [
+                "CSS",
+                "See 10 endorsements for CSS",
+                "10",
+                "CSS",
+                "Endorse"
+            ],
+            [
+                "CSS",
+                "See 10 endorsements for CSS",
+                "10"
+            ],
+            [
+                "MySQL",
+                "See 5 endorsements for MySQL",
+                "5",
+                "MySQL",
+                "Endorse"
+            ],
+            [
+                "MySQL",
+                "See 5 endorsements for MySQL",
+                "5"
+            ],
+            [
+                "iOS Development",
+                "See 2 endorsements for iOS Development",
+                "2",
+                "iOS Development",
+                "Endorse"
+            ],
+            [
+                "iOS Development",
+                "See 2 endorsements for iOS Development",
+                "2"
+            ],
+            [
+                "Objective-C",
+                "See 2 endorsements for Objective-C",
+                "2",
+                "Objective-C",
+                "Endorse"
+            ],
+            [
+                "Objective-C",
+                "See 2 endorsements for Objective-C",
+                "2"
+            ],
+            [
+                "C",
+                "See 5 endorsements for C",
+                "5",
+                "C",
+                "Endorse"
+            ],
+            [
+                "C",
+                "See 5 endorsements for C",
+                "5"
+            ],
+            [
+                "jQuery",
+                "See 3 endorsements for jQuery",
+                "3",
+                "jQuery",
+                "Endorse"
+            ],
+            [
+                "jQuery",
+                "See 3 endorsements for jQuery",
+                "3"
+            ]
+        ],
+        "summary": "",
+        "name": "Davis Zanot",
+        "title": "I move bits",
+        "url": "linkedin.com/in/davis-zanot-9035077b",
+        "phone": "",
+        "email": "dzanot@gmail.com"
+    }
+]

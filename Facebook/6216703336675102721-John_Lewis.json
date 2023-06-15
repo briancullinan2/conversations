@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6216703336675102721/",
+    "participants": [
+        {
+            "name": "John Lewis",
+            "title": "Chief Architect at Scholastic",
+            "url": "linkedin.com/in/pointful",
+            "phone": "480-559-9045 (Work)",
+            "email": "john@pointful.net"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-12-19T19:59:00.000Z"
+        }
+    ]
+}

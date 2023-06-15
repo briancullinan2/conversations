@@ -1,0 +1,475 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "114 Mutual Connections",
+                "You and Tyler both know Matt Greene, Monte Cahn, and 112 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Systems Engineer",
+                "Company Name",
+                "Shutterfly, Inc.",
+                "Dates Employed",
+                "Jun 2016 – Present",
+                "Employment Duration",
+                "1 yr 6 mos",
+                "Location",
+                "Tempe Arizona",
+                "Noteworthy Accomplishments:•\tSpearheaded a database migration project, simplifying the architecture while removing single points of failure.  Introduced an architectural strategy that saved hundreds of thousands in licensing costs for the company.•\tAssisted InfoSec team in moving to a new security platform on each system, both Windows and Linux.  Wrote a PowerShell script from scratch to automate the deployment of the new security software, saving weeks in employee time.•\tSpearheaded the migration of our backup platform.  Architected and build the platform per vendor specifications and recommendations, yielding a 20-fold increase in backup/restore performance on the physical systems, virtual machines, and databases.  Created automated tasks via scripts to perform weekly test restores on each backup environment, which in turn automatically send email reports for validation of good backups.•\tWas assigned a project that involved standing up 16 systems and configure a vendor application within a 1-week period.  Through the use of PowerShell scripts and other means of automation, I was able to build the environment with the required software in 2 days, beating expectations.•\tAssigned a project to migrate a reporting platform from old physical systems to our virtual environment.  Working closely with the application vendor, we successfully migrated the data and infrastructure.  However, the owner of the platform (a manager) was spending hours every single morning manually cleaning up old reports from the platform as he had done for years.  After doing some research on the platform, I was able to create a script which performed the cleanup operation automatically, saving thousands of dollars in employee time."
+            ],
+            [
+                "Systems Engineer",
+                "Company Name",
+                "Arizona Tech Works",
+                "Dates Employed",
+                "Mar 2014 – Jun 2016",
+                "Employment Duration",
+                "2 yrs 4 mos",
+                "Location",
+                "3060 N Litchfield RD, Suite 120, Goodyear AZ 85338",
+                "Noteworthy Accomplishments:•\tTook initiative to build out an internal MS Exchange availability group, removing single points of failure and increasing email uptime 10-fold.  This was done by creating a 3 site architecture, keeping our communication and ticketing system up at all times.•\tSpearheaded dozens of individual projects for small companies, by either fixing, rebuilding, or creating a brand new architecture for each client.  Responded personally to any concerns of each client, working closely with the leadership teams.•\tBuilt and maintained a backup platform for each client, utilizing automated restore testing with email reports.  This gave each client peace of mind knowing that their invaluable data was safe both locally and in the cloud.•\tWorked on and closed thousands of support tickets, outperforming any other employee 3-fold.  This lead to a high level of customer satisfaction."
+            ],
+            [
+                "IT Support",
+                "Company Name",
+                "PSA Behavior Health",
+                "Dates Employed",
+                "Feb 2013 – Mar 2014",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "2255 West Northern Avenue B100, Phoenix, AZ 85021",
+                "Responsible for maintaining servers, and for supporting end users (approximately 150 employees):•\tCheck work order system for entries on server and server resource issues.•\tSupport end users with Desktop Computers, Laptop Computers, Mobile Devices, and peripherals.•\tPrioritize and respond to work orders as appropriate.•\tAd and delete users in Active Directory.•\tSetting up and managing accounts in Microsoft Exchange. •\tAd and modify ACL’s for shared recourses.•\tPerform nightly backups of VMware VSphere images.•\tPerform maintenance and updates to company website."
+            ],
+            [
+                "Owner",
+                "Company Name",
+                "Prescottech / Computech Services LLC",
+                "Dates Employed",
+                "2008 – Dec 2013",
+                "Employment Duration",
+                "5 yrs",
+                "Location",
+                "Prescott, Goodyear AZ",
+                "Responsible for meeting client objectives for all types of computer services to include diagnosing and analyzing computer issues for both hardware and software. Plan, schedule and prioritize each day’s activities to include business development, accounting, advertising, web development and maintenance.Installation of new computers, hardware and peripherals.Reconfigure existing systems to accommodate additional components.Troubleshoot all areas of computer functioning, repair or upgrade as needed.Skilled at protecting computers from cyber threats and other security issues.Configuring Local Area Networks.Configuring Windows Server 2008 R2, Active Directory, Microsoft Exchange."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Yavapai College",
+                "Degree Name",
+                "Certification",
+                "Field Of Study",
+                "Information Technology",
+                "Dates attended or expected graduation",
+                "2008 – 2008"
+            ],
+            [
+                "Yavapai College",
+                "Degree Name",
+                "Certification",
+                "Field Of Study",
+                "Information Technology",
+                "Dates attended or expected graduation",
+                "2008 – 2008"
+            ],
+            [
+                "Pennfoster High",
+                "Degree Name",
+                "High School",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2005 – 2008"
+            ],
+            [
+                "Pennfoster High",
+                "Degree Name",
+                "High School",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2005 – 2008"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See 38 more skills"
+            ],
+            "Recommendations",
+            [
+                "Yavapai College",
+                "6,631 followers"
+            ],
+            [
+                "pfSense Software Group",
+                "5,684 members"
+            ],
+            [
+                "US IT Staffing Recruiters Group - Connecting Ideas !",
+                "65,614 members"
+            ],
+            [
+                "Arizona Tech Works",
+                "57 followers"
+            ],
+            [
+                "IT Specialist Network",
+                "440,958 members"
+            ],
+            [
+                "Technologent",
+                "5,061 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Yavapai College",
+                "6,631 followers"
+            ],
+            [
+                "Yavapai College",
+                "6,631 followers"
+            ],
+            [
+                "pfSense Software Group",
+                "5,684 members"
+            ],
+            [
+                "pfSense Software Group",
+                "5,684 members"
+            ],
+            [
+                "US IT Staffing Recruiters Group - Connecting Ideas !",
+                "65,614 members"
+            ],
+            [
+                "US IT Staffing Recruiters Group - Connecting Ideas !",
+                "65,614 members"
+            ],
+            [
+                "Arizona Tech Works",
+                "57 followers"
+            ],
+            [
+                "Arizona Tech Works",
+                "57 followers"
+            ],
+            [
+                "IT Specialist Network",
+                "440,958 members"
+            ],
+            [
+                "IT Specialist Network",
+                "440,958 members"
+            ],
+            [
+                "Technologent",
+                "5,061 followers"
+            ],
+            [
+                "Technologent",
+                "5,061 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Tina Reeser",
+                "Product Management",
+                "November 1, 2017, Tina worked with Tyler in different groups",
+                "I had the pleasure of working with Tyler during my time at Shutterfly as a Product Manager. Together, we supported an outdated enterprise application built by a contractor. There were very little documentation and every deployment involved troubleshooting with very limited support from the development team. Tyler always maintained a positive attitude throughout the process. He was solution driven, dedicated, and a fantastic communicator. I highly recommend Tyler to any future employer!"
+            ],
+            [
+                "Tina Reeser",
+                "Product Management",
+                "November 1, 2017, Tina worked with Tyler in different groups"
+            ],
+            [
+                "Tina Reeser",
+                "Product Management",
+                "November 1, 2017, Tina worked with Tyler in different groups"
+            ],
+            [
+                "Tina Reeser",
+                "Product Management",
+                "November 1, 2017, Tina worked with Tyler in different groups"
+            ],
+            "Product Management",
+            [
+                "I had the pleasure of working with Tyler during my time at Shutterfly as a Product Manager. Together, we supported an outdated enterprise application built by a contractor. There were very little documentation and every deployment involved troubleshooting with very limited support from the development team. Tyler always maintained a positive attitude throughout the process. He was solution driven, dedicated, and a fantastic communicator. I highly recommend Tyler to any future employer!"
+            ],
+            [
+                "I had the pleasure of working with Tyler during my time at Shutterfly as a Product Manager. Together, we supported an outdated enterprise application built by a contractor. There were very little documentation and every deployment involved troubleshooting with very limited support from the development team. Tyler always maintained a positive attitude throughout the process. He was solution driven, dedicated, and a fantastic communicator. I highly recommend Tyler to any future employer!"
+            ],
+            [
+                "Dalton Price",
+                "Systems Engineer at Shutterfly",
+                "October 26, 2017, Tyler worked with Dalton in the same group",
+                "Tyler is a great asset to have on our team. His knowledge of Windows has helped to close out many firedrills. He's not afraid to take on new tasks and his ability to articulate concepts for others whom have no knowledge on the subject is superb. He's a team player as well, willing to take on any task the team needs. Overall I highly recommend Tyler."
+            ],
+            [
+                "Dalton Price",
+                "Systems Engineer at Shutterfly",
+                "October 26, 2017, Tyler worked with Dalton in the same group"
+            ],
+            [
+                "Dalton Price",
+                "Systems Engineer at Shutterfly",
+                "October 26, 2017, Tyler worked with Dalton in the same group"
+            ],
+            [
+                "Dalton Price",
+                "Systems Engineer at Shutterfly",
+                "October 26, 2017, Tyler worked with Dalton in the same group"
+            ],
+            "Systems Engineer at Shutterfly",
+            [
+                "Tyler is a great asset to have on our team. His knowledge of Windows has helped to close out many firedrills. He's not afraid to take on new tasks and his ability to articulate concepts for others whom have no knowledge on the subject is superb. He's a team player as well, willing to take on any task the team needs. Overall I highly recommend Tyler."
+            ],
+            [
+                "Tyler is a great asset to have on our team. His knowledge of Windows has helped to close out many firedrills. He's not afraid to take on new tasks and his ability to articulate concepts for others whom have no knowledge on the subject is superb. He's a team player as well, willing to take on any task the team needs. Overall I highly recommend Tyler."
+            ],
+            [
+                "James O Smyth",
+                "Software Entrepreneur | Problem Solver",
+                "October 17, 2016, James O was a client of Tyler’s",
+                "Tyler is great at problem solving and has a solid understanding of Information Systems. He understands them and how they apply to business situations to consistently deliver great solutions. He is honest and maintains a positive professional attitude. Bottom line is that he is just great to work with!"
+            ],
+            [
+                "James O Smyth",
+                "Software Entrepreneur | Problem Solver",
+                "October 17, 2016, James O was a client of Tyler’s"
+            ],
+            [
+                "James O Smyth",
+                "Software Entrepreneur | Problem Solver",
+                "October 17, 2016, James O was a client of Tyler’s"
+            ],
+            [
+                "James O Smyth",
+                "Software Entrepreneur | Problem Solver",
+                "October 17, 2016, James O was a client of Tyler’s"
+            ],
+            "Software Entrepreneur | Problem Solver",
+            [
+                "Tyler is great at problem solving and has a solid understanding of Information Systems. He understands them and how they apply to business situations to consistently deliver great solutions. He is honest and maintains a positive professional attitude. Bottom line is that he is just great to work with!"
+            ],
+            [
+                "Tyler is great at problem solving and has a solid understanding of Information Systems. He understands them and how they apply to business situations to consistently deliver great solutions. He is honest and maintains a positive professional attitude. Bottom line is that he is just great to work with!"
+            ],
+            [
+                "Rhonda Lanue",
+                "Executive VP at Lyons Roofing",
+                "October 10, 2016, Rhonda was a client of Tyler’s",
+                "Tyler is missed so much by us because of not only his skills, but his calm and can do demeanor.  Another incredible attribute is that Tyler ALWAYS followed up and never left any item or project incomplete.  He is a true professional."
+            ],
+            [
+                "Rhonda Lanue",
+                "Executive VP at Lyons Roofing",
+                "October 10, 2016, Rhonda was a client of Tyler’s"
+            ],
+            [
+                "Rhonda Lanue",
+                "Executive VP at Lyons Roofing",
+                "October 10, 2016, Rhonda was a client of Tyler’s"
+            ],
+            [
+                "Rhonda Lanue",
+                "Executive VP at Lyons Roofing",
+                "October 10, 2016, Rhonda was a client of Tyler’s"
+            ],
+            "Executive VP at Lyons Roofing",
+            [
+                "Tyler is missed so much by us because of not only his skills, but his calm and can do demeanor.  Another incredible attribute is that Tyler ALWAYS followed up and never left any item or project incomplete.  He is a true professional."
+            ],
+            [
+                "Tyler is missed so much by us because of not only his skills, but his calm and can do demeanor.  Another incredible attribute is that Tyler ALWAYS followed up and never left any item or project incomplete.  He is a true professional."
+            ],
+            [
+                "Joe Shepstead",
+                "Fleet/warehouse Manager",
+                "April 15, 2016, Joe was a client of Tyler’s",
+                "I've worked with Tyler for a little over a year now.  He is Climate Pro's Sr IT Engineer at AZ Tech Works.  Tyler is incredibly and abundantly skilled in the vast areas of the technology industry.  We haven't been able to stump him with our tech needs here at Climate Pro.  He's got script and cmd syntax memorized and ready to execute haha.  We had an issue that went months without resolve with our prior tech company, and Tyler had it resolved within his first 5 minutes of being onsite at Climate Pro for the first time; talk about making a great first impression!  His abilities exuberate confidence and continuously produce the best solution quickly and efficiently.  Tyler executes and strategically plans with superiority and with his client's interests and needs as priority one.  Organized is another word that would accurately describe Tyler; he's got that down too!  No ticket, big or small, goes unanswered, forgotten, or pushed aside.  Tyler always acts and performs out of best practice.  In addition, and importantly, Tyler never geek speaks my team and is able to quickly establish one's level of knowledge to elect best language to be spoken.  Ultimately, as the Sr IT Technician at AZ Tech Works, Tyler's team truly serve proof as to what kind of leader he is, as their actions, demeanor, and results are a direct and measurable outcome and reflection of his leadership!"
+            ],
+            [
+                "Joe Shepstead",
+                "Fleet/warehouse Manager",
+                "April 15, 2016, Joe was a client of Tyler’s"
+            ],
+            [
+                "Joe Shepstead",
+                "Fleet/warehouse Manager",
+                "April 15, 2016, Joe was a client of Tyler’s"
+            ],
+            [
+                "Joe Shepstead",
+                "Fleet/warehouse Manager",
+                "April 15, 2016, Joe was a client of Tyler’s"
+            ],
+            "Fleet/warehouse Manager",
+            [
+                "I've worked with Tyler for a little over a year now.  He is Climate Pro's Sr IT Engineer at AZ Tech Works.  Tyler is incredibly and abundantly skilled in the vast areas of the technology industry.  We haven't been able to stump him with our tech needs here at Climate Pro.  He's got script and cmd syntax memorized and ready to execute haha.  We had an issue that went months without resolve with our prior tech company, and Tyler had it resolved within his first 5 minutes of being onsite at Climate Pro for the first time; talk about making a great first impression!  His abilities exuberate confidence and continuously produce the best solution quickly and efficiently.  Tyler executes and strategically plans with superiority and with his client's interests and needs as priority one.  Organized is another word that would accurately describe Tyler; he's got that down too!  No ticket, big or small, goes unanswered, forgotten, or pushed aside.  Tyler always acts and performs out of best practice.  In addition, and importantly, Tyler never geek speaks my team and is able to quickly establish one's level of knowledge to elect best language to be spoken.  Ultimately, as the Sr IT Technician at AZ Tech Works, Tyler's team truly serve proof as to what kind of leader he is, as their actions, demeanor, and results are a direct and measurable outcome and reflection of his leadership!"
+            ],
+            [
+                "I've worked with Tyler for a little over a year now.  He is Climate Pro's Sr IT Engineer at AZ Tech Works.  Tyler is incredibly and abundantly skilled in the vast areas of the technology industry.  We haven't been able to stump him with our tech needs here at Climate Pro.  He's got script and cmd syntax memorized and ready to execute haha.  We had an issue that went months without resolve with our prior tech company, and Tyler had it resolved within his first 5 minutes of being onsite at Climate Pro for the first time; talk about making a great first impression!  His abilities exuberate confidence and continuously produce the best solution quickly and efficiently.  Tyler executes and strategically plans with superiority and with his client's interests and needs as priority one.  Organized is another word that would accurately describe Tyler; he's got that down too!  No ticket, big or small, goes unanswered, forgotten, or pushed aside.  Tyler always acts and performs out of best practice.  In addition, and importantly, Tyler never geek speaks my team and is able to quickly establish one's level of knowledge to elect best language to be spoken.  Ultimately, as the Sr IT Technician at AZ Tech Works, Tyler's team truly serve proof as to what kind of leader he is, as their actions, demeanor, and results are a direct and measurable outcome and reflection of his leadership!"
+            ],
+            [
+                "John Piekarski",
+                "C.F.O./Controller at Tempe Mechanical",
+                "April 14, 2016, John worked with Tyler but at different companies",
+                "Ridiculously efficient is the phrase that comes to mind when I think about Tyler. I’ve had the pleasure of knowing him for only a few months, during which his company has provided mine with IT services. Above all, I was impressed with Tyler's ability to troubleshoot and solve issues quickly and deftly. Personally, Tyler is a true professional and is always pleasure to work with. Tyler would be a true asset for any company requiring IT or computer support and he comes with my heartfelt recommendation."
+            ],
+            [
+                "John Piekarski",
+                "C.F.O./Controller at Tempe Mechanical",
+                "April 14, 2016, John worked with Tyler but at different companies"
+            ],
+            [
+                "John Piekarski",
+                "C.F.O./Controller at Tempe Mechanical",
+                "April 14, 2016, John worked with Tyler but at different companies"
+            ],
+            [
+                "John Piekarski",
+                "C.F.O./Controller at Tempe Mechanical",
+                "April 14, 2016, John worked with Tyler but at different companies"
+            ],
+            "C.F.O./Controller at Tempe Mechanical",
+            [
+                "Ridiculously efficient is the phrase that comes to mind when I think about Tyler. I’ve had the pleasure of knowing him for only a few months, during which his company has provided mine with IT services. Above all, I was impressed with Tyler's ability to troubleshoot and solve issues quickly and deftly. Personally, Tyler is a true professional and is always pleasure to work with. Tyler would be a true asset for any company requiring IT or computer support and he comes with my heartfelt recommendation."
+            ],
+            [
+                "Ridiculously efficient is the phrase that comes to mind when I think about Tyler. I’ve had the pleasure of knowing him for only a few months, during which his company has provided mine with IT services. Above all, I was impressed with Tyler's ability to troubleshoot and solve issues quickly and deftly. Personally, Tyler is a true professional and is always pleasure to work with. Tyler would be a true asset for any company requiring IT or computer support and he comes with my heartfelt recommendation."
+            ],
+            [
+                "Tina Reeser",
+                "Product Management",
+                "November 1, 2017, Tyler worked with Tina in different groups",
+                "I am glad to have had the opportunity to work with Tina while she was at Shutterfly.  As product manager, she did great at organizing deployments, working with vendors, and maintaining composure under preasure.  Most importantly, she was ALWAYS pleasant to work with even during intense times.  I recommend Tina to any employer!"
+            ],
+            [
+                "Tina Reeser",
+                "Product Management",
+                "November 1, 2017, Tyler worked with Tina in different groups"
+            ],
+            [
+                "Tina Reeser",
+                "Product Management",
+                "November 1, 2017, Tyler worked with Tina in different groups"
+            ],
+            [
+                "Tina Reeser",
+                "Product Management",
+                "November 1, 2017, Tyler worked with Tina in different groups"
+            ],
+            "Product Management",
+            [
+                "I am glad to have had the opportunity to work with Tina while she was at Shutterfly.  As product manager, she did great at organizing deployments, working with vendors, and maintaining composure under preasure.  Most importantly, she was ALWAYS pleasant to work with even during intense times.  I recommend Tina to any employer!"
+            ],
+            [
+                "I am glad to have had the opportunity to work with Tina while she was at Shutterfly.  As product manager, she did great at organizing deployments, working with vendors, and maintaining composure under preasure.  Most importantly, she was ALWAYS pleasant to work with even during intense times.  I recommend Tina to any employer!"
+            ],
+            [
+                "Dalton Price",
+                "Systems Engineer at Shutterfly",
+                "October 24, 2017, Dalton worked with Tyler in the same group",
+                "I am super happy to have Dalton on my team at Shutterfly.  He is fast, proficient, and naturally good at what he does.  His focus is on the Unix side of the systems, but he knows Windows well enough to knock out any issue that comes up.  He has also been a great resource to me when I need some help on the Linux side of things."
+            ],
+            [
+                "Dalton Price",
+                "Systems Engineer at Shutterfly",
+                "October 24, 2017, Dalton worked with Tyler in the same group"
+            ],
+            [
+                "Dalton Price",
+                "Systems Engineer at Shutterfly",
+                "October 24, 2017, Dalton worked with Tyler in the same group"
+            ],
+            [
+                "Dalton Price",
+                "Systems Engineer at Shutterfly",
+                "October 24, 2017, Dalton worked with Tyler in the same group"
+            ],
+            "Systems Engineer at Shutterfly",
+            [
+                "I am super happy to have Dalton on my team at Shutterfly.  He is fast, proficient, and naturally good at what he does.  His focus is on the Unix side of the systems, but he knows Windows well enough to knock out any issue that comes up.  He has also been a great resource to me when I need some help on the Linux side of things."
+            ],
+            [
+                "I am super happy to have Dalton on my team at Shutterfly.  He is fast, proficient, and naturally good at what he does.  His focus is on the Unix side of the systems, but he knows Windows well enough to knock out any issue that comes up.  He has also been a great resource to me when I need some help on the Linux side of things."
+            ]
+        ],
+        "skills": [
+            [
+                "Servers",
+                "See 35 endorsements for Servers",
+                "35",
+                "Servers",
+                "Endorse",
+                "Endorsed by Scott Nash and 1 other who is highly skilled at this",
+                "Endorsed by 3 of Tyler’s colleagues at Shutterfly, Inc."
+            ],
+            [
+                "Servers",
+                "See 35 endorsements for Servers",
+                "35"
+            ],
+            [
+                "Windows Server",
+                "See 32 endorsements for Windows Server",
+                "32",
+                "Windows Server",
+                "Endorse",
+                "Endorsed by 2 of Tyler’s colleagues at Shutterfly, Inc."
+            ],
+            [
+                "Windows Server",
+                "See 32 endorsements for Windows Server",
+                "32"
+            ],
+            [
+                "Active Directory",
+                "See 30 endorsements for Active Directory",
+                "30",
+                "Active Directory",
+                "Endorse",
+                "Endorsed by 2 of Tyler’s colleagues at Shutterfly, Inc."
+            ],
+            [
+                "Active Directory",
+                "See 30 endorsements for Active Directory",
+                "30"
+            ]
+        ],
+        "summary": "    Highly personable Systems Engineer with experience in computerhardware/software, and Windows Server technologies, including Active Directory, MSExchange, Lync, SQL, IIS, and Office365.  Also versed in network technologies, including Routing, Switching, VLAN's, and network security.  Extremely focused and results-oriented in supporting complex operations, able to identify goals and priorities and resolve issues in initial stages.\n  \n  \n",
+        "name": "Tyler Adler",
+        "title": "Systems Engineer at Shutterfly Inc",
+        "url": "linkedin.com/in/tyler-adler",
+        "phone": "",
+        "email": "tyler@fluffybunny.xyz"
+    }
+]

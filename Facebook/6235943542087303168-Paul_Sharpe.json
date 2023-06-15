@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6235943542087303168/",
+    "participants": [
+        {
+            "name": "Paul Sharpe",
+            "title": "Sr. Software Engineer at Twitter",
+            "url": "linkedin.com/in/paul-sharpe-b50",
+            "phone": null,
+            "email": "paul@paulsharpe.org"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-10T22:13:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

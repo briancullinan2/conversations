@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6231554026392080384/",
+    "participants": [
+        {
+            "name": "Scott Bowers",
+            "title": "Technical Project/Delivery Manager at Charles Schwab",
+            "url": "linkedin.com/in/scott-bowers-5060264",
+            "phone": null,
+            "email": "sbowers576@me.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-01-29T19:30:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Scott Bowers",
+            "time": "2017-03-08T18:20:00.000Z",
+            "message": "Congrats on the new job!\n"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6203056230454349826/",
+    "participants": [
+        {
+            "name": "Mark Waddle",
+            "title": "Engineering Team Lead & Software Engineer",
+            "url": "linkedin.com/in/markwaddle",
+            "phone": "425-269-3107 (Mobile)",
+            "email": "mark@markwaddle.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "You look like a genius! Thank you for connecting!",
+            "time": "2017-10-29T04:10:00.000Z"
+        },
+        {
+            "from": "Mark Waddle",
+            "message": "Thanks! My facade is working! 😜 cheers!",
+            "time": "2017-10-29T17:13:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Haha!  You must be from another dimension like me!",
+            "time": "2017-10-29T18:19:00.000Z"
+        }
+    ]
+}

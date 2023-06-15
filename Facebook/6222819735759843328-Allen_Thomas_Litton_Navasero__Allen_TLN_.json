@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6222819735759843328/",
+    "participants": [
+        {
+            "name": "Allen Thomas Litton Navasero (Allen TLN)",
+            "title": "Design Intern at Rags2Riches Inc",
+            "url": "linkedin.com/in/allen-thomas-litton-navasero-allen-tln-07532b100",
+            "phone": null,
+            "email": "allen@alltln.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-05T17:03:00.000Z"
+        },
+        {
+            "from": "Allen Thomas Litton Navasero (Allen TLN)",
+            "message": "Likewise !\n",
+            "time": "2018-01-05T18:03:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6227200898616086528/",
+    "participants": [
+        {
+            "name": "Frank Carroll",
+            "title": "Business Intelligence Professional",
+            "url": "linkedin.com/in/frankcarroll",
+            "phone": null,
+            "email": "frank.carroll@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-17T19:13:00.000Z"
+        }
+    ]
+}

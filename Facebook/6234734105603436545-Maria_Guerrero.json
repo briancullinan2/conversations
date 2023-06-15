@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6234734105603436545/",
+    "participants": [
+        {
+            "name": "Maria Guerrero",
+            "title": "Sr Manager at Charles Schwab",
+            "url": "linkedin.com/in/maria-guerrero-862a047",
+            "phone": null,
+            "email": "leticiaguerrero08@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-07T14:07:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Maria Guerrero",
+            "time": "2017-03-12T03:47:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-12T03:49:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

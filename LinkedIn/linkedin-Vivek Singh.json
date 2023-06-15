@@ -1,0 +1,830 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "16 Mutual Connections",
+                "You and Vivek both know David Richardson, Rich Hlavka, and 14 others"
+            ],
+            [
+                "Vivek can introduce you to 5 people at American Express",
+                "You are following American Express"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "Capital One",
+                "Dates Employed",
+                "Nov 2016 – Present",
+                "Employment Duration",
+                "1 yr",
+                "Location",
+                "Greater New York City Area",
+                "Building backend services in Go with and learning agile best practices from an exceptionally skilled team."
+            ],
+            [
+                "Board Advisor",
+                "Company Name",
+                "Glu",
+                "Dates Employed",
+                "Jul 2016 – Present",
+                "Employment Duration",
+                "1 yr 4 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "I serve as both a Board Member as well as Technical Advisor to the Board.●\tDefine technology strategy and architecture●\tPrepare documentation and work with legal team to protect IP●\tHands-on development and preparation of proof of concepts●\tEnsure system ready incoming development team and their on-boarding"
+            ],
+            [
+                "Chief Software Engineer",
+                "Company Name",
+                "Glu",
+                "Dates Employed",
+                "Mar 2016 – Jul 2016",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "Tempe, AZ",
+                "Managed Development of MVP from conception to release employing industry best practices.Product Development●\tDesigned product layout utilizing insights from customer interviews●\tProduced 7 innovations in the process of being patentedSoftware Engineering●\tDesigned and Created both iOS and Android apps, with insights from customer data●\tUtilized Swift and Objective-C in Xcode and Java in Android Studio●\tCompleted minimum viable product two weeks prior to deadline●\tDeveloped High Availability API with redundancy and fault-toleranceBusiness Implementation●\tFound addressable markets, new markets, monetization strategies from data●\tDefined and implemented data and analytics strategy, with partnerships and within product"
+            ],
+            [
+                "Director of Technology",
+                "Company Name",
+                "Elevated Concepts",
+                "Dates Employed",
+                "Mar 2015 – Jul 2016",
+                "Employment Duration",
+                "1 yr 5 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "Streamlined engineering processes and provided documentation, training, and project-based leadership to team members resulting in significant reduction in development time. Technology Strategy●\tOversaw the migration of website from Kentico to WordPress●\tDeveloped new site and advanced functionalities with PHP, JavaScript and MySQL●\tPartially launched Phase II deliverables during Phase I Software Engineering●\tExtended ASP.NET website, added new geo features and search capabilities●\tUsed C# to parse geoJSON and converted SQL Server to Full-Text SearchSystem Environment Management●\tMigrated website portfolio from shared hosting to Linux VPS with Ubuntu NGINX, Apache●\tHosting costs were lowered by 30% and load times decreased as much as 50%"
+            ],
+            [
+                "Software Architect, Analyst",
+                "Company Name",
+                "vTheory",
+                "Dates Employed",
+                "Oct 2013 – Mar 2016",
+                "Employment Duration",
+                "2 yrs 6 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Hold equity and Direct technology for partnerships. Developer, Tech Auditor and Data Scientist for consulting clients.Analyzed Marketing/Sales/Product Performance using Data Science best practices●\tIdentified key actionable insights and prescribed strategies leading to increased ROI●\tBuilt data insight tools in concert with internal teams and trained on purpose and usageCreated High Availability Content Delivery Network●\tBuilt a Redundant, Fault-Tolerant, Self-Healing CDN lowering CDN costs by 92%●\tUtilized Go (Golang), Riak NoSQL key-value store, HAProxy to ensure 100% uptimeBondfire●\tCreated Bondfire prototype, POC for API servers, Hired and Managed Java developer●\tUtilized Swift for iOS prototype, Go with CouchBase NoSQL document database for APIDeveloped DoubleTap advertising algorithms for Samples and Results●\tImplemented Patent-Pending algorithms 3 months ahead of requested completion date●\tLeveraged JavaScript for client side scripts and PHP/Python on the serversInsurance Document Parser●\tBuilt document parser/analyzer eliminating unneeded expenses overlooked by adjusters●\tFinished 1 month early using Java with PDFBox and the Java Swing framework for UIArchitected Group Benefits Service●\tIdentified performance bottlenecks, designed new architecture, code review●\tUtilized Amazon Web Services (S3, EC2, Route53), Java, MongoDB, Redis"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "Martz Parsons (Now BIG YAM)",
+                "Dates Employed",
+                "May 2014 – Feb 2015",
+                "Employment Duration",
+                "10 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Provided rapid application development in agile environment while continuously improving team processes and customer communication establishing strong reputation for new digital department.Software Engineering and Technology Strategy●\tEvaluated project requirements and mockups of Valley of the Sun YMCA website●\tEstablished tech strategy to support optimal construction, maintenance, and performance●\tLead development utilizing WordPress, PHP, MySQL, JavaScript to create website●\tReduced load on aging API while increasing functionality with caching layer●\tOrganized documentation and instructions for siteSEO and Tracking●\tAssisted in tracking strategy, implemented JavaScript tracking on sites●\tAnalyzed commerce and marketing performance with Google Analytics, Tag Manager"
+            ],
+            [
+                "Marketing Analyst",
+                "Company Name",
+                "Lumension (now HEAT Software)",
+                "Dates Employed",
+                "Mar 2010 – Sep 2013",
+                "Employment Duration",
+                "3 yrs 7 mos",
+                "Ensure accurate tracking, metrization, analysis, and reporting to measure and optimize business objectives and assist in decision making. Implements technology, builds new technologies and advanced mathematical tools for regressive and predictive analytics leveraging data science best practices.●\tDesigned and Built full stack Business Intelligence Platform●\tKey member of director-only Customer Information Team for Executive team●\tAdvanced Mathematics innovating Time Series analysis, and producing extremely accurate Predictive Analytics with MultiVariate Adaptive Regression Splines in C#, Python, R, SQL, LINQ"
+            ],
+            [
+                "Technology Consultant",
+                "Company Name",
+                "vTheory",
+                "Dates Employed",
+                "Jun 2003 – Mar 2008",
+                "Employment Duration",
+                "4 yrs 10 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Provided computer and network diagnostics, network setup and security, database migration, automation, software interfacing, and performance and cost analysis. Programmed data import/export programs in Java/C++ and accounting macros in Visual Basic.●\tReduced time required for reconciliations by 40% for a top grocery chain●\tCreate tax analysis tool to minimize liability for frequent items"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "B.S.",
+                "Field Of Study",
+                "Physics",
+                "Dates attended or expected graduation",
+                "2006 – 2010",
+                "Activities and Societies:",
+                "Society of Physics Students",
+                "Completed thesis on topic of \"Physics of Audio Interconnects\" analysing the effect of various components of an interconnect on any signal being sent across the interconnect. Three years of undergraduate Quantum Physics. Graduate level studies in Biophysics, Quantum Physics"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "B.S.",
+                "Field Of Study",
+                "Physics",
+                "Dates attended or expected graduation",
+                "2006 – 2010",
+                "Activities and Societies:",
+                "Society of Physics Students",
+                "Completed thesis on topic of \"Physics of Audio Interconnects\" analysing the effect of various components of an interconnect on any signal being sent across the interconnect. Three years of undergraduate Quantum Physics. Graduate level studies in Biophysics, Quantum Physics"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "B.S.",
+                "Field Of Study",
+                "Mathematics",
+                "Dates attended or expected graduation",
+                "2006 – 2010",
+                "Activities and Societies:",
+                "Society of Physics Students",
+                "Focused on pure/theoretical mathematics; this gives me understanding of underlying concepts of advanced mathematics that I leverage to optimize analysis and queries in practice. I had coursework in mathematical statistics and graduate level studies in Mathematical Medical Imaging, Differential Geometry, and Statistics."
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "B.S.",
+                "Field Of Study",
+                "Mathematics",
+                "Dates attended or expected graduation",
+                "2006 – 2010",
+                "Activities and Societies:",
+                "Society of Physics Students",
+                "Focused on pure/theoretical mathematics; this gives me understanding of underlying concepts of advanced mathematics that I leverage to optimize analysis and queries in practice. I had coursework in mathematical statistics and graduate level studies in Mathematical Medical Imaging, Differential Geometry, and Statistics."
+            ],
+            [
+                "Glendale Community College",
+                "Field Of Study",
+                "General Studies",
+                "Dates attended or expected graduation",
+                "2004 – 2006",
+                "President’s List recognition every semesterOutstanding Student in Science Award, Spring 2006"
+            ],
+            [
+                "Glendale Community College",
+                "Field Of Study",
+                "General Studies",
+                "Dates attended or expected graduation",
+                "2004 – 2006",
+                "President’s List recognition every semesterOutstanding Student in Science Award, Spring 2006"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Cloud Security Alliance",
+                "102,628 members"
+            ],
+            [
+                "Lumension (now HEAT Software)",
+                "2,201 followers"
+            ],
+            [
+                "Elevated Concepts",
+                "14 followers"
+            ],
+            [
+                "Mark CubanMark Cuban is a LinkedIn Influencer",
+                "President",
+                "3,189,487 followers"
+            ],
+            [
+                "Cloud Computing, SaaS & Virtualization",
+                "486,830 members"
+            ],
+            [
+                "Jake WoodJake Wood is a LinkedIn Influencer",
+                "CEO of Team Rubicon",
+                "121,848 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Cloud Security Alliance",
+                "102,628 members"
+            ],
+            [
+                "Cloud Security Alliance",
+                "102,628 members"
+            ],
+            [
+                "Lumension (now HEAT Software)",
+                "2,201 followers"
+            ],
+            [
+                "Lumension (now HEAT Software)",
+                "2,201 followers"
+            ],
+            [
+                "Elevated Concepts",
+                "14 followers"
+            ],
+            [
+                "Elevated Concepts",
+                "14 followers"
+            ],
+            [
+                "Mark CubanMark Cuban is a LinkedIn Influencer",
+                "President",
+                "3,189,487 followers"
+            ],
+            [
+                "Mark CubanMark Cuban is a LinkedIn Influencer",
+                "President",
+                "3,189,487 followers"
+            ],
+            [
+                "Mark Cuban is a LinkedIn Influencer"
+            ],
+            [
+                "Cloud Computing, SaaS & Virtualization",
+                "486,830 members"
+            ],
+            [
+                "Cloud Computing, SaaS & Virtualization",
+                "486,830 members"
+            ],
+            [
+                "Jake WoodJake Wood is a LinkedIn Influencer",
+                "CEO of Team Rubicon",
+                "121,848 followers"
+            ],
+            [
+                "Jake WoodJake Wood is a LinkedIn Influencer",
+                "CEO of Team Rubicon",
+                "121,848 followers"
+            ],
+            [
+                "Jake Wood is a LinkedIn Influencer"
+            ]
+        ],
+        "recommendations": [
+            [
+                "David Mendel",
+                "REALTOR®, CRS, ABR, CDPE, e-PRO at RE/MAX Renaissance Realty",
+                "March 7, 2009, Vivek was a client of David’s",
+                "Vivek is a terrific, intelligent young man who has a heart for people and an attention to detail. I suspect Vivek will succeed in any & all he endeavors. It was a joy working with him & always refreshing to speak with him. I always look forward to hearing from him."
+            ],
+            [
+                "David Mendel",
+                "REALTOR®, CRS, ABR, CDPE, e-PRO at RE/MAX Renaissance Realty",
+                "March 7, 2009, Vivek was a client of David’s"
+            ],
+            [
+                "David Mendel",
+                "REALTOR®, CRS, ABR, CDPE, e-PRO at RE/MAX Renaissance Realty",
+                "March 7, 2009, Vivek was a client of David’s"
+            ],
+            [
+                "David Mendel",
+                "REALTOR®, CRS, ABR, CDPE, e-PRO at RE/MAX Renaissance Realty",
+                "March 7, 2009, Vivek was a client of David’s"
+            ],
+            "REALTOR®, CRS, ABR, CDPE, e-PRO at RE/MAX Renaissance Realty",
+            [
+                "Vivek is a terrific, intelligent young man who has a heart for people and an attention to detail. I suspect Vivek will succeed in any & all he endeavors. It was a joy working with him & always refreshing to speak with him. I always look forward to hearing from him."
+            ],
+            [
+                "Vivek is a terrific, intelligent young man who has a heart for people and an attention to detail. I suspect Vivek will succeed in any & all he endeavors. It was a joy working with him & always refreshing to speak with him. I always look forward to hearing from him."
+            ],
+            [
+                "David Mendel",
+                "REALTOR®, CRS, ABR, CDPE, e-PRO at RE/MAX Renaissance Realty",
+                "March 7, 2009, Vivek was a client of David’s",
+                "A personal contact insisted we see at least one property with David Mendel, and I soon understood why. We spent countless hours at dozens of properties often into the night, David always ready to spend more. David is invariably personable and professional, a true delight to do business with. He learned our implicit needs quickly, allowing us to see properties that fit, with excellent follow-up. His knowledge far exceeded expectations based on previous experiences with other providers. I will only ever go to David for my real estate needs."
+            ],
+            [
+                "David Mendel",
+                "REALTOR®, CRS, ABR, CDPE, e-PRO at RE/MAX Renaissance Realty",
+                "March 7, 2009, Vivek was a client of David’s"
+            ],
+            [
+                "David Mendel",
+                "REALTOR®, CRS, ABR, CDPE, e-PRO at RE/MAX Renaissance Realty",
+                "March 7, 2009, Vivek was a client of David’s"
+            ],
+            [
+                "David Mendel",
+                "REALTOR®, CRS, ABR, CDPE, e-PRO at RE/MAX Renaissance Realty",
+                "March 7, 2009, Vivek was a client of David’s"
+            ],
+            "REALTOR®, CRS, ABR, CDPE, e-PRO at RE/MAX Renaissance Realty",
+            [
+                "A personal contact insisted we see at least one property with David Mendel, and I soon understood why. We spent countless hours at dozens of properties often into the night, David always ready to spend more. David is invariably personable and professional, a true delight to do business with. He learned our implicit needs quickly, allowing us to see properties that fit, with excellent follow-up. His knowledge far exceeded expectations based on previous experiences with other providers. I will only ever go to David for my real estate needs."
+            ],
+            [
+                "A personal contact insisted we see at least one property with David Mendel, and I soon understood why. We spent countless hours at dozens of properties often into the night, David always ready to spend more. David is invariably personable and professional, a true delight to do business with. He learned our implicit needs quickly, allowing us to see properties that fit, with excellent follow-up. His knowledge far exceeded expectations based on previous experiences with other providers. I will only ever go to David for my real estate needs."
+            ]
+        ],
+        "skills": [
+            [
+                "Cloud Computing",
+                "See 34 endorsements for Cloud Computing",
+                "34",
+                "Cloud Computing",
+                "Endorse",
+                "Endorsed by Dov Greenberg (mutual connection)",
+                "Endorsed by 10 of Vivek’s colleagues at Lumension (now HEAT Software)"
+            ],
+            [
+                "Cloud Computing",
+                "See 34 endorsements for Cloud Computing",
+                "34"
+            ],
+            [
+                "C#",
+                "See 28 endorsements for C#",
+                "28",
+                "C#",
+                "Endorse",
+                "Endorsed by Dov Greenberg (mutual connection)"
+            ],
+            [
+                "C#",
+                "See 28 endorsements for C#",
+                "28"
+            ],
+            [
+                "SQL",
+                "See 25 endorsements for SQL",
+                "25",
+                "SQL",
+                "Endorse",
+                "Endorsed by Dov Greenberg (mutual connection)",
+                "Endorsed by 8 of Vivek’s colleagues at Lumension (now HEAT Software)"
+            ],
+            [
+                "SQL",
+                "See 25 endorsements for SQL",
+                "25"
+            ],
+            [
+                "Software Development",
+                "See 24 endorsements for Software Development",
+                "24",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development",
+                "See 24 endorsements for Software Development",
+                "24"
+            ],
+            [
+                "Java",
+                "See 22 endorsements for Java",
+                "22",
+                "Java",
+                "Endorse"
+            ],
+            [
+                "Java",
+                "See 22 endorsements for Java",
+                "22"
+            ],
+            [
+                "Linux",
+                "See 18 endorsements for Linux",
+                "18",
+                "Linux",
+                "Endorse"
+            ],
+            [
+                "Linux",
+                "See 18 endorsements for Linux",
+                "18"
+            ],
+            [
+                "Networking",
+                "See 18 endorsements for Networking",
+                "18",
+                "Networking",
+                "Endorse"
+            ],
+            [
+                "Networking",
+                "See 18 endorsements for Networking",
+                "18"
+            ],
+            [
+                "Data Analysis",
+                "See 17 endorsements for Data Analysis",
+                "17",
+                "Data Analysis",
+                "Endorse"
+            ],
+            [
+                "Data Analysis",
+                "See 17 endorsements for Data Analysis",
+                "17"
+            ],
+            [
+                "Databases",
+                "See 15 endorsements for Databases",
+                "15",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 15 endorsements for Databases",
+                "15"
+            ],
+            [
+                "PHP",
+                "See 13 endorsements for PHP",
+                "13",
+                "PHP",
+                "Endorse"
+            ],
+            [
+                "PHP",
+                "See 13 endorsements for PHP",
+                "13"
+            ],
+            [
+                "JavaScript",
+                "See 12 endorsements for JavaScript",
+                "12",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 12 endorsements for JavaScript",
+                "12"
+            ],
+            [
+                "Database Design",
+                "See 12 endorsements for Database Design",
+                "12",
+                "Database Design",
+                "Endorse"
+            ],
+            [
+                "Database Design",
+                "See 12 endorsements for Database Design",
+                "12"
+            ],
+            [
+                "HTML",
+                "See 11 endorsements for HTML",
+                "11",
+                "HTML",
+                "Endorse"
+            ],
+            [
+                "HTML",
+                "See 11 endorsements for HTML",
+                "11"
+            ],
+            [
+                "SaaS",
+                "See 11 endorsements for SaaS",
+                "11",
+                "SaaS",
+                "Endorse"
+            ],
+            [
+                "SaaS",
+                "See 11 endorsements for SaaS",
+                "11"
+            ],
+            [
+                "Python",
+                "See 10 endorsements for Python",
+                "10",
+                "Python",
+                "Endorse"
+            ],
+            [
+                "Python",
+                "See 10 endorsements for Python",
+                "10"
+            ],
+            [
+                "Database Administration",
+                "See 10 endorsements for Database Administration",
+                "10",
+                "Database Administration",
+                "Endorse"
+            ],
+            [
+                "Database Administration",
+                "See 10 endorsements for Database Administration",
+                "10"
+            ],
+            [
+                "Agile Methodologies",
+                "See 9 endorsements for Agile Methodologies",
+                "9",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 9 endorsements for Agile Methodologies",
+                "9"
+            ],
+            [
+                "CRM",
+                "See 9 endorsements for CRM",
+                "9",
+                "CRM",
+                "Endorse"
+            ],
+            [
+                "CRM",
+                "See 9 endorsements for CRM",
+                "9"
+            ],
+            [
+                "C++",
+                "See 8 endorsements for C++",
+                "8",
+                "C++",
+                "Endorse"
+            ],
+            [
+                "C++",
+                "See 8 endorsements for C++",
+                "8"
+            ],
+            [
+                "Ethical Hacker",
+                "See 8 endorsements for Ethical Hacker",
+                "8",
+                "Ethical Hacker",
+                "Endorse"
+            ],
+            [
+                "Ethical Hacker",
+                "See 8 endorsements for Ethical Hacker",
+                "8"
+            ],
+            [
+                "Strategy",
+                "See 8 endorsements for Strategy",
+                "8",
+                "Strategy",
+                "Endorse"
+            ],
+            [
+                "Strategy",
+                "See 8 endorsements for Strategy",
+                "8"
+            ],
+            [
+                "Management",
+                "See 8 endorsements for Management",
+                "8",
+                "Management",
+                "Endorse"
+            ],
+            [
+                "Management",
+                "See 8 endorsements for Management",
+                "8"
+            ],
+            [
+                "Mathematica",
+                "See 5 endorsements for Mathematica",
+                "5",
+                "Mathematica",
+                "Endorse"
+            ],
+            [
+                "Mathematica",
+                "See 5 endorsements for Mathematica",
+                "5"
+            ],
+            [
+                "Matlab",
+                "See 5 endorsements for Matlab",
+                "5",
+                "Matlab",
+                "Endorse"
+            ],
+            [
+                "Matlab",
+                "See 5 endorsements for Matlab",
+                "5"
+            ],
+            [
+                "Maple",
+                "See 5 endorsements for Maple",
+                "5",
+                "Maple",
+                "Endorse"
+            ],
+            [
+                "Maple",
+                "See 5 endorsements for Maple",
+                "5"
+            ],
+            [
+                "XML",
+                "See 5 endorsements for XML",
+                "5",
+                "XML",
+                "Endorse"
+            ],
+            [
+                "XML",
+                "See 5 endorsements for XML",
+                "5"
+            ],
+            [
+                "Scrum",
+                "See 4 endorsements for Scrum",
+                "4",
+                "Scrum",
+                "Endorse"
+            ],
+            [
+                "Scrum",
+                "See 4 endorsements for Scrum",
+                "4"
+            ],
+            [
+                "Integration",
+                "See 4 endorsements for Integration",
+                "4",
+                "Integration",
+                "Endorse"
+            ],
+            [
+                "Integration",
+                "See 4 endorsements for Integration",
+                "4"
+            ],
+            [
+                "Microsoft Office",
+                "See 4 endorsements for Microsoft Office",
+                "4",
+                "Microsoft Office",
+                "Endorse"
+            ],
+            [
+                "Microsoft Office",
+                "See 4 endorsements for Microsoft Office",
+                "4"
+            ],
+            [
+                ".NET",
+                "See 3 endorsements for .NET",
+                "3",
+                ".NET",
+                "Endorse"
+            ],
+            [
+                ".NET",
+                "See 3 endorsements for .NET",
+                "3"
+            ],
+            [
+                "jQuery",
+                "See 3 endorsements for jQuery",
+                "3",
+                "jQuery",
+                "Endorse"
+            ],
+            [
+                "jQuery",
+                "See 3 endorsements for jQuery",
+                "3"
+            ],
+            [
+                "VB.NET",
+                "See 3 endorsements for VB.NET",
+                "3",
+                "VB.NET",
+                "Endorse"
+            ],
+            [
+                "VB.NET",
+                "See 3 endorsements for VB.NET",
+                "3"
+            ],
+            [
+                "SOAP",
+                "See 3 endorsements for SOAP",
+                "3",
+                "SOAP",
+                "Endorse"
+            ],
+            [
+                "SOAP",
+                "See 3 endorsements for SOAP",
+                "3"
+            ],
+            [
+                "Web Applications",
+                "See 3 endorsements for Web Applications",
+                "3",
+                "Web Applications",
+                "Endorse"
+            ],
+            [
+                "Web Applications",
+                "See 3 endorsements for Web Applications",
+                "3"
+            ],
+            [
+                "Leadership",
+                "See 3 endorsements for Leadership",
+                "3",
+                "Leadership",
+                "Endorse"
+            ],
+            [
+                "Leadership",
+                "See 3 endorsements for Leadership",
+                "3"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 3 endorsements for Microsoft SQL Server",
+                "3",
+                "Microsoft SQL Server",
+                "Endorse"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 3 endorsements for Microsoft SQL Server",
+                "3"
+            ],
+            [
+                "API development",
+                "See 2 endorsements for API development",
+                "2",
+                "API development",
+                "Endorse"
+            ],
+            [
+                "API development",
+                "See 2 endorsements for API development",
+                "2"
+            ],
+            [
+                "SharePoint",
+                "See 1 endorsement for SharePoint",
+                "1",
+                "SharePoint",
+                "Endorse"
+            ],
+            [
+                "SharePoint",
+                "See 1 endorsement for SharePoint",
+                "1"
+            ],
+            [
+                "API Development",
+                "See 1 endorsement for API Development",
+                "1",
+                "API Development",
+                "Endorse"
+            ],
+            [
+                "API Development",
+                "See 1 endorsement for API Development",
+                "1"
+            ]
+        ],
+        "summary": "  Theoretical foundation in Mathematics, Physics, and Statistics.  Experience in Software, Business, and Data Science.\n  \n  \n",
+        "name": "Vivek Singh",
+        "title": "Engineer at Capital One, Board Advisor at Glu",
+        "url": "linkedin.com/in/vtheory",
+        "phone": "",
+        "email": "r5sec5cyl@gmail.com"
+    }
+]

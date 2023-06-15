@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6295335311912292352/",
+    "participants": [
+        {
+            "name": "Jon Hartpence",
+            "title": "IT Recruiting Lead at PDS - Productive Data Solutions",
+            "url": "linkedin.com/in/jhartpen",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Jon Hartpence",
+            "time": "2017-07-24T12:00:00.000Z",
+            "message": "Passionate about Javascript and/or Angular?\n\nHi Brian, \n\nYour background on Linked-In shows me that you know your way around a variety of different software development languages! Given your expertise, I would like to speak with you about some of your career goals and interests. I have an Angular Web Developer and other JavaScript/Front-End Development Opportunities that I believe you would be an excellent fit for. \n\nThese roles are with some of my top clients here in the Valley and pay is very competitive. Please let me know if you or someone you know is interested and I will certainly share further details.\n\nJon Hartpence\n480-365-0220 | jhartpence@pdsinc.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-25T18:35:00.000Z",
+            "message": "Yes I'm passionate!\n"
+        },
+        {
+            "from": "Jon Hartpence",
+            "time": "2017-07-25T21:21:00.000Z",
+            "message": "Hey Brian-\n\nThanks for the quick response! I would like to speak with you about your technical expertise and let you know about some opportunities I have available that may be of interest to you. Even if you aren't looking for anything right now, I can be a great partner for you regarding new IT opportunities in the future. What is the best phone number and time I can reach you on?\n\nBest,\n\nJon\n"
+        }
+    ]
+}

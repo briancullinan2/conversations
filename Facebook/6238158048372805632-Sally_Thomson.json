@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6238158048372805632/",
+    "participants": [
+        {
+            "name": "Sally Thomson",
+            "title": "Client Partner at Envy Resources",
+            "url": "linkedin.com/in/sallythomson",
+            "phone": null,
+            "email": "sally@envyresources.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-17T00:52:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

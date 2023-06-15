@@ -1,0 +1,14 @@
+<session type="start" time="1222309445" medium="AIM" to="amariemcb" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1222309448" medium="AIM" to="amariemcb" from="bjcullinan" from_display="Brian%20Cullinan" text="oh%20hai%21"/>
+<session type="stop" time="1222309464" medium="AIM" to="amariemcb" from="bjcullinan"/>
+<session type="start" time="1222310434" medium="AIM" to="amariemcb" from="bjcullinan"/>
+<message type="incoming_privateMessage" time="1222310434" medium="AIM" to="bjcullinan" from="amariemcb" from_display="Ashley%20McBrien" text="oh%20hey%21"/>
+<session type="stop" time="1222310669" medium="AIM" to="amariemcb" from="bjcullinan"/>
+<session type="start" time="1222329921" medium="AIM" to="amariemcb" from="bjcullinan"/>
+<message type="outgoing_privateMessage" time="1222329927" medium="AIM" to="amariemcb" from="bjcullinan" from_display="Brian%20Cullinan" text="so%20how%20have%20you%20been%3F"/>
+<status type="Offline" time="1222331654" medium="AIM" from="amariemcb"/>
+<message type="information_standard" time="1222331654" medium="AIM" text="%22Ashley%20McBrien%22%20signed%20off%20at%20Thu%20Sep%2025%2001%3A34%3A14%202008%2E"/>
+<session type="stop" time="1222331802" medium="AIM" to="amariemcb" from="bjcullinan"/>
+<session type="start" time="1242706370" medium="AIM" to="amariemcb" from="bjcullinan"/>
+<message type="information_standard" time="1242706370" medium="AIM" text="NOTE%3A%20This%20user%20is%20offline%2E%20%20Your%20messages%20will%20most%20likely%20%2Anot%2A%20be%20received%21"/>
+<session type="stop" time="1242706385" medium="AIM" to="amariemcb" from="bjcullinan"/>

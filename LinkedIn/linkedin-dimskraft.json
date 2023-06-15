@@ -1,0 +1,587 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "20 Mutual Connections",
+                "You and Dmitry both know Luca Amoroso, Scott Swigart, and 18 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Machine Learning Engineer",
+                "Company Name",
+                "RADiCAL",
+                "Dates Employed",
+                "Aug 2017 – Present",
+                "Employment Duration",
+                "4 mos",
+                "Location",
+                "New York",
+                "Deep Learning & Machine Learning tasks"
+            ],
+            [
+                "Developer (GIS & Python)",
+                "Company Name",
+                "Energent Group",
+                "Dates Employed",
+                "May 2017 – Present",
+                "Employment Duration",
+                "7 mos",
+                "Location",
+                "United States",
+                "Wrote Python script to gather training set of satellite photos of industrial locations from Sentinel-2 database.Wrote Node.JS + Express web interface to gather supervised learning data.Writing Keras model to classify satellite image changes."
+            ],
+            [
+                "Google Maps developer",
+                "Company Name",
+                "Beyond Map (via Toptal)",
+                "Dates Employed",
+                "Mar 2017 – May 2017",
+                "Employment Duration",
+                "3 mos",
+                "Location",
+                "Hamilton, Canada",
+                "Wrote custom Google Maps based javascript Widget with custom layers, containing regions, geospatial information, custom tilesets, popups, markers, diagrams and etc. Widget includes geospatial filtering, i.e. keeping only that data, which falls into Google Maps frame.Connected the Widget to exsiting Laravel blade template of existing customer project. Worked with Bitbucket repository, provided by customer.Installed Amazon Beanstalk web server for customer being able to see updates online. Was deploying site onto this server regularly.Wrote Java desktop program to generate and process demo and customer's data. This includes creating and populating of SQLite database and generating custom PNG tilesets.Created Laravel controller (service) to serve geospatial data for the Widget. Controller was able to access SQLite database and produce Geojson responses for the Widget.Created proxy Laravel controller (service) to access 3rd party Yelp Fusion API and prepare it's responses in Geojson format for the Widget."
+            ],
+            [
+                "Java & Matlab Programmer",
+                "Company Name",
+                "CIRECA Theranostics LLC (via Toptal)",
+                "Dates Employed",
+                "Mar 2016 – Dec 2016",
+                "Employment Duration",
+                "10 mos",
+                "Location",
+                "United States",
+                "Java, Matlab, MySQL, Gradle, Maven, Jira, Github, ANTLR4Developed an \"overlay widget\" in Java, which can be embedded in both Matlab and Java applications, and is able to display and manipulate multilayered scientific vector graphics data like image regions tagged, polygonal geometry, and raster images.Created a desktop laboratory information and data mining system.  Allowed non programmers to see and analyze training data for machine learning"
+            ],
+            [
+                "GIS Developer",
+                "Company Name",
+                "Trackmatic Solutions (via Toptal)",
+                "Dates Employed",
+                "Mar 2016 – Mar 2016",
+                "Employment Duration",
+                "1 mo",
+                "- Designed a web service to query the MongoDB database and analyze the resulting data by geospatial properties with the help of GeoTools.- Composed Web UI for demonstration purposes- Decreased number of geolocation errors by more than 50%"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Lomonosov Moscow State University (MSU)",
+                "Degree Name",
+                "Master of Science (M.S.)",
+                "Field Of Study",
+                "Physics",
+                "Dates attended or expected graduation",
+                "1989 – 1995"
+            ],
+            [
+                "Lomonosov Moscow State University (MSU)",
+                "Degree Name",
+                "Master of Science (M.S.)",
+                "Field Of Study",
+                "Physics",
+                "Dates attended or expected graduation",
+                "1989 – 1995"
+            ],
+            [
+                "Udacity",
+                "Degree Name",
+                "Nanodegree",
+                "Field Of Study",
+                "Machine Learning",
+                "Dates attended or expected graduation",
+                "2016 – 2017",
+                "Nanodegrees are remote education ground courses of Udacity. Machine Learning is a great course to learn this topic with cool video lectures, quizes and milestone projects."
+            ],
+            [
+                "Udacity",
+                "Degree Name",
+                "Nanodegree",
+                "Field Of Study",
+                "Machine Learning",
+                "Dates attended or expected graduation",
+                "2016 – 2017",
+                "Nanodegrees are remote education ground courses of Udacity. Machine Learning is a great course to learn this topic with cool video lectures, quizes and milestone projects."
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Editor",
+                "Company Name",
+                "Relativity.Ru",
+                "Cause",
+                "Education",
+                "I maintained popular science site on Einstein's relativity theory in Russian."
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Scisbo",
+                "11 followers"
+            ],
+            [
+                "Udacity",
+                "77,583 followers"
+            ],
+            [
+                "CMU Sphinx",
+                "1,607 members"
+            ],
+            [
+                "Toptal",
+                "18,654 followers"
+            ],
+            [
+                "OpenSIPS",
+                "1,777 members"
+            ],
+            [
+                "Coursera",
+                "189,707 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Scisbo",
+                "11 followers"
+            ],
+            [
+                "Scisbo",
+                "11 followers"
+            ],
+            [
+                "Udacity",
+                "77,583 followers"
+            ],
+            [
+                "Udacity",
+                "77,583 followers"
+            ],
+            [
+                "CMU Sphinx",
+                "1,607 members"
+            ],
+            [
+                "CMU Sphinx",
+                "1,607 members"
+            ],
+            [
+                "Toptal",
+                "18,654 followers"
+            ],
+            [
+                "Toptal",
+                "18,654 followers"
+            ],
+            [
+                "OpenSIPS",
+                "1,777 members"
+            ],
+            [
+                "OpenSIPS",
+                "1,777 members"
+            ],
+            [
+                "Coursera",
+                "189,707 followers"
+            ],
+            [
+                "Coursera",
+                "189,707 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "C++",
+                "See 14 endorsements for C++",
+                "14",
+                "C++",
+                "Endorse",
+                "Fernando Damasio and 13 connections have given endorsements for this skill"
+            ],
+            [
+                "C++",
+                "See 14 endorsements for C++",
+                "14"
+            ],
+            [
+                "Java",
+                "See 11 endorsements for Java",
+                "11",
+                "Java",
+                "Endorse",
+                "Endorsed by Marek Hakala, who is highly skilled at this"
+            ],
+            [
+                "Java",
+                "See 11 endorsements for Java",
+                "11"
+            ],
+            [
+                "SQL",
+                "See 10 endorsements for SQL",
+                "10",
+                "SQL",
+                "Endorse",
+                "Endorsed by Marek Hakala and 1 other who is highly skilled at this"
+            ],
+            [
+                "SQL",
+                "See 10 endorsements for SQL",
+                "10"
+            ],
+            [
+                "Programming",
+                "See 9 endorsements for Programming",
+                "9",
+                "Programming",
+                "Endorse"
+            ],
+            [
+                "Programming",
+                "See 9 endorsements for Programming",
+                "9"
+            ],
+            [
+                "Matlab",
+                "See 8 endorsements for Matlab",
+                "8",
+                "Matlab",
+                "Endorse"
+            ],
+            [
+                "Matlab",
+                "See 8 endorsements for Matlab",
+                "8"
+            ],
+            [
+                "Artificial Intelligence",
+                "See 7 endorsements for Artificial Intelligence",
+                "7",
+                "Artificial Intelligence",
+                "Endorse"
+            ],
+            [
+                "Artificial Intelligence",
+                "See 7 endorsements for Artificial Intelligence",
+                "7"
+            ],
+            [
+                "Deep Learning",
+                "See 7 endorsements for Deep Learning",
+                "7",
+                "Deep Learning",
+                "Endorse"
+            ],
+            [
+                "Deep Learning",
+                "See 7 endorsements for Deep Learning",
+                "7"
+            ],
+            [
+                "Software Development",
+                "See 6 endorsements for Software Development",
+                "6",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development",
+                "See 6 endorsements for Software Development",
+                "6"
+            ],
+            [
+                "Machine Learning",
+                "See 6 endorsements for Machine Learning",
+                "6",
+                "Machine Learning",
+                "Endorse"
+            ],
+            [
+                "Machine Learning",
+                "See 6 endorsements for Machine Learning",
+                "6"
+            ],
+            [
+                "Algorithms",
+                "See 6 endorsements for Algorithms",
+                "6",
+                "Algorithms",
+                "Endorse"
+            ],
+            [
+                "Algorithms",
+                "See 6 endorsements for Algorithms",
+                "6"
+            ],
+            [
+                "Unix",
+                "See 5 endorsements for Unix",
+                "5",
+                "Unix",
+                "Endorse"
+            ],
+            [
+                "Unix",
+                "See 5 endorsements for Unix",
+                "5"
+            ],
+            [
+                "C",
+                "See 5 endorsements for C",
+                "5",
+                "C",
+                "Endorse"
+            ],
+            [
+                "C",
+                "See 5 endorsements for C",
+                "5"
+            ],
+            [
+                "JavaScript",
+                "See 5 endorsements for JavaScript",
+                "5",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 5 endorsements for JavaScript",
+                "5"
+            ],
+            [
+                "Physics",
+                "See 4 endorsements for Physics",
+                "4",
+                "Physics",
+                "Endorse"
+            ],
+            [
+                "Physics",
+                "See 4 endorsements for Physics",
+                "4"
+            ],
+            [
+                "Git",
+                "See 4 endorsements for Git",
+                "4",
+                "Git",
+                "Endorse"
+            ],
+            [
+                "Git",
+                "See 4 endorsements for Git",
+                "4"
+            ],
+            [
+                "Data Mining",
+                "See 4 endorsements for Data Mining",
+                "4",
+                "Data Mining",
+                "Endorse"
+            ],
+            [
+                "Data Mining",
+                "See 4 endorsements for Data Mining",
+                "4"
+            ],
+            [
+                "Artificial Neural Networks",
+                "See 4 endorsements for Artificial Neural Networks",
+                "4",
+                "Artificial Neural Networks",
+                "Endorse"
+            ],
+            [
+                "Artificial Neural Networks",
+                "See 4 endorsements for Artificial Neural Networks",
+                "4"
+            ],
+            [
+                "Computer Vision",
+                "See 4 endorsements for Computer Vision",
+                "4",
+                "Computer Vision",
+                "Endorse"
+            ],
+            [
+                "Computer Vision",
+                "See 4 endorsements for Computer Vision",
+                "4"
+            ],
+            [
+                "Linux",
+                "See 3 endorsements for Linux",
+                "3",
+                "Linux",
+                "Endorse"
+            ],
+            [
+                "Linux",
+                "See 3 endorsements for Linux",
+                "3"
+            ],
+            [
+                "C#",
+                "See 2 endorsements for C#",
+                "2",
+                "C#",
+                "Endorse"
+            ],
+            [
+                "C#",
+                "See 2 endorsements for C#",
+                "2"
+            ],
+            [
+                "Databases",
+                "See 2 endorsements for Databases",
+                "2",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 2 endorsements for Databases",
+                "2"
+            ],
+            [
+                "Perl",
+                "See 2 endorsements for Perl",
+                "2",
+                "Perl",
+                "Endorse"
+            ],
+            [
+                "Perl",
+                "See 2 endorsements for Perl",
+                "2"
+            ],
+            [
+                "PHP",
+                "See 2 endorsements for PHP",
+                "2",
+                "PHP",
+                "Endorse"
+            ],
+            [
+                "PHP",
+                "See 2 endorsements for PHP",
+                "2"
+            ],
+            [
+                "jQuery",
+                "See 2 endorsements for jQuery",
+                "2",
+                "jQuery",
+                "Endorse"
+            ],
+            [
+                "jQuery",
+                "See 2 endorsements for jQuery",
+                "2"
+            ],
+            [
+                "MySQL",
+                "See 2 endorsements for MySQL",
+                "2",
+                "MySQL",
+                "Endorse"
+            ],
+            [
+                "MySQL",
+                "See 2 endorsements for MySQL",
+                "2"
+            ],
+            [
+                "Mathematica",
+                "See 1 endorsement for Mathematica",
+                "1",
+                "Mathematica",
+                "Endorse"
+            ],
+            [
+                "Mathematica",
+                "See 1 endorsement for Mathematica",
+                "1"
+            ],
+            [
+                "Mathematics",
+                "See 1 endorsement for Mathematics",
+                "1",
+                "Mathematics",
+                "Endorse"
+            ],
+            [
+                "Mathematics",
+                "See 1 endorsement for Mathematics",
+                "1"
+            ],
+            [
+                "HTML",
+                "See 1 endorsement for HTML",
+                "1",
+                "HTML",
+                "Endorse"
+            ],
+            [
+                "HTML",
+                "See 1 endorsement for HTML",
+                "1"
+            ],
+            [
+                "MongoDB",
+                "See 1 endorsement for MongoDB",
+                "1",
+                "MongoDB",
+                "Endorse"
+            ],
+            [
+                "MongoDB",
+                "See 1 endorsement for MongoDB",
+                "1"
+            ]
+        ],
+        "summary": "    Artificial intelligence, machine learning and computer programming enthusiast.From my childhood I was trying to understand how do I think? How do people think? It was right in front of me, I was able to “see” my thoughts and “feel” how they are transforming into each other. It seemed so easy! Why can’t we just implement the same in the machine? I was drawing rectangles in my school notebook with various phrases inside them and connecting these rectangles with arrows. I didn’t know it was orgraph or state machine, but I was imagining, that some computer could read these phrases then go along arrows and select next phrase and so on. I was enthusiastically reading classical SciFi like “The Invincible” of Stanisław Lem or Asimov series about robots and thinking about how it will be possible in reality?\n  \n  \n",
+        "name": "Dmitry Kravchenko",
+        "title": "Software developer & Machine learning enthusiast",
+        "url": "linkedin.com/in/dimskraft",
+        "phone": "",
+        "email": "dimskraft@gmail.com"
+    }
+]

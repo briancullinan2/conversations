@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6211896992256323585/",
+    "participants": [
+        {
+            "name": "Stephen Baker",
+            "title": "Software Engineering Manager at Ticketmaster",
+            "url": "linkedin.com/in/stephensbaker",
+            "phone": "520-481-1804 (Mobile)",
+            "email": "tektsu@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-06T13:40:00.000Z"
+        }
+    ]
+}

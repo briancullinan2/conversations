@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6212271102975098880/",
+    "participants": [
+        {
+            "name": "Na'im Tyson",
+            "title": "NLP Research Scientist at Dotdash (Previously About.com)",
+            "url": "linkedin.com/in/ntysonphd",
+            "phone": null,
+            "email": "bokonon@tightmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting! I can read minds too!\n",
+            "time": "2017-12-07T14:27:00.000Z"
+        },
+        {
+            "from": "Na'im Tyson",
+            "message": "I only have an MA in telepathy.\n",
+            "time": "2017-12-07T14:56:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "That's still impressive. What are you working on?\n",
+            "time": "2017-12-07T15:22:00.000Z"
+        }
+    ]
+}

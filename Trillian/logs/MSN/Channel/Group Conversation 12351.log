@@ -1,0 +1,70 @@
+﻿Session Start (b.cullinan@cox.net:Group Conversation 12351): Mon Jul 16 12:57:47 2007
+[07/16/2007 12:58:06 PM] Robert Douglas: u would want to do last name and time stamp though too, so if you have two Smiths sign up, you can tell the difference based on the time they submitted their info to the DB, and the time they paid via PP
+[07/16/2007 12:58:18 PM] Robert Douglas: we cant drop the project, we need to work out all of the bugs
+[07/16/2007 12:58:35 PM] Brian Cullinan: the project protocol needs to be changed so that if they aren't using our hosting, we don't offer them services that don't exist on their own host's server
+[07/16/2007 12:59:20 PM] Robert Douglas: the only thing that doesnt work is the cron
+[07/16/2007 01:08:07 PM] Alex Markov: guys...briefly... one of my good friends needs to figure out how to: 
+[07/16/2007 01:08:12 PM] Alex Markov: I want to make a link open up in it's own window, but not open up in it's own tab in firefox
+[07/16/2007 01:08:24 PM] Brian Cullinan: right click the link]
+[07/16/2007 01:08:31 PM] Alex Markov: nono like from the code side
+[07/16/2007 01:09:09 PM] Brian Cullinan: not possible
+[07/16/2007 01:09:35 PM] Alex Markov: why. i feel like i have seen windows open up in new ff windows
+[07/16/2007 01:09:46 PM] Alex Markov: or rather links open in separate ff window
+[07/16/2007 01:10:05 PM] Brian Cullinan: if the user sets it to always open in a new tab it will always do that
+[07/16/2007 01:10:26 PM] Brian Cullinan: otherwise you set target="_blank" on a link in the code
+[07/16/2007 01:10:27 PM] Alex Markov: bobby do u know?
+[07/16/2007 01:10:31 PM] Robert Douglas: target="_blank"
+[07/16/2007 01:10:44 PM] Alex Markov: thanks
+[07/16/2007 01:10:55 PM] Alex Markov: this guy just sent me an invite to an exclusive invite only torrent community
+[07/16/2007 01:10:57 PM] Alex Markov: its rly crazy
+[07/16/2007 01:11:05 PM] Alex Markov: he said it doesnt do it
+[07/16/2007 01:11:10 PM] Brian Cullinan: what community?
+[07/16/2007 01:11:14 PM] Alex Markov: oink
+[07/16/2007 01:12:10 PM] Alex Markov: he said the blank command is not the right one
+[07/16/2007 01:12:14 PM] Alex Markov: anything else he can try?
+[07/16/2007 01:13:48 PM] Robert Douglas: blank is correct
+[07/16/2007 01:14:11 PM] Robert Douglas: by setting a link to be target="_blank" it will tell the browser to open the link in a new window
+[07/16/2007 01:14:26 PM] Robert Douglas: if the browser has popup blockers installed, then it may not work, and instead will stop it from opening in a new window
+[07/16/2007 01:14:27 PM] Brian Cullinan: it won't do a new window if the user specifed always open in a new tab
+[07/16/2007 01:14:52 PM] Brian Cullinan: popup blockers don't block links that you click
+[07/16/2007 01:14:55 PM] Brian Cullinan: only javascripts
+[07/16/2007 01:15:15 PM] Brian Cullinan: and thats excluding javascripts called from the href="" value
+[07/16/2007 01:17:12 PM] Alex Markov: k thanks guys :)
+[07/16/2007 01:17:43 PM] Alex Markov: are final azrn bugs worked out yet?
+[07/16/2007 01:18:06 PM] Brian Cullinan: negative
+[07/16/2007 01:18:26 PM] Brian Cullinan: still has bugs, i don't mind losing pay on this project so i want robert to hire someone else to finish it
+[07/16/2007 01:19:09 PM] Alex Markov: hummm what bugs are remaning. are they still bugs from initil design?
+[07/16/2007 01:19:15 PM] Brian Cullinan: paypal
+[07/16/2007 01:19:26 PM] Brian Cullinan: paypal is a bug
+[07/16/2007 01:19:47 PM] Brian Cullinan: they have 3 fucking pages of documentation
+[07/16/2007 01:20:07 PM] Brian Cullinan: its the worst api i've ever seen
+[07/16/2007 01:20:10 PM] Alex Markov: :(
+[07/16/2007 01:20:14 PM] Brian Cullinan: or the worst documented api
+[07/16/2007 01:20:55 PM] Alex Markov: are u capable of finishing it? it would be ebst if u did siunce u designed it to begin with
+[07/16/2007 01:22:47 PM] Robert Douglas: first, PP isn't well documented, and this is Brian's first time using PP, secondly, Brian isn't at home, so it is hard to do dev over a crappy internet connection
+[07/16/2007 01:22:56 PM] Brian Cullinan: i won't be able to implement a new system for another 2 weeks
+[07/16/2007 01:22:59 PM] Robert Douglas: i agree, we should just pay someone else to finish it up
+[07/16/2007 01:23:15 PM] Alex Markov: agreed
+[07/16/2007 01:23:19 PM] Brian Cullinan: there is a PEAR implementation of the paypal services
+[07/16/2007 01:23:43 PM] Alex Markov: brian have u seen our site in development?
+[07/16/2007 01:23:47 PM] Brian Cullinan: that would be really great to look into, everything the pear community has done so far i have been absolutely amazed and satisfied with
+[07/16/2007 01:23:48 PM] Alex Markov: (Link: http://www.rp-s.com/new.php)http://www.rp-s.com/new.php
+[07/16/2007 01:23:58 PM] Brian Cullinan: yeah the site looks amazing
+[07/16/2007 01:24:07 PM] Alex Markov: we added a shitoad of text over the weekend
+[07/16/2007 01:24:20 PM] Alex Markov: all pages need to have clipart added and reorganized over time
+[07/16/2007 01:24:30 PM] Alex Markov: so u will be back full time july 31st?
+[07/16/2007 01:24:38 PM] Brian Cullinan: i need to work on the SVN protocol now so that we can start using it
+[07/16/2007 01:25:10 PM] Alex Markov: ok. when u reutnr full time we got alot of work to do to finish up RPS and make it the best company on the net
+[07/16/2007 01:25:20 PM] Brian Cullinan: yeah
+[07/16/2007 01:25:23 PM] Alex Markov: yeah go finish that. i am really egaer to use it
+[07/16/2007 01:25:38 PM] Alex Markov: like the protocol needs to be so clear that i dont need to ask u questions to start using it
+[07/16/2007 01:25:44 PM] Alex Markov: like step by step how do i add a new document
+[07/16/2007 01:25:49 PM] Alex Markov: how do i edit a current document
+[07/16/2007 01:25:52 PM] Brian Cullinan: it is set up if you want to start uploading documents
+[07/16/2007 01:25:53 PM] Alex Markov: how do i add a new folder
+[07/16/2007 01:26:23 PM] Brian Cullinan: yeah
+[07/16/2007 01:27:06 PM] Alex Markov: brb rebooting
+[07/16/2007 01:27:33 PM] *** Alex has left the conversation.
+Session Close (Group Conversation 12351): Mon Jul 16 13:27:33 2007
+
+

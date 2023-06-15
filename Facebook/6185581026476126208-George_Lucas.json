@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6185581026476126208/",
+    "participants": [
+        {
+            "name": "George Lucas",
+            "title": "Recruiter + Dad + Musician",
+            "url": "linkedin.com/in/georgemlucas",
+            "phone": "",
+            "email": "george.lucas1@mac.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "George Lucas",
+            "message": "Developer Opportunity\ngeorge.lucas@yoh.com",
+            "time": "2014-09-15T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "On the job hunt again, how are things going for you?",
+            "time": "2017-10-31T22:50:00.000Z"
+        }
+    ]
+}

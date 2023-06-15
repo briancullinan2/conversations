@@ -1,0 +1,94 @@
+﻿Session Start (b.cullinan@cox.net:Group Conversation 27109): Mon Jun 11 12:36:47 2007
+[06/11/2007 12:37:14 PM] Brian Cullinan: i must have got kicked from the convo
+[06/11/2007 12:39:19 PM] Alex Markov: sec phone
+[06/11/2007 12:39:24 PM] Alex Markov: everyone open up meeting in sugar
+[06/11/2007 12:39:30 PM] Alex Markov: u and bobby discuss svn first
+[06/11/2007 12:40:13 PM] Brian Cullinan: is he here?
+[06/11/2007 12:40:30 PM] Alex Markov: h ok he is afk for a sec
+[06/11/2007 12:40:40 PM] Alex Markov: bobby was not officially in this meeting
+[06/11/2007 12:40:45 PM] Alex Markov: so he is just sitting in if he has time
+[06/11/2007 12:41:08 PM] Brian Cullinan: ok i sent you the list of next steps for SVN
+[06/11/2007 12:41:18 PM] Alex Markov: resend
+[06/11/2007 12:44:12 PM] Brian Cullinan: Create a user account on server to hold the SVN files, and Websvn site. 
+ Layout a general file structure to meet our current needs. 
+ Configure access to each individual repository. 
+ 
+[06/11/2007 12:44:20 PM] Brian Cullinan: they need to be done in that order
+[06/11/2007 12:44:46 PM] Alex Markov: oh ok
+[06/11/2007 12:45:01 PM] Alex Markov: we will wait to discuss that when bobby is there
+[06/11/2007 12:45:26 PM] Alex Markov: ok u have the meeting open brian?
+[06/11/2007 12:46:27 PM] Brian Cullinan: yes
+[06/11/2007 12:46:41 PM] Alex Markov: there are a few minor corrections still to be made
+[06/11/2007 12:46:43 PM] Alex Markov: first
+[06/11/2007 12:46:48 PM] Alex Markov: u see that best seller lis
+[06/11/2007 12:46:49 PM] Alex Markov: t
+[06/11/2007 12:46:53 PM] Alex Markov: u see the glitch there?
+[06/11/2007 12:47:05 PM] Alex Markov: do u know the cause of it?
+[06/11/2007 12:47:34 PM] Brian Cullinan: yeah its too long
+[06/11/2007 12:47:58 PM] Alex Markov: well some products will be long. s
+[06/11/2007 12:48:17 PM] Alex Markov: we cant limit all products to a certain title length... or should we?
+[06/11/2007 12:49:38 PM] Brian Cullinan: we can truncate it
+[06/11/2007 12:50:12 PM] Alex Markov: like cut the name short automatically?
+[06/11/2007 12:51:45 PM] Alex Markov: what are you doing?
+[06/11/2007 12:51:50 PM] Alex Markov: can we discuss this at a fast tempo?
+[06/11/2007 12:53:14 PM] Brian Cullinan: yeah sorry
+[06/11/2007 12:53:27 PM] Brian Cullinan: i add little ... after a certain length
+[06/11/2007 12:53:35 PM] Alex Markov: hummm
+[06/11/2007 12:53:40 PM] Alex Markov: ok thats a good idea
+[06/11/2007 12:53:45 PM] Brian Cullinan: ok i'll get on it
+[06/11/2007 12:53:48 PM] Alex Markov: wait
+[06/11/2007 12:53:50 PM] Alex Markov: just make a list
+[06/11/2007 12:53:59 PM] Alex Markov: we have a bunch more to go over
+[06/11/2007 12:54:06 PM] Alex Markov: did u put it on a list?
+[06/11/2007 12:54:40 PM] Alex Markov: brian?
+[06/11/2007 12:54:49 PM] Alex Markov: please focus
+[06/11/2007 12:55:08 PM] Brian Cullinan: yes i did
+[06/11/2007 12:55:11 PM] Brian Cullinan: just continue
+[06/11/2007 12:57:28 PM] Brian Cullinan: so?
+[06/11/2007 12:57:35 PM] Brian Cullinan: next correction
+[06/11/2007 12:57:43 PM] Alex Markov: ok
+[06/11/2007 12:57:45 PM] Brian Cullinan: we need some images made
+[06/11/2007 12:58:01 PM] Alex Markov: put on your lsit to send me a list of images u need made
+[06/11/2007 12:58:07 PM] Alex Markov: ok?
+[06/11/2007 12:58:23 PM] Brian Cullinan: the star for the savings needs to be pick
+[06/11/2007 12:58:32 PM] Alex Markov: how complicated is it to make the 'Your Cart' box and the 'Specials' box to switch places?
+[06/11/2007 12:58:35 PM] Brian Cullinan: and the orange arrows next to buttons need to be pink
+[06/11/2007 12:58:47 PM] Brian Cullinan: i can switch those buttons easily
+[06/11/2007 12:58:52 PM] Alex Markov: ok put that on your list
+[06/11/2007 12:58:57 PM] Brian Cullinan: ok
+[06/11/2007 12:59:11 PM] Alex Markov: (Link: http://www.rp-s.com/clients/nyb/)http://www.rp-s.com/clients/nyb/
+[06/11/2007 12:59:22 PM] Alex Markov: look at the bullets for the boxes in the tempalte. they all had different bullet images
+[06/11/2007 12:59:37 PM] Alex Markov: the website all has the same bullets
+[06/11/2007 01:00:21 PM] Alex Markov: can u add those unique bullets to the proper boxes?
+[06/11/2007 01:01:12 PM] Brian Cullinan: i can try
+[06/11/2007 01:01:23 PM] Brian Cullinan: that should have been done in the css, but i'll check it out
+[06/11/2007 01:01:34 PM] Alex Markov: ok put that on your list. if ryan needs to do that they send me an email
+[06/11/2007 01:01:51 PM] Alex Markov: next.... the top right navigation is missing the Help link
+[06/11/2007 01:01:54 PM] Alex Markov: (Link: http://www.rp-s.com/clients/nyb/)http://www.rp-s.com/clients/nyb/
+[06/11/2007 01:02:01 PM] Brian Cullinan: i am aware
+[06/11/2007 01:02:06 PM] Alex Markov: put that on your list
+[06/11/2007 01:02:12 PM] Brian Cullinan: that is definined in the configuration and isn't default
+[06/11/2007 01:02:17 PM] Brian Cullinan: would you like me to add it?
+[06/11/2007 01:02:20 PM] Alex Markov: yes
+[06/11/2007 01:02:25 PM] Alex Markov: in the tempalte it is there
+[06/11/2007 01:02:27 PM] Alex Markov: it looks nice
+[06/11/2007 01:02:50 PM] Alex Markov: next.... the login box in top right corner... it is not working properly.
+[06/11/2007 01:03:00 PM] Brian Cullinan: i fixed that
+[06/11/2007 01:03:10 PM] Brian Cullinan: but i didn't have a username and pass to try it with
+[06/11/2007 01:03:11 PM] Alex Markov: and furthermore... i think that if you are logged into the store... it should say "Welcome Alex" there. 
+[06/11/2007 01:03:12 PM] Robert Douglas: i'm back and ready to discuss svn, do you want to talk later brian? or do you have time now to talk about svn?
+[06/11/2007 01:03:16 PM] Alex Markov: master/vf15
+[06/11/2007 01:03:24 PM] Alex Markov: 5minutes bobby
+[06/11/2007 01:03:28 PM] Alex Markov: i want to finish nyb talk
+[06/11/2007 01:03:38 PM] Brian Cullinan: i tried that in the regular one and it didn't act any differently
+[06/11/2007 01:03:39 PM] Robert Douglas: ok, send me a msg when you are ready brian
+[06/11/2007 01:03:42 PM] Brian Cullinan: ok
+[06/11/2007 01:03:54 PM] Robert Douglas: invite me back, or start a new convo if u dont mind
+[06/11/2007 01:03:58 PM] Brian Cullinan: read the history we discussed the next steps at the beginning
+[06/11/2007 01:04:02 PM] Alex Markov: brian... how complicated will it be to make that top right login box work right
+[06/11/2007 01:04:09 PM] Alex Markov: ill inform him after this brian
+[06/11/2007 01:04:11 PM] Brian Cullinan: i should work right now
+[06/11/2007 01:04:14 PM] *** Merlin has left the conversation.
+Session Close (Group Conversation 27109): Mon Jun 11 13:04:15 2007
+
+

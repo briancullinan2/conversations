@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6330842076430893056/",
+    "participants": [
+        {
+            "name": "David Stark",
+            "title": "Sr. Software Developer",
+            "url": "linkedin.com/in/davidrstark",
+            "phone": "",
+            "email": "starkd1248@hotmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-11-06T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "What's new? What's important? What's fun?",
+            "time": "2017-11-04T19:07:00.000Z"
+        }
+    ]
+}

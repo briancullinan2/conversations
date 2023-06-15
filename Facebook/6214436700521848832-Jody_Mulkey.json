@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6214436700521848832/",
+    "participants": [
+        {
+            "name": "Jody Mulkey",
+            "title": "Chief Technology Officer at Ticketmaster",
+            "url": "linkedin.com/in/jodymulkey",
+            "phone": null,
+            "email": "jody.mulkey@ticketmaster.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-13T13:52:00.000Z"
+        }
+    ]
+}

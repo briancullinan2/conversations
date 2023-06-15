@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6191314221037342720/",
+    "participants": [
+        {
+            "name": "Chris Mazer",
+            "title": "--",
+            "url": "linkedin.com/in/chris-mazer-4a411a92",
+            "phone": "(614) 876-5351 (Home)",
+            "email": "cmazer@natsignsys.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you so much for the connect!  I would love to talk about a possible position at National Sign!  I've attached a PDF of my resume, in case you are interested.  :)",
+            "time": "2017-10-31T18:32:00.000Z"
+        },
+        {
+            "from": "Chris Mazer",
+            "message": "Brian,",
+            "time": "2016-10-11T12:00:00.000Z"
+        },
+        {
+            "from": "Chris Mazer",
+            "message": "I received your resume.  I assume you are looking to come back to the Columbus area.  I will share your information with our management team.",
+            "time": "2017-10-31T12:55:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I appreciate that!  Thank you!  I bet you can come up with something really creative for me to do.",
+            "time": "2017-10-31T12:55:00.000Z"
+        },
+        {
+            "from": "",
+            "message": ":)",
+            "time": "2017-10-31T12:55:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Here is an updated copy of my resume.  Jim said he was having a hard time coming up with a job description.  Not sure if this adds to the problem or not.  Is this too colorful?",
+            "time": "2017-10-31T00:24:00.000Z"
+        }
+    ]
+}

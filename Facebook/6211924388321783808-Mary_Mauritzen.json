@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6211924388321783808/",
+    "participants": [
+        {
+            "name": "Mary Mauritzen",
+            "title": "Sr. Project Manager at Advantage Resourcing",
+            "url": "linkedin.com/in/mary-mauritzen-9b61074",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "You're a genius!\n",
+            "time": "2017-12-06T15:29:00.000Z"
+        },
+        {
+            "from": "Mary Mauritzen",
+            "message": "Nah, you can have that designation, Megabrain.\n",
+            "time": "2017-12-06T15:34:00.000Z"
+        }
+    ]
+}

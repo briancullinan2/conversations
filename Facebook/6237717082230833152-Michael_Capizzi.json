@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6237717082230833152/",
+    "participants": [
+        {
+            "name": "Michael Capizzi",
+            "title": "NLP Engineer at Nextiva",
+            "url": "linkedin.com/in/michael-capizzi-6870bba2",
+            "phone": null,
+            "email": "mcapizzi@email.arizona.edu"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-15T19:40:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

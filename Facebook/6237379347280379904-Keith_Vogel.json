@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6237379347280379904/",
+    "participants": [
+        {
+            "name": "Keith Vogel",
+            "title": "Sr. Talent Advisor at Charles Schwab",
+            "url": "linkedin.com/in/keith-vogel-55b6366",
+            "phone": "(480) 496-3023 (Work)",
+            "email": "keith.vogel@schwab.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-14T21:18:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

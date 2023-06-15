@@ -1,0 +1,311 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "6 Mutual Connections",
+                "You and Tobias both know Chris Matthieu, Joe Caruso, and 4 others"
+            ],
+            [
+                "You both studied at Northern Arizona University",
+                "You both studied at Northern Arizona University from 2005 to 2010"
+            ],
+            [
+                "Show more highlights"
+            ],
+            [
+                "Reliam Raises Significant Initial Investment from Great Hill Partners, with a Commitment of up to $75 Million to Fund Acquisitions and Growth",
+                "Tobias commented"
+            ],
+            [
+                "A Great Time to Take XenServer for a Spin",
+                "Tobias liked"
+            ],
+            [
+                "Massive Intel ME Bugs Threaten Millions Of Dell, HP, Lenovo, Acer, Panasonic, Fujitsu Computers",
+                "Tobias liked"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Desktop Creation and Integration Services Team Lead",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Sep 2016 – Present",
+                "Employment Duration",
+                "1 yr 3 mos",
+                "Location",
+                "Flagstaff, Arizona Area",
+                "Team Lead for six to eight FTE employees and 4-8 part-time student workers within the Information Technology Services department at NAU. Responsible for the creation, maintenance and distribution of all images for PCs and Macs, physical and virtual, for university employees and students at the Flagstaff campus as well as local and statewide lab locations. This includes maintaining local and state-wide labs with thick/thin Windows and Macintosh clients, as well as the operation of the XenServer/XenDesktop/XenApp servers and services and RDS servers.Over 400 thin clients are deployed under XenServer using virtual machines running XenDesktop/XenApp. Conducting investigations of GPU/vGPU technology for shared graphics application acceleration as well as IoT (in particular Citrix Octoblu) technologies. Also looking at various application delivery mechanisms, including ubiquitous application delivery. Involvement in the adaptation of the Raspberry Pi as a thin client.Extensive experience administering UNIX, Linux and Solaris operating systems and their applications. Programming knowledge in Fortran, C, perl, python and shell scripting. Blogger on a variety of topics including XenServer, storage, IoT and high-availability topics. Contributor to the NAU/VMbackup XenServer backup scripts on GitHub."
+            ],
+            [
+                "Academic Computing Team Lead",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Dec 1997 – Aug 2016",
+                "Employment Duration",
+                "18 yrs 9 mos",
+                "Location",
+                "Flagstaff, Arizona",
+                "Team Lead for eight FTE employees and 4-8 part-time student workers within the Information Technology Services department at NAU. Responsible for maintaining local and state-wide labs with thick/thin Windows and Macintosh clients, XenServer/XenDesktop/XenApp servers and services, Linux servers, enterprise and shared storage (iSCSI. NFS, Fiber Channel HBA, SAS/SATA, Software Defined Storage), account maintenance/authorization/authentication with LDAP, PAM, CAS and AD, disaster recovery procedures, software and product licensing and maintenance, system security, Apache Web services, custom Web applications, print and print billing services, kiosks, and consulting with faculty/staff on specialized projects.Recently, High Performance Computing services have been added to the team responsibilities with a cluster expanded in 2015 to now contain 856 Intel Xeon cores, 16TB of memory, 4 NVIDIA Tesla K80 GPUs and up to 20 teraflops of processing power, together with 750 TB of storage.Over 330 thin clients are deployed under XenServer using virtual machines running XenDesktop/XenApp. Investigations of GPU/vGPU technology for shared graphics application acceleration. Involved with the integration of Windows and Linux services, including file sharing (e.g., via Samba) and password synchronization. Extensive experience administering UNIX, Linux and Solaris operating systems and their applications. Programming knowledge in Fortran, C, perl, and shell scripting.Helped engineer the cut-over from local email accounts for students to Google Apps for Education (GAE) in 2011 and was responsible for transferring all the email for several tens of thousands of accounts from our internal mail server to GAE, all accomplished in about two months with virtually no down time.I began experimenting with server/client virtualization in 2004, and specifically with VMware in 2007 and XenServer in 2009 and currently manage several XenServer pools and their associated storage and networks."
+            ],
+            [
+                "Systems Analyst => Systems Programmer, Principal",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Jul 1994 – Nov 1997",
+                "Employment Duration",
+                "3 yrs 5 mos",
+                "Location",
+                "Flagstaff, Arizona",
+                "During this period of time. I held a variety of positions ranging from Systems Analyst to Systems Programmer, Principal within Information Technology Services before becoming a Team Lead in December 1997. Primary projects included the first campus-wide email system for all students, Web services and the development of home-grown account password synchronization. Ramped up from about 5% of students having email to 100% in about two years. Helped develop Samba-based drive mapping to support roaming profiles and preferences. Instituted comprehensive backup and restore procedures. Brought up a number of early Linux servers as first steps in converting from primarily UNIX boxes."
+            ],
+            [
+                "Astronomer/Sys Admin",
+                "Company Name",
+                "Planetary Science Institute",
+                "Dates Employed",
+                "Dec 1993 – Jun 1994",
+                "Employment Duration",
+                "7 mos",
+                "Location",
+                "Tucson, Arizona",
+                "Research astronomer and system administrator. Brought up one of the first (possibly among the first 1000 in the world) NCSA-based Web servers in early 1994. Administered VMS and Linux servers and workstations, email, networking, and modem connectivity."
+            ],
+            [
+                "Astronomer/Sys Admin",
+                "Company Name",
+                "Lowell Observatory",
+                "Dates Employed",
+                "Jun 1980 – Nov 1993",
+                "Employment Duration",
+                "13 yrs 6 mos",
+                "Location",
+                "Flagstaff, Arizona",
+                "Staff astronomer and systems administrator. Worked with numerous data acquisition systems (photometers, spectroscopes and early CCD cameras), data analysis systems (digital image processing), and developed code in Fortran for RT-11, RSX-11M, VAX/VMS on various Digital Equipment Corporation computers and Fortran and C for Sun Microsystems SPARC servers and desktops. Helped test prototype CCD camera systems in conjunction with the Hubble Space Telescope Wide Field/Planetary Camera imaging team. Conducted astronomical research in the areas of variable stars, planetary rings, stellar and asteroid occultations, the imaging of comets and investigations of the properties of galaxies and QSOs. Did a small amount of assembly language programming, as well, primarily in conjunction with instrument control computers. Primary or secondary author on over 100 astronomical publications. PI or co-PI on NASA and NSF, as well other grants (e.g., IUE). Worked several summers supervising projects with visiting undergraduate students from a number of different universities and colleges, including MIT. Member of the American Astronomical Society and the International Astronomical Union."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Universität Wien",
+                "Degree Name",
+                "Ph.D.",
+                "Field Of Study",
+                "Astronomy",
+                "Dates attended or expected graduation",
+                "1972 – 1979",
+                "I majored in astronomy with a minor in experimental physics. Much of the programming work was done in either Fortran on a CDC mainframe, or with Fortran and FOCAL on PDP-12 and PDP-11 minicomputers. My thesis involved investigating an alternative method of analyzing slit scans of close visual binary stars. I also began working on image processing software, eventually making a fair number of contributions to the Tololo-Vienna image processing system."
+            ],
+            [
+                "Universität Wien",
+                "Degree Name",
+                "Ph.D.",
+                "Field Of Study",
+                "Astronomy",
+                "Dates attended or expected graduation",
+                "1972 – 1979",
+                "I majored in astronomy with a minor in experimental physics. Much of the programming work was done in either Fortran on a CDC mainframe, or with Fortran and FOCAL on PDP-12 and PDP-11 minicomputers. My thesis involved investigating an alternative method of analyzing slit scans of close visual binary stars. I also began working on image processing software, eventually making a fair number of contributions to the Tololo-Vienna image processing system."
+            ],
+            [
+                "Northern Arizona University",
+                "Field Of Study",
+                "Various courses",
+                "Grade",
+                "Current GPA: 4.0",
+                "Dates attended or expected graduation",
+                "1987",
+                "Over the years, I have taken a variety of courses, including MIS, C Programming, Macro/Micro Economics, and Spanish II. I also taught Fortran programming part-time for a couple of semesters."
+            ],
+            [
+                "Northern Arizona University",
+                "Field Of Study",
+                "Various courses",
+                "Grade",
+                "Current GPA: 4.0",
+                "Dates attended or expected graduation",
+                "1987",
+                "Over the years, I have taken a variety of courses, including MIS, C Programming, Macro/Micro Economics, and Spanish II. I also taught Fortran programming part-time for a couple of semesters."
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Merit Badge Counselor",
+                "Company Name",
+                "Boy Scouts of America",
+                "Dates volunteered",
+                "Apr 2009 – May 2015",
+                "Volunteer duration",
+                "6 yrs 2 mos",
+                "I serve as counselor for a number of merit badges, including Hiking, Chess, Astronomy, Music and Digital Technology, am frequently on Boards of Review for rank advancement, and also have held the position of Scribe in the Adult Leadership Committee. My son achieved the rank of Eagle Scout in July 2014."
+            ],
+            "Recommendations",
+            [
+                "NVIDIA GRID for Education",
+                "436 members"
+            ],
+            [
+                "CITRIX® Certified Professional",
+                "19,281 members"
+            ],
+            [
+                "Universität Wien",
+                "62,140 followers"
+            ],
+            [
+                "The Inside Track - End User Computing",
+                "86 members"
+            ],
+            [
+                "Citrix Professionals",
+                "16,037 members"
+            ],
+            [
+                "Xen Masters",
+                "2,620 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "NVIDIA GRID for Education",
+                "436 members"
+            ],
+            [
+                "NVIDIA GRID for Education",
+                "436 members"
+            ],
+            [
+                "CITRIX® Certified Professional",
+                "19,281 members"
+            ],
+            [
+                "CITRIX® Certified Professional",
+                "19,281 members"
+            ],
+            [
+                "Universität Wien",
+                "62,140 followers"
+            ],
+            [
+                "Universität Wien",
+                "62,140 followers"
+            ],
+            [
+                "The Inside Track - End User Computing",
+                "86 members"
+            ],
+            [
+                "The Inside Track - End User Computing",
+                "86 members"
+            ],
+            [
+                "Citrix Professionals",
+                "16,037 members"
+            ],
+            [
+                "Citrix Professionals",
+                "16,037 members"
+            ],
+            [
+                "Xen Masters",
+                "2,620 members"
+            ],
+            [
+                "Xen Masters",
+                "2,620 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "John Campbell",
+                "Peace Corps Volunteer, Dornod Institute, Mongolia",
+                "November 26, 2014, John managed Tobias directly",
+                "I hired Tobias to form an academic computing unix team in 1994. We worked together to develop and implement an expanded vision of campus computing services from 1994-2011. Tobias's technical and leadership skills quickly earned him the position of unix team lead and he led the roll out a number of successful large-scale student, library, and faculty services hosted on unix and windows platforms.Tobias has always considered the key factors of cost, reliability, scalability, and security when designing solutions to meet computing needs. Tobias also embraced our \"skunk works\" philosophy, wherein a portion of time was set aside to explore promising new technologies and approaches to managing our evolving technology ecosystem. Many of these efforts made their way into production, including mapping Samba drives for lab computer roaming profiles and network drives, print billing, password synchronization between Linux and Windows, simple proxy authentication for online library materials, thin clients to replace open lab computers, along with numerous in-house and off-the-shelf security detection and mitigation efforts. In 2004 Tobias began exploring virtualization; this effort led to the earliest campus adoption of large-scale virtual hosts on affordable Intel-based unix platforms. Over time he became an expert on various virtualization products before settling on the Citrix Xen server.Today his expertise and deep understanding of virtual environments allows Northern Arizona University to confidently operate with reduced costs, increased reliability, and improved security in an environment that is managed with a surprising small number of system administrators. Tobias is also championing using graphical processing units to build server-based graphics accelerators for the campus, exploring software defined storage to improve cost and performance in large systems, and preparing the campus for a new \"bring your own device\" strategy that provides more flexibility and access to campus computing resources.Most importantly, however, Tobias is a gracious and skilled mentor who generously helps others working in areas he's mastered. His scholarship and practical skills are superb, but his willingness to engage with others in a community of learners makes him one of the best in his field.John CampbellRetired Director of Academic ComputingNorthern Arizona UniversityDecember 2014"
+            ],
+            [
+                "John Campbell",
+                "Peace Corps Volunteer, Dornod Institute, Mongolia",
+                "November 26, 2014, John managed Tobias directly"
+            ],
+            [
+                "John Campbell",
+                "Peace Corps Volunteer, Dornod Institute, Mongolia",
+                "November 26, 2014, John managed Tobias directly"
+            ],
+            [
+                "John Campbell",
+                "Peace Corps Volunteer, Dornod Institute, Mongolia",
+                "November 26, 2014, John managed Tobias directly"
+            ],
+            "Peace Corps Volunteer, Dornod Institute, Mongolia",
+            [
+                "I hired Tobias to form an academic computing unix team in 1994. We worked together to develop and implement an expanded vision of campus computing services from 1994-2011. Tobias's technical and leadership skills quickly earned him the position of unix team lead and he led the roll out a number of successful large-scale student, library, and faculty services hosted on unix and windows platforms.Tobias has always considered the key factors of cost, reliability, scalability, and security when designing solutions to meet computing needs. Tobias also embraced our \"skunk works\" philosophy, wherein a portion of time was set aside to explore promising new technologies and approaches to managing our evolving technology ecosystem. Many of these efforts made their way into production, including mapping Samba drives for lab computer roaming profiles and network drives, print billing, password synchronization between Linux and Windows, simple proxy authentication for online library materials, thin clients to replace open lab computers, along with numerous in-house and off-the-shelf security detection and mitigation efforts. In 2004 Tobias began exploring virtualization; this effort led to the earliest campus adoption of large-scale virtual hosts on affordable Intel-based unix platforms. Over time he became an expert on various virtualization products before settling on the Citrix Xen server.Today his expertise and deep understanding of virtual environments allows Northern Arizona University to confidently operate with reduced costs, increased reliability, and improved security in an environment that is managed with a surprising small number of system administrators. Tobias is also championing using graphical processing units to build server-based graphics accelerators for the campus, exploring software defined storage to improve cost and performance in large systems, and preparing the campus for a new \"bring your own device\" strategy that provides more flexibility and access to campus computing resources.Most importantly, however, Tobias is a gracious and skilled mentor who generously helps others working in areas he's mastered. His scholarship and practical skills are superb, but his willingness to engage with others in a community of learners makes him one of the best in his field.John CampbellRetired Director of Academic ComputingNorthern Arizona UniversityDecember 2014"
+            ],
+            [
+                "I hired Tobias to form an academic computing unix team in 1994. We worked together to develop and implement an expanded vision of campus computing services from 1994-2011. Tobias's technical and leadership skills quickly earned him the position of unix team lead and he led the roll out a number of successful large-scale student, library, and faculty services hosted on unix and windows platforms.Tobias has always considered the key factors of cost, reliability, scalability, and security when designing solutions to meet computing needs. Tobias also embraced our \"skunk works\" philosophy, wherein a portion of time was set aside to explore promising new technologies and approaches to managing our evolving technology ecosystem. Many of these efforts made their way into production, including mapping Samba drives for lab computer roaming profiles and network drives, print billing, password synchronization between Linux and Windows, simple proxy authentication for online library materials, thin clients to replace open lab computers, along with numerous in-house and off-the-shelf security detection and mitigation efforts. In 2004 Tobias began exploring virtualization; this effort led to the earliest campus adoption of large-scale virtual hosts on affordable Intel-based unix platforms. Over time he became an expert on various virtualization products before settling on the Citrix Xen server.Today his expertise and deep understanding of virtual environments allows Northern Arizona University to confidently operate with reduced costs, increased reliability, and improved security in an environment that is managed with a surprising small number of system administrators. Tobias is also championing using graphical processing units to build server-based graphics accelerators for the campus, exploring software defined storage to improve cost and performance in large systems, and preparing the campus for a new \"bring your own device\" strategy that provides more flexibility and access to campus computing resources.Most importantly, however, Tobias is a gracious and skilled mentor who generously helps others working in areas he's mastered. His scholarship and practical skills are superb, but his willingness to engage with others in a community of learners makes him one of the best in his field.John CampbellRetired Director of Academic ComputingNorthern Arizona UniversityDecember 2014"
+            ],
+            [
+                "Steve Benton",
+                "Engaging the power of CX solutions",
+                "November 25, 2015, Tobias was a client of Steve’s",
+                "Steve Benton is a very focused and driven individual who has great command and working knowledge of various Citrix products. Above all, he is an excellent communicator and experienced speaker who can deliver content in a commanding way that holds the audience's attention. It is a rare combination to see someone with as developed technical as well as communcation skills as Steve. His talent also extends to have a insightful understanding of the customer perspective, which is vital to the long-term success of any evolving product. As such, I can highly recommend him in all these capacities."
+            ],
+            [
+                "Steve Benton",
+                "Engaging the power of CX solutions",
+                "November 25, 2015, Tobias was a client of Steve’s"
+            ],
+            [
+                "Steve Benton",
+                "Engaging the power of CX solutions",
+                "November 25, 2015, Tobias was a client of Steve’s"
+            ],
+            [
+                "Steve Benton",
+                "Engaging the power of CX solutions",
+                "November 25, 2015, Tobias was a client of Steve’s"
+            ],
+            "Engaging the power of CX solutions",
+            [
+                "Steve Benton is a very focused and driven individual who has great command and working knowledge of various Citrix products. Above all, he is an excellent communicator and experienced speaker who can deliver content in a commanding way that holds the audience's attention. It is a rare combination to see someone with as developed technical as well as communcation skills as Steve. His talent also extends to have a insightful understanding of the customer perspective, which is vital to the long-term success of any evolving product. As such, I can highly recommend him in all these capacities."
+            ],
+            [
+                "Steve Benton is a very focused and driven individual who has great command and working knowledge of various Citrix products. Above all, he is an excellent communicator and experienced speaker who can deliver content in a commanding way that holds the audience's attention. It is a rare combination to see someone with as developed technical as well as communcation skills as Steve. His talent also extends to have a insightful understanding of the customer perspective, which is vital to the long-term success of any evolving product. As such, I can highly recommend him in all these capacities."
+            ]
+        ],
+        "skills": [],
+        "summary": "    Seasoned professional in the IT areas of system server administration, system architecture, Web server deployment, server/client virtualization, security and programming. Currently focused on server and client virtualization, storage solutions, BYOD, and GPU/vGPU technologies for shared accelerated graphics, IoT (Citrix Octoblu) and Raspberry Pi. As an astronomer, over 120 papers as a primary or co-author were published. Currently heavily involved in Citrix XenServer deployment also incorporating XenDesktop/XenApp services. A major contributor to Citrix XenServer blogs since early 2010.My lifetime work has been spent in the areas of scientific research and education and as of late, with the improvement and enhancement of educational and research experiences through computer technologies. My work passion is innovation, adaptation and the application of new technologies to the benefit of end users.Background: The Colorado River near Lee's Ferry, just upstream from the Grand Canyon, photographed by T. Kreidl, Copyright (c) 2014.\n  \n  \n",
+        "name": "Tobias Kreidl",
+        "title": "Desktop Creation and Integration Services Team Lead at Northern Arizona University",
+        "url": "linkedin.com/in/tobias-kreidl-7ab249a3",
+        "phone": "",
+        "email": "tobias.kreidl@nau.edu"
+    }
+]

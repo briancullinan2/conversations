@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6227266998473146368/",
+    "participants": [
+        {
+            "name": "Chris Cox",
+            "title": "Nerd Herder - Manager, Talent Acquisition (Engineering)",
+            "url": "linkedin.com/in/crizzcoxx",
+            "phone": null,
+            "email": "chris_cox@intuit.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-17T23:35:00.000Z"
+        }
+    ]
+}

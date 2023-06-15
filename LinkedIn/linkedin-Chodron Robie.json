@@ -1,0 +1,423 @@
+[
+    {
+        "resourceName": "people/c2152110620730581536",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMOE9lQWkrWkNjYms9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "1dddd53509fde220"
+                    }
+                },
+                "displayName": "Chodron Robie",
+                "familyName": "Robie",
+                "givenName": "Chodron",
+                "displayNameLastFirst": "Robie, Chodron"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "114315587872412356756"
+                    }
+                },
+                "displayName": "Chodron Robie",
+                "familyName": "Robie",
+                "givenName": "Chodron",
+                "displayNameLastFirst": "Robie, Chodron"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "1dddd53509fde220"
+                    }
+                },
+                "value": "+1-928-300-6442",
+                "canonicalForm": "+19283006442",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "1dddd53509fde220"
+                    }
+                },
+                "value": "928-203-9610",
+                "canonicalForm": "+19282039610",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "3 Mutual Connections",
+                "You and Chodron both know Jeremy Brown, Trent Lowery, and 1 other"
+            ],
+            [
+                "You both worked at Northern Arizona University",
+                "Chodron worked at Northern Arizona University after you started"
+            ],
+            [
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Network Administrator",
+                "Company Name",
+                "Arizona Snowbowl",
+                "Dates Employed",
+                "Jan 2016 – Present",
+                "Employment Duration",
+                "1 yr 10 mos",
+                "Location",
+                "Flagstaff, Arizona Area",
+                "Network Administrator"
+            ],
+            [
+                "Help Desk Support Specialist Sr.",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Sep 2014 – Jan 2016",
+                "Employment Duration",
+                "1 yr 5 mos",
+                "Location",
+                "Flagstaff, Arizona",
+                "•\tHelped support servers, networks, and desktops at K-12 schools throughout AZ•\tPerformed active directory organization and cleanup, including GPO cleanups and reworks at numerous sites•\tDeveloped standardized GPO templates to improve productivity, and efficiency.•\tMonitor and maintain the backup processes of more than 118 remote site servers, and 150+ on site servers, including off site backups, and back up disaster recovery testing.•\tTransitioned schools from ESXI virtual platforms to Hyper-V•\tHelped managed light speed content filters at numerous schools•\tInstalled and maintained Mcafee EPO and Mcafee anti-virus solutions.•\tAssisted senior engineers in maintaining hosted environment solutions including exchange, accounting solutions, and a Citrix environment for school information systems."
+            ],
+            [
+                "Tier 2 Help Desk Technician",
+                "Company Name",
+                "Flagstaff IT",
+                "Dates Employed",
+                "Sep 2012 – Sep 2014",
+                "Employment Duration",
+                "2 yrs 1 mo",
+                "Location",
+                "Flagstaff, Arizona Area",
+                "· Monitor and maintain the backup processes of more than 95 servers, including off site backups,and back up disaster recovery testing.· Monitor and maintain the Antivirus of more than 1300 systems & servers.· Developed the companies procedure for mass deploying systems using imaging tools includingthe use of virtualized systems for image generation and scripted OEM OS activation.· Help maintain numerous client environments including the maintenance and repair of propertymanagement systems, POS systems, school management systems, and healthcare practicemanagement software including School Master, Lytec, Lytec MD, Amazing Charts, GreenwayPrime Suite, Sage Intergy, Intergy EHR, Medical Manager, E-Mds, Eaglesoft, and Dentrix.· Configure group policies to map drives, install printers, apply settings in IE, redirect user data,update registry settings, and apply windows settings.· Monitor critical systems for outages after hours and on weekends when on call.· Deploy new server hardware with ESXI 5.5 virtualization environments and setup newvirtualized servers. Also perform physical to virtual migrations.· Wrote more than 100 standard service templates to guide lower level technicians throughhigher skill set tasks.· Directly supported end users over the phone and in person providing break/fix support andtechnical training on hardware/software issues."
+            ],
+            [
+                "Store Manager",
+                "Company Name",
+                "Summit Computer Services",
+                "Dates Employed",
+                "Nov 2010 – Sep 2012",
+                "Employment Duration",
+                "1 yr 11 mos",
+                "Location",
+                "Flagstaff, Arizona Area",
+                "· Communicated and clearly explained advanced technical problems to non-technical customers.· Lead store technician.· Developed and documented store procedures for PC/Mac repairs including diagnostics, databackups, virus removals, OS reloads, system tune ups, data recoveries, and more.· Maintained an average repair turn time of 48 hours or less.· Managed the daily store operations.· Trained new employees in PC/Mac repair, customer service, and store policies.· Resolved client complaints and conflicts.· Interviewed applicants and made hiring recommendations.· Responded to on site service calls in the greater Flagstaff area including server, workstation,notebook, printer, and network setups/repairs."
+            ],
+            [
+                "Supervisor",
+                "Company Name",
+                "Geek Squad",
+                "Dates Employed",
+                "Dec 2007 – Nov 2010",
+                "Employment Duration",
+                "3 yrs",
+                "Location",
+                "Flagstaff, Arizona Area",
+                "· Supervised the daily operations of the Geek Squad.· Conducted monthly, quarterly and yearly employee reviews.· Trained new employees in PC/Mac repair, customer service, Geek Squad policy.· Wrote and updated department monthly growth plans.· Covered Sales Floor Leader, and Manager on Duty shifts.· Resolved client complaints and conflicts.· Interviewed applicants and made hiring recommendations.· Provided coaching and training to the sales floor staff on providing clients with completesolutions."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Coconino County Community College",
+                "Degree Name",
+                "Cisco Network Engineering",
+                "Field Of Study",
+                "Information Technology",
+                "Dates attended or expected graduation",
+                "2016 – 2020"
+            ],
+            [
+                "Coconino County Community College",
+                "Degree Name",
+                "Cisco Network Engineering",
+                "Field Of Study",
+                "Information Technology",
+                "Dates attended or expected graduation",
+                "2016 – 2020"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Commercial Photography",
+                "Dates attended or expected graduation",
+                "2004 – 2008",
+                "Activities and Societies:",
+                "Photography Lab Aide",
+                "Majored in Commercial Photography and Minored in Business"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Commercial Photography",
+                "Dates attended or expected graduation",
+                "2004 – 2008",
+                "Activities and Societies:",
+                "Photography Lab Aide",
+                "Majored in Commercial Photography and Minored in Business"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Foster Home",
+                "Company Name",
+                "AZ Chihuahua Rescue",
+                "Dates volunteered",
+                "Apr 2011 – Apr 2011",
+                "Volunteer duration",
+                "1 mo",
+                "Cause",
+                "Animal Welfare",
+                "As a volunteer foster with the Arizona Chihuahua Rescue, I house, care for, and train rescue dogs in my home."
+            ],
+            [
+                "Foster Home",
+                "Company Name",
+                "AZ Chihuahua Rescue",
+                "Dates volunteered",
+                "Apr 2011 – Apr 2011",
+                "Volunteer duration",
+                "1 mo",
+                "Cause",
+                "Animal Welfare",
+                "As a volunteer foster with the Arizona Chihuahua Rescue, I house, care for, and train rescue dogs in my home."
+            ],
+            [
+                "Volunteer",
+                "Company Name",
+                "Americorps NCCC",
+                "Dates volunteered",
+                "Jan 2003 – Oct 2003",
+                "Volunteer duration",
+                "10 mos",
+                "Cause",
+                "Disaster and Humanitarian Relief",
+                "Completed a ten-month, 1800 hour, national service program with the AmeriCorps *National Civilian Community Corps. Volunteering in the areas of disaster relief, education, environment, unmet human needs, public safety, and homeland security. While volunteering I received the Presidents Volunteer Service Award, and the Golden Hammer Award from Habitat for Humanity."
+            ],
+            [
+                "Volunteer",
+                "Company Name",
+                "Americorps NCCC",
+                "Dates volunteered",
+                "Jan 2003 – Oct 2003",
+                "Volunteer duration",
+                "10 mos",
+                "Cause",
+                "Disaster and Humanitarian Relief",
+                "Completed a ten-month, 1800 hour, national service program with the AmeriCorps *National Civilian Community Corps. Volunteering in the areas of disaster relief, education, environment, unmet human needs, public safety, and homeland security. While volunteering I received the Presidents Volunteer Service Award, and the Golden Hammer Award from Habitat for Humanity."
+            ],
+            "Recommendations",
+            [
+                "End-to-End Solutions for IT Pros",
+                "13,919 members"
+            ],
+            [
+                "Data Recovery Specialist",
+                "28,339 members"
+            ],
+            [
+                "Coconino County Community College",
+                "2,762 followers"
+            ],
+            [
+                "AZ Chihuahua Rescue",
+                "38 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "101,223 followers"
+            ],
+            [
+                "Flagstaff IT",
+                "34 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (155)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "End-to-End Solutions for IT Pros",
+                "13,919 members"
+            ],
+            [
+                "End-to-End Solutions for IT Pros",
+                "13,919 members"
+            ],
+            [
+                "Data Recovery Specialist",
+                "28,339 members"
+            ],
+            [
+                "Data Recovery Specialist",
+                "28,339 members"
+            ],
+            [
+                "Coconino County Community College",
+                "2,762 followers"
+            ],
+            [
+                "Coconino County Community College",
+                "2,762 followers"
+            ],
+            [
+                "AZ Chihuahua Rescue",
+                "38 followers"
+            ],
+            [
+                "AZ Chihuahua Rescue",
+                "38 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "101,223 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "101,223 followers"
+            ],
+            [
+                "Flagstaff IT",
+                "34 followers"
+            ],
+            [
+                "Flagstaff IT",
+                "34 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Sean Campbell",
+                "IT Specialist at Gravity Systems, Inc.",
+                "August 19, 2014, Chodron worked with Sean in the same group",
+                "I worked with Cho Directly for 2 years. From deploying computers to Antivirus Cho was very detail oriented and always looking for ways to train me. I cannot recommend Cho enough for his ability to talk to clients and coworkers alike. I found in my time working with Cho that he is always attentive and willing to work long hours to ensure that the projects at hand were completed on time. In the end I would work with Cho and recommend him to any company's team any time."
+            ],
+            [
+                "Sean Campbell",
+                "IT Specialist at Gravity Systems, Inc.",
+                "August 19, 2014, Chodron worked with Sean in the same group"
+            ],
+            [
+                "Sean Campbell",
+                "IT Specialist at Gravity Systems, Inc.",
+                "August 19, 2014, Chodron worked with Sean in the same group"
+            ],
+            [
+                "Sean Campbell",
+                "IT Specialist at Gravity Systems, Inc.",
+                "August 19, 2014, Chodron worked with Sean in the same group"
+            ],
+            "IT Specialist at Gravity Systems, Inc.",
+            [
+                "I worked with Cho Directly for 2 years. From deploying computers to Antivirus Cho was very detail oriented and always looking for ways to train me. I cannot recommend Cho enough for his ability to talk to clients and coworkers alike. I found in my time working with Cho that he is always attentive and willing to work long hours to ensure that the projects at hand were completed on time. In the end I would work with Cho and recommend him to any company's team any time."
+            ],
+            [
+                "I worked with Cho Directly for 2 years. From deploying computers to Antivirus Cho was very detail oriented and always looking for ways to train me. I cannot recommend Cho enough for his ability to talk to clients and coworkers alike. I found in my time working with Cho that he is always attentive and willing to work long hours to ensure that the projects at hand were completed on time. In the end I would work with Cho and recommend him to any company's team any time."
+            ],
+            [
+                "Lauren Hanafi",
+                "UX Designer at Deckers Brands",
+                "April 20, 2015, Chodron and Lauren were students together",
+                "I attended college with Lauren and later worked with her in a professional environment. Lauren was always a model employee. She is very passionate about her work, always upbeat, on time, and presentable. I often observed her working in high stress, high demand situations and she always kept her cool, and lead her coworkers to success.I would welcome the opportunity to work with her again. There are very few people who I offer a personal endorsement for, but for Lauren I do no hesitate."
+            ],
+            [
+                "Lauren Hanafi",
+                "UX Designer at Deckers Brands",
+                "April 20, 2015, Chodron and Lauren were students together"
+            ],
+            [
+                "Lauren Hanafi",
+                "UX Designer at Deckers Brands",
+                "April 20, 2015, Chodron and Lauren were students together"
+            ],
+            [
+                "Lauren Hanafi",
+                "UX Designer at Deckers Brands",
+                "April 20, 2015, Chodron and Lauren were students together"
+            ],
+            "UX Designer at Deckers Brands",
+            [
+                "I attended college with Lauren and later worked with her in a professional environment. Lauren was always a model employee. She is very passionate about her work, always upbeat, on time, and presentable. I often observed her working in high stress, high demand situations and she always kept her cool, and lead her coworkers to success.I would welcome the opportunity to work with her again. There are very few people who I offer a personal endorsement for, but for Lauren I do no hesitate."
+            ],
+            [
+                "I attended college with Lauren and later worked with her in a professional environment. Lauren was always a model employee. She is very passionate about her work, always upbeat, on time, and presentable. I often observed her working in high stress, high demand situations and she always kept her cool, and lead her coworkers to success.I would welcome the opportunity to work with her again. There are very few people who I offer a personal endorsement for, but for Lauren I do no hesitate."
+            ],
+            [
+                "Sean Campbell",
+                "IT Specialist at Gravity Systems, Inc.",
+                "August 27, 2014, Chodron was senior to Sean but didn’t manage directly",
+                "I worked with Sean directly for 2 years. He has a passion for technology and a thirst to ever increase his understanding of it. He is very detail oriented, follows directions well, documents his work thoroughly, and is polite and personable with clients and coworkers alike.Sean was highly skill in his research and development of new technical procedures and processes. Sean always welcomed the opportunity to work with and support new hardware and software. He always adapted to changed in our landscape quickly and efficiently. He did not hesitate to share the knowledge and skills he was learning, and was very good at training other technicians both directly and through written instructions. I would welcome the opportunity to work with Sean in the future."
+            ],
+            [
+                "Sean Campbell",
+                "IT Specialist at Gravity Systems, Inc.",
+                "August 27, 2014, Chodron was senior to Sean but didn’t manage directly"
+            ],
+            [
+                "Sean Campbell",
+                "IT Specialist at Gravity Systems, Inc.",
+                "August 27, 2014, Chodron was senior to Sean but didn’t manage directly"
+            ],
+            [
+                "Sean Campbell",
+                "IT Specialist at Gravity Systems, Inc.",
+                "August 27, 2014, Chodron was senior to Sean but didn’t manage directly"
+            ],
+            "IT Specialist at Gravity Systems, Inc.",
+            [
+                "I worked with Sean directly for 2 years. He has a passion for technology and a thirst to ever increase his understanding of it. He is very detail oriented, follows directions well, documents his work thoroughly, and is polite and personable with clients and coworkers alike.Sean was highly skill in his research and development of new technical procedures and processes. Sean always welcomed the opportunity to work with and support new hardware and software. He always adapted to changed in our landscape quickly and efficiently. He did not hesitate to share the knowledge and skills he was learning, and was very good at training other technicians both directly and through written instructions. I would welcome the opportunity to work with Sean in the future."
+            ],
+            [
+                "I worked with Sean directly for 2 years. He has a passion for technology and a thirst to ever increase his understanding of it. He is very detail oriented, follows directions well, documents his work thoroughly, and is polite and personable with clients and coworkers alike.Sean was highly skill in his research and development of new technical procedures and processes. Sean always welcomed the opportunity to work with and support new hardware and software. He always adapted to changed in our landscape quickly and efficiently. He did not hesitate to share the knowledge and skills he was learning, and was very good at training other technicians both directly and through written instructions. I would welcome the opportunity to work with Sean in the future."
+            ]
+        ],
+        "skills": [],
+        "summary": "",
+        "name": "Chodron Robie",
+        "title": "Network Administrator",
+        "url": "linkedin.com/in/chorobie",
+        "phone": "",
+        "email": "cho.robie@gmail.com"
+    }
+]

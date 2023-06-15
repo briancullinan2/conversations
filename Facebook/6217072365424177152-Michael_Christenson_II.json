@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6217072365424177152/",
+    "participants": [
+        {
+            "name": "Michael Christenson II",
+            "title": "Senior Software Applications Engineer at Red Hat",
+            "url": "linkedin.com/in/m3talsmith",
+            "phone": "4807033605 (Mobile)",
+            "email": "m3talsmith@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-20T20:25:00.000Z"
+        },
+        {
+            "from": "Michael Christenson II",
+            "message": "Sure man. I love connecting with other developers.\n",
+            "time": "2017-12-20T20:27:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I might need some help with a VR meditation service I am working on. Any recommendations/ speed bumps to watch out for?\n",
+            "time": "2017-12-21T15:52:00.000Z"
+        },
+        {
+            "from": "Michael Christenson II",
+            "message": "There are some considerations that help you choose the right tech, such as:\n\nIs this going to have an online component?\nIs it going to have a geolocation component?\nHow long is each use session expected to be?\nDo you need to update often?\n\nThose questions should help you to decide if you can use Unity 3D, or if you need to use something like Unreal Engine; if you're planning on a third party platform, or building your own server; whether you are going to develop for a localized VR like the HTC Vive or Oculus Rift, or go with something like the Samsung Gear or Google Daydream View. All of these have places they excel in. Unity3D is well supported and easy to build in, but can't handle large worlds well; a phone based VR system is very portable and easy to bring with you for ease of jus hopping in, but lack the comfort of something like the Vive; releasing on Steam gives. So I would try to limit the scope of reach for your prototype. The lowest common denominator for easy of testing is Unity3D and a Google Cardboard viewer. You can work with the atmosphere and get the feel right before diving into interface design.\n",
+            "time": "2017-12-21T21:38:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Awesome. That helps me narrow down to those two for now. Thank you!\n",
+            "time": "2017-12-21T21:40:00.000Z"
+        },
+        {
+            "from": "Michael Christenson II",
+            "message": "Np 🙂\n",
+            "time": "2017-12-21T21:41:00.000Z"
+        }
+    ]
+}

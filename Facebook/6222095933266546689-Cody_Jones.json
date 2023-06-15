@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6222095933266546689/",
+    "participants": [
+        {
+            "name": "Cody Jones",
+            "title": "Head of Partnerships at Zapier",
+            "url": "linkedin.com/in/codyjayjones",
+            "phone": null,
+            "email": "codyjayjones@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-03T17:07:00.000Z"
+        }
+    ]
+}

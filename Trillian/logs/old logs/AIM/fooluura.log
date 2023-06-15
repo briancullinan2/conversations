@@ -1,0 +1,34 @@
+﻿Session Start (BrianJCullinan:fooluura): Fri Apr 21 19:17:33 2006
+[04/21/2006 07:17 PM] fooluura: hi
+[04/21/2006 07:17 PM] fooluura: Brian?
+[04/21/2006 07:17 PM] Me: hi
+[04/21/2006 07:17 PM] Me: yes who is this?
+[04/21/2006 07:18 PM] fooluura: dude whats going on its Jeremy 
+[04/21/2006 07:18 PM] fooluura: from highschool and work at mile hi
+[04/21/2006 07:18 PM] fooluura: anyways, i need help
+[04/21/2006 07:18 PM] fooluura: you know a bit of webdesign dont you?
+[04/21/2006 07:19 PM] Me: oh yeah hey
+[04/21/2006 07:20 PM] fooluura: ok, here is my problem, I have a form which when filled out gets posted to a MySQL data base. I need the data base to recognize a date that the table was created or when the form was posted cause they are same anyways
+[04/21/2006 07:21 PM] fooluura: any thoughts?
+[04/21/2006 07:22 PM] Me: do you want it to change every time the database is accessed?
+[04/21/2006 07:22 PM] fooluura: I need to know the date for every record thats added 
+[04/21/2006 07:23 PM] Me: oh
+[04/21/2006 07:23 PM] Me: k
+[04/21/2006 07:23 PM] Me: define a column TIMESTAMP NOT NULL
+[04/21/2006 07:23 PM] Me: got that so far?
+[04/21/2006 07:23 PM] fooluura: yeah
+[04/21/2006 07:24 PM] Me: the database has to use a specific timestamp
+[04/21/2006 07:24 PM] Me: and the PHP combination is date("Y-m-d H:i:s")
+[04/21/2006 07:25 PM] Me: without the smily face
+[04/21/2006 07:27 PM] fooluura: so i need to put in that Y-m-d H:i:s into where?
+[04/21/2006 07:27 PM] Me: where ever you update the table or create a row
+[04/21/2006 07:27 PM] Me: do you have anything coded?
+[04/21/2006 07:28 PM] fooluura: what do you mean, the php processor script?
+[04/21/2006 07:29 PM] Me: what language are you doing this in?
+[04/21/2006 07:29 PM] fooluura: php
+[04/21/2006 07:29 PM] fooluura: the db is through phpMyAdmin
+[04/21/2006 07:32 PM] fooluura: hmm
+[04/21/2006 07:32 PM] fooluura: the date just adds the the db as 0000-00-00 00:00:00
+Session Close (fooluura): Fri Apr 21 19:38:09 2006
+
+

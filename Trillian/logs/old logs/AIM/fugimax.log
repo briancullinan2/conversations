@@ -1,0 +1,236 @@
+﻿Session Start (BrianJCullinan:fugimax): Thu Jun 30 23:07:04 2005
+[06/30/2005 11:07 PM] Me: hello
+[06/30/2005 11:07 PM] Me: is this the fugimax that owns this site (Link: http://www.base2.org/~fugimax/weblog/)http://www.base2.org/~fugimax/weblog/
+[06/30/2005 11:07 PM] Me: ?
+[06/30/2005 11:10 PM] Me: if so i need your help
+[06/30/2005 11:10 PM] fugimax: yup
+[06/30/2005 11:11 PM] Me: wonderful, what luck you would use the same alias in AIM
+[06/30/2005 11:11 PM] Me: i am having problems with my webportal
+[06/30/2005 11:11 PM] fugimax: ok
+[06/30/2005 11:11 PM] Me: i've tried everything and then some
+[06/30/2005 11:11 PM] Me: (Link: http://24.251.168.143/wipeout/index.html)http://24.251.168.143/wipeout/index.html
+[06/30/2005 11:12 PM] Me: i have my DNS set up and the proper ports forwarded with my router and it still doesn't work...
+[06/30/2005 11:12 PM] fugimax: you have port 80 forwarded to your web server?
+[06/30/2005 11:12 PM] Me: yes
+[06/30/2005 11:13 PM] Me: and the DNS is port 53
+[06/30/2005 11:13 PM] fugimax: your forwarding TCP via port 80?
+[06/30/2005 11:13 PM] Me: i did both TCP and UDP
+[06/30/2005 11:14 PM] Me: hey i got an idea
+[06/30/2005 11:14 PM] Me: send me your DNS settings
+[06/30/2005 11:14 PM] Me: maybe there is something wrong there
+[06/30/2005 11:15 PM] fugimax: no, if I can't access that page you sent me, your web is messed up too
+[06/30/2005 11:15 PM] Me: huh?
+[06/30/2005 11:15 PM] fugimax: since that doesn't use any DNS
+[06/30/2005 11:15 PM] Me: it doesn't work?
+[06/30/2005 11:15 PM] fugimax: nope
+[06/30/2005 11:15 PM] Me: (Link: http://24.251.168.143/)http://24.251.168.143/
+[06/30/2005 11:15 PM] Me: does that one?
+[06/30/2005 11:15 PM] fugimax: nope, can't connect
+[06/30/2005 11:16 PM] Me: (Link: http://24.251.168.143:80/)http://24.251.168.143:80/(Link: http://24.251.168.143:80/)(Link: http://24.251.168.143/)
+[06/30/2005 11:16 PM] Me: ... that doesn't make sense
+[06/30/2005 11:16 PM] fugimax: one sec
+[06/30/2005 11:16 PM] fugimax: my router is being weird tonight, lemme check something
+[06/30/2005 11:17 PM] fugimax: brb
+[06/30/2005 11:17 PM] Me: ok
+[06/30/2005 11:18 PM] Me: no its me
+[06/30/2005 11:18 PM] Me: not you
+[06/30/2005 11:18 PM] fugimax: ok, no, i can't connect
+[06/30/2005 11:19 PM] Me: i think my ISP blocks it
+[06/30/2005 11:19 PM] fugimax: ah...try using another port
+[06/30/2005 11:19 PM] Me: (Link: http://24.251.168.143:8080/wipeout/index.html)http://24.251.168.143:8080/wipeout/index.html
+[06/30/2005 11:19 PM] Me: try that
+[06/30/2005 11:19 PM] fugimax: yup, that works
+[06/30/2005 11:19 PM] Me: ok
+[06/30/2005 11:19 PM] Me: next step
+[06/30/2005 11:19 PM] Me: the DNS settings are probably wrong on my end
+[06/30/2005 11:20 PM] fugimax: only problem there is the PSP makes the request via port 80...I'm not sure you can tell it otherwise
+[06/30/2005 11:21 PM] fugimax: unless you don't care about accessing it from anywhere but home
+[06/30/2005 11:21 PM] Me: yeah
+[06/30/2005 11:21 PM] Me: that would be a problem
+[06/30/2005 11:21 PM] Me: stupid ISP filtering!
+[06/30/2005 11:22 PM] fugimax: Ya, I think you're pretty much screwed there
+[06/30/2005 11:22 PM] Me: ... yeah
+[06/30/2005 11:22 PM] Me: oh well
+[06/30/2005 11:22 PM] Me: i guess i will just have to fester off of someone elses
+[06/30/2005 11:22 PM] Me: maybe someone that has it set up could offer personalized pages
+[06/30/2005 11:23 PM] Me: where you would sign up and get like 1 page to put links on
+[06/30/2005 11:23 PM] Me: that would be cool
+[06/30/2005 11:23 PM] Me: probably not to hard to do in PHP
+[06/30/2005 11:23 PM] fugimax: Ya, I was going to do all that, but it's a decent amount of work when most people don't care and Sony will release a web browser here eventually
+[06/30/2005 11:23 PM] Me: and it would provoke more people to donate so you can buy your 10k drive
+[06/30/2005 11:24 PM] Me: yeah
+[06/30/2005 11:24 PM] Me: sony is taking their time
+[06/30/2005 11:24 PM] Me: proprietary bastards
+[06/30/2005 11:24 PM] Me: have you tried the memory stick hack?
+[06/30/2005 11:25 PM] fugimax: Nah...I actually haven't touched my PSP in about 2 months...been busy or playing DS instead
+[06/30/2005 11:25 PM] Me: lol
+[06/30/2005 11:25 PM] Me: good stuff
+[06/30/2005 11:25 PM] Me: i can't afford to buy anything else
+[06/30/2005 11:27 PM] Me: can i specify a port for the DNS server to forward to?
+[06/30/2005 11:28 PM] Me: like if a request comes in on port 80 can i send it to port 8080?
+[06/30/2005 11:28 PM] fugimax: i thought about that, but I don't think so
+[06/30/2005 11:29 PM] fugimax: you may want to check google though
+[06/30/2005 11:29 PM] Me: yeah
+[06/30/2005 11:30 PM] Me: i guess i could do it through the proxy tutorial
+[06/30/2005 11:31 PM] fugimax: ah, right
+[07/01/2005 12:03 AM] Me: this is cool
+[07/01/2005 12:03 AM] fugimax: hmm?
+[07/01/2005 12:03 AM] Me: i got the private proxy set up
+[07/01/2005 12:04 AM] Me: and i can see what i am using on it
+[07/01/2005 12:04 AM] Me: it shows everything my PSP is loading
+[07/01/2005 12:04 AM] Me: but...  i still can't get it to change the page to my customized page
+[07/01/2005 12:04 AM] fugimax: cool
+[07/01/2005 12:04 AM] fugimax: hrm
+[07/01/2005 12:04 AM] Me: something is wrong with my DNS
+[07/01/2005 12:04 AM] fugimax: what dns server are you using?
+[07/01/2005 12:04 AM] Me: the Treewalk
+[07/01/2005 12:04 AM] Me: you?
+[07/01/2005 12:05 AM] fugimax: BIND
+[07/01/2005 12:05 AM] Me: ok
+[07/01/2005 12:05 AM] Me: let me install that, then i want some configs!
+[07/01/2005 12:05 AM] Me: lol
+[07/01/2005 12:05 AM] fugimax: try setting the primary DNS on your router to your dns server
+[07/01/2005 12:05 AM] fugimax: and see what happens
+[07/01/2005 12:05 AM] fugimax: er, treewalk and bind use the same configs
+[07/01/2005 12:05 AM] fugimax: and bind is usually unix
+[07/01/2005 12:05 AM] fugimax: treewalk should work fine
+[07/01/2005 12:05 AM] Me: oh
+[07/01/2005 12:06 AM] Me: so can i take a look at your config maybe something is wrong with mine
+[07/01/2005 12:06 AM] Me: just the config for your scea forward
+[07/01/2005 12:06 AM] fugimax: It's pretty much the same as the one at the tutorial you're reading
+[07/01/2005 12:07 AM] Me: but for the address it forwards it to
+[07/01/2005 12:07 AM] Me: are you forwarding to your private IP or the IP your ISP assigns you?
+[07/01/2005 12:08 AM] fugimax: you should have ingame and webcluster pointing at you ISP-given IP...if you want to use it from somewhere rather than home (or let others use it)
+[07/01/2005 12:09 AM] Me: yeah something is wrong with mine
+[07/01/2005 12:09 AM] fugimax: paste it
+[07/01/2005 12:09 AM] fugimax: your scea.zone
+[07/01/2005 12:09 AM] Me: ; BIND db file for scea.com 
+  
+ $TTL 86400 
+  
+ @       IN      SOA     scea.com      ingame.scea.com. ( 
+                         2005040201    ; serial number YYMMDDNN 
+                         28800           ; Refresh 
+                         7200            ; Retry 
+                         864000          ; Expire 
+                         86400           ; Min TTL 
+                         ) 
+  
+ ;This should cover ALL bases: 
+  
+               NS   192.168.0.106 
+               A    192.168.0.106 
+ ingame        A    192.168.0.106 
+ webcluster    A    192.168.0.106 
+  
+  
+ $ORIGIN scea.com.
+[07/01/2005 12:09 AM] fugimax: ok, first change @       IN      SOA     (Link: http://scea.com)scea.com      (Link: http://ingame.scea.com)ingame.scea.com. ( 
+[07/01/2005 12:10 AM] fugimax: to (Link: http://fake.scea.com)fake.scea.com or (Link: http://dummy.scea.com)dummy.scea.com
+[07/01/2005 12:10 AM] fugimax: the (Link: http://ingame.scea.com)ingame.scea.com thing
+[07/01/2005 12:10 AM] Me: ok
+[07/01/2005 12:10 AM] Me: do i keep the . at the end?
+[07/01/2005 12:10 AM] fugimax: ya, sorry
+[07/01/2005 12:10 AM] Me: ok got it
+[07/01/2005 12:10 AM] fugimax: and you've added the zone to named.conf ?
+[07/01/2005 12:10 AM] Me: yes
+[07/01/2005 12:11 AM] fugimax: try reloading the dns server and see if that changes anything
+[07/01/2005 12:11 AM] Me: i did
+[07/01/2005 12:13 AM] Me: wait can't this proxy server forward page request?
+[07/01/2005 12:14 AM] fugimax: sorry?
+[07/01/2005 12:14 AM] Me: it comes with a content filter
+[07/01/2005 12:15 AM] fugimax: Are you following the tutorial by roto and using Privoxy?  It should work OK..
+[07/01/2005 12:15 AM] fugimax: did you change the settings on your PSP?
+[07/01/2005 12:15 AM] Me: yes
+[07/01/2005 12:15 AM] Me: yes
+[07/01/2005 12:15 AM] Me: it must still be my ISP blocking port 80
+[07/01/2005 12:16 AM] Me: because the port for the site never changes
+[07/01/2005 12:16 AM] fugimax: not if you entered 8080 on the PSP as the proxy port..
+[07/01/2005 12:16 AM] Me: yeah
+[07/01/2005 12:16 AM] Me: i did that
+[07/01/2005 12:16 AM] fugimax: it's making all requests via proxy on 8080
+[07/01/2005 12:16 AM] Me: it doesn't make sense
+[07/01/2005 12:16 AM] fugimax: all that other stuff is internal
+[07/01/2005 12:16 AM] Me: yeah
+[07/01/2005 12:16 AM] fugimax: you changed your webserver back to 80, yes?
+[07/01/2005 12:17 AM] Me: yes
+[07/01/2005 12:17 AM] fugimax: hrmph.
+[07/01/2005 12:19 AM] Me: maybe i should set up my network connection on my computer to use the proxy
+[07/01/2005 12:20 AM] fugimax: Shouldn't matter
+[07/01/2005 12:20 AM] fugimax: but go for it
+[07/01/2005 12:20 AM] fugimax: :)
+[07/01/2005 12:20 AM] Me: just for testing purposes that is
+[07/01/2005 12:21 AM] Me: so was that the only thing you noticed wrong with my config file?
+[07/01/2005 12:24 AM] fugimax: ya, as long as 106 is your DNS server
+[07/01/2005 12:24 AM] Me: 2005040201    ; serial number YYMMDDNN
+ 
+[07/01/2005 12:25 AM] fugimax: ya, none of that really matters
+[07/01/2005 12:25 AM] fugimax: the serial that is
+[07/01/2005 12:25 AM] Me: well my ip is 24.251.168.143
+[07/01/2005 12:25 AM] Me: should i put that in there
+[07/01/2005 12:25 AM] Me: instead of the 106
+[07/01/2005 12:25 AM] Me: ?
+[07/01/2005 12:25 AM] fugimax: you can try....put it in just for ingame and webcluster
+[07/01/2005 12:26 AM] Me: so i should use my private IP?
+[07/01/2005 12:26 AM] fugimax: for everything else
+[07/01/2005 12:28 AM] Me: so if i dump the database shouldn't it show up in the list?
+[07/01/2005 12:28 AM] fugimax: sorry, i don't know how treewalk works really...just that it does..
+[07/01/2005 12:29 AM] fugimax: i use a mac
+[07/01/2005 12:29 AM] Me: oh
+[07/01/2005 12:44 AM] *** You have been disconnected. Fri Jul 01 00:44:14 2005.
+[07/01/2005 12:44 AM] *** "fugimax" signed on at Fri Jul 01 00:44:24 2005.
+[07/01/2005 01:00 AM] Me: now i am getting somewhere
+[07/01/2005 01:00 AM] fugimax: ?
+[07/01/2005 01:01 AM] Me: the DNS is working
+[07/01/2005 01:01 AM] Me: i missed a step
+[07/01/2005 01:01 AM] Me: 3.0.4 - Configure your WiFi router to port-forward port 8080 from the WAN port to 192.168.2.1 (or your server machine). This you have to know how to do yourself.
+[07/01/2005 01:02 AM] fugimax: ah ha
+[07/01/2005 01:02 AM] Me: now
+[07/01/2005 01:02 AM] Me: it comes up and says it could not resolve that address
+[07/01/2005 01:03 AM] Me: so it must be something wrong with the forward in the DNS
+[07/01/2005 01:04 AM] fugimax: what's the error?
+[07/01/2005 01:04 AM] Me: Error: could not resolve hostname ingame.scea.com
+ 
+[07/01/2005 01:04 AM] fugimax: That's on the PSP?
+[07/01/2005 01:05 AM] Me: yes
+[07/01/2005 01:05 AM] fugimax: hmm
+[07/01/2005 01:05 AM] Me: the proxy server sends a page based on that error to the PSP
+[07/01/2005 01:05 AM] fugimax: oh, ok
+[07/01/2005 01:06 AM] fugimax: hrmmm
+[07/01/2005 01:07 AM] fugimax: keep fudging with stuff, try changing back your DNS settings to use your internal address
+[07/01/2005 01:07 AM] Me: yeah
+[07/01/2005 01:07 AM] Me: i'm so close
+[07/01/2005 01:09 AM] Me: listen-address  192.168.0.106:8080
+ 
+[07/01/2005 01:09 AM] Me: that is my private IP in the proxy server
+[07/01/2005 01:09 AM] fugimax: correct
+[07/01/2005 01:09 AM] Me: it shouldn't be the one my ISP gives me?
+[07/01/2005 01:10 AM] Me: i guess not
+[07/01/2005 01:10 AM] fugimax: no
+[07/01/2005 01:10 AM] Me: stupid question
+[07/01/2005 01:10 AM] Me: you could help me out by trying it on yours
+[07/01/2005 01:11 AM] fugimax: my psp isn't actually here right now :/
+[07/01/2005 01:11 AM] Me: that's ok
+[07/01/2005 01:11 AM] Me: i will see if i can get another friend to try it out tomorrow
+[07/01/2005 01:11 AM] fugimax: ok
+[07/01/2005 01:12 AM] Me: would it make sense to change 
+ ;This should cover ALL bases: 
+  
+               NS   24.251.168.143 
+               A    24.251.168.143 
+ ingame        A    24.251.168.143 
+ webcluster    A    24.251.168.143 
+  to psp-proxy.dyndns.org
+[07/01/2005 01:12 AM] Me: that's my proxy server]
+[07/01/2005 01:12 AM] fugimax: no
+[07/01/2005 01:15 AM] fugimax: well, bedtime here...good luck
+[07/01/2005 01:15 AM] Me: thanks
+[07/01/2005 01:15 AM] fugimax: yup
+[07/01/2005 01:15 AM] Me: for everything
+[07/01/2005 01:15 AM] fugimax: np
+[07/01/2005 01:15 AM] Me: we will have to talk again sometime
+[07/01/2005 01:15 AM] fugimax: sure
+[07/01/2005 01:15 AM] Me: exchange knowledge
+Session Close (fugimax): Fri Jul 01 02:40:35 2005
+
+

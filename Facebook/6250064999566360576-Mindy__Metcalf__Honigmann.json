@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6250064999566360576/",
+    "participants": [
+        {
+            "name": "Mindy (Metcalf) Honigmann",
+            "title": "Connecting people with extraordinary opportunities!",
+            "url": "linkedin.com/in/mindyhonigmann",
+            "phone": "480.229.5885 (Work)",
+            "email": "mindy@mindsparkrecruiting.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Mindy Honigmann",
+            "time": "2017-03-21T21:26:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-21T21:27:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

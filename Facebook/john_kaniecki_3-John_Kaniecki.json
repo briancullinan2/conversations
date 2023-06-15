@@ -1,0 +1,32 @@
+{
+    "thread": "https://www.facebook.com/messages/t/john.kaniecki.3",
+    "participants": [
+        {
+            "name": "John Kaniecki",
+            "description": "Customer Service Rep. at Foremost",
+            "url": "Worked at Church of Christ"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "\n\nYou are now connected on Messenger.\n",
+            "time": "2017-09-08T15:56:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nQ: Why do eskimos do their laundry in Tide?\nA: Because it's too cold out-tide!\n\n",
+            "time": "2017-11-12T17:35:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nI'm thankful for you!!��\n",
+            "time": "2017-11-23T19:11:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nLiving the dream? Mm\n",
+            "time": "2017-11-23T02:37:00.000Z"
+        }
+    ]
+}

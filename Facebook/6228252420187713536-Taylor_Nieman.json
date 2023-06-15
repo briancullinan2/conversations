@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6228252420187713536/",
+    "participants": [
+        {
+            "name": "Taylor Nieman",
+            "title": "Founder at Simba",
+            "url": "linkedin.com/in/taylornieman",
+            "phone": null,
+            "email": "taylor@headspace.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-20T16:51:00.000Z"
+        }
+    ]
+}

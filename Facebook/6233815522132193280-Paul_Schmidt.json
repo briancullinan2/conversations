@@ -1,0 +1,74 @@
+{
+    "thread": "/messaging/thread/6233815522132193280/",
+    "participants": [
+        {
+            "name": "Paul Schmidt",
+            "title": "Technical Director - Data Security Architect at Charles Schwab",
+            "url": "linkedin.com/in/paul-schmidt-0921704",
+            "phone": null,
+            "email": "pl_schmidt@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-05T01:17:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-28T14:19:00.000Z",
+            "message": "How's the database?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-28T23:32:00.000Z",
+            "message": "How do you know when a new employee is \"up to speed\"?\n"
+        },
+        {
+            "from": "Paul Schmidt",
+            "time": "2017-03-29T04:54:00.000Z",
+            "message": "Hello, can you provide some context around your \"up to speed\" question. It varies depending upon position.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-29T13:31:00.000Z",
+            "message": "I may have to ask a question in an upcoming interview, so I am wondering how to quickly test someone if they have the skills necessary to deserve the trust that they can perform the job functions. It's for a QA role, possibly some basic programming skills required.\n"
+        },
+        {
+            "from": "Paul Schmidt",
+            "time": "2017-03-29T16:13:00.000Z",
+            "message": "Call me when you have a minute 321-217-7609\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-29T16:44:00.000Z",
+            "message": "Ok. This afternoon like 4:30?\n"
+        },
+        {
+            "from": "Paul Schmidt",
+            "time": "2017-03-30T15:15:00.000Z",
+            "message": "You can try me this afternoon after 4:45\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-30T15:53:00.000Z",
+            "message": "Ok.\n"
+        },
+        {
+            "from": "Paul Schmidt",
+            "time": "2017-03-31T06:00:00.000Z",
+            "message": "You can call me anytime tomorrow\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-31T06:59:00.000Z",
+            "message": "I had a horrible time with GitHub today.\n"
+        },
+        {
+            "from": "Paul Schmidt",
+            "time": "2017-03-31T22:38:00.000Z",
+            "message": "Sorry to hear, I am working from home today so you can call anytime\n"
+        }
+    ]
+}

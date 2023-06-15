@@ -1,0 +1,29 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "26Jan17",
+    "participants": "Brian Cullinan | wizard > Zachary Rosen | CEO Pantheon",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Zachary Rosen",
+        "url": "linkedin.com/in/zacharyrosen",
+        "email": "zack@getpantheon.com",
+        "title": "CEO Pantheon"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-01-26T15:46:00.000Z",
+    "title": "wizard"
+  }
+]

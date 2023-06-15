@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6232234488789823488/",
+    "participants": [
+        {
+            "name": "Dave Leedy",
+            "title": "Founder | CEO ZombieBox International",
+            "url": "linkedin.com/in/dave-leedy-58157113",
+            "phone": null,
+            "email": "tdave.leedy@global.t-bird.edu"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-31T16:34:00.000Z"
+        }
+    ]
+}

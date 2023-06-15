@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6212749450448814080/",
+    "participants": [
+        {
+            "name": "Mike Alonzo",
+            "title": "I make the complex simple.",
+            "url": "linkedin.com/in/mikealonzo",
+            "phone": null,
+            "email": "im@mikezo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting! Have you heard of Occam's razor?\n",
+            "time": "2017-12-08T22:08:00.000Z"
+        },
+        {
+            "from": "Mike Alonzo",
+            "message": "The simplest answer is prob the right one?\n",
+            "time": "2017-12-08T22:11:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Probably. :)\n",
+            "time": "2017-12-08T22:13:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Your picture looks smart.\n",
+            "time": "2017-12-08T22:13:00.000Z"
+        },
+        {
+            "from": "Mike Alonzo",
+            "message": "I do the best I can.\n",
+            "time": "2017-12-08T22:14:00.000Z"
+        }
+    ]
+}

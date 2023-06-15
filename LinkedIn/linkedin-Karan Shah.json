@@ -1,0 +1,864 @@
+[
+    {
+        "resourceName": "people/c7018649907449255837",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMOE9lQWkrWkNjYms9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "616740e78857579d"
+                    }
+                },
+                "displayName": "Karan Shah",
+                "familyName": "Shah",
+                "givenName": "Karan",
+                "displayNameLastFirst": "Shah, Karan"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "116767458352102941034"
+                    }
+                },
+                "displayName": "Karan Shah",
+                "familyName": "Shah",
+                "givenName": "Karan",
+                "displayNameLastFirst": "Shah, Karan"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "616740e78857579d"
+                    }
+                },
+                "value": "shah.karan@gmail.com"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "22 Mutual Connections",
+                "You and Karan both know Anila Arthanari, Justin Fischer, and 20 others"
+            ],
+            [
+                "You both studied at Northern Arizona University",
+                "You both studied at Northern Arizona University from 2005 to 2008"
+            ],
+            [
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Sr iOS Software Engineer",
+                "Company Name",
+                "Nike",
+                "Dates Employed",
+                "Mar 2017 – Present",
+                "Employment Duration",
+                "9 mos",
+                "Location",
+                "Beaverton, Oregon",
+                "Working on the iOS mobile point of sale system used globally at Nike retail stores."
+            ],
+            [
+                "iOS Software Engineer III",
+                "Company Name",
+                "Infusionsoft",
+                "Dates Employed",
+                "Oct 2012 – Mar 2017",
+                "Employment Duration",
+                "4 yrs 6 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "Software Engineer II",
+                "Company Name",
+                "Level 3 Communications",
+                "Dates Employed",
+                "May 2011 – Oct 2012",
+                "Employment Duration",
+                "1 yr 6 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Designed and Implemented a Meta Model Framework to add fields dynamically using Java, Groovy and JSF.Created enhancements and fixed defects using Java, Hibernate, JBoss, JSF and Sybase on an inventory and order system used by over 5000 internal users in US,Europe and Latin America.Utilized Web Services to transfer data between two Level 3 applications.Created a Bulk Mod tool to update thousands of orders at once as part of theintegration process between Level 3 and Global Crossing.Defined system architecture, detail design specifications and developed long-termplans to meet project objectives.Provided Level of Effort on code and delivered on or before schedule.Performed Code Analysis and Peer Review on code check-insParticipated in daily Scrum status update calls and biweekly Sprint planning meeting.Contributed to team’s weekly technical meeting to continuously improve technicalskills and processes."
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "Caris Life Sciences",
+                "Dates Employed",
+                "May 2008 – Apr 2011",
+                "Employment Duration",
+                "3 yrs",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Key member of team responsible for designing enhancements for Laboratory Information Management System with over 200 internal users Build and maintain complex rules based on medical test results that provide drug recommendations to over 800 cancer patients each monthPlayed a vital role in the conversion of patient treatment application from Filemaker to Java, MySQL, Hibernate, Spring, JSP and Glassfish, involved in gathering user created over 60 mockups and prototypes in HTML and JavaScript for the conversion.Implement technical solutions to optimize laboratory and business output.Assisted in installation, maintenance of open source software CaisisFacilitated data migration of clinical data from clientsEstablished coding standards and enabled conformance to standardsCreated billing and management reports using JSP, JDBC and FileMaker database."
+            ],
+            [
+                "Web Programmer",
+                "Company Name",
+                "Alpha Cube Designs",
+                "Dates Employed",
+                "Jun 2005 – Aug 2005",
+                "Employment Duration",
+                "3 mos",
+                "Designed HTML pages using ASP, JavaScript and DOM. Developed prototypes and provided website support and maintenance."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "Master of Computer Science",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2008 – 2012"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "Master of Computer Science",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2008 – 2012"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "B.S.",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2004 – 2008",
+                "Activities and Societies:",
+                "Academic Computing Machinery"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "B.S.",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2004 – 2008",
+                "Activities and Societies:",
+                "Academic Computing Machinery"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Northern Arizona University Alumni (NAU)",
+                "1,332 members"
+            ],
+            [
+                "Laszlo BockLaszlo Bock is a LinkedIn Influencer",
+                "CEO and co-founder of Humu. Former SVP of People Operations at Google. Author of \"Work Rules!\".  Advisor. Dad.",
+                "800,500 followers"
+            ],
+            [
+                "Arizona State University",
+                "386,415 followers"
+            ],
+            [
+                "LinkedIn",
+                "2,327,142 followers"
+            ],
+            [
+                "Product Development and UX Leaders",
+                "11,291 members"
+            ],
+            [
+                "Northern Arizona University",
+                "101,453 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (288)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Northern Arizona University Alumni (NAU)",
+                "1,332 members"
+            ],
+            [
+                "Northern Arizona University Alumni (NAU)",
+                "1,332 members"
+            ],
+            [
+                "Laszlo BockLaszlo Bock is a LinkedIn Influencer",
+                "CEO and co-founder of Humu. Former SVP of People Operations at Google. Author of \"Work Rules!\".  Advisor. Dad.",
+                "800,500 followers"
+            ],
+            [
+                "Laszlo BockLaszlo Bock is a LinkedIn Influencer",
+                "CEO and co-founder of Humu. Former SVP of People Operations at Google. Author of \"Work Rules!\".  Advisor. Dad.",
+                "800,500 followers"
+            ],
+            [
+                "Laszlo Bock is a LinkedIn Influencer"
+            ],
+            [
+                "Arizona State University",
+                "386,415 followers"
+            ],
+            [
+                "Arizona State University",
+                "386,415 followers"
+            ],
+            [
+                "LinkedIn",
+                "2,327,142 followers"
+            ],
+            [
+                "LinkedIn",
+                "2,327,142 followers"
+            ],
+            [
+                "Product Development and UX Leaders",
+                "11,291 members"
+            ],
+            [
+                "Product Development and UX Leaders",
+                "11,291 members"
+            ],
+            [
+                "Northern Arizona University",
+                "101,453 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "101,453 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "iOS development",
+                "See 3 endorsements for iOS development",
+                "3",
+                "iOS development",
+                "Endorse",
+                "Zac Walberer and 2 connections have given endorsements for this skill"
+            ],
+            [
+                "iOS development",
+                "See 3 endorsements for iOS development",
+                "3"
+            ],
+            [
+                "Objective-C",
+                "See 3 endorsements for Objective-C",
+                "3",
+                "Objective-C",
+                "Endorse",
+                "Endorsed by 2 of Karan’s colleagues at Infusionsoft"
+            ],
+            [
+                "Objective-C",
+                "See 3 endorsements for Objective-C",
+                "3"
+            ],
+            [
+                "Java",
+                "See 7 endorsements for Java",
+                "7",
+                "Java",
+                "Endorse",
+                "Endorsed by 2 of Karan’s colleagues at Infusionsoft"
+            ],
+            [
+                "Java",
+                "See 7 endorsements for Java",
+                "7"
+            ],
+            [
+                "Mobile Application Development",
+                "See 1 endorsement for Mobile Application Development",
+                "1",
+                "Mobile Application Development",
+                "Endorse"
+            ],
+            [
+                "Mobile Application Development",
+                "See 1 endorsement for Mobile Application Development",
+                "1"
+            ],
+            [
+                "Swift",
+                "See 3 endorsements for Swift",
+                "3",
+                "Swift",
+                "Endorse"
+            ],
+            [
+                "Swift",
+                "See 3 endorsements for Swift",
+                "3"
+            ],
+            [
+                "Software Development",
+                "See 4 endorsements for Software Development",
+                "4",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development",
+                "See 4 endorsements for Software Development",
+                "4"
+            ],
+            [
+                "Software Engineering",
+                "See 2 endorsements for Software Engineering",
+                "2",
+                "Software Engineering",
+                "Endorse"
+            ],
+            [
+                "Software Engineering",
+                "See 2 endorsements for Software Engineering",
+                "2"
+            ],
+            [
+                "HTML",
+                "See 8 endorsements for HTML",
+                "8",
+                "HTML",
+                "Endorse"
+            ],
+            [
+                "HTML",
+                "See 8 endorsements for HTML",
+                "8"
+            ],
+            [
+                "JavaScript",
+                "See 16 endorsements for JavaScript",
+                "16",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 16 endorsements for JavaScript",
+                "16"
+            ],
+            [
+                "MySQL",
+                "See 8 endorsements for MySQL",
+                "8",
+                "MySQL",
+                "Remove Endorsement"
+            ],
+            [
+                "MySQL",
+                "See 8 endorsements for MySQL",
+                "8"
+            ],
+            [
+                "User Interface",
+                "See 2 endorsements for User Interface",
+                "2",
+                "User Interface",
+                "Endorse"
+            ],
+            [
+                "User Interface",
+                "See 2 endorsements for User Interface",
+                "2"
+            ],
+            [
+                "JSP",
+                "See 4 endorsements for JSP",
+                "4",
+                "JSP",
+                "Endorse"
+            ],
+            [
+                "JSP",
+                "See 4 endorsements for JSP",
+                "4"
+            ],
+            [
+                "SOAP",
+                "See 3 endorsements for SOAP",
+                "3",
+                "SOAP",
+                "Endorse"
+            ],
+            [
+                "SOAP",
+                "See 3 endorsements for SOAP",
+                "3"
+            ],
+            [
+                "XML",
+                "See 3 endorsements for XML",
+                "3",
+                "XML",
+                "Remove Endorsement"
+            ],
+            [
+                "XML",
+                "See 3 endorsements for XML",
+                "3"
+            ],
+            [
+                "Tomcat",
+                "See 4 endorsements for Tomcat",
+                "4",
+                "Tomcat",
+                "Endorse"
+            ],
+            [
+                "Tomcat",
+                "See 4 endorsements for Tomcat",
+                "4"
+            ],
+            [
+                "PHP",
+                "See 2 endorsements for PHP",
+                "2",
+                "PHP",
+                "Endorse"
+            ],
+            [
+                "PHP",
+                "See 2 endorsements for PHP",
+                "2"
+            ],
+            [
+                "C++",
+                "See 2 endorsements for C++",
+                "2",
+                "C++",
+                "Endorse"
+            ],
+            [
+                "C++",
+                "See 2 endorsements for C++",
+                "2"
+            ],
+            [
+                "CSS",
+                "See 2 endorsements for CSS",
+                "2",
+                "CSS",
+                "Endorse"
+            ],
+            [
+                "CSS",
+                "See 2 endorsements for CSS",
+                "2"
+            ],
+            [
+                "C#",
+                "See 2 endorsements for C#",
+                "2",
+                "C#",
+                "Endorse"
+            ],
+            [
+                "C#",
+                "See 2 endorsements for C#",
+                "2"
+            ],
+            [
+                "SQL",
+                "See 4 endorsements for SQL",
+                "4",
+                "SQL",
+                "Endorse"
+            ],
+            [
+                "SQL",
+                "See 4 endorsements for SQL",
+                "4"
+            ],
+            [
+                "Quality Assurance",
+                "See 2 endorsements for Quality Assurance",
+                "2",
+                "Quality Assurance",
+                "Endorse"
+            ],
+            [
+                "Quality Assurance",
+                "See 2 endorsements for Quality Assurance",
+                "2"
+            ],
+            [
+                "Web Services",
+                "See 2 endorsements for Web Services",
+                "2",
+                "Web Services",
+                "Endorse"
+            ],
+            [
+                "Web Services",
+                "See 2 endorsements for Web Services",
+                "2"
+            ],
+            [
+                "Spring",
+                "See 3 endorsements for Spring",
+                "3",
+                "Spring",
+                "Endorse"
+            ],
+            [
+                "Spring",
+                "See 3 endorsements for Spring",
+                "3"
+            ],
+            [
+                "Eclipse",
+                "See 2 endorsements for Eclipse",
+                "2",
+                "Eclipse",
+                "Endorse"
+            ],
+            [
+                "Eclipse",
+                "See 2 endorsements for Eclipse",
+                "2"
+            ],
+            [
+                "Hibernate",
+                "See 3 endorsements for Hibernate",
+                "3",
+                "Hibernate",
+                "Endorse"
+            ],
+            [
+                "Hibernate",
+                "See 3 endorsements for Hibernate",
+                "3"
+            ],
+            [
+                "Web Development",
+                "See 2 endorsements for Web Development",
+                "2",
+                "Web Development",
+                "Endorse"
+            ],
+            [
+                "Web Development",
+                "See 2 endorsements for Web Development",
+                "2"
+            ],
+            [
+                "Object Oriented Design",
+                "See 2 endorsements for Object Oriented Design",
+                "2",
+                "Object Oriented Design",
+                "Endorse"
+            ],
+            [
+                "Object Oriented Design",
+                "See 2 endorsements for Object Oriented Design",
+                "2"
+            ],
+            [
+                "Subversion",
+                "See 2 endorsements for Subversion",
+                "2",
+                "Subversion",
+                "Endorse"
+            ],
+            [
+                "Subversion",
+                "See 2 endorsements for Subversion",
+                "2"
+            ],
+            [
+                "Ant",
+                "See 2 endorsements for Ant",
+                "2",
+                "Ant",
+                "Endorse"
+            ],
+            [
+                "Ant",
+                "See 2 endorsements for Ant",
+                "2"
+            ],
+            [
+                "Unix",
+                "See 2 endorsements for Unix",
+                "2",
+                "Unix",
+                "Endorse"
+            ],
+            [
+                "Unix",
+                "See 2 endorsements for Unix",
+                "2"
+            ],
+            [
+                "RichFaces",
+                "See 2 endorsements for RichFaces",
+                "2",
+                "RichFaces",
+                "Endorse"
+            ],
+            [
+                "RichFaces",
+                "See 2 endorsements for RichFaces",
+                "2"
+            ],
+            [
+                "Sybase",
+                "See 2 endorsements for Sybase",
+                "2",
+                "Sybase",
+                "Endorse"
+            ],
+            [
+                "Sybase",
+                "See 2 endorsements for Sybase",
+                "2"
+            ],
+            [
+                "JBoss Application Server",
+                "See 2 endorsements for JBoss Application Server",
+                "2",
+                "JBoss Application Server",
+                "Endorse"
+            ],
+            [
+                "JBoss Application Server",
+                "See 2 endorsements for JBoss Application Server",
+                "2"
+            ],
+            [
+                "iOS",
+                "See 1 endorsement for iOS",
+                "1",
+                "iOS",
+                "Endorse"
+            ],
+            [
+                "iOS",
+                "See 1 endorsement for iOS",
+                "1"
+            ],
+            [
+                "Agile Methodologies",
+                "See 2 endorsements for Agile Methodologies",
+                "2",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 2 endorsements for Agile Methodologies",
+                "2"
+            ],
+            [
+                "JSF",
+                "See 2 endorsements for JSF",
+                "2",
+                "JSF",
+                "Endorse"
+            ],
+            [
+                "JSF",
+                "See 2 endorsements for JSF",
+                "2"
+            ],
+            [
+                "SQL Server",
+                "See 1 endorsement for SQL Server",
+                "1",
+                "SQL Server",
+                "Endorse"
+            ],
+            [
+                "SQL Server",
+                "See 1 endorsement for SQL Server",
+                "1"
+            ],
+            [
+                "J2EE",
+                "See 1 endorsement for J2EE",
+                "1",
+                "J2EE",
+                "Endorse"
+            ],
+            [
+                "J2EE",
+                "See 1 endorsement for J2EE",
+                "1"
+            ],
+            [
+                "AJAX",
+                "See 1 endorsement for AJAX",
+                "1",
+                "AJAX",
+                "Endorse"
+            ],
+            [
+                "AJAX",
+                "See 1 endorsement for AJAX",
+                "1"
+            ],
+            [
+                "JDBC",
+                "See 1 endorsement for JDBC",
+                "1",
+                "JDBC",
+                "Endorse"
+            ],
+            [
+                "JDBC",
+                "See 1 endorsement for JDBC",
+                "1"
+            ],
+            [
+                "JUnit",
+                "See 1 endorsement for JUnit",
+                "1",
+                "JUnit",
+                "Endorse"
+            ],
+            [
+                "JUnit",
+                "See 1 endorsement for JUnit",
+                "1"
+            ],
+            [
+                "OOP",
+                "See 1 endorsement for OOP",
+                "1",
+                "OOP",
+                "Endorse"
+            ],
+            [
+                "OOP",
+                "See 1 endorsement for OOP",
+                "1"
+            ],
+            [
+                "Groovy",
+                "See 1 endorsement for Groovy",
+                "1",
+                "Groovy",
+                "Endorse"
+            ],
+            [
+                "Groovy",
+                "See 1 endorsement for Groovy",
+                "1"
+            ],
+            [
+                "Selenium",
+                "See 1 endorsement for Selenium",
+                "1",
+                "Selenium",
+                "Endorse"
+            ],
+            [
+                "Selenium",
+                "See 1 endorsement for Selenium",
+                "1"
+            ],
+            [
+                "Scrum",
+                "See 4 endorsements for Scrum",
+                "4",
+                "Scrum",
+                "Endorse"
+            ],
+            [
+                "Scrum",
+                "See 4 endorsements for Scrum",
+                "4"
+            ],
+            [
+                "Maven",
+                "See 1 endorsement for Maven",
+                "1",
+                "Maven",
+                "Endorse"
+            ],
+            [
+                "Maven",
+                "See 1 endorsement for Maven",
+                "1"
+            ],
+            [
+                "Google Analytics",
+                "See 1 endorsement for Google Analytics",
+                "1",
+                "Google Analytics",
+                "Endorse"
+            ],
+            [
+                "Google Analytics",
+                "See 1 endorsement for Google Analytics",
+                "1"
+            ],
+            [
+                "FindBugs",
+                "See 1 endorsement for FindBugs",
+                "1",
+                "FindBugs",
+                "Endorse"
+            ],
+            [
+                "FindBugs",
+                "See 1 endorsement for FindBugs",
+                "1"
+            ],
+            [
+                "Agile",
+                "Agile",
+                "Endorse"
+            ],
+            [
+                "Agile"
+            ]
+        ],
+        "summary": "    Software Engineer who enjoys building apps and solving problems. Did Full stack web development in a previous life but now primarily build iOS mobile apps.About me - http://about.me/karan.shahGit Hub - https://github.com/karanshah\n  \n  \n",
+        "name": "Karan Shah",
+        "title": "Senior iOS Software Engineer",
+        "url": "linkedin.com/in/shahkaran",
+        "phone": "",
+        "email": "shah.karan@gmail.com"
+    }
+]

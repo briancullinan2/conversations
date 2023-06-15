@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6339357085029007361/",
+    "participants": [
+        {
+            "name": "Tammie Bradford",
+            "title": "Founder & CEO at Athena Hair Extensions",
+            "url": "linkedin.com/in/tammie-bradford-a71aa031",
+            "phone": "720-629-0180 (Work)",
+            "email": "tammie@athenaextensions.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Tammie Bradford",
+            "message": "",
+            "time": "2017-11-23T07:01:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-11-24T17:01:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6195009936532000768/",
+    "participants": [
+        {
+            "name": "Dee Kassa",
+            "title": "Talent Advisor at HonorHealth",
+            "url": "linkedin.com/in/dee-kassa-90202726",
+            "phone": null,
+            "email": "deborah.kassa@honorhealth.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Congrats on the new role! Hope you're doing well.",
+            "time": "2017-10-05T23:17:00.000Z"
+        },
+        {
+            "from": "Dee Kassa",
+            "message": "Thank you so much",
+            "time": "2017-10-05T17:51:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6212633512290369536/",
+    "participants": [
+        {
+            "name": "Kristi Berkhof, MBA",
+            "title": "Client Service Director at Robert Half Management Resources",
+            "url": "linkedin.com/in/kristi-berkhof-mba-30485a45",
+            "phone": null,
+            "email": "kaberkhof@msn.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-08T14:27:00.000Z"
+        },
+        {
+            "from": "Kristi Berkhof, MBA",
+            "message": "Thank you!\n",
+            "time": "2017-12-08T15:18:00.000Z"
+        }
+    ]
+}

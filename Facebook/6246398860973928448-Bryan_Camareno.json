@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6246398860973928448/",
+    "participants": [
+        {
+            "name": "Bryan Camareno",
+            "title": "IAM & Security Architect at Charles Schwab",
+            "url": "linkedin.com/in/bryancamareno",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-03-11T18:39:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

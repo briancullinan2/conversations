@@ -1,0 +1,8 @@
+<session type="Start" time="1180503550" medium="JABBER" from="bjcullinan@gmail.com" to="bjcullinan@gmail.com"/>
+<session type="start" time="1180503550" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1180503551" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="hi"/>
+<message type="incoming_privateMessage" time="1180503552" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="hi"/>
+<session type="stop" time="1180503552" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<icon time="1181366868" medium="JABBER" from="bjcullinan%40gmail%2Ecom" link="c%3A%5Cprogram%20files%5Ctrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CJABBER%2Dbjcullinan%40gmail%2Ecom%2D1181366868%2Epng"/>
+<icon time="1209866978" medium="JABBER" from="bjcullinan%40gmail%2Ecom" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CJABBER%2Dbjcullinan%40gmail%2Ecom%2D1209866978%2Epng"/>
+<icon time="1239733909" medium="JABBER" from="bjcullinan%40gmail%2Ecom" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CJABBER%2Dbjcullinan%40gmail%2Ecom%2D1239733909%2Epng"/>

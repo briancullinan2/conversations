@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6230148477427478528/",
+    "participants": [
+        {
+            "name": "Bray Brockbank",
+            "title": "CMO | VP of Marketing",
+            "url": "linkedin.com/in/braybrockbank",
+            "phone": null,
+            "email": "braybrockbank@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-25T22:25:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6212326600999002112/",
+    "participants": [
+        {
+            "name": "Joy Zbornak",
+            "title": "Strategic Resource Specialist",
+            "url": "linkedin.com/in/joy-zbornak-a5b739119",
+            "phone": "7207526526 (Mobile)",
+            "email": "zabalaga.sasha@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-07T18:08:00.000Z"
+        },
+        {
+            "from": "Joy Zbornak",
+            "message": "My Pleasure Brian :)\n",
+            "time": "2017-12-07T18:56:00.000Z"
+        }
+    ]
+}

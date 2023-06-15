@@ -1,0 +1,666 @@
+[
+    {
+        "resourceName": "people/c8824845363197352789",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7a78261a0f219b55"
+                    }
+                },
+                "displayName": "Travis Addair",
+                "familyName": "Addair",
+                "givenName": "Travis",
+                "displayNameLastFirst": "Addair, Travis"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "118425811016917507268"
+                    }
+                },
+                "displayName": "Travis Addair",
+                "familyName": "Addair",
+                "givenName": "Travis",
+                "displayNameLastFirst": "Addair, Travis"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7a78261a0f219b55"
+                    }
+                },
+                "value": "+1-480-242-5669",
+                "canonicalForm": "+14802425669",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "23 Mutual Connections",
+                "You and Travis both know Abe Pralle, Matthew Shanker, and 21 others"
+            ],
+            [
+                "1 Mutual Group",
+                "You and Travis are both in the Northern Arizona University Alumni Association group"
+            ],
+            [
+                "Show more",
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Senior Software Engineer",
+                "Company Name",
+                "Uber",
+                "Dates Employed",
+                "Nov 2016 – Present",
+                "Employment Duration",
+                "1 yr",
+                "Location",
+                "San Francisco Bay Area",
+                "Machine learning engineer on the Sensor Intelligence team -- a platform team that attempts to extract insights from raw sensor streams provided by hundreds of thousands of devices on the Uber network. Our team collaborates with other groups to build products that improve rider/driver safety, fraud detection, pickup experience, and customer service responsiveness.My work combines research and impact, owning the problem end to end: from collecting requirements from partner teams, modeling and research, through implementing and scaling production systems.Previously, I worked on the People Engineering team and led an engineering team in building a web application to enable internal job transfers."
+            ],
+            [
+                "Senior Software Engineer, AI",
+                "Company Name",
+                "Super Evil Megacorp",
+                "Dates Employed",
+                "May 2016 – Nov 2016",
+                "Employment Duration",
+                "7 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "Gameplay engineering on Vainglory, a 3-v-3 realtime PVP action game (MOBA) for mobile devices (iOS, Android).  Specific focus on researching and developing the Artificial Intelligence systems used for controlling bots (simulated human players) and other autonomous agents in the game."
+            ],
+            [
+                "Lead Software Engineer",
+                "Company Name",
+                "Storm8",
+                "Dates Employed",
+                "Sep 2015 – Apr 2016",
+                "Employment Duration",
+                "8 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "LEAD SOFTWARE ENGINEER (March 2016 - April 2016)Lead engineering efforts on next generation mobile games.  Responsible for both prototyping game concepts as an individual contributor, and leading teams of engineers in production.SENIOR SOFTWARE ENGINEER (September 2015 - March 2016)Full stack development of mobile games (iOS, Android) in Unity (C#) played by over 50 million monthly users.  Focus on developing new IP and leading internal Artificial Intelligence core technology R&D."
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "Google",
+                "Dates Employed",
+                "Oct 2013 – Sep 2015",
+                "Employment Duration",
+                "2 yrs",
+                "Location",
+                "San Francisco Bay Area",
+                "Machine learning based automated curation of maps data under Ground Truth.Previously worked on scaling the production aerial imagery pipeline."
+            ],
+            [
+                "Software Developer",
+                "Company Name",
+                "Lawrence Livermore National Laboratory",
+                "Dates Employed",
+                "May 2012 – Oct 2013",
+                "Employment Duration",
+                "1 yr 6 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "Development of big data software systems used to analyze several hundred terabytes of seismic data. Systems include real-time and batch data processing pipelines in addition to interactive graphical analysis tools.  Large-scale signal analysis with in-house Hadoop cluster (CDH4)."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Stanford University",
+                "Degree Name",
+                "Master of Science (M.S.)",
+                "Field Of Study",
+                "Computer Science",
+                "Grade",
+                "3.74",
+                "Dates attended or expected graduation",
+                "2012 – 2017",
+                "Pursuing a master's degree part-time through the Honors Cooperative Program.  Computer Science with an emphasis in Artificial Intelligence."
+            ],
+            [
+                "Stanford University",
+                "Degree Name",
+                "Master of Science (M.S.)",
+                "Field Of Study",
+                "Computer Science",
+                "Grade",
+                "3.74",
+                "Dates attended or expected graduation",
+                "2012 – 2017",
+                "Pursuing a master's degree part-time through the Honors Cooperative Program.  Computer Science with an emphasis in Artificial Intelligence."
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science (B.S.)",
+                "Field Of Study",
+                "Computer Science, Mathematics (minor)",
+                "Grade",
+                "3.88",
+                "Dates attended or expected graduation",
+                "2007 – 2011",
+                "Activities and Societies:",
+                "Association for Computing Machinery (ACM)",
+                "Magna Cum LaudeDean's List (2007 to 2011)Presidential Scholarship (2007 to 2011)"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science (B.S.)",
+                "Field Of Study",
+                "Computer Science, Mathematics (minor)",
+                "Grade",
+                "3.88",
+                "Dates attended or expected graduation",
+                "2007 – 2011",
+                "Activities and Societies:",
+                "Association for Computing Machinery (ACM)",
+                "Magna Cum LaudeDean's List (2007 to 2011)Presidential Scholarship (2007 to 2011)"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Xooglers & Googlers - Alphabet and Google Alumni & Employees",
+                "10,357 members"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Hadoop Users",
+                "100,067 members"
+            ],
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ],
+            [
+                "Uber",
+                "671,345 followers"
+            ],
+            [
+                "Northern Arizona University Alumni Association",
+                "8,811 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (197)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Xooglers & Googlers - Alphabet and Google Alumni & Employees",
+                "10,357 members"
+            ],
+            [
+                "Xooglers & Googlers - Alphabet and Google Alumni & Employees",
+                "10,357 members"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Hadoop Users",
+                "100,067 members"
+            ],
+            [
+                "Hadoop Users",
+                "100,067 members"
+            ],
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ],
+            [
+                "Uber",
+                "671,345 followers"
+            ],
+            [
+                "Uber",
+                "671,345 followers"
+            ],
+            [
+                "Northern Arizona University Alumni Association",
+                "8,811 members"
+            ],
+            [
+                "Northern Arizona University Alumni Association",
+                "8,811 members"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Python",
+                "See 17 endorsements for Python",
+                "17",
+                "Python",
+                "Remove Endorsement",
+                "Endorsed by Jai Ram Rideout, who is highly skilled at this",
+                "Endorsed by Meaghan Grant and 5 other mutual connections"
+            ],
+            [
+                "Python",
+                "See 17 endorsements for Python",
+                "17"
+            ],
+            [
+                "Java",
+                "See 16 endorsements for Java",
+                "16",
+                "Java",
+                "Remove Endorsement",
+                "Endorsed by Abe Pralle, who is highly skilled at this",
+                "Endorsed by Leah Shanker and 5 other mutual connections"
+            ],
+            [
+                "Java",
+                "See 16 endorsements for Java",
+                "16"
+            ],
+            [
+                "C++",
+                "See 14 endorsements for C++",
+                "14",
+                "C++",
+                "Remove Endorsement",
+                "Endorsed by Abe Pralle and 1 other who is highly skilled at this",
+                "Endorsed by Carl Eberhard and 2 other mutual connections"
+            ],
+            [
+                "C++",
+                "See 14 endorsements for C++",
+                "14"
+            ],
+            [
+                "Software Engineering",
+                "See 11 endorsements for Software Engineering",
+                "11",
+                "Software Engineering",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Engineering",
+                "See 11 endorsements for Software Engineering",
+                "11"
+            ],
+            [
+                "Computer Science",
+                "See 8 endorsements for Computer Science",
+                "8",
+                "Computer Science",
+                "Remove Endorsement"
+            ],
+            [
+                "Computer Science",
+                "See 8 endorsements for Computer Science",
+                "8"
+            ],
+            [
+                "Algorithms",
+                "See 8 endorsements for Algorithms",
+                "8",
+                "Algorithms",
+                "Remove Endorsement"
+            ],
+            [
+                "Algorithms",
+                "See 8 endorsements for Algorithms",
+                "8"
+            ],
+            [
+                "Software Development",
+                "See 7 endorsements for Software Development",
+                "7",
+                "Software Development",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Development",
+                "See 7 endorsements for Software Development",
+                "7"
+            ],
+            [
+                "Artificial Intelligence",
+                "See 6 endorsements for Artificial Intelligence",
+                "6",
+                "Artificial Intelligence",
+                "Remove Endorsement"
+            ],
+            [
+                "Artificial Intelligence",
+                "See 6 endorsements for Artificial Intelligence",
+                "6"
+            ],
+            [
+                "Linux",
+                "See 5 endorsements for Linux",
+                "5",
+                "Linux",
+                "Remove Endorsement"
+            ],
+            [
+                "Linux",
+                "See 5 endorsements for Linux",
+                "5"
+            ],
+            [
+                "Data Mining",
+                "See 5 endorsements for Data Mining",
+                "5",
+                "Data Mining",
+                "Remove Endorsement"
+            ],
+            [
+                "Data Mining",
+                "See 5 endorsements for Data Mining",
+                "5"
+            ],
+            [
+                "Big Data",
+                "See 5 endorsements for Big Data",
+                "5",
+                "Big Data",
+                "Remove Endorsement"
+            ],
+            [
+                "Big Data",
+                "See 5 endorsements for Big Data",
+                "5"
+            ],
+            [
+                "Machine Learning",
+                "See 4 endorsements for Machine Learning",
+                "4",
+                "Machine Learning",
+                "Remove Endorsement"
+            ],
+            [
+                "Machine Learning",
+                "See 4 endorsements for Machine Learning",
+                "4"
+            ],
+            [
+                "Databases",
+                "See 4 endorsements for Databases",
+                "4",
+                "Databases",
+                "Remove Endorsement"
+            ],
+            [
+                "Databases",
+                "See 4 endorsements for Databases",
+                "4"
+            ],
+            [
+                "Subversion",
+                "See 3 endorsements for Subversion",
+                "3",
+                "Subversion",
+                "Remove Endorsement"
+            ],
+            [
+                "Subversion",
+                "See 3 endorsements for Subversion",
+                "3"
+            ],
+            [
+                "Image Processing",
+                "See 3 endorsements for Image Processing",
+                "3",
+                "Image Processing",
+                "Remove Endorsement"
+            ],
+            [
+                "Image Processing",
+                "See 3 endorsements for Image Processing",
+                "3"
+            ],
+            [
+                "Data Analysis",
+                "See 3 endorsements for Data Analysis",
+                "3",
+                "Data Analysis",
+                "Remove Endorsement"
+            ],
+            [
+                "Data Analysis",
+                "See 3 endorsements for Data Analysis",
+                "3"
+            ],
+            [
+                "Software Design",
+                "See 3 endorsements for Software Design",
+                "3",
+                "Software Design",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Design",
+                "See 3 endorsements for Software Design",
+                "3"
+            ],
+            [
+                "Android",
+                "See 3 endorsements for Android",
+                "3",
+                "Android",
+                "Remove Endorsement"
+            ],
+            [
+                "Android",
+                "See 3 endorsements for Android",
+                "3"
+            ],
+            [
+                "Software Architectural Design",
+                "See 2 endorsements for Software Architectural Design",
+                "2",
+                "Software Architectural Design",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Architectural Design",
+                "See 2 endorsements for Software Architectural Design",
+                "2"
+            ],
+            [
+                "Git",
+                "See 2 endorsements for Git",
+                "2",
+                "Git",
+                "Remove Endorsement"
+            ],
+            [
+                "Git",
+                "See 2 endorsements for Git",
+                "2"
+            ],
+            [
+                "Matlab",
+                "See 2 endorsements for Matlab",
+                "2",
+                "Matlab",
+                "Remove Endorsement"
+            ],
+            [
+                "Matlab",
+                "See 2 endorsements for Matlab",
+                "2"
+            ],
+            [
+                "Unix",
+                "See 2 endorsements for Unix",
+                "2",
+                "Unix",
+                "Remove Endorsement"
+            ],
+            [
+                "Unix",
+                "See 2 endorsements for Unix",
+                "2"
+            ],
+            [
+                "Hadoop",
+                "See 2 endorsements for Hadoop",
+                "2",
+                "Hadoop",
+                "Remove Endorsement"
+            ],
+            [
+                "Hadoop",
+                "See 2 endorsements for Hadoop",
+                "2"
+            ],
+            [
+                "High Performance Computing",
+                "See 2 endorsements for High Performance Computing",
+                "2",
+                "High Performance Computing",
+                "Remove Endorsement"
+            ],
+            [
+                "High Performance Computing",
+                "See 2 endorsements for High Performance Computing",
+                "2"
+            ],
+            [
+                "Distributed Systems",
+                "See 2 endorsements for Distributed Systems",
+                "2",
+                "Distributed Systems",
+                "Remove Endorsement"
+            ],
+            [
+                "Distributed Systems",
+                "See 2 endorsements for Distributed Systems",
+                "2"
+            ],
+            [
+                "Game Development",
+                "See 2 endorsements for Game Development",
+                "2",
+                "Game Development",
+                "Remove Endorsement"
+            ],
+            [
+                "Game Development",
+                "See 2 endorsements for Game Development",
+                "2"
+            ],
+            [
+                "MapReduce",
+                "See 1 endorsement for MapReduce",
+                "1",
+                "MapReduce",
+                "Remove Endorsement"
+            ],
+            [
+                "MapReduce",
+                "See 1 endorsement for MapReduce",
+                "1"
+            ],
+            [
+                "HBase",
+                "See 1 endorsement for HBase",
+                "1",
+                "HBase",
+                "Remove Endorsement"
+            ],
+            [
+                "HBase",
+                "See 1 endorsement for HBase",
+                "1"
+            ],
+            [
+                "Apache Pig",
+                "See 1 endorsement for Apache Pig",
+                "1",
+                "Apache Pig",
+                "Remove Endorsement"
+            ],
+            [
+                "Apache Pig",
+                "See 1 endorsement for Apache Pig",
+                "1"
+            ],
+            [
+                "R",
+                "See 1 endorsement for R",
+                "1",
+                "R",
+                "Remove Endorsement"
+            ],
+            [
+                "R",
+                "See 1 endorsement for R",
+                "1"
+            ],
+            [
+                "Game Programming",
+                "See 1 endorsement for Game Programming",
+                "1",
+                "Game Programming",
+                "Remove Endorsement"
+            ],
+            [
+                "Game Programming",
+                "See 1 endorsement for Game Programming",
+                "1"
+            ]
+        ],
+        "summary": "    Computer Scientist with a background in applied machine learning, large-scale distributed computing, and real-time mobile application development.Specialties: Artificial Intelligence, Game Development, Machine Learning, Data-Intensive Computing, Software Architectures, C++, Java, Python\n  \n  \n",
+        "name": "Travis Addair",
+        "title": "Senior Software Engineer at Uber",
+        "url": "linkedin.com/in/travisaddair",
+        "phone": null,
+        "email": "tgaddair@gmail.com"
+    }
+]

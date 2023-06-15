@@ -1,0 +1,658 @@
+[
+    {
+        "experience": [
+            "Highlights",
+            [
+                "25 Mutual Connections",
+                "You and Craig both know Glen Chamberlain, Lucas Krause, and 23 others"
+            ],
+            [
+                "You both worked at EPIC Research and Diagnostics",
+                "Craig worked at EPIC Research and Diagnostics after you started"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Consultant",
+                "Company Name",
+                "Nerdino LLC",
+                "Dates Employed",
+                "Jul 2012 – Present",
+                "Employment Duration",
+                "5 yrs 4 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "EPIC Research and Diagnostics",
+                "Dates Employed",
+                "Sep 2014 – Sep 2016",
+                "Employment Duration",
+                "2 yrs 1 mo",
+                "Location",
+                "Scottsdale, AZ",
+                "•\tPart of a 2 person software development team.•\tLeveraged numerous Microsoft and .NET open source projects.•\tCreated web service using C#, ASP.NET Web API, NHibernate, AutoMapper, FluentValidator, DataFlow, Task Parallel Library, SQL Server 2014 R2, and JSON.NET.•\tDeveloped thick client using C#, Windows Forms, ReactiveUI, Reactive Extensions, AutoMapper, FluentValidator, and JSON.NET•\tWrote over 200+ unit and system tests to test all layers of the code using MSTest, Moq, AutoMocker, and Dapper. •\tHelped integrate R model developed by statistician into the C# application.  •\tWorked with biostatistician in translating SAS and SPSS to application implementations.  •\tImplemented Git source control to replace TFS source control.•\tUtilized best practices for ALM with TFS for use in FDA approval of SDLC.•\tIntegrated with MatLab dlls for image analysis.•\tHandled algorithm development to build scoring based on the analysis.•\tResponsible for handling integration with different USB devices and maintaining connected/disconnected state.•\tAdded logging using Log4Net to both client and server processes.•\tBuilt video recorder application to communicate with USB camera devices.•\tHandled ad-hoc reporting requirements for all levels of the business.•\tHelped with product requirements writing and maintenance. •\tInvolved in HIPAA support and preparation for rollout to Microsoft Azure Cloud.•\tWrote many prototypes within Azure for determining Azure rollout plans.  •\tThese prototypes included Azure Service Fabric (Stateless and Stateful Services as well as Actors), Azure App Services with WebJobs, Azure Service Bus Queue, and Azure storage."
+            ],
+            [
+                "Supervisor of Software Development",
+                "Company Name",
+                "Health Choice Arizona",
+                "Dates Employed",
+                "Aug 2012 – Aug 2014",
+                "Employment Duration",
+                "2 yrs 1 mo",
+                "Location",
+                "Phoenix, Arizona Area",
+                "• \tManage and support 11 developers of varying skillsets.  •\tProvide expert knowledge and guidance of existing technologies.•\tCreate and maintain the 300+ SQL Server Reporting Services and Web Reports•\tResponsible for all data refreshes between the 3 different database technologies•\tArchitect and maintain best practices and procedures to help facilitate quick and effective development of requirements.•\tEvaluate and analyze proposed product changes to identify and review potential impacts on overall system functionality and business operations. •\tPerform code review of product/system changes prior to implementation in production.•\tManage crisis situations which involve complex technical hardware or software problems. •\tImplement new processes to improve performance and extensibility of existing systems.•\tServe as support and subject matter expert for staff.•\tProvide support to Oracle application functional areas to meet specific and unique information objectives. •\tTechnical liaison between IT and users•\tDeliver end user system training, system orientation and trains associates on production support procedures and processes.•\tTrack and respond to inquiries, problems, and requests for information via the ticketing system. •\tEvaluate requests and assign to appropriate IT staff.•\tEnsure standardization in application and system development."
+            ],
+            [
+                "Senior System Analyst",
+                "Company Name",
+                "Avanade",
+                "Dates Employed",
+                "Jul 2010 – Jul 2012",
+                "Employment Duration",
+                "2 yrs 1 mo"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "School-Link Technologies",
+                "Dates Employed",
+                "Jan 2010 – Jul 2010",
+                "Employment Duration",
+                "7 mos",
+                "•\tDeveloped software: specifically wrote code, test cases for new and existing software products.•\tParticipated in code reviews, software design and development process.•\tLead and mentored associate software engineers•\tDeveloped software system testing procedures, programming, and documentation•\tBuilt a transaction processing system for a vending machine utilizing C#, LINQ to SQL, and SQL Server 2008.•\tDeveloped and bug fixed numerous Crystal Reports."
+            ],
+            [
+                "Software Developer",
+                "Company Name",
+                "Sogeti",
+                "Dates Employed",
+                "Jul 2008 – Jan 2010",
+                "Employment Duration",
+                "1 yr 7 mos",
+                "•\tMaintained a nightly batch system that would read data from SQL 2000 HR Database.  This data would be passed to the ADP Payroll system as flat files.  ADP would process and send back more flat files that the system would load into the SQL 2000 HR Database.  This happened nightly during the weekdays.•\tResponsible for developing and delivering ad hoc report requests in SQL Server 2000.•\tDeveloped and maintained an ASP.NET application to handle internal efficiency and money making ideas.•\tResponsible for maintaining the legacy VB 6 batch process.  •\tMaintained data in the SQL 2000 Database.•\tDeveloped and maintained numerous Benefit Feed files to various carriers. •\tResponsible for maintaining and enhancing the triggers, stored procedures, views, functions, and tables in the HR system.•\tHandled maintenance on the employee self-service system"
+            ],
+            [
+                "Application Developer II",
+                "Company Name",
+                "Avanade",
+                "Dates Employed",
+                "Feb 2007 – Jul 2008",
+                "Employment Duration",
+                "1 yr 6 mos"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of Advancing Technology",
+                "Degree Name",
+                "Bachelors Software Engineering",
+                "Field Of Study",
+                "Systems Administration, .NET",
+                "Dates attended or expected graduation",
+                "2004 – 2006",
+                "Activities and Societies:",
+                "Summa Cum Laude"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "EPIC Research and Diagnostics",
+                "75 followers"
+            ],
+            [
+                "C# Developers / Architects",
+                "217,518 members"
+            ],
+            [
+                "A STARTUP SPECIALISTS GROUP Online Global Network for Entrepreneurs,Startups (Business Jobs Careers)",
+                "326,958 members"
+            ],
+            [
+                "University of Advancing Technology",
+                "9,286 followers"
+            ],
+            [
+                "The Monastery",
+                "75 followers"
+            ],
+            [
+                "Avanade",
+                "108,999 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (237)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "EPIC Research and Diagnostics",
+                "75 followers"
+            ],
+            [
+                "EPIC Research and Diagnostics",
+                "75 followers"
+            ],
+            [
+                "C# Developers / Architects",
+                "217,518 members"
+            ],
+            [
+                "C# Developers / Architects",
+                "217,518 members"
+            ],
+            [
+                "A STARTUP SPECIALISTS GROUP Online Global Network for Entrepreneurs,Startups (Business Jobs Careers)",
+                "326,958 members"
+            ],
+            [
+                "A STARTUP SPECIALISTS GROUP Online Global Network for Entrepreneurs,Startups (Business Jobs Careers)",
+                "326,958 members"
+            ],
+            [
+                "University of Advancing Technology",
+                "9,286 followers"
+            ],
+            [
+                "University of Advancing Technology",
+                "9,286 followers"
+            ],
+            [
+                "The Monastery",
+                "75 followers"
+            ],
+            [
+                "The Monastery",
+                "75 followers"
+            ],
+            [
+                "Avanade",
+                "108,999 followers"
+            ],
+            [
+                "Avanade",
+                "108,999 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Richard Trayler",
+                "Business Consultant and Christian Author",
+                "September 20, 2016, Richard was senior to Craig but didn’t manage directly",
+                "Craig was our lead Software Developer at EPIC Research & Diagnostics.  Not only was the quality of his work excellent, but he completed several projects ahead of schedule, which enabling us to add additional features in to a release.  Additionally, he recommended and managed another software engineer, demonstrating good selection and managerial skills.  He was well-liked and respected by all in the company.  I highly recommend Craig as a software developer."
+            ],
+            [
+                "Richard Trayler",
+                "Business Consultant and Christian Author",
+                "September 20, 2016, Richard was senior to Craig but didn’t manage directly"
+            ],
+            [
+                "Richard Trayler",
+                "Business Consultant and Christian Author",
+                "September 20, 2016, Richard was senior to Craig but didn’t manage directly"
+            ],
+            [
+                "Richard Trayler",
+                "Business Consultant and Christian Author",
+                "September 20, 2016, Richard was senior to Craig but didn’t manage directly"
+            ],
+            "Business Consultant and Christian Author",
+            [
+                "Craig was our lead Software Developer at EPIC Research & Diagnostics.  Not only was the quality of his work excellent, but he completed several projects ahead of schedule, which enabling us to add additional features in to a release.  Additionally, he recommended and managed another software engineer, demonstrating good selection and managerial skills.  He was well-liked and respected by all in the company.  I highly recommend Craig as a software developer."
+            ],
+            [
+                "Craig was our lead Software Developer at EPIC Research & Diagnostics.  Not only was the quality of his work excellent, but he completed several projects ahead of schedule, which enabling us to add additional features in to a release.  Additionally, he recommended and managed another software engineer, demonstrating good selection and managerial skills.  He was well-liked and respected by all in the company.  I highly recommend Craig as a software developer."
+            ],
+            [
+                "Raghu Rudra",
+                "Deliver business solutions through technology",
+                "April 22, 2016, Craig reported directly to Raghu",
+                "It's rare you find someone that is as passionate about technology and programming as Raghu.  I had the pleasure of reporting to Raghu for the past year and half.  We were the main programmers in the company and were responsible for developing the software end to end.  Raghu was instrumental in building out and defining the development process in preparation for audits.  Raghu's attention to detail and willingness to take the path less traveled served the company over and over again.  He would always try to find the best technology for the problem and is completely open to off the wall ideas in trying to solve the technology problems we were faced with.Raghu will be a valuable asset to any technical team and company."
+            ],
+            [
+                "Raghu Rudra",
+                "Deliver business solutions through technology",
+                "April 22, 2016, Craig reported directly to Raghu"
+            ],
+            [
+                "Raghu Rudra",
+                "Deliver business solutions through technology",
+                "April 22, 2016, Craig reported directly to Raghu"
+            ],
+            [
+                "Raghu Rudra",
+                "Deliver business solutions through technology",
+                "April 22, 2016, Craig reported directly to Raghu"
+            ],
+            "Deliver business solutions through technology",
+            [
+                "It's rare you find someone that is as passionate about technology and programming as Raghu.  I had the pleasure of reporting to Raghu for the past year and half.  We were the main programmers in the company and were responsible for developing the software end to end.  Raghu was instrumental in building out and defining the development process in preparation for audits.  Raghu's attention to detail and willingness to take the path less traveled served the company over and over again.  He would always try to find the best technology for the problem and is completely open to off the wall ideas in trying to solve the technology problems we were faced with.Raghu will be a valuable asset to any technical team and company."
+            ],
+            [
+                "It's rare you find someone that is as passionate about technology and programming as Raghu.  I had the pleasure of reporting to Raghu for the past year and half.  We were the main programmers in the company and were responsible for developing the software end to end.  Raghu was instrumental in building out and defining the development process in preparation for audits.  Raghu's attention to detail and willingness to take the path less traveled served the company over and over again.  He would always try to find the best technology for the problem and is completely open to off the wall ideas in trying to solve the technology problems we were faced with.Raghu will be a valuable asset to any technical team and company."
+            ],
+            [
+                "Barry Culhane",
+                "Principal Consultant at Neudesic",
+                "March 16, 2009, Craig reported directly to Barry",
+                "Barry was my career manager at Avanade.  He provided great guidance through out my time there. He was always willing to lend a helping hand and provide good solid information on any of the questions I might have had."
+            ],
+            [
+                "Barry Culhane",
+                "Principal Consultant at Neudesic",
+                "March 16, 2009, Craig reported directly to Barry"
+            ],
+            [
+                "Barry Culhane",
+                "Principal Consultant at Neudesic",
+                "March 16, 2009, Craig reported directly to Barry"
+            ],
+            [
+                "Barry Culhane",
+                "Principal Consultant at Neudesic",
+                "March 16, 2009, Craig reported directly to Barry"
+            ],
+            "Principal Consultant at Neudesic",
+            [
+                "Barry was my career manager at Avanade.  He provided great guidance through out my time there. He was always willing to lend a helping hand and provide good solid information on any of the questions I might have had."
+            ],
+            [
+                "Barry was my career manager at Avanade.  He provided great guidance through out my time there. He was always willing to lend a helping hand and provide good solid information on any of the questions I might have had."
+            ]
+        ],
+        "skills": [
+            [
+                "Microsoft SQL Server",
+                "See 23 endorsements for Microsoft SQL Server",
+                "23",
+                "Microsoft SQL Server",
+                "Endorse",
+                "Endorsed by Alyssa Bair and 1 other who is highly skilled at this",
+                "Endorsed by Richard Trayler (mutual connection)"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 23 endorsements for Microsoft SQL Server",
+                "23"
+            ],
+            [
+                "Software Development",
+                "See 15 endorsements for Software Development",
+                "15",
+                "Software Development",
+                "Endorse",
+                "Endorsed by Mo Masoud and 1 other mutual connection",
+                "Endorsed by 6 of Craig’s colleagues at Avanade"
+            ],
+            [
+                "Software Development",
+                "See 15 endorsements for Software Development",
+                "15"
+            ],
+            [
+                ".NET",
+                "See 14 endorsements for .NET",
+                "14",
+                ".NET",
+                "Endorse",
+                "Endorsed by 2 of Craig’s colleagues at Avanade"
+            ],
+            [
+                ".NET",
+                "See 14 endorsements for .NET",
+                "14"
+            ],
+            [
+                "ASP.NET",
+                "See 10 endorsements for ASP.NET",
+                "10",
+                "ASP.NET",
+                "Endorse"
+            ],
+            [
+                "ASP.NET",
+                "See 10 endorsements for ASP.NET",
+                "10"
+            ],
+            [
+                "Requirements Analysis",
+                "See 9 endorsements for Requirements Analysis",
+                "9",
+                "Requirements Analysis",
+                "Endorse"
+            ],
+            [
+                "Requirements Analysis",
+                "See 9 endorsements for Requirements Analysis",
+                "9"
+            ],
+            [
+                "Business Intelligence",
+                "See 9 endorsements for Business Intelligence",
+                "9",
+                "Business Intelligence",
+                "Endorse"
+            ],
+            [
+                "Business Intelligence",
+                "See 9 endorsements for Business Intelligence",
+                "9"
+            ],
+            [
+                "Databases",
+                "See 9 endorsements for Databases",
+                "9",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 9 endorsements for Databases",
+                "9"
+            ],
+            [
+                "C#",
+                "See 9 endorsements for C#",
+                "9",
+                "C#",
+                "Endorse"
+            ],
+            [
+                "C#",
+                "See 9 endorsements for C#",
+                "9"
+            ],
+            [
+                "Agile Methodologies",
+                "See 8 endorsements for Agile Methodologies",
+                "8",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 8 endorsements for Agile Methodologies",
+                "8"
+            ],
+            [
+                "SDLC",
+                "See 7 endorsements for SDLC",
+                "7",
+                "SDLC",
+                "Endorse"
+            ],
+            [
+                "SDLC",
+                "See 7 endorsements for SDLC",
+                "7"
+            ],
+            [
+                "Integration",
+                "See 6 endorsements for Integration",
+                "6",
+                "Integration",
+                "Endorse"
+            ],
+            [
+                "Integration",
+                "See 6 endorsements for Integration",
+                "6"
+            ],
+            [
+                "Web Services",
+                "See 5 endorsements for Web Services",
+                "5",
+                "Web Services",
+                "Endorse"
+            ],
+            [
+                "Web Services",
+                "See 5 endorsements for Web Services",
+                "5"
+            ],
+            [
+                "Visual Studio",
+                "See 4 endorsements for Visual Studio",
+                "4",
+                "Visual Studio",
+                "Endorse"
+            ],
+            [
+                "Visual Studio",
+                "See 4 endorsements for Visual Studio",
+                "4"
+            ],
+            [
+                "T-SQL",
+                "See 4 endorsements for T-SQL",
+                "4",
+                "T-SQL",
+                "Endorse"
+            ],
+            [
+                "T-SQL",
+                "See 4 endorsements for T-SQL",
+                "4"
+            ],
+            [
+                "Business Analysis",
+                "See 3 endorsements for Business Analysis",
+                "3",
+                "Business Analysis",
+                "Endorse"
+            ],
+            [
+                "Business Analysis",
+                "See 3 endorsements for Business Analysis",
+                "3"
+            ],
+            [
+                "SSRS",
+                "See 3 endorsements for SSRS",
+                "3",
+                "SSRS",
+                "Endorse"
+            ],
+            [
+                "SSRS",
+                "See 3 endorsements for SSRS",
+                "3"
+            ],
+            [
+                "SharePoint",
+                "See 3 endorsements for SharePoint",
+                "3",
+                "SharePoint",
+                "Endorse"
+            ],
+            [
+                "SharePoint",
+                "See 3 endorsements for SharePoint",
+                "3"
+            ],
+            [
+                "SSIS",
+                "See 2 endorsements for SSIS",
+                "2",
+                "SSIS",
+                "Endorse"
+            ],
+            [
+                "SSIS",
+                "See 2 endorsements for SSIS",
+                "2"
+            ],
+            [
+                "Enterprise Architecture",
+                "See 2 endorsements for Enterprise Architecture",
+                "2",
+                "Enterprise Architecture",
+                "Endorse"
+            ],
+            [
+                "Enterprise Architecture",
+                "See 2 endorsements for Enterprise Architecture",
+                "2"
+            ],
+            [
+                "SOA",
+                "See 2 endorsements for SOA",
+                "2",
+                "SOA",
+                "Endorse"
+            ],
+            [
+                "SOA",
+                "See 2 endorsements for SOA",
+                "2"
+            ],
+            [
+                "Software Design",
+                "See 2 endorsements for Software Design",
+                "2",
+                "Software Design",
+                "Endorse"
+            ],
+            [
+                "Software Design",
+                "See 2 endorsements for Software Design",
+                "2"
+            ],
+            [
+                "ETL",
+                "See 1 endorsement for ETL",
+                "1",
+                "ETL",
+                "Endorse"
+            ],
+            [
+                "ETL",
+                "See 1 endorsement for ETL",
+                "1"
+            ],
+            [
+                "SQL Server Reporting Services (SSRS)",
+                "See 1 endorsement for SQL Server Reporting Services (SSRS)",
+                "1",
+                "SQL Server Reporting Services (SSRS)",
+                "Endorse"
+            ],
+            [
+                "SQL Server Reporting Services (SSRS)",
+                "See 1 endorsement for SQL Server Reporting Services (SSRS)",
+                "1"
+            ],
+            [
+                "LINQ",
+                "LINQ",
+                "Endorse"
+            ],
+            [
+                "LINQ"
+            ],
+            [
+                "Visual Basic",
+                "Visual Basic",
+                "Endorse"
+            ],
+            [
+                "Visual Basic"
+            ],
+            [
+                "Crystal Reports",
+                "Crystal Reports",
+                "Endorse"
+            ],
+            [
+                "Crystal Reports"
+            ],
+            [
+                "Architecture",
+                "Architecture",
+                "Endorse"
+            ],
+            [
+                "Architecture"
+            ],
+            [
+                "Programming",
+                "Programming",
+                "Endorse"
+            ],
+            [
+                "Programming"
+            ],
+            [
+                "Business Process",
+                "Business Process",
+                "Endorse"
+            ],
+            [
+                "Business Process"
+            ],
+            [
+                "WCF",
+                "WCF",
+                "Endorse"
+            ],
+            [
+                "WCF"
+            ],
+            [
+                "Scrum",
+                "Scrum",
+                "Endorse"
+            ],
+            [
+                "Scrum"
+            ],
+            [
+                "Solution Architecture",
+                "Solution Architecture",
+                "Endorse"
+            ],
+            [
+                "Solution Architecture"
+            ],
+            [
+                "TFS",
+                "TFS",
+                "Endorse"
+            ],
+            [
+                "TFS"
+            ]
+        ],
+        "summary": "  Software developer with 7+ years of experience in software development, design, architecture, and analysis.  Proven track record coming into a new situation and being productive.\n  \n  \n",
+        "name": "Craig Fecteau",
+        "title": "Software Engineer at EPIC Research and Diagnostics",
+        "url": "linkedin.com/in/craigfecteau",
+        "phone": null,
+        "email": "craig.fecteau@gmail.com"
+    }
+]

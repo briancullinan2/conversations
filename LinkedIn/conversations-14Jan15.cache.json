@@ -1,0 +1,29 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "14Jan15",
+    "participants": "Brian Cullinan | wizard > Charles Sullano | Sr. Executive Recruiter at TEEMA Solutions Group Inc.",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Charles Sullano",
+        "url": "linkedin.com/in/charlessullano",
+        "email": "csullano@teemagroup.com",
+        "title": "Sr. Executive Recruiter at TEEMA Solutions Group Inc."
+      }
+    ],
+    "message": "Thank you for your interest, \n\nI have been developing software since I was only 11 years old. I started in VB4 and explored .Net since it's inception. Later I honed my skills on the web with PHP and JavaScript. I enjoy all forms of software development and computer administration. In previous positions a 6 month salary review has worked well, as it gives us both a chance to show what we are made of, without breaking the bank. I have a lot of experience with start-ups, so I am no stranger to bring new products and technologies to market in a controlled environment. I would enjoy a change to meet more of the team. For reference, I would be looking in the ballpark of $180k. Thank you. \n\n-Brian",
+    "time": "2015-01-14T06:06:00.000Z",
+    "title": "wizard"
+  }
+]

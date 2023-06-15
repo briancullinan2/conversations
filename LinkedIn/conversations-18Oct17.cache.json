@@ -1,0 +1,110 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "18Oct17",
+    "participants": "Brian Cullinan | wizard > Sarah Hallahan | Manager, Technical Talent Aquisition",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Sarah Hallahan",
+        "url": "linkedin.com/in/sarahjeanhallahan",
+        "email": "sarah.hallahan@adroll.com",
+        "title": "Manager, Technical Talent Aquisition"
+      }
+    ],
+    "message": "I am particularly interested in building a recruiting function. We should be using AI for conversation.\n\n\"Better to remain silent and be thought a fool than to speak and to remove all doubt.\"\n— ABRAHAM LINCOLN.\n\nI would like to help you with this. :)\n- Brian Cullinan",
+    "time": "2017-10-18T00:19:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "18Oct17",
+    "participants": "Brian Cullinan | wizard > Sarah Hallahan | Manager, Technical Talent Aquisition",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Sarah Hallahan",
+        "url": "linkedin.com/in/sarahjeanhallahan",
+        "email": "sarah.hallahan@adroll.com",
+        "title": "Manager, Technical Talent Aquisition"
+      }
+    ],
+    "message": "Thanks for the connect!",
+    "time": "2017-10-18T00:21:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "18Oct17",
+    "participants": "Sarah Hallahan | Manager, Technical Talent Aquisition > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Sarah Hallahan",
+        "url": "linkedin.com/in/sarahjeanhallahan",
+        "email": "sarah.hallahan@adroll.com",
+        "title": "Manager, Technical Talent Aquisition"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Hi Brian,\n\nYour connection email was intriguing and I must admit a little confusing. The quote from Abraham Lincoln particularly caught my attention.\n\nAre you suggesting I need help not confirming I'm a fool? Is this what you'd like to help me with? Or are you looking to help by using AI for recruiting?\n\nThanks,\nSarah\n\n\nI am particularly interested in building a recruiting function. We should be using AI for conversation.\n\n\"Better to remain silent and be thought a fool than to speak and to remove all doubt.\"\n— ABRAHAM LINCOLN.\n\nI would like to help you with this. :)\n- Brian Cullinan",
+    "time": "2017-10-18T00:25:00.000Z",
+    "title": "Manager, Technical Talent Aquisition"
+  },
+  {
+    "type": "conversations",
+    "conversations": "18Oct17",
+    "participants": "Brian Cullinan | wizard > Sarah Hallahan | Manager, Technical Talent Aquisition",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Sarah Hallahan",
+        "url": "linkedin.com/in/sarahjeanhallahan",
+        "email": "sarah.hallahan@adroll.com",
+        "title": "Manager, Technical Talent Aquisition"
+      }
+    ],
+    "message": "I think screening could be handled by AI asking questions about a person instead of the long application with many fields. I am just expressing what I do. By asking questions I help recruiters learn about me and in turn learn what is important to them. It was more in reference to my own practice. But that is a sign you took it so personally ;) What is your experience with recruiting software?",
+    "time": "2017-10-18T00:28:00.000Z",
+    "title": "wizard"
+  }
+]

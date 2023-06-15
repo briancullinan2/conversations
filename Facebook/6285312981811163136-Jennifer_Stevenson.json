@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6285312981811163136/",
+    "participants": [
+        {
+            "name": "Jennifer Stevenson",
+            "title": "IT Manager at Arizona Dept. of Transportation",
+            "url": "linkedin.com/in/jennifer-stevenson-bb9858a1",
+            "phone": "",
+            "email": "jstevenson@azdot.gov"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-06-27T03:49:00.000Z",
+            "message": "Where do I report a missing street sign at the intersection of 32nd and Camelback?\n"
+        },
+        {
+            "from": "Jennifer Stevenson",
+            "time": "2017-06-27T14:34:00.000Z",
+            "message": "You can send an email to azdot.gov.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-27T17:22:00.000Z",
+            "message": "I sent one before for too short traffic lights and never got a response. California gave up 6 mil in red light tickets by making the yellow light a half a second longer. Source: http://www.laweekly.com/news/yay-longer-yellow-traffic-light-phases-now-required-by-caltrans-5275044\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-27T17:22:00.000Z",
+            "message": "What do you think?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-27T17:22:00.000Z",
+            "message": "Will the city get that money back because people will be safer and less stressed? Hard to measure.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-27T17:22:00.000Z",
+            "message": "Will the city get that money back because people will be safer and less stressed? Hard to measure.\n"
+        }
+    ]
+}

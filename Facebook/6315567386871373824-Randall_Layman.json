@@ -1,0 +1,49 @@
+{
+    "thread": "/messaging/thread/6315567386871373824/",
+    "participants": [
+        {
+            "name": "Randall Layman",
+            "title": "Account Manager at TekStream Solutions",
+            "url": "linkedin.com/in/randalllayman",
+            "phone": null,
+            "email": "Randall.Layman@TekStream.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-09-18T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Weird first message didn't go through.  Please tell me you have something for me to do with some level of job satisfaction?",
+            "time": "2017-10-12T15:31:00.000Z"
+        },
+        {
+            "from": "Randall Layman",
+            "message": "",
+            "time": "2017-10-12T16:44:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I don't know how to enter project managements.  I'm tired of doing the same thing every day but I'd rather provide knowledge and guidance to a more inexperienced work force.  I've worked for startups, but they don't cover health, so something in between start-up and also having a budget?",
+            "time": "2017-10-12T16:44:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "For example.  I'm tired of companies having meetings that I find interesting without me.  I was hired specifically to work on the design of the new product store, but my boss just updated he will be offsite working with the design firm today.  That sounds fun and a break from the usual, but I was not included.",
+            "time": "2017-10-12T16:44:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Usually I am happy when my managers have meetings because I can get work done.  But this is specifically the project I was interested in, and I always come in behind someone else.  They won't have the bandwidth or the confidence to make me a manager of projects like this for years.  I want to be a manager before age 40, but someone else always comes in ahead of me.",
+            "time": "2017-10-12T16:44:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I've also read HIPAA and CFR 21 Part 11, and PCI-DSS.",
+            "time": "2017-10-12T17:53:00.000Z"
+        }
+    ]
+}

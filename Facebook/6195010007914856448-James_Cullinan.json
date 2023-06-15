@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6195010007914856448/",
+    "participants": [
+        {
+            "name": "James Cullinan",
+            "title": "CEO at National Sign Systems, Inc.",
+            "url": "linkedin.com/in/james-cullinan-9654a223",
+            "phone": "",
+            "email": "jim.cullinan@natsignsys.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-10-20T23:18:00.000Z",
+            "message": "Thanks for endorsing me for Programming!\n"
+        },
+        {
+            "from": "James Cullinan",
+            "time": "2017-03-09T12:20:00.000Z",
+            "message": "Congrats on the new job! Well done.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-09T13:55:00.000Z",
+            "message": "Thank you!\n"
+        },
+        {
+            "from": "James Cullinan",
+            "time": "2017-05-16T22:27:00.000Z",
+            "message": "Does your wand have a glowing tip?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-16T22:35:00.000Z",
+            "message": "I have a staff like gandalf.\n"
+        }
+    ]
+}

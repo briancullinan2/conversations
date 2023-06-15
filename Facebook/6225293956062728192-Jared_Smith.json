@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6225293956062728192/",
+    "participants": [
+        {
+            "name": "Jared Smith",
+            "title": "CEO - Partner at bluemedia",
+            "url": "linkedin.com/in/jared-smith-9b58873",
+            "phone": null,
+            "email": "jared.smith@bluemedia.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-12T12:55:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "thread": "/messaging/thread/6269903571270062080/",
+    "participants": [
+        {
+            "name": "Jared Cormier",
+            "title": "Why do the same thing more than once?",
+            "url": "linkedin.com/in/jared-cormier-87b7b59",
+            "phone": "",
+            "email": "jared.cormier@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-05-15T15:18:00.000Z",
+            "message": "Do you find with the school and Swiftpage you end up working like 80 hours per week?\n"
+        },
+        {
+            "from": "Jared Cormier",
+            "time": "2017-05-18T15:22:00.000Z",
+            "message": "Something like that, probably more\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-18T15:24:00.000Z",
+            "message": "http://www.businessinsider.com/malcolm-gladwell-explains-the-10000-hour-rule-2014-6\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-18T15:24:00.000Z",
+            "message": "That means 5k-6k hours per year working on your craft ;)\n"
+        },
+        {
+            "from": "Jared Cormier",
+            "time": "2017-05-18T15:26:00.000Z",
+            "message": "Lol, yea, but it's 5 or 6 different hats...\n"
+        },
+        {
+            "from": "Jared Cormier",
+            "time": "2017-05-18T15:26:00.000Z",
+            "message": "The school is more security and network management, here is QA project management and system automation\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-18T15:27:00.000Z",
+            "message": "If there is anything I can help with in QA let me know. :)\n"
+        },
+        {
+            "from": "Jared Cormier",
+            "time": "2017-05-18T18:38:00.000Z",
+            "message": "Will do, appreciate it\n"
+        }
+    ]
+}

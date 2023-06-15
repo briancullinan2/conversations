@@ -1,0 +1,54 @@
+<session type="Start" time="1085042710" medium="AIM" from="BrianJCullinan" to="jazzsax8402"/>
+<message type="incoming_privateMessage" time="1085042710" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="hey%20dude"/>
+<message type="incoming_privateMessage" time="1085042710" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="test%20this%20for%20me%20%3Ca%20href%3D%22http%3A%2F%2Fpprnkweb%2Eno%2Dip%2Ecom%22%3Ehttp%3A%2F%2Fpprnkweb%2Eno%2Dip%2Ecom%3C%2Fa%3E"/>
+<message type="outgoing_privateMessage" time="1085042710" medium="AIM" to="jazzsax8402" from="BrianJCullinan" text="doesn%27t%20work"/>
+<message type="incoming_privateMessage" time="1085042710" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="dame"/>
+<message type="incoming_privateMessage" time="1085042710" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="for%20some%20reson%20my%20server%20is%20not%20being%20seen%20beyond%20the%20server"/>
+<message type="incoming_privateMessage" time="1085042710" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="you%20know%20anythign%20about%20servers"/>
+<message type="outgoing_privateMessage" time="1085042710" medium="AIM" to="jazzsax8402" from="BrianJCullinan" text="not%20much"/>
+<message type="outgoing_privateMessage" time="1085042710" medium="AIM" to="jazzsax8402" from="BrianJCullinan" text="firewall%20problem%3F"/>
+<message type="outgoing_privateMessage" time="1085042710" medium="AIM" to="jazzsax8402" from="BrianJCullinan" text="oh%20wait"/>
+<message type="outgoing_privateMessage" time="1085042710" medium="AIM" to="jazzsax8402" from="BrianJCullinan" text="your%20using%20no%2Dip"/>
+<message type="incoming_privateMessage" time="1085042710" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="yeah"/>
+<message type="outgoing_privateMessage" time="1085042710" medium="AIM" to="jazzsax8402" from="BrianJCullinan" text="i%20tried%20that%2C%20i%20think%20it%20is%20only%20for%20dsl%20users"/>
+<message type="outgoing_privateMessage" time="1085042710" medium="AIM" to="jazzsax8402" from="BrianJCullinan" text="collaged%20have%20t1"/>
+<message type="incoming_privateMessage" time="1085042710" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="hmm"/>
+<message type="incoming_privateMessage" time="1085042710" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="im%20learning%20as%20I%20go"/>
+<message type="incoming_privateMessage" time="1085042710" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="its%20weird%2C%20I%20can%20view%20it%20with%20every%20computer%20in%20the%20house%2C%20but%20beyond%20the%20router%20its%20fucked"/>
+<message type="incoming_privateMessage" time="1085042710" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="did%20you%20use%20IIS"/>
+<message type="outgoing_privateMessage" time="1085042710" medium="AIM" to="jazzsax8402" from="BrianJCullinan" text="i%20never%20got%20no%2Dip%20to%20work"/>
+<message type="incoming_privateMessage" time="1085042710" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="oh%20ok"/>
+<message type="incoming_privateMessage" time="1085042710" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="Cox%20got%20me%20this%20far%2C%20maybe%20they%20can%20get%20me%20farther"/>
+<message type="outgoing_privateMessage" time="1085042710" medium="AIM" to="jazzsax8402" from="BrianJCullinan" text="if%20you%20have%20a%20firewall%20put%20a%20user%20and%20password%20protocalls%20in%20that%2C%20then%20give%20the%20outside%20user%20permissions%20to%20access%20it"/>
+<message type="incoming_privateMessage" time="1085042710" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="well%2C%20what%20I%20have%20done%20is%20ever%20user%20frm%20te%20outside%20is%20automatically%20give%20a%20access%20with%20limited%20acess"/>
+<message type="outgoing_privateMessage" time="1085042710" medium="AIM" to="jazzsax8402" from="BrianJCullinan" text="sounds%20good"/>
+<message type="incoming_privateMessage" time="1085042710" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="but%20its%20not%20workin"/>
+<session type="Stop" time="1085044796" medium="AIM" from="BrianJCullinan" to="jazzsax8402"/>
+<session type="Start" time="1085182156" medium="AIM" from="BrianJCullinan" to="jazzsax8402"/>
+<message type="incoming_privateMessage" time="1085182156" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="dude%2C%20I%20got%20it%20workin"/>
+<message type="incoming_privateMessage" time="1085182156" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="Cox%20blocks%20port%2080"/>
+<message type="outgoing_privateMessage" time="1085182156" medium="AIM" to="jazzsax8402" from="BrianJCullinan" text="cool"/>
+<message type="incoming_privateMessage" time="1085182156" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="so%20if%20you%20feel%20like%20doing%20it%2C%20do%20a%20port%2080%20re%2Ddirect"/>
+<message type="outgoing_privateMessage" time="1085182156" medium="AIM" to="jazzsax8402" from="BrianJCullinan" text="ok"/>
+<message type="incoming_privateMessage" time="1085182156" medium="AIM" to="BrianJCullinan" from="jazzsax8402" text="also%20might%20want%20to%20mask%20you%20rip%20address%20as%20well"/>
+<message type="outgoing_privateMessage" time="1085182156" medium="AIM" to="jazzsax8402" from="BrianJCullinan" text="ok"/>
+<session type="Stop" time="1085184427" medium="AIM" from="BrianJCullinan" to="jazzsax8402"/>
+<session type="start" time="1128049197" medium="AIM" to="jazzsax8402" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1128049197" medium="AIM" to="BrianJCullinan" from="jazzsax8402" from_display="Paul" text="do%20you%20know%20any%20sql%20code%3F"/>
+<message type="outgoing_privateMessage" time="1128049435" medium="AIM" to="jazzsax8402" from="BrianJCullinan" from_display="Me" text="some"/>
+<message type="incoming_privateMessage" time="1128049461" medium="AIM" to="BrianJCullinan" from="jazzsax8402" from_display="Paul" text="i%20am%20coming%20up%20with%20an%20error%20in%20my%20create%20table%20script"/>
+<message type="outgoing_privateMessage" time="1128049468" medium="AIM" to="jazzsax8402" from="BrianJCullinan" from_display="Me" text="what%20is%20it%3F"/>
+<message type="incoming_privateMessage" time="1128049501" medium="AIM" to="BrianJCullinan" from="jazzsax8402" from_display="Paul" text="%231064%20%2D%20You%20have%20an%20error%20in%20your%20SQL%20syntax%2E%20%20Check%20the%20manual%20that%20corresponds%20to%20your%20MySQL%20server%20version%20for%20the%20right%20syntax%20to%20use%20near%20%27%28%2020%20%20%29%20%2C%20%0A%20%20%60RANGE%60%20VARCHAR%28%2080%20%20%29%20%2C%20%0A%20%20%60DAYTIME%60%20VARCHAR%28%2010%20%20%29%20%2C%20%0A%20"/>
+<message type="outgoing_privateMessage" time="1128049560" medium="AIM" to="jazzsax8402" from="BrianJCullinan" from_display="Me" text="did%20you%20check%20the%20manual%3F"/>
+<message type="incoming_privateMessage" time="1128049572" medium="AIM" to="BrianJCullinan" from="jazzsax8402" from_display="Paul" text="i%20dont%20understand%20it%20lol"/>
+<message type="outgoing_privateMessage" time="1128049576" medium="AIM" to="jazzsax8402" from="BrianJCullinan" from_display="Me" text="oh"/>
+<message type="outgoing_privateMessage" time="1128049591" medium="AIM" to="jazzsax8402" from="BrianJCullinan" from_display="Me" text="use%20google%20for%20finding%20the%20same%20type%20of%20thing%20you%20are%20doing"/>
+<message type="incoming_privateMessage" time="1128049605" medium="AIM" to="BrianJCullinan" from="jazzsax8402" from_display="Paul" text="ok"/>
+<message type="outgoing_privateMessage" time="1128049650" medium="AIM" to="jazzsax8402" from="BrianJCullinan" from_display="Me" text="hey%20where%20are%20you%20going%20to%20school%3F"/>
+<message type="incoming_privateMessage" time="1128049666" medium="AIM" to="BrianJCullinan" from="jazzsax8402" from_display="Paul" text="MCC%20and%20SCC"/>
+<message type="outgoing_privateMessage" time="1128049672" medium="AIM" to="jazzsax8402" from="BrianJCullinan" from_display="Me" text="mcc%3F"/>
+<message type="incoming_privateMessage" time="1128049677" medium="AIM" to="BrianJCullinan" from="jazzsax8402" from_display="Paul" text="Mesa"/>
+<message type="outgoing_privateMessage" time="1128049681" medium="AIM" to="jazzsax8402" from="BrianJCullinan" from_display="Me" text="oh"/>
+<message type="outgoing_privateMessage" time="1128049682" medium="AIM" to="jazzsax8402" from="BrianJCullinan" from_display="Me" text="cool"/>
+<session type="stop" time="1128050983" medium="AIM" to="jazzsax8402" from="BrianJCullinan"/>
+<icon time="1131818445" medium="AIM" from="jazzsax8402" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2Djazzsax8402%2D1131818444%2Ejpg"/>

@@ -1,0 +1,776 @@
+[
+    {
+        "resourceName": "people/c4223308648778642074",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgxBM3c5Q1ppMVRyMD0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3a9c34d70b49329a"
+                    }
+                },
+                "displayName": "Mr. Timothy Bangert",
+                "familyName": "Bangert",
+                "givenName": "Timothy",
+                "honorificPrefix": "Mr",
+                "displayNameLastFirst": "Bangert, Mr Timothy"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3a9c34d70b49329a"
+                    }
+                },
+                "value": "tbangert@wowway.com",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3a9c34d70b49329a"
+                    }
+                },
+                "value": "(614) 761-7473",
+                "canonicalForm": "+16147617473",
+                "type": "work",
+                "formattedType": "Work"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3a9c34d70b49329a"
+                    }
+                },
+                "value": "+1-614-777-8323",
+                "canonicalForm": "+16147778323",
+                "type": "home",
+                "formattedType": "Home"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3a9c34d70b49329a"
+                    }
+                },
+                "value": "(614) 657-3063",
+                "canonicalForm": "+16146573063",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "15 Mutual Connections",
+                "You and Tim both know Steve McVey, James Jacob, and 13 others"
+            ],
+            [
+                "Tim can introduce you to 5 people at OpenText",
+                "Tim worked at OpenText"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "IT Business Relationship Manager",
+                "Company Name",
+                "OhioHealth",
+                "Dates Employed",
+                "Oct 2014 – Present",
+                "Employment Duration",
+                "3 yrs 1 mo",
+                "Act as primary IT liaison by fostering and maintaining ongoing communication between business units and Information Services."
+            ],
+            [
+                "Founder | Customer Relationship Advisor | Account Manager",
+                "Company Name",
+                "Catalyst Technology Solutions",
+                "Dates Employed",
+                "Sep 2009 – Sep 2014",
+                "Employment Duration",
+                "5 yrs 1 mo",
+                "New Business Development | Needs Analysis | Account Management | Technical Training | End-User SupportCultivated new relationships—through outreach within the small business community—assisting clients in establishing technology infrastructures; setting up networks; and troubleshooting hardware, application, and connectivity issues. Assessed organizational needs, presented technology solutions, and offered ideas and recommendations to streamline operations."
+            ],
+            [
+                "Executive Director, CHTS-PW",
+                "Company Name",
+                "COHIE, Inc (Central Ohio Health Information Exchange)",
+                "Dates Employed",
+                "May 2012 – Jul 2014",
+                "Employment Duration",
+                "2 yrs 3 mos",
+                "Location",
+                "Columbus, Ohio Area",
+                "Organizational Leadership | P&L Management | Strategic Planning | Vendor Management | Forecasting & BudgetingLed the delivery of $4.5M+ in federally funded professional services, advancing the implementation of certified electronic health records, and enabling 1,350+ Central Ohio primary care providers to qualify for the Center of Medicare and Medicaid Services’ “Meaningful Use” objectives. Partnered with large hospital networks and primary care groups to assist in meeting compliance targets, educating stakeholders to secure buy-in and technology adoption. Managed a team of administrative support specialists and external resources engaged in the development of marketing materials and client collateral."
+            ],
+            [
+                "Senior Program Manager",
+                "Company Name",
+                "Pinnacle Data Systems, Inc.",
+                "Dates Employed",
+                "Jan 2008 – Jun 2009",
+                "Employment Duration",
+                "1 yr 6 mos",
+                "Project Management | Key Account Support | Continuous Process Improvement | Cost Containment | QualityHeld accountability for the quality, on-time, and cost-effective delivery of customers’ projects / programs—annual revenue of $16M—ensuring customers’ needs were met and working with internal and external stakeholders to troubleshoot issues. Served as the single point of contact for customers, coordinating schedules, resources, quality, contract execution, and customer service. Partnered with key accounts including Sun / Xerox, Siemens, Data Connections, and Real Networks."
+            ],
+            [
+                "Hardware Configuration Leader",
+                "Company Name",
+                "Ohio Attorney General's Office",
+                "Dates Employed",
+                "Jun 2003 – Dec 2007",
+                "Employment Duration",
+                "4 yrs 7 mos",
+                "End-User Support | Technical TroubleshootingStandardized systems to increase efficiencies and productivity, managing the technology needs of 1,200 customers. Scheduled, ordered, and implemented desktops and laptops for the entire staff, deploying the latest technologies to improve operational effectiveness."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Denison University",
+                "Degree Name",
+                "Bachelor's Degree",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "1987 – 1991",
+                "Activities and Societies:",
+                "Lambda Chi Alpha"
+            ],
+            [
+                "Denison University",
+                "Degree Name",
+                "Bachelor's Degree",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "1987 – 1991",
+                "Activities and Societies:",
+                "Lambda Chi Alpha"
+            ],
+            [
+                "Columbus State Community College",
+                "Dates attended or expected graduation",
+                "2012 – 2012",
+                "CHTS-PWCertified Healthcare Technology Specialist - Practice Workflow & Information Management Redesign"
+            ],
+            [
+                "Columbus State Community College",
+                "Dates attended or expected graduation",
+                "2012 – 2012",
+                "CHTS-PWCertified Healthcare Technology Specialist - Practice Workflow & Information Management Redesign"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "LinkedWorking Columbus",
+                "3,758 members"
+            ],
+            [
+                "Ohio State Medical Association",
+                "739 followers"
+            ],
+            [
+                "Columbus, Ohio Technology Professional's",
+                "8,145 members"
+            ],
+            [
+                "Ability Professional Network",
+                "267 members"
+            ],
+            [
+                "Columbus State Community College",
+                "50,012 followers"
+            ],
+            [
+                "Account Manager Group - Sales Executives and Management",
+                "257,316 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (445)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "LinkedWorking Columbus",
+                "3,758 members"
+            ],
+            [
+                "LinkedWorking Columbus",
+                "3,758 members"
+            ],
+            [
+                "Ohio State Medical Association",
+                "739 followers"
+            ],
+            [
+                "Ohio State Medical Association",
+                "739 followers"
+            ],
+            [
+                "Columbus, Ohio Technology Professional's",
+                "8,145 members"
+            ],
+            [
+                "Columbus, Ohio Technology Professional's",
+                "8,145 members"
+            ],
+            [
+                "Ability Professional Network",
+                "267 members"
+            ],
+            [
+                "Ability Professional Network",
+                "267 members"
+            ],
+            [
+                "Columbus State Community College",
+                "50,012 followers"
+            ],
+            [
+                "Columbus State Community College",
+                "50,012 followers"
+            ],
+            [
+                "Account Manager Group - Sales Executives and Management",
+                "257,316 members"
+            ],
+            [
+                "Account Manager Group - Sales Executives and Management",
+                "257,316 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "David Warner",
+                "Major Account Executive - Civilian Agencies at AvePoint Public Sector",
+                "May 13, 2014, Tim worked with David in the same group",
+                "I thoroughly enjoyed working together with Tim and whole-heartedly recommend him. We were a very successful, quota achieving Sales/System Engineer team during our tenure together. Tim is a technical professional and customers absolutely love and trust him. He will stay on the case or even onsite until the job is done and the customer is happy. He has a great combination of technical, management and people skills that would be a true asset to any organization."
+            ],
+            [
+                "David Warner",
+                "Major Account Executive - Civilian Agencies at AvePoint Public Sector",
+                "May 13, 2014, Tim worked with David in the same group"
+            ],
+            [
+                "David Warner",
+                "Major Account Executive - Civilian Agencies at AvePoint Public Sector",
+                "May 13, 2014, Tim worked with David in the same group"
+            ],
+            [
+                "David Warner",
+                "Major Account Executive - Civilian Agencies at AvePoint Public Sector",
+                "May 13, 2014, Tim worked with David in the same group"
+            ],
+            "Major Account Executive - Civilian Agencies at AvePoint Public Sector",
+            [
+                "I thoroughly enjoyed working together with Tim and whole-heartedly recommend him. We were a very successful, quota achieving Sales/System Engineer team during our tenure together. Tim is a technical professional and customers absolutely love and trust him. He will stay on the case or even onsite until the job is done and the customer is happy. He has a great combination of technical, management and people skills that would be a true asset to any organization."
+            ],
+            [
+                "I thoroughly enjoyed working together with Tim and whole-heartedly recommend him. We were a very successful, quota achieving Sales/System Engineer team during our tenure together. Tim is a technical professional and customers absolutely love and trust him. He will stay on the case or even onsite until the job is done and the customer is happy. He has a great combination of technical, management and people skills that would be a true asset to any organization."
+            ],
+            [
+                "Mark Vaas",
+                "Broker - Life, Disability, Annuities and Health (see summary below)",
+                "April 25, 2012, Mark was a client of Tim’s",
+                "I hired Tim after I purchased a new Dell Studio PC with all the wing-dings, and after a few months it worked HORRIBLY.  I had the Dell warranty, but that proved only to be good for hardware.  Tim, took my PC for a couple of days, and did MAGIC to it.  Everything that I was having problems with were solved.  His fee was modest, and my angst was 100% relieved.  I've used him since to design two web sites, and again, he was creative, good at tweaking and improving things immediately, and responsive.  I've referred him to others and the feedback from them has always been, \"Where's this guy been all my life?!!!   If you need ANYTHING dealing with computers, this is your man.  NO JOKE!"
+            ],
+            [
+                "Mark Vaas",
+                "Broker - Life, Disability, Annuities and Health (see summary below)",
+                "April 25, 2012, Mark was a client of Tim’s"
+            ],
+            [
+                "Mark Vaas",
+                "Broker - Life, Disability, Annuities and Health (see summary below)",
+                "April 25, 2012, Mark was a client of Tim’s"
+            ],
+            [
+                "Mark Vaas",
+                "Broker - Life, Disability, Annuities and Health (see summary below)",
+                "April 25, 2012, Mark was a client of Tim’s"
+            ],
+            "Broker - Life, Disability, Annuities and Health (see summary below)",
+            [
+                "I hired Tim after I purchased a new Dell Studio PC with all the wing-dings, and after a few months it worked HORRIBLY.  I had the Dell warranty, but that proved only to be good for hardware.  Tim, took my PC for a couple of days, and did MAGIC to it.  Everything that I was having problems with were solved.  His fee was modest, and my angst was 100% relieved.  I've used him since to design two web sites, and again, he was creative, good at tweaking and improving things immediately, and responsive.  I've referred him to others and the feedback from them has always been, \"Where's this guy been all my life?!!!   If you need ANYTHING dealing with computers, this is your man.  NO JOKE!"
+            ],
+            [
+                "I hired Tim after I purchased a new Dell Studio PC with all the wing-dings, and after a few months it worked HORRIBLY.  I had the Dell warranty, but that proved only to be good for hardware.  Tim, took my PC for a couple of days, and did MAGIC to it.  Everything that I was having problems with were solved.  His fee was modest, and my angst was 100% relieved.  I've used him since to design two web sites, and again, he was creative, good at tweaking and improving things immediately, and responsive.  I've referred him to others and the feedback from them has always been, \"Where's this guy been all my life?!!!   If you need ANYTHING dealing with computers, this is your man.  NO JOKE!"
+            ],
+            [
+                "Karin Combs",
+                "Principal Consultant at Aasonn",
+                "March 14, 2010, Karin was a client of Tim’s",
+                "I contracted with Tim Bangert in October, 2009 to help me identify what may be the cause of my business computer slowing down and what recommendations he had to speed it up. He gave me a checklist that was clearer than I’ve ever received before and I’ve had my own business computers for over 10 years. He included links for system checks over the internet, support link for product pricing, leading into my eventual purchase. He even included a copy of the appropriate service manual page for installing the product I needed to purchase, which was not lengthy at all and easy to understand. I feel totally confident in my decision due to his expertise and the best news yet – it was inexpensive. I would highly recommend Tim Bangert to anyone who needs service or product repair for software and hardware concerns. I will be a returning customer and avid referral."
+            ],
+            [
+                "Karin Combs",
+                "Principal Consultant at Aasonn",
+                "March 14, 2010, Karin was a client of Tim’s"
+            ],
+            [
+                "Karin Combs",
+                "Principal Consultant at Aasonn",
+                "March 14, 2010, Karin was a client of Tim’s"
+            ],
+            [
+                "Karin Combs",
+                "Principal Consultant at Aasonn",
+                "March 14, 2010, Karin was a client of Tim’s"
+            ],
+            "Principal Consultant at Aasonn",
+            [
+                "I contracted with Tim Bangert in October, 2009 to help me identify what may be the cause of my business computer slowing down and what recommendations he had to speed it up. He gave me a checklist that was clearer than I’ve ever received before and I’ve had my own business computers for over 10 years. He included links for system checks over the internet, support link for product pricing, leading into my eventual purchase. He even included a copy of the appropriate service manual page for installing the product I needed to purchase, which was not lengthy at all and easy to understand. I feel totally confident in my decision due to his expertise and the best news yet – it was inexpensive. I would highly recommend Tim Bangert to anyone who needs service or product repair for software and hardware concerns. I will be a returning customer and avid referral."
+            ],
+            [
+                "I contracted with Tim Bangert in October, 2009 to help me identify what may be the cause of my business computer slowing down and what recommendations he had to speed it up. He gave me a checklist that was clearer than I’ve ever received before and I’ve had my own business computers for over 10 years. He included links for system checks over the internet, support link for product pricing, leading into my eventual purchase. He even included a copy of the appropriate service manual page for installing the product I needed to purchase, which was not lengthy at all and easy to understand. I feel totally confident in my decision due to his expertise and the best news yet – it was inexpensive. I would highly recommend Tim Bangert to anyone who needs service or product repair for software and hardware concerns. I will be a returning customer and avid referral."
+            ],
+            [
+                "Sean Williams",
+                "General Manager at Clayton Homes, A Berkshire Hathaway Company",
+                "March 10, 2010, Sean was a client of Tim’s",
+                "I highly recommend Tim Bangert of Catalyst Technology Solutions! He is a true professional that made on of our most recent projects a breeze. Tim brings big business action to small business and delivers. I can’t say enough about my experience with his company."
+            ],
+            [
+                "Sean Williams",
+                "General Manager at Clayton Homes, A Berkshire Hathaway Company",
+                "March 10, 2010, Sean was a client of Tim’s"
+            ],
+            [
+                "Sean Williams",
+                "General Manager at Clayton Homes, A Berkshire Hathaway Company",
+                "March 10, 2010, Sean was a client of Tim’s"
+            ],
+            [
+                "Sean Williams",
+                "General Manager at Clayton Homes, A Berkshire Hathaway Company",
+                "March 10, 2010, Sean was a client of Tim’s"
+            ],
+            "General Manager at Clayton Homes, A Berkshire Hathaway Company",
+            [
+                "I highly recommend Tim Bangert of Catalyst Technology Solutions! He is a true professional that made on of our most recent projects a breeze. Tim brings big business action to small business and delivers. I can’t say enough about my experience with his company."
+            ],
+            [
+                "I highly recommend Tim Bangert of Catalyst Technology Solutions! He is a true professional that made on of our most recent projects a breeze. Tim brings big business action to small business and delivers. I can’t say enough about my experience with his company."
+            ],
+            [
+                "Andy N.",
+                "Sales Director at Starfish & Associates",
+                "October 5, 2009, Tim worked with Andy in the same group",
+                "When you work with Tim expect at least two beneficial outcomes.  The first is that job gets done beating expectations for quality and professionalism.  The second is that you enjoy the experience because of his outlook and genuine caring for people."
+            ],
+            [
+                "Andy N.",
+                "Sales Director at Starfish & Associates",
+                "October 5, 2009, Tim worked with Andy in the same group"
+            ],
+            [
+                "Andy N.",
+                "Sales Director at Starfish & Associates",
+                "October 5, 2009, Tim worked with Andy in the same group"
+            ],
+            [
+                "Andy N.",
+                "Sales Director at Starfish & Associates",
+                "October 5, 2009, Tim worked with Andy in the same group"
+            ],
+            "Sales Director at Starfish & Associates",
+            [
+                "When you work with Tim expect at least two beneficial outcomes.  The first is that job gets done beating expectations for quality and professionalism.  The second is that you enjoy the experience because of his outlook and genuine caring for people."
+            ],
+            [
+                "When you work with Tim expect at least two beneficial outcomes.  The first is that job gets done beating expectations for quality and professionalism.  The second is that you enjoy the experience because of his outlook and genuine caring for people."
+            ],
+            [
+                "Tim Hollingsworth",
+                "RoundTower Technologies - Senior Sales Executive",
+                "July 17, 2009, Tim was senior to Tim but didn’t manage directly",
+                "I worked directly with Tim on some very high profile and challenging accounts at PDSi and he really stepped up to the challenge.  He quickly gained the respect of our clients and the entire team through his professionalism, preparation and work ethic.  Tim has the business acumen to handle all kinds of situations, assess challenges and develop solutions.  I’ve found Tim to be open, honest and trustworthy and give Tim my highest recommendation and would be pleased to discuss his qualifications.    Tim HollingsworthPinnacle Data Systems, Inc.Director of Sales"
+            ],
+            [
+                "Tim Hollingsworth",
+                "RoundTower Technologies - Senior Sales Executive",
+                "July 17, 2009, Tim was senior to Tim but didn’t manage directly"
+            ],
+            [
+                "Tim Hollingsworth",
+                "RoundTower Technologies - Senior Sales Executive",
+                "July 17, 2009, Tim was senior to Tim but didn’t manage directly"
+            ],
+            [
+                "Tim Hollingsworth",
+                "RoundTower Technologies - Senior Sales Executive",
+                "July 17, 2009, Tim was senior to Tim but didn’t manage directly"
+            ],
+            "RoundTower Technologies - Senior Sales Executive ",
+            [
+                "I worked directly with Tim on some very high profile and challenging accounts at PDSi and he really stepped up to the challenge.  He quickly gained the respect of our clients and the entire team through his professionalism, preparation and work ethic.  Tim has the business acumen to handle all kinds of situations, assess challenges and develop solutions.  I’ve found Tim to be open, honest and trustworthy and give Tim my highest recommendation and would be pleased to discuss his qualifications.    Tim HollingsworthPinnacle Data Systems, Inc.Director of Sales"
+            ],
+            [
+                "I worked directly with Tim on some very high profile and challenging accounts at PDSi and he really stepped up to the challenge.  He quickly gained the respect of our clients and the entire team through his professionalism, preparation and work ethic.  Tim has the business acumen to handle all kinds of situations, assess challenges and develop solutions.  I’ve found Tim to be open, honest and trustworthy and give Tim my highest recommendation and would be pleased to discuss his qualifications.    Tim HollingsworthPinnacle Data Systems, Inc.Director of Sales"
+            ],
+            [
+                "Julie Eikenberry CPA",
+                "CFO at Columbus School for Girls",
+                "March 24, 2014, Tim was a client of Julie’s",
+                "I had the pleasure of working with and learning from Julie as she provided financial accounting services through our relationship between the CMAF and COHIE. Her financial reporting strength and expertise including cash flow management and tax/audit preparation was a key part of our success. Personally, her patience in explaining the details and working through the numerous requests and scenarios is greatly appreciated."
+            ],
+            [
+                "Julie Eikenberry CPA",
+                "CFO at Columbus School for Girls",
+                "March 24, 2014, Tim was a client of Julie’s"
+            ],
+            [
+                "Julie Eikenberry CPA",
+                "CFO at Columbus School for Girls",
+                "March 24, 2014, Tim was a client of Julie’s"
+            ],
+            [
+                "Julie Eikenberry CPA",
+                "CFO at Columbus School for Girls",
+                "March 24, 2014, Tim was a client of Julie’s"
+            ],
+            "CFO at Columbus School for Girls",
+            [
+                "I had the pleasure of working with and learning from Julie as she provided financial accounting services through our relationship between the CMAF and COHIE. Her financial reporting strength and expertise including cash flow management and tax/audit preparation was a key part of our success. Personally, her patience in explaining the details and working through the numerous requests and scenarios is greatly appreciated."
+            ],
+            [
+                "I had the pleasure of working with and learning from Julie as she provided financial accounting services through our relationship between the CMAF and COHIE. Her financial reporting strength and expertise including cash flow management and tax/audit preparation was a key part of our success. Personally, her patience in explaining the details and working through the numerous requests and scenarios is greatly appreciated."
+            ],
+            [
+                "Andy N.",
+                "Sales Director at Starfish & Associates",
+                "October 5, 2009, Andy worked with Tim in the same group",
+                "Andy sets an example for others in terms of professionalism and work ethic.  He is a detail-oriented sales professional with the ability to thoroughly explain the business value of the solutions he is presenting to his clients. Having worked on the same team with Andy I can say that he is able to build win-win relationships at all levels of an organization.  He will be an outstanding member of any team of which he is a part."
+            ],
+            [
+                "Andy N.",
+                "Sales Director at Starfish & Associates",
+                "October 5, 2009, Andy worked with Tim in the same group"
+            ],
+            [
+                "Andy N.",
+                "Sales Director at Starfish & Associates",
+                "October 5, 2009, Andy worked with Tim in the same group"
+            ],
+            [
+                "Andy N.",
+                "Sales Director at Starfish & Associates",
+                "October 5, 2009, Andy worked with Tim in the same group"
+            ],
+            "Sales Director at Starfish & Associates",
+            [
+                "Andy sets an example for others in terms of professionalism and work ethic.  He is a detail-oriented sales professional with the ability to thoroughly explain the business value of the solutions he is presenting to his clients. Having worked on the same team with Andy I can say that he is able to build win-win relationships at all levels of an organization.  He will be an outstanding member of any team of which he is a part."
+            ],
+            [
+                "Andy sets an example for others in terms of professionalism and work ethic.  He is a detail-oriented sales professional with the ability to thoroughly explain the business value of the solutions he is presenting to his clients. Having worked on the same team with Andy I can say that he is able to build win-win relationships at all levels of an organization.  He will be an outstanding member of any team of which he is a part."
+            ]
+        ],
+        "skills": [
+            [
+                "Networking",
+                "See 20 endorsements for Networking",
+                "20",
+                "Networking",
+                "Endorse",
+                "Endorsed by Linda McVey and 2 other mutual connections",
+                "Endorsed by 2 of Tim’s colleagues at OpenText"
+            ],
+            [
+                "Networking",
+                "See 20 endorsements for Networking",
+                "20"
+            ],
+            [
+                "Entrepreneurship",
+                "See 14 endorsements for Entrepreneurship",
+                "14",
+                "Entrepreneurship",
+                "Endorse",
+                "Endorsed by Linda McVey (mutual connection)",
+                "Endorsed by 2 of Tim’s colleagues at Information Dimensions Inc"
+            ],
+            [
+                "Entrepreneurship",
+                "See 14 endorsements for Entrepreneurship",
+                "14"
+            ],
+            [
+                "Information Technology",
+                "See 19 endorsements for Information Technology",
+                "19",
+                "Information Technology",
+                "Endorse",
+                "Endorsed by Linda McVey (mutual connection)",
+                "Endorsed by 2 of Tim’s colleagues at Pinnacle Data Systems"
+            ],
+            [
+                "Information Technology",
+                "See 19 endorsements for Information Technology",
+                "19"
+            ],
+            [
+                "Leadership",
+                "See 21 endorsements for Leadership",
+                "21",
+                "Leadership",
+                "Endorse"
+            ],
+            [
+                "Leadership",
+                "See 21 endorsements for Leadership",
+                "21"
+            ],
+            [
+                "Program Management",
+                "See 21 endorsements for Program Management",
+                "21",
+                "Program Management",
+                "Endorse"
+            ],
+            [
+                "Program Management",
+                "See 21 endorsements for Program Management",
+                "21"
+            ],
+            [
+                "Account Management",
+                "See 8 endorsements for Account Management",
+                "8",
+                "Account Management",
+                "Endorse"
+            ],
+            [
+                "Account Management",
+                "See 8 endorsements for Account Management",
+                "8"
+            ],
+            [
+                "Customer Service",
+                "See 11 endorsements for Customer Service",
+                "11",
+                "Customer Service",
+                "Endorse"
+            ],
+            [
+                "Customer Service",
+                "See 11 endorsements for Customer Service",
+                "11"
+            ],
+            [
+                "CRM",
+                "See 12 endorsements for CRM",
+                "12",
+                "CRM",
+                "Endorse"
+            ],
+            [
+                "CRM",
+                "See 12 endorsements for CRM",
+                "12"
+            ],
+            [
+                "Analysis",
+                "See 6 endorsements for Analysis",
+                "6",
+                "Analysis",
+                "Endorse"
+            ],
+            [
+                "Analysis",
+                "See 6 endorsements for Analysis",
+                "6"
+            ],
+            [
+                "Problem Solving",
+                "See 4 endorsements for Problem Solving",
+                "4",
+                "Problem Solving",
+                "Endorse"
+            ],
+            [
+                "Problem Solving",
+                "See 4 endorsements for Problem Solving",
+                "4"
+            ],
+            [
+                "Technology Solutions",
+                "See 3 endorsements for Technology Solutions",
+                "3",
+                "Technology Solutions",
+                "Endorse"
+            ],
+            [
+                "Technology Solutions",
+                "See 3 endorsements for Technology Solutions",
+                "3"
+            ],
+            [
+                "Sales",
+                "See 6 endorsements for Sales",
+                "6",
+                "Sales",
+                "Endorse"
+            ],
+            [
+                "Sales",
+                "See 6 endorsements for Sales",
+                "6"
+            ],
+            [
+                "Customer Relations",
+                "See 2 endorsements for Customer Relations",
+                "2",
+                "Customer Relations",
+                "Endorse"
+            ],
+            [
+                "Customer Relations",
+                "See 2 endorsements for Customer Relations",
+                "2"
+            ],
+            [
+                "Small Business",
+                "See 2 endorsements for Small Business",
+                "2",
+                "Small Business",
+                "Endorse"
+            ],
+            [
+                "Small Business",
+                "See 2 endorsements for Small Business",
+                "2"
+            ],
+            [
+                "Software Documentation",
+                "See 5 endorsements for Software Documentation",
+                "5",
+                "Software Documentation",
+                "Endorse"
+            ],
+            [
+                "Software Documentation",
+                "See 5 endorsements for Software Documentation",
+                "5"
+            ],
+            [
+                "Training",
+                "See 5 endorsements for Training",
+                "5",
+                "Training",
+                "Endorse"
+            ],
+            [
+                "Training",
+                "See 5 endorsements for Training",
+                "5"
+            ],
+            [
+                "Entrepreneur",
+                "See 1 endorsement for Entrepreneur",
+                "1",
+                "Entrepreneur",
+                "Endorse"
+            ],
+            [
+                "Entrepreneur",
+                "See 1 endorsement for Entrepreneur",
+                "1"
+            ],
+            [
+                "IT Solutions",
+                "See 1 endorsement for IT Solutions",
+                "1",
+                "IT Solutions",
+                "Endorse"
+            ],
+            [
+                "IT Solutions",
+                "See 1 endorsement for IT Solutions",
+                "1"
+            ],
+            [
+                "Marketing",
+                "See 3 endorsements for Marketing",
+                "3",
+                "Marketing",
+                "Endorse"
+            ],
+            [
+                "Marketing",
+                "See 3 endorsements for Marketing",
+                "3"
+            ],
+            [
+                "Linux",
+                "See 1 endorsement for Linux",
+                "1",
+                "Linux",
+                "Endorse"
+            ],
+            [
+                "Linux",
+                "See 1 endorsement for Linux",
+                "1"
+            ],
+            [
+                "Documentation",
+                "Documentation",
+                "Endorse"
+            ],
+            [
+                "Documentation"
+            ],
+            [
+                "Customer Relationship Management (CRM)",
+                "See 3 endorsements for Customer Relationship Management (CRM)",
+                "3",
+                "Customer Relationship Management (CRM)",
+                "Endorse"
+            ],
+            [
+                "Customer Relationship Management (CRM)",
+                "See 3 endorsements for Customer Relationship Management (CRM)",
+                "3"
+            ]
+        ],
+        "summary": "    Relationship management is core to who I am and everything I do. I leverage strategic planning, analytical, and organizational leadership skills to drive new business, deepen existing relationships, capture cost savings and increase organizational effectiveness. This is done by earning the trust and respect of customers through my business and technical acumen, communication, and unwavering follow-through.\n  \n  \n",
+        "name": "Tim Bangert",
+        "title": "IT Business Relationship Manager at OhioHealth",
+        "url": "linkedin.com/in/timbangert",
+        "phone": "614.664.3366 (Work)",
+        "email": "tim@catalyst-ts.com"
+    }
+]

@@ -1,0 +1,545 @@
+[
+    {
+        "resourceName": "people/c8956003317827973440",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7c4a1d910e5b3140"
+                    }
+                },
+                "displayName": "Scott Robinson",
+                "familyName": "Robinson",
+                "givenName": "Scott",
+                "displayNameLastFirst": "Robinson, Scott"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7c4a1d910e5b3140"
+                    }
+                },
+                "value": "858-449-3074",
+                "canonicalForm": "+18584493074",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "1 Mutual Connection",
+                "You and Scott both know Cheryl Farmer"
+            ],
+            [
+                "You both studied at Northern Arizona University",
+                "You both studied at Northern Arizona University from 2008 to 2010"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Project Manager",
+                "Company Name",
+                "Gilbane Building Company",
+                "Dates Employed",
+                "Jan 2016 – Present",
+                "Employment Duration",
+                "1 yr 10 mos",
+                "Location",
+                "San Jose, CA",
+                "2017: Managing 20,000sf tenant improvement project for LinkedIn, Sunnyvale, CA.  Utilized similar technology listed below.  New technology for this project included construction progress photospheres with Holobuilder.2016: Managed an 80,000sf tenant improvement project, including 50,000sf of compartmented (multi-user) SCIF space.  We leveraged technology and collaboration to construct this complex, showcase project, for the confidential client.Examples of BIM, Lean and technology we are using collaboratively with the owner, subcontractors and design team include:Technology:    - Collaborative reviews for design drawings, contracts, and other documents (Bluebeam)    - Fully electronic record drawings (PlanGrid)        *We did not print a single set of drawings from precon through construction    - Electronic Rolling Completion/Punch Lists (PlanGrid)    - Location Based Progress Photos (PlanGrid)BIM:    - Model coordination    - BIM Walks (360 Glue)        * Model based quality reviews in the field on ipad        * Measuring construction progress        * Resolving issues with the model in the field    - Laser scanning (by Gilbane VDC)    - Virtual Reality tours (by Gilbane VDC)        *Photorealistic models for display on Samsung Gear VR headsetsLean:    - Pull Planning Scheduling Sessions    - Coordination Board    - Electronic project management system (Gilbane's \"iBuild\")"
+            ],
+            [
+                "Preconstruction",
+                "Company Name",
+                "Gilbane Building Company",
+                "Dates Employed",
+                "Mar 2014 – Dec 2015",
+                "Employment Duration",
+                "1 yr 10 mos",
+                "Location",
+                "California",
+                "Building efficiency into every step of the preconstruction process by using, creating and implementing cutting edge technology and processes."
+            ],
+            [
+                "Project Engineer & Superintendent",
+                "Company Name",
+                "Gilbane Building Company",
+                "Dates Employed",
+                "Apr 2013 – Feb 2014",
+                "Employment Duration",
+                "11 mos",
+                "Location",
+                "Fresno, California Area",
+                "Highlights:- Developed and improved upon the innovative technologies and processes Gilbane uses to efficiently and effectively manage every aspect of the construction process.- BIM Walks: Developed processes to utilize the building information model in the field, to perform quality reviews with the intent of resolving potential issues before they occur, with the goal of improving the overall quality and performance of the structure, and reducing costly rework.- Implemented 4D Visual Scheduling and Sequencing techniques to develop baseline schedules, analyze schedule options, and communicate work forecasts and look ahead schedules.- Building Information Modeling: Ran BIM coordination meetings on a daily basis with trade modelers, field supervisors and Gilbane MEP experts.  Utilized the model to forecast and resolve constructability issues in the job trailer or in the field.  Integrated 3D screenshots into RFIs to assist the design team in quickly making informed decisions.- Managed electronic record documents, on a daily basis, with our Gilbane team, utilizing Bluebeam and PlanGrid.- Developed and maintained project inspection, daily work and two-week schedules.- Managed every aspect of Site, Parking Structure and Sallyport construction, including sequencing (location based, pull schedules), scheduling (P6), field coordination, and site logistics."
+            ],
+            [
+                "Preconstruction Engineer",
+                "Company Name",
+                "Gilbane Building Company",
+                "Dates Employed",
+                "May 2011 – Apr 2013",
+                "Employment Duration",
+                "2 yrs",
+                "Location",
+                "Phoenix, AZ",
+                "Performed in a variety of roles, including:- Estimating- Conceptual Estimate Design Models- Virtual Design Coordination - BIM Coordination- Interdisciplinary Document Control - Constructability Reviews- Innovation, efficiency, intra-departmental coordination- Hard bid coordination- Purchasing and procurement"
+            ],
+            [
+                "Field Engineer",
+                "Company Name",
+                "Brignall Construction Company",
+                "Dates Employed",
+                "Aug 2010 – May 2011",
+                "Employment Duration",
+                "10 mos",
+                "Location",
+                "Flagstaff, Arizona Area",
+                "Worked as a field engineer, assisting the project superintendent and project manager on a variety of functions. Project Experience:- NAU Native American Cultural Center, LEED Silver- 1899 Bar and Grill, high-end steakhouse- NAU North Union Performing Arts Auditorium, remodel and upgrade of fire/life/safety"
+            ],
+            [
+                "Player",
+                "Company Name",
+                "Houston Astros, Seattle Mariners",
+                "Dates Employed",
+                "May 2003 – Sep 2010",
+                "Employment Duration",
+                "7 yrs 5 mos",
+                "Drafted out of high school in 2002 and played professionally through 2010."
+            ],
+            [
+                "Owner",
+                "Company Name",
+                "Get Grippers, Inc.",
+                "Dates Employed",
+                "Oct 2004 – May 2009",
+                "Employment Duration",
+                "4 yrs 8 mos",
+                "Location",
+                "Tucson, AZ",
+                "Developed company from concept.  Get Grippers currently serves customers, selling fitness products in over 30 countries.  Created marketing and sales plans that have helped grow the business from annual gross sales of $5,000 in 2003, to over $80,000 in 2008.  Managed staff in daily operations including accounting, sales, marketing, shipping and customer service."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science",
+                "Field Of Study",
+                "Construction Management",
+                "Dates attended or expected graduation",
+                "2008 – 2012",
+                "Activities and Societies:",
+                "President, Construction Management Organization;",
+                "Project Manager - NAU Heavy Civil Team - ASC Reno Competition, 2011;   Project Manager - NAU Marine Heavy Civil Team - ASC Reno Competition, 2010;   Helped to organize over 500 hours of community service 2009-2011."
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science",
+                "Field Of Study",
+                "Construction Management",
+                "Dates attended or expected graduation",
+                "2008 – 2012",
+                "Activities and Societies:",
+                "President, Construction Management Organization;",
+                "Project Manager - NAU Heavy Civil Team - ASC Reno Competition, 2011;   Project Manager - NAU Marine Heavy Civil Team - ASC Reno Competition, 2010;   Helped to organize over 500 hours of community service 2009-2011."
+            ],
+            [
+                "Rancho Bernardo High School",
+                "Degree Name",
+                "High School",
+                "Dates attended or expected graduation",
+                "2001 – 2002",
+                "Activities and Societies:",
+                "Baseball - Drafted 7th Round in 2002"
+            ],
+            [
+                "Rancho Bernardo High School",
+                "Degree Name",
+                "High School",
+                "Dates attended or expected graduation",
+                "2001 – 2002",
+                "Activities and Societies:",
+                "Baseball - Drafted 7th Round in 2002"
+            ],
+            [
+                "Torrey Pines High School",
+                "Dates attended or expected graduation",
+                "1998 – 2001"
+            ],
+            [
+                "Torrey Pines High School",
+                "Dates attended or expected graduation",
+                "1998 – 2001"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Arizona Builders Alliance",
+                "1,148 followers"
+            ],
+            [
+                "Arizona Builders Alliance",
+                "1,071 members"
+            ],
+            [
+                "FARO AEC Users",
+                "223 members"
+            ],
+            [
+                "Pacific Gas and Electric Company",
+                "89,983 followers"
+            ],
+            [
+                "Gilbane Building Company",
+                "35,744 followers"
+            ],
+            [
+                "Gilbane Building Company",
+                "3,149 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Arizona Builders Alliance",
+                "1,148 followers"
+            ],
+            [
+                "Arizona Builders Alliance",
+                "1,148 followers"
+            ],
+            [
+                "Arizona Builders Alliance",
+                "1,071 members"
+            ],
+            [
+                "Arizona Builders Alliance",
+                "1,071 members"
+            ],
+            [
+                "FARO AEC Users",
+                "223 members"
+            ],
+            [
+                "FARO AEC Users",
+                "223 members"
+            ],
+            [
+                "Pacific Gas and Electric Company",
+                "89,983 followers"
+            ],
+            [
+                "Pacific Gas and Electric Company",
+                "89,983 followers"
+            ],
+            [
+                "Gilbane Building Company",
+                "35,744 followers"
+            ],
+            [
+                "Gilbane Building Company",
+                "35,744 followers"
+            ],
+            [
+                "Gilbane Building Company",
+                "3,149 members"
+            ],
+            [
+                "Gilbane Building Company",
+                "3,149 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Cheryl Farmer",
+                "Entrepeneur, Philanthropist, Investor, Board of Director",
+                "August 13, 2011, Cheryl was senior to Scott but didn’t manage directly",
+                "You won't find a person more attentive to detail, precision, and making sure the team stays on track.  I watched Scott manage a lump sum bid opportunity with the upmost professional talent and drive to win.  I would highly recommend without hesitation Scott to any company hoping to grow revenues while maintaining the highest quality standards in the industry."
+            ],
+            [
+                "Cheryl Farmer",
+                "Entrepeneur, Philanthropist, Investor, Board of Director",
+                "August 13, 2011, Cheryl was senior to Scott but didn’t manage directly"
+            ],
+            [
+                "Cheryl Farmer",
+                "Entrepeneur, Philanthropist, Investor, Board of Director",
+                "August 13, 2011, Cheryl was senior to Scott but didn’t manage directly"
+            ],
+            [
+                "Cheryl Farmer",
+                "Entrepeneur, Philanthropist, Investor, Board of Director",
+                "August 13, 2011, Cheryl was senior to Scott but didn’t manage directly"
+            ],
+            "Entrepeneur, Philanthropist, Investor, Board of Director",
+            [
+                "You won't find a person more attentive to detail, precision, and making sure the team stays on track.  I watched Scott manage a lump sum bid opportunity with the upmost professional talent and drive to win.  I would highly recommend without hesitation Scott to any company hoping to grow revenues while maintaining the highest quality standards in the industry."
+            ],
+            [
+                "You won't find a person more attentive to detail, precision, and making sure the team stays on track.  I watched Scott manage a lump sum bid opportunity with the upmost professional talent and drive to win.  I would highly recommend without hesitation Scott to any company hoping to grow revenues while maintaining the highest quality standards in the industry."
+            ]
+        ],
+        "skills": [
+            [
+                "Pre-construction",
+                "See 35 endorsements for Pre-construction",
+                "35",
+                "Pre-construction",
+                "Endorse",
+                "Endorsed by Dan Carrillo and 7 others who are highly skilled at this",
+                "Endorsed by 12 of Scott’s colleagues at Gilbane Building Company"
+            ],
+            [
+                "Pre-construction",
+                "See 35 endorsements for Pre-construction",
+                "35"
+            ],
+            [
+                "Construction",
+                "See 23 endorsements for Construction",
+                "23",
+                "Construction",
+                "Endorse",
+                "Endorsed by Tony Pellegrino Jr. and 3 others who are highly skilled at this",
+                "Endorsed by 4 of Scott’s colleagues at Gilbane Building Company"
+            ],
+            [
+                "Construction",
+                "See 23 endorsements for Construction",
+                "23"
+            ],
+            [
+                "Construction Management",
+                "See 22 endorsements for Construction Management",
+                "22",
+                "Construction Management",
+                "Endorse",
+                "Endorsed by Dale Wyffels and 3 others who are highly skilled at this",
+                "Endorsed by 2 of Scott’s colleagues at Gilbane Building Company"
+            ],
+            [
+                "Construction Management",
+                "See 22 endorsements for Construction Management",
+                "22"
+            ],
+            [
+                "LEED",
+                "See 13 endorsements for LEED",
+                "13",
+                "LEED",
+                "Endorse"
+            ],
+            [
+                "LEED",
+                "See 13 endorsements for LEED",
+                "13"
+            ],
+            [
+                "Contract Management",
+                "See 13 endorsements for Contract Management",
+                "13",
+                "Contract Management",
+                "Endorse"
+            ],
+            [
+                "Contract Management",
+                "See 13 endorsements for Contract Management",
+                "13"
+            ],
+            [
+                "Project Bidding",
+                "See 8 endorsements for Project Bidding",
+                "8",
+                "Project Bidding",
+                "Endorse"
+            ],
+            [
+                "Project Bidding",
+                "See 8 endorsements for Project Bidding",
+                "8"
+            ],
+            [
+                "Value Engineering",
+                "See 8 endorsements for Value Engineering",
+                "8",
+                "Value Engineering",
+                "Endorse"
+            ],
+            [
+                "Value Engineering",
+                "See 8 endorsements for Value Engineering",
+                "8"
+            ],
+            [
+                "Constructability",
+                "See 8 endorsements for Constructability",
+                "8",
+                "Constructability",
+                "Endorse"
+            ],
+            [
+                "Constructability",
+                "See 8 endorsements for Constructability",
+                "8"
+            ],
+            [
+                "Design-Build",
+                "See 6 endorsements for Design-Build",
+                "6",
+                "Design-Build",
+                "Endorse"
+            ],
+            [
+                "Design-Build",
+                "See 6 endorsements for Design-Build",
+                "6"
+            ],
+            [
+                "Estimates",
+                "See 6 endorsements for Estimates",
+                "6",
+                "Estimates",
+                "Endorse"
+            ],
+            [
+                "Estimates",
+                "See 6 endorsements for Estimates",
+                "6"
+            ],
+            [
+                "BIM",
+                "See 5 endorsements for BIM",
+                "5",
+                "BIM",
+                "Endorse"
+            ],
+            [
+                "BIM",
+                "See 5 endorsements for BIM",
+                "5"
+            ],
+            [
+                "Management",
+                "See 5 endorsements for Management",
+                "5",
+                "Management",
+                "Endorse"
+            ],
+            [
+                "Management",
+                "See 5 endorsements for Management",
+                "5"
+            ],
+            [
+                "Construction Safety",
+                "See 5 endorsements for Construction Safety",
+                "5",
+                "Construction Safety",
+                "Endorse"
+            ],
+            [
+                "Construction Safety",
+                "See 5 endorsements for Construction Safety",
+                "5"
+            ],
+            [
+                "Project Estimation",
+                "See 4 endorsements for Project Estimation",
+                "4",
+                "Project Estimation",
+                "Endorse"
+            ],
+            [
+                "Project Estimation",
+                "See 4 endorsements for Project Estimation",
+                "4"
+            ],
+            [
+                "LEED AP",
+                "See 3 endorsements for LEED AP",
+                "3",
+                "LEED AP",
+                "Endorse"
+            ],
+            [
+                "LEED AP",
+                "See 3 endorsements for LEED AP",
+                "3"
+            ],
+            [
+                "RFI",
+                "See 3 endorsements for RFI",
+                "3",
+                "RFI",
+                "Endorse"
+            ],
+            [
+                "RFI",
+                "See 3 endorsements for RFI",
+                "3"
+            ],
+            [
+                "Inspection",
+                "See 2 endorsements for Inspection",
+                "2",
+                "Inspection",
+                "Endorse"
+            ],
+            [
+                "Inspection",
+                "See 2 endorsements for Inspection",
+                "2"
+            ],
+            [
+                "Purchasing",
+                "See 1 endorsement for Purchasing",
+                "1",
+                "Purchasing",
+                "Endorse"
+            ],
+            [
+                "Purchasing",
+                "See 1 endorsement for Purchasing",
+                "1"
+            ]
+        ],
+        "summary": "  \"All life is a process and every process can be improved.\"\n  \n  \n",
+        "name": "Scott Robinson",
+        "title": "Project Manager at Gilbane Building Company",
+        "url": "linkedin.com/in/scott-robinson-23a54212",
+        "phone": "858-449-3074 (Mobile)",
+        "email": "srobinson@gilbaneco.com"
+    }
+]

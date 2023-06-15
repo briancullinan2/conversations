@@ -1,0 +1,232 @@
+﻿Session Start (bjcullinan@gmail.com:Jarid Bredemeier): Tue Apr 21 17:22:20 2009
+[04/21/2009 05:22:20 PM] Jarid Bredemeier: You there Brian?
+[04/21/2009 05:22:28 PM] bjcullinan: yeah
+[04/21/2009 05:22:30 PM] bjcullinan: what's up?
+[04/21/2009 05:23:08 PM] Jarid Bredemeier: did you communicate to Leah that we turned in the project
+[04/21/2009 05:23:15 PM] bjcullinan: yes
+[04/21/2009 05:24:14 PM] bjcullinan: she says she is submitting a revision
+[04/21/2009 05:24:25 PM] bjcullinan: and i am hiding her chat windows because i don't want to talk to her anymore
+[04/21/2009 05:24:55 PM] Jarid Bredemeier: she asked me where the Interface Domain was I tried to tell her that to list out all the components in each module really was not practical sense we are dividing out modules, it would make more sense if it were one person handling the inferface and other people doing functionality but that is not how we decided to divide out work
+[04/21/2009 05:25:24 PM] bjcullinan: yeah
+[04/21/2009 05:25:48 PM] Jarid Bredemeier: well tell her that too :-) she seems upset
+[04/21/2009 05:25:52 PM] bjcullinan: and then she went off on a rant?
+[04/21/2009 05:26:08 PM] bjcullinan: she is most definitely upset
+[04/21/2009 05:26:27 PM] Jarid Bredemeier: no really just no reply, a unclaming slience
+[04/21/2009 05:27:07 PM] bjcullinan: yeah, she replyed to me she must hate you man
+[04/21/2009 05:27:23 PM] Jarid Bredemeier: really?
+[04/21/2009 05:29:53 PM] bjcullinan: no
+[04/21/2009 05:31:58 PM] bjcullinan: look, she tried to put sole blame on me
+[04/21/2009 05:32:03 PM] bjcullinan: and i blew her off
+[04/21/2009 05:32:15 PM] bjcullinan: so now shes pissed because she made mistakes too
+[04/21/2009 05:32:23 PM] bjcullinan: except she is the only one who can't accept them
+[04/21/2009 05:32:25 PM] Jarid Bredemeier: its okay
+[04/21/2009 05:33:02 PM] Jarid Bredemeier: to me its a learning experience, we all are trying to do this whole coordinating thing that is the skill we need to master.  
+[04/21/2009 05:33:31 PM] bjcullinan: yeah, the worst part will be her talking shit about how bad of teammates we are behind our backs
+[04/21/2009 05:33:56 PM] Jarid Bredemeier: we all dropped the ball this weekend when we had 4  days to put it together it was not one persons fault it was just as much as mine as yours so yeah
+[04/21/2009 05:34:57 PM] bjcullinan: has everyone submitted to the repository?
+[04/21/2009 05:35:14 PM] Jarid Bredemeier: I'm not going to worry about it, all we can do is better next time. :-) You should forget about it too, you get to goto Vegas dont let that spoil your fun
+[04/21/2009 05:35:48 PM] bjcullinan: yeah... i have too much work to do to enjoy vegas
+[04/21/2009 05:35:51 PM] Jarid Bredemeier: I have not updated my repository yet I can if you need me to but right now I am really trying to work out some layout issues with my interface
+[04/21/2009 05:38:16 PM] bjcullinan: yeah it's fine, i am going to try to start putting stuff together this week
+[04/21/2009 05:38:37 PM] bjcullinan: and i think we really need to consider the arrows idea
+[04/21/2009 05:40:36 PM] Jarid Bredemeier: I agree but adding chores, removing chores, editing existing chores is not a linear process for instance forward arrows makes no sense if you are in a editing panel... what does the forward arrow imply is next? 
+[04/21/2009 05:41:11 PM] bjcullinan: "Finished" or "Add"
+[04/21/2009 05:41:28 PM] Jarid Bredemeier: hmm it could
+[04/21/2009 05:41:41 PM] bjcullinan: which then adds or finishes editing and returns to the list of chores
+[04/21/2009 05:41:46 PM] bjcullinan: and the back would be cancel
+[04/21/2009 05:43:28 PM] Jarid Bredemeier: okay from the main screen though you have the choice to add remove edit and finish I should use arrows for that... seems like a strange way to select to do those tasks.  I can see using arrows at different tasks but having click'able options and arrow interface mixture doesnt seem consistant and a very good idea
+[04/21/2009 05:45:10 PM] bjcullinan: from the main screen you just have buttons for each option Add, Edit, Remove, that brings up a new panel with all the fields and stuff, and at the top there is a Cancel back arrow, and a Finished or Add forward arrow
+[04/21/2009 05:45:46 PM] bjcullinan: on the Chores list page there would be a Calendar back arrow, and no forward arrow
+[04/21/2009 05:46:13 PM] bjcullinan: or a Users forward arrow
+[04/21/2009 05:46:27 PM] Jarid Bredemeier: yeah I understand that, my concern is using buttons for options and then navigating a new panel with arrows... dont we want to same look and feel across all panels?
+[04/21/2009 05:46:31 PM] bjcullinan: and the users page out have Calendar back arrow and a Chores forward arrow
+[04/21/2009 05:46:47 PM] Jarid Bredemeier: I get what you are saying completely
+[04/21/2009 05:46:56 PM] bjcullinan: i think i understand what you mean
+[04/21/2009 05:47:31 PM] Jarid Bredemeier: perhaps though my thoughts on it could be over looking things too
+[04/21/2009 05:47:53 PM] Jarid Bredemeier: we could use button style for task selection and arrows for task navigation
+[04/21/2009 05:49:40 PM] Jarid Bredemeier: I think I will go with that approach use arrows whenever it makes sense to do so and buttons instead
+[04/21/2009 05:52:04 PM] bjcullinan: yes i think that is a perfect way of formally describing the concept i had in mind
+Session Close (Jarid Bredemeier): Tue Apr 21 18:22:06 2009
+
+
+Session Start (bjcullinan@gmail.com:Jarid Bredemeier): Mon Apr 27 14:54:39 2009
+[04/27/2009 02:54:40 PM] Jarid Bredemeier: You there?
+[04/27/2009 02:55:07 PM] Jarid Bredemeier: Trying to get into my email account not able to log in getting session errors
+[04/27/2009 02:57:20 PM] bjcullinan: close and reopen firefox?
+[04/27/2009 03:14:44 PM] Jarid Bredemeier: tried it
+[04/27/2009 03:15:00 PM] Jarid Bredemeier: cleared Cache, restarted
+[04/27/2009 03:15:13 PM] Jarid Bredemeier: oh well how your trip to vegas
+[04/27/2009 03:26:25 PM] bjcullinan: it was amazing
+[04/27/2009 03:26:31 PM] bjcullinan: i went to my first strip club
+[04/27/2009 03:26:45 PM] bjcullinan: and got a dance
+[04/27/2009 03:27:00 PM] bjcullinan: and the girl was f-ing gorgeous
+[04/27/2009 03:30:25 PM] Jarid Bredemeier: lol
+[04/27/2009 03:30:31 PM] Jarid Bredemeier: that is awesome
+[04/27/2009 03:31:18 PM] bjcullinan: yeah it was probably the best thing i spent my money on the entire time, booz are over priced and gambling sucks
+[04/27/2009 03:31:36 PM] Jarid Bredemeier: ahh gambling pretty fun if you win
+[04/27/2009 03:31:46 PM] Jarid Bredemeier: but not as good as titties
+[04/27/2009 03:31:46 PM] bjcullinan: yeah i never win
+[04/27/2009 03:31:57 PM] bjcullinan: omg there were so many beautiful tities
+[04/27/2009 03:32:21 PM] bjcullinan: dave said that was his third strip club, one in phoenix, and another one in vegas, and he had never seen girls that hot at a strip club before
+[04/27/2009 03:33:08 PM] Jarid Bredemeier: whats cool is they are so nice to you, even though its their job it funny to have hot women come up wanting to get naked for you.
+[04/27/2009 03:34:41 PM] bjcullinan: yeah, good stuff, and we could have spent a lot less money then we did, the cabbie handed dave 80 bucks and 4 free drink coupons for the 4 of us, so it was basically free cover charge, but we ended up spending 80 bucks on another 2 rounds of drinks anyways
+[04/27/2009 03:35:10 PM] Jarid Bredemeier: nice
+[04/27/2009 03:49:30 PM] Jarid Bredemeier: brb have to take my dog to the vet.
+Session Close (Jarid Bredemeier): Mon Apr 27 16:12:07 2009
+
+
+Session Start (bjcullinan@gmail.com:Jarid Bredemeier): Mon Apr 27 20:51:59 2009
+[04/27/2009 08:51:59 PM] Jarid Bredemeier: I guess we are not talking... lo
+[04/27/2009 08:52:02 PM] Jarid Bredemeier: lol
+[04/27/2009 08:52:23 PM] Jarid Bredemeier: been in the chat room for 45 mins now no one has said a thing
+[04/27/2009 08:52:26 PM] bjcullinan: we are still studying UI
+[04/27/2009 08:53:06 PM] Jarid Bredemeier: U two are in the same room?
+[04/27/2009 08:53:19 PM] bjcullinan: ya
+[04/27/2009 08:53:22 PM] bjcullinan: 105
+Session Close (Jarid Bredemeier): Mon Apr 27 21:10:30 2009
+
+
+Session Start (bjcullinan@gmail.com:Jarid Bredemeier): Tue Apr 28 18:42:24 2009
+[04/28/2009 06:42:29 PM] bjcullinan: do you have carls number?
+[04/28/2009 06:59:14 PM] Jarid Bredemeier: no I do not
+Session Close (Jarid Bredemeier): Tue Apr 28 20:27:12 2009
+
+
+Session Start (bjcullinan@gmail.com:Jarid Bredemeier): Tue Apr 28 21:00:15 2009
+[04/28/2009 09:00:15 PM] Jarid Bredemeier: what are you up 2? 
+[04/28/2009 09:25:31 PM] Jarid Bredemeier: Got a hold of Carl eh?
+[04/28/2009 09:31:33 PM] bjcullinan: yeah finally
+Session Close (Jarid Bredemeier): Tue Apr 28 22:08:08 2009
+
+
+Session Start (bjcullinan@gmail.com:Jarid Bredemeier): Thu Apr 30 15:40:30 2009
+[04/30/2009 03:40:30 PM] Jarid Bredemeier: brian you there?
+[04/30/2009 03:42:40 PM] bjcullinan: yeah
+[04/30/2009 03:42:51 PM] bjcullinan: we need to do a full javadoc on all of our source
+[04/30/2009 03:43:25 PM] bjcullinan: there are shortcut keys in eclipse i think ctrl+shift+J adds the javadoc setup above the function
+[04/30/2009 03:43:43 PM] bjcullinan: or maybe it is D
+[04/30/2009 03:43:47 PM] Jarid Bredemeier: what is the main class?
+[04/30/2009 03:43:53 PM] bjcullinan: main class?
+[04/30/2009 03:43:56 PM] bjcullinan: TestFrame
+[04/30/2009 03:44:15 PM] bjcullinan: in ishare.Main.TestFrame
+[04/30/2009 03:44:19 PM] bjcullinan: that runs it
+[04/30/2009 03:44:58 PM] bjcullinan: basically every page is inherited from TitledPanel
+[04/30/2009 03:45:23 PM] Jarid Bredemeier: hmm having problems importing the src files into the project
+[04/30/2009 03:45:36 PM] bjcullinan: you should just be able to do an update
+[04/30/2009 03:45:43 PM] bjcullinan: and then refresh the ide file window
+[04/30/2009 03:45:46 PM] bjcullinan: and they should be there
+[04/30/2009 03:46:04 PM] bjcullinan: also you have to do a Clean Build in order to run the new source files
+[04/30/2009 03:46:04 PM] Jarid Bredemeier: it know its acting strange
+[04/30/2009 03:46:09 PM] Jarid Bredemeier: tried that already
+[04/30/2009 03:46:14 PM] bjcullinan: hmm
+[04/30/2009 03:46:18 PM] bjcullinan: using eclipse?
+[04/30/2009 03:46:40 PM] Jarid Bredemeier: its asking me to select a main class from the list and it appear to be TestFrame but after I select it, it still refuses to run
+[04/30/2009 03:47:00 PM] bjcullinan: hmm mine was doing that too
+[04/30/2009 03:47:20 PM] bjcullinan: try right cliking on the test frame and selecting run file.
+[04/30/2009 03:54:02 PM] Jarid Bredemeier: are you sure you reUpdated after you made your corrections I am getting type incompatibly errors in the code
+[04/30/2009 03:54:54 PM] Jarid Bredemeier: in the MonthSelectView ojbect
+[04/30/2009 03:54:57 PM] Jarid Bredemeier: object**
+[04/30/2009 03:56:04 PM] bjcullinan: what line?
+[04/30/2009 03:56:57 PM] bjcullinan: not getting any errors here
+[04/30/2009 03:57:00 PM] bjcullinan: do a clean build?
+[04/30/2009 03:57:19 PM] Jarid Bredemeier: ahh my packag references are broken, sometimes I hate netbeans
+[04/30/2009 04:00:02 PM] bjcullinan: yeah
+[04/30/2009 04:00:06 PM] bjcullinan: i hate it all the time
+[04/30/2009 04:13:18 PM] Jarid Bredemeier: wow this is pretty terrible would it be possible for you to upload your netbeans project folder so I can just open an exisiting project, for some reason after I corrected the package references that were broken I still and getting incompatiable types... something is definately goofy but rather not waste my time trying to fix that stuff
+[04/30/2009 04:15:27 PM] bjcullinan: hmm, could we meet up and i could take a look?
+[04/30/2009 04:22:10 PM] Jarid Bredemeier: yeah I will come by where are you at?
+[04/30/2009 04:23:38 PM] bjcullinan: CEFNS help desk
+[04/30/2009 04:32:48 PM] Jarid Bredemeier: omw
+[04/30/2009 04:34:55 PM] bjcullinan: whats up?
+[04/30/2009 04:41:43 PM] bjcullinan: any luck?
+Session Close (Jarid Bredemeier): Thu Apr 30 17:31:07 2009
+
+
+Session Start (bjcullinan@gmail.com:Jarid Bredemeier): Thu Apr 30 19:13:26 2009
+[04/30/2009 07:13:26 PM] Jarid Bredemeier: Hey Brian I have to run out for a few but I will be back in about an hour or two I will be up late tonight until I finish.  TTYL
+Session Close (Jarid Bredemeier): Thu Apr 30 20:41:29 2009
+
+
+Session Start (bjcullinan@gmail.com:Jarid Bredemeier): Thu Apr 30 21:11:24 2009
+[04/30/2009 09:11:24 PM] Jarid Bredemeier: how late are you going to be up for?
+[04/30/2009 09:11:32 PM] bjcullinan: late
+[04/30/2009 09:11:36 PM] bjcullinan: whats up?
+[04/30/2009 09:11:50 PM] Jarid Bredemeier: nothing yet but I might have a few questions 
+[04/30/2009 09:11:55 PM] bjcullinan: ok
+[04/30/2009 09:12:17 PM] bjcullinan: best thing to do is look at other panel code
+[04/30/2009 09:19:16 PM] Jarid Bredemeier: tracing how the objects are related to another is the tricky part :-)
+[04/30/2009 09:19:59 PM] bjcullinan: yeah, start with addChorePanel
+[04/30/2009 09:20:26 PM] bjcullinan: and PeopleSelectPanel
+Session Close (Jarid Bredemeier): Thu Apr 30 22:03:28 2009
+
+
+Session Start (bjcullinan@gmail.com:Jarid Bredemeier): Fri May 01 00:15:18 2009
+[05/01/2009 12:15:18 AM] Jarid Bredemeier: Hey brian, the titles for the Chore objects all have markup tags around the title itself right?
+[05/01/2009 12:18:03 AM] bjcullinan: what do you mean markup tags?
+[05/01/2009 12:18:11 AM] bjcullinan: no for the list of chores no
+[05/01/2009 12:18:11 AM] Jarid Bredemeier: html
+[05/01/2009 12:18:19 AM] bjcullinan: only the standard buttons do
+[05/01/2009 12:19:19 AM] Jarid Bredemeier: I am doing getTitle() from the list of chore buttons and the title is returning in <html><center> ... </center></html>
+[05/01/2009 12:19:46 AM] bjcullinan: hmmm
+[05/01/2009 12:20:18 AM] bjcullinan: they should not be created using standardbutton
+[05/01/2009 12:20:26 AM] bjcullinan: commit your code and i will take a look
+[05/01/2009 12:20:38 AM] Jarid Bredemeier: it appears the JButton yada =  new JButton(Chore.getTitle(), Chore.getIcon()) also must have the same name value
+[05/01/2009 12:21:27 AM] Jarid Bredemeier: done
+[05/01/2009 12:22:03 AM] bjcullinan: there it is
+[05/01/2009 12:22:20 AM] bjcullinan: around line 96
+[05/01/2009 12:22:29 AM] Jarid Bredemeier: I just want to know when I look for the chore by title in the choreCollection whether I should be looking for the markup up name
+[05/01/2009 12:22:30 AM] bjcullinan: change standard button to JButton
+[05/01/2009 12:22:44 AM] bjcullinan: we need it to return a non markup name
+[05/01/2009 12:23:46 AM] Jarid Bredemeier: ahh right'o
+[05/01/2009 12:24:06 AM] Jarid Bredemeier: thanks for pointing that out
+[05/01/2009 12:24:23 AM] bjcullinan: then you will also need a button.setIcon(ImageIcon) below that
+[05/01/2009 12:24:37 AM] Jarid Bredemeier: yup
+[05/01/2009 12:24:40 AM] bjcullinan: and remove the icon from the constuctor of it and just set the text in the constructor
+Session Close (Jarid Bredemeier): Fri May 01 01:34:44 2009
+
+
+Session Start (bjcullinan@gmail.com:Jarid Bredemeier): Fri May 01 02:38:02 2009
+[05/01/2009 02:38:02 AM] Jarid Bredemeier: Done, uploading now SVN
+[05/01/2009 09:01:09 AM] Jarid Bredemeier: u up?
+[05/01/2009 10:17:46 AM] Jarid Bredemeier: Brian you there buddy?
+[05/01/2009 10:17:56 AM] Jarid Bredemeier: Trying to schedule a time for user testing
+Session Close (Jarid Bredemeier): Fri May 01 10:40:12 2009
+
+
+Session Start (bjcullinan@gmail.com:Jarid Bredemeier): Fri May 01 11:17:28 2009
+[05/01/2009 11:17:29 AM] Jarid Bredemeier: Brian you there?
+[05/01/2009 01:08:48 PM] Jarid Bredemeier: beow Brian?
+[05/01/2009 03:08:03 PM] Jarid Bredemeier: When do you want to do user testing?
+[05/01/2009 03:39:55 PM] bjcullinan: now
+[05/01/2009 03:40:02 PM] bjcullinan: we need ladies
+[05/01/2009 03:44:34 PM] Jarid Bredemeier: sorry was afk
+[05/01/2009 03:44:38 PM] Jarid Bredemeier: whats up
+[05/01/2009 03:44:41 PM] Jarid Bredemeier: you still there?
+[05/01/2009 03:46:58 PM] Jarid Bredemeier: I been talking to Carl seeing when we wanted to do this, neither of us know how to operate the equipment otherwise we would of taken the initiative to get the last two groups done.
+[05/01/2009 03:48:16 PM] Jarid Bredemeier: My only concern is that if we do not know any people we can call its going to be difficult just find people around campus at 3:50 on the last day of classes
+[05/01/2009 03:48:43 PM] Jarid Bredemeier: I have to work this weekend as well so the sooner the better
+[05/01/2009 03:53:38 PM] bjcullinan: yeah agreed
+[05/01/2009 03:53:56 PM] Jarid Bredemeier: were you helping that guy print somethign again? LOL
+[05/01/2009 03:54:10 PM] bjcullinan: no
+[05/01/2009 03:54:16 PM] bjcullinan: working on the project
+[05/01/2009 03:54:17 PM] Jarid Bredemeier: are you working?
+[05/01/2009 03:54:28 PM] bjcullinan: ya
+[05/01/2009 03:54:28 PM] Jarid Bredemeier: UI?
+[05/01/2009 03:54:31 PM] bjcullinan: ya
+[05/01/2009 03:54:42 PM] Jarid Bredemeier: what I can help with?
+[05/01/2009 03:55:00 PM] Jarid Bredemeier: I was going to clean up the code a bit if that is what are you doing now
+[05/01/2009 03:58:34 PM] Jarid Bredemeier: The only situation I have is I work on the weekends sometimes in Sedona and sometimes in Phoenix
+[05/01/2009 03:59:12 PM] Jarid Bredemeier: This week I will be in Sedona
+[05/01/2009 03:59:19 PM] Jarid Bredemeier: weekend*
+[05/01/2009 04:02:03 PM] bjcullinan: i need javadoc for all your code
+[05/01/2009 04:02:34 PM] Jarid Bredemeier: Okay easy enough
+[05/01/2009 04:03:37 PM] Jarid Bredemeier: what have you done so far? Is that what you are doing right now is jdoc
+[05/01/2009 04:06:34 PM] bjcullinan: no finishing up my section and integrating it all
+[05/01/2009 04:22:53 PM] Jarid Bredemeier: is there anything other then Javadoc'ing my code that I can help you with?
+[05/01/2009 04:31:57 PM] bjcullinan: nope
+[05/01/2009 04:32:00 PM] bjcullinan: just about finished
+[05/01/2009 04:53:31 PM] *** Jarid Bredemeier 
+  signed off at Fri May 01 16:53:31 2009.
+Session Close (Jarid Bredemeier): Fri May 01 17:23:33 2009
+
+

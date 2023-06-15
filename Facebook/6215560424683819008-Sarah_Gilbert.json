@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6215560424683819008/",
+    "participants": [
+        {
+            "name": "Sarah Gilbert",
+            "title": "Product Specialist at SkyKick",
+            "url": "linkedin.com/in/singtech",
+            "phone": null,
+            "email": "sarah@rhrblog.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-16T16:18:00.000Z"
+        },
+        {
+            "from": "Sarah Gilbert",
+            "message": "Welcome!\n",
+            "time": "2017-12-16T18:08:00.000Z"
+        }
+    ]
+}

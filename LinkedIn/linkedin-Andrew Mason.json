@@ -1,0 +1,668 @@
+[
+    {
+        "resourceName": "people/c711398563976073723",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgwydFJqbzhPWXEvcz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "9df65398b8451fb"
+                    }
+                },
+                "displayName": "Andrew Mason",
+                "familyName": "Mason",
+                "givenName": "Andrew",
+                "displayNameLastFirst": "Mason, Andrew"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "114908184334029354243"
+                    }
+                },
+                "displayName": "Andrew Mason",
+                "familyName": "Mason",
+                "givenName": "Andrew",
+                "displayNameLastFirst": "Mason, Andrew"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "9df65398b8451fb"
+                    }
+                },
+                "value": "andym@pinkjeep.com"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "9df65398b8451fb"
+                    }
+                },
+                "value": "amason@epicdiagnostics.com",
+                "type": "other",
+                "formattedType": "Other"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "9df65398b8451fb"
+                    }
+                },
+                "value": "andy@tri-focus.com",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "9df65398b8451fb"
+                    }
+                },
+                "value": "480-678-1498",
+                "canonicalForm": "+14806781498",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "9df65398b8451fb"
+                    }
+                },
+                "value": "972-676-8416",
+                "canonicalForm": "+19726768416",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "21 Mutual Connections",
+                "You and Andrew both know Thomas Blondi, Wayne Neale, and 19 others"
+            ],
+            [
+                "1 Mutual Group",
+                "You and Andrew are both in the Arizona Medical Device Network group"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "CTO",
+                "Company Name",
+                "Pink Jeep Tours",
+                "Dates Employed",
+                "Dec 2012 – Present",
+                "Employment Duration",
+                "4 yrs 11 mos",
+                "Location",
+                "Sedona, Az",
+                "Pink Jeep Tours is the longest running, and the largest off-road adventure company in the US. We recently celebrated our 50th year anniversary in Sedona, Arizona where it all began. Since 1960, hundreds of thousands of passengers have headed out into the Southwest outback, witnessing spectacular places they could never have imagined. Their recommendations to family and friends are the hallmark of our operation. “You Gotta Do It!”"
+            ],
+            [
+                "CTO",
+                "Company Name",
+                "EPIC Research & Diagnostics, Inc.",
+                "Dates Employed",
+                "Dec 2009 – Nov 2012",
+                "Employment Duration",
+                "3 yrs",
+                "Location",
+                "Scottsdale, Az.",
+                "EPIC Research & Diagnostics is working on solutions to help physicians pinpoint problems before their patients notice any symptoms, and to help guide physicians in the right direction when symptoms and test results may not necessarily add up. With less time spent searching, EPIC’s vision is to help physicians make therapeutic and lifestyle recommendations that are specific to each and every patient while tracking treatment efficacy and progression over time."
+            ],
+            [
+                "Sr. VP of Development",
+                "Company Name",
+                "Ethix Media, LLC.",
+                "Dates Employed",
+                "Jul 2006 – Dec 2009",
+                "Employment Duration",
+                "3 yrs 6 mos",
+                "Design and development of the SaaS based offering called HomeMinders."
+            ],
+            [
+                "Owner",
+                "Company Name",
+                "Tri-Focus Development Group",
+                "Dates Employed",
+                "1994 – 2008",
+                "Employment Duration",
+                "14 yrs"
+            ],
+            [
+                "Co-Founder & Sr. V.P. of Software Development",
+                "Company Name",
+                "Involve Technology, Inc.",
+                "Dates Employed",
+                "Jun 1999 – Jul 2006",
+                "Employment Duration",
+                "7 yrs 2 mos"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Computer Information Systems",
+                "Dates attended or expected graduation",
+                "1984 – 1990"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                ".NET Developers",
+                "426,477 members"
+            ],
+            [
+                "Arizona State University",
+                "420,384 followers"
+            ],
+            [
+                "CIO Forum",
+                "226,010 members"
+            ],
+            [
+                "Arizona State University",
+                "386,165 followers"
+            ],
+            [
+                "CTO Network",
+                "40,406 members"
+            ],
+            [
+                "Arizona Medical Device Network",
+                "927 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (268)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                ".NET Developers",
+                "426,477 members"
+            ],
+            [
+                ".NET Developers",
+                "426,477 members"
+            ],
+            [
+                "Arizona State University",
+                "420,384 followers"
+            ],
+            [
+                "Arizona State University",
+                "420,384 followers"
+            ],
+            [
+                "CIO Forum",
+                "226,010 members"
+            ],
+            [
+                "CIO Forum",
+                "226,010 members"
+            ],
+            [
+                "Arizona State University",
+                "386,165 followers"
+            ],
+            [
+                "Arizona State University",
+                "386,165 followers"
+            ],
+            [
+                "CTO Network",
+                "40,406 members"
+            ],
+            [
+                "CTO Network",
+                "40,406 members"
+            ],
+            [
+                "Arizona Medical Device Network",
+                "927 members"
+            ],
+            [
+                "Arizona Medical Device Network",
+                "927 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Greg Petras",
+                "Starting a new company",
+                "July 3, 2009, Greg managed Andrew directly",
+                "Andy is a rare breed of technology professional. He knows how to get things done the right way, on time and either at or below budget. He's truly a doer. Perhaps the biggest surprise about Andy is his exceptional ability to interact with customers, sales prospects, teammates, investors and board members. He excels at solving technology and business problems. Andy has an instinctive understanding of what it takes to build the business and how technology can be used to make a business successful whether it's launching a new product or supporting customers. I especially appreciated his effort to develop and maintain detailed project plans that directed the team, minimize wasted effort and enabled him to produce accurate progress reports. He knows how to build a productive, quality and loyal team that works and plays hard. There is nothing during my time with Andy that he was not able to accomplish. He impressed Pfizer so much that that they went way out of their way to recruit him very hard to join their Pfizer Health Solutions team out of New York.  He's a rare breed and a good guy."
+            ],
+            [
+                "Greg Petras",
+                "Starting a new company",
+                "July 3, 2009, Greg managed Andrew directly"
+            ],
+            [
+                "Greg Petras",
+                "Starting a new company",
+                "July 3, 2009, Greg managed Andrew directly"
+            ],
+            [
+                "Greg Petras",
+                "Starting a new company",
+                "July 3, 2009, Greg managed Andrew directly"
+            ],
+            "Starting a new company",
+            [
+                "Andy is a rare breed of technology professional. He knows how to get things done the right way, on time and either at or below budget. He's truly a doer. Perhaps the biggest surprise about Andy is his exceptional ability to interact with customers, sales prospects, teammates, investors and board members. He excels at solving technology and business problems. Andy has an instinctive understanding of what it takes to build the business and how technology can be used to make a business successful whether it's launching a new product or supporting customers. I especially appreciated his effort to develop and maintain detailed project plans that directed the team, minimize wasted effort and enabled him to produce accurate progress reports. He knows how to build a productive, quality and loyal team that works and plays hard. There is nothing during my time with Andy that he was not able to accomplish. He impressed Pfizer so much that that they went way out of their way to recruit him very hard to join their Pfizer Health Solutions team out of New York.  He's a rare breed and a good guy."
+            ],
+            [
+                "Andy is a rare breed of technology professional. He knows how to get things done the right way, on time and either at or below budget. He's truly a doer. Perhaps the biggest surprise about Andy is his exceptional ability to interact with customers, sales prospects, teammates, investors and board members. He excels at solving technology and business problems. Andy has an instinctive understanding of what it takes to build the business and how technology can be used to make a business successful whether it's launching a new product or supporting customers. I especially appreciated his effort to develop and maintain detailed project plans that directed the team, minimize wasted effort and enabled him to produce accurate progress reports. He knows how to build a productive, quality and loyal team that works and plays hard. There is nothing during my time with Andy that he was not able to accomplish. He impressed Pfizer so much that that they went way out of their way to recruit him very hard to join their Pfizer Health Solutions team out of New York.  He's a rare breed and a good guy."
+            ],
+            [
+                "Thomas Blondi",
+                "Chief Revenue Officer, Coolfire Solutions",
+                "October 3, 2008, Thomas managed Andrew directly",
+                "Andy is an extraordinarily multi-talented CTO/CIO who has the ability to not only envision how a product should work for the user experience but also to build it.  His track record of delivering high quality software to the market on time and on budget is the best I have witnessed.  He instills a desire to succeed and work as a team in his staff by setting an example of professionalism, pride and energy.  Rare combination of executive and day to day operational skills."
+            ],
+            [
+                "Thomas Blondi",
+                "Chief Revenue Officer, Coolfire Solutions",
+                "October 3, 2008, Thomas managed Andrew directly"
+            ],
+            [
+                "Thomas Blondi",
+                "Chief Revenue Officer, Coolfire Solutions",
+                "October 3, 2008, Thomas managed Andrew directly"
+            ],
+            [
+                "Thomas Blondi",
+                "Chief Revenue Officer, Coolfire Solutions",
+                "October 3, 2008, Thomas managed Andrew directly"
+            ],
+            "Chief Revenue Officer, Coolfire Solutions ",
+            [
+                "Andy is an extraordinarily multi-talented CTO/CIO who has the ability to not only envision how a product should work for the user experience but also to build it.  His track record of delivering high quality software to the market on time and on budget is the best I have witnessed.  He instills a desire to succeed and work as a team in his staff by setting an example of professionalism, pride and energy.  Rare combination of executive and day to day operational skills."
+            ],
+            [
+                "Andy is an extraordinarily multi-talented CTO/CIO who has the ability to not only envision how a product should work for the user experience but also to build it.  His track record of delivering high quality software to the market on time and on budget is the best I have witnessed.  He instills a desire to succeed and work as a team in his staff by setting an example of professionalism, pride and energy.  Rare combination of executive and day to day operational skills."
+            ],
+            [
+                "Tom Ruwald, PMP",
+                "Experienced Project and Transformation Manager  for Enterprise System Implementations and Upgrades.",
+                "September 5, 2012, Andrew worked with Tom in different groups",
+                "After working with Tom for four years, I can say that he is an exceptionally diligent and conscientious leader. Tom is happy to tackle any challenge sent his way and completes them on time and on budget."
+            ],
+            [
+                "Tom Ruwald, PMP",
+                "Experienced Project and Transformation Manager  for Enterprise System Implementations and Upgrades.",
+                "September 5, 2012, Andrew worked with Tom in different groups"
+            ],
+            [
+                "Tom Ruwald, PMP",
+                "Experienced Project and Transformation Manager  for Enterprise System Implementations and Upgrades.",
+                "September 5, 2012, Andrew worked with Tom in different groups"
+            ],
+            [
+                "Tom Ruwald, PMP",
+                "Experienced Project and Transformation Manager  for Enterprise System Implementations and Upgrades.",
+                "September 5, 2012, Andrew worked with Tom in different groups"
+            ],
+            "Experienced Project and Transformation Manager  for Enterprise System Implementations and Upgrades.",
+            [
+                "After working with Tom for four years, I can say that he is an exceptionally diligent and conscientious leader. Tom is happy to tackle any challenge sent his way and completes them on time and on budget."
+            ],
+            [
+                "After working with Tom for four years, I can say that he is an exceptionally diligent and conscientious leader. Tom is happy to tackle any challenge sent his way and completes them on time and on budget."
+            ],
+            [
+                "Christiana Guzmán",
+                "Brand Designer at Handsome.",
+                "March 3, 2010, Andrew was senior to Christiana but didn’t manage directly",
+                "It is not everyday that you have the opportunity to work with an individual that always creates captivating designs without loosing the core business requirements and constraints that envelop the product. Christiana is in fact one of those unique individuals. I had the pleasure of working with her for just less than two years and was continually impressed by her work and work ethic."
+            ],
+            [
+                "Christiana Guzmán",
+                "Brand Designer at Handsome.",
+                "March 3, 2010, Andrew was senior to Christiana but didn’t manage directly"
+            ],
+            [
+                "Christiana Guzmán",
+                "Brand Designer at Handsome.",
+                "March 3, 2010, Andrew was senior to Christiana but didn’t manage directly"
+            ],
+            [
+                "Christiana Guzmán",
+                "Brand Designer at Handsome.",
+                "March 3, 2010, Andrew was senior to Christiana but didn’t manage directly"
+            ],
+            "Brand Designer at Handsome.",
+            [
+                "It is not everyday that you have the opportunity to work with an individual that always creates captivating designs without loosing the core business requirements and constraints that envelop the product. Christiana is in fact one of those unique individuals. I had the pleasure of working with her for just less than two years and was continually impressed by her work and work ethic."
+            ],
+            [
+                "It is not everyday that you have the opportunity to work with an individual that always creates captivating designs without loosing the core business requirements and constraints that envelop the product. Christiana is in fact one of those unique individuals. I had the pleasure of working with her for just less than two years and was continually impressed by her work and work ethic."
+            ]
+        ],
+        "skills": [
+            [
+                "Software Development",
+                "See 24 endorsements for Software Development",
+                "24",
+                "Software Development",
+                "Remove Endorsement",
+                "Endorsed by Thomas Blondi and 1 other mutual connection",
+                "Endorsed by 9 of Andrew’s colleagues at Pink® Jeep® Tours"
+            ],
+            [
+                "Software Development",
+                "See 24 endorsements for Software Development",
+                "24"
+            ],
+            [
+                "SaaS",
+                "See 20 endorsements for SaaS",
+                "20",
+                "SaaS",
+                "Remove Endorsement",
+                "You and 19 connections have given endorsements for this skill"
+            ],
+            [
+                "SaaS",
+                "See 20 endorsements for SaaS",
+                "20"
+            ],
+            [
+                "Start-ups",
+                "See 10 endorsements for Start-ups",
+                "10",
+                "Start-ups",
+                "Endorse",
+                "Endorsed by 6 of Andrew’s colleagues at Pink® Jeep® Tours"
+            ],
+            [
+                "Start-ups",
+                "See 10 endorsements for Start-ups",
+                "10"
+            ],
+            [
+                "Web Services",
+                "See 10 endorsements for Web Services",
+                "10",
+                "Web Services",
+                "Endorse"
+            ],
+            [
+                "Web Services",
+                "See 10 endorsements for Web Services",
+                "10"
+            ],
+            [
+                "Management",
+                "See 10 endorsements for Management",
+                "10",
+                "Management",
+                "Endorse"
+            ],
+            [
+                "Management",
+                "See 10 endorsements for Management",
+                "10"
+            ],
+            [
+                "Strategic Planning",
+                "See 8 endorsements for Strategic Planning",
+                "8",
+                "Strategic Planning",
+                "Endorse"
+            ],
+            [
+                "Strategic Planning",
+                "See 8 endorsements for Strategic Planning",
+                "8"
+            ],
+            [
+                "XML",
+                "See 6 endorsements for XML",
+                "6",
+                "XML",
+                "Remove Endorsement"
+            ],
+            [
+                "XML",
+                "See 6 endorsements for XML",
+                "6"
+            ],
+            [
+                "Enterprise Software",
+                "See 6 endorsements for Enterprise Software",
+                "6",
+                "Enterprise Software",
+                "Endorse"
+            ],
+            [
+                "Enterprise Software",
+                "See 6 endorsements for Enterprise Software",
+                "6"
+            ],
+            [
+                "Product Development",
+                "See 6 endorsements for Product Development",
+                "6",
+                "Product Development",
+                "Remove Endorsement"
+            ],
+            [
+                "Product Development",
+                "See 6 endorsements for Product Development",
+                "6"
+            ],
+            [
+                ".NET",
+                "See 5 endorsements for .NET",
+                "5",
+                ".NET",
+                "Endorse"
+            ],
+            [
+                ".NET",
+                "See 5 endorsements for .NET",
+                "5"
+            ],
+            [
+                "E-commerce",
+                "See 5 endorsements for E-commerce",
+                "5",
+                "E-commerce",
+                "Endorse"
+            ],
+            [
+                "E-commerce",
+                "See 5 endorsements for E-commerce",
+                "5"
+            ],
+            [
+                "Web Development",
+                "See 4 endorsements for Web Development",
+                "4",
+                "Web Development",
+                "Endorse"
+            ],
+            [
+                "Web Development",
+                "See 4 endorsements for Web Development",
+                "4"
+            ],
+            [
+                "Marketing Strategy",
+                "See 4 endorsements for Marketing Strategy",
+                "4",
+                "Marketing Strategy",
+                "Endorse"
+            ],
+            [
+                "Marketing Strategy",
+                "See 4 endorsements for Marketing Strategy",
+                "4"
+            ],
+            [
+                "Agile Methodologies",
+                "See 3 endorsements for Agile Methodologies",
+                "3",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 3 endorsements for Agile Methodologies",
+                "3"
+            ],
+            [
+                "Java",
+                "See 3 endorsements for Java",
+                "3",
+                "Java",
+                "Endorse"
+            ],
+            [
+                "Java",
+                "See 3 endorsements for Java",
+                "3"
+            ],
+            [
+                "Strategic Partnerships",
+                "See 3 endorsements for Strategic Partnerships",
+                "3",
+                "Strategic Partnerships",
+                "Endorse"
+            ],
+            [
+                "Strategic Partnerships",
+                "See 3 endorsements for Strategic Partnerships",
+                "3"
+            ],
+            [
+                "Business Strategy",
+                "See 3 endorsements for Business Strategy",
+                "3",
+                "Business Strategy",
+                "Endorse"
+            ],
+            [
+                "Business Strategy",
+                "See 3 endorsements for Business Strategy",
+                "3"
+            ],
+            [
+                "Software as a Service (SaaS)",
+                "See 3 endorsements for Software as a Service (SaaS)",
+                "3",
+                "Software as a Service (SaaS)",
+                "Endorse"
+            ],
+            [
+                "Software as a Service (SaaS)",
+                "See 3 endorsements for Software as a Service (SaaS)",
+                "3"
+            ],
+            [
+                "JavaScript",
+                "See 2 endorsements for JavaScript",
+                "2",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 2 endorsements for JavaScript",
+                "2"
+            ],
+            [
+                "Business Development",
+                "See 2 endorsements for Business Development",
+                "2",
+                "Business Development",
+                "Endorse"
+            ],
+            [
+                "Business Development",
+                "See 2 endorsements for Business Development",
+                "2"
+            ],
+            [
+                "Entrepreneurship",
+                "See 2 endorsements for Entrepreneurship",
+                "2",
+                "Entrepreneurship",
+                "Endorse"
+            ],
+            [
+                "Entrepreneurship",
+                "See 2 endorsements for Entrepreneurship",
+                "2"
+            ],
+            [
+                "Product Management",
+                "See 1 endorsement for Product Management",
+                "1",
+                "Product Management",
+                "Endorse"
+            ],
+            [
+                "Product Management",
+                "See 1 endorsement for Product Management",
+                "1"
+            ],
+            [
+                "Architecture",
+                "Architecture",
+                "Endorse"
+            ],
+            [
+                "Architecture"
+            ]
+        ],
+        "summary": "    Energetic IT Executive prepared to contribute leadership and expertise toward a growing and progressive organization to maximize operational and profit performance through creative and effective use of technology and communication.Specialties: The ability to articulate and gain buy-in to C-level strategies throughout all levels of an organization and conversely convey technical challenges and limitations to the highest levels of management.An in-depth knowledge of packaged licensed software development as well as SaaS solution development, two somewhat diverging development disciplines. \n  \n  \n",
+        "name": "Andrew Mason",
+        "title": "CTO at Pink Jeep Tours",
+        "url": "linkedin.com/in/afmason",
+        "phone": null,
+        "email": "andy@tri-focus.com"
+    }
+]

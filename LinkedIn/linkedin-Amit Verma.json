@@ -1,0 +1,469 @@
+[
+    {
+        "experience": [
+            "Highlights",
+            [
+                "22 Mutual Connections",
+                "You and Amit both know Mark Masterson, Glen Chamberlain, and 20 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "SQL Developer",
+                "Company Name",
+                "Arizona Department of Education",
+                "Dates Employed",
+                "Oct 2012 – Present",
+                "Employment Duration",
+                "5 yrs 1 mo",
+                "Location",
+                "Phoenix, Arizona Area",
+                "•\tAnalyzed the existing reports in Report.Net, Actuate and their data sources•      Fixed the bugs present in already existing reports.•      Developed many Tablix Reports, Tabular Reports, Matrix Reports, Drill Down Reports and Charts using         SQL Server Reporting Services (SSRS).•\tAnalyzed & designed the business rules for data cleansing that are required by the staging & OLAP and          OLTP databases.•\tExtracted data using SSIS packages (ETL) from different server locations and data sources.•\tWorked with integration services for transferring and reviewing data from heterogeneous sources like         Excel, CSV, flat file, Text Format Data.•\tDesigned high level ETL architecture for overall data transfer from the source server to the Enterprise         Services Warehouse which encompasses server name, database name, accounts, tables and direction of         data flow, Column Mapping, Data dictionary and Metadata.•\tCreated Parameterized, Linked, Snapshot, Cached, Ad hoc, Click through, Drill down, Drill through, Sub         reports for top selling equipment in the company, top sales based on region and sales based on season.•\tWrote queries for Drilldown reports to get the complete details of the sales sold in particular region.•\tDesigned and implemented Parameterized and Cascading Parameterized reports using SSRS.•\tDeployed generated reports of each quarter onto the Report Server to access it through browser.•\tCreated various geographical and time dimension reports of fiscal year, quarter month, week and daily          reports for all domains and published through Report Server."
+            ],
+            [
+                "Team Lead, Sr. System Analyst",
+                "Company Name",
+                "Apollo Group",
+                "Dates Employed",
+                "Apr 2011 – Sep 2012",
+                "Employment Duration",
+                "1 yr 6 mos",
+                "Location",
+                "Tempe",
+                "• Document bugs, issues and resolutions as well as proactively prevent future issues.• Analyzes software requirements to determine feasibility of design within time and cost constraints involving management reporting systems.• Developed & Reviewed the PL/SQL code written by team members and fine-tuned the code with best practices of coding• Working closely with QA Team to create the smoke test to validate the applications after every code changes goes in production.• Daily responsibilities include reading server logs, troubleshooting and working in the database."
+            ],
+            [
+                "Oracle/SQL server Developer",
+                "Company Name",
+                "Wells Fargo Capital Finance",
+                "Dates Employed",
+                "Jul 2010 – Mar 2011",
+                "Employment Duration",
+                "9 mos",
+                "Location",
+                "Tempe",
+                "• Worked on Logical and Physical Data Modelling.• Developed & Reviewed the PL/SQL code written by team members and fine tuned the code with best practices of coding which reduced the processing time effectively from 60 hours to 16 hours.• Suggested best methodologies to team members to overcome the performance lags in their code.• Used Materialized views, Indexes, bulk collect utilities, views, optimizer hints, tune the PL/SQL code to avoid huge hits to database by including views and Materialized views with Index for consolidated data, effective Cursors.• Created PL/SQL stored procedures, functions and packages for moving the data from staging area to data mart.• Created SQL*Loader control files for moving the data from Flat Files to staging area tables.• Created Oracle instance, table space and UTL settings. Developed, Tested and Migrated the Oracle PL/SQL scripts to Production. Developed, Tested and Migrated Unix Shell Scripts.• Created different kinds of views including Materialized Views.• Created database objects like Tables, Sequence, Synonyms, Views and Indexes.• Participated in System test case preparation and execution.• Worked on tuning the SQL Queries by code review.• Performance tuning: Partitioning the fact tables and materialized views to enhance the performance.• Performed Unit Testing and tuned the code for better performance.• Extensively used SQL*Loader to load data from flat files to database tables in Oracle."
+            ],
+            [
+                "Informatica Developer",
+                "Company Name",
+                "nSquared Technology Solutions, LLC",
+                "Dates Employed",
+                "Aug 2009 – Jan 2010",
+                "Employment Duration",
+                "6 mos",
+                "Location",
+                "Des Moines, Iowa Area",
+                "• Worked with the Business analysts and the DBA for requirements gathering and projectco-ordination.• Extracting and loading of data from flat file, Oracle sources to oracle database (target    warehouse) using transformations in the mappings.• Extensively used various transformations Lookup, Update Strategy, Expression,  • Aggregator, Filter, Stored Procedures and Joiner etc in Power center designer to develop various mappings.• Used Debugger to debug the mappings. Examined sessions, event, and error logs and analyzed for trouble shooting mappings and sessions.• Performed Unit Testing and tuned the mappings for better performance.• Extensively used SQL*Loader to load data from flat files to database tables in Oracle.• Used Workflow manager for session management, database connection management and scheduling of jobs to be run in the batch process.• Configuring sessions in a batch and scheduling them through Autosys job scheduler.• Documentation of existing mappings as per standards."
+            ],
+            [
+                "Oracle/SQL server Developer",
+                "Company Name",
+                "Wipro Technologies",
+                "Dates Employed",
+                "Aug 2006 – Jul 2007",
+                "Employment Duration",
+                "1 yr",
+                "Location",
+                "Hyderabad Area, India",
+                "• Involved in writing PL/SQL and SQL code for triggers, functions and procedures and packages.• Prepared the Unit Test Plans (Required test Scenarios). • Involved in the code review.• Debugged the stored Procedures, Functions, and Triggers in the Oracle Databases.• Participated in internal meetings for the daily status report of the assignments.• Involved in resolving the production issues at the client side.• Designed database tables as per technical specifications."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Illinois Institute of Technology",
+                "Degree Name",
+                "Master of Information Technology and Management",
+                "Field Of Study",
+                "Information Technology",
+                "Dates attended or expected graduation",
+                "2007 – 2009"
+            ],
+            [
+                "Illinois Institute of Technology",
+                "Degree Name",
+                "Master of Information Technology and Management",
+                "Field Of Study",
+                "Information Technology",
+                "Dates attended or expected graduation",
+                "2007 – 2009"
+            ],
+            [
+                "Maharaja Agrasen Institute of Technology",
+                "Degree Name",
+                "Bachelor of computer science",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2002 – 2006"
+            ],
+            [
+                "Maharaja Agrasen Institute of Technology",
+                "Degree Name",
+                "Bachelor of computer science",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2002 – 2006"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Maharaja Agrasen Institute Of Technology",
+                "6,476 followers"
+            ],
+            [
+                "TopLine Strategies",
+                "7,168 followers"
+            ],
+            [
+                "Barrett-Jackson Auction Company",
+                "6,755 followers"
+            ],
+            [
+                "Arizona Department of Education",
+                "2,703 followers"
+            ],
+            [
+                "Illinois Institute of Technology",
+                "60,044 followers"
+            ],
+            [
+                "The Mice Groups, Inc.",
+                "7,557 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (232)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Maharaja Agrasen Institute Of Technology",
+                "6,476 followers"
+            ],
+            [
+                "Maharaja Agrasen Institute Of Technology",
+                "6,476 followers"
+            ],
+            [
+                "TopLine Strategies",
+                "7,168 followers"
+            ],
+            [
+                "TopLine Strategies",
+                "7,168 followers"
+            ],
+            [
+                "Barrett-Jackson Auction Company",
+                "6,755 followers"
+            ],
+            [
+                "Barrett-Jackson Auction Company",
+                "6,755 followers"
+            ],
+            [
+                "Arizona Department of Education",
+                "2,703 followers"
+            ],
+            [
+                "Arizona Department of Education",
+                "2,703 followers"
+            ],
+            [
+                "Illinois Institute of Technology",
+                "60,044 followers"
+            ],
+            [
+                "Illinois Institute of Technology",
+                "60,044 followers"
+            ],
+            [
+                "The Mice Groups, Inc.",
+                "7,557 followers"
+            ],
+            [
+                "The Mice Groups, Inc.",
+                "7,557 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "JT H.",
+                "Information Security Leader |  Manager, Cybersecurity Threat Response",
+                "August 30, 2012, JT managed Amit directly",
+                "It has been an absolute pleasure working with Amit. He is a fantastic leader who understands how to motivate his team to get the job done. Amit has done a outstanding job building our offshore team. Without his dedication and leadership we would not have been so successful. I was very happy to have Amit apart of our organization and believe he would be an asset to any organization he is a part of."
+            ],
+            [
+                "JT H.",
+                "Information Security Leader |  Manager, Cybersecurity Threat Response",
+                "August 30, 2012, JT managed Amit directly"
+            ],
+            [
+                "JT H.",
+                "Information Security Leader |  Manager, Cybersecurity Threat Response",
+                "August 30, 2012, JT managed Amit directly"
+            ],
+            [
+                "JT H.",
+                "Information Security Leader |  Manager, Cybersecurity Threat Response",
+                "August 30, 2012, JT managed Amit directly"
+            ],
+            "Information Security Leader |  Manager, Cybersecurity Threat Response",
+            [
+                "It has been an absolute pleasure working with Amit. He is a fantastic leader who understands how to motivate his team to get the job done. Amit has done a outstanding job building our offshore team. Without his dedication and leadership we would not have been so successful. I was very happy to have Amit apart of our organization and believe he would be an asset to any organization he is a part of."
+            ],
+            [
+                "It has been an absolute pleasure working with Amit. He is a fantastic leader who understands how to motivate his team to get the job done. Amit has done a outstanding job building our offshore team. Without his dedication and leadership we would not have been so successful. I was very happy to have Amit apart of our organization and believe he would be an asset to any organization he is a part of."
+            ]
+        ],
+        "skills": [
+            [
+                "SQL",
+                "See 12 endorsements for SQL",
+                "12",
+                "SQL",
+                "Endorse",
+                "Endorsed by Gagan Sharma and 2 other mutual connections",
+                "Endorsed by 2 of Amit’s colleagues at Arizona Department of Education"
+            ],
+            [
+                "SQL",
+                "See 12 endorsements for SQL",
+                "12"
+            ],
+            [
+                "PL/SQL",
+                "See 6 endorsements for PL/SQL",
+                "6",
+                "PL/SQL",
+                "Endorse",
+                "Endorsed by 2 of Amit’s colleagues at Arizona Department of Education"
+            ],
+            [
+                "PL/SQL",
+                "See 6 endorsements for PL/SQL",
+                "6"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 6 endorsements for Microsoft SQL Server",
+                "6",
+                "Microsoft SQL Server",
+                "Endorse",
+                "Endorsed by 2 of Amit’s colleagues at Arizona Department of Education"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 6 endorsements for Microsoft SQL Server",
+                "6"
+            ],
+            [
+                "Databases",
+                "See 5 endorsements for Databases",
+                "5",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 5 endorsements for Databases",
+                "5"
+            ],
+            [
+                "SSIS",
+                "See 3 endorsements for SSIS",
+                "3",
+                "SSIS",
+                "Endorse"
+            ],
+            [
+                "SSIS",
+                "See 3 endorsements for SSIS",
+                "3"
+            ],
+            [
+                "Requirements Analysis",
+                "See 3 endorsements for Requirements Analysis",
+                "3",
+                "Requirements Analysis",
+                "Endorse"
+            ],
+            [
+                "Requirements Analysis",
+                "See 3 endorsements for Requirements Analysis",
+                "3"
+            ],
+            [
+                "Data Modeling",
+                "See 2 endorsements for Data Modeling",
+                "2",
+                "Data Modeling",
+                "Endorse"
+            ],
+            [
+                "Data Modeling",
+                "See 2 endorsements for Data Modeling",
+                "2"
+            ],
+            [
+                "Requirements Gathering",
+                "See 2 endorsements for Requirements Gathering",
+                "2",
+                "Requirements Gathering",
+                "Endorse"
+            ],
+            [
+                "Requirements Gathering",
+                "See 2 endorsements for Requirements Gathering",
+                "2"
+            ],
+            [
+                "Shell Scripting",
+                "See 2 endorsements for Shell Scripting",
+                "2",
+                "Shell Scripting",
+                "Endorse"
+            ],
+            [
+                "Shell Scripting",
+                "See 2 endorsements for Shell Scripting",
+                "2"
+            ],
+            [
+                "Oracle",
+                "See 2 endorsements for Oracle",
+                "2",
+                "Oracle",
+                "Endorse"
+            ],
+            [
+                "Oracle",
+                "See 2 endorsements for Oracle",
+                "2"
+            ],
+            [
+                "SDLC",
+                "See 2 endorsements for SDLC",
+                "2",
+                "SDLC",
+                "Endorse"
+            ],
+            [
+                "SDLC",
+                "See 2 endorsements for SDLC",
+                "2"
+            ],
+            [
+                "Testing",
+                "See 2 endorsements for Testing",
+                "2",
+                "Testing",
+                "Endorse"
+            ],
+            [
+                "Testing",
+                "See 2 endorsements for Testing",
+                "2"
+            ],
+            [
+                "Agile Methodologies",
+                "See 2 endorsements for Agile Methodologies",
+                "2",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 2 endorsements for Agile Methodologies",
+                "2"
+            ],
+            [
+                "Informatica",
+                "See 2 endorsements for Informatica",
+                "2",
+                "Informatica",
+                "Endorse"
+            ],
+            [
+                "Informatica",
+                "See 2 endorsements for Informatica",
+                "2"
+            ],
+            [
+                "Software Development Life Cycle (SDLC)",
+                "See 2 endorsements for Software Development Life Cycle (SDLC)",
+                "2",
+                "Software Development Life Cycle (SDLC)",
+                "Endorse"
+            ],
+            [
+                "Software Development Life Cycle (SDLC)",
+                "See 2 endorsements for Software Development Life Cycle (SDLC)",
+                "2"
+            ],
+            [
+                "Performance Tuning",
+                "See 2 endorsements for Performance Tuning",
+                "2",
+                "Performance Tuning",
+                "Endorse"
+            ],
+            [
+                "Performance Tuning",
+                "See 2 endorsements for Performance Tuning",
+                "2"
+            ],
+            [
+                "SQL Server Integration Services (SSIS)",
+                "See 2 endorsements for SQL Server Integration Services (SSIS)",
+                "2",
+                "SQL Server Integration Services (SSIS)",
+                "Endorse"
+            ],
+            [
+                "SQL Server Integration Services (SSIS)",
+                "See 2 endorsements for SQL Server Integration Services (SSIS)",
+                "2"
+            ],
+            [
+                "Oracle SQL Developer",
+                "See 1 endorsement for Oracle SQL Developer",
+                "1",
+                "Oracle SQL Developer",
+                "Endorse"
+            ],
+            [
+                "Oracle SQL Developer",
+                "See 1 endorsement for Oracle SQL Developer",
+                "1"
+            ]
+        ],
+        "summary": "",
+        "name": "Amit Verma",
+        "title": "SQL Developer at Arizona Department of Education",
+        "url": "linkedin.com/in/amit-verma-09602757",
+        "phone": "8476604959 (Mobile)",
+        "email": "amitatiit@gmail.com"
+    }
+]

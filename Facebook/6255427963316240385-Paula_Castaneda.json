@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6255427963316240385/",
+    "participants": [
+        {
+            "name": "Paula Castaneda",
+            "title": "Talent Acquisition Partner at Trace3",
+            "url": "linkedin.com/in/paulacastaneda",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Paula Castaneda",
+            "time": "2017-04-05T12:00:00.000Z",
+            "message": "Google Architect Opportunity at Trace3\n\nHi Brian, \n\nI hope this message finds you well. My name is Paula and I'm part of the Talent Acquisition team at Trace3. Our company provides IT Solutions and Consulting Services to Fortune 100 to Fortune 10 companies. We're getting ready to deploy a new product, Google Cloud, and we're looking for an Architect to join the team to assist with this. Ideally, we're looking for someone with a strong backgound in Azure and/or AWS as we can provide training for Google. I found your profile and wanted to reach out to gage your interest in a new opportunity. Please let me know if you'd like to discuss further. I can be reached anytime.\n\nRegards,\n\nPaula\n949.293.3571\nhttp://trace3.com/\n\nPaula Castaneda\npcastaneda@trace3.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-05T17:57:00.000Z",
+            "message": "Sorry no contracts because I don't want the owner to think I am not a part of the team and they don't have to provide more me too.\n"
+        },
+        {
+            "from": "Paula Castaneda",
+            "time": "2017-04-05T18:23:00.000Z",
+            "message": "Hi Brian! This is actually a full time employment opportunity that will be based out of our Phoenix office. I have attached a job description for you to take a look at - please let me know if after reviewing, you'd like to talk.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-05T18:27:00.000Z",
+            "message": "I don't think I am qualified.\n"
+        }
+    ]
+}

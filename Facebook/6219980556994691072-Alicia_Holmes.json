@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6219980556994691072/",
+    "participants": [
+        {
+            "name": "Alicia Holmes",
+            "title": "Founding Principal at 33 North Partners",
+            "url": "linkedin.com/in/aliciaholmes",
+            "phone": null,
+            "email": "alicia04@me.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-12-28T21:02:00.000Z"
+        },
+        {
+            "from": "Alicia Holmes",
+            "message": "Glad to be connected. :)",
+            "time": "2017-10-13T21:02:00.000Z"
+        }
+    ]
+}

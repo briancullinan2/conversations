@@ -1,0 +1,334 @@
+﻿Session Start (Ca.EnterTheGame.Com:RalphNader): Thu Dec 16 14:39:43 2004
+Session Close (RalphNader): Thu Dec 16 14:39:45 2004
+
+
+Session Start (Ca.EnterTheGame.Com:RalphNader): Thu Dec 16 14:40:39 2004
+[16/12/2004 02:40 PM] <WG_Wise_Master> hi Ralph 
+[16/12/2004 02:48 PM] *** Signon by RalphNader (RalphNader!~not@dhcp16631177.indy.rr.com, Mask: *!*@*) detected
+Session Close (RalphNader): Thu Dec 16 14:49:14 2004
+
+
+Session Start (WG_Wise_Master:RalphNader): Fri Dec 17 19:52:59 2004
+[17/12/2004 07:53 PM] *** You have been disconnected. Fri Dec 17 19:53:01 2004.
+Session Close (RalphNader): Fri Dec 17 19:53:06 2004
+
+
+Session Start (WG_Wise_Master:RalphNader): Wed Dec 29 21:31:04 2004
+Session Close (RalphNader): Wed Dec 29 21:31:06 2004
+
+
+Session Start (WG_Wise_Master:RalphNader): Wed Dec 29 21:45:12 2004
+Session Close (RalphNader): Wed Dec 29 21:45:14 2004
+
+
+Session Start (WG_Wise_Master:RalphNader): Sun Jan 09 18:54:50 2005
+[01/09/2005 06:54 PM] WG_Wise_Master: hi
+[01/09/2005 06:55 PM] WG_Wise_Master: i got a mapping question for you
+[01/09/2005 06:55 PM] WG_Wise_Master: how do you name the different areas in your map, the names of areas that show up when you talk to your team
+Session Close (RalphNader): Sun Jan 09 18:57:08 2005
+
+
+Session Start (WG_Wise_Master:RalphNader): Sun Jan 09 18:57:08 2005
+[01/09/2005 06:57 PM] RalphNader: hey
+[01/09/2005 06:57 PM] RalphNader: sry was watching TV
+[01/09/2005 06:57 PM] WG_Wise_Master: hi
+[01/09/2005 06:57 PM] WG_Wise_Master: no problem
+[01/09/2005 06:57 PM] RalphNader: there are two ways to do it
+[01/09/2005 06:57 PM] WG_Wise_Master: what channel?
+[01/09/2005 06:57 PM] WG_Wise_Master: anything good on?
+[01/09/2005 06:57 PM] WG_Wise_Master: if you just have a page i can look at that would be fine
+[01/09/2005 06:57 PM] RalphNader: one is far superior but should probably only be done dead last, like even after you hinty
+[01/09/2005 06:57 PM] RalphNader: hint*
+[01/09/2005 06:57 PM] WG_Wise_Master: ok
+[01/09/2005 06:58 PM] RalphNader: nah, there aren't tutorials on it anymore
+[01/09/2005 06:58 PM] WG_Wise_Master: i think i understand the hinting
+[01/09/2005 06:58 PM] RalphNader: they got taken down and haven't made it all the way on mapdepot
+[01/09/2005 06:58 PM] RalphNader: it's got a very few
+[01/09/2005 06:58 PM] RalphNader: well it has nothing to do with hinting itself
+[01/09/2005 06:58 PM] WG_Wise_Master: but i don't know that it applies because most of my map is glass
+[01/09/2005 06:58 PM] RalphNader: you could still do it 
+[01/09/2005 06:58 PM] RalphNader: let me just explain
+[01/09/2005 06:58 PM] WG_Wise_Master: ok
+[01/09/2005 06:58 PM] RalphNader: the first way is to put an entity there
+[01/09/2005 06:59 PM] RalphNader: it's called.. can't remember and don't have the .def files
+[01/09/2005 06:59 PM] RalphNader: like func_position or some such
+[01/09/2005 06:59 PM] WG_Wise_Master: hmm
+[01/09/2005 06:59 PM] RalphNader: it's a single point entity... kind of like a light
+[01/09/2005 06:59 PM] WG_Wise_Master: i see
+[01/09/2005 06:59 PM] RalphNader: then you name them
+[01/09/2005 06:59 PM] WG_Wise_Master: its not in the .def?
+[01/09/2005 06:59 PM] WG_Wise_Master: i'll check
+[01/09/2005 06:59 PM] WG_Wise_Master: ok
+[01/09/2005 06:59 PM] RalphNader: whichever one your player is closest to is the one that gets shown
+[01/09/2005 06:59 PM] RalphNader: that's the shitty way
+[01/09/2005 06:59 PM] WG_Wise_Master: ahh
+[01/09/2005 06:59 PM] RalphNader: because it's wrong like half the time
+[01/09/2005 06:59 PM] WG_Wise_Master: whats the other way?
+[01/09/2005 07:00 PM] WG_Wise_Master: yeah
+[01/09/2005 07:00 PM] RalphNader: unless you fucking PACK your map with those things
+[01/09/2005 07:00 PM] RalphNader: like put 20 in a single building
+[01/09/2005 07:00 PM] WG_Wise_Master: lol
+[01/09/2005 07:00 PM] RalphNader: the other way
+[01/09/2005 07:00 PM] WG_Wise_Master: yeah right
+[01/09/2005 07:00 PM] RalphNader: is to make a brush that encases the area you want
+[01/09/2005 07:00 PM] RalphNader: like if it's a tunnel, draw a brush around the whole thing
+[01/09/2005 07:00 PM] WG_Wise_Master: yeah
+[01/09/2005 07:00 PM] RalphNader: and then you can mark that as a func_location or some such
+[01/09/2005 07:00 PM] RalphNader: and then if your player is in that box anywhere
+[01/09/2005 07:00 PM] RalphNader: it reports that
+[01/09/2005 07:01 PM] WG_Wise_Master: oh
+[01/09/2005 07:01 PM] RalphNader: you have to fill the whole map with them though
+[01/09/2005 07:01 PM] RalphNader: cause if there are gaps then nothing shows up at all
+[01/09/2005 07:01 PM] RalphNader: it doesn't bother to pick which box is closer
+[01/09/2005 07:01 PM] RalphNader: but since that fills the map up with boxes 
+[01/09/2005 07:01 PM] RalphNader: then it's best to leave it till last so they don't get in the damn way all the time
+[01/09/2005 07:01 PM] WG_Wise_Master: yeah
+[01/09/2005 07:01 PM] RalphNader: radiant really should be modified so you can hide certain shaders only
+[01/09/2005 07:02 PM] WG_Wise_Master: i think that's it
+[01/09/2005 07:02 PM] RalphNader: so you can hide those while you clip
+[01/09/2005 07:02 PM] RalphNader: then hide clips while you hint
+[01/09/2005 07:02 PM] WG_Wise_Master: good news, i figured out models
+[01/09/2005 07:02 PM] RalphNader: those three steps stomp all over each other
+[01/09/2005 07:02 PM] RalphNader: good deal
+[01/09/2005 07:02 PM] WG_Wise_Master: how to put a skeleton in
+[01/09/2005 07:02 PM] RalphNader: hahahah
+[01/09/2005 07:02 PM] RalphNader: like in my map?
+[01/09/2005 07:02 PM] WG_Wise_Master: i don't know where to put hints, probably only in the tunnel
+[01/09/2005 07:02 PM] WG_Wise_Master: no i figured it out
+[01/09/2005 07:02 PM] WG_Wise_Master: its awesome
+[01/09/2005 07:02 PM] RalphNader: no, I mean like the skeleton in my map?
+[01/09/2005 07:03 PM] WG_Wise_Master: yeah
+[01/09/2005 07:03 PM] WG_Wise_Master: its good
+[01/09/2005 07:03 PM] RalphNader: lol
+[01/09/2005 07:03 PM] WG_Wise_Master: i put one in the entrance to my tunnel
+[01/09/2005 07:03 PM] RalphNader: the helmet and gun are in the zq3ut.blah .pk3
+[01/09/2005 07:03 PM] WG_Wise_Master: you should see my map
+[01/09/2005 07:03 PM] WG_Wise_Master: i need furnature
+[01/09/2005 07:03 PM] RalphNader: you should show me some screens then
+[01/09/2005 07:03 PM] WG_Wise_Master: that's all i'm missing
+[01/09/2005 07:03 PM] RalphNader: lt1's site has some decent furniture
+[01/09/2005 07:03 PM] RalphNader: look at the topic in #urbanmappers
+[01/09/2005 07:03 PM] RalphNader: it's called blackrayne
+[01/09/2005 07:03 PM] WG_Wise_Master: that's the site name?
+[01/09/2005 07:04 PM] RalphNader: look at the topic in #urbanmappers
+[01/09/2005 07:04 PM] RalphNader: it's on there by like its ip address cause he has no DNS
+[01/09/2005 07:04 PM] WG_Wise_Master: oh
+[01/09/2005 07:04 PM] RalphNader: hahahah
+[01/09/2005 07:04 PM] RalphNader: yeah
+[01/09/2005 07:04 PM] RalphNader: it used to be (Link: www.blackrayne.net)www.blackrayne.net
+[01/09/2005 07:04 PM] WG_Wise_Master: (Link: http://www.ut.map-depot.com/forum_viewtopic.php?21.706)http://www.ut.map-depot.com/forum_viewtopic.php?21.706
+[01/09/2005 07:04 PM] RalphNader: if not just look there
+[01/09/2005 07:04 PM] WG_Wise_Master: (Link: http://www.ut.map-depot.com/forum_viewtopic.php?21.702)http://www.ut.map-depot.com/forum_viewtopic.php?21.702
+[01/09/2005 07:04 PM] RalphNader: he's got cars, trucks, furniture, light fixtures, ashtrays, statues
+[01/09/2005 07:04 PM] RalphNader: all kinds of shit
+[01/09/2005 07:05 PM] WG_Wise_Master: cool
+[01/09/2005 07:05 PM] WG_Wise_Master: i'll check it out
+[01/09/2005 07:05 PM] WG_Wise_Master: those two links are my maps
+[01/09/2005 07:07 PM] WG_Wise_Master: oh yeah i meant to ask you, i can't get fog to work
+[01/09/2005 07:07 PM] RalphNader: fog is very tricky
+[01/09/2005 07:07 PM] RalphNader: it can't intersect with other shit
+[01/09/2005 07:07 PM] WG_Wise_Master: something about only one side showing, but if it intersects with a slopping hill does that ruin it?
+[01/09/2005 07:07 PM] RalphNader: and it can only be entered from one side
+[01/09/2005 07:07 PM] RalphNader: liek if you filled a building with it, you could only have one door
+[01/09/2005 07:07 PM] RalphNader: or it'll crash the map
+[01/09/2005 07:08 PM] RalphNader: well what you would do with the sloping hill
+[01/09/2005 07:08 PM] WG_Wise_Master: and water, i can't get the texture to show up, it all looks the same, but i haven't messed with it for a while
+[01/09/2005 07:08 PM] RalphNader: is to csg subtract the hill
+[01/09/2005 07:08 PM] RalphNader: from the fog
+[01/09/2005 07:08 PM] RalphNader: and then you have to caulk the sides of fog
+[01/09/2005 07:08 PM] RalphNader: because let's say you have a table in a room
+[01/09/2005 07:08 PM] RalphNader: and you want fog
+[01/09/2005 07:08 PM] WG_Wise_Master: all sides but the top?
+[01/09/2005 07:09 PM] RalphNader: you'd have to draw boxes of fog all around the table that didn't intersect it
+[01/09/2005 07:09 PM] RalphNader: the sides of those boxes would be visible, so you have to put a 'fog caulk' texture, which lets the compiler know it's still fog, but will be invisible
+[01/09/2005 07:09 PM] RalphNader: it's really stupid
+[01/09/2005 07:09 PM] RalphNader: to handle it that way
+[01/09/2005 07:09 PM] WG_Wise_Master: i think i understand
+[01/09/2005 07:09 PM] RalphNader: probably some strange opengl blending thing
+[01/09/2005 07:10 PM] RalphNader: well with water
+[01/09/2005 07:10 PM] RalphNader: you have to write a shader
+[01/09/2005 07:10 PM] RalphNader: that has your texture in it
+[01/09/2005 07:10 PM] WG_Wise_Master: i can't copy one?
+[01/09/2005 07:10 PM] RalphNader: and call it water
+[01/09/2005 07:10 PM] RalphNader: or something
+[01/09/2005 07:10 PM] RalphNader: sure you can
+[01/09/2005 07:10 PM] WG_Wise_Master: ok
+[01/09/2005 07:10 PM] RalphNader: jsut copy the textures in it too
+[01/09/2005 07:10 PM] RalphNader: or you'll have a grid-looking box that you can swim in
+[01/09/2005 07:10 PM] WG_Wise_Master: i want the one from labrinto
+[01/09/2005 07:11 PM] WG_Wise_Master: well i have water in it, but it is the same with every water texture, the default pool, i want dark sea water for my ship map
+[01/09/2005 07:13 PM] WG_Wise_Master: wow i got a lot of feedback on those too
+[01/09/2005 07:13 PM] WG_Wise_Master: *two
+[01/09/2005 07:15 PM] WG_Wise_Master: wow this site is great
+[01/09/2005 07:15 PM] WG_Wise_Master: blackrayne.net still works
+[01/09/2005 07:16 PM] WG_Wise_Master: this is awesome
+[01/09/2005 07:16 PM] WG_Wise_Master: these lights are great too
+[01/09/2005 07:16 PM] WG_Wise_Master: i need one for my cave
+[01/09/2005 07:17 PM] WG_Wise_Master: do you have a shader for a model that automatically turns it into a light?  this is probably a really noob question but i don't know how to make lights any other way then using entities
+[01/09/2005 07:17 PM] WG_Wise_Master: and i know there is a way to do it in the shader, but i don't have any good examples
+[01/09/2005 07:56 PM] RalphNader: yeah but the shader has to be written into the model I think
+[01/09/2005 07:56 PM] RalphNader: an easy way
+[01/09/2005 07:56 PM] RalphNader: is to make a brush model, and cover it with a realistic texture
+[01/09/2005 07:57 PM] RalphNader: but you're kind of limited in what you can do
+[01/09/2005 08:01 PM] WG_Wise_Master: yeah
+[01/09/2005 08:01 PM] WG_Wise_Master: well i thought the guy rewriting the maps for ET:UT was talking about making a shader for a model that let him control the lighting outside the model
+[01/09/2005 08:02 PM] RalphNader: it's possible
+[01/09/2005 08:02 PM] RalphNader: in ETUT I think
+[01/09/2005 08:02 PM] RalphNader: I haven't done anything with it
+[01/09/2005 08:02 PM] RalphNader: so I dunno
+[01/09/2005 08:02 PM] RalphNader: I'll get around to trying when I'm sure ETUT is a reality
+[01/09/2005 08:02 PM] RalphNader: I'm going to be starting a map just for it soon
+[01/09/2005 08:03 PM] RalphNader: so I'll have one of the few non-urban terror maps that will be ET friendly
+[01/09/2005 08:03 PM] WG_Wise_Master: cool
+[01/09/2005 08:03 PM] WG_Wise_Master: i hope to release this and be able to convert it easily
+[01/09/2005 08:05 PM] RalphNader: I hope the same thing for my maps
+[01/09/2005 08:06 PM] WG_Wise_Master: yeah
+[01/09/2005 08:06 PM] WG_Wise_Master: probably just a change in compiler and a few shader changes
+[01/09/2005 08:06 PM] WG_Wise_Master: i hope
+[01/09/2005 08:15 PM] WG_Wise_Master: can you resize models in radiant?
+[01/09/2005 08:15 PM] RalphNader: yes
+[01/09/2005 08:15 PM] WG_Wise_Master: how?
+[01/09/2005 08:15 PM] RalphNader: you give the model a key
+[01/09/2005 08:15 PM] WG_Wise_Master: a key?
+[01/09/2005 08:15 PM] WG_Wise_Master: what key?
+[01/09/2005 08:15 PM] RalphNader: it's like modelscale I think
+[01/09/2005 08:15 PM] RalphNader: anything smaller than 1 will shrink it
+[01/09/2005 08:16 PM] RalphNader: anything bigger blows it up
+[01/09/2005 08:16 PM] WG_Wise_Master: *sings  "I've got tha powa!"
+[01/09/2005 08:16 PM] RalphNader: so if you want it twice as large, give it a key of modelscale and a value of 2
+[01/09/2005 08:16 PM] WG_Wise_Master: sweet, ty so much!
+[01/09/2005 08:16 PM] WG_Wise_Master: thanks
+[01/09/2005 08:16 PM] WG_Wise_Master: i got it
+[01/09/2005 08:16 PM] RalphNader: you can do vector model scaling too, if you want it say, twice as tall and half as wide
+[01/09/2005 08:17 PM] RalphNader: and you can rotate them to face any direction you want
+[01/09/2005 08:17 PM] RalphNader: even on the x and y axis
+[01/09/2005 08:17 PM] WG_Wise_Master: what is the vector key?
+[01/09/2005 08:17 PM] RalphNader: like modelscale_vec or something
+[01/09/2005 08:17 PM] RalphNader: it's in the explanation
+[01/09/2005 08:17 PM] RalphNader: for the entity function
+[01/09/2005 08:17 PM] WG_Wise_Master: on mapdepot?
+[01/09/2005 08:18 PM] WG_Wise_Master: the explanations don't show up in the newest radiant
+[01/09/2005 08:18 PM] WG_Wise_Master: i see screen shots of the old radiant, but the new one has a different entity properties window
+[01/09/2005 08:22 PM] RalphNader: oh
+[01/09/2005 08:23 PM] RalphNader: I use 1.4
+[01/09/2005 08:23 PM] WG_Wise_Master: yeah, well i have some models that are disproportionate
+[01/09/2005 08:23 PM] RalphNader: well if I remember right
+[01/09/2005 08:23 PM] RalphNader: you key modelscale_vec
+[01/09/2005 08:23 PM] RalphNader: and then give it three numbers
+[01/09/2005 08:23 PM] RalphNader: for x, y, and z
+[01/09/2005 08:23 PM] WG_Wise_Master: ok thanks for your help
+[01/09/2005 08:23 PM] RalphNader: for scaling
+[01/09/2005 08:24 PM] WG_Wise_Master: i don't think i will need the vector scaling
+[01/09/2005 08:24 PM] WG_Wise_Master: the models are pretty nicely set up
+[01/09/2005 08:30 PM] WG_Wise_Master: i can't find a computer shair
+[01/09/2005 08:30 PM] WG_Wise_Master: *chair
+[01/09/2005 08:30 PM] WG_Wise_Master: i'm gonna put you on my special thanks too: section
+[01/09/2005 08:41 PM] WG_Wise_Master: this set doesn't come with computer chairs!
+[01/09/2005 08:41 PM] WG_Wise_Master: i need computer chairs!
+[01/09/2005 08:41 PM] WG_Wise_Master: its in the picture but not in the ZIP file
+Session Close (RalphNader): Sun Jan 09 21:33:42 2005
+
+
+Session Start (WG_Wise_Master:RalphNader): Mon Jan 10 19:01:02 2005
+[01/10/2005 07:01 PM] WG_Wise_Master: do you know anything about server setup?
+[01/10/2005 07:04 PM] WG_Wise_Master: my question is, how do you print a message across the screen>?
+Session Close (RalphNader): Mon Jan 10 19:38:23 2005
+
+
+Session Start (WG_Wise_Master:RalphNader): Mon Jan 10 21:16:45 2005
+[01/10/2005 09:16 PM] RalphNader: in urban terror?
+[01/10/2005 09:16 PM] WG_Wise_Master: yeah
+[01/10/2005 09:16 PM] RalphNader: it's /rcon bigtext "message here"
+[01/10/2005 09:17 PM] WG_Wise_Master: that's it
+[01/10/2005 09:17 PM] WG_Wise_Master: i can't believe i couldn't remember that
+[01/10/2005 09:17 PM] WG_Wise_Master: and how to do you make the flashy consol?
+[01/10/2005 09:17 PM] RalphNader: dunno
+[01/10/2005 09:17 PM] RalphNader: never done that
+[01/10/2005 09:17 PM] WG_Wise_Master: where is says consol:something
+[01/10/2005 09:17 PM] WG_Wise_Master: and flashes red and black
+[01/10/2005 09:17 PM] WG_Wise_Master: or any color
+[01/10/2005 09:19 PM] WG_Wise_Master: i can't get a few of these models to work, from the Black Rayne site
+[01/10/2005 09:21 PM] WG_Wise_Master: this is so annoying
+[01/10/2005 09:21 PM] WG_Wise_Master: i open the files to find where to place them and they still don't work
+[01/10/2005 09:22 PM] WG_Wise_Master: oh yeah thanks again for the scaling help last night, i ended up using the modelscale_vec its worked nicely
+[01/10/2005 09:37 PM] WG_Wise_Master: you been such a great help, is there anything i can do you repay you?
+Session Close (RalphNader): Mon Jan 10 21:42:47 2005
+
+
+Session Start (WG_Wise_Master:RalphNader): Mon Jan 10 21:47:45 2005
+[01/10/2005 09:47 PM] RalphNader: lol nah
+[01/10/2005 09:48 PM] WG_Wise_Master: you sure
+[01/10/2005 09:48 PM] RalphNader: yup
+[01/10/2005 09:48 PM] WG_Wise_Master: anything at all?
+[01/10/2005 09:48 PM] WG_Wise_Master: i know a few programming languages
+[01/10/2005 09:48 PM] RalphNader: yeah kill the five people who bid on this computer I wanted on ebay
+[01/10/2005 09:48 PM] WG_Wise_Master: which ones do you know?
+[01/10/2005 09:48 PM] RalphNader: then it is mine!
+[01/10/2005 09:48 PM] WG_Wise_Master: lol which one?
+[01/10/2005 09:48 PM] RalphNader: fortran, c++, learning python
+[01/10/2005 09:49 PM] WG_Wise_Master: wow
+[01/10/2005 09:49 PM] WG_Wise_Master: good stuff
+[01/10/2005 09:49 PM] RalphNader: well it's a sun workstation with an opteron and a buttload of ecc ram
+[01/10/2005 09:49 PM] RalphNader: and it hadn't been bid on 
+[01/10/2005 09:49 PM] RalphNader: I was all geeked
+[01/10/2005 09:49 PM] WG_Wise_Master: how come you don't build your own?
+[01/10/2005 09:49 PM] RalphNader: I do
+[01/10/2005 09:49 PM] RalphNader: but I saw that
+[01/10/2005 09:49 PM] RalphNader: and thought I could save myself a grand buying it
+[01/10/2005 09:50 PM] RalphNader: now it's like 500 bucks
+[01/10/2005 09:50 PM] WG_Wise_Master: hmmm
+[01/10/2005 09:50 PM] RalphNader: prolly worth three times that
+[01/10/2005 09:50 PM] WG_Wise_Master: wow
+[01/10/2005 09:50 PM] RalphNader: and since its from sun
+[01/10/2005 09:50 PM] RalphNader: it's proll worth 5 times that
+[01/10/2005 09:50 PM] WG_Wise_Master: well if you need any help with some web-based languages you have my contact info
+[01/10/2005 09:50 PM] RalphNader: good deal
+[01/10/2005 09:51 PM] RalphNader: I might just look you up
+[01/10/2005 09:51 PM] WG_Wise_Master: thanks for all yur help
+[01/10/2005 09:51 PM] RalphNader: you know anything about apache?
+[01/10/2005 09:51 PM] WG_Wise_Master: i'm running it right now
+[01/10/2005 09:51 PM] RalphNader: well I will definitely be hollering at you
+[01/10/2005 09:51 PM] RalphNader: I'm setting it up soon
+[01/10/2005 09:51 PM] WG_Wise_Master: don't know everything, but know enough to make password protected files and such
+[01/10/2005 09:51 PM] RalphNader: under linux
+[01/10/2005 09:51 PM] WG_Wise_Master: hmmm might be a little more tricky
+[01/10/2005 09:51 PM] RalphNader: prolly not that much more
+[01/10/2005 09:52 PM] RalphNader: it's modular
+[01/10/2005 09:52 PM] RalphNader: so it's probably very similar
+[01/10/2005 09:52 PM] WG_Wise_Master: but can't most versions of linux act as their own server? they should need apache
+[01/10/2005 09:52 PM] WG_Wise_Master: *shoudn't
+[01/10/2005 09:52 PM] RalphNader: well they can
+[01/10/2005 09:52 PM] RalphNader: but for a web server itself
+[01/10/2005 09:52 PM] RalphNader: they need apache
+[01/10/2005 09:52 PM] RalphNader: to handle things like php and ssl
+[01/10/2005 09:52 PM] WG_Wise_Master: yeah
+[01/10/2005 09:53 PM] WG_Wise_Master: i thought that redhat would do it for you
+[01/10/2005 09:53 PM] RalphNader: just an incoming http directory under linux won't quite do that
+[01/10/2005 09:53 PM] RalphNader: and you still need a simple web serving daemon for that
+[01/10/2005 09:53 PM] RalphNader: dunno, don't run redhat
+[01/10/2005 09:53 PM] WG_Wise_Master: anywho, i know enough about linux to get stuff there, and i have installed all the PHP, SQL, and PERL stuff i need
+[01/10/2005 09:54 PM] WG_Wise_Master: so let me know, i can help you with the install, PHP and SQL went fine, but PERL really hung me up
+[01/10/2005 09:54 PM] WG_Wise_Master: eachother tutorial i read was different
+[01/10/2005 09:55 PM] WG_Wise_Master: i know HTML, PHP, some PERL, JavaScript, VB, Vb.net, some C++, i think that's it
+[01/10/2005 09:56 PM] WG_Wise_Master: anywho, just let me know, i got a few things to wrap up on this map and should have a beta release on my server soon
+[01/10/2005 09:56 PM] WG_Wise_Master: i g2g, ttyl
+[01/10/2005 09:56 PM] WG_Wise_Master: nice talking to you
+[01/10/2005 09:57 PM] RalphNader: you too bro
+[01/10/2005 10:00 PM] WG_Wise_Master: oh yeah i meant to ask you, are you SPD Ralph'Nader and OMC RalphNader?
+Session Close (RalphNader): Mon Jan 10 22:15:41 2005
+
+
+Session Start (WG_Wise_Master:RalphNader): Mon Jan 10 22:39:36 2005
+Session Close (RalphNader): Mon Jan 10 22:39:42 2005
+
+
+Session Start (WG_Wise_Master:RalphNader): Mon Jan 10 22:40:25 2005
+[01/10/2005 10:40 PM] RalphNader: yup
+[01/10/2005 10:40 PM] WG_Wise_Master: ok just wondering
+Session Close (RalphNader): Mon Jan 10 22:44:21 2005
+
+
+Session Start (WG_Wise_Master:RalphNader): Sun Jan 16 23:29:56 2005
+Session Close (RalphNader): Sun Jan 16 23:29:59 2005
+
+

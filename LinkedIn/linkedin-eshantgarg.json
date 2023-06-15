@@ -1,0 +1,475 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "34 Mutual Connections",
+                "You and Eshant both know Erika Flora PMP, PgMP, ITIL Expert,PRINCE2,CSP, Richard Krakora, and 32 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Sr Database BI Developer",
+                "Company Name",
+                "Wells Fargo",
+                "Dates Employed",
+                "Jun 2016 – Present",
+                "Employment Duration",
+                "1 yr 6 mos",
+                "Location",
+                "chandler Arizona",
+                "Responsibilities•\tOwner and single point of contact for all 68 SSIS packages.•\tMigrated all 68 packages from SSIS 2008  to SSIS 2014 version.•\tRedesigned data flow structure according to VFK business needs and introduced ODS concepts in design. •\tOptimizing and restructuring packages as per new data flow design. •\tdesign and develop complex T-SQL ad-hoc scripts, including cleanup and roll back scripts as needed.•\tProvide coding and environment support for SQL Database Development team.•\tRecommend changes to the relational data model to solve performance issues with T-SQL•\tDevelop, support and maintain staging, operational data store and the data warehouse infrastructure."
+            ],
+            [
+                "Sr SQL Server/BI Developer",
+                "Company Name",
+                "DriveTime",
+                "Dates Employed",
+                "Oct 2014 – Jun 2016",
+                "Employment Duration",
+                "1 yr 9 mos",
+                "Location",
+                "Tempe Arizona",
+                "•\tResponsible for overall database development and performance across all 5 scrum boards.•\tAssist Data scientists in Power Pivot reports and SSAS Tabular.•\tDevelops and maintains the SSIS ETL design from an enterprise perspective. Understands the complexity behind the data model and data quality to support build enterprise wide data architectures.•\tWrite and maintain Operational and Analytical SSRS Reports•\tProvide inputs on HLD, and review/validate the LLD of  Database modules/changes.•\tEvaluate current database environments, provide strategic and tactical recommendations that will meet current and future business needs.•\tProvide ongoing suggestions for improvement and innovation within the department."
+            ],
+            [
+                "Sr Database Engineer (Contract)",
+                "Company Name",
+                "Dignity Health",
+                "Dates Employed",
+                "May 2014 – Oct 2014",
+                "Employment Duration",
+                "6 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "•\tDevelop data extractors and loaders, Manage the data conversion process and data push process to the various development/production environments.•\tCreated many SSRS dashboard reports for Immediate management, business analysts and direct clients.•\tMaintaining Internal SSRS reports and SQL Scripts and Produce reports for clients and internal staff using SSRS.•\tPerform ad hoc queries and assists in the development of reports based in response to internal and external requests using Microsoft SQL Server and SSRS•\tSupports data integration and enterprise Business Intelligence initiatives and projects.•\tResponsible for data management and conversion activities such as Data Assessment, cleansing, extracting, migrating and reconciliation of data using SSIS."
+            ],
+            [
+                "Sr Database Engineer (Contract)",
+                "Company Name",
+                "Experian",
+                "Dates Employed",
+                "Jan 2014 – May 2014",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "Orange County, California Area",
+                "•\tProvide inputs on HLD, and review/validate the LLD of  DB modules.•\tDesign, develop, enhance and optimize store procedures, triggers, functions and other database objects.•\tConfigure domain registry for email, sms alerts and priority attributes in cheetah mail system.•\tReview client requirements, perform gap and  impact analysis, and provide inputs in creating the detailed schedule.•\tProvide strategic and tactical direction in the area of database management and maintenance of enterprise data and database infrastructure.•\tEvaluate current database environments and make recommendations that will meet current and future business needs.•\tMake changes in existing SSIS packages and assist in the ongoing development of technical best practices for data movement, data quality, data cleansing and other ETL related activities•\tAssist application development teams with planning and implementing database changes as well as query/job optimization.•\tProactively identify and act on opportunities to improve database systems and Processes.•\tProvide ongoing suggestions for improvement and innovation within the department."
+            ],
+            [
+                "Sr. Database Developer",
+                "Company Name",
+                "Aon Hewitt India",
+                "Dates Employed",
+                "Sep 2012 – Sep 2013",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "US/India",
+                "•\tDesign, Implement and maintain database schema, tables, stored procedures, UDFs, triggers, constraints, Indexes, schemas, functions, views, rules and other database objects•\tMonitoring, optimizing and tuning of queries and other SQL Server database objects. •\tCreated, configured, maintained and optimized SSIS ETL packages to clean, validate, standardize and move data from DM (Data management)  OLTP environment  to RM (Relational management) OLAP environment.•\tDevelops and maintains the ETL design from an enterprise perspective. Understands the complexity behind the data model and data quality to support build enterprise wide data architectures.•\tDevelop data extractors and loaders, Manage the data conversion process and data push process to the various development/production environments.•\tCreated many SSRS dashboard reports for Immediate management, business analysts and direct clients.•\tMaintaining Internal SSRS reports and SQL Scripts and Produce reports for clients and internal staff using SSRS.•\tPerform ad hoc queries and assists in the development of reports based in response to internal and external requests using Microsoft SQL Server and SSRS•\tSupports data integration and enterprise Business Intelligence initiatives and projects.•\tUnderstand the project vision and requirements, and contribute to the creation of the supplemental requirements, building the low-level technical specifications for a particular platform and/or service solution•\tEnsure new features are modeled to integrate with existing application and provide a consistent data model.•\tProvide direction on adoption of new technologies and best industry practices in the field of data architecture and modeling.•\tCollaborate with business analysts source system experts and other team members to determine data extraction and transformation requirements•\tMaintain and enhance SSAS cube ‘Fusion’ functionality by editing/adding dimensions, attributes, hierarchies and aggregations."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Guru Gobind Singh Indraprastha University",
+                "Degree Name",
+                "B.Tech",
+                "Field Of Study",
+                "Computer Science",
+                "Grade",
+                "A Grade",
+                "Dates attended or expected graduation",
+                "2002 – 2006",
+                "Activities and Societies:",
+                "Virus 2k6 (Inter-University Tech fest)",
+                "• Won 1st Prize in VIRUS2K6 (Inter university tech fest) in event of Dream Coders (overnight C programming)• Won 2nd Prize in GATE2K4 (Inter university tech fest) in event of Black Belt (C/C++ programming)"
+            ],
+            [
+                "Guru Gobind Singh Indraprastha University",
+                "Degree Name",
+                "B.Tech",
+                "Field Of Study",
+                "Computer Science",
+                "Grade",
+                "A Grade",
+                "Dates attended or expected graduation",
+                "2002 – 2006",
+                "Activities and Societies:",
+                "Virus 2k6 (Inter-University Tech fest)",
+                "• Won 1st Prize in VIRUS2K6 (Inter university tech fest) in event of Dream Coders (overnight C programming)• Won 2nd Prize in GATE2K4 (Inter university tech fest) in event of Black Belt (C/C++ programming)"
+            ],
+            [
+                "Geeta Bal Bharti School",
+                "Degree Name",
+                "Sec High school",
+                "Field Of Study",
+                "Mathematics and Computer Science",
+                "Grade",
+                "A Grade",
+                "Dates attended or expected graduation",
+                "1994 – 2000"
+            ],
+            [
+                "Geeta Bal Bharti School",
+                "Degree Name",
+                "Sec High school",
+                "Field Of Study",
+                "Mathematics and Computer Science",
+                "Grade",
+                "A Grade",
+                "Dates attended or expected graduation",
+                "1994 – 2000"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See 30 more skills"
+            ],
+            "Recommendations",
+            [
+                "TriWest Healthcare Alliance",
+                "4,174 followers"
+            ],
+            [
+                "SQLAuthority.com",
+                "3,040 followers"
+            ],
+            [
+                "Robert Half Technology",
+                "95,727 followers"
+            ],
+            [
+                "Dignity Health",
+                "50,798 followers"
+            ],
+            [
+                "Hadoop Users",
+                "100,566 members"
+            ],
+            [
+                "IT LEADERS",
+                "1,485 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "TriWest Healthcare Alliance",
+                "4,174 followers"
+            ],
+            [
+                "TriWest Healthcare Alliance",
+                "4,174 followers"
+            ],
+            [
+                "SQLAuthority.com",
+                "3,040 followers"
+            ],
+            [
+                "SQLAuthority.com",
+                "3,040 followers"
+            ],
+            [
+                "Robert Half Technology",
+                "95,727 followers"
+            ],
+            [
+                "Robert Half Technology",
+                "95,727 followers"
+            ],
+            [
+                "Dignity Health",
+                "50,798 followers"
+            ],
+            [
+                "Dignity Health",
+                "50,798 followers"
+            ],
+            [
+                "Hadoop Users",
+                "100,566 members"
+            ],
+            [
+                "Hadoop Users",
+                "100,566 members"
+            ],
+            [
+                "IT LEADERS",
+                "1,485 members"
+            ],
+            [
+                "IT LEADERS",
+                "1,485 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Puneet Chopra",
+                "Senior Software Engineer at Green Dot Corporation",
+                "March 26, 2014, Puneet was senior to Eshant but didn’t manage directly",
+                "I had the opportunity of working with Eshant for several years and I would be happy to work with him again in the future. Eshant is a smart developer with a great deal of depth. He has a great attitude that fits well in an agile development team, and always gets the job done. Eshant is an expert with database and BI and I can always trust the work he has done."
+            ],
+            [
+                "Puneet Chopra",
+                "Senior Software Engineer at Green Dot Corporation",
+                "March 26, 2014, Puneet was senior to Eshant but didn’t manage directly"
+            ],
+            [
+                "Puneet Chopra",
+                "Senior Software Engineer at Green Dot Corporation",
+                "March 26, 2014, Puneet was senior to Eshant but didn’t manage directly"
+            ],
+            [
+                "Puneet Chopra",
+                "Senior Software Engineer at Green Dot Corporation",
+                "March 26, 2014, Puneet was senior to Eshant but didn’t manage directly"
+            ],
+            "Senior Software Engineer at Green Dot Corporation",
+            [
+                "I had the opportunity of working with Eshant for several years and I would be happy to work with him again in the future. Eshant is a smart developer with a great deal of depth. He has a great attitude that fits well in an agile development team, and always gets the job done. Eshant is an expert with database and BI and I can always trust the work he has done."
+            ],
+            [
+                "I had the opportunity of working with Eshant for several years and I would be happy to work with him again in the future. Eshant is a smart developer with a great deal of depth. He has a great attitude that fits well in an agile development team, and always gets the job done. Eshant is an expert with database and BI and I can always trust the work he has done."
+            ],
+            [
+                "VINOD KUMAR PURBEY",
+                "Sr Data Architect at HCL Great Britain",
+                "March 24, 2014, Eshant worked with VINOD KUMAR in the same group",
+                "Eshant is extremely knowledgeable on Microsoft database technologies and is a pleasure to work with as he takes full accountability for his responsibilities and is always willing to provide extra effort to make sure the team achieves their objectives. I highly recommend him for any team as he could be great asset to the company."
+            ],
+            [
+                "VINOD KUMAR PURBEY",
+                "Sr Data Architect at HCL Great Britain",
+                "March 24, 2014, Eshant worked with VINOD KUMAR in the same group"
+            ],
+            [
+                "VINOD KUMAR PURBEY",
+                "Sr Data Architect at HCL Great Britain",
+                "March 24, 2014, Eshant worked with VINOD KUMAR in the same group"
+            ],
+            [
+                "VINOD KUMAR PURBEY",
+                "Sr Data Architect at HCL Great Britain",
+                "March 24, 2014, Eshant worked with VINOD KUMAR in the same group"
+            ],
+            "Sr Data Architect at HCL Great Britain",
+            [
+                "Eshant is extremely knowledgeable on Microsoft database technologies and is a pleasure to work with as he takes full accountability for his responsibilities and is always willing to provide extra effort to make sure the team achieves their objectives. I highly recommend him for any team as he could be great asset to the company."
+            ],
+            [
+                "Eshant is extremely knowledgeable on Microsoft database technologies and is a pleasure to work with as he takes full accountability for his responsibilities and is always willing to provide extra effort to make sure the team achieves their objectives. I highly recommend him for any team as he could be great asset to the company."
+            ],
+            [
+                "Saurabh Gupta",
+                "Manager IT Delivery",
+                "March 20, 2014, Eshant worked with Saurabh in the same group",
+                "Eshant’s in depth knowledge of SQL Server and Microsoft BI technologies make him a great asset on any project he works on. He is very dedicated and result oriented. He is a good team player and puts in his best in everything he does. Also he has excellent learning agility, he adopted domain well in shorter timeframe. I wish him all the best in all perspectives."
+            ],
+            [
+                "Saurabh Gupta",
+                "Manager IT Delivery",
+                "March 20, 2014, Eshant worked with Saurabh in the same group"
+            ],
+            [
+                "Saurabh Gupta",
+                "Manager IT Delivery",
+                "March 20, 2014, Eshant worked with Saurabh in the same group"
+            ],
+            [
+                "Saurabh Gupta",
+                "Manager IT Delivery",
+                "March 20, 2014, Eshant worked with Saurabh in the same group"
+            ],
+            "Manager IT Delivery",
+            [
+                "Eshant’s in depth knowledge of SQL Server and Microsoft BI technologies make him a great asset on any project he works on. He is very dedicated and result oriented. He is a good team player and puts in his best in everything he does. Also he has excellent learning agility, he adopted domain well in shorter timeframe. I wish him all the best in all perspectives."
+            ],
+            [
+                "Eshant’s in depth knowledge of SQL Server and Microsoft BI technologies make him a great asset on any project he works on. He is very dedicated and result oriented. He is a good team player and puts in his best in everything he does. Also he has excellent learning agility, he adopted domain well in shorter timeframe. I wish him all the best in all perspectives."
+            ],
+            [
+                "Alok Kumar Seth",
+                "Database Architect | Database Specialist at Admiral Technologies",
+                "March 20, 2014, Eshant worked with Alok Kumar in the same group",
+                "\"I have worked with Eshant in the Fusion project. It was a professionally blessed experience to work with an outstanding Database guy. He is very capable, resourceful, enthusiastic, and team-oriented professional. He would be an immediate positively impact team-player addition to any team/company. His contribution will be beyond his exceptional coding skill.\""
+            ],
+            [
+                "Alok Kumar Seth",
+                "Database Architect | Database Specialist at Admiral Technologies",
+                "March 20, 2014, Eshant worked with Alok Kumar in the same group"
+            ],
+            [
+                "Alok Kumar Seth",
+                "Database Architect | Database Specialist at Admiral Technologies",
+                "March 20, 2014, Eshant worked with Alok Kumar in the same group"
+            ],
+            [
+                "Alok Kumar Seth",
+                "Database Architect | Database Specialist at Admiral Technologies",
+                "March 20, 2014, Eshant worked with Alok Kumar in the same group"
+            ],
+            "Database Architect | Database Specialist at Admiral Technologies",
+            [
+                "\"I have worked with Eshant in the Fusion project. It was a professionally blessed experience to work with an outstanding Database guy. He is very capable, resourceful, enthusiastic, and team-oriented professional. He would be an immediate positively impact team-player addition to any team/company. His contribution will be beyond his exceptional coding skill.\""
+            ],
+            [
+                "\"I have worked with Eshant in the Fusion project. It was a professionally blessed experience to work with an outstanding Database guy. He is very capable, resourceful, enthusiastic, and team-oriented professional. He would be an immediate positively impact team-player addition to any team/company. His contribution will be beyond his exceptional coding skill.\""
+            ],
+            [
+                "Sapna Kaant",
+                "Software Engineer at Intel Corporation",
+                "March 19, 2014, Eshant worked with Sapna in the same group",
+                "I worked with Eshant for almost 2 years, He is the epitome of a team player, putting in whatever it takes to get things done and ensure strength within a team. He is technically very sound in Microsoft database and BI technologies, with his level of skill he can be the best asset for any organization. I wish him all the best."
+            ],
+            [
+                "Sapna Kaant",
+                "Software Engineer at Intel Corporation",
+                "March 19, 2014, Eshant worked with Sapna in the same group"
+            ],
+            [
+                "Sapna Kaant",
+                "Software Engineer at Intel Corporation",
+                "March 19, 2014, Eshant worked with Sapna in the same group"
+            ],
+            [
+                "Sapna Kaant",
+                "Software Engineer at Intel Corporation",
+                "March 19, 2014, Eshant worked with Sapna in the same group"
+            ],
+            "Software Engineer at Intel Corporation",
+            [
+                "I worked with Eshant for almost 2 years, He is the epitome of a team player, putting in whatever it takes to get things done and ensure strength within a team. He is technically very sound in Microsoft database and BI technologies, with his level of skill he can be the best asset for any organization. I wish him all the best."
+            ],
+            [
+                "I worked with Eshant for almost 2 years, He is the epitome of a team player, putting in whatever it takes to get things done and ensure strength within a team. He is technically very sound in Microsoft database and BI technologies, with his level of skill he can be the best asset for any organization. I wish him all the best."
+            ],
+            [
+                "Tara Trailov",
+                "Managing Consultant at World Wide Technology",
+                "October 17, 2014, Eshant worked with Tara in different groups",
+                "I always find her reachable, always got quick response, pretty organized and proactive in approach. It was nice interacting with her, hope will work again with her."
+            ],
+            [
+                "Tara Trailov",
+                "Managing Consultant at World Wide Technology",
+                "October 17, 2014, Eshant worked with Tara in different groups"
+            ],
+            [
+                "Tara Trailov",
+                "Managing Consultant at World Wide Technology",
+                "October 17, 2014, Eshant worked with Tara in different groups"
+            ],
+            [
+                "Tara Trailov",
+                "Managing Consultant at World Wide Technology",
+                "October 17, 2014, Eshant worked with Tara in different groups"
+            ],
+            "Managing Consultant at World Wide Technology",
+            [
+                "I always find her reachable, always got quick response, pretty organized and proactive in approach. It was nice interacting with her, hope will work again with her."
+            ],
+            [
+                "I always find her reachable, always got quick response, pretty organized and proactive in approach. It was nice interacting with her, hope will work again with her."
+            ],
+            [
+                "Yogesh Chaturvedi",
+                "Senior Manager of Engineering |  Principal Architect",
+                "July 16, 2014, Eshant reported directly to Yogesh",
+                "Yogesh is proactive, always thinking of out of box solution, always trying to automate things, always seeking for opportunities to improve and optimize system. I had an opportunity working with him in Experian and it was great learning time I had with him. I would recommend him for his managerial and leadership skills."
+            ],
+            [
+                "Yogesh Chaturvedi",
+                "Senior Manager of Engineering |  Principal Architect",
+                "July 16, 2014, Eshant reported directly to Yogesh"
+            ],
+            [
+                "Yogesh Chaturvedi",
+                "Senior Manager of Engineering |  Principal Architect",
+                "July 16, 2014, Eshant reported directly to Yogesh"
+            ],
+            [
+                "Yogesh Chaturvedi",
+                "Senior Manager of Engineering |  Principal Architect",
+                "July 16, 2014, Eshant reported directly to Yogesh"
+            ],
+            "Senior Manager of Engineering |  Principal Architect",
+            [
+                "Yogesh is proactive, always thinking of out of box solution, always trying to automate things, always seeking for opportunities to improve and optimize system. I had an opportunity working with him in Experian and it was great learning time I had with him. I would recommend him for his managerial and leadership skills."
+            ],
+            [
+                "Yogesh is proactive, always thinking of out of box solution, always trying to automate things, always seeking for opportunities to improve and optimize system. I had an opportunity working with him in Experian and it was great learning time I had with him. I would recommend him for his managerial and leadership skills."
+            ]
+        ],
+        "skills": [
+            [
+                "Microsoft SQL Server",
+                "See 61 endorsements for Microsoft SQL Server",
+                "61",
+                "Microsoft SQL Server",
+                "Endorse",
+                "Endorsed by vikash punia and 3 others who are highly skilled at this",
+                "Endorsed by Dov Greenberg and 1 other mutual connection"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 61 endorsements for Microsoft SQL Server",
+                "61"
+            ],
+            [
+                "Databases",
+                "See 49 endorsements for Databases",
+                "49",
+                "Databases",
+                "Endorse",
+                "Endorsed by Mathias Golombek and 1 other who is highly skilled at this",
+                "Endorsed by Dov Greenberg (mutual connection)"
+            ],
+            [
+                "Databases",
+                "See 49 endorsements for Databases",
+                "49"
+            ],
+            [
+                "SQL",
+                "See 47 endorsements for SQL",
+                "47",
+                "SQL",
+                "Endorse",
+                "Endorsed by Mohan N., who is highly skilled at this",
+                "Endorsed by Dov Greenberg (mutual connection)"
+            ],
+            [
+                "SQL",
+                "See 47 endorsements for SQL",
+                "47"
+            ]
+        ],
+        "summary": "    I am Microsoft Certified Specialist in SQL Server who's been working in Analysis, Design, Development, Maintenance and Support of large (10 TB+) SQL Server databases 2000-2016 from last 10+ years. Specialties:  - SQL Server performance tuning and Query optimization  - Designing and Implementing Relational and Multidimensional Databases.  - Power pivot, SSRS Reporting, SSAS Tabular model  - ETL through SSIS packages  - Microsoft SQL Server 2008/2012/2014/2016, Erwin, T-SQL, BIDS, SSRS, SSIS, SSAS,  Profiler, Tuning Advisor, SQLSentry, Office 365 Power BI, SQL Sever Data Tools (SSDT)Database Design, Development and Optimization•\tExcellent in complex T-SQL skills including distributed queries and advance SQLCLR code•\tIn depth understanding of Index analysis and strategies •\tExperience in Database performance tuning and query optimization(PTO)MSBI Design, Development and optimization•\tExperience on reporting tool like SSRS, ETL tool like SSIS, DTS, SSAS and OLAP environment using Microsoft BIDS.•\tExperience in SSIS performance tuning techniques like optimizing buffer Size, Buffer usage, Execution trees and  Parallelism.•\tExperienced in generating on-demand and scheduled reports for business analysis or management decisions using Microsoft SSRS.•\tKnowledge on creating dashboard using SSRS and other Microsoft office 365 power BI tools like power pivot, power query, power view, power map and other BI end user tools like Tableau.•\tExperience in deploy, process and build SSAS cubes, maintaining and enhancing aggregations, dimension, attributes, hierarchies, KPI’s perspective, partition and measures using BIDS tools.Certification and others•\tMicrosoft Certified Technology specialist (MCTS) – SQL Server 2008, Database development•\tMicrosoft Certified IT Professional (MCITP) – SQL Server 2005, Database Administrator•\tPractitioner of Agile Methodologies such as Scrum, Extreme Programming (XP) and Test Driven Development (TDD)\n  \n  \n",
+        "name": "Eshant Garg",
+        "title": "Sr Database BI Developer at Wells Fargo",
+        "url": "linkedin.com/in/eshantgarg",
+        "phone": "+1 480-519-3975 (Mobile)",
+        "email": "eshant.garg@gmail.com"
+    }
+]

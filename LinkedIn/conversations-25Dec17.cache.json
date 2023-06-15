@@ -1,0 +1,85 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "25Dec17",
+    "participants": "Brian Cullinan | wizard > Mayank Prasad | Entrepreneur & Computer Engineer",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Mayank Prasad",
+        "url": "linkedin.com/in/prasadmayank",
+        "phone": "+1 (480) 878-9227 (Mobile)",
+        "email": "max@maxEmbedded.com",
+        "title": "Entrepreneur & Computer Engineer"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-12-25T23:15:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Dec17",
+    "participants": "Brian Cullinan | wizard > Muhammad Awais | Co Founder at Upstartify",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Muhammad Awais",
+        "url": "linkedin.com/in/muhammad-awais-1558b4108",
+        "email": "awais.55@hotmail.com",
+        "title": "Co Founder at Upstartify"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-12-25T20:46:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "25Dec17",
+    "participants": "Brian Cullinan | wizard > Diana Sherwood | Scrum Master at Solera Health",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Diana Sherwood",
+        "url": "linkedin.com/in/dianasherwood5000",
+        "phone": "602 888 6312 (Work)",
+        "email": "diana@5000solutions.com",
+        "title": "Scrum Master at Solera Health"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-12-25T20:45:00.000Z",
+    "title": "wizard"
+  }
+]

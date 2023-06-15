@@ -1,0 +1,64 @@
+{
+    "thread": "/messaging/thread/6217382367720460288/",
+    "participants": [
+        {
+            "name": "Chris Huie",
+            "title": "Developer Evangelist at Galvanize Inc",
+            "url": "linkedin.com/in/chris-huie-896936b2",
+            "phone": "602-750-6878 (Home)",
+            "email": "christopher.huie@galvanize.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Hello! Thank you for the meetup!\n",
+            "time": "2017-12-21T16:57:00.000Z"
+        },
+        {
+            "from": "Chris Huie",
+            "message": "Thanks for coming! Excited for the turnout we had. Is there anything specific you would like to see talks on in the future or anything you specifically feel comfortable sharing with the group?\n",
+            "time": "2017-12-21T16:59:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Still working on my comfort level. I want to find success with a start-up before I lecture on it. I've been using Nodejs. That is fun but there is already a meeting topic for it. Maybe a crash course intro on data analytics?\n",
+            "time": "2017-12-21T17:01:00.000Z"
+        },
+        {
+            "from": "Chris Huie",
+            "message": "Do you ever make it to the node Meetup? Used to go but now tend toward the IOT one that broke off. A talk on node or data analytics intros would be rad! After the holidays lets grab lunch or something.\n",
+            "time": "2017-12-21T22:26:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Sounds good!\n",
+            "time": "2017-12-21T22:27:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I thought node was coming up in January\n",
+            "time": "2017-12-21T22:27:00.000Z"
+        },
+        {
+            "from": "Chris Huie",
+            "message": "So for my Learn To Code Meetup we are doing intro to JavaScript meetups in early January but nothing focused on Node-specific functions if that interests you. Let's connect after the first of the year and grab lunch or something and talk further about things we can work on together.\n",
+            "time": "2017-12-21T22:56:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thanks, I look forward to it!\n",
+            "time": "2017-12-21T23:01:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thanks for endorsing me for Software Development!\n",
+            "time": "2018-01-11T13:40:00.000Z"
+        },
+        {
+            "from": "Chris Huie",
+            "message": "Gladly :-)\n",
+            "time": "2018-01-11T18:55:00.000Z"
+        }
+    ]
+}

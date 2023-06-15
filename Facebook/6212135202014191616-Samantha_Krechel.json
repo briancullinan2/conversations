@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6212135202014191616/",
+    "participants": [
+        {
+            "name": "Samantha Krechel",
+            "title": "Market Manager",
+            "url": "linkedin.com/in/skrechel",
+            "phone": null,
+            "email": "samantha.krechel@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Have you ever put tiny clothes on your mobile?\n",
+            "time": "2017-12-07T05:27:00.000Z"
+        }
+    ]
+}

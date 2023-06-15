@@ -1,0 +1,584 @@
+[
+    {
+        "resourceName": "people/c809121229016719710",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMZmdqZmZKZFRnUTg9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "b3a93788bc4e15e"
+                    }
+                },
+                "displayName": "Ryan Turner",
+                "familyName": "Turner",
+                "givenName": "Ryan",
+                "displayNameLastFirst": "Turner, Ryan"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "b3a93788bc4e15e"
+                    }
+                },
+                "value": "(480) 454-6287",
+                "canonicalForm": "+14804546287",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "3 Mutual Connections",
+                "You and Ryan both know Mo Masoud, Christine Hartnett, and 1 other"
+            ],
+            [
+                "Took a bit of time off studying for the CCIE to complete some training with Sangoma.  Apparently I still have some of my voice skills.",
+                "Ryan liked"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Technical Recruiter",
+                "Company Name",
+                "GTN Technical Staffing and Consulting",
+                "Dates Employed",
+                "Aug 2017 – Present",
+                "Employment Duration",
+                "4 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "Client Relationship Manager",
+                "Company Name",
+                "NSG (Network Solutions Group, LLC)",
+                "Dates Employed",
+                "Jan 2017 – Apr 2017",
+                "Employment Duration",
+                "4 mos",
+                "Location",
+                "Nashville, TN",
+                "Served as liaison between NSG and Nashville’s fastest growing businesses. First and foremost I was a dedicated high-end technical resource that ensured clients of NSG received best-in-class customer service, strategic IT solutions, and services that drive productivity. Served as a “total resource” acting as the Director/Systems Administrator for a specific set of clients. The second largest component of this role was lead generation and sales. While working in the field, it was imperative that I formed long, trusting bonds with our clients. This role also involved management, assigning work to the engineers and overseeing IT operations to ensure the engineer finished the job to completion."
+            ],
+            [
+                "Systems Engineer",
+                "Company Name",
+                "NSG (Network Solutions Group, LLC)",
+                "Dates Employed",
+                "Sep 2015 – Jan 2017",
+                "Employment Duration",
+                "1 yr 5 mos",
+                "Location",
+                "Greater Nashville Area, TN",
+                "Served as escalation point for Support Engineers and performed all on-site, client facing work. This role required the constant development of relationships with clients both new and long standing. Involved acting as the face of the company and always performing conscientious to the client’s need. Work with project managers to complete long-term projects both on and off-site. Diagnosing and resolving hardware and software issues in an efficient and timely manner. Create and provide innovative solution to complex technical problems. Plan, coordinate, and implement network security measures to protect data. Identify, predict, interpret, and evaluate current and future system and network requirements. Maintain and administer computer networks, including hardware, firewalls, software, applications, and inventory management. Position involves the ability to constantly adapt and troubleshoot/install new technology while documenting procedures for future technicians. Work towards hitting monthly hour goal of billing while documenting every aspect of day-to-day work."
+            ],
+            [
+                "Support Engineer",
+                "Company Name",
+                "NSG (Network Solutions Group, LLC)",
+                "Dates Employed",
+                "Jan 2015 – Sep 2015",
+                "Employment Duration",
+                "9 mos",
+                "Location",
+                "Greater Nashville Area, TN",
+                "Acted as the first point of contact for clients who needed support. Clients ranged from private businesses, labor unions, law firms, and more.  Worked directly with customers on a technical basis to quickly and effectively restore 100% functions related to all technology. Diagnose d hardware and software problems and replaced defective components in a cost effective and efficient manner. Managed web based queue of tickets. Performed client facing onsite technical work to cover overflow for onsite resources. Remotely supported clients via remote software for ranges of issues. Immediately responded to crypto attacks or other malicious attacks on workstations or servers. Participated in 24x7 on call rotations. Performed monthly backup test restores on both local and cloud based systems. Deployed and maintained monitoring agents and participated in daily checks. Responded with action to any monitoring alert that came into the queue during the day.  Supported a diverse catalogue of applications for different types of businesses & organizations. Worked with senior resources to complete projects and long term goals"
+            ],
+            [
+                "Signal Corps",
+                "Company Name",
+                "Army National Guard",
+                "Dates Employed",
+                "Jun 2009 – Jul 2015",
+                "Employment Duration",
+                "6 yrs 2 mos",
+                "Location",
+                "Greater Nashville Area, TN",
+                "Served as member of 230th Signal Company in Nashville, TN. During this time, 25L school was completed with 3M certifications in fiber optics and splicing technologies. Deployed to Afghanistan and served as night shift NCOIC of the Camp Marmal Help Desk from February 2011 - March 2012."
+            ],
+            [
+                "Help Desk Manager/Jr. Systems Administrator",
+                "Company Name",
+                "D&SCI",
+                "Dates Employed",
+                "Jun 2013 – Nov 2014",
+                "Employment Duration",
+                "1 yr 6 mos",
+                "Location",
+                "Kabul, Afghanistan",
+                "Served on a mobile support team that traveled and supported multiple compounds in Afghanistan to include DEA, FBI, Camp Suitor, Camp Alvarado, Camp Heath, Camp Green, OGA (Other Government Agency), MCTF (Major Crime Task Force), and Camp Phoenix. Installed, configured, and maintained Active Directory (AD), DHCP, Exchange, SCCM, workstations, file servers, fiber runs, & microwave radio shots for the assigned Department of Defense & Department of State computer networks. Was directly responsible for hand receipts & items worth over $10 million of IT equipment, and other mission essential items. Laid copper & fiber optic to ensure connectivity in all buildings on each respective base. Worked directly with Special Agents & other government officials ensuring all of their needs were met. Monitored and managed system resources, including storage disk usage, tape backup systems, and response times to maintain operating efficiency. Performed system backups and recovery procedures."
+            ],
+            [
+                "Computer System Analyst",
+                "Company Name",
+                "Exelis (Now part of Harris Corporation)",
+                "Dates Employed",
+                "Mar 2012 – Jun 2013",
+                "Employment Duration",
+                "1 yr 4 mos",
+                "Location",
+                "Bagram Air Field, Afghanistan",
+                "Provided comprehensive help desk support for problems and service requests related to supported hardware, software, network connectivity and application support for the largest base in Afghanistan with a user base of over 50,000 people. Trained multiple Help Desk Administrators to understand processes, policies and resolutions specific to SWA network. Maintained, created, and modified user, computer, security and distribution objects via active directory. Provided Microsoft Exchange support by moving mailboxes, recognizing exchange issues and resolving problems quickly. Installed, configured, and troubleshot various legacy and enterprise software/hardware. Assisted Help Desk personnel with difficult customer questions and ensured high quality feedback. Tracked all work through with Remedy ticketing system. Managed Help Desk queue for new, priority and VIP tickets to be processed. Provided Network Outage reporting, tracking and resolution verification. Worked directly with the military, training, and assisting the soldiers of our helpdesk to bridge the gap between civilians and our military counterparts."
+            ],
+            [
+                "Help Desk NCOIC/Fiber Optics Installer",
+                "Company Name",
+                "580th Signal Company",
+                "Dates Employed",
+                "Feb 2011 – Mar 2012",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "Camp Marmal, Afghanistan",
+                "Served as night shift NCOIC of the Camp Marmal help desk. Responsibilities involved help desk duties relating to active directory and server maintenance. Managed soldiers while ensuring civilian contractors were meeting Army standards. While not working in the help desk I also assisted with fiber optic runs and long term projects."
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "The 20 MSP",
+                "167 followers"
+            ],
+            [
+                "Nextiva",
+                "24,827 followers"
+            ],
+            [
+                "cStor",
+                "1,351 followers"
+            ],
+            [
+                "CDI Talent & Technology Solutions",
+                "20,948 followers"
+            ],
+            [
+                "Tennessee Army National Guard",
+                "259 followers"
+            ],
+            [
+                "Signature Consultants",
+                "38,830 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "The 20 MSP",
+                "167 followers"
+            ],
+            [
+                "The 20 MSP",
+                "167 followers"
+            ],
+            [
+                "Nextiva",
+                "24,827 followers"
+            ],
+            [
+                "Nextiva",
+                "24,827 followers"
+            ],
+            [
+                "cStor",
+                "1,351 followers"
+            ],
+            [
+                "cStor",
+                "1,351 followers"
+            ],
+            [
+                "CDI Talent & Technology Solutions",
+                "20,948 followers"
+            ],
+            [
+                "CDI Talent & Technology Solutions",
+                "20,948 followers"
+            ],
+            [
+                "Tennessee Army National Guard",
+                "259 followers"
+            ],
+            [
+                "Tennessee Army National Guard",
+                "259 followers"
+            ],
+            [
+                "Signature Consultants",
+                "38,830 followers"
+            ],
+            [
+                "Signature Consultants",
+                "38,830 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Zachary (Zac) Johnson",
+                "Vice President of Strategic Development at Secure Identity Systems",
+                "September 19, 2017, Zachary (Zac) managed Ryan directly",
+                "I had the opportunity to manage, train, and eventually work alongside Ryan Turner as a Senior Client Relationship Manager. Ryan is a self-motivated individual that excels in a fast paced environment. He is very analytical and detail oriented. Ryan is a strong verbal communicator, and has a gift of winning others over. He conducts himself in a professional manner and I would recommend Ryan for any sales, client relations, or recruiting position."
+            ],
+            [
+                "Zachary (Zac) Johnson",
+                "Vice President of Strategic Development at Secure Identity Systems",
+                "September 19, 2017, Zachary (Zac) managed Ryan directly"
+            ],
+            [
+                "Zachary (Zac) Johnson",
+                "Vice President of Strategic Development at Secure Identity Systems",
+                "September 19, 2017, Zachary (Zac) managed Ryan directly"
+            ],
+            [
+                "Zachary (Zac) Johnson",
+                "Vice President of Strategic Development at Secure Identity Systems",
+                "September 19, 2017, Zachary (Zac) managed Ryan directly"
+            ],
+            "Vice President of Strategic Development at Secure Identity Systems",
+            [
+                "I had the opportunity to manage, train, and eventually work alongside Ryan Turner as a Senior Client Relationship Manager. Ryan is a self-motivated individual that excels in a fast paced environment. He is very analytical and detail oriented. Ryan is a strong verbal communicator, and has a gift of winning others over. He conducts himself in a professional manner and I would recommend Ryan for any sales, client relations, or recruiting position."
+            ],
+            [
+                "I had the opportunity to manage, train, and eventually work alongside Ryan Turner as a Senior Client Relationship Manager. Ryan is a self-motivated individual that excels in a fast paced environment. He is very analytical and detail oriented. Ryan is a strong verbal communicator, and has a gift of winning others over. He conducts himself in a professional manner and I would recommend Ryan for any sales, client relations, or recruiting position."
+            ],
+            [
+                "Chase Crocker",
+                "IT System Engineer at Impact360",
+                "September 19, 2017, Ryan was senior to Chase but didn’t manage directly",
+                "Ryan was a fantastic person to work with, and is not only a multi-skilled and insightful colleague, but also proactive perfectionist. Very good person. Great employee with a very strong problem solving skills. Ryan is an asset to any company. As a team member or a leader, Ryan earns my highest recommendation."
+            ],
+            [
+                "Chase Crocker",
+                "IT System Engineer at Impact360",
+                "September 19, 2017, Ryan was senior to Chase but didn’t manage directly"
+            ],
+            [
+                "Chase Crocker",
+                "IT System Engineer at Impact360",
+                "September 19, 2017, Ryan was senior to Chase but didn’t manage directly"
+            ],
+            [
+                "Chase Crocker",
+                "IT System Engineer at Impact360",
+                "September 19, 2017, Ryan was senior to Chase but didn’t manage directly"
+            ],
+            "IT System Engineer at Impact360",
+            [
+                "Ryan was a fantastic person to work with, and is not only a multi-skilled and insightful colleague, but also proactive perfectionist. Very good person. Great employee with a very strong problem solving skills. Ryan is an asset to any company. As a team member or a leader, Ryan earns my highest recommendation."
+            ],
+            [
+                "Ryan was a fantastic person to work with, and is not only a multi-skilled and insightful colleague, but also proactive perfectionist. Very good person. Great employee with a very strong problem solving skills. Ryan is an asset to any company. As a team member or a leader, Ryan earns my highest recommendation."
+            ],
+            [
+                "Chase Crocker",
+                "IT System Engineer at Impact360",
+                "September 21, 2017, Ryan was senior to Chase but didn’t manage directly",
+                "I had the pleasure of working with chase for over a year at NSG, LLC in Nashville. When Chase was first hired he was new to the IT world. Chase made it his mission to absorb and learn as much information as he possibly could. I saw Chase quickly develop into a strong, analytic, thought driven engineer in a short amount of time. I'm very happy Chase has moved on the bigger and better things and truly do believe the sky is the limit for him.  If an employer is looking for a hardworking, dedicated,  individual with the ability to learn new skills, Chase is your guy."
+            ],
+            [
+                "Chase Crocker",
+                "IT System Engineer at Impact360",
+                "September 21, 2017, Ryan was senior to Chase but didn’t manage directly"
+            ],
+            [
+                "Chase Crocker",
+                "IT System Engineer at Impact360",
+                "September 21, 2017, Ryan was senior to Chase but didn’t manage directly"
+            ],
+            [
+                "Chase Crocker",
+                "IT System Engineer at Impact360",
+                "September 21, 2017, Ryan was senior to Chase but didn’t manage directly"
+            ],
+            "IT System Engineer at Impact360",
+            [
+                "I had the pleasure of working with chase for over a year at NSG, LLC in Nashville. When Chase was first hired he was new to the IT world. Chase made it his mission to absorb and learn as much information as he possibly could. I saw Chase quickly develop into a strong, analytic, thought driven engineer in a short amount of time. I'm very happy Chase has moved on the bigger and better things and truly do believe the sky is the limit for him.  If an employer is looking for a hardworking, dedicated,  individual with the ability to learn new skills, Chase is your guy."
+            ],
+            [
+                "I had the pleasure of working with chase for over a year at NSG, LLC in Nashville. When Chase was first hired he was new to the IT world. Chase made it his mission to absorb and learn as much information as he possibly could. I saw Chase quickly develop into a strong, analytic, thought driven engineer in a short amount of time. I'm very happy Chase has moved on the bigger and better things and truly do believe the sky is the limit for him.  If an employer is looking for a hardworking, dedicated,  individual with the ability to learn new skills, Chase is your guy."
+            ],
+            [
+                "Zachary (Zac) Johnson",
+                "Vice President of Strategic Development at Secure Identity Systems",
+                "September 21, 2017, Ryan reported directly to Zachary (Zac)",
+                "I have had the pleasure of working with Zac in two different capacities. The first time I was a Systems Engineer while he was in a CRM position. Zac was always extremely professional to work with and always made the clients feel at ease. He has an amazing ability to bridge the gap between technology and client management. When I eventually made the career change into CRM and joined his team, Zac went out of his way to make sure that I was trained properly. Zac has the uncanny ability to see big picture, even when the people around him do not. His experience with Business Development is almost unrivaled in the current market. While acting as my mentor, I was constantly blown away by his ability to remember the small personal details of everyone he encountered, making it easy for him to call anyone a friend. I would recommend Zac for any management, business development, sales, or client management position."
+            ],
+            [
+                "Zachary (Zac) Johnson",
+                "Vice President of Strategic Development at Secure Identity Systems",
+                "September 21, 2017, Ryan reported directly to Zachary (Zac)"
+            ],
+            [
+                "Zachary (Zac) Johnson",
+                "Vice President of Strategic Development at Secure Identity Systems",
+                "September 21, 2017, Ryan reported directly to Zachary (Zac)"
+            ],
+            [
+                "Zachary (Zac) Johnson",
+                "Vice President of Strategic Development at Secure Identity Systems",
+                "September 21, 2017, Ryan reported directly to Zachary (Zac)"
+            ],
+            "Vice President of Strategic Development at Secure Identity Systems",
+            [
+                "I have had the pleasure of working with Zac in two different capacities. The first time I was a Systems Engineer while he was in a CRM position. Zac was always extremely professional to work with and always made the clients feel at ease. He has an amazing ability to bridge the gap between technology and client management. When I eventually made the career change into CRM and joined his team, Zac went out of his way to make sure that I was trained properly. Zac has the uncanny ability to see big picture, even when the people around him do not. His experience with Business Development is almost unrivaled in the current market. While acting as my mentor, I was constantly blown away by his ability to remember the small personal details of everyone he encountered, making it easy for him to call anyone a friend. I would recommend Zac for any management, business development, sales, or client management position."
+            ],
+            [
+                "I have had the pleasure of working with Zac in two different capacities. The first time I was a Systems Engineer while he was in a CRM position. Zac was always extremely professional to work with and always made the clients feel at ease. He has an amazing ability to bridge the gap between technology and client management. When I eventually made the career change into CRM and joined his team, Zac went out of his way to make sure that I was trained properly. Zac has the uncanny ability to see big picture, even when the people around him do not. His experience with Business Development is almost unrivaled in the current market. While acting as my mentor, I was constantly blown away by his ability to remember the small personal details of everyone he encountered, making it easy for him to call anyone a friend. I would recommend Zac for any management, business development, sales, or client management position."
+            ]
+        ],
+        "skills": [
+            [
+                "Technical Recruiting",
+                "Technical Recruiting",
+                "Endorse",
+                "Be the first to endorse Ryan for this skill"
+            ],
+            [
+                "Technical Recruiting"
+            ],
+            [
+                "Account Management",
+                "Account Management",
+                "Endorse",
+                "Be the first to endorse Ryan for this skill"
+            ],
+            [
+                "Account Management"
+            ],
+            [
+                "Sales",
+                "Sales",
+                "Endorse",
+                "Be the first to endorse Ryan for this skill"
+            ],
+            [
+                "Sales"
+            ],
+            [
+                "Industry Networking",
+                "See 1 endorsement for Industry Networking",
+                "1",
+                "Industry Networking",
+                "Endorse"
+            ],
+            [
+                "Industry Networking",
+                "See 1 endorsement for Industry Networking",
+                "1"
+            ],
+            [
+                "Customer Relationship Management (CRM)",
+                "See 1 endorsement for Customer Relationship Management (CRM)",
+                "1",
+                "Customer Relationship Management (CRM)",
+                "Endorse"
+            ],
+            [
+                "Customer Relationship Management (CRM)",
+                "See 1 endorsement for Customer Relationship Management (CRM)",
+                "1"
+            ],
+            [
+                "Network Security",
+                "See 4 endorsements for Network Security",
+                "4",
+                "Network Security",
+                "Endorse"
+            ],
+            [
+                "Network Security",
+                "See 4 endorsements for Network Security",
+                "4"
+            ],
+            [
+                "Security",
+                "See 4 endorsements for Security",
+                "4",
+                "Security",
+                "Endorse"
+            ],
+            [
+                "Security",
+                "See 4 endorsements for Security",
+                "4"
+            ],
+            [
+                "Network Administration",
+                "See 4 endorsements for Network Administration",
+                "4",
+                "Network Administration",
+                "Endorse"
+            ],
+            [
+                "Network Administration",
+                "See 4 endorsements for Network Administration",
+                "4"
+            ],
+            [
+                "Technical Support",
+                "See 5 endorsements for Technical Support",
+                "5",
+                "Technical Support",
+                "Endorse"
+            ],
+            [
+                "Technical Support",
+                "See 5 endorsements for Technical Support",
+                "5"
+            ],
+            [
+                "Networking",
+                "See 3 endorsements for Networking",
+                "3",
+                "Networking",
+                "Endorse"
+            ],
+            [
+                "Networking",
+                "See 3 endorsements for Networking",
+                "3"
+            ],
+            [
+                "Firewalls",
+                "See 2 endorsements for Firewalls",
+                "2",
+                "Firewalls",
+                "Endorse"
+            ],
+            [
+                "Firewalls",
+                "See 2 endorsements for Firewalls",
+                "2"
+            ],
+            [
+                "Computer Hardware",
+                "See 2 endorsements for Computer Hardware",
+                "2",
+                "Computer Hardware",
+                "Endorse"
+            ],
+            [
+                "Computer Hardware",
+                "See 2 endorsements for Computer Hardware",
+                "2"
+            ],
+            [
+                "Servers",
+                "See 2 endorsements for Servers",
+                "2",
+                "Servers",
+                "Endorse"
+            ],
+            [
+                "Servers",
+                "See 2 endorsements for Servers",
+                "2"
+            ],
+            [
+                "Microsoft Exchange",
+                "See 1 endorsement for Microsoft Exchange",
+                "1",
+                "Microsoft Exchange",
+                "Endorse"
+            ],
+            [
+                "Microsoft Exchange",
+                "See 1 endorsement for Microsoft Exchange",
+                "1"
+            ],
+            [
+                "System Center Configuration Manager (SCCM)",
+                "See 1 endorsement for System Center Configuration Manager (SCCM)",
+                "1",
+                "System Center Configuration Manager (SCCM)",
+                "Endorse"
+            ],
+            [
+                "System Center Configuration Manager (SCCM)",
+                "See 1 endorsement for System Center Configuration Manager (SCCM)",
+                "1"
+            ],
+            [
+                "Computer Security",
+                "See 1 endorsement for Computer Security",
+                "1",
+                "Computer Security",
+                "Endorse"
+            ],
+            [
+                "Computer Security",
+                "See 1 endorsement for Computer Security",
+                "1"
+            ],
+            [
+                "Active Directory",
+                "Active Directory",
+                "Endorse"
+            ],
+            [
+                "Active Directory"
+            ],
+            [
+                "Negotiation",
+                "Negotiation",
+                "Endorse"
+            ],
+            [
+                "Negotiation"
+            ],
+            [
+                "Data Cleaning",
+                "Data Cleaning",
+                "Endorse"
+            ],
+            [
+                "Data Cleaning"
+            ],
+            [
+                "Event Management",
+                "Event Management",
+                "Endorse"
+            ],
+            [
+                "Event Management"
+            ],
+            [
+                "Content Production",
+                "Content Production",
+                "Endorse"
+            ],
+            [
+                "Content Production"
+            ]
+        ],
+        "summary": "  Experienced professional with a proven record of adapting and excelling in any environment. \n  \n  \n",
+        "name": "Ryan Turner",
+        "title": "So you're saying there's a chance!?!?",
+        "url": "linkedin.com/in/ryandeanturner",
+        "phone": "",
+        "email": "ryan.turner@gtntechnicalstaffing.com"
+    }
+]

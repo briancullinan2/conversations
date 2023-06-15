@@ -1,0 +1,75 @@
+[
+    {
+        "resourceName": "people/c901758757975779135",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "c83b0d00a3e673f"
+                    }
+                },
+                "displayName": "Andreas Stylianou",
+                "familyName": "Stylianou",
+                "givenName": "Andreas",
+                "displayNameLastFirst": "Stylianou, Andreas"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "c83b0d00a3e673f"
+                    }
+                },
+                "value": "andreas@wefixitautorepair.com"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "1 Mutual Connection",
+                "You and Andreas both know Iga Viktoria Rose"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Auto repair",
+                "Company Name",
+                "We-Fix-It Auto Repair",
+                "Dates Employed",
+                "Jun 2009 – Present",
+                "Employment Duration",
+                "8 yrs 5 mos"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            "Recommendations",
+            [
+                "See connections (58)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [],
+        "recommendations": [],
+        "skills": [],
+        "summary": "",
+        "name": "Andreas Stylianou",
+        "title": "Auto repair",
+        "url": "linkedin.com/in/andreas-stylianou-34771ba3",
+        "phone": null,
+        "email": "andreas@wefixitautorepair.com"
+    }
+]

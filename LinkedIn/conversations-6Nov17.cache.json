@@ -1,0 +1,56 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "6Nov17",
+    "participants": "Brian Cullinan | wizard > Mark Zbikowski | CTO at Atlas Informatics",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Mark Zbikowski",
+        "url": "linkedin.com/in/markzbikowski",
+        "email": "mark@zbikowski.org",
+        "title": "CTO at Atlas Informatics"
+      }
+    ],
+    "message": "I've already started doing what your company does on a personal level and I want to analyze my timeline. I need a job.",
+    "time": "2017-11-06T02:29:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "6Nov17",
+    "participants": "Brian Cullinan | wizard > Mark Zbikowski | CTO at Atlas Informatics",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Mark Zbikowski",
+        "url": "linkedin.com/in/markzbikowski",
+        "email": "mark@zbikowski.org",
+        "title": "CTO at Atlas Informatics"
+      }
+    ],
+    "message": "There is no such thing as coincidence and we can prove it.",
+    "time": "2017-11-06T02:29:00.000Z",
+    "title": "wizard"
+  }
+]

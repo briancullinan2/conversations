@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6232302995770531840/",
+    "participants": [
+        {
+            "name": "Jerami Tainter",
+            "title": "Principal Software Engineer .NET",
+            "url": "linkedin.com/in/jerami-tainter-5844414",
+            "phone": null,
+            "email": "jtainter@nerdery.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-31T21:07:00.000Z"
+        }
+    ]
+}

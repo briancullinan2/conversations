@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["Y0UcP"]); }
+
+__d('injectSubscriptionsHandler.react',['React','SubscriptionsHandler'],(function a(b,c,d,e,f,g){function h(i){var j,k;return k=j=function(){var l,m;l=babelHelpers.inherits(n,c('React').Component);m=l&&l.prototype;function n(o){'use strict';m.constructor.call(this,o);this.state={subscriptionsHandler:new (c('SubscriptionsHandler'))()}}n.prototype.componentWillUnmount=function(){'use strict';this.state.subscriptionsHandler.release()};n.prototype.render=function(){'use strict';return c('React').createElement(i,babelHelpers['extends']({},this.props,{subscriptionsHandler:this.state.subscriptionsHandler}))};return n}(),j.displayName='SubscriberComponent('+i.displayName+')',k}f.exports=h}),null);

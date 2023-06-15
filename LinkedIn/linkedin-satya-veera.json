@@ -1,0 +1,479 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "22 Mutual Connections",
+                "You and Satya both know Chris Cox, Brienna Shivers, and 20 others"
+            ],
+            [
+                "Recruiter Rant:",
+                "I recruit only on W2 opportunities...it is very, VERY rare that I have a position where I can work on C2C.  It is so frustrating to constantly get email blasts containing \"HOT LISTS\" or \"CURRENT BENCH CANDIDATES\" when I have said to these companies multiple times I do not work on C2C and I have asked over and over again to be taken off their email lists.  Or more so, to post a job that says W2 candidates only and to STILL get calls and emails asking about C2C.  I wouldn't say W2 only if I didn't mean it!",
+                "Don't get me wrong, I do understand that some people are just doing their job and trying to employ their consultants, but I find it extremely unprofessional to spam recruiters and flood inboxes with endless emails.",
+                "Would love to hear other's thoughts!",
+                "Satya liked"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "java Full stack Developer",
+                "Company Name",
+                "Macy's",
+                "Dates Employed",
+                "Jul 2016 – Present",
+                "Employment Duration",
+                "1 yr 5 mos",
+                "Location",
+                "Cincinnati Area, ohio",
+                "•\tInvolved in the complete SDLC (software development life cycle) of the application from requirement analysis to testing.•\tFollowed Agile Methodology in analyze, define, and document the application, which will support functional and business requirements. Coordinate these efforts with Functional Architects.•\tDeveloped the application using J2EE Design Patterns like Business Delegate, Factory, Singleton, Session Facade, Service Locator and DAO.•\tUsed Spring MVC module to develop MVC Architecture.•\tDeveloped the Controller to handle the requests and responses.•\tUsed Core Java to develop Business Logic as Spring Beans.•\tConfigured Spring Container to implement IOC/DI of the Spring Beans, and to manage the beans’ life circle.•\tDeveloped POJO objects and used Hibernate as the Object-Relational Mapping (ORM) tool to access the persistent data from SQL Server.•\tStored procedure in the database and used Dynamic SQL to load the data.•\tUsed Jersey to implement Restful Web Service and used XML form to transfer the data.•\tUsed Rest Controllers to replace the existing operations layer, which acts as bridge between business layer and the UI.•\tDeveloped the UI using HTML, CSS, JSP and JavaScript for interactive cross browser functionality and complex user interface.•\tInvolved in designing the client side module architecture based on new Angular Framework.•\tDeveloped Angular JS unit test cases using Jasmine Test Framework with the Karma test runner.•\tUsed Node JS to run Angular JS on server with mock JSON data and completed the UI development independent of server.•\tDeployed the Web Application in Web logic.•\tParsing of XML using SAX and DOM Parsers.•\tDeveloped Unit Test Cases. Used JUnit for unit testing of the application.•\tConfigured pom.xml to deploy the project using Maven.•\tUsed Developed Unit Test Cases. Used JUnit for unit testing of the application."
+            ],
+            [
+                "Software Developer-Java",
+                "Company Name",
+                "iConnect",
+                "Dates Employed",
+                "Oct 2015 – Jun 2016",
+                "Employment Duration",
+                "9 mos",
+                "Location",
+                "Greater Detroit Area",
+                "Implemented agile development process on Software Development Life Cycle.Managed data using SQLite, SQL Helpers as well as Raw Queries to do database management.As major responsibility, used Web Views, List Views& populated lists from databases using simple adapters.Followed Agile methodology in the project implementation.Implemented RESTFUL API calls to communicate with server."
+            ],
+            [
+                "Java Developer",
+                "Company Name",
+                "Gap Inc.",
+                "Dates Employed",
+                "Aug 2014 – Oct 2015",
+                "Employment Duration",
+                "1 yr 3 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "•\tAcquiring the Domain Knowledge, Understanding the Product, Requirements and Design Documents, Preparing Design Documents, Programming and Unit Testing.•\tDesigned application components based on object-oriented analysis and design.•\tConverted form files to the respective JSPs and implemented Session Facade pattern within EJB and DAO Layer.•\tImplemented Spring AOP for admin services and Spring for cross cutting concerns and IOC for dependency injection.•\tUsed Hibernate as the ORM tool to communicate with the database.•\tDesigned MT Web application using the JSF Framework.•\tApplication was modernized and recoded using Struts Framework that leverages classical Model View Controller (MVC) architecture and developed Struts Action classes, Action Forms and performed Action Mappings, Data validations in Form beans and Action classes.•\tExperience in Hibernate 3.0 which includes integrating legacy databases, writing custom CRUD statements, integrating stored procedures and functions and also performed polymorphic associations.•\tDeveloped Servlets and JSPs based on MVC pattern using Struts framework.•\tDesigned extensive additions to existing Java Web Application utilizing Service Oriented Architecture (SOA) techniques.•\tDeveloped Oracle PL/SQL Stored Procedures and Queries for Payment release process and authorization process."
+            ],
+            [
+                "Java Developer",
+                "Company Name",
+                "Herbal Life International",
+                "Dates Employed",
+                "Oct 2013 – Aug 2014",
+                "Employment Duration",
+                "11 mos",
+                "Location",
+                "India",
+                "Implemented two versions of unique UI. Created a lot of prototypes for different UI elements."
+            ],
+            [
+                "Java Developer",
+                "Company Name",
+                "HTC Global Services",
+                "Dates Employed",
+                "Feb 2010 – Sep 2013",
+                "Employment Duration",
+                "3 yrs 8 mos",
+                "Location",
+                "India",
+                "Involved in doing analysis on DB Schema as per new design in DB2 from Oracle.Detailed Design and Coding using Core Java and other J2EE technologiesImplemented Java code and design as per the APP Arch and CIG coding guidelines.Used spring framework to inject services, entity services, transaction management, and concerns by factory class corresponding to the use case operation executing."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "KL University",
+                "Degree Name",
+                "Bachelor of Technology (BTech)",
+                "Field Of Study",
+                "Computer Science",
+                "Grade",
+                "A(3.8)",
+                "Dates attended or expected graduation",
+                "2006 – 2010",
+                "Activities and Societies:",
+                "Cricket,Badminton",
+                "Related coursework: Data structures, Software engineering, Internet programming, Operating systems,Embedded Systems."
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Superior Technical Solutions, Inc.",
+                "731 followers"
+            ],
+            [
+                "KL University",
+                "10,689 followers"
+            ],
+            [
+                "Costco Wholesale",
+                "182,706 followers"
+            ],
+            [
+                "Android Development",
+                "1,912 followers"
+            ],
+            [
+                "Wells Fargo",
+                "599,172 followers"
+            ],
+            [
+                "Macy's",
+                "305,978 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Superior Technical Solutions, Inc.",
+                "731 followers"
+            ],
+            [
+                "Superior Technical Solutions, Inc.",
+                "731 followers"
+            ],
+            [
+                "KL University",
+                "10,689 followers"
+            ],
+            [
+                "KL University",
+                "10,689 followers"
+            ],
+            [
+                "Costco Wholesale",
+                "182,706 followers"
+            ],
+            [
+                "Costco Wholesale",
+                "182,706 followers"
+            ],
+            [
+                "Android Development",
+                "1,912 followers"
+            ],
+            [
+                "Android Development",
+                "1,912 followers"
+            ],
+            [
+                "Wells Fargo",
+                "599,172 followers"
+            ],
+            [
+                "Wells Fargo",
+                "599,172 followers"
+            ],
+            [
+                "Macy's",
+                "305,978 followers"
+            ],
+            [
+                "Macy's",
+                "305,978 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Core Java",
+                "See 2 endorsements for Core Java",
+                "2",
+                "Core Java",
+                "Endorse",
+                "Iosif Cosmin and 1 connection have given endorsements for this skill"
+            ],
+            [
+                "Core Java",
+                "See 2 endorsements for Core Java",
+                "2"
+            ],
+            [
+                "C++",
+                "See 2 endorsements for C++",
+                "2",
+                "C++",
+                "Endorse",
+                "Iosif Cosmin and 1 connection have given endorsements for this skill"
+            ],
+            [
+                "C++",
+                "See 2 endorsements for C++",
+                "2"
+            ],
+            [
+                "JavaScript",
+                "See 2 endorsements for JavaScript",
+                "2",
+                "JavaScript",
+                "Endorse",
+                "Iosif Cosmin and 1 connection have given endorsements for this skill"
+            ],
+            [
+                "JavaScript",
+                "See 2 endorsements for JavaScript",
+                "2"
+            ],
+            [
+                "java",
+                "See 1 endorsement for java",
+                "1",
+                "java",
+                "Endorse"
+            ],
+            [
+                "java",
+                "See 1 endorsement for java",
+                "1"
+            ],
+            [
+                "Android Development",
+                "See 1 endorsement for Android Development",
+                "1",
+                "Android Development",
+                "Endorse"
+            ],
+            [
+                "Android Development",
+                "See 1 endorsement for Android Development",
+                "1"
+            ],
+            [
+                "Object-Oriented Programming (OOP)",
+                "See 1 endorsement for Object-Oriented Programming (OOP)",
+                "1",
+                "Object-Oriented Programming (OOP)",
+                "Endorse"
+            ],
+            [
+                "Object-Oriented Programming (OOP)",
+                "See 1 endorsement for Object-Oriented Programming (OOP)",
+                "1"
+            ],
+            [
+                "Amazon Web Services (AWS)",
+                "Amazon Web Services (AWS)",
+                "Endorse"
+            ],
+            [
+                "Amazon Web Services (AWS)"
+            ],
+            [
+                "Microsoft Azure",
+                "Microsoft Azure",
+                "Endorse"
+            ],
+            [
+                "Microsoft Azure"
+            ],
+            [
+                "Android SDK",
+                "Android SDK",
+                "Endorse"
+            ],
+            [
+                "Android SDK"
+            ],
+            [
+                "J2EE Web Services",
+                "J2EE Web Services",
+                "Endorse"
+            ],
+            [
+                "J2EE Web Services"
+            ],
+            [
+                "SQLite",
+                "SQLite",
+                "Endorse"
+            ],
+            [
+                "SQLite"
+            ],
+            [
+                "Web Services API",
+                "Web Services API",
+                "Endorse"
+            ],
+            [
+                "Web Services API"
+            ],
+            [
+                "Spring MVC",
+                "Spring MVC",
+                "Endorse"
+            ],
+            [
+                "Spring MVC"
+            ],
+            [
+                "Test Driven Development",
+                "Test Driven Development",
+                "Endorse"
+            ],
+            [
+                "Test Driven Development"
+            ],
+            [
+                "Agile & Waterfall Methodologies",
+                "Agile & Waterfall Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile & Waterfall Methodologies"
+            ],
+            [
+                "Continuous Integration",
+                "Continuous Integration",
+                "Endorse"
+            ],
+            [
+                "Continuous Integration"
+            ],
+            [
+                "AngularJS",
+                "AngularJS",
+                "Endorse"
+            ],
+            [
+                "AngularJS"
+            ],
+            [
+                "Business Development",
+                "Business Development",
+                "Endorse"
+            ],
+            [
+                "Business Development"
+            ],
+            [
+                "Financial Analysis",
+                "Financial Analysis",
+                "Endorse"
+            ],
+            [
+                "Financial Analysis"
+            ],
+            [
+                "Python",
+                "Python",
+                "Endorse"
+            ],
+            [
+                "Python"
+            ],
+            [
+                "JSON",
+                "JSON",
+                "Endorse"
+            ],
+            [
+                "JSON"
+            ],
+            [
+                "RPC",
+                "RPC",
+                "Endorse"
+            ],
+            [
+                "RPC"
+            ],
+            [
+                "HTML",
+                "HTML",
+                "Endorse"
+            ],
+            [
+                "HTML"
+            ],
+            [
+                "C",
+                "C",
+                "Endorse"
+            ],
+            [
+                "C"
+            ],
+            [
+                "XML",
+                "XML",
+                "Endorse"
+            ],
+            [
+                "XML"
+            ],
+            [
+                "Embedded Software",
+                "Embedded Software",
+                "Endorse"
+            ],
+            [
+                "Embedded Software"
+            ],
+            [
+                "Scripting",
+                "Scripting",
+                "Endorse"
+            ],
+            [
+                "Scripting"
+            ],
+            [
+                "Xcode",
+                "Xcode",
+                "Endorse"
+            ],
+            [
+                "Xcode"
+            ],
+            [
+                "Objective-C",
+                "Objective-C",
+                "Endorse"
+            ],
+            [
+                "Objective-C"
+            ],
+            [
+                "Pair Programming",
+                "Pair Programming",
+                "Endorse"
+            ],
+            [
+                "Pair Programming"
+            ],
+            [
+                "Software Development",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development"
+            ]
+        ],
+        "summary": "    •\t7+ years of experience in Analysis, Design, Development, Implementation and testing of Web based applications.•\tExpert level skills in application development using:  Java, JEE, Spring Framework, Hibernate, Struts, JSP, JSF, EJB, JPA, Servlets, JDBC, Html, JavaScript, JEE compliant application servers, +multi-threading, client/server, design patterns of JEE architecture.Well versed in Object Oriented Programming (OOP) with JavaScript.•\tKnowledge of JEE Design Patterns such as Creational, Structural and Behavioral design patterns Singleton, Factory, Facade, Builder, Observer, DAO, Value/Data Transfer etc and Well versed in Object-Oriented programming using Java, J2EE and C++.•\tGood knowledge in spring framework - Spring IOC, Spring MVC, Spring AOP, Spring Security, Spring JPA and Spring Web flow.•\tHave experience in Design, Development and Deployment of Java/J2EE web components on servers like Apache Tomcat, J Boss, Web Sphere and Web Logic.•\tExpertise in major RDBMS concepts such as Oracle 12c/11g/10g, MySQL, MS Access, and proficient in writing PL/SQL Stored Procedures, Triggers and Views.•\tGood experience and knowledge working on ORM persistence frameworks like Hibernate, Spring JPA, Spring JDBC.•\tDeveloped, Configured and Deployed different Portals and UI applications using HTML, CSS, JavaScript, EXT-JS, AngularJS and JQuery.•\tPerformed unit testing using J Unit integration and deployment of applications on done using tools such as ANT and Maven and debugging through log4j and implemented Test Driven Development(TDD).•\tSolid experience in Java Database Connectivity like JDBC API, Open source framework like Hibernate, Spring JPA ORM, DAO Pattern and configuring data source on JBoss.•\tExpertise in developing Web services using SOAP, Restful, XML, WSDL, JAXP XML Beans and Axis.•\tExtensive experience in design, development and implementation of Model-View-Controller frameworks using Struts and Spring MVC.\n  \n  \n",
+        "name": "Satya B",
+        "title": "Actively looking for the new positions on Java development .",
+        "url": "linkedin.com/in/satya-veera",
+        "phone": "",
+        "email": "deepu4066@gmail.com"
+    }
+]

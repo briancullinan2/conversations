@@ -1,0 +1,176 @@
+﻿Session Start (bjcullinan@gmail.com:John Anderson): Fri Sep 14 23:57:21 2007
+[09/14/2007 11:57:27 PM] bjcullinan: hey John
+[09/14/2007 11:57:39 PM] John Anderson: hey brian, whats up
+[09/14/2007 11:57:52 PM] bjcullinan: you do spell your name with the H right?
+[09/14/2007 11:58:10 PM] John Anderson: yup
+[09/14/2007 11:58:34 PM] bjcullinan: want to come to my party tomorrow?
+[09/14/2007 11:58:39 PM] bjcullinan: or today in 2 minutes
+[09/15/2007 12:00:01 AM] John Anderson: hah, serious? No thanks, I'm gonna go to bed, I have a pile of homework to get done tomorrow morning
+[09/15/2007 12:00:19 AM] bjcullinan: no its not tonight
+[09/15/2007 12:00:27 AM] bjcullinan: its tomorrow evening
+[09/15/2007 12:00:34 AM] bjcullinan: saturday evening
+[09/15/2007 12:00:52 AM] bjcullinan: around like 7 i think is when people are piling in
+[09/15/2007 12:01:53 AM] John Anderson: ahh, gotcha, well still no thanks, a friend of mine's birthday party is tomorrow night
+[09/15/2007 12:02:14 AM] bjcullinan: ah that's cool, next time then
+[09/15/2007 12:02:37 AM] bjcullinan: might be a few weeks though, i made it a point to party every weekend until the first test
+[09/15/2007 12:03:06 AM] John Anderson: lol, thats a good plan I'd say, well I'm off to bed have a good party, cya
+[09/15/2007 12:03:12 AM] bjcullinan: cya
+Session Close (John Anderson): Sat Sep 15 00:03:14 2007
+
+
+Session Start (bjcullinan@gmail.com:John Anderson): Tue Sep 25 10:41:08 2007
+[09/25/2007 10:41:27 AM] bjcullinan: do you have the power to check if I have a session on ilum or hoth?
+[09/25/2007 10:41:35 AM] John Anderson: I don't
+[09/25/2007 10:41:59 AM] bjcullinan: bummer i'll have to wait for clint to get back
+[09/25/2007 10:42:32 AM] bjcullinan: for some reason sometimes the cards start sessions on different servers and don't always refer back to the one previously started
+Session Close (John Anderson): Tue Sep 25 10:52:07 2007
+
+
+Session Start (bjcullinan@gmail.com:John Anderson): Tue Sep 25 10:53:42 2007
+[09/25/2007 10:53:42 AM] John Anderson: I've noticed that too
+[09/25/2007 10:54:12 AM] bjcullinan: are you upstairs in the CENS?
+[09/25/2007 10:54:27 AM] John Anderson: yup
+[09/25/2007 10:54:36 AM] bjcullinan: is dieter in his office?
+[09/25/2007 10:54:42 AM] John Anderson: sometimes when you pull it out and stick in it again it'll switch
+[09/25/2007 10:54:53 AM] John Anderson: umm.. his door is closed and the light looks off... so I'd say no
+[09/25/2007 10:54:59 AM] bjcullinan: damn
+Session Close (John Anderson): Tue Sep 25 11:15:49 2007
+
+
+Session Start (bjcullinan@gmail.com:John Anderson): Fri Sep 28 12:38:24 2007
+[09/28/2007 12:38:33 PM] bjcullinan: your sister is really attractive
+Session Close (John Anderson): Fri Sep 28 12:40:44 2007
+
+
+Session Start (bjcullinan@gmail.com:John Anderson): Tue Oct 09 16:56:55 2007
+[10/09/2007 04:57:11 PM] bjcullinan: hey your sister said you set up a DVR computer
+Session Close (John Anderson): Tue Oct 09 17:03:33 2007
+
+
+Session Start (bjcullinan@gmail.com:John Anderson): Tue Oct 09 17:42:48 2007
+[10/09/2007 05:42:51 PM] John Anderson: yup
+[10/09/2007 05:43:37 PM] bjcullinan: what OS?
+[10/09/2007 05:44:06 PM] John Anderson: I did linux first... but then I accidently blew up that computer... so now its in windows on my wife'e computer
+[10/09/2007 05:46:33 PM] bjcullinan: oh
+[10/09/2007 05:47:43 PM] John Anderson: mythtv is awesome though, I just didn't want to have to reboot everytime I wanted to watch TV... but with VM's getting so good I could probably VM mythtv... 
+[10/09/2007 05:49:51 PM] bjcullinan: that's what i was thinking about doing, but you can't transfer PCI hardware to a VM
+[10/09/2007 05:50:09 PM] John Anderson: ummm.... are you sure about that?
+[10/09/2007 05:50:22 PM] bjcullinan: vm = virtual machine right?
+[10/09/2007 05:50:25 PM] John Anderson: yeah
+[10/09/2007 05:50:27 PM] bjcullinan: vmware can't do it yet
+[10/09/2007 05:50:46 PM] bjcullinan: what is the other popular one?
+[10/09/2007 05:50:52 PM] John Anderson: wait... so you're telling me.... if I had a PCI sound card in my computer... I couldn't use it in VMware?
+[10/09/2007 05:51:55 PM] John Anderson: parallels is supposed to be good
+[10/09/2007 05:52:00 PM] John Anderson: but its not free
+[10/09/2007 05:52:46 PM] bjcullinan: you can use the soundcard for output from the virtual machine, but the guest OS doesn't recognize that soundcard, it will only see the VMware one
+[10/09/2007 05:52:56 PM] John Anderson: ahhh
+[10/09/2007 05:53:00 PM] bjcullinan: maybe Xen is different
+[10/09/2007 05:53:39 PM] bjcullinan: a better example, if i have a PCI video card, i can use my host operating system on it however i like, but i can't make a guest machine use that video card directly
+[10/09/2007 05:53:44 PM] John Anderson: get a network capture device
+[10/09/2007 05:54:27 PM] bjcullinan: that might work, or just get a USB TV Wonder card because you can transfer serial devices to the guest OS
+[10/09/2007 05:54:53 PM] John Anderson: if you're going linux don't get an ATI device
+[10/09/2007 05:55:22 PM] bjcullinan: i have a hauppage card too
+[10/09/2007 05:55:39 PM] John Anderson: which one?
+[10/09/2007 05:55:58 PM] bjcullinan: can't remember but my roommate dave bought it with a sageTV package
+[10/09/2007 05:56:09 PM] John Anderson: single or dual tuner?
+[10/09/2007 05:56:20 PM] John Anderson: I bet its the PVR150... good card
+[10/09/2007 05:56:27 PM] John Anderson: probably the best supported card in linux
+[10/09/2007 05:56:54 PM] bjcullinan: i think that is it
+[10/09/2007 05:56:56 PM] bjcullinan: sounds familiar
+[10/09/2007 05:58:04 PM] bjcullinan: and a TV wonder 650 which is supposed to be supported too
+[10/09/2007 05:58:12 PM] bjcullinan: and an all in wonder
+[10/09/2007 06:03:02 PM] John Anderson: I'm not sure that either of those are supported in linux
+[10/09/2007 06:03:09 PM] John Anderson: I could be wrong but I'd double check if I were you
+[10/09/2007 06:07:17 PM] bjcullinan: the pvr came with a sageTV subscriptions
+[10/09/2007 06:08:10 PM] bjcullinan: you should help me with my box sometime, i want to put myth on it but i have no experience with it
+[10/09/2007 06:08:35 PM] John Anderson: do you already have a linux box that you want to install it on... or are you starting from scratch
+[10/09/2007 06:08:56 PM] bjcullinan: i have a box to install it on
+[10/09/2007 06:09:07 PM] bjcullinan: and i use linux
+[10/09/2007 06:09:20 PM] John Anderson: hehe, that you're probably better at it than I am
+[10/09/2007 06:09:24 PM] bjcullinan: but not enough to spend hours debugging when someone might already have the answers
+Session Close (John Anderson): Tue Oct 09 18:39:26 2007
+
+
+Session Start (bjcullinan@gmail.com:John Anderson): Wed Oct 17 10:18:37 2007
+[10/17/2007 10:18:38 AM] John Anderson: hey Brian
+[10/17/2007 10:19:02 AM] John Anderson: can you call Curt at ext 2651, he called and said his computer wouldn't boot
+[10/17/2007 10:21:25 AM] John Anderson: also, a guy called in (ext 5253) and said the the sound in Bio room265 was fuzzy, can you look at it?
+[10/17/2007 12:23:22 PM] *** John Anderson <zaren678@gmail.com/Gaim8F2830CD> signed off at Wed Oct 17 12:23:22 2007.
+Session Close (John Anderson): Wed Oct 17 13:15:25 2007
+
+
+Session Start (bjcullinan@gmail.com:John Anderson): Wed Oct 17 13:50:47 2007
+[10/17/2007 01:50:47 PM] John Anderson: hey Brian, what are you doing Thursday evening?
+[10/17/2007 01:51:59 PM] John Anderson: how would you like to spend some quality time at the engineering building
+[10/17/2007 02:42:35 PM] *** John Anderson <zaren678@gmail.com/Gaim07C6B0C3> signed off at Wed Oct 17 14:42:35 2007.
+[10/17/2007 02:52:11 PM] bjcullinan: i am already at the engineering building all day
+[10/17/2007 02:52:19 PM] bjcullinan: and tomorrow evening i have ACM
+Session Close (John Anderson): Wed Oct 17 14:56:24 2007
+
+
+Session Start (bjcullinan@gmail.com:John Anderson): Wed Oct 17 14:56:30 2007
+[10/17/2007 02:56:51 PM] bjcullinan: i already work 7 hours at egr tomorrow and i have ACM
+Session Close (John Anderson): Wed Oct 17 15:26:53 2007
+
+
+Session Start (bjcullinan@gmail.com:John Anderson): Thu Nov 01 16:49:48 2007
+[11/01/2007 04:50:33 PM] bjcullinan: do you know how to connect to a network printer from a computer in one of the offices here?
+[11/01/2007 04:50:52 PM] John Anderson: browse to \\yavin
+[11/01/2007 04:51:01 PM] John Anderson: and double click whatever printer you want to connect to
+[11/01/2007 04:51:37 PM] bjcullinan: yavin huh?
+[11/01/2007 04:51:39 PM] bjcullinan: k brb
+[11/01/2007 05:00:06 PM] bjcullinan: ok what about adding a printer to yavin?
+[11/01/2007 05:00:23 PM] bjcullinan: we have one hooked up in rm 108 that is not in the list
+[11/01/2007 05:00:45 PM] bjcullinan: and how do i get to kashyyyk from of campus/
+[11/01/2007 05:00:46 PM] bjcullinan: ?
+Session Close (John Anderson): Thu Nov 01 17:01:11 2007
+
+
+Session Start (bjcullinan@gmail.com:John Anderson): Tue Nov 06 10:06:27 2007
+[11/06/2007 10:06:27 AM] John Anderson: hey
+[11/06/2007 10:06:43 AM] John Anderson: Graylynn from the Dean's office just called and said that one of their computers is acting up
+[11/06/2007 10:06:50 AM] John Anderson: Room 153 x5191
+[11/06/2007 10:06:55 AM] John Anderson: could you go check it out?
+[11/06/2007 10:07:04 AM] John Anderson: Bio Room 153 that is
+[11/06/2007 10:31:41 AM] bjcullinan: hey what is pete's number
+[11/06/2007 10:31:52 AM] John Anderson: 6877
+[11/06/2007 10:33:07 AM] bjcullinan: i got horribly annoying problems
+[11/06/2007 10:33:31 AM] bjcullinan: i guess i will just put it into otrs
+[11/06/2007 10:33:39 AM] John Anderson: whats wrong
+[11/06/2007 10:34:03 AM] bjcullinan: like 3 different things
+[11/06/2007 10:34:58 AM] bjcullinan: 1 documents is corrupt, 2 when outlook opens it shows error messages with the Normal.dot template, when you close it asks you to save the damn file twice before you can get out of it
+[11/06/2007 10:35:11 AM] bjcullinan: hopefully pete will no how to reset the stupid template file
+[11/06/2007 10:35:23 AM] John Anderson: whoa
+[11/06/2007 10:35:26 AM] John Anderson: that is pretty annoying
+[11/06/2007 10:35:35 AM] John Anderson: thats what happening to Graylynn's computer?
+[11/06/2007 10:35:42 AM] bjcullinan: that is the computer
+[11/06/2007 10:35:52 AM] bjcullinan: it's just messing up with word
+[11/06/2007 10:35:58 AM] bjcullinan: yeah
+[11/06/2007 10:38:51 AM] bjcullinan: what if i go in and delete the word files in the user directory, would that reset it?
+[11/06/2007 10:40:37 AM] bjcullinan: what is Graylynn's name/e-mail?
+[11/06/2007 10:41:27 AM] John Anderson: her num is 5191
+[11/06/2007 10:41:35 AM] John Anderson: I have no idea if that would reset it
+[11/06/2007 10:43:36 AM] bjcullinan: i don't understand how to use otrs
+[11/06/2007 10:43:44 AM] bjcullinan: it keeps saying invalid syntax
+[11/06/2007 10:44:12 AM] bjcullinan: i have to click search when setting the from field?
+[11/06/2007 10:45:28 AM] John Anderson: yeah
+[11/06/2007 10:45:32 AM] John Anderson: the from field is stupid
+[11/06/2007 10:45:42 AM] John Anderson: its best to type in their e-mail... then click search
+[11/06/2007 10:45:45 AM] John Anderson: then wait for awhile
+[11/06/2007 10:45:48 AM] John Anderson: its kinda slow
+[11/06/2007 10:50:04 AM] bjcullinan: this is very annoying
+[11/06/2007 10:50:09 AM] bjcullinan: i can't lookup that number
+[11/06/2007 10:51:58 AM] bjcullinan: i can't even get a terminal open
+Session Close (John Anderson): Tue Nov 06 10:58:28 2007
+
+
+Session Start (bjcullinan@gmail.com:John Anderson): Thu Dec 06 17:12:57 2007
+[12/06/2007 05:12:57 PM] John Anderson: (Link: http://www.cet.nau.edu/Support/IT/faqgeneral.shtml#NetDrives)http://www.cet.nau.edu/Support/IT/faqgeneral.shtml#NetDrives
+[12/06/2007 05:13:03 PM] John Anderson: its right below that
+Session Close (John Anderson): Thu Dec 06 17:14:13 2007
+
+
+Session Start (bjcullinan@gmail.com:John Anderson): Thu Dec 06 17:17:07 2007
+Session Close (John Anderson): Thu Dec 06 17:47:31 2007
+
+

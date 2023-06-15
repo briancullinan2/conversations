@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6212405671221088256/",
+    "participants": [
+        {
+            "name": "Trish Bear",
+            "title": "CEO at I-ology",
+            "url": "linkedin.com/in/trishbear",
+            "phone": null,
+            "email": "trish@i-ology.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-07T23:22:00.000Z"
+        }
+    ]
+}

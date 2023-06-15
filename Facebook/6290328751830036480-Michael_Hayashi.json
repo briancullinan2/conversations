@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6290328751830036480/",
+    "participants": [
+        {
+            "name": "Michael Hayashi",
+            "title": "Staff - Security Analyst",
+            "url": "linkedin.com/in/michael-hayashi",
+            "phone": "602-743-8082 (Mobile)",
+            "email": "mr.michael.hayashi@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-07-11T00:00:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Michael Hayashi",
+            "time": "2017-07-11T14:49:00.000Z",
+            "message": "👍\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-11T14:53:00.000Z",
+            "message": "Have you use jupyter notebooks?\n"
+        },
+        {
+            "from": "Michael Hayashi",
+            "time": "2017-07-11T14:54:00.000Z",
+            "message": "Negative. I started looking for jobs in Co. Tired of Arizona.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-11T16:15:00.000Z",
+            "message": "Yeah too hot here. I work for swiftpage now. The internet's most exclaimed CRM!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-11T16:15:00.000Z",
+            "message": "Check this out! https://m.signalvnoise.com/i-do-whatever-i-want-at-work-and-i-havent-been-fired-yet-7aae85aa3586\n"
+        }
+    ]
+}

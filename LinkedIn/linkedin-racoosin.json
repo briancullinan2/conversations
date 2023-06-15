@@ -1,0 +1,875 @@
+[
+    {
+        "resourceName": "people/c4407654647316901577",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMdG9RTXdwR0x0Y1E9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3d2b228c89ec6ec9"
+                    }
+                },
+                "displayName": "Robert Racoosin",
+                "familyName": "Racoosin",
+                "givenName": "Robert",
+                "displayNameLastFirst": "Racoosin, Robert"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3d2b228c89ec6ec9"
+                    }
+                },
+                "value": "(919) 265-7478",
+                "canonicalForm": "+19192657478",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "23 Mutual Connections",
+                "You and Robert both know Yacov Wrocherinsky, Joel Hadfield, and 21 others"
+            ],
+            [
+                "You both worked at Swiftpage",
+                "You both worked at Swiftpage from Mar 2017 to Jun 2017"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "Swiftpage",
+                "Dates Employed",
+                "Feb 2015 – Jun 2017",
+                "Employment Duration",
+                "2 yrs 5 mos",
+                "Location",
+                "Greater Denver Area",
+                "Work on a team of .NET engineers responsible for development of an eCommerce and subscription management platform for one of the industry's leading customer relationship management platforms.  Adhering to object-oriented standards, I contribute in designing, building and maintenance of the system in an agile environment.  Additionally, driving initiative to refactor project better leveraging external web services, improving architectural patterns, internal scalability and customer experience."
+            ],
+            [
+                "Systems Engineer",
+                "Company Name",
+                "Swiftpage",
+                "Dates Employed",
+                "Feb 2015 – 2016",
+                "Employment Duration",
+                "1 yr",
+                "Location",
+                "Greater Denver Area",
+                "Responsible for the development, implementation, and administration of integral systems used in day-to-day operations. Additionally, collaborating with teams involved in systems design and architecture, ensuring maximum efficiency of web API usage, integrations, data integrity and migrations."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of North Carolina at Chapel Hill",
+                "Dates attended or expected graduation",
+                "2007 – 2011"
+            ],
+            [
+                "University of North Carolina at Chapel Hill",
+                "Dates attended or expected graduation",
+                "2007 – 2011"
+            ],
+            [
+                "Rancho Bernardo High School",
+                "Dates attended or expected graduation",
+                "2004 – 2007"
+            ],
+            [
+                "Rancho Bernardo High School",
+                "Dates attended or expected graduation",
+                "2004 – 2007"
+            ],
+            [
+                "Punahou",
+                "Dates attended or expected graduation",
+                "2003 – 2004"
+            ],
+            [
+                "Punahou",
+                "Dates attended or expected graduation",
+                "2003 – 2004"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Internship Mentor",
+                "Company Name",
+                "KidsTek",
+                "Dates volunteered",
+                "Jun 2016 – Aug 2016",
+                "Volunteer duration",
+                "3 mos",
+                "Cause",
+                "Education",
+                "Swiftpage teamed up with KidsTek bringing on 2 high school interns for a summer diving into the world of software development.  As one of their advisers, I helped educate on best practices in the development cycle and structure their project in which they built a website for their business - overseeing progress along the way."
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "University of North Carolina at Chapel Hill",
+                "222,775 followers"
+            ],
+            [
+                "Python Community",
+                "147,713 members"
+            ],
+            [
+                "Punahou School",
+                "10,206 followers"
+            ],
+            [
+                "University of North Carolina at Chapel Hill (UNC) Tar Heels Alumni",
+                "12,477 members"
+            ],
+            [
+                "Angular Developers (AngularJS, Angular2, Angular4)",
+                "90,632 members"
+            ],
+            [
+                "Code&co",
+                "7 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (434)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "University of North Carolina at Chapel Hill",
+                "222,775 followers"
+            ],
+            [
+                "University of North Carolina at Chapel Hill",
+                "222,775 followers"
+            ],
+            [
+                "Python Community",
+                "147,713 members"
+            ],
+            [
+                "Python Community",
+                "147,713 members"
+            ],
+            [
+                "Punahou School",
+                "10,206 followers"
+            ],
+            [
+                "Punahou School",
+                "10,206 followers"
+            ],
+            [
+                "University of North Carolina at Chapel Hill (UNC) Tar Heels Alumni",
+                "12,477 members"
+            ],
+            [
+                "University of North Carolina at Chapel Hill (UNC) Tar Heels Alumni",
+                "12,477 members"
+            ],
+            [
+                "Angular Developers (AngularJS, Angular2, Angular4)",
+                "90,632 members"
+            ],
+            [
+                "Angular Developers (AngularJS, Angular2, Angular4)",
+                "90,632 members"
+            ],
+            [
+                "Code&co",
+                "7 followers"
+            ],
+            [
+                "Code&co",
+                "7 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Aaron Schaef",
+                "Senior Software Engineer at Unself",
+                "March 22, 2017, Aaron was senior to Robert but didn’t manage directly",
+                "I had the honor of working with Robert for about 2 years at Swiftpage. He is an excellent problem solver, and one of the few with the proper mindset for software engineering. He has a strong determination when tackling a challenging problem head-on, and can surprise you with his elegant solutions. He is able to leverage his ability to analyze a complex problem and is gifted at finding not just the first solution, but the correct solution.  Robert is a very talented full stack developer, and is a great asset on any team."
+            ],
+            [
+                "Aaron Schaef",
+                "Senior Software Engineer at Unself",
+                "March 22, 2017, Aaron was senior to Robert but didn’t manage directly"
+            ],
+            [
+                "Aaron Schaef",
+                "Senior Software Engineer at Unself",
+                "March 22, 2017, Aaron was senior to Robert but didn’t manage directly"
+            ],
+            [
+                "Aaron Schaef",
+                "Senior Software Engineer at Unself",
+                "March 22, 2017, Aaron was senior to Robert but didn’t manage directly"
+            ],
+            "Senior Software Engineer at Unself",
+            [
+                "I had the honor of working with Robert for about 2 years at Swiftpage. He is an excellent problem solver, and one of the few with the proper mindset for software engineering. He has a strong determination when tackling a challenging problem head-on, and can surprise you with his elegant solutions. He is able to leverage his ability to analyze a complex problem and is gifted at finding not just the first solution, but the correct solution.  Robert is a very talented full stack developer, and is a great asset on any team."
+            ],
+            [
+                "I had the honor of working with Robert for about 2 years at Swiftpage. He is an excellent problem solver, and one of the few with the proper mindset for software engineering. He has a strong determination when tackling a challenging problem head-on, and can surprise you with his elegant solutions. He is able to leverage his ability to analyze a complex problem and is gifted at finding not just the first solution, but the correct solution.  Robert is a very talented full stack developer, and is a great asset on any team."
+            ],
+            [
+                "Amy Webb",
+                "Quality Assurance Lead at Swiftpage",
+                "February 24, 2017, Robert worked with Amy in the same group",
+                "Hard working team player is a phrase that comes to mind when I think about Robert.  Robert is one of the software engineers on the team I am the QA for.  He makes himself available for any question and will drop everything to help research a problem.  I am particularly impressed by Robert’s ability to complete his work on time to be tested, passed and added to the release cadence.   We are very fortunate to have Robert on the team who gives 110% all the time."
+            ],
+            [
+                "Amy Webb",
+                "Quality Assurance Lead at Swiftpage",
+                "February 24, 2017, Robert worked with Amy in the same group"
+            ],
+            [
+                "Amy Webb",
+                "Quality Assurance Lead at Swiftpage",
+                "February 24, 2017, Robert worked with Amy in the same group"
+            ],
+            [
+                "Amy Webb",
+                "Quality Assurance Lead at Swiftpage",
+                "February 24, 2017, Robert worked with Amy in the same group"
+            ],
+            "Quality Assurance Lead at Swiftpage",
+            [
+                "Hard working team player is a phrase that comes to mind when I think about Robert.  Robert is one of the software engineers on the team I am the QA for.  He makes himself available for any question and will drop everything to help research a problem.  I am particularly impressed by Robert’s ability to complete his work on time to be tested, passed and added to the release cadence.   We are very fortunate to have Robert on the team who gives 110% all the time."
+            ],
+            [
+                "Hard working team player is a phrase that comes to mind when I think about Robert.  Robert is one of the software engineers on the team I am the QA for.  He makes himself available for any question and will drop everything to help research a problem.  I am particularly impressed by Robert’s ability to complete his work on time to be tested, passed and added to the release cadence.   We are very fortunate to have Robert on the team who gives 110% all the time."
+            ],
+            [
+                "Allyson Siebert",
+                "Accounts Payable  Specialist at Swiftpage & Real Estate Agent at Cherry Creek Properties, LLC",
+                "February 13, 2017, Robert worked with Allyson in the same group",
+                "Robert is a HUGE asset to our company and our team. I've had the pleasure of working closely with him for the past 2 years and it's amazed me how quickly he learns things and he is constantly pushing himself to the next level. He is very detail oriented and has a great work ethic, along with a sense of humor that helps make going to work more fun!"
+            ],
+            [
+                "Allyson Siebert",
+                "Accounts Payable  Specialist at Swiftpage & Real Estate Agent at Cherry Creek Properties, LLC",
+                "February 13, 2017, Robert worked with Allyson in the same group"
+            ],
+            [
+                "Allyson Siebert",
+                "Accounts Payable  Specialist at Swiftpage & Real Estate Agent at Cherry Creek Properties, LLC",
+                "February 13, 2017, Robert worked with Allyson in the same group"
+            ],
+            [
+                "Allyson Siebert",
+                "Accounts Payable  Specialist at Swiftpage & Real Estate Agent at Cherry Creek Properties, LLC",
+                "February 13, 2017, Robert worked with Allyson in the same group"
+            ],
+            "Accounts Payable  Specialist at Swiftpage & Real Estate Agent at Cherry Creek Properties, LLC",
+            [
+                "Robert is a HUGE asset to our company and our team. I've had the pleasure of working closely with him for the past 2 years and it's amazed me how quickly he learns things and he is constantly pushing himself to the next level. He is very detail oriented and has a great work ethic, along with a sense of humor that helps make going to work more fun!"
+            ],
+            [
+                "Robert is a HUGE asset to our company and our team. I've had the pleasure of working closely with him for the past 2 years and it's amazed me how quickly he learns things and he is constantly pushing himself to the next level. He is very detail oriented and has a great work ethic, along with a sense of humor that helps make going to work more fun!"
+            ],
+            [
+                "Kassi Harris",
+                "Owner & Founder at You B You Printing LLC",
+                "February 13, 2017, Kassi worked with Robert in different groups",
+                "I had the pleasure of working with Robert from the beginning.  Even during his interview with us he blew it out of the water.  He's a stellar employee who goes above and beyond with each and every task.  He's a quick learner and overachiever.  It's rare to find such a technical person that's as personable as Robert is.  Everyone in the office who works or interacts with him speaks very highly of him!"
+            ],
+            [
+                "Kassi Harris",
+                "Owner & Founder at You B You Printing LLC",
+                "February 13, 2017, Kassi worked with Robert in different groups"
+            ],
+            [
+                "Kassi Harris",
+                "Owner & Founder at You B You Printing LLC",
+                "February 13, 2017, Kassi worked with Robert in different groups"
+            ],
+            [
+                "Kassi Harris",
+                "Owner & Founder at You B You Printing LLC",
+                "February 13, 2017, Kassi worked with Robert in different groups"
+            ],
+            "Owner & Founder at You B You Printing LLC",
+            [
+                "I had the pleasure of working with Robert from the beginning.  Even during his interview with us he blew it out of the water.  He's a stellar employee who goes above and beyond with each and every task.  He's a quick learner and overachiever.  It's rare to find such a technical person that's as personable as Robert is.  Everyone in the office who works or interacts with him speaks very highly of him!"
+            ],
+            [
+                "I had the pleasure of working with Robert from the beginning.  Even during his interview with us he blew it out of the water.  He's a stellar employee who goes above and beyond with each and every task.  He's a quick learner and overachiever.  It's rare to find such a technical person that's as personable as Robert is.  Everyone in the office who works or interacts with him speaks very highly of him!"
+            ],
+            [
+                "Chris Noble",
+                "Software Quality Assurance Manager",
+                "February 10, 2017, Robert worked with Chris in the same group",
+                "Robert Racoosin is an outstanding Software Engineer who continuously exceeded the expectations of our internal development team. He willingly accepts challenging assignments and offers to contribute where ever he can. He has demonstrated excellent programming and analytical skills which are very essential to address the constantly evolving business requirements. The best thing I noticed in him is his insatiable zeal to learn the latest technical skills, technology stacks and tools in an effort to offer better solutions.His persevering nature, well-balanced personality and eagerness to excel make him an asset at any software engineering firm."
+            ],
+            [
+                "Chris Noble",
+                "Software Quality Assurance Manager",
+                "February 10, 2017, Robert worked with Chris in the same group"
+            ],
+            [
+                "Chris Noble",
+                "Software Quality Assurance Manager",
+                "February 10, 2017, Robert worked with Chris in the same group"
+            ],
+            [
+                "Chris Noble",
+                "Software Quality Assurance Manager",
+                "February 10, 2017, Robert worked with Chris in the same group"
+            ],
+            "Software Quality Assurance Manager",
+            [
+                "Robert Racoosin is an outstanding Software Engineer who continuously exceeded the expectations of our internal development team. He willingly accepts challenging assignments and offers to contribute where ever he can. He has demonstrated excellent programming and analytical skills which are very essential to address the constantly evolving business requirements. The best thing I noticed in him is his insatiable zeal to learn the latest technical skills, technology stacks and tools in an effort to offer better solutions.His persevering nature, well-balanced personality and eagerness to excel make him an asset at any software engineering firm."
+            ],
+            [
+                "Robert Racoosin is an outstanding Software Engineer who continuously exceeded the expectations of our internal development team. He willingly accepts challenging assignments and offers to contribute where ever he can. He has demonstrated excellent programming and analytical skills which are very essential to address the constantly evolving business requirements. The best thing I noticed in him is his insatiable zeal to learn the latest technical skills, technology stacks and tools in an effort to offer better solutions.His persevering nature, well-balanced personality and eagerness to excel make him an asset at any software engineering firm."
+            ],
+            [
+                "David H.",
+                "Director of Membership and Marketing at Rock Barn Country Club & Spa",
+                "February 9, 2015, David managed Robert directly",
+                "I had the honor of working alongside Robert Racoosin during my tenure at The Carolina Club for quite a few years and got to know him both on and off \"the floor\".  His passion for building and enriching relationships with our clients and staff is only seconded by his pursuit of providing the highest levels of professional and personal service.In short, if I were to ever be fortunate enough to open my own business Robert Racoosin would be at the top of a very short list of people I would want to bring in.  Any organization would benefit from having him join your team."
+            ],
+            [
+                "David H.",
+                "Director of Membership and Marketing at Rock Barn Country Club & Spa",
+                "February 9, 2015, David managed Robert directly"
+            ],
+            [
+                "David H.",
+                "Director of Membership and Marketing at Rock Barn Country Club & Spa",
+                "February 9, 2015, David managed Robert directly"
+            ],
+            [
+                "David H.",
+                "Director of Membership and Marketing at Rock Barn Country Club & Spa",
+                "February 9, 2015, David managed Robert directly"
+            ],
+            "Director of Membership and Marketing at Rock Barn Country Club & Spa",
+            [
+                "I had the honor of working alongside Robert Racoosin during my tenure at The Carolina Club for quite a few years and got to know him both on and off \"the floor\".  His passion for building and enriching relationships with our clients and staff is only seconded by his pursuit of providing the highest levels of professional and personal service.In short, if I were to ever be fortunate enough to open my own business Robert Racoosin would be at the top of a very short list of people I would want to bring in.  Any organization would benefit from having him join your team."
+            ],
+            [
+                "I had the honor of working alongside Robert Racoosin during my tenure at The Carolina Club for quite a few years and got to know him both on and off \"the floor\".  His passion for building and enriching relationships with our clients and staff is only seconded by his pursuit of providing the highest levels of professional and personal service.In short, if I were to ever be fortunate enough to open my own business Robert Racoosin would be at the top of a very short list of people I would want to bring in.  Any organization would benefit from having him join your team."
+            ],
+            [
+                "Katie Hampton",
+                "Project Manager",
+                "February 9, 2015, Katie managed Robert directly",
+                "I worked with Robert Racoosin, both as a peer and his supervisor for approximately three years at Top of the Hill Restaurant and Brewery in Chapel Hill, North Carolina. During his time there, both as a server and bartender, I was overwhelmed by Robert's work ethic, team contribution and attention to detail in every aspect of his professional duties. Robert demonstrates a level of intellect and personality that I have rarely seen.  Not only was Robert incredibly talented in building and fostering customer relationships, but there was no job he wouldn't do if it meant helping out the organization. I would recommend Robert for any position and know he would be a great asset to any team he joined."
+            ],
+            [
+                "Katie Hampton",
+                "Project Manager",
+                "February 9, 2015, Katie managed Robert directly"
+            ],
+            [
+                "Katie Hampton",
+                "Project Manager",
+                "February 9, 2015, Katie managed Robert directly"
+            ],
+            [
+                "Katie Hampton",
+                "Project Manager",
+                "February 9, 2015, Katie managed Robert directly"
+            ],
+            "Project Manager",
+            [
+                "I worked with Robert Racoosin, both as a peer and his supervisor for approximately three years at Top of the Hill Restaurant and Brewery in Chapel Hill, North Carolina. During his time there, both as a server and bartender, I was overwhelmed by Robert's work ethic, team contribution and attention to detail in every aspect of his professional duties. Robert demonstrates a level of intellect and personality that I have rarely seen.  Not only was Robert incredibly talented in building and fostering customer relationships, but there was no job he wouldn't do if it meant helping out the organization. I would recommend Robert for any position and know he would be a great asset to any team he joined."
+            ],
+            [
+                "I worked with Robert Racoosin, both as a peer and his supervisor for approximately three years at Top of the Hill Restaurant and Brewery in Chapel Hill, North Carolina. During his time there, both as a server and bartender, I was overwhelmed by Robert's work ethic, team contribution and attention to detail in every aspect of his professional duties. Robert demonstrates a level of intellect and personality that I have rarely seen.  Not only was Robert incredibly talented in building and fostering customer relationships, but there was no job he wouldn't do if it meant helping out the organization. I would recommend Robert for any position and know he would be a great asset to any team he joined."
+            ],
+            [
+                "Chris Noble",
+                "Software Quality Assurance Manager",
+                "August 11, 2017, Chris worked with Robert in the same group",
+                "I had the great pleasure of working with Chris during our time at Swiftpage.  His analytical prowess ensured all software was thoroughly tested and production ready.  Always looking to increase the scope of his involvement, Chris worked on multiple teams demonstrating his insatiable desire to learn and contribute beyond expectation.  He is also simply fun to work with!"
+            ],
+            [
+                "Chris Noble",
+                "Software Quality Assurance Manager",
+                "August 11, 2017, Chris worked with Robert in the same group"
+            ],
+            [
+                "Chris Noble",
+                "Software Quality Assurance Manager",
+                "August 11, 2017, Chris worked with Robert in the same group"
+            ],
+            [
+                "Chris Noble",
+                "Software Quality Assurance Manager",
+                "August 11, 2017, Chris worked with Robert in the same group"
+            ],
+            "Software Quality Assurance Manager",
+            [
+                "I had the great pleasure of working with Chris during our time at Swiftpage.  His analytical prowess ensured all software was thoroughly tested and production ready.  Always looking to increase the scope of his involvement, Chris worked on multiple teams demonstrating his insatiable desire to learn and contribute beyond expectation.  He is also simply fun to work with!"
+            ],
+            [
+                "I had the great pleasure of working with Chris during our time at Swiftpage.  His analytical prowess ensured all software was thoroughly tested and production ready.  Always looking to increase the scope of his involvement, Chris worked on multiple teams demonstrating his insatiable desire to learn and contribute beyond expectation.  He is also simply fun to work with!"
+            ],
+            [
+                "Amy Webb",
+                "Quality Assurance Lead at Swiftpage",
+                "February 24, 2017, Amy worked with Robert in the same group",
+                "One of the most dedicated individuals I've had the pleasure of working with, Amy is a phenomenal resource and leader to our team.  Her meticulous testing approach, in addition to comprehensive experience, ensures that all development answers to the story requirements provided.  Moreover, code deployed to production is top quality.  Never a lapse in focus, Amy continually drives for perfection. Beyond this, she's just fun to work with!"
+            ],
+            [
+                "Amy Webb",
+                "Quality Assurance Lead at Swiftpage",
+                "February 24, 2017, Amy worked with Robert in the same group"
+            ],
+            [
+                "Amy Webb",
+                "Quality Assurance Lead at Swiftpage",
+                "February 24, 2017, Amy worked with Robert in the same group"
+            ],
+            [
+                "Amy Webb",
+                "Quality Assurance Lead at Swiftpage",
+                "February 24, 2017, Amy worked with Robert in the same group"
+            ],
+            "Quality Assurance Lead at Swiftpage",
+            [
+                "One of the most dedicated individuals I've had the pleasure of working with, Amy is a phenomenal resource and leader to our team.  Her meticulous testing approach, in addition to comprehensive experience, ensures that all development answers to the story requirements provided.  Moreover, code deployed to production is top quality.  Never a lapse in focus, Amy continually drives for perfection. Beyond this, she's just fun to work with!"
+            ],
+            [
+                "One of the most dedicated individuals I've had the pleasure of working with, Amy is a phenomenal resource and leader to our team.  Her meticulous testing approach, in addition to comprehensive experience, ensures that all development answers to the story requirements provided.  Moreover, code deployed to production is top quality.  Never a lapse in focus, Amy continually drives for perfection. Beyond this, she's just fun to work with!"
+            ]
+        ],
+        "skills": [
+            [
+                "C#",
+                "See 2 endorsements for C#",
+                "2",
+                "C#",
+                "Endorse",
+                "Endorsed by 2 of Robert’s colleagues at Swiftpage"
+            ],
+            [
+                "C#",
+                "See 2 endorsements for C#",
+                "2"
+            ],
+            [
+                "ASP.NET",
+                "See 2 endorsements for ASP.NET",
+                "2",
+                "ASP.NET",
+                "Endorse",
+                "Endorsed by Aaron Schaef, who is highly skilled at this",
+                "Endorsed by 2 of Robert’s colleagues at Swiftpage"
+            ],
+            [
+                "ASP.NET",
+                "See 2 endorsements for ASP.NET",
+                "2"
+            ],
+            [
+                "Git",
+                "See 2 endorsements for Git",
+                "2",
+                "Git",
+                "Endorse",
+                "Endorsed by 2 of Robert’s colleagues at Swiftpage"
+            ],
+            [
+                "Git",
+                "See 2 endorsements for Git",
+                "2"
+            ],
+            [
+                "JavaScript",
+                "See 5 endorsements for JavaScript",
+                "5",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 5 endorsements for JavaScript",
+                "5"
+            ],
+            [
+                "SQL",
+                "See 4 endorsements for SQL",
+                "4",
+                "SQL",
+                "Endorse"
+            ],
+            [
+                "SQL",
+                "See 4 endorsements for SQL",
+                "4"
+            ],
+            [
+                "ASP.NET MVC",
+                "See 2 endorsements for ASP.NET MVC",
+                "2",
+                "ASP.NET MVC",
+                "Endorse"
+            ],
+            [
+                "ASP.NET MVC",
+                "See 2 endorsements for ASP.NET MVC",
+                "2"
+            ],
+            [
+                "ASP.NET Web API",
+                "See 2 endorsements for ASP.NET Web API",
+                "2",
+                "ASP.NET Web API",
+                "Endorse"
+            ],
+            [
+                "ASP.NET Web API",
+                "See 2 endorsements for ASP.NET Web API",
+                "2"
+            ],
+            [
+                "RESTful WebServices",
+                "See 2 endorsements for RESTful WebServices",
+                "2",
+                "RESTful WebServices",
+                "Endorse"
+            ],
+            [
+                "RESTful WebServices",
+                "See 2 endorsements for RESTful WebServices",
+                "2"
+            ],
+            [
+                "AngularJS",
+                "See 2 endorsements for AngularJS",
+                "2",
+                "AngularJS",
+                "Endorse"
+            ],
+            [
+                "AngularJS",
+                "See 2 endorsements for AngularJS",
+                "2"
+            ],
+            [
+                "Node.js",
+                "See 3 endorsements for Node.js",
+                "3",
+                "Node.js",
+                "Endorse"
+            ],
+            [
+                "Node.js",
+                "See 3 endorsements for Node.js",
+                "3"
+            ],
+            [
+                "Scrum",
+                "See 2 endorsements for Scrum",
+                "2",
+                "Scrum",
+                "Endorse"
+            ],
+            [
+                "Scrum",
+                "See 2 endorsements for Scrum",
+                "2"
+            ],
+            [
+                "Agile Methodologies",
+                "See 2 endorsements for Agile Methodologies",
+                "2",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 2 endorsements for Agile Methodologies",
+                "2"
+            ],
+            [
+                "Java",
+                "See 1 endorsement for Java",
+                "1",
+                "Java",
+                "Endorse"
+            ],
+            [
+                "Java",
+                "See 1 endorsement for Java",
+                "1"
+            ],
+            [
+                "Linux",
+                "Linux",
+                "Endorse"
+            ],
+            [
+                "Linux"
+            ],
+            [
+                "Bash",
+                "Bash",
+                "Endorse"
+            ],
+            [
+                "Bash"
+            ],
+            [
+                "Python",
+                "See 2 endorsements for Python",
+                "2",
+                "Python",
+                "Endorse"
+            ],
+            [
+                "Python",
+                "See 2 endorsements for Python",
+                "2"
+            ],
+            [
+                "C",
+                "C",
+                "Endorse"
+            ],
+            [
+                "C"
+            ],
+            [
+                "C++",
+                "C++",
+                "Endorse"
+            ],
+            [
+                "C++"
+            ],
+            [
+                "STL",
+                "STL",
+                "Endorse"
+            ],
+            [
+                "STL"
+            ],
+            [
+                "SOAP",
+                "See 2 endorsements for SOAP",
+                "2",
+                "SOAP",
+                "Endorse"
+            ],
+            [
+                "SOAP",
+                "See 2 endorsements for SOAP",
+                "2"
+            ],
+            [
+                "Zuora",
+                "See 4 endorsements for Zuora",
+                "4",
+                "Zuora",
+                "Endorse"
+            ],
+            [
+                "Zuora",
+                "See 4 endorsements for Zuora",
+                "4"
+            ],
+            [
+                "Amazon Web Services (AWS)",
+                "Amazon Web Services (AWS)",
+                "Endorse"
+            ],
+            [
+                "Amazon Web Services (AWS)"
+            ],
+            [
+                "MongoDB",
+                "See 1 endorsement for MongoDB",
+                "1",
+                "MongoDB",
+                "Endorse"
+            ],
+            [
+                "MongoDB",
+                "See 1 endorsement for MongoDB",
+                "1"
+            ],
+            [
+                "HTML",
+                "See 4 endorsements for HTML",
+                "4",
+                "HTML",
+                "Endorse"
+            ],
+            [
+                "HTML",
+                "See 4 endorsements for HTML",
+                "4"
+            ],
+            [
+                "CSS",
+                "See 4 endorsements for CSS",
+                "4",
+                "CSS",
+                "Endorse"
+            ],
+            [
+                "CSS",
+                "See 4 endorsements for CSS",
+                "4"
+            ],
+            [
+                "Business Intelligence",
+                "See 5 endorsements for Business Intelligence",
+                "5",
+                "Business Intelligence",
+                "Endorse"
+            ],
+            [
+                "Business Intelligence",
+                "See 5 endorsements for Business Intelligence",
+                "5"
+            ],
+            [
+                "Training",
+                "See 5 endorsements for Training",
+                "5",
+                "Training",
+                "Endorse"
+            ],
+            [
+                "Training",
+                "See 5 endorsements for Training",
+                "5"
+            ],
+            [
+                "Leadership",
+                "See 9 endorsements for Leadership",
+                "9",
+                "Leadership",
+                "Endorse"
+            ],
+            [
+                "Leadership",
+                "See 9 endorsements for Leadership",
+                "9"
+            ],
+            [
+                "Microsoft Office",
+                "See 12 endorsements for Microsoft Office",
+                "12",
+                "Microsoft Office",
+                "Endorse"
+            ],
+            [
+                "Microsoft Office",
+                "See 12 endorsements for Microsoft Office",
+                "12"
+            ],
+            [
+                "CRM",
+                "See 4 endorsements for CRM",
+                "4",
+                "CRM",
+                "Endorse"
+            ],
+            [
+                "CRM",
+                "See 4 endorsements for CRM",
+                "4"
+            ],
+            [
+                "Sales Logix",
+                "See 5 endorsements for Sales Logix",
+                "5",
+                "Sales Logix",
+                "Endorse"
+            ],
+            [
+                "Sales Logix",
+                "See 5 endorsements for Sales Logix",
+                "5"
+            ],
+            [
+                "Research",
+                "See 5 endorsements for Research",
+                "5",
+                "Research",
+                "Endorse"
+            ],
+            [
+                "Research",
+                "See 5 endorsements for Research",
+                "5"
+            ],
+            [
+                "Customer Service",
+                "See 6 endorsements for Customer Service",
+                "6",
+                "Customer Service",
+                "Endorse"
+            ],
+            [
+                "Customer Service",
+                "See 6 endorsements for Customer Service",
+                "6"
+            ],
+            [
+                "Time Management",
+                "See 3 endorsements for Time Management",
+                "3",
+                "Time Management",
+                "Endorse"
+            ],
+            [
+                "Time Management",
+                "See 3 endorsements for Time Management",
+                "3"
+            ]
+        ],
+        "summary": "  Software engineer with an insatiable appetite for growth.  I am passionate about writing efficient, scalable code and continually increasing my breadth of understanding.  \n  \n  \n",
+        "name": "Robert Racoosin",
+        "title": "Software Engineer",
+        "url": "linkedin.com/in/racoosin",
+        "phone": "919-265-7478 (Mobile)",
+        "email": "racoosin@gmail.com"
+    }
+]

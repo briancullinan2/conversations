@@ -1,0 +1,381 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "10Oct17",
+    "participants": "Brian Cullinan | wizard > Joshua Grosso | Software Development at Axosoft",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Joshua Grosso",
+        "url": "linkedin.com/in/joshuagrosso",
+        "email": "jgrosso1@asu.edu",
+        "title": "Software Development at Axosoft"
+      }
+    ],
+    "message": "Meeting tomorrow?",
+    "time": "2017-10-10T19:56:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "10Oct17",
+    "participants": "Joshua Grosso | Software Development at Axosoft > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Joshua Grosso",
+        "url": "linkedin.com/in/joshuagrosso",
+        "email": "jgrosso1@asu.edu",
+        "title": "Software Development at Axosoft"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Oh, I forgot Functional First Phoenix was tomorrow! I'll definitely be there... it'll be cool to catch up!",
+    "time": "2017-10-10T20:21:00.000Z",
+    "title": "Software Development at Axosoft"
+  },
+  {
+    "type": "conversations",
+    "conversations": "10Oct17",
+    "participants": "Brian Cullinan | wizard > Joshua Grosso | Software Development at Axosoft",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Joshua Grosso",
+        "url": "linkedin.com/in/joshuagrosso",
+        "email": "jgrosso1@asu.edu",
+        "title": "Software Development at Axosoft"
+      }
+    ],
+    "message": "Yeah, good times. I have so much more information for you :)",
+    "time": "2017-10-10T20:23:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "10Oct17",
+    "participants": "Scott Hathcock | CEO/President at Northern Arizona Center for Entrepreneurship and Technology > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Scott Hathcock",
+        "url": "linkedin.com/in/scotthathcock",
+        "email": "hathcock.scott@gmail.com",
+        "title": "CEO/President at Northern Arizona Center for Entrepreneurship and Technology"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Hi Brian, what kind of work are you looking for?",
+    "time": "2017-10-10T23:10:00.000Z",
+    "title": "CEO/President at Northern Arizona Center for Entrepreneurship and Technology"
+  },
+  {
+    "type": "conversations",
+    "conversations": "10Oct17",
+    "participants": "Brian Cullinan | wizard > Scott Hathcock | CEO/President at Northern Arizona Center for Entrepreneurship and Technology",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Scott Hathcock",
+        "url": "linkedin.com/in/scotthathcock",
+        "email": "hathcock.scott@gmail.com",
+        "title": "CEO/President at Northern Arizona Center for Entrepreneurship and Technology"
+      }
+    ],
+    "message": "I love software devlopment. I'd really love to work on AI. I just had a call with PNNL earlier. They are a supplier for DARPA.",
+    "time": "2017-10-10T23:25:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "10Oct17",
+    "participants": "Brian Cullinan | wizard > Scott Hathcock | CEO/President at Northern Arizona Center for Entrepreneurship and Technology",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Scott Hathcock",
+        "url": "linkedin.com/in/scotthathcock",
+        "email": "hathcock.scott@gmail.com",
+        "title": "CEO/President at Northern Arizona Center for Entrepreneurship and Technology"
+      }
+    ],
+    "message": "You?",
+    "time": "2017-10-10T23:25:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "10Oct17",
+    "participants": "Brian Cullinan | wizard > 'Stephan Brewer, CPA, RS, J | President at Legacy Tax & Resolution Services & He's The Taxman",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "'Stephan Brewer, CPA, RS, J",
+        "url": "linkedin.com/in/stephanbrewercpa",
+        "phone": "800-829-7483 (Work)",
+        "email": "taxguru@hesthetaxman.com",
+        "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+      }
+    ],
+    "message": "Hey thank you for the connect!",
+    "time": "2017-10-10T21:44:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "10Oct17",
+    "participants": "Brian Cullinan | wizard > Aaron Boushley | Staff Software Engineer at AXON",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Aaron Boushley",
+        "url": "linkedin.com/in/aaron-boushley-6366159",
+        "email": "boushley@gmail.com",
+        "title": "Staff Software Engineer at AXON"
+      }
+    ],
+    "message": "How is it going buddy?",
+    "time": "2017-10-10T20:22:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "10Oct17",
+    "participants": "Brian Cullinan | wizard > Aaron Boushley | Staff Software Engineer at AXON",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Aaron Boushley",
+        "url": "linkedin.com/in/aaron-boushley-6366159",
+        "email": "boushley@gmail.com",
+        "title": "Staff Software Engineer at AXON"
+      }
+    ],
+    "message": "Aaron, can you introduce me to someone who knows Alexis? https://www.linkedin.com/in/alexisohanian",
+    "time": "2017-10-10T20:22:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "10Oct17",
+    "participants": "Brian Cullinan | wizard > Chris Mazer | --",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Chris Mazer",
+        "url": "linkedin.com/in/chris-mazer-4a411a92",
+        "phone": "(614) 876-5351 (Home)",
+        "email": "cmazer@natsignsys.com",
+        "title": "--"
+      }
+    ],
+    "message": "Thank you so much for the connect! I would love to talk about a possible position at National Sign! I've attached a PDF of my resume, in case you are interested. :)\nForward attachment\nDownload Resume - Google Docs.pdf\nPDF\nResume - Google Docs.pdf\n78 KB",
+    "time": "2017-10-10T18:32:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "10Oct17",
+    "participants": "Brian Cullinan | wizard > Andrew Turner | Director, Corporate Recruiter at York Solutions, LLC",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Andrew Turner",
+        "url": "linkedin.com/in/andrewdturner1",
+        "title": "Director, Corporate Recruiter at York Solutions, LLC"
+      }
+    ],
+    "message": "I am pick me!",
+    "time": "2017-10-10T21:23:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "10Oct17",
+    "participants": "Brian Cullinan | wizard > Stephen Houghton | VP AV Business Ops at Cruise",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Stephen Houghton",
+        "url": "linkedin.com/in/stephen-houghton-5644427",
+        "email": "stephen.meyer.houghton@gmail.com",
+        "title": "VP AV Business Ops at Cruise"
+      }
+    ],
+    "message": "Stephen, can you introduce me to someone who knows Eugenia? https://www.linkedin.com/in/eugenia-kuyda-638a8a1b",
+    "time": "2017-10-10T20:48:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "10Oct17",
+    "participants": "Brian Cullinan | wizard > Steven Kaplan | Recruiting our dynamic team @ Okta, Inc.",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Steven Kaplan",
+        "url": "linkedin.com/in/stevenkaplanrecruiter",
+        "email": "Steven.Kaplan@Okta.com",
+        "title": "Recruiting our dynamic team @ Okta, Inc."
+      }
+    ],
+    "message": "Hey thank you for the connect!",
+    "time": "2017-10-10T20:24:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "10Oct17",
+    "participants": "Brian Cullinan | wizard > Abe Pralle | Game Developer",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Abe Pralle",
+        "url": "linkedin.com/in/abepralle",
+        "email": "abe.pralle@gmail.com",
+        "title": "Game Developer"
+      }
+    ],
+    "message": "Abe, can you introduce me to someone who knows Alexis? Thank you ;) https://www.linkedin.com/in/alexisohanian",
+    "time": "2017-10-10T20:14:00.000Z",
+    "title": "wizard"
+  }
+]

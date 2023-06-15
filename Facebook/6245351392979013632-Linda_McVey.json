@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6245351392979013632/",
+    "participants": [
+        {
+            "name": "Linda McVey",
+            "title": "Working with and for people!",
+            "url": "linkedin.com/in/lindamcvey59",
+            "phone": null,
+            "email": "mcveylinda@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Linda McVey",
+            "time": "2017-03-08T21:16:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-08T21:19:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

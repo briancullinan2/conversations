@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6277892510975082496/",
+    "participants": [
+        {
+            "name": "Shaun P. Cooperider",
+            "title": "Sr. Network Engineer at Charles Schwab",
+            "url": "linkedin.com/in/shaun-p-cooperider-9616aa53",
+            "phone": "720-418-4180 (Work)",
+            "email": "Shaun.Cooperider@Schwab.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-06-06T16:23:00.000Z",
+            "message": "What does a person's network traffic say about them?\n"
+        }
+    ]
+}

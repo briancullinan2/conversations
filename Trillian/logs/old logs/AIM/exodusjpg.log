@@ -1,0 +1,42 @@
+﻿Session Start (BrianJCullinan:exodusjpg): Mon Apr 17 15:07:55 2006
+[04/17/2006 03:07 PM] Me: (Link: http://bjcmedia.mine.nu/)http://bjcmedia.mine.nu/
+[04/17/2006 03:08 PM] Me: how do you spell your first and last name?
+[04/17/2006 03:09 PM] John Goral: broke it :)
+[04/17/2006 03:09 PM] John Goral: John Goral
+[04/17/2006 03:10 PM] John Goral: Warning: fsockopen() [function.fsockopen]: unable to connect to mailgate.nau.edu:25 (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ) in C:\Documents and Settings\Brian Cullinan\My Documents\My Webs\Media Server\email\class.smtp.php on line 105 
+  
+ There was a problem sending the confirmation e-mail please notify administrator
+[04/17/2006 03:14 PM] John Goral: and public key is kinda weird.. i dont know what needs to go in there
+[04/17/2006 03:15 PM] Me: yeah that's just if you want to share your private files with friends
+[04/17/2006 03:15 PM] Me: i need to add a descript for it
+[04/17/2006 03:15 PM] Me: *description
+[04/17/2006 03:15 PM] Me: go ahead and log on i confirmed for you
+[04/17/2006 03:16 PM] John Goral: (Link: http://bjcmedia.mine.nu/options.php)http://bjcmedia.mine.nu/options.php   doesnt exist
+[04/17/2006 03:16 PM] Me: yeah i know i haven't set that up yet
+[04/17/2006 03:16 PM] Me: music and files works so far
+[04/17/2006 03:18 PM] Me: yeah i don't know what is wrong with my mailer
+[04/17/2006 03:18 PM] John Goral: so is the pubic key the path to my local shared folder?
+[04/17/2006 03:19 PM] Me: no its the password to your private folder
+[04/17/2006 03:19 PM] Me: it can be any key
+[04/17/2006 03:19 PM] Me: doesn't really matter yet
+[04/17/2006 03:19 PM] John Goral: wheres the "any key"  i dont see one on my keyboard :)
+[04/17/2006 03:19 PM] Me: lol
+Session Close (John Goral): Mon Apr 17 15:49:53 2006
+
+
+Session Start (BrianJCullinan:John Goral): Tue Apr 18 21:26:53 2006
+[04/18/2006 09:26 PM] John Goral: quit breaking yer website!
+[04/18/2006 09:26 PM] Me: sorry
+[04/18/2006 09:27 PM] Me: kind of hard to test on the same server it runs off of
+[04/18/2006 09:27 PM] John Goral: heh heh heh
+[04/18/2006 09:27 PM] John Goral: true
+[04/18/2006 09:27 PM] Me: were you uploading?
+[04/18/2006 09:28 PM] John Goral: nope.. trying to play stuff
+[04/18/2006 09:28 PM] Me: that shouldn't be affected
+[04/18/2006 09:28 PM] Me: hmm
+[04/18/2006 09:30 PM] Me: i just converted over my entire encode and decode functions for the folder paths
+[04/18/2006 09:41 PM] Me: back up and running
+[04/18/2006 09:41 PM] Me: kinda
+Session Close (John Goral): Tue Apr 18 22:11:28 2006
+
+

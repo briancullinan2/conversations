@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6211919083638714368/",
+    "participants": [
+        {
+            "name": "David Kim",
+            "title": "Investor, Advisor, Entrepreneur, Technology Executive",
+            "url": "linkedin.com/in/infraguru",
+            "phone": "888.897.1688 (Work)",
+            "email": "dk@infraguru.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "What are you working on?\n",
+            "time": "2017-12-06T15:08:00.000Z"
+        }
+    ]
+}

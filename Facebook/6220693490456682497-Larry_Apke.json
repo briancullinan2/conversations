@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6220693490456682497/",
+    "participants": [
+        {
+            "name": "Larry Apke",
+            "title": "Agile Program Manager at Oracle",
+            "url": "linkedin.com/in/larryapke",
+            "phone": null,
+            "email": "drstork@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-30T20:15:00.000Z"
+        }
+    ]
+}

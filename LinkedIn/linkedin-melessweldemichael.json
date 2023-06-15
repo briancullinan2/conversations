@@ -1,0 +1,720 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "12 Mutual Connections",
+                "You and Meless both know Darakshan Masood, Nick Prokesch, and 10 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Senior Java Developer",
+                "Company Name",
+                "CGI",
+                "Dates Employed",
+                "Feb 2017 – Present",
+                "Employment Duration",
+                "10 mos",
+                "Location",
+                "Herndon,VA"
+            ],
+            [
+                "Java/J2EE Developer",
+                "Company Name",
+                "Bank of America",
+                "Dates Employed",
+                "Sep 2015 – Nov 2016",
+                "Employment Duration",
+                "1 yr 3 mos",
+                "Location",
+                "Charlotte, North Carolina Area"
+            ],
+            [
+                "Java/J2EE Developer",
+                "Company Name",
+                "Deloitte Consulting LLP",
+                "Dates Employed",
+                "Nov 2014 – Sep 2015",
+                "Employment Duration",
+                "11 mos",
+                "Location",
+                "Harrisburg, Pennsylvania Area",
+                "•\tDeveloped Enterprise applications using MVC architecture.•\tImplemented Singleton design pattern for creating JDBC connection pool, Factory design Pattern – for calling DAO from Service, Proxy Design Pattern- for creating proxy objects so as to achieve less database hit.•\tDeveloped Java code in a layered approach. I.e. developed Business Object classes, Service classes, DAO classes and model classes.•\tUsed the principle of Inversion of Control (Dependency Injection)  •\tDeveloped Business Object classes to implement the Business logic of correspondence notices and calls the corresponding service methods.•\tDeveloped Service classes to implement different service methods called in the Business Object classes, then it calls the corresponding DAO class methods•\tDeveloped DAO classes in which CRUD operations are implemented.•\tDeveloped Model classes so as to map the corresponding objects into classes.•\tApplied the core principle of Object Oriented Programming. Polymorphism, Inheritance, Abstraction and Encapsulation so as to develop efficient code.•\t Developed complex SQL queries to retrieve, delete, update and persist data.•\tUsed RAD as an IDE and WebSphere application Server to deploy developed applications•\tUsed Tortoise SVN as a version control tool.•\tUsed JIRA-which is Project Management Software that keeps track of all activities of the project development status.•\tInvolved in writing unit test plans and developing test cases using JUnit.•\tDesigned and Developed different reporting templates using Elixir Designer tool"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Maharishi University of Management",
+                "Degree Name",
+                "Master's Degree",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2014 – 2016",
+                "Science of Creative IntelligenceFundamentals of Programming Practices(java SE), Modern Programming Practices(java SE)Parallel Programming(Java MultiThreading, Web Application Programming(HTML,CSS,PHP,JavaScript,jQuery,Ajax,JSON)Spring and HibernateWeb Application Architecture(Servlet,JSP, and JSF)Big DataEnterprise Architecture Algorithms Software Engineering Database Systems"
+            ],
+            [
+                "Maharishi University of Management",
+                "Degree Name",
+                "Master's Degree",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2014 – 2016",
+                "Science of Creative IntelligenceFundamentals of Programming Practices(java SE), Modern Programming Practices(java SE)Parallel Programming(Java MultiThreading, Web Application Programming(HTML,CSS,PHP,JavaScript,jQuery,Ajax,JSON)Spring and HibernateWeb Application Architecture(Servlet,JSP, and JSF)Big DataEnterprise Architecture Algorithms Software Engineering Database Systems"
+            ],
+            [
+                "Mekelle Institute of Technology",
+                "Degree Name",
+                "Bachelor of Science (BSc)",
+                "Field Of Study",
+                "Computer Science and Engineering",
+                "Dates attended or expected graduation",
+                "2005 – 2009"
+            ],
+            [
+                "Mekelle Institute of Technology",
+                "Degree Name",
+                "Bachelor of Science (BSc)",
+                "Field Of Study",
+                "Computer Science and Engineering",
+                "Dates attended or expected graduation",
+                "2005 – 2009"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "JAVA Interview Questions",
+                "99,570 members"
+            ],
+            [
+                "Deloitte India (Offices of the US)",
+                "83,881 followers"
+            ],
+            [
+                "Google",
+                "5,671,644 followers"
+            ],
+            [
+                "Microsoft SQL Server Jobs",
+                "37,246 members"
+            ],
+            [
+                "Microsoft SQL Server Developers group",
+                "31,932 members"
+            ],
+            [
+                "Java Developers",
+                "437,531 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "JAVA Interview Questions",
+                "99,570 members"
+            ],
+            [
+                "JAVA Interview Questions",
+                "99,570 members"
+            ],
+            [
+                "Deloitte India (Offices of the US)",
+                "83,881 followers"
+            ],
+            [
+                "Deloitte India (Offices of the US)",
+                "83,881 followers"
+            ],
+            [
+                "Google",
+                "5,671,644 followers"
+            ],
+            [
+                "Google",
+                "5,671,644 followers"
+            ],
+            [
+                "Microsoft SQL Server Jobs",
+                "37,246 members"
+            ],
+            [
+                "Microsoft SQL Server Jobs",
+                "37,246 members"
+            ],
+            [
+                "Microsoft SQL Server Developers group",
+                "31,932 members"
+            ],
+            [
+                "Microsoft SQL Server Developers group",
+                "31,932 members"
+            ],
+            [
+                "Java Developers",
+                "437,531 members"
+            ],
+            [
+                "Java Developers",
+                "437,531 members"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Java",
+                "See 112 endorsements for Java",
+                "99+",
+                "Java",
+                "Endorse",
+                "Endorsed by Ghenet Zewde and 33 others who are highly skilled at this",
+                "Endorsed by Himanshu Nigam (mutual connection)"
+            ],
+            [
+                "Java",
+                "See 112 endorsements for Java",
+                "99+"
+            ],
+            [
+                "Spring",
+                "See 27 endorsements for Spring",
+                "27",
+                "Spring",
+                "Endorse",
+                "Endorsed by Ghenet Zewde and 11 others who are highly skilled at this",
+                "Endorsed by Himanshu Nigam (mutual connection)"
+            ],
+            [
+                "Spring",
+                "See 27 endorsements for Spring",
+                "27"
+            ],
+            [
+                "Hibernate",
+                "See 47 endorsements for Hibernate",
+                "47",
+                "Hibernate",
+                "Endorse",
+                "Endorsed by Ghenet Zewde and 14 others who are highly skilled at this",
+                "Endorsed by 2 of Meless’ colleagues at Bank of America"
+            ],
+            [
+                "Hibernate",
+                "See 47 endorsements for Hibernate",
+                "47"
+            ],
+            [
+                "Servlets",
+                "See 38 endorsements for Servlets",
+                "38",
+                "Servlets",
+                "Endorse"
+            ],
+            [
+                "Servlets",
+                "See 38 endorsements for Servlets",
+                "38"
+            ],
+            [
+                "JSP",
+                "See 34 endorsements for JSP",
+                "34",
+                "JSP",
+                "Endorse"
+            ],
+            [
+                "JSP",
+                "See 34 endorsements for JSP",
+                "34"
+            ],
+            [
+                "JSF",
+                "See 29 endorsements for JSF",
+                "29",
+                "JSF",
+                "Endorse"
+            ],
+            [
+                "JSF",
+                "See 29 endorsements for JSF",
+                "29"
+            ],
+            [
+                "AJAX",
+                "See 61 endorsements for AJAX",
+                "61",
+                "AJAX",
+                "Endorse"
+            ],
+            [
+                "AJAX",
+                "See 61 endorsements for AJAX",
+                "61"
+            ],
+            [
+                "JavaScript",
+                "See 100 endorsements for JavaScript",
+                "99+",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 100 endorsements for JavaScript",
+                "99+"
+            ],
+            [
+                "HTML 5",
+                "See 24 endorsements for HTML 5",
+                "24",
+                "HTML 5",
+                "Endorse"
+            ],
+            [
+                "HTML 5",
+                "See 24 endorsements for HTML 5",
+                "24"
+            ],
+            [
+                "jQuery",
+                "See 39 endorsements for jQuery",
+                "39",
+                "jQuery",
+                "Endorse"
+            ],
+            [
+                "jQuery",
+                "See 39 endorsements for jQuery",
+                "39"
+            ],
+            [
+                "CSS",
+                "See 21 endorsements for CSS",
+                "21",
+                "CSS",
+                "Endorse"
+            ],
+            [
+                "CSS",
+                "See 21 endorsements for CSS",
+                "21"
+            ],
+            [
+                "PHP",
+                "See 21 endorsements for PHP",
+                "21",
+                "PHP",
+                "Endorse"
+            ],
+            [
+                "PHP",
+                "See 21 endorsements for PHP",
+                "21"
+            ],
+            [
+                "JSON",
+                "See 16 endorsements for JSON",
+                "16",
+                "JSON",
+                "Endorse"
+            ],
+            [
+                "JSON",
+                "See 16 endorsements for JSON",
+                "16"
+            ],
+            [
+                "XML",
+                "See 62 endorsements for XML",
+                "62",
+                "XML",
+                "Endorse"
+            ],
+            [
+                "XML",
+                "See 62 endorsements for XML",
+                "62"
+            ],
+            [
+                "C++",
+                "See 15 endorsements for C++",
+                "15",
+                "C++",
+                "Endorse"
+            ],
+            [
+                "C++",
+                "See 15 endorsements for C++",
+                "15"
+            ],
+            [
+                "C#",
+                "See 17 endorsements for C#",
+                "17",
+                "C#",
+                "Endorse"
+            ],
+            [
+                "C#",
+                "See 17 endorsements for C#",
+                "17"
+            ],
+            [
+                "Java Enterprise Edition",
+                "See 30 endorsements for Java Enterprise Edition",
+                "30",
+                "Java Enterprise Edition",
+                "Endorse"
+            ],
+            [
+                "Java Enterprise Edition",
+                "See 30 endorsements for Java Enterprise Edition",
+                "30"
+            ],
+            [
+                "SQL",
+                "See 29 endorsements for SQL",
+                "29",
+                "SQL",
+                "Endorse"
+            ],
+            [
+                "SQL",
+                "See 29 endorsements for SQL",
+                "29"
+            ],
+            [
+                "VMware",
+                "See 10 endorsements for VMware",
+                "10",
+                "VMware",
+                "Endorse"
+            ],
+            [
+                "VMware",
+                "See 10 endorsements for VMware",
+                "10"
+            ],
+            [
+                "IIS",
+                "See 10 endorsements for IIS",
+                "10",
+                "IIS",
+                "Endorse"
+            ],
+            [
+                "IIS",
+                "See 10 endorsements for IIS",
+                "10"
+            ],
+            [
+                "Active Directory",
+                "See 12 endorsements for Active Directory",
+                "12",
+                "Active Directory",
+                "Endorse"
+            ],
+            [
+                "Active Directory",
+                "See 12 endorsements for Active Directory",
+                "12"
+            ],
+            [
+                "Servers",
+                "See 9 endorsements for Servers",
+                "9",
+                "Servers",
+                "Endorse"
+            ],
+            [
+                "Servers",
+                "See 9 endorsements for Servers",
+                "9"
+            ],
+            [
+                "ITIL",
+                "See 15 endorsements for ITIL",
+                "15",
+                "ITIL",
+                "Endorse"
+            ],
+            [
+                "ITIL",
+                "See 15 endorsements for ITIL",
+                "15"
+            ],
+            [
+                "Web Application Security",
+                "See 10 endorsements for Web Application Security",
+                "10",
+                "Web Application Security",
+                "Endorse"
+            ],
+            [
+                "Web Application Security",
+                "See 10 endorsements for Web Application Security",
+                "10"
+            ],
+            [
+                "Databases",
+                "See 28 endorsements for Databases",
+                "28",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 28 endorsements for Databases",
+                "28"
+            ],
+            [
+                "Data Center",
+                "See 7 endorsements for Data Center",
+                "7",
+                "Data Center",
+                "Endorse"
+            ],
+            [
+                "Data Center",
+                "See 7 endorsements for Data Center",
+                "7"
+            ],
+            [
+                "IT Service Management",
+                "See 8 endorsements for IT Service Management",
+                "8",
+                "IT Service Management",
+                "Endorse"
+            ],
+            [
+                "IT Service Management",
+                "See 8 endorsements for IT Service Management",
+                "8"
+            ],
+            [
+                "Virtualization",
+                "See 7 endorsements for Virtualization",
+                "7",
+                "Virtualization",
+                "Endorse"
+            ],
+            [
+                "Virtualization",
+                "See 7 endorsements for Virtualization",
+                "7"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 35 endorsements for Microsoft SQL Server",
+                "35",
+                "Microsoft SQL Server",
+                "Endorse"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 35 endorsements for Microsoft SQL Server",
+                "35"
+            ],
+            [
+                "IT Management",
+                "See 7 endorsements for IT Management",
+                "7",
+                "IT Management",
+                "Endorse"
+            ],
+            [
+                "IT Management",
+                "See 7 endorsements for IT Management",
+                "7"
+            ],
+            [
+                "Disaster Recovery",
+                "See 10 endorsements for Disaster Recovery",
+                "10",
+                "Disaster Recovery",
+                "Endorse"
+            ],
+            [
+                "Disaster Recovery",
+                "See 10 endorsements for Disaster Recovery",
+                "10"
+            ],
+            [
+                "Windows Server",
+                "See 12 endorsements for Windows Server",
+                "12",
+                "Windows Server",
+                "Endorse"
+            ],
+            [
+                "Windows Server",
+                "See 12 endorsements for Windows Server",
+                "12"
+            ],
+            [
+                "Cisco Technologies",
+                "See 6 endorsements for Cisco Technologies",
+                "6",
+                "Cisco Technologies",
+                "Endorse"
+            ],
+            [
+                "Cisco Technologies",
+                "See 6 endorsements for Cisco Technologies",
+                "6"
+            ],
+            [
+                "MySQL",
+                "See 72 endorsements for MySQL",
+                "72",
+                "MySQL",
+                "Endorse"
+            ],
+            [
+                "MySQL",
+                "See 72 endorsements for MySQL",
+                "72"
+            ],
+            [
+                "Oracle",
+                "See 12 endorsements for Oracle",
+                "12",
+                "Oracle",
+                "Endorse"
+            ],
+            [
+                "Oracle",
+                "See 12 endorsements for Oracle",
+                "12"
+            ],
+            [
+                "Agile Methodologies",
+                "See 13 endorsements for Agile Methodologies",
+                "13",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 13 endorsements for Agile Methodologies",
+                "13"
+            ],
+            [
+                "JUnit",
+                "See 13 endorsements for JUnit",
+                "13",
+                "JUnit",
+                "Endorse"
+            ],
+            [
+                "JUnit",
+                "See 13 endorsements for JUnit",
+                "13"
+            ],
+            [
+                "Eclipse",
+                "See 20 endorsements for Eclipse",
+                "20",
+                "Eclipse",
+                "Endorse"
+            ],
+            [
+                "Eclipse",
+                "See 20 endorsements for Eclipse",
+                "20"
+            ],
+            [
+                "Spring Framework",
+                "See 69 endorsements for Spring Framework",
+                "69",
+                "Spring Framework",
+                "Endorse"
+            ],
+            [
+                "Spring Framework",
+                "See 69 endorsements for Spring Framework",
+                "69"
+            ],
+            [
+                "HTML5",
+                "See 11 endorsements for HTML5",
+                "11",
+                "HTML5",
+                "Endorse"
+            ],
+            [
+                "HTML5",
+                "See 11 endorsements for HTML5",
+                "11"
+            ],
+            [
+                "JavaServer Pages (JSP)",
+                "See 15 endorsements for JavaServer Pages (JSP)",
+                "15",
+                "JavaServer Pages (JSP)",
+                "Endorse"
+            ],
+            [
+                "JavaServer Pages (JSP)",
+                "See 15 endorsements for JavaServer Pages (JSP)",
+                "15"
+            ],
+            [
+                "JavaServer Faces (JSF)",
+                "See 8 endorsements for JavaServer Faces (JSF)",
+                "8",
+                "JavaServer Faces (JSF)",
+                "Endorse"
+            ],
+            [
+                "JavaServer Faces (JSF)",
+                "See 8 endorsements for JavaServer Faces (JSF)",
+                "8"
+            ],
+            [
+                "Cascading Style Sheets (CSS)",
+                "See 4 endorsements for Cascading Style Sheets (CSS)",
+                "4",
+                "Cascading Style Sheets (CSS)",
+                "Endorse"
+            ],
+            [
+                "Cascading Style Sheets (CSS)",
+                "See 4 endorsements for Cascading Style Sheets (CSS)",
+                "4"
+            ]
+        ],
+        "summary": "    Senior Java Developer with 6+ years of hands-on professional experience in J2EE development, primarily with Spring & Hibernate and JSF.\t• Excellent skills in state-of-the-art technology J2EE development, primarily with Spring, Hibernate and JSF.•\tExperienced in developing enterprise applications with respect to Banking, Health Care, and Educational and Social Service domains.•\tExtended expertise in Software Development including complete Software Development Life Cycle (SDLC), analysis, design, development and implementation of web and windows-based applications.•\tExtended expertise of working as a Java/J2EE Developer developing applications using Servlets, JSP, JSTL, Spring, JSF, Java Beans, JDBC, Hibernate, ZK and MVC architecture. •\tExperience in client side designing and validations using HTML, DHTML, CSS, JavaScript, AJAX, JSP and JQuery.•\tExtensive knowledge of J2EE architecture, Patterns, Design and development.•\tExperienced on Core java technology •\tExperienced in the functional usage and deployment of applications in Glassfish,JBoss, WebLogic, WebSphere and apche tomcat•\tWorked on Agile methodology, SOA for many of the applications•\tExtensive experience in working over Web Services with WSDL, SOAP and RESTFUL web servicesCORE COMPETENCIESMulti-Language Coding • Analysis & Design • Software Development Lifecycle • Technical DocumentationTesting • Debugging • Deployments • Customizations • RAD Methodologies • Problem Solving TECHNICAL SKILLSLanguages: Core Java • J2EE •  C • C++ • C# Web: JSP and Servlet •  HTML • CSS and JavaScript • jQuery • Ajax • PHP •  • JSON • XML • Restful • Soap Web Service FrameWorks: JSF • Spring & HibernateWeb Server: Apache Web Server • Glassfish and JBOSS Databases: SQL-Server • Oracle • MySQLTools: NetBeans IDE • JCreator Eclipse • Java emulator • Quincy • Turbo C++ • Microsoft Visio • UML • RAD Controls • Visual StudioMiscellaneous: TCP/IP • Socket Programming (TCP/IP level free) • Routing Protocols\n  \n  \n",
+        "name": "Meless Weldemichael",
+        "title": "Senior Java Developer",
+        "url": "linkedin.com/in/melessweldemichael",
+        "phone": "",
+        "email": "meless.weldemichael@gmail.com"
+    }
+]

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6189592455378194434/",
+    "participants": [
+        {
+            "name": "Katie Kalina",
+            "title": "Account Manager at Watson",
+            "url": "linkedin.com/in/catherinekalina",
+            "phone": null,
+            "email": "ckalina@asu.edu"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Hello friend!\r\nCan you get me a phone interview for this job?\r\n/en/jobs/447904\r\n\r\n- Brian Cullinan\n",
+            "time": "2016-10-06T00:30:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Happy birthday!\n",
+            "time": "2017-12-05T16:47:00.000Z"
+        }
+    ]
+}

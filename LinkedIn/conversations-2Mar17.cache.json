@@ -1,0 +1,85 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "2Mar17",
+    "participants": "Brian Cullinan | wizard > Storey Pryor | Sr. Director of Events at Isagenix",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Storey Pryor",
+        "url": "linkedin.com/in/storeypryor",
+        "email": "storeypryor@gmail.com",
+        "title": "Sr. Director of Events at Isagenix"
+      }
+    ],
+    "message": "What was the last adventure you told someone about?",
+    "time": "2017-03-02T02:26:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Mar17",
+    "participants": "Iga Viktoria Rose | Medical Esthetics CEO > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Iga Viktoria Rose",
+        "url": "linkedin.com/in/iga-viktoria-rose-b1616b118",
+        "phone": "9282218555 (Mobile)",
+        "email": "prettyeuro@gmail.com",
+        "title": "Medical Esthetics CEO"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": ":*",
+    "time": "2017-03-02T04:42:00.000Z",
+    "title": "Medical Esthetics CEO"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Mar17",
+    "participants": "Brian Cullinan | wizard > Matt (Handshakin) Holmes 👋🏼 | Entrepreneur, Speaker, World Record Holder",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Matt (Handshakin) Holmes 👋🏼",
+        "url": "linkedin.com/in/handshakin",
+        "phone": "7205155117 (Home)",
+        "email": "matt@handshakin.com",
+        "title": "Entrepreneur, Speaker, World Record Holder"
+      }
+    ],
+    "message": "Happy birthday!",
+    "time": "2017-03-02T16:19:00.000Z",
+    "title": "wizard"
+  }
+]

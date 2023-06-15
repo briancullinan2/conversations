@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6317459339733008384/",
+    "participants": [
+        {
+            "name": "Annalee Masters",
+            "title": "Sales Development Representative at Pitney Bowes",
+            "url": "linkedin.com/in/annalee-masters",
+            "phone": null,
+            "email": "annalee.masters@televerde.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Annalee Masters",
+            "message": "Congrats on the new job!",
+            "time": "2017-09-23T20:48:00.000Z"
+        }
+    ]
+}

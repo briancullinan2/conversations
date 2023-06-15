@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6222637483948068864/",
+    "participants": [
+        {
+            "name": "Bradley Clark",
+            "title": "Information Security Analyst at Charles Schwab",
+            "url": "linkedin.com/in/bradleyandersonclark",
+            "phone": null,
+            "email": "bradley.a.clark@asu.edu"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-05T04:59:00.000Z"
+        }
+    ]
+}

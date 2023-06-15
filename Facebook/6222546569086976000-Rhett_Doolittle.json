@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6222546569086976000/",
+    "participants": [
+        {
+            "name": "Rhett Doolittle",
+            "title": "CEO at Bluume, LLC",
+            "url": "linkedin.com/in/rhettdoolittle",
+            "phone": null,
+            "email": "rhett@bluume.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-04T22:58:00.000Z"
+        }
+    ]
+}

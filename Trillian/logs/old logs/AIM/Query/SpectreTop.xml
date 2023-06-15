@@ -1,0 +1,312 @@
+<session type="start" time="1140483865" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1140483865" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="Hey%20Brian%20have%20you%20looked%20at%20the%20negative%20class%20of%20the%20CS%20homework%3F"/>
+<message type="outgoing_privateMessage" time="1140485092" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="who%20is%20this%3F"/>
+<icon time="1140485094" medium="AIM" from="SpectreTop" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DSpectreTop%2D1140485093%2Ejpg"/>
+<message type="outgoing_privateMessage" time="1140485108" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20finished%20the%20stupid%20CS%20homework"/>
+<message type="outgoing_privateMessage" time="1140485529" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="who%20is%20this%3F"/>
+<session type="stop" time="1140486320" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<session type="start" time="1140491838" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1140491838" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="Yeah%20sorry%20about%20that%20this%20is%20forrest%2E%20For%20the%20Negative%20Class%20can%20you%20just%20take%20the%20Multiply%20class%20and%20set%20one%20of%20the%20sides%20to%20always%20be%20%2D1%3F"/>
+<message type="outgoing_privateMessage" time="1140491853" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20set%20it%20to%200"/>
+<message type="outgoing_privateMessage" time="1140491859" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="but%20yes%2C%20only%20use%20the%20left%20side"/>
+<message type="incoming_privateMessage" time="1140492026" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="why%20would%20you%20set%20it%20to%20be%200%20if%20you%20wanted%20it%20to%20be%20a%20negative%20number"/>
+<message type="outgoing_privateMessage" time="1140492386" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="no"/>
+<message type="outgoing_privateMessage" time="1140492399" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%27ll%20just%20send%20you%20mine"/>
+<message type="incoming_privateMessage" time="1140492409" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="uh%20ok"/>
+<message type="outgoing_privateMessage" time="1140492412" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20guess%20that%20would%20work"/>
+<message type="outgoing_privateMessage" time="1140492418" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="actually%20i%20see%20what%20you%20are%20doing"/>
+<message type="outgoing_privateMessage" time="1140492424" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="that%27s%20probably%20a%20better%20way%20to%20do%20it"/>
+<message type="outgoing_privateMessage" time="1140492451" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="set%20left%20to%20the%20value%20and%20right%20to%20%2D1%20and%20multiple%20left%20by%20right"/>
+<message type="outgoing_privateMessage" time="1140492453" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20get%20it"/>
+<message type="incoming_privateMessage" time="1140492459" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="yeah"/>
+<message type="outgoing_privateMessage" time="1140492470" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%27m%20copying%20that"/>
+<message type="incoming_privateMessage" time="1140492475" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="how%20would%20I%20set%20right%20to%20always%20%3D%20%2D1%20%3F"/>
+<message type="incoming_privateMessage" time="1140492490" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="would%20I%20do%20that%20right%20below%20the%20super%3F"/>
+<message type="outgoing_privateMessage" time="1140492495" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="let%20me%20change%20mine%20and%20i%27ll%20send%20it"/>
+<message type="outgoing_privateMessage" time="1140492499" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="no%20right%20in%20super"/>
+<message type="incoming_privateMessage" time="1140492503" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="ok"/>
+<message type="outgoing_privateMessage" time="1140492510" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="super%20%28lhs%2C%20Num%28%2D1%29%20%29"/>
+<message type="incoming_privateMessage" time="1140492519" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="oh%20ok"/>
+<message type="incoming_privateMessage" time="1140492522" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="I%20see"/>
+<message type="outgoing_privateMessage" time="1140492555" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="no%20because%20then%20you%20have%20weird%20toString%20stuff%20to%20do"/>
+<message type="outgoing_privateMessage" time="1140492561" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="use%20this%20way"/>
+<message type="incoming_privateMessage" time="1140492562" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="why%3F"/>
+<message type="incoming_privateMessage" time="1140492573" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="how%20does%20that%20make%20toString%20strange%3F"/>
+<message type="outgoing_privateMessage" time="1140492579" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="well%20i%20guess%20it%20doesn%27t%20matter"/>
+<message type="incoming_privateMessage" time="1140492597" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="send%20me%20your%20way%20and%20then%20I%20will%20try%20both%20and%20see%20which%20I%20like%20better"/>
+<message type="outgoing_privateMessage" time="1140492863" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="%20%20%20%20%201%20%20%2F%2F%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%0A%20%20%20%20%20%202%20%20%2F%2F%20%20Negative%20by%20Brian%20Cullinan%20%0A%20%20%20%20%20%203%20%20%2F%2F%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%20%0A%20%20%20%20%20%204%20%20public%20class%20Negative%20extends%20BinaryOp%20%0A%20%20%20%20%20%205%20%20%7B%20%0A%20%20%20%20%20%206%20%20%20%20public%20Negative%28%20Term%20lhs%20%29%20%0A%20%20%20%20%20%207%20%20%20%20%7B%20%0A%20%20%20%20%20%208%20%20%20%20%20%20super%28%20lhs%2C%20new%20Num%28%2D1%29%20%29%3B%20%0A%20%20%20%20%20%209%20%20%20%20%7D%20%0A%20%20%20%20%2010%20%20%20%20public%20double%20evaluate%28%29%20%0A%20%20%20%20%2011%20%20%20%20%7B%20%0A%20%20%20%20%2012%20%20%20%20%20%20return%20left%2Eevaluate%28%29%20%2A%20right%2Eevaluate%28%29%3B%20%0A%20%20%20%20%2013%20%20%20%20%7D%20%0A%20%20%20%20%2014%20%20%20%20public%20String%20toString%28%29%20%0A%20%20%20%20%2015%20%20%20%20%7B%20%0A%20%20%20%20%2016%20%20%20%20%20%20return%20%22%2D%22%20%2B%20left%3B%20%0A%20%20%20%20%2017%20%20%20%20%7D%20%0A%20%20%20%20%2018%20%20%20%20public%20String%20toPrefixString%28%29%20%7B%20return%20%22%28%2D%20%22%20%2B%20left%2EtoPrefixString%28%29%20%2B%20%22%29%22%3B%20%7D%20%0A%20%20%20%20%2019%20%20%20%20public%20String%20toPostfixString%28%29%20%7B%20return%20%22%28%22%20%2B%20left%2EtoPostfixString%28%29%20%2B%20%22%20%2D%29%22%3B%20%7D%20%0A%20%20%20%20%2020%20%20%7D"/>
+<message type="incoming_privateMessage" time="1140494343" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="in%20the%20end%20does%20Negative%20even%20need%20to%20be%20an%20extension%20of%20Binary%20Op%3F%20"/>
+<message type="outgoing_privateMessage" time="1140494442" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="not%20really"/>
+<message type="outgoing_privateMessage" time="1140494445" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="but%20do%20it%20anyways"/>
+<message type="incoming_privateMessage" time="1140494451" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="why%3F"/>
+<message type="incoming_privateMessage" time="1140494480" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="couldnt%20it%20just%20be%20a%20term%20since%20it%20only%20has%20stuff%20on%20one%20side%2C%20the%20%2D1%20is%20defined%20within%20the%20class%3F"/>
+<message type="outgoing_privateMessage" time="1140494542" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="yeah%20i%20guess"/>
+<message type="outgoing_privateMessage" time="1140494559" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="how%20do%20you%20spell%20your%20last%20name"/>
+<message type="incoming_privateMessage" time="1140494559" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="I%20think%20I%20might%20try%20that"/>
+<message type="incoming_privateMessage" time="1140494570" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="SpectreTop" text="schwyn"/>
+<status type="online" time="1140494576" medium="AIM" from="SpectreTop"/>
+<message type="information_standard" time="1140494576" medium="AIM" text="%22SpectreTop%22%20signed%20on%20at%20Mon%20Feb%2020%2021%3A02%3A56%202006%2E"/>
+<session type="stop" time="1140494597" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<session type="start" time="1140495316" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1140495317" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="why%20does%20he%20return%20%22TODO%22"/>
+<message type="outgoing_privateMessage" time="1140495338" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="because%20he%20didn%27t%20want%20to%20give%20it%20to%20you"/>
+<message type="incoming_privateMessage" time="1140495345" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="ahh%20I%20see"/>
+<message type="incoming_privateMessage" time="1140495381" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="so%20it%20should%20be%20so%20for%20negative%20should%20it%20be%20something%20similar%20to%20return%20%22%28%2D%20%22%20%2B%20number%2EtoPrefixString%28%29%20%2B%20%22%29%22%3B%20depending%20on%20how%20I%20wrote%20my%20class%3F"/>
+<message type="outgoing_privateMessage" time="1140495413" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="yes"/>
+<message type="incoming_privateMessage" time="1140495421" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="ok%20good"/>
+<status type="Offline" time="1140495928" medium="AIM" from="SpectreTop"/>
+<message type="information_standard" time="1140495928" medium="AIM" text="%22Forest%20Schwyn%22%20signed%20off%20at%20Mon%20Feb%2020%2021%3A25%3A28%202006%2E"/>
+<status type="online" time="1140496048" medium="AIM" from="SpectreTop"/>
+<message type="information_standard" time="1140496048" medium="AIM" text="%22Forest%20Schwyn%22%20signed%20on%20at%20Mon%20Feb%2020%2021%3A27%3A27%202006%2E"/>
+<icon time="1140496051" medium="AIM" from="SpectreTop" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DSpectreTop%2D1140496051%2Egif"/>
+<status type="Offline" time="1140497584" medium="AIM" from="SpectreTop"/>
+<message type="information_standard" time="1140497584" medium="AIM" text="%22Forest%20Schwyn%22%20signed%20off%20at%20Mon%20Feb%2020%2021%3A53%3A04%202006%2E"/>
+<session type="stop" time="1140497771" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<session type="start" time="1140591450" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1140591450" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="did%20you%20get%20the%20CS%20homework%20done%20yet%3F"/>
+<message type="incoming_privateMessage" time="1140591463" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="the%20Homework%20homework%2C%20not%20the%20project%3F"/>
+<message type="outgoing_privateMessage" time="1140591713" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="both%20yes"/>
+<icon time="1140591713" medium="AIM" from="SpectreTop" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DSpectreTop%2D1140591713%2Ejpg"/>
+<message type="incoming_privateMessage" time="1140591734" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="what%20exactly%20is%20it%20asking%20for%20in%20question%202%20and%203"/>
+<message type="incoming_privateMessage" time="1140591742" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="what%20does%20he%20mean%20what%20method%3F"/>
+<message type="incoming_privateMessage" time="1140591780" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="does%20he%20want%20something%20other%20than%20the%20definition%3F"/>
+<message type="incoming_privateMessage" time="1140592060" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="and%20the%20answer%20to%20%232%20is%20java%2Elang%2EObject%20correct%3F"/>
+<message type="outgoing_privateMessage" time="1140592094" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20just%20gave%20the%20definition"/>
+<message type="outgoing_privateMessage" time="1140592100" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="is%20it%3F"/>
+<message type="incoming_privateMessage" time="1140592191" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="i%20didnt%20know%20exactly%20what%20he%20wanted%20for%20questions%203%20and%204%2C%20I%20did%20find%20the%20defintions%20though"/>
+<message type="outgoing_privateMessage" time="1140592200" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="neither%20did%20i"/>
+<message type="incoming_privateMessage" time="1140592203" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="im%20pretty%20sure%20the%20answer%20to%202%20is%20java%2Elang%2EObject"/>
+<message type="outgoing_privateMessage" time="1140592247" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="k%20we%20will%20see"/>
+<message type="outgoing_privateMessage" time="1140592293" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20g2g%20hooka"/>
+<message type="incoming_privateMessage" time="1140592300" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="ok%2C%20later"/>
+<session type="stop" time="1140592323" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<icon time="1140633185" medium="AIM" from="SpectreTop" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DSpectreTop%2D1140633185%2Egif"/>
+<session type="start" time="1140635205" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1140635206" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="I%20only%20have%20the%20shareware%20version%20of%20doom%2C%20somewhere%20or%20another%20I%20have%20full%20Doom2%2C%20I%20also%20have%20all%20of%20the%20starwars%20doom%20like%20game%20Dark%20Forces"/>
+<message type="outgoing_privateMessage" time="1140635234" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="dark%20forces%3F%20when%20was%20that%20made%3F%20is%20it%20idSoftware%3F"/>
+<icon time="1140635236" medium="AIM" from="SpectreTop" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DSpectreTop%2D1140635236%2Ejpg"/>
+<message type="incoming_privateMessage" time="1140635244" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="no%20it%20was%20lucas%20arts"/>
+<message type="outgoing_privateMessage" time="1140635250" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="oh%20that%20makes%20sense"/>
+<message type="outgoing_privateMessage" time="1140635268" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20could%20burn%20my%20entire%20idSoftware%20directory%20on%20one%20DVD"/>
+<message type="outgoing_privateMessage" time="1140635273" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="to%20bad%20i%20am%20out%20of%20DVDs"/>
+<message type="incoming_privateMessage" time="1140635284" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="I%20have%20a%20few%20left%2C%20but%20only%20about%2030"/>
+<message type="incoming_privateMessage" time="1140635290" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="ill%20bring%20one%20on%20friday"/>
+<message type="outgoing_privateMessage" time="1140635299" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="ok%20cool"/>
+<message type="outgoing_privateMessage" time="1140635317" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="hes%20still%20not%20teaching%20anything%20interesting"/>
+<message type="incoming_privateMessage" time="1140635322" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="have%20you%20seen%20the%20cdoom%20mod%20for%20Doom3%3F"/>
+<message type="outgoing_privateMessage" time="1140635338" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="huh%20uh%2C%20what%20is%20that%3F"/>
+<message type="incoming_privateMessage" time="1140635362" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="someone%20redid%20all%20the%20levels%20available%20in%20the%20shareware%20doom%2C%20in%20the%20Doom%203%20engine"/>
+<message type="incoming_privateMessage" time="1140635374" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="its%20pretty%20cool%20acutally"/>
+<message type="outgoing_privateMessage" time="1140635378" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="holy%20crap%20that%20would%20be%20amazing"/>
+<message type="outgoing_privateMessage" time="1140635392" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="the%20shareware%20is%20the%20entire%20first%20episode"/>
+<message type="incoming_privateMessage" time="1140635408" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="I%20know"/>
+<message type="incoming_privateMessage" time="1140635410" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="%3Ca%20href%3D%22http%3A%2F%2Fcdoom%2Ed3files%2Ecom%2Findex%2Ephp%3Fpage%3Dnews%22%3Ehttp%3A%2F%2Fcdoom%2Ed3files%2Ecom%2Findex%2Ephp%3Fpage%3Dnews%3C%2Fa%3E"/>
+<message type="incoming_privateMessage" time="1140635444" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="I%20havnt%20had%20doom%203%20installed%20in%20a%20very%20long%20time%20so%20the%20last%20time%20I%20played%20the%20mod%20was%20at%20like%20%2E2%20alpha%20which%20was%20just%20he%20first%20level%20but%20it%20was%20still%20really%20cool"/>
+<message type="outgoing_privateMessage" time="1140635511" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="cool%20i%20will%20have%20to%20check%20it%20out"/>
+<message type="outgoing_privateMessage" time="1140635518" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%27d%20like%20to%20see%20some%20screen%20shots"/>
+<message type="incoming_privateMessage" time="1140635694" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="tehey%20did%20spice%20it%20up%20a%20little%20but%20it%20plays%20the%20same"/>
+<message type="incoming_privateMessage" time="1140635834" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="I%20know%20the%20first%20episode%20pretty%20well"/>
+<message type="outgoing_privateMessage" time="1140635920" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20hope%20they%20do%20all%20the%20episodes%2C%20the%20levels%20get%20pretty%20complex"/>
+<message type="outgoing_privateMessage" time="1140635927" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="there%20are%20missing%20monsters"/>
+<message type="incoming_privateMessage" time="1140635931" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="they%20were%20a%20little%20unsure%20about%20that"/>
+<message type="outgoing_privateMessage" time="1140635944" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="like%20the%20boss%20at%20the%20end%20of%20doom3%20is%20similar%20to%20the%20bost%20of%20episode%202"/>
+<message type="outgoing_privateMessage" time="1140635948" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="%2Aboss"/>
+<message type="outgoing_privateMessage" time="1140635967" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20wonder%20what%20the%20boss%20of%20resurection%20of%20eveil%20is"/>
+<message type="incoming_privateMessage" time="1140635971" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="yeah%20only%20cyber%20knights%20were%20way%20more%20of%20a%20bitch%20in%20doom%202%20than%20doom%203"/>
+<message type="outgoing_privateMessage" time="1140635980" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20have%20both%20doom3%20and%20the%20extension%20and%20don%27t%20even%20play%20either"/>
+<message type="outgoing_privateMessage" time="1140635991" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="omfg%20dude"/>
+<message type="outgoing_privateMessage" time="1140636006" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="what%20i%20made%20all%20the%20original%20quakes%20in%20quake%204"/>
+<message type="incoming_privateMessage" time="1140636008" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="I%20found%20Doom%203%20to%20be%20kind%20of%20boring%20and%20repetative"/>
+<message type="incoming_privateMessage" time="1140636048" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="part%20of%20the%20reason%20they%20are%20unsure%20about%20the%20next%203%20episodes%20is%20becuase%20they%20thought%20there%20might%20be%20legal%20issues"/>
+<message type="outgoing_privateMessage" time="1140636078" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="yeah"/>
+<session type="stop" time="1140636082" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<icon time="1141065252" medium="AIM" from="SpectreTop" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DSpectreTop%2D1141065252%2Egif"/>
+<session type="start" time="1141167586" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1141167588" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="did%20you%20get%20your%20cs%20project%20working%3F"/>
+<message type="outgoing_privateMessage" time="1141167604" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="haven%27t%20started%20yet"/>
+<icon time="1141167606" medium="AIM" from="SpectreTop" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DSpectreTop%2D1141167605%2Ejpg"/>
+<message type="incoming_privateMessage" time="1141167615" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="ahh%2C%20cause%20im%20having%20some%20trouble%20with%20mine"/>
+<message type="incoming_privateMessage" time="1141167628" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="any%20idea%20when%20you%20are%20going%20to%20start%20on%20it%3F"/>
+<message type="outgoing_privateMessage" time="1141167662" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="no"/>
+<message type="incoming_privateMessage" time="1141167671" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="oh"/>
+<message type="incoming_privateMessage" time="1141167681" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="if%20you%20get%20some%20spare%20time%20would%20you%20mind%20helping%20me%20get%20mine%20working%3F"/>
+<message type="incoming_privateMessage" time="1141167694" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="I%20think%20i%20have%20most%20of%20it%20done%20im%20just%20having%20some%20trouble"/>
+<session type="stop" time="1141167700" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<session type="start" time="1141168361" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1141168362" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="how%20do%20I%20get%20my%20Term%2Ejava%20to%20work%20with%20Complex%20objects%20instead%20of%20primatives%2C%20I%20think%20that%20is%20my%20problem"/>
+<message type="outgoing_privateMessage" time="1141168373" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="dude%20i%20don%27t%20know%20i%20haven%27t%20started"/>
+<message type="incoming_privateMessage" time="1141168378" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="ok"/>
+<session type="stop" time="1141168382" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<icon time="1141182712" medium="AIM" from="SpectreTop" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DSpectreTop%2D1141182712%2Egif"/>
+<session type="start" time="1141238785" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1141238785" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="im%20petty%20sure%20I%20have%20my%20actuall%20java%20GUI%20coding%20and%20the%20calc%20stuff%20pretty%20good%20once%20I%20get%20all%20my%20num%20and%20negative%20and%20stuff%20to%20work%20ok"/>
+<message type="outgoing_privateMessage" time="1141238796" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="yeah"/>
+<icon time="1141238796" medium="AIM" from="SpectreTop" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DSpectreTop%2D1141238796%2Ejpg"/>
+<status type="Offline" time="1141240832" medium="AIM" from="SpectreTop"/>
+<message type="information_standard" time="1141240832" medium="AIM" text="%22Forest%20Schwyn%22%20signed%20off%20at%20Wed%20Mar%2001%2012%3A20%3A32%202006%2E"/>
+<session type="stop" time="1141242634" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<icon time="1141410986" medium="AIM" from="SpectreTop" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DSpectreTop%2D1141410986%2Egif"/>
+<session type="start" time="1141412305" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1141412305" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="%D6%BE%5Co_0%2F%20%D6%BE%20%20The%20Goggles%20They%20do%20Nothing%21"/>
+<message type="outgoing_privateMessage" time="1141412445" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20don%27t%20understand"/>
+<message type="information_standard" time="1141412446" medium="AIM" text="Auto%2Dresponse%20from%20Forest%20Schwyn%3A%20%D6%BE%5Co_0%2F%20%D6%BE%20%20%20The%20Goggles%20They%20Do%20Nothing%21"/>
+<icon time="1141412447" medium="AIM" from="SpectreTop" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DSpectreTop%2D1141412446%2Ejpg"/>
+<message type="incoming_privateMessage" time="1141412460" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="you%20never%20watched%20the%20simpson%20very%20much%20did%20you"/>
+<message type="outgoing_privateMessage" time="1141412481" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="no"/>
+<message type="outgoing_privateMessage" time="1141412488" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20watch%20south%20park"/>
+<message type="incoming_privateMessage" time="1141412497" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="%3A%28%20you%20should%20watch%20both"/>
+<message type="outgoing_privateMessage" time="1141412591" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="%E2%82%AC%E2%82%AC%E2%82%AC%E2%82%AC%E2%82%AC%E2%82%AC%E2%82%AC%E2%82%AC%E2%82%AC%E2%82%AC%E2%82%AC%E2%82%AC"/>
+<message type="outgoing_privateMessage" time="1141412608" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="%E2%82%AC%E2%82%AC%E2%82%AC%E2%82%AC%E2%82%AC%E2%82%AC%E2%82%AC%E2%82%AC"/>
+<message type="outgoing_privateMessage" time="1141412772" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="wooo%21"/>
+<message type="outgoing_privateMessage" time="1141412776" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="whooo%21"/>
+<message type="incoming_privateMessage" time="1141412782" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="woo%20woo"/>
+<message type="outgoing_privateMessage" time="1141412788" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="whooo%20whooo"/>
+<message type="outgoing_privateMessage" time="1141412792" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="got%20to%20spell%20it%20right"/>
+<message type="incoming_privateMessage" time="1141412799" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="oh%20im%20sorry"/>
+<message type="outgoing_privateMessage" time="1141413347" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="whatchya%20readin%27%3F"/>
+<message type="incoming_privateMessage" time="1141413358" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="world%20of%20warcraft%20stuff"/>
+<message type="outgoing_privateMessage" time="1141413363" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="wow%20sucks"/>
+<message type="outgoing_privateMessage" time="1141413367" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="stupid%20monthly%20fee"/>
+<message type="incoming_privateMessage" time="1141413373" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="lol"/>
+<message type="outgoing_privateMessage" time="1141413383" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20would%20play%20it%20if%20i%20could%20host%20my%20own%20server%20and%20it%20was%20free"/>
+<message type="incoming_privateMessage" time="1141413397" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="you%20can%20host%20your%20own%20server%2C%20its%20just%20a%20slight%20pain%20in%20the%20ass"/>
+<message type="incoming_privateMessage" time="1141413404" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="and%20not%20legal"/>
+<session type="stop" time="1141413481" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<icon time="1141670037" medium="AIM" from="SpectreTop" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DSpectreTop%2D1141670037%2Egif"/>
+<session type="start" time="1141670598" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1141670599" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="can%20you%20take%20control%20of%20a%20computer%20via%20remote%20desktop%20if%20the%20computer%20has%20XP%20homes%3F"/>
+<message type="outgoing_privateMessage" time="1141670618" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="if%20it%20has%20the%20remote%20desktop%20service"/>
+<message type="information_standard" time="1141670619" medium="AIM" text="Auto%2Dresponse%20from%20Forest%20Schwyn%3A%20%D6%BE%5Co_0%2F%20%D6%BE%20%20%20The%20Goggles%20They%20Do%20Nothing%21"/>
+<icon time="1141670620" medium="AIM" from="SpectreTop" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DSpectreTop%2D1141670620%2Ejpg"/>
+<message type="incoming_privateMessage" time="1141670671" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="ahh%2C%20and%20I%20take%20it%20you%20have%20to%20install%20that%20speratly%2C%20or%20is%20it%20just%20the%20thing%20you%20turn%20in%20on%20hte%20remote%20tab%20of%20system%20properties%20in%20the%20contrl%20panel%3F"/>
+<message type="outgoing_privateMessage" time="1141670797" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="turn%20it%20on%20in%20the%20remote%20tab%20if%20it%20comes%20with%20Home"/>
+<message type="incoming_privateMessage" time="1141670945" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="with%20ping%20disable%20is%20there%20anyway%20to%20get%20the%20IP%20of%20my%20desktop%20without%20being%20there%20in%20person%3F"/>
+<message type="outgoing_privateMessage" time="1141670953" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="no"/>
+<message type="incoming_privateMessage" time="1141670962" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="damn"/>
+<message type="outgoing_privateMessage" time="1141670966" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="and%20if%20you%20have%20a%20router%20you%20have%20to%20forward%20port%203389"/>
+<message type="incoming_privateMessage" time="1141670977" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="no%20router"/>
+<message type="outgoing_privateMessage" time="1141670978" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20could%20get%20it"/>
+<message type="outgoing_privateMessage" time="1141670982" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="you%20can%27t"/>
+<message type="incoming_privateMessage" time="1141670987" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="lol"/>
+<message type="outgoing_privateMessage" time="1141670994" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="did%20you%20turn%20it%20on%3F"/>
+<message type="outgoing_privateMessage" time="1141670999" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="remote%20desktop"/>
+<message type="incoming_privateMessage" time="1141671005" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="yes"/>
+<message type="incoming_privateMessage" time="1141671022" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="I%20have%20used%20it%20before%2C%20lol%2C%20just%20can%27t%20rember%20my%20IP"/>
+<message type="outgoing_privateMessage" time="1141671097" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="student4518%2Estudent%2Enau%2Eedu"/>
+<message type="incoming_privateMessage" time="1141671241" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="acutally%20come%20to%20think%20of%20it%20I%20might%20have%20forgeot%20to%20enable%20Remote%20desktop%20since%20I%20reformatted"/>
+<session type="stop" time="1141671360" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<session type="start" time="1141671587" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1141671587" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="I%20relized%20using%20my%20desktop%20via%20remote%20desktop%20in%20a%20window%20will%20be%20a%20pain%20in%20the%20ass%20do%20to%20my%20desktop%20resolution"/>
+<message type="incoming_privateMessage" time="1141671906" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="just%20saying%20that%20when%20i%20remote%20desktop%20I%20will%20have%20to%20scroll%2E%2E%2E%2E%20a%20lot"/>
+<message type="outgoing_privateMessage" time="1141671917" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20don%27t"/>
+<message type="incoming_privateMessage" time="1141671933" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="yeah%20well%20your%20desktop%20resolution%20is%20probably%20different%20from%20mine"/>
+<message type="outgoing_privateMessage" time="1141671947" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="it%20changes%20your%20desktop%20to%20the%20resolution%20of%20your%20laptop"/>
+<message type="incoming_privateMessage" time="1141671979" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="when%20I%20have%20used%20it%20in%20the%20past%20it%20has%20kept%20it%20the%20same%20resolution%20and%20I%20just%20ahve%20to%20scroll%20around"/>
+<message type="outgoing_privateMessage" time="1141672025" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="nope"/>
+<message type="incoming_privateMessage" time="1141672145" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="my%20desktop%20resolution%20is%202960x1050"/>
+<message type="outgoing_privateMessage" time="1141672157" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="wtf%20how%3F"/>
+<message type="incoming_privateMessage" time="1141672163" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="more%20than%201%20monitor"/>
+<message type="outgoing_privateMessage" time="1141672167" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="oh"/>
+<message type="outgoing_privateMessage" time="1141672171" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="how%20many%3F"/>
+<message type="incoming_privateMessage" time="1141672173" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="2"/>
+<message type="outgoing_privateMessage" time="1141672192" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="oh"/>
+<message type="outgoing_privateMessage" time="1141672196" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="good%20stuff"/>
+<message type="incoming_privateMessage" time="1141672199" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="or%20thats%20about%20my%20overall%20resoltuion%2C%20the%20right%20side%20is%20only%201024%20pixels%20tall"/>
+<message type="outgoing_privateMessage" time="1141672220" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="ok"/>
+<message type="incoming_privateMessage" time="1141672225" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="1680x1050%20%20%2B%20%201280x1024"/>
+<message type="outgoing_privateMessage" time="1141672294" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="nice"/>
+<message type="outgoing_privateMessage" time="1141672304" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20am%20going%20to%20get%20another%201600x1200"/>
+<message type="incoming_privateMessage" time="1141672308" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="nice"/>
+<message type="outgoing_privateMessage" time="1141672309" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="have%203200x1200"/>
+<message type="incoming_privateMessage" time="1141672316" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="CRT%20or%20big%20LCD%3F"/>
+<message type="outgoing_privateMessage" time="1141672316" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="LCD"/>
+<message type="incoming_privateMessage" time="1141672323" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="nice%20thats%20a%2021in%3F"/>
+<message type="outgoing_privateMessage" time="1141672324" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="double%20jointed"/>
+<message type="outgoing_privateMessage" time="1141672327" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="20%20inch"/>
+<message type="incoming_privateMessage" time="1141672334" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="nice"/>
+<session type="stop" time="1141672618" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<icon time="1141842983" medium="AIM" from="SpectreTop" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DSpectreTop%2D1141842983%2Egif"/>
+<session type="start" time="1141842998" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1141842998" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="multiple%20desktops%20for%20the%20win"/>
+<session type="stop" time="1141843072" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<session type="start" time="1141844560" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1141844560" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="want%20me%20to%20send%20you%20the%20black%20theme%3F"/>
+<status type="Offline" time="1141845379" medium="AIM" from="SpectreTop"/>
+<message type="information_standard" time="1141845379" medium="AIM" text="%22Forest%20Schwyn%22%20signed%20off%20at%20Wed%20Mar%2008%2012%3A16%3A19%202006%2E"/>
+<status type="online" time="1141845394" medium="AIM" from="SpectreTop"/>
+<message type="information_standard" time="1141845394" medium="AIM" text="%22Forest%20Schwyn%22%20signed%20on%20at%20Wed%20Mar%2008%2012%3A16%3A34%202006%2E"/>
+<status type="Offline" time="1141846169" medium="AIM" from="SpectreTop"/>
+<message type="information_standard" time="1141846169" medium="AIM" text="%22Forest%20Schwyn%22%20signed%20off%20at%20Wed%20Mar%2008%2012%3A29%3A29%202006%2E"/>
+<session type="stop" time="1141851720" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<session type="start" time="1142275561" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<session type="stop" time="1142275564" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<session type="start" time="1142275686" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1142275686" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="what%20do%20you%20have%20to%20do%20when%20your%20in%20the%20office%3F"/>
+<message type="outgoing_privateMessage" time="1142275692" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="my%20homework"/>
+<icon time="1142275693" medium="AIM" from="SpectreTop" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DSpectreTop%2D1142275693%2Ejpg"/>
+<message type="incoming_privateMessage" time="1142275719" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="and%20its%20bad%20that%20you%20get%20paid%20to%20do%20your%20homework%3F"/>
+<message type="outgoing_privateMessage" time="1142275733" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="its%20just%20boring"/>
+<message type="outgoing_privateMessage" time="1142275739" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="kinda"/>
+<message type="outgoing_privateMessage" time="1142275751" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="we%20sit%20around%20and%20talk"/>
+<message type="outgoing_privateMessage" time="1142276500" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20spend%20too%20much%20money"/>
+<status type="Offline" time="1142277304" medium="AIM" from="SpectreTop"/>
+<message type="information_standard" time="1142277304" medium="AIM" text="%22Forest%20Schwyn%22%20signed%20off%20at%20Mon%20Mar%2013%2012%3A15%3A04%202006%2E"/>
+<session type="stop" time="1142277314" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<icon time="1142367383" medium="AIM" from="SpectreTop" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DSpectreTop%2D1142367383%2Egif"/>
+<session type="start" time="1142449631" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1142449632" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="unless%20your%20using%20uber%20l33t%2C%20ph%20is%20normally%20used%20in%20place%20of%20F"/>
+<message type="incoming_privateMessage" time="1142449635" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="as%20in%20ph34r"/>
+<session type="stop" time="1142449858" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<session type="start" time="1144089929" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>
+<message type="outgoing_privateMessage" time="1144089935" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20am%20the%20eye%20in%20the%20sky"/>
+<message type="outgoing_privateMessage" time="1144089938" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="looking%20at%20yoooooo"/>
+<message type="outgoing_privateMessage" time="1144089944" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20can%20read%20you%20mind"/>
+<message type="outgoing_privateMessage" time="1144089949" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20am%20the%20maker%20of%20rules"/>
+<message type="outgoing_privateMessage" time="1144089957" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20deal%20with%20fools"/>
+<message type="outgoing_privateMessage" time="1144089960" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20can%20cheat%20you%20blind"/>
+<message type="outgoing_privateMessage" time="1144089967" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20am%20the%20eye%20in%20the%20sky"/>
+<message type="outgoing_privateMessage" time="1144089972" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="looking%20at%20yooooooo"/>
+<message type="outgoing_privateMessage" time="1144089977" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20can%20read%20your%20mind"/>
+<message type="incoming_privateMessage" time="1144089992" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="your%20eye%20has%20way%20to%20much%20time"/>
+<status type="away" time="1144090053" medium="AIM" from="SpectreTop"/>
+<message type="outgoing_privateMessage" time="1144090062" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="possible"/>
+<message type="information_standard" time="1144090062" medium="AIM" text="Auto%2Dresponse%20from%20Forest%20Schwyn%3A%20%D6%BE%5Co_0%2F%20%D6%BE%20%20MY%20EYES%2C%20The%20Goggles%20They%20Do%20Nothing%21"/>
+<icon time="1144090062" medium="AIM" from="SpectreTop" link="C%3A%5CProgram%20Files%5CTrillian%5Cusers%5Cdefault%5Cbuddyicons%5Cassets%5CAIM%2DSpectreTop%2D1144090062%2Ejpg"/>
+<message type="incoming_privateMessage" time="1144090071" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="lol"/>
+<message type="outgoing_privateMessage" time="1144090162" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20am%20happy%20today"/>
+<message type="outgoing_privateMessage" time="1144090168" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="my%20gf%20spent%20the%20night"/>
+<message type="outgoing_privateMessage" time="1144090172" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="we%20were%20naughty"/>
+<message type="incoming_privateMessage" time="1144090178" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="lol"/>
+<message type="incoming_privateMessage" time="1144090199" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="I%20forget%20does%20she%20go%20to%20school%20here%3E"/>
+<message type="outgoing_privateMessage" time="1144090203" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="yes"/>
+<message type="outgoing_privateMessage" time="1144090206" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="she%20is%20amazing"/>
+<message type="incoming_privateMessage" time="1144090212" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="lol"/>
+<message type="incoming_privateMessage" time="1144090221" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="%3C%2D%2D%2D%2D%2D%2D%2D%2D%20needs%20a%20GF"/>
+<message type="outgoing_privateMessage" time="1144090226" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="si%20si%20si"/>
+<message type="incoming_privateMessage" time="1144090252" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="maybe%20my%20problem%20is%20I%20don%27t%20have%20enough%2070%27s%20songs%20memorized"/>
+<message type="outgoing_privateMessage" time="1144090367" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="lol%20guess%20not"/>
+<message type="outgoing_privateMessage" time="1144090377" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20am%20going%20to%20make%20christina%20a%20CD"/>
+<message type="outgoing_privateMessage" time="1144090386" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="with%20fantabulous%2070s%20music"/>
+<message type="incoming_privateMessage" time="1144090391" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="lol"/>
+<message type="outgoing_privateMessage" time="1144090401" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20can%20read%20your%20mind"/>
+<message type="outgoing_privateMessage" time="1144090630" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="this%20class%20makes%20me%20feel%20stupid%20%3A%2D%28"/>
+<message type="outgoing_privateMessage" time="1144090640" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="and%20there%20are%20people%20struggling%20in%20here%20i%20feel%20bad"/>
+<message type="outgoing_privateMessage" time="1144090642" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="almost"/>
+<message type="incoming_privateMessage" time="1144090646" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="lol"/>
+<message type="incoming_privateMessage" time="1144090654" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="hey%2C%20I%20struggle"/>
+<message type="incoming_privateMessage" time="1144090665" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="I%20thinks%20partly%20becuase%20I%20don%27t%20pay%20much%20attention%20though"/>
+<message type="outgoing_privateMessage" time="1144090665" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%20know"/>
+<message type="outgoing_privateMessage" time="1144090666" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="haha"/>
+<message type="incoming_privateMessage" time="1144090673" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="stfu"/>
+<message type="incoming_privateMessage" time="1144090699" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="at%20least%20I%20get%20stuff%20done%2C%20some%20people%20turn%20in%20most%20of%20the%20stuff%20late"/>
+<message type="outgoing_privateMessage" time="1144090716" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="very%20true"/>
+<message type="outgoing_privateMessage" time="1144090724" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="even%20our%20friends%20Robert%20over%20there"/>
+<message type="incoming_privateMessage" time="1144090737" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="lol"/>
+<message type="incoming_privateMessage" time="1144091458" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="chuck%20norris%20once%20challenged%20lance%20armstrong%20to%20a%20who%20has%20more%20balls%20contest%2E%20chuck%20norris%20won%20by%205%2E"/>
+<message type="incoming_privateMessage" time="1144091607" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="chuck%20norris%20has%20counted%20to%20infinity%2E%20twice%2E"/>
+<message type="outgoing_privateMessage" time="1144091698" medium="AIM" to="SpectreTop" from="BrianJCullinan" from_display="Me" text="i%27ve%20heard%20that%20one"/>
+<message type="incoming_privateMessage" time="1144091781" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="%3Ca%20href%3D%22http%3A%2F%2Fwww%2Ewimp%2Ecom%2Fchuck%2F%22%3Ehttp%3A%2F%2Fwww%2Ewimp%2Ecom%2Fchuck%2F%3C%2Fa%3E"/>
+<message type="incoming_privateMessage" time="1144091790" medium="AIM" to="BrianJCullinan" from="SpectreTop" from_display="Forest%20Schwyn" text="chuck%20norris%20reading%20chuck%20norris%20facts"/>
+<status type="Offline" time="1144091925" medium="AIM" from="SpectreTop"/>
+<message type="information_standard" time="1144091925" medium="AIM" text="%22Forest%20Schwyn%22%20signed%20off%20at%20Mon%20Apr%2003%2012%3A18%3A45%202006%2E"/>
+<session type="stop" time="1144092022" medium="AIM" to="SpectreTop" from="BrianJCullinan"/>

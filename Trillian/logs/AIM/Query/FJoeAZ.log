@@ -1,0 +1,748 @@
+﻿Session Start (bjcullinan:Joe Flieger): Thu Feb 14 19:17:03 2008
+[02/14/2008 07:17:03 PM] Joe Flieger: did u get it?
+[02/14/2008 07:17:10 PM] *** You have received C:\Documents and Settings\Brian Cullinan\My Documents\SAXLocalNameCount.java.
+[02/14/2008 07:17:13 PM] Brian Cullinan: yes
+[02/14/2008 07:17:16 PM] Joe Flieger: there ya go
+Session Close (Joe Flieger): Thu Feb 14 19:17:19 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Thu Feb 14 19:17:25 2008
+[02/14/2008 07:17:25 PM] Joe Flieger: it does something realy dumb
+[02/14/2008 07:17:33 PM] Joe Flieger: but it will help u setup the parser
+[02/14/2008 07:17:40 PM] Joe Flieger: and get ya on your way
+[02/14/2008 07:18:11 PM] Joe Flieger: all it does is count the nuber of elements of certian name and return that name and the total
+[02/14/2008 07:18:22 PM] Joe Flieger: using a hashtable
+[02/14/2008 07:22:08 PM] Joe Flieger: usfull to get ya started with itext when u get to it ...
+[02/14/2008 07:22:10 PM] Joe Flieger: (Link: http://www-128.ibm.com/developerworks/opensource/library/os-javapdf/)http://www-128.ibm.com/developerworks/opensource/library(Link: http://www-128.ibm.com/developerworks/opensource/library/os-javapdf/)/os-javapdf/
+[02/14/2008 07:22:23 PM] Joe Flieger: full refrence ....
+[02/14/2008 07:22:24 PM] Joe Flieger:  (Link: http://itext.ugent.be/library/api/)(Link: http://itext.ugent.be/library/api/)http://itext.ugent.be/library/api/
+[02/14/2008 07:47:25 PM] Brian Cullinan: so i have it reading in the whole xml file now
+[02/14/2008 07:47:36 PM] Brian Cullinan: now i just need to get it to print it out
+[02/14/2008 07:47:47 PM] Joe Flieger: ya that sample is good for gething that working
+[02/14/2008 07:48:09 PM] Joe Flieger: just got change the s.o.pln's to itext api format
+[02/14/2008 07:51:23 PM] Brian Cullinan: we have an exam tomorrow?
+[02/14/2008 07:51:32 PM] Joe Flieger: what
+[02/14/2008 07:51:40 PM] Joe Flieger: what class?
+[02/14/2008 07:51:43 PM] Brian Cullinan: i must have set it wrong
+[02/14/2008 07:51:52 PM] Joe Flieger: it?
+[02/14/2008 07:51:58 PM] Brian Cullinan: the calendar event
+[02/14/2008 07:52:13 PM] Joe Flieger: theres no exams in xml
+[02/14/2008 07:52:19 PM] Joe Flieger: just a final
+[02/14/2008 07:52:31 PM] Brian Cullinan: yeah weird
+[02/14/2008 07:55:04 PM] Brian Cullinan: how do you print out the content of the elements or the data using that class?
+[02/14/2008 07:55:23 PM] Joe Flieger: what?
+[02/14/2008 07:56:09 PM] Brian Cullinan: i can't figure out how to get the data in an element
+[02/14/2008 07:56:28 PM] Joe Flieger: oh
+[02/14/2008 07:56:31 PM] Joe Flieger: like the tagname?
+[02/14/2008 07:56:35 PM] Joe Flieger: or the attname?
+[02/14/2008 07:56:39 PM] Joe Flieger: or what?
+[02/14/2008 07:56:42 PM] Brian Cullinan: like the fuckin data
+[02/14/2008 07:56:56 PM] Brian Cullinan: like the shit in between the begin tag and the close tag
+[02/14/2008 07:56:59 PM] Joe Flieger: the chars in a tag?
+[02/14/2008 07:57:02 PM] Joe Flieger: ya
+[02/14/2008 07:57:03 PM] Brian Cullinan: To provide the best IT education ever.
+[02/14/2008 07:57:03 PM] Joe Flieger: ok
+[02/14/2008 07:57:06 PM] Brian Cullinan: fuck
+[02/14/2008 07:57:07 PM] Joe Flieger: its a char array event
+[02/14/2008 07:57:12 PM] Joe Flieger: one sec let me look it up
+[02/14/2008 07:58:08 PM] Joe Flieger:      public void characters (char [] ch, int start, int length) {
+[02/14/2008 07:59:07 PM] Brian Cullinan: that doesn't really help
+[02/14/2008 07:59:13 PM] Joe Flieger: um
+[02/14/2008 07:59:26 PM] Brian Cullinan: oh i see
+[02/14/2008 07:59:28 PM] Joe Flieger: thats the method for giving you text between elements
+[02/14/2008 07:59:35 PM] Brian Cullinan: ok
+[02/14/2008 07:59:50 PM] Joe Flieger: that gets called ever time it see text
+[02/14/2008 07:59:51 PM] Joe Flieger: and theres a new String method
+[02/14/2008 07:59:57 PM] Joe Flieger: that takes all 3 of them
+[02/14/2008 08:00:04 PM] Joe Flieger: in java
+[02/14/2008 08:01:26 PM] Brian Cullinan: how do i only get the characters on elements without elements inside of them?
+[02/14/2008 08:02:21 PM] Joe Flieger: you dont get to control when chars method is called you only get to control what to do when it is called
+[02/14/2008 08:03:11 PM] Joe Flieger: heres what i did nub :P
+[02/14/2008 08:03:18 PM] Joe Flieger:                String st = new String (ch, start, length).trim ();
+[02/14/2008 08:03:33 PM] Joe Flieger:                if (st.length () > 0) {
+[02/14/2008 08:04:12 PM] Brian Cullinan: but that will return the whole stupid tree of xml
+[02/14/2008 08:04:21 PM] Joe Flieger: no
+[02/14/2008 08:04:24 PM] Joe Flieger: it realy wont
+[02/14/2008 08:04:33 PM] Joe Flieger: i should know cuz i did it and it works great
+[02/14/2008 08:04:48 PM] Brian Cullinan: oh
+[02/14/2008 08:05:17 PM] Brian Cullinan: i hate java
+[02/14/2008 08:06:15 PM] Joe Flieger: i love java i hate stupid pachages that are gay to use and we get very little instruction
+[02/14/2008 08:07:28 PM] Joe Flieger: it can be very gay a times
+[02/14/2008 08:46:36 PM] Brian Cullinan: i hate setting up the fucking class path all the damn time
+[02/14/2008 08:46:57 PM] Joe Flieger: hence why i used eclipse
+[02/14/2008 08:48:49 PM] Brian Cullinan: was he trying to spell bill gates?
+[02/14/2008 08:48:52 PM] Brian Cullinan: gehts?
+[02/14/2008 08:49:04 PM] Joe Flieger: doubt it
+Session Close (Joe Flieger): Thu Feb 14 20:50:35 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Fri Feb 15 00:27:06 2008
+[02/15/2008 12:27:06 AM] Joe Flieger: did u finish?
+[02/15/2008 12:27:17 AM] Brian Cullinan: i am going to work on it more tomorrow
+[02/15/2008 12:29:06 AM] Joe Flieger: u do know ur website has bugs?
+[02/15/2008 12:30:13 AM] Brian Cullinan: yes because i am working on it
+[02/15/2008 12:30:32 AM] Joe Flieger: i see
+[02/15/2008 12:33:58 AM] Brian Cullinan: no more bugs
+Session Close (Joe Flieger): Fri Feb 15 00:40:10 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Fri Feb 15 00:48:21 2008
+[02/15/2008 12:48:21 AM] Joe Flieger: wow lucas whent TV
+[02/15/2008 12:49:11 AM] Brian Cullinan: what now?
+[02/15/2008 12:49:23 AM] Joe Flieger: A new era of Star Wars entertainment begins in 2008 when STAR WARS: THE CLONE WARS, from creator George Lucas, premieres as an all-new feature film in August, followed by the television series debut in the fall, in a partnership announced today between Lucasfilm Ltd., Warner Bros. Pictures and Turner Broadcasting System Inc.
+[02/15/2008 12:50:06 AM] Joe Flieger: all cgi too?
+[02/15/2008 12:51:01 AM] Brian Cullinan: what is cgi?
+[02/15/2008 12:51:37 AM] Joe Flieger: computer generated imagry 
+[02/15/2008 12:56:09 AM] Joe Flieger: so ya hes going come out with a cgi based on the cloe wars movie
+[02/15/2008 12:56:53 AM] Brian Cullinan: wow
+[02/15/2008 12:57:15 AM] Joe Flieger: and its going be on tv lolz
+[02/15/2008 01:01:14 AM] Brian Cullinan: that is a pretty hot server list
+[02/15/2008 01:01:28 AM] Joe Flieger: all 0's?
+[02/15/2008 01:01:31 AM] Brian Cullinan: i will have rcon access for quake 3 at least
+Session Close (Joe Flieger): Fri Feb 15 01:08:27 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Wed Feb 20 21:32:20 2008
+[02/20/2008 09:32:20 PM] Joe Flieger: you looked at dom yet?
+[02/20/2008 09:32:40 PM] Brian Cullinan: wow you ever hear of methuzela?
+[02/20/2008 09:33:27 PM] Joe Flieger: nope
+[02/20/2008 09:33:54 PM] Brian Cullinan: omfg
+[02/20/2008 09:34:12 PM] Brian Cullinan: i guess he lived for 700 "years"
+[02/20/2008 09:34:29 PM] Joe Flieger: 900?
+[02/20/2008 09:35:10 PM] Brian Cullinan: in the old testament, i found the term in bicentennial man
+[02/20/2008 09:35:47 PM] Joe Flieger: does it talk about DOM in the old testament?
+[02/20/2008 09:36:00 PM] Brian Cullinan: are you christian?
+[02/20/2008 09:36:13 PM] Joe Flieger: lolz um no
+[02/20/2008 09:36:23 PM] Brian Cullinan: sorry
+[02/20/2008 09:36:36 PM] Brian Cullinan: but no i haven't started on DOM
+[02/20/2008 09:36:48 PM] Brian Cullinan: but i know a lot about DOM alread
+[02/20/2008 09:36:53 PM] Brian Cullinan: *already
+[02/20/2008 09:36:54 PM] Joe Flieger: get cracken its due 2morrow
+[02/20/2008 09:37:06 PM] Brian Cullinan: it's due friday
+[02/20/2008 09:37:09 PM] Joe Flieger: i cant get the sample to work
+[02/20/2008 09:37:11 PM] Joe Flieger: i know
+[02/20/2008 09:37:14 PM] Joe Flieger: just givin u shit
+[02/20/2008 09:37:19 PM] Brian Cullinan: tomorrow is thusday
+[02/20/2008 09:37:24 PM] Brian Cullinan: *thursday
+[02/20/2008 09:37:25 PM] Joe Flieger: i KNOW
+[02/20/2008 09:37:26 PM] Brian Cullinan: i know
+[02/20/2008 09:37:35 PM] Brian Cullinan: just giving you shit
+[02/20/2008 09:37:50 PM] Joe Flieger: im full of shit i dont need any more
+[02/20/2008 09:38:43 PM] Brian Cullinan: have you gotten the christian talk
+[02/20/2008 09:38:44 PM] Brian Cullinan: ?
+[02/20/2008 09:39:04 PM] Joe Flieger: ive goten the bible thumper talk
+[02/20/2008 09:39:08 PM] Joe Flieger: does that count?
+[02/20/2008 09:48:13 PM] Brian Cullinan: hmmm
+[02/20/2008 09:48:18 PM] Brian Cullinan: i guess so
+[02/20/2008 09:48:32 PM] Brian Cullinan: someday we may have that talk
+[02/20/2008 09:48:38 PM] Brian Cullinan: but not soon
+[02/20/2008 09:49:16 PM] Brian Cullinan: what does zaren mean?
+[02/20/2008 09:50:23 PM] Joe Flieger: its a german word
+[02/20/2008 09:50:42 PM] Brian Cullinan: yes what does it mean?
+[02/20/2008 09:50:56 PM] Joe Flieger: czars
+[02/20/2008 09:51:00 PM] Joe Flieger: wtf that is iono
+[02/20/2008 09:51:19 PM] Brian Cullinan: sounds japanese
+[02/20/2008 09:51:32 PM] Brian Cullinan: czar like zar of russia?
+[02/20/2008 09:51:44 PM] Brian Cullinan: i don't know if they are spelled the same
+[02/20/2008 09:52:04 PM] Joe Flieger: um i translated it online and it shit in english it ment czars
+[02/20/2008 09:52:18 PM] Brian Cullinan: zar like ruler?
+[02/20/2008 09:52:28 PM] Brian Cullinan: yes
+[02/20/2008 09:52:36 PM] Brian Cullinan: i didn't know it was spelled with a c
+[02/20/2008 09:52:45 PM] Joe Flieger: czars
+[02/20/2008 09:52:47 PM] Joe Flieger: shit
+[02/20/2008 09:52:55 PM] Joe Flieger: A male monarch or emperor, especially one of the emperors who ruled Russia until the revolution of 1917. 
+ 
+[02/20/2008 09:53:04 PM] Joe Flieger: :P czars is a english word
+[02/20/2008 09:53:22 PM] Brian Cullinan: like i said, i didn't know it was spelled with a x
+[02/20/2008 09:53:24 PM] Brian Cullinan: *c
+[02/20/2008 09:53:27 PM] Joe Flieger: (Link: http://dictionary.reference.com/browse/czars)http://dictionary.reference.com/browse/czars
+[02/20/2008 09:53:33 PM] Brian Cullinan: yeah i know now
+[02/20/2008 09:53:34 PM] Brian Cullinan: fuck
+[02/20/2008 09:53:49 PM] Joe Flieger: its not spelt in rushen with a c
+[02/20/2008 09:53:55 PM] Joe Flieger: in rushen its a zar
+[02/20/2008 09:53:58 PM] Joe Flieger: or tsar
+[02/20/2008 09:54:08 PM] Joe Flieger: in english its got a c
+[02/20/2008 09:54:18 PM] Brian Cullinan: kkthxbye
+[02/20/2008 09:54:23 PM] Brian Cullinan: i am going to bed
+[02/20/2008 09:54:28 PM] Brian Cullinan: i drank
+[02/20/2008 09:54:31 PM] Brian Cullinan: now i sleep
+Session Close (Joe Flieger): Wed Feb 20 22:00:37 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Thu Feb 21 09:22:20 2008
+[02/21/2008 09:22:20 AM] Joe Flieger: finaly finished dom
+Session Close (Joe Flieger): Thu Feb 21 10:27:11 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Fri Feb 22 00:40:14 2008
+[02/22/2008 12:40:14 AM] Joe Flieger: done yet?
+[02/22/2008 12:40:32 AM] Brian Cullinan: haven't started
+[02/22/2008 12:41:07 AM] Joe Flieger: oh my
+[02/22/2008 12:41:13 AM] Joe Flieger: want the sample agin?
+[02/22/2008 12:41:15 AM] Brian Cullinan: is ti hard?
+[02/22/2008 12:41:21 AM] Brian Cullinan: yeah
+[02/22/2008 12:41:23 AM] Joe Flieger: its gay
+[02/22/2008 12:41:48 AM] *** Joe Flieger is trying to send you "DOMSerializer.java".
+[02/22/2008 12:41:58 AM] Joe Flieger: acpt
+[02/22/2008 12:42:12 AM] *** You have received C:\Documents and Settings\Brian Cullinan\My Documents\DOMSerializer.java.
+[02/22/2008 12:42:35 AM] Joe Flieger: 90% of that file is not needed
+[02/22/2008 12:43:51 AM] Joe Flieger: i del like the whole file cept main and even some of main and removed like 1/2 the imports
+Session Close (Joe Flieger): Fri Feb 22 01:24:47 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Fri Feb 22 02:45:11 2008
+[02/22/2008 02:45:11 AM] Joe Flieger: finished next weeks assignment too
+[02/22/2008 04:21:51 AM] *** "Joe Flieger" signed off at Fri Feb 22 04:21:51 2008.
+[02/22/2008 04:24:22 AM] *** "Joe Flieger" signed on at Fri Feb 22 04:24:22 2008.
+Session Close (Joe Flieger): Fri Feb 22 08:31:33 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Sun Feb 24 13:33:05 2008
+[02/24/2008 01:33:05 PM] Joe Flieger: have u used the key_state array in any of your vw projects?
+Session Close (Joe Flieger): Sun Feb 24 13:37:00 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Thu Mar 06 22:16:51 2008
+[03/06/2008 10:16:51 PM] Joe Flieger: finish yet?
+[03/06/2008 10:56:43 PM] Brian Cullinan: finish what?
+[03/06/2008 10:58:02 PM] Joe Flieger: xquerey?
+[03/06/2008 10:58:53 PM] Brian Cullinan: no
+[03/06/2008 10:59:49 PM] Joe Flieger: slacker?
+Session Close (Joe Flieger): Thu Mar 06 23:01:34 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Tue Mar 11 10:02:34 2008
+[03/11/2008 10:02:36 AM] Brian Cullinan: joe
+Session Close (Joe Flieger): Tue Mar 11 10:02:39 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Thu Mar 27 00:15:00 2008
+[03/27/2008 12:15:00 AM] Joe Flieger: up?
+[03/27/2008 01:14:47 AM] Brian Cullinan: yes
+[03/27/2008 01:15:10 AM] Joe Flieger: did u do signatures this or inheratance for scheme yet?
+[03/27/2008 01:19:56 AM] Joe Flieger: wow where did u go?
+[03/27/2008 01:21:46 AM] Brian Cullinan: i am confused what are you asking?
+[03/27/2008 01:22:50 AM] Joe Flieger: wow didnt here your responce
+[03/27/2008 01:22:52 AM] Joe Flieger: um
+[03/27/2008 01:23:15 AM] Joe Flieger: im trying to do the last 3 parts for me for the 396 assignment
+[03/27/2008 01:23:40 AM] Joe Flieger: signatures for like named methods
+[03/27/2008 01:24:13 AM] Joe Flieger: the *this* var for recursivly calling it self
+[03/27/2008 01:24:27 AM] Joe Flieger: and inhearitance
+[03/27/2008 01:32:47 AM] Joe Flieger: guess i lost you
+[03/27/2008 01:41:19 AM] Brian Cullinan: yeah so the *this* is just defined in the let and it does the exact same thing calling the object normally would
+[03/27/2008 01:43:25 AM] Joe Flieger: that makes sence just not sure how im going implment that
+[03/27/2008 01:43:30 AM] Joe Flieger: signatures?
+[03/27/2008 01:43:58 AM] Joe Flieger: thinking i would add a check for number of args and make sure it matches
+[03/27/2008 01:44:17 AM] Brian Cullinan: use a (let
+[03/27/2008 01:44:19 AM] Joe Flieger: havent even thought about inheratance
+[03/27/2008 01:44:37 AM] Brian Cullinan: do like (let ((*this <procedure>
+[03/27/2008 01:44:46 AM] Brian Cullinan: and the procedure is evaluated
+[03/27/2008 01:45:05 AM] Brian Cullinan: so when (*this is called it will evaluate the procedure defined in let
+[03/27/2008 01:45:43 AM] Joe Flieger: ya i get that but geting it to work is a whole nother thing
+[03/27/2008 01:46:09 AM] Joe Flieger: can you realy just use procedure or are you just using that as shorthand?
+[03/27/2008 01:54:11 AM] Joe Flieger: ya got the let and this setup but not sure what goes in for <porc>
+[03/27/2008 02:22:46 AM] Joe Flieger: well i guess ill see 2 morrow
+[03/27/2008 02:22:54 AM] Joe Flieger: thx for the input
+Session Close (Joe Flieger): Thu Mar 27 02:31:07 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Fri Mar 28 12:07:07 2008
+[03/28/2008 12:07:07 PM] Joe Flieger: there?
+[03/28/2008 01:24:18 PM] Brian Cullinan: yeah
+[03/28/2008 01:24:36 PM] Joe Flieger: when is prin due?
+[03/28/2008 01:24:48 PM] Brian Cullinan: 5 i think
+[03/28/2008 01:24:55 PM] Joe Flieger: ya thats what i thought
+Session Close (Joe Flieger): Fri Mar 28 13:25:04 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Sat Mar 29 03:00:35 2008
+[03/29/2008 03:00:49 AM] *** Joe Flieger has received My Downloads.zip.
+Session Close (Joe Flieger): Sat Mar 29 03:00:55 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Mon Mar 31 11:56:21 2008
+[03/31/2008 11:56:21 AM] Joe Flieger: (Link: http://www.giganews.com/?c=gn192820)http://www.giganews.com/?c=gn192820
+[03/31/2008 11:56:36 AM] Joe Flieger: i get 20 bucks if u use that i guess ...
+Session Close (Joe Flieger): Mon Mar 31 12:17:54 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Mon Mar 31 21:14:03 2008
+[03/31/2008 09:14:03 PM] Joe Flieger: are u using your 3 day trial?
+[03/31/2008 09:14:15 PM] Brian Cullinan: no
+[03/31/2008 09:14:18 PM] Brian Cullinan: not currently
+[03/31/2008 09:14:44 PM] Joe Flieger: why?
+[03/31/2008 09:15:04 PM] Brian Cullinan: because i have to pay for newzbin
+[03/31/2008 09:15:15 PM] Joe Flieger: fjoeaz
+[03/31/2008 09:15:17 PM] Joe Flieger: 123456
+[03/31/2008 09:16:34 PM] Brian Cullinan: thanks
+[03/31/2008 09:17:21 PM] Brian Cullinan: i will probably buy credits tomorrow
+[03/31/2008 09:32:02 PM] Brian Cullinan: now that i can get anything i don't know what to get
+[03/31/2008 09:32:12 PM] Brian Cullinan: you can use my login if you want to
+[03/31/2008 09:32:24 PM] Brian Cullinan: get 10 more connections
+[03/31/2008 09:34:19 PM] Joe Flieger: you can set nl to 10 coonctions at a time
+[03/31/2008 09:34:37 PM] Brian Cullinan: i know
+[03/31/2008 09:34:48 PM] Brian Cullinan: so you could add another set of 10 connections
+[03/31/2008 09:34:52 PM] Brian Cullinan: and use mine
+[03/31/2008 09:34:55 PM] Brian Cullinan: since i am not
+[03/31/2008 09:35:15 PM] Brian Cullinan: if you are downloading stuff right now
+[03/31/2008 09:35:47 PM] Brian Cullinan: so instead of doing thumbnails of a video, i think i should extract like a 30 second clip and play that
+[03/31/2008 09:36:00 PM] Brian Cullinan: what do you think?
+[03/31/2008 09:36:16 PM] Brian Cullinan: i am working on my project for xml class it has to be impressive
+[03/31/2008 09:42:59 PM] Joe Flieger: sry was doing soming thing
+[03/31/2008 09:44:01 PM] Joe Flieger: not sure how that makes it more xml fancy
+[03/31/2008 09:44:14 PM] Brian Cullinan: i am just going to display lots of fancy stuff
+[03/31/2008 09:44:36 PM] Joe Flieger: i see
+[03/31/2008 09:44:51 PM] Joe Flieger: not sure how ez that is going to be then
+[03/31/2008 09:44:55 PM] Joe Flieger: with keyframs
+[03/31/2008 09:45:04 PM] Joe Flieger: and creating clips
+[03/31/2008 09:45:10 PM] Joe Flieger: and where to creat the clip
+[03/31/2008 09:45:33 PM] Joe Flieger: first 15s my be just black space
+[03/31/2008 09:45:48 PM] Joe Flieger: then agin so may the first frame
+[03/31/2008 09:45:53 PM] Brian Cullinan: i was going to skip 3 seconds then record the next 15
+[03/31/2008 09:46:05 PM] Joe Flieger: and that makes it harder
+[03/31/2008 09:46:08 PM] Brian Cullinan: i just think the preview should be the same medium you know?
+[03/31/2008 09:46:16 PM] Joe Flieger: cuz all the video info is in the first part of the file
+[03/31/2008 09:46:25 PM] Joe Flieger: so u cant just chop at 15 sec
+[03/31/2008 09:46:30 PM] Joe Flieger: ull have to do a reencode
+[03/31/2008 09:46:51 PM] Brian Cullinan: yes i know i will have to reencode
+[03/31/2008 09:47:02 PM] Brian Cullinan: that is what ffmpeg on a linux command line is for
+[03/31/2008 09:47:03 PM] Joe Flieger: no u wouldnt for first 15 sec
+[03/31/2008 09:47:40 PM] Joe Flieger: if u cut off the last part of the file in this case everything but the first 15 sec then no reencode is neded
+[03/31/2008 09:47:53 PM] Brian Cullinan: don't worry about how
+[03/31/2008 09:47:55 PM] Joe Flieger: then agin it will be full size and quality ... iono if thats what u want
+[03/31/2008 09:47:59 PM] Brian Cullinan: how is not a problem
+[03/31/2008 09:48:44 PM] Joe Flieger: lots of extra processing the first time through i guess
+[03/31/2008 09:48:55 PM] Joe Flieger: not all bad
+[03/31/2008 09:48:57 PM] Joe Flieger: ne how
+[03/31/2008 09:49:24 PM] Joe Flieger: might want to do something cool like 15s of vid for every iono 15 min?
+[03/31/2008 09:50:26 PM] Joe Flieger: and on that know u ever used avs?
+[03/31/2008 09:51:43 PM] Brian Cullinan: well i will have another view viewer, where you can play a little playbar over the thumbnail and it will start playing the thumbnail and when you click it will play the video from that position in a bigger area
+[03/31/2008 10:14:42 PM] Joe Flieger: if there xvid vids you could just stream the vids with the new divix browser plugin
+[03/31/2008 10:15:25 PM] Brian Cullinan: i can make them that
+[03/31/2008 10:15:50 PM] Joe Flieger: bascily if they are avi's in any format
+[03/31/2008 10:15:54 PM] Brian Cullinan: but i was just going to let the user choose between quicktime, flash, and windows media player and stream them through that
+[03/31/2008 10:16:01 PM] Joe Flieger: the new divix browser pluging could stream it for u
+[03/31/2008 10:26:06 PM] Brian Cullinan: i figure if i make some fancy displays along with the rss stuff he will want to give me more credit
+[03/31/2008 10:31:24 PM] Joe Flieger: is this for 2 weeks worth of stuff?
+[03/31/2008 10:31:34 PM] Brian Cullinan: yes
+Session Close (Joe Flieger): Mon Mar 31 22:44:49 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Mon Mar 31 23:46:30 2008
+[03/31/2008 11:46:30 PM] Joe Flieger: are u going get the unlimited one
+[03/31/2008 11:46:36 PM] Joe Flieger: cuz on 10 connections
+[03/31/2008 11:46:45 PM] Joe Flieger: u can dl like crazy fast
+[03/31/2008 11:46:53 PM] Joe Flieger: if i used some of you connections
+[03/31/2008 11:46:57 PM] Joe Flieger: it wouldnt mater
+[03/31/2008 11:47:05 PM] Joe Flieger: shit u can dl fast on one connection
+[04/01/2008 12:13:32 AM] Brian Cullinan: i have the unlimited downloads
+[04/01/2008 12:13:39 AM] Brian Cullinan: that still only comes with 10 connections
+[04/01/2008 12:13:48 AM] Brian Cullinan: i told you, you could use some
+[04/01/2008 12:13:55 AM] Brian Cullinan: are you download right now?
+[04/01/2008 12:18:29 AM] Joe Flieger: my point was with 1 connection i can dl at max speed
+[04/01/2008 12:18:41 AM] Joe Flieger: with 10 i just dl at max speed a little better
+[04/01/2008 12:18:51 AM] Joe Flieger: and even if i had 100 more it would do anything
+[04/01/2008 12:19:14 AM] Brian Cullinan: ok
+[04/01/2008 12:19:20 AM] Brian Cullinan: you didn't say that before
+Session Close (Joe Flieger): Tue Apr 01 00:23:24 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Fri Apr 04 00:48:18 2008
+[04/04/2008 12:48:19 AM] Joe Flieger: you havent by chance every used ganymed for sftp have u?
+[04/04/2008 12:51:14 AM] Brian Cullinan: nope
+[04/04/2008 12:53:09 AM] Joe Flieger: this is gay
+Session Close (Joe Flieger): Fri Apr 04 00:53:15 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Fri Apr 04 00:53:26 2008
+[04/04/2008 12:53:26 AM] Joe Flieger: it does everything but write to the file on the server
+[04/04/2008 12:53:44 AM] Joe Flieger: its like im not closing the file in java or flushing the buffer 
+[04/04/2008 12:53:53 AM] Joe Flieger: but i didnt use a buffer and i did close everything
+[04/04/2008 12:54:05 AM] Joe Flieger: how ur thing coming?
+[04/04/2008 12:57:05 AM] Brian Cullinan: i am doing a different project
+[04/04/2008 12:57:37 AM] Joe Flieger: wow
+[04/04/2008 12:57:39 AM] Joe Flieger: i know this
+Session Close (Joe Flieger): Fri Apr 04 01:01:27 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Fri Apr 04 02:01:05 2008
+[04/04/2008 02:01:05 AM] Joe Flieger: still up?
+[04/04/2008 02:09:38 AM] *** You have been disconnected. Fri Apr 04 02:09:38 2008.
+Session Close (Joe Flieger): Fri Apr 04 02:10:29 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Wed Apr 09 16:56:15 2008
+[04/09/2008 04:56:15 PM] Joe Flieger: so yes it can save to a remote server ... you setup a server and say you want to save the file there and then everytime you save the file it saves it on the server not sure how dw works but seems simular and i though komodo was decent but at the time i never throught to use dw nor have i tryed it so there you have it
+Session Close (Joe Flieger): Wed Apr 09 17:03:51 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Sat Apr 12 02:16:44 2008
+[04/12/2008 02:16:44 AM] Joe Flieger: redownload lifehouse
+[04/12/2008 02:16:54 AM] Joe Flieger: merge your pod folders
+Session Close (Joe Flieger): Sat Apr 12 02:47:06 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Sat Apr 12 20:19:36 2008
+[04/12/2008 08:19:37 PM] Joe Flieger: here
+[04/12/2008 08:20:00 PM] *** Joe Flieger is trying to send you "Tag.and.Rename.v3.4.6.rar".
+[04/12/2008 08:21:55 PM] Joe Flieger: wow i was dling
+[04/12/2008 08:22:01 PM] Joe Flieger: makes it slow lolz
+[04/12/2008 08:22:43 PM] *** You have received C:\Documents and Settings\Brian Cullinan\My Documents\Tag.and.Rename.v3.4.6.rar.
+[04/12/2008 08:22:58 PM] Brian Cullinan: thanks
+[04/12/2008 08:25:08 PM] Joe Flieger: whats the windows snaping program & the toss this window over there program?
+[04/12/2008 08:25:50 PM] Joe Flieger: oh and i ment to ask u
+[04/12/2008 08:26:28 PM] Joe Flieger: do u know what a cue file is cuz usnet alot of the times has the mp'3 with cue files
+[04/12/2008 08:26:44 PM] Brian Cullinan: a cue file is a CD image
+[04/12/2008 08:26:57 PM] Joe Flieger: not this file
+[04/12/2008 08:27:00 PM] Brian Cullinan: or an image descriptor
+[04/12/2008 08:27:14 PM] Joe Flieger: cue file for mp3's is like a hearder track info file
+[04/12/2008 08:27:34 PM] Joe Flieger: and u cuz use the info to split the mp'3s into singleton tracks
+[04/12/2008 08:28:10 PM] Joe Flieger: ne how
+[04/12/2008 08:29:02 PM] *** Joe Flieger is trying to send you "cuesplitter_setup.exe".
+[04/12/2008 08:29:12 PM] Joe Flieger: this is the best one i found
+[04/12/2008 08:29:20 PM] Joe Flieger: u might need it one day
+[04/12/2008 08:29:25 PM] Brian Cullinan: why do i need that?
+[04/12/2008 08:29:36 PM] Joe Flieger: so like u get this one mp3
+[04/12/2008 08:29:41 PM] Joe Flieger: thats like 200 megs
+[04/12/2008 08:29:49 PM] Joe Flieger: and its suposed to be a full cd
+[04/12/2008 08:29:55 PM] Joe Flieger: but it comes with a cue file
+[04/12/2008 08:30:02 PM] Joe Flieger: u run the cue file through this program
+[04/12/2008 08:30:24 PM] Joe Flieger: and suddenly u have 20 10 meg files one for each track
+[04/12/2008 08:30:31 PM] Joe Flieger: all split at the right point
+[04/12/2008 08:32:42 PM] Brian Cullinan: i think i'll be ok
+[04/12/2008 08:35:03 PM] Joe Flieger: i dled like 10 diffrnt progams 
+[04/12/2008 08:35:13 PM] Joe Flieger: and thats the only one that worked right / good
+[04/12/2008 08:36:58 PM] Brian Cullinan: can't you just mount the cue file?
+[04/12/2008 08:37:19 PM] Joe Flieger: hmm adent thought of that it might work
+[04/12/2008 08:37:34 PM] Brian Cullinan: so we need to trade libraries
+[04/12/2008 08:37:39 PM] Joe Flieger: ne how
+[04/12/2008 08:37:40 PM] Joe Flieger: um
+[04/12/2008 08:37:44 PM] Brian Cullinan: i am going to review my media comarer program
+[04/12/2008 08:37:49 PM] Brian Cullinan: *comparer
+[04/12/2008 08:37:57 PM] Brian Cullinan: then i will have you run it
+[04/12/2008 08:38:05 PM] Joe Flieger: the window snap to program and the toss that window to that monitor program?
+[04/12/2008 08:38:05 PM] Brian Cullinan: and see if it works ok
+[04/12/2008 08:38:33 PM] Joe Flieger: its going to be a while before im rdy for that
+[04/12/2008 08:38:40 PM] Joe Flieger: 70gigs is well orginzed
+[04/12/2008 08:38:45 PM] Brian Cullinan: then i will make some changes probably, then we will run it again on our systems to get the actual difference file
+[04/12/2008 08:38:50 PM] Joe Flieger: where as 65 gigs is not at all
+[04/12/2008 08:38:57 PM] Brian Cullinan: you should get on that
+[04/12/2008 08:39:12 PM] Joe Flieger: thats why i was like wow
+[04/12/2008 08:39:13 PM] Brian Cullinan: doesn't tag and rename make it easy?
+[04/12/2008 08:39:14 PM] Joe Flieger: no
+[04/12/2008 08:39:16 PM] Joe Flieger: holy shit
+[04/12/2008 08:40:43 PM] *** "Joe Flieger" signed off at Sat Apr 12 20:40:43 2008.
+[04/12/2008 08:47:51 PM] *** "Joe Flieger" signed on at Sat Apr 12 20:47:51 2008.
+[04/12/2008 08:48:01 PM] Brian Cullinan: get organizing
+[04/12/2008 08:48:10 PM] Brian Cullinan: doesn't tag and rename make it easy?
+[04/12/2008 08:48:24 PM] Joe Flieger: ya bet its 65 gigs
+[04/12/2008 08:48:36 PM] Joe Flieger: *but
+[04/12/2008 08:48:48 PM] Joe Flieger: um i had to restart
+[04/12/2008 08:49:15 PM] Joe Flieger: the window snap to program and the toss that window to that monitor program?
+[04/12/2008 08:49:22 PM] Joe Flieger: dont make me ask agin ?
+[04/12/2008 08:49:24 PM] Joe Flieger: lolz
+[04/12/2008 08:49:59 PM] Brian Cullinan: sorry
+[04/12/2008 08:50:03 PM] Brian Cullinan: allSnap
+[04/12/2008 08:50:06 PM] Brian Cullinan: and Ultramon
+[04/12/2008 08:50:23 PM] Brian Cullinan: Ultramon is shareware
+[04/12/2008 08:52:08 PM] Brian Cullinan: i am looking for an ultramon alternative because it kind of sucks
+[04/12/2008 08:53:04 PM] Joe Flieger: the windo tosser?
+[04/12/2008 08:53:09 PM] Brian Cullinan: yeah
+[04/12/2008 08:53:10 PM] Joe Flieger: or does it do other things too?
+[04/12/2008 08:53:22 PM] Brian Cullinan: multi desktop wallpapering
+[04/12/2008 08:53:29 PM] Brian Cullinan: streatching the task bar
+[04/12/2008 08:53:52 PM] Joe Flieger: ya i just want the added menubar buttons
+[04/12/2008 08:54:13 PM] Joe Flieger: i think nvida does that allread anyhow
+[04/12/2008 08:54:18 PM] Joe Flieger: but its not just a button
+[04/12/2008 08:54:45 PM] Brian Cullinan: you can also do a hotkey
+Session Close (Joe Flieger): Sat Apr 12 20:59:28 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Wed Apr 23 17:32:18 2008
+[04/23/2008 05:32:18 PM] Joe Flieger: slacker pay attenction
+[04/23/2008 05:33:26 PM] Joe Flieger: dont denie it
+Session Close (Joe Flieger): Wed Apr 23 17:34:38 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Wed Apr 23 21:03:22 2008
+[04/23/2008 09:03:22 PM] Joe Flieger: give it back fag
+[04/23/2008 09:03:27 PM] Joe Flieger: fsafs
+[04/23/2008 09:03:27 PM] Joe Flieger: f
+[04/23/2008 09:03:28 PM] Joe Flieger: f
+[04/23/2008 09:03:28 PM] Joe Flieger: d
+[04/23/2008 09:03:28 PM] Joe Flieger: d
+[04/23/2008 09:03:29 PM] Joe Flieger: df
+[04/23/2008 09:03:29 PM] Joe Flieger: a
+[04/23/2008 09:03:29 PM] Joe Flieger: dfa
+[04/23/2008 09:03:30 PM] Joe Flieger: da
+[04/23/2008 09:03:30 PM] Joe Flieger: dfa
+[04/23/2008 09:03:30 PM] Joe Flieger: ad
+[04/23/2008 09:03:33 PM] Joe Flieger: f
+[04/23/2008 09:03:36 PM] Joe Flieger: lolz
+[04/23/2008 09:03:41 PM] Joe Flieger: your not looking
+[04/23/2008 09:03:43 PM] Joe Flieger: give it back now!
+[04/23/2008 09:03:50 PM] Joe Flieger: if u dont ill kick you in the balls
+[04/23/2008 09:04:13 PM] Joe Flieger: df
+[04/23/2008 09:04:14 PM] Joe Flieger: ad
+[04/23/2008 09:04:14 PM] Joe Flieger: fd
+[04/23/2008 09:04:14 PM] Joe Flieger: fda
+[04/23/2008 09:04:14 PM] Joe Flieger: f
+[04/23/2008 09:04:15 PM] Joe Flieger: df
+[04/23/2008 09:04:15 PM] Joe Flieger: sa
+[04/23/2008 09:04:15 PM] Joe Flieger: afs
+[04/23/2008 09:04:15 PM] Joe Flieger: asf
+[04/23/2008 09:04:16 PM] Joe Flieger: afs
+[04/23/2008 09:04:16 PM] Joe Flieger: fas
+[04/23/2008 09:04:16 PM] Joe Flieger: sfa
+[04/23/2008 09:04:16 PM] Joe Flieger: fsa
+[04/23/2008 09:04:17 PM] Joe Flieger: d
+[04/23/2008 09:04:27 PM] Joe Flieger: fss
+Session Close (Joe Flieger): Wed Apr 23 21:04:45 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Tue Apr 29 23:39:22 2008
+[04/29/2008 11:39:23 PM] Joe Flieger: sry msn is allways realy slow
+[04/29/2008 11:39:31 PM] Brian Cullinan: yeah
+[04/29/2008 11:39:34 PM] Joe Flieger: wow this upload blows
+[04/29/2008 11:39:37 PM] Joe Flieger: i should be geting 60k
+[04/29/2008 11:39:52 PM] Joe Flieger: did u watching the video?
+[04/29/2008 11:40:17 PM] Brian Cullinan: i will
+[04/29/2008 11:40:18 PM] Brian Cullinan: jeese
+[04/29/2008 11:41:11 PM] *** You have received users\default\downloads\AIM\bjcullinan\dist.rar.
+[04/29/2008 11:46:00 PM] Joe Flieger: did u play my game or watch my movie
+[04/30/2008 12:06:33 AM] Brian Cullinan: not yet
+[04/30/2008 12:23:59 AM] Joe Flieger: u seem busy yet u took the time to just see how things are going with me?
+[04/30/2008 12:24:08 AM] Joe Flieger: :P
+[04/30/2008 12:55:37 AM] Brian Cullinan: i am busy
+Session Close (Joe Flieger): Wed Apr 30 01:35:02 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Wed Apr 30 13:05:59 2008
+[04/30/2008 01:05:59 PM] Joe Flieger: is there class today?
+[04/30/2008 01:37:04 PM] Brian Cullinan: i believe so
+Session Close (Joe Flieger): Wed Apr 30 13:44:57 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Thu May 01 14:56:49 2008
+[05/01/2008 02:56:50 PM] Joe Flieger: busy?
+[05/01/2008 02:56:56 PM] Brian Cullinan: a little
+[05/01/2008 02:56:59 PM] Brian Cullinan: what is up?
+[05/01/2008 02:57:09 PM] Joe Flieger: had a q on the last assignment for xml
+[05/01/2008 02:58:00 PM] Brian Cullinan: what's up?
+[05/01/2008 02:58:12 PM] Joe Flieger: i created a webservce and a webserviceclient and a java class for the client and a gui for that class
+[05/01/2008 02:58:37 PM] Joe Flieger: but it seems like to me that i am missing something like a connect and disconnect
+[05/01/2008 02:59:01 PM] Brian Cullinan: i am in 105
+[05/01/2008 02:59:08 PM] Joe Flieger: im at home
+[05/01/2008 02:59:10 PM] Joe Flieger: lolz
+[05/01/2008 02:59:39 PM] Joe Flieger: should i just come down?
+[05/01/2008 03:01:06 PM] Brian Cullinan: yeah
+[05/01/2008 03:01:15 PM] Joe Flieger: ok ur going be rnd cuz im leaveing now
+[05/01/2008 03:01:18 PM] Joe Flieger: ?
+[05/01/2008 03:01:28 PM] Brian Cullinan: i'll be here
+Session Close (Joe Flieger): Thu May 01 15:01:32 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Thu May 01 15:19:49 2008
+[05/01/2008 03:19:49 PM] Joe Flieger: ok im here
+Session Close (Joe Flieger): Thu May 01 15:24:56 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Thu May 01 15:53:56 2008
+[05/01/2008 03:53:56 PM] Joe Flieger: thx for the help
+[05/01/2008 03:54:15 PM] Joe Flieger: :)
+Session Close (Joe Flieger): Thu May 01 15:54:51 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Thu May 01 17:44:45 2008
+[05/01/2008 05:44:45 PM] Joe Flieger: didnt want aim to miss out on the love ...
+[05/01/2008 05:44:57 PM] Brian Cullinan: damnit
+Session Close (Joe Flieger): Thu May 01 17:45:06 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Fri May 02 20:56:24 2008
+[05/02/2008 08:56:24 PM] Joe Flieger: you doing another bsg party?
+[05/02/2008 09:22:10 PM] Brian Cullinan: yeah
+[05/02/2008 09:22:26 PM] Joe Flieger: the show starts in like 10 min doesnt it?
+[05/02/2008 09:22:34 PM] Brian Cullinan: started at 9
+[05/02/2008 09:22:52 PM] Joe Flieger: i thought i came on at 930 for u
+Session Close (Joe Flieger): Fri May 02 21:52:54 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Sat May 03 03:31:10 2008
+[05/03/2008 03:31:10 AM] Joe Flieger: u up?
+[05/03/2008 04:47:31 AM] *** You have been disconnected. Sat May 03 04:47:31 2008.
+[05/03/2008 04:47:51 AM] *** "Joe Flieger" signed on at Sat May 03 04:47:51 2008.
+Session Close (Joe Flieger): Sat May 03 13:01:04 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Mon May 05 07:02:32 2008
+[05/05/2008 07:02:32 AM] Joe Flieger: when are we meeting up?
+Session Close (Joe Flieger): Mon May 05 09:00:30 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Mon May 05 19:58:01 2008
+[05/05/2008 07:58:01 PM] Joe Flieger: when are we meeting for xml and prince?
+[05/05/2008 08:04:46 PM] *** You have been disconnected. Mon May 05 20:04:46 2008.
+[05/05/2008 08:05:01 PM] *** "Joe Flieger" signed on at Mon May 05 20:05:01 2008.
+Session Close (Joe Flieger): Mon May 05 20:42:49 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Tue Jul 08 17:03:34 2008
+[07/08/2008 05:03:34 PM] Joe Flieger: trying here
+[07/08/2008 05:03:38 PM] *** Joe Flieger is trying to send you "SuperCopier2beta1-9.exe".
+[07/08/2008 05:04:16 PM] *** You have received users\default\downloads\AIM\bjcullinan\SuperCopier2beta1-9.exe.
+[07/08/2008 05:04:22 PM] Joe Flieger: there ya go
+[07/08/2008 05:04:28 PM] Joe Flieger: its for file transfures
+[07/08/2008 05:04:34 PM] Joe Flieger: replaces the windows one
+Session Close (Joe Flieger): Tue Jul 08 18:00:04 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Wed Aug 06 19:32:36 2008
+[08/06/2008 07:32:36 PM] Joe Flieger: you?
+[08/07/2008 02:48:16 AM] *** You have been disconnected. Thu Aug 07 02:48:16 2008.
+[08/07/2008 02:48:28 AM] *** "Joe Flieger" signed on at Thu Aug 07 02:48:28 2008.
+[08/07/2008 03:17:54 AM] *** You have been disconnected. Thu Aug 07 03:17:54 2008.
+[08/07/2008 03:18:26 AM] *** "Joe Flieger" signed on at Thu Aug 07 03:18:26 2008.
+[08/07/2008 03:32:51 AM] *** You have been disconnected. Thu Aug 07 03:32:51 2008.
+[08/07/2008 03:33:17 AM] *** "Joe Flieger" signed on at Thu Aug 07 03:33:17 2008.
+[08/07/2008 08:14:42 AM] *** You have been disconnected. Thu Aug 07 08:14:42 2008.
+[08/07/2008 08:14:53 AM] *** "Joe Flieger" signed on at Thu Aug 07 08:14:53 2008.
+[08/07/2008 11:42:19 AM] *** You have been disconnected. Thu Aug 07 11:42:19 2008.
+[08/07/2008 11:42:28 AM] *** "Joe Flieger" signed on at Thu Aug 07 11:42:28 2008.
+[08/08/2008 01:32:57 AM] *** You have been disconnected. Fri Aug 08 01:32:57 2008.
+[08/08/2008 01:33:17 AM] *** "Joe Flieger" signed on at Fri Aug 08 01:33:17 2008.
+[08/08/2008 03:16:43 AM] *** You have been disconnected. Fri Aug 08 03:16:43 2008.
+[08/08/2008 03:16:54 AM] *** "Joe Flieger" signed on at Fri Aug 08 03:16:54 2008.
+[08/08/2008 03:46:21 AM] *** You have been disconnected. Fri Aug 08 03:46:21 2008.
+[08/08/2008 03:46:31 AM] *** "Joe Flieger" signed on at Fri Aug 08 03:46:31 2008.
+[08/08/2008 04:30:59 AM] *** You have been disconnected. Fri Aug 08 04:30:59 2008.
+[08/08/2008 04:31:09 AM] *** "Joe Flieger" signed on at Fri Aug 08 04:31:09 2008.
+[08/08/2008 06:59:36 AM] *** You have been disconnected. Fri Aug 08 06:59:36 2008.
+[08/08/2008 06:59:47 AM] *** "Joe Flieger" signed on at Fri Aug 08 06:59:47 2008.
+[08/08/2008 05:22:14 PM] *** You have been disconnected. Fri Aug 08 17:22:14 2008.
+[08/08/2008 05:22:24 PM] *** "Joe Flieger" signed on at Fri Aug 08 17:22:24 2008.
+[08/08/2008 05:51:51 PM] *** You have been disconnected. Fri Aug 08 17:51:51 2008.
+[08/08/2008 05:52:16 PM] *** "Joe Flieger" signed on at Fri Aug 08 17:52:16 2008.
+[08/08/2008 06:06:43 PM] *** You have been disconnected. Fri Aug 08 18:06:43 2008.
+[08/08/2008 06:07:13 PM] *** "Joe Flieger" signed on at Fri Aug 08 18:07:13 2008.
+[08/09/2008 03:00:38 AM] *** You have been disconnected. Sat Aug 09 03:00:38 2008.
+[08/09/2008 03:01:05 AM] *** "Joe Flieger" signed on at Sat Aug 09 03:01:05 2008.
+[08/09/2008 04:44:31 AM] *** You have been disconnected. Sat Aug 09 04:44:31 2008.
+[08/09/2008 04:44:41 AM] *** "Joe Flieger" signed on at Sat Aug 09 04:44:41 2008.
+[08/09/2008 05:14:08 AM] *** You have been disconnected. Sat Aug 09 05:14:08 2008.
+[08/09/2008 05:14:27 AM] *** "Joe Flieger" signed on at Sat Aug 09 05:14:27 2008.
+[08/09/2008 07:12:53 AM] *** You have been disconnected. Sat Aug 09 07:12:53 2008.
+[08/09/2008 07:13:04 AM] *** "Joe Flieger" signed on at Sat Aug 09 07:13:04 2008.
+[08/09/2008 03:15:30 PM] *** You have been disconnected. Sat Aug 09 15:15:30 2008.
+[08/09/2008 03:21:28 PM] *** "Joe Flieger" signed on at Sat Aug 09 15:21:28 2008.
+[08/10/2008 02:14:54 AM] *** You have been disconnected. Sun Aug 10 02:14:54 2008.
+[08/10/2008 02:15:15 AM] *** "Joe Flieger" signed on at Sun Aug 10 02:15:15 2008.
+[08/10/2008 02:29:40 AM] *** You have been disconnected. Sun Aug 10 02:29:40 2008.
+[08/10/2008 02:30:08 AM] *** "Joe Flieger" signed on at Sun Aug 10 02:30:08 2008.
+[08/10/2008 04:13:36 AM] *** You have been disconnected. Sun Aug 10 04:13:36 2008.
+[08/10/2008 04:13:46 AM] *** "Joe Flieger" signed on at Sun Aug 10 04:13:46 2008.
+[08/10/2008 06:12:13 AM] *** You have been disconnected. Sun Aug 10 06:12:13 2008.
+[08/10/2008 06:12:25 AM] *** "Joe Flieger" signed on at Sun Aug 10 06:12:25 2008.
+[08/10/2008 10:09:53 AM] *** You have been disconnected. Sun Aug 10 10:09:53 2008.
+[08/10/2008 10:10:02 AM] *** "Joe Flieger" signed on at Sun Aug 10 10:10:02 2008.
+[08/10/2008 10:24:31 AM] *** You have been disconnected. Sun Aug 10 10:24:31 2008.
+[08/10/2008 10:24:41 AM] *** "Joe Flieger" signed on at Sun Aug 10 10:24:41 2008.
+[08/10/2008 10:54:08 AM] *** You have been disconnected. Sun Aug 10 10:54:08 2008.
+[08/10/2008 10:54:19 AM] *** "Joe Flieger" signed on at Sun Aug 10 10:54:19 2008.
+[08/10/2008 02:21:45 PM] *** You have been disconnected. Sun Aug 10 14:21:45 2008.
+[08/10/2008 02:21:57 PM] *** "Joe Flieger" signed on at Sun Aug 10 14:21:57 2008.
+[08/10/2008 05:49:22 PM] *** You have been disconnected. Sun Aug 10 17:49:22 2008.
+[08/10/2008 05:49:34 PM] *** "Joe Flieger" signed on at Sun Aug 10 17:49:34 2008.
+[08/10/2008 07:47:59 PM] *** You have been disconnected. Sun Aug 10 19:47:59 2008.
+[08/10/2008 07:48:10 PM] *** "Joe Flieger" signed on at Sun Aug 10 19:48:10 2008.
+[08/10/2008 08:17:36 PM] *** You have been disconnected. Sun Aug 10 20:17:36 2008.
+[08/10/2008 08:17:49 PM] *** "Joe Flieger" signed on at Sun Aug 10 20:17:49 2008.
+Session Close (Joe Flieger): Mon Aug 11 00:21:46 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Fri Sep 05 21:17:38 2008
+[09/05/2008 09:17:43 PM] Brian Cullinan: i am going to be called back
+[09/05/2008 09:18:24 PM] Joe Flieger: im going to ryan rob's
+[09/05/2008 09:18:33 PM] Joe Flieger: drop off his dremel
+[09/05/2008 09:18:42 PM] Brian Cullinan: invite him over here
+[09/05/2008 09:18:45 PM] Joe Flieger: so text me or call me if im not back
+[09/05/2008 09:19:24 PM] Joe Flieger: ill call you when i get there im guessing hes not going want to just hang out with 2 ppl but will see
+Session Close (Joe Flieger): Fri Sep 05 21:43:08 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Mon Sep 22 01:01:29 2008
+[09/22/2008 01:01:29 AM] Joe Flieger:  over here
+[09/22/2008 01:01:34 AM] *** Joe Flieger is trying to send you "dia.JPG".
+[09/22/2008 01:01:35 AM] *** You have received users\default\downloads\AIM\bjcullinan\dia.JPG.
+[09/22/2008 01:02:04 AM] Joe Flieger:  a= first sentance b=second sentance c=answer
+[09/22/2008 01:02:28 AM] Joe Flieger:  gimi ur nubers so i can be sure thats right?
+[09/22/2008 01:04:24 AM] Brian Cullinan: 160 cm, 125 degrees, 138 cm, 40 degrees
+[09/22/2008 01:04:35 AM] Joe Flieger:  ya thats about right
+[09/22/2008 01:04:44 AM] Brian Cullinan: so we are calculating b?
+[09/22/2008 01:04:52 AM] Joe Flieger:  no
+[09/22/2008 01:04:55 AM] Brian Cullinan: c?
+[09/22/2008 01:05:04 AM] Joe Flieger:  160,125 = a
+[09/22/2008 01:05:10 AM] Joe Flieger:  138,40 = b
+[09/22/2008 01:05:19 AM] Joe Flieger:  so ya c
+[09/22/2008 01:05:31 AM] Brian Cullinan: hmmm
+[09/22/2008 01:05:39 AM] Joe Flieger:  so you break a into x and y
+[09/22/2008 01:05:45 AM] Joe Flieger:  you break b into x and y
+[09/22/2008 01:05:51 AM] Joe Flieger:  a + b = c
+[09/22/2008 01:06:05 AM] Brian Cullinan: ok
+[09/22/2008 01:06:20 AM] Joe Flieger:  not excatly but u just ignore the -x value for a
+[09/22/2008 01:06:29 AM] Joe Flieger:  and sub the y values
+[09/22/2008 01:06:41 AM] Brian Cullinan: ok
+[09/22/2008 01:06:50 AM] Joe Flieger:  so its like i said c = a - b
+[09/22/2008 01:07:16 AM] Joe Flieger:  but it doesnt mater if u just find raw size values and just add or sub so they fight the pic right
+[09/22/2008 01:07:20 AM] Joe Flieger:  you should be fine
+[09/22/2008 01:07:30 AM] Joe Flieger:  then you should get a x and y for c
+[09/22/2008 01:08:27 AM] Joe Flieger:  once u got that u covert back and if u need help with any of if along the way let me know or even converting back
+[09/22/2008 01:38:36 AM] Brian Cullinan: got it
+[09/22/2008 01:38:38 AM] Brian Cullinan: all done!
+[09/22/2008 01:38:44 AM] Brian Cullinan: thanks for the help again
+[09/22/2008 01:38:50 AM] Joe Flieger:  nite
+[09/22/2008 01:38:56 AM] Brian Cullinan: nite
+Session Close (Joe Flieger): Mon Sep 22 01:39:07 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Sat Oct 18 20:29:56 2008
+[10/18/2008 08:29:56 PM] Joe Flieger: wtf 
+[10/18/2008 08:29:58 PM] *** Joe Flieger is trying to send you "cuesplitter_setup.exe".
+[10/18/2008 08:30:00 PM] *** Joe Flieger is trying to send you "cuesplitter_setup.exe".
+[10/18/2008 08:30:02 PM] *** Joe Flieger is trying to send you "cuesplitter_setup.exe".
+[10/18/2008 08:30:05 PM] Joe Flieger: wow 
+Session Close (Joe Flieger): Sat Oct 18 20:30:11 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Sat Oct 18 20:30:28 2008
+[10/18/2008 08:30:28 PM] Joe Flieger:  omg
+[10/18/2008 08:30:44 PM] Brian Cullinan: it's not going to fucking wort
+[10/18/2008 08:30:49 PM] Brian Cullinan: *work
+[10/18/2008 08:30:50 PM] Brian Cullinan: stop it
+Session Close (Joe Flieger): Sat Oct 18 20:30:53 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Sat Oct 18 20:30:54 2008
+[10/18/2008 08:30:54 PM] Joe Flieger: i did 
+Session Close (Joe Flieger): Sat Oct 18 20:30:57 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Mon Oct 20 01:06:31 2008
+Session Close (Joe Flieger): Mon Oct 20 01:06:37 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Tue Dec 02 11:37:57 2008
+[12/02/2008 11:38:00 AM] Brian Cullinan: Wake up!
+Session Close (Joe Flieger): Tue Dec 02 11:38:02 2008
+
+
+Session Start (bjcullinan:Joe Flieger): Sat Dec 06 16:39:10 2008
+[12/06/2008 04:39:10 PM] Joe Flieger: (Link: http://pacs.pe.kr/techdoc/dicom.php#developers)http://pacs.pe.kr/techdoc/dicom.php#developers
+[12/06/2008 04:40:07 PM] *** Joe Flieger is trying to send you "DICOM.zip".
+[12/06/2008 04:40:16 PM] *** You have received users\default\downloads\AIM\bjcullinan\DICOM.zip.
+[12/06/2008 04:59:49 PM] *** Joe Flieger is trying to send you "7NAEXW1O".
+[12/06/2008 04:59:55 PM] *** You have received users\default\downloads\AIM\bjcullinan\7NAEXW1O.
+Session Start (bjcullinan:Joe Flieger): Fri Jul 03 00:36:38 2009
+Session Close (Joe Flieger): Fri Jul 03 00:36:39 2009
+
+

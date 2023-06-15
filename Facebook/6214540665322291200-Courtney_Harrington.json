@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6214540665322291200/",
+    "participants": [
+        {
+            "name": "Courtney Harrington",
+            "title": "Talent Acquisition Specialist",
+            "url": "linkedin.com/in/courtney-harrington-62596647",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Courtney Harrington",
+            "message": "Intersys Consulting\n\nHi Brian, \n\nI am one of the Talent Acquisition Specialist here at Intersys and I came across your profile here on LinkedIn. We are looking at expanding our current teams and hiring at for our client in Phoenix, AZ for a .NET Architect role, as well as other Big Data and Development roles in Phoenix, Austin, and NYC and several other cities across the country.\n \nI am not sure if you are open currently looking for a new opportunity, but if you happen to be looking, I would love to set up a time to discuss what you are looking for and if I might be able to help you in your search. Either way, please let me know your thoughts.\n\nThanks,\nCourtney Harrington\n\nCourtney Harrington\nTalent Aquistion Specialist \ncharrington@intersysconsulting.com\n480-400-7055\n",
+            "time": "2017-12-13T12:00:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you for reaching out!\n",
+            "time": "2017-12-13T21:23:00.000Z"
+        },
+        {
+            "from": "Courtney Harrington",
+            "message": "Hi Brian,\n\nIf you are interested, I would love to send a job description to your email. Is there an email that it is best to reach you at?\n\nThanks,\nCourtney\n",
+            "time": "2017-12-13T21:50:00.000Z"
+        }
+    ]
+}

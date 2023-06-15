@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6214860652318642176/",
+    "participants": [
+        {
+            "name": "Laurie Ruegamer",
+            "title": "Connecting Extraordinary Talent with Extraordinary Companies",
+            "url": "linkedin.com/in/laurieruegamer",
+            "phone": "480-342-9900 (Work)",
+            "email": "laurie@aztechfinders.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-14T17:57:00.000Z"
+        },
+        {
+            "from": "Laurie Ruegamer",
+            "message": "Thanks, Brian! I look forward to remaining in touch!\n",
+            "time": "2017-12-15T20:43:00.000Z"
+        }
+    ]
+}

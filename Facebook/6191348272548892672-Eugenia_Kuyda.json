@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6191348272548892672/",
+    "participants": [
+        {
+            "name": "Eugenia Kuyda",
+            "title": "Co-Founder and CEO at Luka",
+            "url": "linkedin.com/in/eugenia-kuyda-638a8a1b",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "I want to help your AI\n\nI have heard every argument. I can help give your AI a conscience.\n",
+            "time": "2016-10-10T12:00:00.000Z"
+        },
+        {
+            "from": "Eugenia Kuyda",
+            "message": "Hi Brian! This got lost since I barely check my LinkedIn inbox... Would be happy to talk anytime - I'm at kuyda@luka.ai.\nIn the meantime - check out https://replika.ai, our product that allows everyone to create an AI avatar.\n",
+            "time": "2017-11-29T20:56:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you! I've sent my resume to your email. I was very inspired by your project.\n",
+            "time": "2017-11-29T21:15:00.000Z"
+        }
+    ]
+}

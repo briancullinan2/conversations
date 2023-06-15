@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6222460916257087488/",
+    "participants": [
+        {
+            "name": "German Urrego",
+            "title": "Founder & CEO at Dialdoc",
+            "url": "linkedin.com/in/germanurrego",
+            "phone": null,
+            "email": "Me@GermanUrrego.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-04T17:18:00.000Z"
+        }
+    ]
+}

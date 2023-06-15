@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6215657769652023296/",
+    "participants": [
+        {
+            "name": "Nick Mulholland",
+            "title": "CEO and Entrepreneur",
+            "url": "linkedin.com/in/nickmulholland",
+            "phone": null,
+            "email": "nickm@nomoresalespeople.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-16T22:44:00.000Z"
+        }
+    ]
+}

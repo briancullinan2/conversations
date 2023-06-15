@@ -1,0 +1,423 @@
+[
+    {
+        "resourceName": "people/c80394703492903890",
+        "etag": "%EgcBAgcJCzcuGg0BAgMEBQYHCAkKCwwNIgxpeUdheWYyQmZ2dz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "11d9e8e8f8473d2"
+                    }
+                },
+                "displayName": "Mr. and Mrs. Jeff Kalina",
+                "familyName": "Kalina",
+                "givenName": "and Mrs.",
+                "middleName": "Jeff",
+                "honorificPrefix": "Mr",
+                "displayNameLastFirst": "Kalina, Mr and Mrs. Jeff"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "107637144726804276151"
+                    }
+                },
+                "displayName": "Jeff Kalina",
+                "familyName": "Kalina",
+                "givenName": "Jeff",
+                "displayNameLastFirst": "Kalina, Jeff"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "11d9e8e8f8473d2"
+                    }
+                },
+                "value": "jeffkalina1@gmail.com",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "11d9e8e8f8473d2"
+                    }
+                },
+                "value": "+1-480-563-0094",
+                "canonicalForm": "+14805630094",
+                "type": "home",
+                "formattedType": "Home"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "11d9e8e8f8473d2"
+                    }
+                },
+                "value": "(602) 625-4222",
+                "canonicalForm": "+16026254222",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "memberships": [
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "11d9e8e8f8473d2"
+                    }
+                },
+                "contactGroupMembership": {
+                    "contactGroupId": "17763af58fde6fac"
+                }
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "11d9e8e8f8473d2"
+                    }
+                },
+                "contactGroupMembership": {
+                    "contactGroupId": "5398287c8d81dba7"
+                }
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "11d9e8e8f8473d2"
+                    }
+                },
+                "contactGroupMembership": {
+                    "contactGroupId": "myContacts"
+                }
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "11d9e8e8f8473d2"
+                    }
+                },
+                "contactGroupMembership": {
+                    "contactGroupId": "16e1347709369a47"
+                }
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "11d9e8e8f8473d2"
+                    }
+                },
+                "contactGroupMembership": {
+                    "contactGroupId": "26ae22950b78e998"
+                }
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "11d9e8e8f8473d2"
+                    }
+                },
+                "contactGroupMembership": {
+                    "contactGroupId": "2c87e820e64ded3"
+                }
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "11d9e8e8f8473d2"
+                    }
+                },
+                "contactGroupMembership": {
+                    "contactGroupId": "friends"
+                }
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "11d9e8e8f8473d2"
+                    }
+                },
+                "contactGroupMembership": {
+                    "contactGroupId": "family"
+                }
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "6 Mutual Connections",
+                "You and Jeff both know Lance Klem, Brad Mason, and 4 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Guidewire Technical Lead, Tata Consultancy Services",
+                "Company Name",
+                "The Largest Insurance Group",
+                "Dates Employed",
+                "Oct 2016 – Present",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "Bloomington/Normal, Illinois Area",
+                "• Implementing Guidewire PolicyCenter Commercial Auto and Business Owner Policy Lines for new/required features and functionality of the Business Line Modularization in Configuration and many Integration points across the enterprise systems• Implemented the Business, Validation, UW Issue Rules, Rule Classes for the Rule Framework, UW Issue, Activity creation and Assignments• Implemented the configuration of PolicyCenter Product Model, System Tables and UW Question sets for the Product Lines, Coverage, Terms and Limits etc. in Product Designer• Implemented to bypass Validation Rules, Auto-Approve UW Issue Rules and Hard-Stops of both rules for the migrated policies from Legacy System• Implemented Policy Cancelation, Renewal Not Taking and Consolidation to identify the consolidated vehicles for agents’ compensation calculation• Implemented UW Issue Types, Rules and Rule Classes to block the Binds or Issuances for the Reason Codes of Customer Report Ordering failures• Implemented the carry-over of vehicles' Master Source Risk ID, Prior Risk ID and Agreement ID by the VIN Search form the inactive policies during Policy Consolidation, for agents’ compensation calculation• Implemented UW Issue Rules and Agent Activities for the Migrated Legacy Trailer Policies which have Liability/Physical Damage coverage during the migration and renewal• Implemented the UW Issue Rule for Body Injury/Physical Damage limits and/or Net Premium increase to block the Quotes/Issuances in Policy Change for Under Notice/Non-Pay Cancelation policies• Implemented Activity Pattern creation/Assignments to Producers, Agents or Underwriters • Implemented UW Issue Types in Product Designer, Rules and Rule Classes, for Rule Engine to block Quotes, Binds or Issuances for underwriters to approve• Enhanced Supporting Documents Workflow to create/assign producers’ or agents’ activities for the requests, reminders, validation, approval and rejection of Supporting Documents"
+            ],
+            [
+                "Sr. Guidewire Policycenter Consultant",
+                "Company Name",
+                "Texas Windstorm Insurance Association",
+                "Dates Employed",
+                "Jul 2016 – Aug 2016",
+                "Employment Duration",
+                "2 mos",
+                "Location",
+                "Austin, Texas Area",
+                "• Implemented Guidewire PolicyCenter Homeowner Policy of property line as the replacement for Texas Fair Plan Association, including Configuration and many Integration points within Guidewire applications and third party's external systems across the entire organization• Implemented PolicyCenter Accounts, Contacts, Account Contacts and Policy Contacts’ PCF Configuration• Implemented PolicyCenter Contacts and Contact Management integration for Search, Retrieve, Create and Update functionality"
+            ],
+            [
+                "Sr. Guidewire Policycenter Integration Consultant (Contractor, Ernst & Young)",
+                "Company Name",
+                "ICBC (Insurance Corporation of British Columbia)",
+                "Dates Employed",
+                "Nov 2014 – Jun 2016",
+                "Employment Duration",
+                "1 yr 8 mos",
+                "Location",
+                "North Vancouver, BC, Canada",
+                "•\tImplemented the integrations of Agreement Services, MDM Services and Vehicle Services, for Personal Auto, Business Auto and Property lines•\tImplemented the integration of Record Agreements to search, retrieve and record agreement requests to Legacy system through Agreement Services for Vehicle Registrations, changes, and transfers of the vehicle ownerships as well as policy submissions and other policy transactions•\tImplemented the integration to search, retrieve, add and update Customer Data requests to Master Data Management System through MDM Services, maintaining the synchronized Customer Data across all enterprise systems•\tImplemented the integration to search, create, update, detach vehicles from the Vehicle Database through Vehicle Services•\tMentored and trained junior Guidewire developers for Configuration and Integration of PolicyCenter and ClaimCenter•\tImplemented the business rules on CRS (Claim Rescale System) to find the potential movable claims with new policy of the policy renewal after the defined time frame and/or lapsed period through Claim Services and Policy Inquiry Services•\tImplemented the Policy Search/Retrieve Web Services for ClaimCenter integration, based on different search criteria and functionality from ClaimCenter•\tImplemented the Batch Process and Startable plugin to load PolicyCenter’s Administration Data from Main Frame, including organizations, internal/external brokers, groups, users, roles, role privileges etc. and Administration Data in XML format generated from the Excel Spreadsheet loader for import•\tImplemented the Web Service of Single Sign-on Authentication to provide the internal and external users’ accesses to PolicyCenter through OAM (Oracle Access manager)•\tImplemented the real-time synchronized Web Service for OIM (Oracle Identity Manager) to update the Administration Data"
+            ],
+            [
+                "Sr. Guidewire Policycenter Consultant",
+                "Company Name",
+                "American Family Insurance",
+                "Dates Employed",
+                "Apr 2014 – Aug 2014",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "Madison, Wisconsin Area",
+                "•\tImplemented and refactored the new business rules of  Risk Reports Ordering for PolicyCenter•\tRedesigned the business rules in report ordering module for various reports namely Auto Clue report, Motor Vehicle report, Driver History report and Property Clue report for Personal Auto, Business Auto and Property lines•\tEnhanced, with finish line team, to implement Change Requests in design changes and technical issue fixes•\tMaintained and fixed the production JIRA's for the highest priority of Critical and Blocker issues, such as discount premium, risk analysis, assigned activities, policy split etc.•\tDeveloped the Unit Test cases for the given Use cases and performed Unit testing and Smoke testing of the module being worked on •\tModified the ICS integration with PolicyCenter and created mapping document that maps the incoming claim details (Auto and Property lines) into Claim_Ext entity •\tModified the data model layer for various entity creations and extensions required as per the business requirements, including different Subtypes and TypeList creations•\tConducted regular Peer Code Reviews to give valuable design suggestions and actively involved in contributing towards GOSU standards in Development Forum meetings"
+            ],
+            [
+                "Guidewire Developer",
+                "Company Name",
+                "Mercury Insurance",
+                "Dates Employed",
+                "Nov 2009 – Mar 2014",
+                "Employment Duration",
+                "4 yrs 5 mos",
+                "Location",
+                "Brea, CA",
+                "•\tImplemented ClaimCenter, including Guidewire Data Models, system property, Database Authentication, Single Sign-on, Configuration and Integration•\tImplemented the Web Service integration of Policy Search/Retrieve from PolicyCenter , Contact Search/Updates to/from ContactManager•\tImplemented Web Service integration of Claim History Search and PolicyCenter Notification to underwriters if Claim Amount exceeds the threshold•\tImplemented ODS/EDW integration for ClaimCenter, by creating the GX-Models, configuring the messaging setup, defining event rules, generating the business data in messages, sending to MQ server whose messages will be consumed and processed by the Enterprise Data Warehouse system, for reporting purposes within the organization•\tImplemented the Web Service of integration for Record Interview to Add/Retrieve the recorded voice messages to/from Variant System•\tImplemented ClaimCenter DMS/DPS integration to retrieve, update and store the documents in the external systems•\tImplemented the SafeNet/Password encryption and decryption for Database Authentication and Single Sign-on for ClaimCenter•\tImplemented the creation, modification and enhancements of PCF in Claim Search, Summary, Loss Details, Parties Involved, Policy Summary and Details, Financials, Coverage Overrides, Notes, Evaluation, Plan of Action, Subrogation, Litigation, FNOL Snapshot etc.•\tDesigned and implemented the ClaimCenter Rule Sets, Email Notifications, Record Interview, Batch Jobs, Financial Calculation Formulas•\tMaintained ClaimCenter and PolicyCenter production codes, including data and bug fixes, initiating and preparing the builds, environment setup, deployment, automation and production releases•\tLead 12 environment/build/deployment coordinators for Hudson Build system across entire Guidewire Suite Applications in environment preparation, builds, deployments, Admin Data Preparation/Loading, Stage Dry-Run and Go-Live to Production for Personal and Business Auto Lines"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Azusa Pacific University",
+                "Degree Name",
+                "Master's degree",
+                "Field Of Study",
+                "Computer Science"
+            ],
+            [
+                "Azusa Pacific University",
+                "Degree Name",
+                "Master's degree",
+                "Field Of Study",
+                "Computer Science"
+            ],
+            [
+                "University of Louisiana at Lafayette",
+                "Degree Name",
+                "Bachelor's degree",
+                "Field Of Study",
+                "Computer Science"
+            ],
+            [
+                "University of Louisiana at Lafayette",
+                "Degree Name",
+                "Bachelor's degree",
+                "Field Of Study",
+                "Computer Science"
+            ],
+            "Recommendations",
+            [
+                "Sun Microsystems",
+                "145,592 followers"
+            ],
+            [
+                "ICBC (Insurance Corporation of British Columbia)",
+                "14,554 followers"
+            ],
+            [
+                "Mercury Insurance",
+                "12,731 followers"
+            ],
+            [
+                "Texas Windstorm Insurance Association",
+                "916 followers"
+            ],
+            [
+                "American Family Insurance",
+                "36,601 followers"
+            ],
+            [
+                "System 7",
+                "35 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Sun Microsystems",
+                "145,592 followers"
+            ],
+            [
+                "Sun Microsystems",
+                "145,592 followers"
+            ],
+            [
+                "ICBC (Insurance Corporation of British Columbia)",
+                "14,554 followers"
+            ],
+            [
+                "ICBC (Insurance Corporation of British Columbia)",
+                "14,554 followers"
+            ],
+            [
+                "Mercury Insurance",
+                "12,731 followers"
+            ],
+            [
+                "Mercury Insurance",
+                "12,731 followers"
+            ],
+            [
+                "Texas Windstorm Insurance Association",
+                "916 followers"
+            ],
+            [
+                "Texas Windstorm Insurance Association",
+                "916 followers"
+            ],
+            [
+                "American Family Insurance",
+                "36,601 followers"
+            ],
+            [
+                "American Family Insurance",
+                "36,601 followers"
+            ],
+            [
+                "System 7",
+                "35 followers"
+            ],
+            [
+                "System 7",
+                "35 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Ravikrishna Satiwara",
+                "Information Technology Technical Recruiter.",
+                "July 5, 2017, Jeff worked with Ravikrishna but at different companies",
+                "Ravikrishna is one of best recruiters I have ever worked with. He is a fantastic recruiter. I have found him to be very service-oriented, passionate and easy to work with for job search. He brings the best of the services, clients and candidates' expectations. Ravikrishna was very responsive, found qualified candidates and met all requirements for the employers. He made that all happen and definitely was the reason for the clients and candidates' success and satisfaction. Ravikrishna is an excellent engineering and technical recruiter, very professional.He invests the time to ensure that they are a fit from both a skills, cultural and organizational perspective for both clients and candidates.I would strongly and exceptionally recommend Ravikrishna to those companies and candicates who are looking for a creative and successful recruiter with deep expertise in the Staffing industry."
+            ],
+            [
+                "Ravikrishna Satiwara",
+                "Information Technology Technical Recruiter.",
+                "July 5, 2017, Jeff worked with Ravikrishna but at different companies"
+            ],
+            [
+                "Ravikrishna Satiwara",
+                "Information Technology Technical Recruiter.",
+                "July 5, 2017, Jeff worked with Ravikrishna but at different companies"
+            ],
+            [
+                "Ravikrishna Satiwara",
+                "Information Technology Technical Recruiter.",
+                "July 5, 2017, Jeff worked with Ravikrishna but at different companies"
+            ],
+            "Information Technology Technical Recruiter.",
+            [
+                "Ravikrishna is one of best recruiters I have ever worked with. He is a fantastic recruiter. I have found him to be very service-oriented, passionate and easy to work with for job search. He brings the best of the services, clients and candidates' expectations. Ravikrishna was very responsive, found qualified candidates and met all requirements for the employers. He made that all happen and definitely was the reason for the clients and candidates' success and satisfaction. Ravikrishna is an excellent engineering and technical recruiter, very professional.He invests the time to ensure that they are a fit from both a skills, cultural and organizational perspective for both clients and candidates.I would strongly and exceptionally recommend Ravikrishna to those companies and candicates who are looking for a creative and successful recruiter with deep expertise in the Staffing industry."
+            ],
+            [
+                "Ravikrishna is one of best recruiters I have ever worked with. He is a fantastic recruiter. I have found him to be very service-oriented, passionate and easy to work with for job search. He brings the best of the services, clients and candidates' expectations. Ravikrishna was very responsive, found qualified candidates and met all requirements for the employers. He made that all happen and definitely was the reason for the clients and candidates' success and satisfaction. Ravikrishna is an excellent engineering and technical recruiter, very professional.He invests the time to ensure that they are a fit from both a skills, cultural and organizational perspective for both clients and candidates.I would strongly and exceptionally recommend Ravikrishna to those companies and candicates who are looking for a creative and successful recruiter with deep expertise in the Staffing industry."
+            ],
+            [
+                "Khuman Singh Sisodiya",
+                "Recruitment Lead at Sumeru Inc.",
+                "June 28, 2017, Jeff worked with Khuman Singh but at different companies",
+                "I have been working in IT and software development for many years and have had the great fortune and pleasure, working with Khuman for my job search. I was very impressed with such a Talent Acquisition Expert and Leader I have never met or worked with.I found Khuman is a very well planned, organized, driven and successful in talent acquisition for candidates, clients and even enterprises/organizations.He is an effective, intelligent, savvy, responsive, dedicated proven, detail-oriented, Talent Acquisition Expert and Leader, driving staffing professional with an undying commitment to his candidates and clients. He builds strong relationships with his candidates and clients, through his excellent networking skills and sincere personality. Khuman is one of the best recruiter lead that I have ever worked with.He is excellent in preliminary candidate screenings and provides valuable recommendations and insight. He is resourceful, creative and well versed in identifying appropriate candidates through passive and active sourcing methods, including information gathered through the review process, direct sourcing, talent pooling, networking, internet and referrals.Khuman effectively leads his diverse recruiter team and is an excellent mentor and teacher to his team. He is able to lead by examples and uses his skills to help team members in their success.I would highly and exceptionally recommend Khuman to those companies which are looking for a creative and successful recruiting lead or project management."
+            ],
+            [
+                "Khuman Singh Sisodiya",
+                "Recruitment Lead at Sumeru Inc.",
+                "June 28, 2017, Jeff worked with Khuman Singh but at different companies"
+            ],
+            [
+                "Khuman Singh Sisodiya",
+                "Recruitment Lead at Sumeru Inc.",
+                "June 28, 2017, Jeff worked with Khuman Singh but at different companies"
+            ],
+            [
+                "Khuman Singh Sisodiya",
+                "Recruitment Lead at Sumeru Inc.",
+                "June 28, 2017, Jeff worked with Khuman Singh but at different companies"
+            ],
+            "Recruitment Lead at Sumeru Inc.",
+            [
+                "I have been working in IT and software development for many years and have had the great fortune and pleasure, working with Khuman for my job search. I was very impressed with such a Talent Acquisition Expert and Leader I have never met or worked with.I found Khuman is a very well planned, organized, driven and successful in talent acquisition for candidates, clients and even enterprises/organizations.He is an effective, intelligent, savvy, responsive, dedicated proven, detail-oriented, Talent Acquisition Expert and Leader, driving staffing professional with an undying commitment to his candidates and clients. He builds strong relationships with his candidates and clients, through his excellent networking skills and sincere personality. Khuman is one of the best recruiter lead that I have ever worked with.He is excellent in preliminary candidate screenings and provides valuable recommendations and insight. He is resourceful, creative and well versed in identifying appropriate candidates through passive and active sourcing methods, including information gathered through the review process, direct sourcing, talent pooling, networking, internet and referrals.Khuman effectively leads his diverse recruiter team and is an excellent mentor and teacher to his team. He is able to lead by examples and uses his skills to help team members in their success.I would highly and exceptionally recommend Khuman to those companies which are looking for a creative and successful recruiting lead or project management."
+            ],
+            [
+                "I have been working in IT and software development for many years and have had the great fortune and pleasure, working with Khuman for my job search. I was very impressed with such a Talent Acquisition Expert and Leader I have never met or worked with.I found Khuman is a very well planned, organized, driven and successful in talent acquisition for candidates, clients and even enterprises/organizations.He is an effective, intelligent, savvy, responsive, dedicated proven, detail-oriented, Talent Acquisition Expert and Leader, driving staffing professional with an undying commitment to his candidates and clients. He builds strong relationships with his candidates and clients, through his excellent networking skills and sincere personality. Khuman is one of the best recruiter lead that I have ever worked with.He is excellent in preliminary candidate screenings and provides valuable recommendations and insight. He is resourceful, creative and well versed in identifying appropriate candidates through passive and active sourcing methods, including information gathered through the review process, direct sourcing, talent pooling, networking, internet and referrals.Khuman effectively leads his diverse recruiter team and is an excellent mentor and teacher to his team. He is able to lead by examples and uses his skills to help team members in their success.I would highly and exceptionally recommend Khuman to those companies which are looking for a creative and successful recruiting lead or project management."
+            ]
+        ],
+        "skills": [],
+        "summary": "    •\t8 years solid hands-on experience of Guidewire PolicyCenter and ClaimCenter, in integration and configuration for Personal/Business Auto, Property and Business Owner Policy lines•\tWell-Versed in Business Rules, Validation Rules, UW Issue Rules, Rule Classes of the Rule Framework•\tWell-Experienced in configuring PolicyCenter Product Model, System Tables and UW Question sets for the available Products, Policy Lines, Offerings, Coverage, Terms and Limits etc. in Product Designer•\tWell-Versed in PolicyCenter integration in Vehicle Services, MDM Services, Agreement Services, Claim Services, Policy Inquiry Services, Document Services, Customer Update Notifications and SIMS (Salvage) with SAP, MDM and Legacy System•\tWell-Experienced in ClaimCenter’s ODS/EDW, DMS, DPS, Record Interview integration, synchronous Web Services, asynchronous In-Outbound Messaging Systems, Batch Processes/Scheduling and Startable Plugins etc.•\tWell-Versed in ClaimCenter integration for Policy Search/Retrieve, Policy Refresh/Updates/Notifications, Contact Search/Updates, ICS Claim Search•\tWell-Experienced in Configuring PCF's, including FNOL, Financial Calculation, Payments, Evaluations, Coverage Overrides, Claim Search, Loss Details, Parties Involved, Policy Summary/Details,  including Admin Data preparation/loading•\tAs a Sr. Developer and Lead Role, mentored and trained junior Guidewire developers•\tLead 12 environment/build/deployment coordinators to initiate and maintain the Linux Environments for Guidewire Suite Applications, on Dev, QA, Stage, UAT and Production•\tWell-Versed in Agile Methodology, planning, estimation and scheduling, in addition to the excellent knowledge of Insurance domains•\t7 + years solid hands-on experience in multi-tier web application development using Java/J2EE technologies•\tA US patent of unique UI design for J2EE Web Application submitted by Sun Microsystems and granted on 07/08/2008, Patent Number 7398277, Inventor: Jenche Lin (a.k.a. Jeff Lin)\n  \n  \n",
+        "name": "Jeff Lin",
+        "title": "Guidewire Technical Lead, Tata Consultancy Services",
+        "url": "linkedin.com/in/jefflin15089",
+        "phone": "",
+        "email": "jefflin5238@gmail.com"
+    }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "13Oct17",
+    "participants": "Curtis Barrett | Partner at TEEMA Solutions Group Inc > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Curtis Barrett",
+        "url": "linkedin.com/in/curtis-barrett-b731299",
+        "phone": "4807205377 (Mobile)",
+        "email": "cbarrett@teemagroup.com",
+        "title": "Partner at TEEMA Solutions Group Inc"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "I have no connections there! Looks very cool tho..",
+    "time": "2017-10-13T20:34:00.000Z",
+    "title": "Partner at TEEMA Solutions Group Inc"
+  },
+  {
+    "type": "conversations",
+    "conversations": "13Oct17",
+    "participants": "Brian Cullinan | wizard > Curtis Barrett | Partner at TEEMA Solutions Group Inc",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Curtis Barrett",
+        "url": "linkedin.com/in/curtis-barrett-b731299",
+        "phone": "4807205377 (Mobile)",
+        "email": "cbarrett@teemagroup.com",
+        "title": "Partner at TEEMA Solutions Group Inc"
+      }
+    ],
+    "message": "Thank you for your time! Let me know if something arises :)",
+    "time": "2017-10-13T20:40:00.000Z",
+    "title": "wizard"
+  }
+]

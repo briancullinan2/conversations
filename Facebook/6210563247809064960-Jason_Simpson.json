@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6210563247809064960/",
+    "participants": [
+        {
+            "name": "Jason Simpson",
+            "title": "Chief Technology Officer at State of Arizona",
+            "url": "linkedin.com/in/jasondsimpson",
+            "phone": null,
+            "email": "jason@asu.me"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Your a genius!\n",
+            "time": "2017-12-02T21:22:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "*you're. I can't type apparently.\n",
+            "time": "2017-12-02T21:22:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "You need my help. I keep getting requests from multiple recruiters to work for the state.\n",
+            "time": "2017-12-06T15:08:00.000Z"
+        }
+    ]
+}

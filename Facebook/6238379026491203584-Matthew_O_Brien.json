@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6238379026491203584/",
+    "participants": [
+        {
+            "name": "Matthew O'Brien",
+            "title": "Digital Marketing Strategist | Non-profit Activist | Machine Learning and Business Intelligence Integrator",
+            "url": "linkedin.com/in/matthewobrien",
+            "phone": "",
+            "email": "matthew@mintsocial.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-02-17T15:31:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-28T01:27:00.000Z",
+            "message": "Congrats on your work anniversary!\n"
+        },
+        {
+            "from": "Matthew O'Brien",
+            "time": "2017-04-28T17:13:00.000Z",
+            "message": "Thank Brian!\n"
+        }
+    ]
+}

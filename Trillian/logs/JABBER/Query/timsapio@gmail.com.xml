@@ -1,0 +1,22 @@
+<session type="Start" time="1232497655" medium="JABBER" from="bjcullinan@gmail.com" to="timsapio@gmail.com"/>
+<session type="start" time="1232497655" medium="JABBER" to="timsapio%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1232497661" medium="JABBER" to="timsapio%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="hey"/>
+<message type="outgoing_privateMessage" time="1232497675" medium="JABBER" to="timsapio%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="They%20are%20having%20problems%20with%20the%20VCR%20in%20Wettah%20130"/>
+<session type="stop" time="1232497738" medium="JABBER" to="timsapio%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1232497752" medium="JABBER" to="timsapio%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1232497753" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="timsapio%40gmail%2Ecom" from_display="Tim%20Sapio" text="is%20that%20the%20main%20auditorium%3F"/>
+<message type="outgoing_privateMessage" time="1232497756" medium="JABBER" to="timsapio%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="yes"/>
+<message type="incoming_privateMessage" time="1232497813" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="timsapio%40gmail%2Ecom" from_display="Tim%20Sapio" text="Yeah%2C%20the%20a%2Fv%20is%20all%20f%27d%20up%20in%20there%2E%20I%27m%20not%20quite%20sure%20what%20is%20wrong%20with%20it%2C%20or%20what%20to%20do%20with%20it%2E%20I%20made%20a%20ticket%20on%20it%2E"/>
+<status type="away" time="1232498716" medium="JABBER" from="timsapio%40gmail%2Ecom"/>
+<session type="stop" time="1232499265" medium="JABBER" to="timsapio%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1233261138" medium="JABBER" to="timsapio%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1233261138" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="timsapio%40gmail%2Ecom" from_display="Tim%20Sapio" text="hey%2C%20brian%2C%20when%20you%20come%20in%20today%2C%20please%20check%20Charlie%20Schlinger%27s%20computer%20out%20for%20him%2E%20When%20printing%20from%20Microsoft%20Office%20programs%20to%20the%20printer%20in%20315%2C%20he%20is%20having%20issues%20with%20the%20printer%20thinking%20that%20it%20is%20printing%20to%20legal%2Dsized%20paper%20when%20it%20should%20be%20printing%20to%20standard%2E%20If%20you%20can%20determine%2Ffix%20the%20problem%2C%20talk%20to%20Charlie%20and%20give%20him%20instructions%20on%20how%20to%20avoid%20these%20issues%20in%20the%20future%2E"/>
+<status type="Offline" time="1233261826" medium="JABBER" from="timsapio%40gmail%2Ecom"/>
+<status type="online" time="1233263568" medium="JABBER" from="timsapio%40gmail%2Ecom"/>
+<status type="away" time="1233264477" medium="JABBER" from="timsapio%40gmail%2Ecom"/>
+<status type="online" time="1233268130" medium="JABBER" from="timsapio%40gmail%2Ecom"/>
+<status type="away" time="1233269049" medium="JABBER" from="timsapio%40gmail%2Ecom"/>
+<message type="information_standard" time="1233270958" medium="JABBER" text="Disconnected%20from%20server%2E"/>
+<status type="Offline" time="1233270958" medium="JABBER" from="timsapio%40gmail%2Ecom"/>
+<status type="Offline" time="1233271590" medium="JABBER" from="timsapio%40gmail%2Ecom"/>
+<session type="stop" time="1233279970" medium="JABBER" to="timsapio%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>

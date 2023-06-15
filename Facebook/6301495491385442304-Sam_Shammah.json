@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6301495491385442304/",
+    "participants": [
+        {
+            "name": "Sam Shammah",
+            "title": "Founder and CEO of Akwai.com",
+            "url": "linkedin.com/in/akwai",
+            "phone": "480-382-5023 (Work)",
+            "email": "sam@twowks.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Sam Shammah",
+            "time": "2017-08-10T19:33:00.000Z",
+            "message": "Hey Brian. How is MindSpree coming along? You probably didn't know this but to keep it lean, I've been doing freelance work in addition to growing Akwai. I'm looking to get a few more projects in before school starts and our busy season kicks in. Take a look at some of my previous work if you think an explainer video could be beneficial for any of your endeavors www.akwai.com/video\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-08-10T19:35:00.000Z",
+            "message": "So you are looking for work?\n"
+        },
+        {
+            "from": "Sam Shammah",
+            "time": "2017-08-10T19:36:00.000Z",
+            "message": "Yea I want to get a couple more projects in this month\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-08-10T19:38:00.000Z",
+            "message": "What is you rate?\n"
+        },
+        {
+            "from": "Sam Shammah",
+            "time": "2017-08-10T19:39:00.000Z",
+            "message": "I don't bill hourly, just by project. What is your budget and what kind of video are you wanting?\n"
+        },
+        {
+            "from": "Sam Shammah",
+            "time": "2017-08-10T20:26:00.000Z",
+            "message": "The price definitely ranges based on everything you'd want, but a short video can start at $300.\n"
+        }
+    ]
+}

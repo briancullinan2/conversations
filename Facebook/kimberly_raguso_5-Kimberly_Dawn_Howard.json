@@ -1,0 +1,27 @@
+{
+    "thread": "https://www.facebook.com/messages/archived/t/kimberly.raguso.5",
+    "participants": [
+        {
+            "name": "Kimberly Dawn Howard",
+            "description": "Lives in Crowley, Texas",
+            "url": "From Phoenix, Arizona"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Brian",
+            "time": "2005-10-22T04:02:00.000Z",
+            "message": "Brian\nI'll only go swing dancing if I get to dance with you \n"
+        },
+        {
+            "from": "Kimberly",
+            "time": "2005-10-23T23:52:00.000Z",
+            "message": "\nWell, I can't make any promises, but I bet I could find you some nice girl to dance with.\n\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2005-10-24T07:23:00.000Z",
+            "message": "Brian\n...  I don't know.  I doubt she will be as nice as you.\n"
+        }
+    ]
+}

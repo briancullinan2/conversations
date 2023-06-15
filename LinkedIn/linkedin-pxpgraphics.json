@@ -1,0 +1,548 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "18 Mutual Connections",
+                "You and Paris Xavier both know Angela McLaughlin, Abe Pralle, and 16 others"
+            ],
+            [
+                "You both studied at Northern Arizona University",
+                "You both studied at Northern Arizona University from 2006 to 2010"
+            ],
+            [
+                "Show more highlights"
+            ],
+            [
+                "Bari A. Williams has transformed from corporate lawyer to leading Silicon Valley diversity advocate",
+                "Paris Xavier liked"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "iOS Engineer",
+                "Company Name",
+                "Scribd",
+                "Dates Employed",
+                "Feb 2015 – Present",
+                "Employment Duration",
+                "2 yrs 11 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "• Introduced our Display Options panel within the reader, complete with font styling, color themes, and in app brightness settings.• Consolidated complex and repetitive UI-specific code to convenience static methods and categories.• Converted some of our bloated legacy view controllers to our new MVVM standard, allowing for intuitive, well defined abstraction.• Designed and created our first testing suite for our release and debug iOS builds. Test coverage includes: integration/regression tests for our RESTful APIs, JSON mock tests to validate our Core Data injection, snapshot and automation tests for our UI, and unit tests for our models and view controllers.• Implemented our new payments system with tokenized credits, and establishing multiple tiered user roles. • Designed APIs for the introduction of sheet music books, articles, magazine issues, and implementing our new UI and seamless UX throughout the app to go along with the feature release.• Implemented paginated carousel layouts with fluidity, reusability and performance in mind. Designed a framework for displaying and producing a myriad of styles and variants for each of our content types.• Architected an internal UI components SDK to allow for our team to quickly produce our high quality content defined by our branding style guide. Including, but not limited to, immutable and efficient control, image, font and color APIs. • Methodically pairing our Core Data models with Swift structs to allow for performant, immutable, thread-safe mirroring.• Implemented caching patterns to handle efficient Objc-Swift interoperability, which allows for models to be shared a between an innovative and legacy code base. • Designed an analytics API which incorporates a factory and strategy pattern to provide an abstract interface to be utilized throughout our code, by allowing each concrete instance to define its own implementation according to business constraints."
+            ],
+            [
+                "Principal",
+                "Company Name",
+                "PXPGraphics",
+                "Dates Employed",
+                "Sep 2010 – Present",
+                "Employment Duration",
+                "7 yrs 4 mos",
+                "Location",
+                "Earth",
+                "At PXPGraphics.com, we bring together a new style and approach to create beautiful, eye-catching designs. Success is our only goal. We want to have an efficient and modern method of the design process. We accomplish this with skills in both technical and creative fields, we approach design as artists who have the ability to develop high quality, well-functioning projects. Our passion for design is behind our philosophy: \"Design is beautiful, elegant, and attractive. Most great companies have at least one thing in common: a great understanding of design and utilizing it to its capacity. The styles of the recent years are constantly updating and evolving. Companies need to adapt fast to the trends that are forming around them. The tradition methods of advertising and design are outdated and inefficient, and companies should have an option to progress; and that's what we're here for.\""
+            ],
+            [
+                "iOS Developer + Lead Designer",
+                "Company Name",
+                "Marqeta, Inc",
+                "Dates Employed",
+                "Oct 2011 – Feb 2015",
+                "Employment Duration",
+                "3 yrs 5 mos",
+                "Location",
+                "Emeryville, CA",
+                "Marqeta is the first multi-merchant prepaid debit card solution that will change the way you shop – and change the way merchants interact with you. Current projects include: Building and maintaining our native iOS apps, developing the Marqeta Mobile SDK, and overseeing our visual design overhaul. Utilizing the following libraries: AFNetworking, CocoaLumberjack, DateTools, Kiwi, MBProgressHUD, Nocilla, OHHTTPStubs, Parse, SDWebImage, Prior projects included: Creating and implementing brand strategy, B2B/B2B2C, and direct B2C marketing/advertising, B2B & B2C email marketing and layouts (CSS3 & HTML5), creating in-store POS collateral, and designing/developing the iOS/Android native mobile apps (Objective-C, Swift, Cocoa, Cocoa Touch, CoffeeScript & Java)."
+            ],
+            [
+                "Graphic Designer (Contract)",
+                "Company Name",
+                "Seidel Advertising",
+                "Dates Employed",
+                "Jul 2011 – Nov 2011",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "San Francisco, CA"
+            ],
+            [
+                "Advertising/Marketing Intern",
+                "Company Name",
+                "Happy Pixel Studio, LLC",
+                "Dates Employed",
+                "Aug 2011 – Oct 2011",
+                "Employment Duration",
+                "3 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "We are an integrated marketing company and website services provider focused on helping businesses and organizations achieve their online marketing goals."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science",
+                "Field Of Study",
+                "Marketing, Advertising & Visual Communication",
+                "Dates attended or expected graduation",
+                "2006 – 2010",
+                "Activities and Societies:",
+                "The Delta Chi Fraternity",
+                "The degree in Marketing, with a minor Advertising, offered a strong core of advertising, public relations, and communication courses, to give me hands-on experience in professional communication environments.The degree in Visual Communication allowed me to fine tune my aesthetic and cognitive skills using art, design and technology to creatively communicate ideas and transform messages into visual communication."
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science",
+                "Field Of Study",
+                "Marketing, Advertising & Visual Communication",
+                "Dates attended or expected graduation",
+                "2006 – 2010",
+                "Activities and Societies:",
+                "The Delta Chi Fraternity",
+                "The degree in Marketing, with a minor Advertising, offered a strong core of advertising, public relations, and communication courses, to give me hands-on experience in professional communication environments.The degree in Visual Communication allowed me to fine tune my aesthetic and cognitive skills using art, design and technology to creatively communicate ideas and transform messages into visual communication."
+            ],
+            [
+                "Advanced Technologies Academy",
+                "Degree Name",
+                "High School Diploma",
+                "Field Of Study",
+                "Graphic Design",
+                "Dates attended or expected graduation",
+                "2002 – 2006"
+            ],
+            [
+                "Advanced Technologies Academy",
+                "Degree Name",
+                "High School Diploma",
+                "Field Of Study",
+                "Graphic Design",
+                "Dates attended or expected graduation",
+                "2002 – 2006"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Philanthropy Chair",
+                "Company Name",
+                "The V Foundation",
+                "Dates volunteered",
+                "Nov 2006 – Present",
+                "Volunteer duration",
+                "11 yrs 2 mos",
+                "Cause",
+                "Health",
+                "All undergraduate and alumnus members of The Delta Chi Fraternity have joined hands in fighting cancer together and named The V Foundation for Cancer Research as its preferred philanthropic organization.Each year, Delta Chi chapters and colonies raise tens of thousands of dollars for international and local charitable organizations. It is the hope of Delta Chi that if all chapters unite their services and resources to benefit a single organization, Delta Chi can make a greater impact on that organization."
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See 46 more skills"
+            ],
+            "Recommendations",
+            [
+                "Delta Chi Fraternity",
+                "5,392 members"
+            ],
+            [
+                "Diablo Custom Publishing",
+                "337 followers"
+            ],
+            [
+                "Inertia Interactive Media",
+                "71 followers"
+            ],
+            [
+                "DNN Corp.",
+                "2,883 followers"
+            ],
+            [
+                "Delivery Agent",
+                "3,306 followers"
+            ],
+            [
+                "Tableau Software",
+                "230,332 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Delta Chi Fraternity",
+                "5,392 members"
+            ],
+            [
+                "Delta Chi Fraternity",
+                "5,392 members"
+            ],
+            [
+                "Diablo Custom Publishing",
+                "337 followers"
+            ],
+            [
+                "Diablo Custom Publishing",
+                "337 followers"
+            ],
+            [
+                "Inertia Interactive Media",
+                "71 followers"
+            ],
+            [
+                "Inertia Interactive Media",
+                "71 followers"
+            ],
+            [
+                "DNN Corp.",
+                "2,883 followers"
+            ],
+            [
+                "DNN Corp.",
+                "2,883 followers"
+            ],
+            [
+                "Delivery Agent",
+                "3,306 followers"
+            ],
+            [
+                "Delivery Agent",
+                "3,306 followers"
+            ],
+            [
+                "Tableau Software",
+                "230,332 followers"
+            ],
+            [
+                "Tableau Software",
+                "230,332 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Ayana Sellassie, M.S.",
+                "User Experience Research, Design, & Strategy",
+                "February 1, 2017, Ayana worked with Paris Xavier in different groups",
+                "If I could define Paris in one word, it would either be dedication or brilliance. Working at Marqeta with Paris, I learned of his great work ethic to get things done and to take on challenges to learn things he didn't already know that would help the development of the Marqeta brand and website. It's impossible not to be inspired by his impeccable dedication. His knack for thinking of innovative ideas  is contagious. I watched him evolve from a graphic designer to a web developer, coding for the iOS mobile platform. Beyond his skills in development and design, his strong business acumen made it great to work with him, as he always considered strategic planning of where the company could go depending on design and development decisions. Paris' skills make him a triple threat, and I know he will flourish as a leader in his career. I look forward to the opportunity to work with him again."
+            ],
+            [
+                "Ayana Sellassie, M.S.",
+                "User Experience Research, Design, & Strategy",
+                "February 1, 2017, Ayana worked with Paris Xavier in different groups"
+            ],
+            [
+                "Ayana Sellassie, M.S.",
+                "User Experience Research, Design, & Strategy",
+                "February 1, 2017, Ayana worked with Paris Xavier in different groups"
+            ],
+            [
+                "Ayana Sellassie, M.S.",
+                "User Experience Research, Design, & Strategy",
+                "February 1, 2017, Ayana worked with Paris Xavier in different groups"
+            ],
+            "User Experience Research, Design, & Strategy",
+            [
+                "If I could define Paris in one word, it would either be dedication or brilliance. Working at Marqeta with Paris, I learned of his great work ethic to get things done and to take on challenges to learn things he didn't already know that would help the development of the Marqeta brand and website. It's impossible not to be inspired by his impeccable dedication. His knack for thinking of innovative ideas  is contagious. I watched him evolve from a graphic designer to a web developer, coding for the iOS mobile platform. Beyond his skills in development and design, his strong business acumen made it great to work with him, as he always considered strategic planning of where the company could go depending on design and development decisions. Paris' skills make him a triple threat, and I know he will flourish as a leader in his career. I look forward to the opportunity to work with him again."
+            ],
+            [
+                "If I could define Paris in one word, it would either be dedication or brilliance. Working at Marqeta with Paris, I learned of his great work ethic to get things done and to take on challenges to learn things he didn't already know that would help the development of the Marqeta brand and website. It's impossible not to be inspired by his impeccable dedication. His knack for thinking of innovative ideas  is contagious. I watched him evolve from a graphic designer to a web developer, coding for the iOS mobile platform. Beyond his skills in development and design, his strong business acumen made it great to work with him, as he always considered strategic planning of where the company could go depending on design and development decisions. Paris' skills make him a triple threat, and I know he will flourish as a leader in his career. I look forward to the opportunity to work with him again."
+            ],
+            [
+                "Mark Lopez",
+                "COO at iControl Data Solutions",
+                "February 3, 2015, Paris Xavier worked with Mark in the same group",
+                "Paris and I worked together at Marqeta for over 2 1/2 years. I always enjoyed every moment working with Paris. Paris brings tremendous intelligence and a very strong work ethic to everything he does. I admire how Paris moved from a Designer role to and IOS engineering role with almost zero guidance. That was a remarkable accomplishment. Paris played a key role in shipping our mobile apps as well as mentoring other designers. His contributions were significant and his ping pong matches were fierce. I hope I get the opportunity to work with Paris again!"
+            ],
+            [
+                "Mark Lopez",
+                "COO at iControl Data Solutions",
+                "February 3, 2015, Paris Xavier worked with Mark in the same group"
+            ],
+            [
+                "Mark Lopez",
+                "COO at iControl Data Solutions",
+                "February 3, 2015, Paris Xavier worked with Mark in the same group"
+            ],
+            [
+                "Mark Lopez",
+                "COO at iControl Data Solutions",
+                "February 3, 2015, Paris Xavier worked with Mark in the same group"
+            ],
+            "COO at iControl Data Solutions",
+            [
+                "Paris and I worked together at Marqeta for over 2 1/2 years. I always enjoyed every moment working with Paris. Paris brings tremendous intelligence and a very strong work ethic to everything he does. I admire how Paris moved from a Designer role to and IOS engineering role with almost zero guidance. That was a remarkable accomplishment. Paris played a key role in shipping our mobile apps as well as mentoring other designers. His contributions were significant and his ping pong matches were fierce. I hope I get the opportunity to work with Paris again!"
+            ],
+            [
+                "Paris and I worked together at Marqeta for over 2 1/2 years. I always enjoyed every moment working with Paris. Paris brings tremendous intelligence and a very strong work ethic to everything he does. I admire how Paris moved from a Designer role to and IOS engineering role with almost zero guidance. That was a remarkable accomplishment. Paris played a key role in shipping our mobile apps as well as mentoring other designers. His contributions were significant and his ping pong matches were fierce. I hope I get the opportunity to work with Paris again!"
+            ],
+            [
+                "Holly Sonne",
+                "Communications Director at Lafayette Chamber of Commerce",
+                "November 7, 2011, Holly was senior to Paris Xavier but didn’t manage directly",
+                "We’ve been very impressed with Paris and actually he’s made impressions on our clients as well. He is very dedicated, professional not arrogant, and extremely talented. He has great communications skills but isn’t boisterous or overly salesman-like. He knows his stuff, is a fast learner and very eager to learn more. Plus he has a great personality!  Thanks for all your help, Paris!"
+            ],
+            [
+                "Holly Sonne",
+                "Communications Director at Lafayette Chamber of Commerce",
+                "November 7, 2011, Holly was senior to Paris Xavier but didn’t manage directly"
+            ],
+            [
+                "Holly Sonne",
+                "Communications Director at Lafayette Chamber of Commerce",
+                "November 7, 2011, Holly was senior to Paris Xavier but didn’t manage directly"
+            ],
+            [
+                "Holly Sonne",
+                "Communications Director at Lafayette Chamber of Commerce",
+                "November 7, 2011, Holly was senior to Paris Xavier but didn’t manage directly"
+            ],
+            "Communications Director at Lafayette Chamber of Commerce",
+            [
+                "We’ve been very impressed with Paris and actually he’s made impressions on our clients as well. He is very dedicated, professional not arrogant, and extremely talented. He has great communications skills but isn’t boisterous or overly salesman-like. He knows his stuff, is a fast learner and very eager to learn more. Plus he has a great personality!  Thanks for all your help, Paris!"
+            ],
+            [
+                "We’ve been very impressed with Paris and actually he’s made impressions on our clients as well. He is very dedicated, professional not arrogant, and extremely talented. He has great communications skills but isn’t boisterous or overly salesman-like. He knows his stuff, is a fast learner and very eager to learn more. Plus he has a great personality!  Thanks for all your help, Paris!"
+            ],
+            [
+                "Stephanie Walters Marrone",
+                "Seeking new opportunities. 20+ years experience as franchise owner,  event planner, sales, marketing  and HR manager",
+                "October 31, 2011, Paris Xavier worked with Stephanie in the same group",
+                "Paris only worked for LamorindaWeb for a short-time. He was however enthusiastic, creative  and punctual in all that he did during his internship with us. Great guy!"
+            ],
+            [
+                "Stephanie Walters Marrone",
+                "Seeking new opportunities. 20+ years experience as franchise owner,  event planner, sales, marketing  and HR manager",
+                "October 31, 2011, Paris Xavier worked with Stephanie in the same group"
+            ],
+            [
+                "Stephanie Walters Marrone",
+                "Seeking new opportunities. 20+ years experience as franchise owner,  event planner, sales, marketing  and HR manager",
+                "October 31, 2011, Paris Xavier worked with Stephanie in the same group"
+            ],
+            [
+                "Stephanie Walters Marrone",
+                "Seeking new opportunities. 20+ years experience as franchise owner,  event planner, sales, marketing  and HR manager",
+                "October 31, 2011, Paris Xavier worked with Stephanie in the same group"
+            ],
+            "Seeking new opportunities. 20+ years experience as franchise owner,  event planner, sales, marketing  and HR manager",
+            [
+                "Paris only worked for LamorindaWeb for a short-time. He was however enthusiastic, creative  and punctual in all that he did during his internship with us. Great guy!"
+            ],
+            [
+                "Paris only worked for LamorindaWeb for a short-time. He was however enthusiastic, creative  and punctual in all that he did during his internship with us. Great guy!"
+            ],
+            [
+                "Lauren Reid",
+                "Professional Makeup Artist",
+                "June 2, 2011, Lauren was a client of Paris Xavier’s",
+                "Paris, with PXP Graphics, was a pleasure to work with.  I was in need of a logo, and within the first day of talking to Paris I already had sketches waiting for me in my inbox.  Not only was he quick, but his work was quality.  Paris was very patient with me during the process and was able and willing to offer assistance after the transaction was finalized.  I strongly recommend Paris to anyone at any level; whether you are clueless as to what it is you're looking for, to being picky and compulsive over your design, Paris will get it done."
+            ],
+            [
+                "Lauren Reid",
+                "Professional Makeup Artist",
+                "June 2, 2011, Lauren was a client of Paris Xavier’s"
+            ],
+            [
+                "Lauren Reid",
+                "Professional Makeup Artist",
+                "June 2, 2011, Lauren was a client of Paris Xavier’s"
+            ],
+            [
+                "Lauren Reid",
+                "Professional Makeup Artist",
+                "June 2, 2011, Lauren was a client of Paris Xavier’s"
+            ],
+            "Professional Makeup Artist",
+            [
+                "Paris, with PXP Graphics, was a pleasure to work with.  I was in need of a logo, and within the first day of talking to Paris I already had sketches waiting for me in my inbox.  Not only was he quick, but his work was quality.  Paris was very patient with me during the process and was able and willing to offer assistance after the transaction was finalized.  I strongly recommend Paris to anyone at any level; whether you are clueless as to what it is you're looking for, to being picky and compulsive over your design, Paris will get it done."
+            ],
+            [
+                "Paris, with PXP Graphics, was a pleasure to work with.  I was in need of a logo, and within the first day of talking to Paris I already had sketches waiting for me in my inbox.  Not only was he quick, but his work was quality.  Paris was very patient with me during the process and was able and willing to offer assistance after the transaction was finalized.  I strongly recommend Paris to anyone at any level; whether you are clueless as to what it is you're looking for, to being picky and compulsive over your design, Paris will get it done."
+            ],
+            [
+                "Lawrence McCullum",
+                "Owner, L.B.M. Studios",
+                "March 30, 2011, Lawrence was a client of Paris Xavier’s",
+                "PXPGraphics is awesome. Very knowledgable, new and inventive ideas and highly professional. I will continue to use and support PXPGraphics. I suggest you all do the same!Lawrence McCullum: lbmstudios.com"
+            ],
+            [
+                "Lawrence McCullum",
+                "Owner, L.B.M. Studios",
+                "March 30, 2011, Lawrence was a client of Paris Xavier’s"
+            ],
+            [
+                "Lawrence McCullum",
+                "Owner, L.B.M. Studios",
+                "March 30, 2011, Lawrence was a client of Paris Xavier’s"
+            ],
+            [
+                "Lawrence McCullum",
+                "Owner, L.B.M. Studios",
+                "March 30, 2011, Lawrence was a client of Paris Xavier’s"
+            ],
+            "Owner, L.B.M. Studios",
+            [
+                "PXPGraphics is awesome. Very knowledgable, new and inventive ideas and highly professional. I will continue to use and support PXPGraphics. I suggest you all do the same!Lawrence McCullum: lbmstudios.com"
+            ],
+            [
+                "PXPGraphics is awesome. Very knowledgable, new and inventive ideas and highly professional. I will continue to use and support PXPGraphics. I suggest you all do the same!Lawrence McCullum: lbmstudios.com"
+            ],
+            [
+                "Joshua Casas, MBA, CAPM®",
+                "Project Manager - Business Process Improvement",
+                "February 15, 2011, Joshua worked with Paris Xavier but at different companies",
+                "PXP Graphics did an amazing job designing a logo and website for my company! Efficient and modern websites are necessary in todays market, PXP Graphics did just that. Thanks."
+            ],
+            [
+                "Joshua Casas, MBA, CAPM®",
+                "Project Manager - Business Process Improvement",
+                "February 15, 2011, Joshua worked with Paris Xavier but at different companies"
+            ],
+            [
+                "Joshua Casas, MBA, CAPM®",
+                "Project Manager - Business Process Improvement",
+                "February 15, 2011, Joshua worked with Paris Xavier but at different companies"
+            ],
+            [
+                "Joshua Casas, MBA, CAPM®",
+                "Project Manager - Business Process Improvement",
+                "February 15, 2011, Joshua worked with Paris Xavier but at different companies"
+            ],
+            "Project Manager - Business Process Improvement",
+            [
+                "PXP Graphics did an amazing job designing a logo and website for my company! Efficient and modern websites are necessary in todays market, PXP Graphics did just that. Thanks."
+            ],
+            [
+                "PXP Graphics did an amazing job designing a logo and website for my company! Efficient and modern websites are necessary in todays market, PXP Graphics did just that. Thanks."
+            ],
+            [
+                "Moraa Bey",
+                "Owner at Beautiful  Loks",
+                "June 8, 2015, Paris Xavier was a client of Moraa’s",
+                "Moraa was amazing from the second a picked up the phone for a consultation. She worked with my schedule to get me in ASAP, which I was very fortunate for. I learned so much about her process and how passionate she was about her skills while I was there and knew as soon as I sat down that I had chosen the right place for my hair style.I will definitely be back repeatedly to have Moraa tighten my locks. The atmosphere was very peaceful, and she made sure I had a pleasant and relaxing atmosphere.Thanks again!"
+            ],
+            [
+                "Moraa Bey",
+                "Owner at Beautiful  Loks",
+                "June 8, 2015, Paris Xavier was a client of Moraa’s"
+            ],
+            [
+                "Moraa Bey",
+                "Owner at Beautiful  Loks",
+                "June 8, 2015, Paris Xavier was a client of Moraa’s"
+            ],
+            [
+                "Moraa Bey",
+                "Owner at Beautiful  Loks",
+                "June 8, 2015, Paris Xavier was a client of Moraa’s"
+            ],
+            "Owner at Beautiful  Loks",
+            [
+                "Moraa was amazing from the second a picked up the phone for a consultation. She worked with my schedule to get me in ASAP, which I was very fortunate for. I learned so much about her process and how passionate she was about her skills while I was there and knew as soon as I sat down that I had chosen the right place for my hair style.I will definitely be back repeatedly to have Moraa tighten my locks. The atmosphere was very peaceful, and she made sure I had a pleasant and relaxing atmosphere.Thanks again!"
+            ],
+            [
+                "Moraa was amazing from the second a picked up the phone for a consultation. She worked with my schedule to get me in ASAP, which I was very fortunate for. I learned so much about her process and how passionate she was about her skills while I was there and knew as soon as I sat down that I had chosen the right place for my hair style.I will definitely be back repeatedly to have Moraa tighten my locks. The atmosphere was very peaceful, and she made sure I had a pleasant and relaxing atmosphere.Thanks again!"
+            ],
+            [
+                "Ayana Sellassie, M.S.",
+                "User Experience Research, Design, & Strategy",
+                "April 19, 2015, Paris Xavier worked with Ayana in different groups",
+                "Working with Ayana was a true pleasure! Her motivation, problem solving and patience was an asset to our support and client services teams at Marqeta.During my role as a designer, Ayana helped clarify user flows and showcased other potential roadblocks that a typical user may see while using our products—it helped having a user ambassador within your own office.Years later, during my role as a developer, Ayana and I discussed wireframes and concepts to for our early mobile app prototypes. This helped us tremendously to prevent potential bugs and edge cases while writing the source code.Overall, Ayana was a great asset and I hope to work with her again on another project!"
+            ],
+            [
+                "Ayana Sellassie, M.S.",
+                "User Experience Research, Design, & Strategy",
+                "April 19, 2015, Paris Xavier worked with Ayana in different groups"
+            ],
+            [
+                "Ayana Sellassie, M.S.",
+                "User Experience Research, Design, & Strategy",
+                "April 19, 2015, Paris Xavier worked with Ayana in different groups"
+            ],
+            [
+                "Ayana Sellassie, M.S.",
+                "User Experience Research, Design, & Strategy",
+                "April 19, 2015, Paris Xavier worked with Ayana in different groups"
+            ],
+            "User Experience Research, Design, & Strategy",
+            [
+                "Working with Ayana was a true pleasure! Her motivation, problem solving and patience was an asset to our support and client services teams at Marqeta.During my role as a designer, Ayana helped clarify user flows and showcased other potential roadblocks that a typical user may see while using our products—it helped having a user ambassador within your own office.Years later, during my role as a developer, Ayana and I discussed wireframes and concepts to for our early mobile app prototypes. This helped us tremendously to prevent potential bugs and edge cases while writing the source code.Overall, Ayana was a great asset and I hope to work with her again on another project!"
+            ],
+            [
+                "Working with Ayana was a true pleasure! Her motivation, problem solving and patience was an asset to our support and client services teams at Marqeta.During my role as a designer, Ayana helped clarify user flows and showcased other potential roadblocks that a typical user may see while using our products—it helped having a user ambassador within your own office.Years later, during my role as a developer, Ayana and I discussed wireframes and concepts to for our early mobile app prototypes. This helped us tremendously to prevent potential bugs and edge cases while writing the source code.Overall, Ayana was a great asset and I hope to work with her again on another project!"
+            ]
+        ],
+        "skills": [
+            [
+                "Swift",
+                "See 2 endorsements for Swift",
+                "2",
+                "Swift",
+                "Endorse",
+                "Endorsed by Jacque Watson Jr. (mutual connection)"
+            ],
+            [
+                "Swift",
+                "See 2 endorsements for Swift",
+                "2"
+            ],
+            [
+                "Objective-C",
+                "See 6 endorsements for Objective-C",
+                "6",
+                "Objective-C",
+                "Endorse",
+                "Endorsed by Jacque Watson Jr. (mutual connection)"
+            ],
+            [
+                "Objective-C",
+                "See 6 endorsements for Objective-C",
+                "6"
+            ],
+            [
+                "C",
+                "See 2 endorsements for C",
+                "2",
+                "C",
+                "Endorse",
+                "Endorsed by Jacque Watson Jr. (mutual connection)"
+            ],
+            [
+                "C",
+                "See 2 endorsements for C",
+                "2"
+            ]
+        ],
+        "summary": "    Specializing in market research and advertising campaign management to graphic design and creative direction, Paris has held positions in advertising and marketing as well as design and development.Currently, he is utilizing his advanced understanding of design (conceptual & UI/UX) for native iPhone & iPad apps while evolving his skills as an iOS Engineer with Xcode, Cocoa Touch, Objective-C and Swift with the Scribd team. While following SOLID principles, Clean Code, Agile, and TDD/BDD methodologies.He's currently working on a handful of side projects to accentuate his understanding of design and development for both web and mobile—My Daily Grind (http://www.mydailygrind.io/), VLNRABLE (http://www.vlnrableapp.com/), myRoommates (coming soon), Core 40 (coming soon).Prior to his position with Scribd, Paris has worked for several companies in the Pacific (California, Oregon, Washington, Nevada, Arizona, and Colorado), where he has refined his skills in the Adobe Creative Suite, FQL, HTML5, CSS3, HAML, SASS/SCSS/LESS, C, Python, Javascript, jQuery, Xcode, photography, photo editing, painting and audio & video editing.\n  \n  \n",
+        "name": "Paris Xavier Pinkney",
+        "title": "iOS Engineer at Scribd",
+        "url": "linkedin.com/in/pxpgraphics",
+        "phone": "702.349.4916 (Mobile)",
+        "email": "paris.pinkney@pxpgraphics.com"
+    }
+]

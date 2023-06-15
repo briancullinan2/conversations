@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6212326686290165760/",
+    "participants": [
+        {
+            "name": "Timothy Kojetin",
+            "title": "Sr. Customer Success Manager at SendGrid",
+            "url": "linkedin.com/in/timkojetin",
+            "phone": "612-716-0352 (Mobile)",
+            "email": "timothy.kojetin@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-07T18:08:00.000Z"
+        }
+    ]
+}

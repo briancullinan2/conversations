@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6214460419059310593/",
+    "participants": [
+        {
+            "name": "Buddy Teaster",
+            "title": "CEO at Soles4Souls, Inc.",
+            "url": "linkedin.com/in/buddyteaster",
+            "phone": null,
+            "email": "buddyt@soles4souls.org"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "I appreciate you and your cause.\n",
+            "time": "2017-12-13T15:27:00.000Z"
+        },
+        {
+            "from": "Buddy Teaster",
+            "message": "Thanks!\n",
+            "time": "2017-12-13T15:39:00.000Z"
+        }
+    ]
+}

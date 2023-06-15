@@ -1,0 +1,49 @@
+{
+    "thread": "/messaging/thread/6195250408873619456/",
+    "participants": [
+        {
+            "name": "Tim Cook",
+            "title": "CEO, PcTechmate",
+            "url": "linkedin.com/in/tim-cook-11488542",
+            "phone": null,
+            "email": "tim@chamisa.co"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "How are you?",
+            "time": "2017-10-05T15:13:00.000Z"
+        },
+        {
+            "from": "Tim Cook",
+            "message": "Doing ok. How are you",
+            "time": "2017-10-05T18:07:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Super, sink is still operating.",
+            "time": "2017-10-05T18:09:00.000Z"
+        },
+        {
+            "from": "Tim Cook",
+            "message": "Well that's good",
+            "time": "2017-10-05T18:09:00.000Z"
+        },
+        {
+            "from": "Tim Cook",
+            "message": "Em finally had a successful surgery a couple of months ago. doing better",
+            "time": "2017-10-05T18:09:00.000Z"
+        },
+        {
+            "from": "Tim Cook",
+            "message": "doesnt fix the problem but eliminated the pain",
+            "time": "2017-10-05T18:13:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "That's good.",
+            "time": "2017-10-05T18:14:00.000Z"
+        }
+    ]
+}

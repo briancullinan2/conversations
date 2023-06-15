@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6335514119696891904/",
+    "participants": [
+        {
+            "name": "Brian Benko",
+            "title": "The Clean Bedroom",
+            "url": "linkedin.com/in/brianbenko1",
+            "phone": "6175498400 (Home)",
+            "email": "Brian@thecleanbedroom.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Brian Benko",
+            "message": "",
+            "time": "2017-11-12T16:31:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-11-13T16:27:00.000Z"
+        }
+    ]
+}

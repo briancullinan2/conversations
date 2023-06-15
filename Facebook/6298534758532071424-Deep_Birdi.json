@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6298534758532071424/",
+    "participants": [
+        {
+            "name": "Deep Birdi",
+            "title": "Business Development Executive",
+            "url": "linkedin.com/in/deep-birdi-44a0b3117",
+            "phone": "",
+            "email": "imbirdi@hotmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Deep Birdi",
+            "time": "2017-08-02T06:54:00.000Z",
+            "message": "Hi,\r\nI am Technical Head of my IT company based in India right now, we are looking for strategic growth around the world, Would like to connect for the same.\r\n\r\nThanks and Regards\r\nDeep\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-08-02T15:28:00.000Z",
+            "message": "Thank you for contacting!\n"
+        }
+    ]
+}

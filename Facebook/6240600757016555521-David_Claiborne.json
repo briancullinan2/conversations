@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6240600757016555521/",
+    "participants": [
+        {
+            "name": "David Claiborne",
+            "title": "Developer at Coplex",
+            "url": "linkedin.com/in/daclaiborne",
+            "phone": null,
+            "email": "david@coplex.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-23T18:39:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

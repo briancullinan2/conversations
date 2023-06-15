@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6346038567957078016/",
+    "participants": [
+        {
+            "name": "Neil Shah",
+            "title": "Executive Recruiter at HeadFarmer, LLC",
+            "url": "linkedin.com/in/njshah",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-12-11T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-12-19T18:17:00.000Z"
+        },
+        {
+            "from": "Neil Shah",
+            "message": "",
+            "time": "2017-12-19T23:34:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-12-21T17:14:00.000Z"
+        },
+        {
+            "from": "Neil Shah",
+            "message": "",
+            "time": "2017-12-22T17:15:00.000Z"
+        }
+    ]
+}

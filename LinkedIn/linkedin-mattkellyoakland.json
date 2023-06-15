@@ -1,0 +1,495 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "8 Mutual Connections",
+                "You and Matt both know Lloyd Hohenstein, Nicole Stefanski, and 6 others"
+            ],
+            [
+                "You both worked at Charles Schwab",
+                "You both worked at Charles Schwab from Nov 2016 to Feb 2017"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Business / Technical Analyst / Data Miner",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "Apr 2005 – Feb 2017",
+                "Employment Duration",
+                "11 yrs 11 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "• CA Data Minder Data Protection / Orchestria technical lead. Supported all aspects of multi-tiered digital loss prevention (DLP) application infrastructure. Architected and implemented upgrades from v4.7 through v15.2, including 8000+ client agent distribution. Implemented Oracle partition maintenance and data purging. Managed automated user Hierarchy via advanced LDAP queries through HR re-orgs and various custom business requirements. Built Vbscript applets to pro-actively warn the team of upstream message issues and ingestion delays (~1 million message per day loads).• Oracle Enterprise Performance Management (Hyperion/Brio) Reporting. Administration, reporting, dashboard design and implementation, SQL data-mining and query optimization. Architected upgrades from version 6, 8, 9 to EPM 11. Created interactive dashboards to extend application functionality to various internal user applications. Worked directly with business users to gather requirements for various regulatory and metrics based scheduled and ad-hoc reports. Began migration to Tableau/Alteryx foundation.• Performed multiple upgrades on Linux and Windows, patching, and security hardening including SSL configuration and maintenance. Gathered requirements, architected solution, managed implementation resources, and performed final implementation. Created, documented and tested DR plans for each upgrade. Utilized Agile and RUP methodologies, as well as JIRA and Remedy based project tracking.• Supported Oracle/Mantas Insight -- a Compliance and Risk Behavior Detection (Pattern Based Detection) application used for anti-fraud, AML (anti-money laundering), broker monitoring, ect. On-Call for ESP/Autosys based nightly batch comprised of hundreds of data loading, aggregating, and algorithm jobs. Troubleshooting included: Linux shell scripts, Oracle table loading via Informatica, SQL query optimization, and view and procedure issues."
+            ],
+            [
+                "Systems Administrator",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "May 1999 – May 2005",
+                "Employment Duration",
+                "6 yrs 1 mo",
+                "Location",
+                "San Francisco Bay Area",
+                "•\tWindows infrastructure administrator for 1000+ server raised floor environment •\tSupport and implementation for hardware life cycle including: Server implementation, monitoring, break/fix, disaster recover (DR), emergency patching.•\tTechnologies included: Active Directory, Exchange, Clustering, Printing, Vendor Applications, SAN (Hitachi / McData) and NAS.•\tData security officer for 1000 user environment. Managed virus updates on servers and desktops.•\tAdvanced Vbscript design. Created Active Directory monitoring tool to remove disabled user data and DFS links. Designed real-time SAN space monitoring website for SA use and upper management planning. Built automation and monitoring tools as needed to increase productivity.•\tLegato/Alphastor tape library backup / restores (including full Exchange recovery).•\tScripted application deployments to Windows desktops using WISE, Vbscript and batch scripts."
+            ],
+            [
+                "Margins Analyst",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "Jan 1997 – Apr 1999",
+                "Employment Duration",
+                "2 yrs 4 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "• Obtained Series 7 and 63 licenses. Performed continuing education and both licenses are still active as of 2015.• Analyzed trading activity for violations. Worked with risk management team to mitigate financial risk of various trading scenarios.  • Served as escalation point for Schwab branch and call center representatives to explain complex margins and options trading details on customer accounts. Worked directly with customers to resolve trading violations, margin calls, and risk related sell-outs."
+            ],
+            [
+                "Finance Operations Support",
+                "Company Name",
+                "Chicago Mercantile Exchange",
+                "Dates Employed",
+                "Aug 1995 – Aug 1996",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "Chicago",
+                "Supported financial unit of the CME clearing house. Analyzed financial data of member firms and settlement banks. Performed twice daily options settlement cycle that entailed wiring millions of dollars via the Fed wire under high-pressure time constraints."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of California, Berkeley",
+                "Degree Name",
+                "BA",
+                "Field Of Study",
+                "Political Economics",
+                "Grade",
+                "3.7",
+                "Dates attended or expected graduation",
+                "1991 – 1995",
+                "Activities and Societies:",
+                "Minor in German Literature, Student Union Entertainment Promotion -- Lower Sproul Noon Concerts",
+                "Political Economy of Industrial Societies. German. Concert promotions at Zellerbach Hall, Sproul Plaza, the Bear's Lair"
+            ],
+            [
+                "University of California, Berkeley",
+                "Degree Name",
+                "BA",
+                "Field Of Study",
+                "Political Economics",
+                "Grade",
+                "3.7",
+                "Dates attended or expected graduation",
+                "1991 – 1995",
+                "Activities and Societies:",
+                "Minor in German Literature, Student Union Entertainment Promotion -- Lower Sproul Noon Concerts",
+                "Political Economy of Industrial Societies. German. Concert promotions at Zellerbach Hall, Sproul Plaza, the Bear's Lair"
+            ],
+            [
+                "Naperville Central",
+                "Degree Name",
+                "Graduated 13th in class of over 650",
+                "Field Of Study",
+                "Calculus, AP History, Chemistry, and Physics.",
+                "Grade",
+                "4.4",
+                "Dates attended or expected graduation",
+                "1988 – 1991",
+                "Activities and Societies:",
+                "Varsity Tennis",
+                "National Honor Society",
+                "Calculus, Humanities, German"
+            ],
+            [
+                "Naperville Central",
+                "Degree Name",
+                "Graduated 13th in class of over 650",
+                "Field Of Study",
+                "Calculus, AP History, Chemistry, and Physics.",
+                "Grade",
+                "4.4",
+                "Dates attended or expected graduation",
+                "1988 – 1991",
+                "Activities and Societies:",
+                "Varsity Tennis",
+                "National Honor Society",
+                "Calculus, Humanities, German"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Concert Promotions",
+                "Company Name",
+                "ASUC SUPERB",
+                "Dates volunteered",
+                "Oct 1991 – Jun 1994",
+                "Volunteer duration",
+                "2 yrs 9 mos",
+                "Promoted concerts and special events at various campus venues including Zellerbach Hall, Greek Theater, Lower Sproul Plaza, and the Bear's Lair.Events included: Green Day, Penn and Teller, No Doubt, Violent Femmes, Fugazi.Organized all aspects of events, including marketing, negotiation, and day-of planning and logistics."
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "BI Architecture",
+                "5,059 members"
+            ],
+            [
+                "Fans of Brio / Hyperion Interactive Reporting ( IR )",
+                "494 members"
+            ],
+            [
+                "University of California, Berkeley",
+                "542,830 followers"
+            ],
+            [
+                "University of California, Berkeley",
+                "502,606 followers"
+            ],
+            [
+                "Charles Schwab",
+                "104,633 followers"
+            ],
+            [
+                "See connections (94)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "BI Architecture",
+                "5,059 members"
+            ],
+            [
+                "BI Architecture",
+                "5,059 members"
+            ],
+            [
+                "Fans of Brio / Hyperion Interactive Reporting ( IR )",
+                "494 members"
+            ],
+            [
+                "Fans of Brio / Hyperion Interactive Reporting ( IR )",
+                "494 members"
+            ],
+            [
+                "University of California, Berkeley",
+                "542,830 followers"
+            ],
+            [
+                "University of California, Berkeley",
+                "542,830 followers"
+            ],
+            [
+                "University of California, Berkeley",
+                "502,606 followers"
+            ],
+            [
+                "University of California, Berkeley",
+                "502,606 followers"
+            ],
+            [
+                "Charles Schwab",
+                "104,633 followers"
+            ],
+            [
+                "Charles Schwab",
+                "104,633 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Data Warehousing",
+                "See 6 endorsements for Data Warehousing",
+                "6",
+                "Data Warehousing",
+                "Endorse",
+                "Endorsed by 4 of Matt’s colleagues at Charles Schwab"
+            ],
+            [
+                "Data Warehousing",
+                "See 6 endorsements for Data Warehousing",
+                "6"
+            ],
+            [
+                "Software Development Life Cycle (SDLC)",
+                "See 3 endorsements for Software Development Life Cycle (SDLC)",
+                "3",
+                "Software Development Life Cycle (SDLC)",
+                "Endorse",
+                "Endorsed by 3 connections"
+            ],
+            [
+                "Software Development Life Cycle (SDLC)",
+                "See 3 endorsements for Software Development Life Cycle (SDLC)",
+                "3"
+            ],
+            [
+                "Data Modeling",
+                "See 2 endorsements for Data Modeling",
+                "2",
+                "Data Modeling",
+                "Endorse",
+                "Vikash Shrivastava (Vicky) and 1 connection have given endorsements for this skill"
+            ],
+            [
+                "Data Modeling",
+                "See 2 endorsements for Data Modeling",
+                "2"
+            ],
+            [
+                "Risk Management",
+                "See 2 endorsements for Risk Management",
+                "2",
+                "Risk Management",
+                "Endorse"
+            ],
+            [
+                "Risk Management",
+                "See 2 endorsements for Risk Management",
+                "2"
+            ],
+            [
+                "SQL",
+                "See 2 endorsements for SQL",
+                "2",
+                "SQL",
+                "Endorse"
+            ],
+            [
+                "SQL",
+                "See 2 endorsements for SQL",
+                "2"
+            ],
+            [
+                "Oracle",
+                "See 2 endorsements for Oracle",
+                "2",
+                "Oracle",
+                "Endorse"
+            ],
+            [
+                "Oracle",
+                "See 2 endorsements for Oracle",
+                "2"
+            ],
+            [
+                "Teradata",
+                "Teradata",
+                "Endorse"
+            ],
+            [
+                "Teradata"
+            ],
+            [
+                "ETL",
+                "ETL",
+                "Endorse"
+            ],
+            [
+                "ETL"
+            ],
+            [
+                "Toad",
+                "Toad",
+                "Endorse"
+            ],
+            [
+                "Toad"
+            ],
+            [
+                "VBA",
+                "VBA",
+                "Endorse"
+            ],
+            [
+                "VBA"
+            ],
+            [
+                "VBScript",
+                "VBScript",
+                "Endorse"
+            ],
+            [
+                "VBScript"
+            ],
+            [
+                "Linux System Administration",
+                "Linux System Administration",
+                "Endorse"
+            ],
+            [
+                "Linux System Administration"
+            ],
+            [
+                "JavaScript",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript"
+            ],
+            [
+                "Windows System Administration",
+                "Windows System Administration",
+                "Endorse"
+            ],
+            [
+                "Windows System Administration"
+            ],
+            [
+                "Informatica",
+                "Informatica",
+                "Endorse"
+            ],
+            [
+                "Informatica"
+            ],
+            [
+                "Brio Reports",
+                "Brio Reports",
+                "Endorse"
+            ],
+            [
+                "Brio Reports"
+            ],
+            [
+                "Hyperion Interactive Reporting",
+                "Hyperion Interactive Reporting",
+                "Endorse"
+            ],
+            [
+                "Hyperion Interactive Reporting"
+            ],
+            [
+                "Hyperion EPM",
+                "Hyperion EPM",
+                "Endorse"
+            ],
+            [
+                "Hyperion EPM"
+            ],
+            [
+                "Hyperion Performance Suite",
+                "Hyperion Performance Suite",
+                "Endorse"
+            ],
+            [
+                "Hyperion Performance Suite"
+            ],
+            [
+                "Data Mining",
+                "Data Mining",
+                "Endorse"
+            ],
+            [
+                "Data Mining"
+            ],
+            [
+                "Business Resumption Planning",
+                "Business Resumption Planning",
+                "Endorse"
+            ],
+            [
+                "Business Resumption Planning"
+            ],
+            [
+                "ESP",
+                "ESP",
+                "Endorse"
+            ],
+            [
+                "ESP"
+            ],
+            [
+                "Batch Processing",
+                "Batch Processing",
+                "Endorse"
+            ],
+            [
+                "Batch Processing"
+            ],
+            [
+                "Dashboarding",
+                "Dashboarding",
+                "Endorse"
+            ],
+            [
+                "Dashboarding"
+            ],
+            [
+                "LDAP Administration",
+                "LDAP Administration",
+                "Endorse"
+            ],
+            [
+                "LDAP Administration"
+            ],
+            [
+                "Active Directory",
+                "Active Directory",
+                "Endorse"
+            ],
+            [
+                "Active Directory"
+            ],
+            [
+                "Project Planning",
+                "Project Planning",
+                "Endorse"
+            ],
+            [
+                "Project Planning"
+            ],
+            [
+                "Orchestria",
+                "Orchestria",
+                "Endorse"
+            ],
+            [
+                "Orchestria"
+            ],
+            [
+                "Digital Loss Prevention",
+                "Digital Loss Prevention",
+                "Endorse"
+            ],
+            [
+                "Digital Loss Prevention"
+            ]
+        ],
+        "summary": "    Looking actively for new opportunities. Business Intelligence (BI) and technical analyst with extensive history managing multi-tiered enterprise grade finance, HR and corporate oversight applications from design to implementation, through support, upgrades and retirement. Any micro-breweries or vineyards looking for IT or brewfloor talent, please let me know.\n  \n  \n",
+        "name": "Matt Kelly",
+        "title": "Business / Technical Analyst at Charles Schwab",
+        "url": "linkedin.com/in/mattkellyoakland",
+        "phone": "",
+        "email": "mkkelly@gmail.com"
+    }
+]

@@ -1,0 +1,839 @@
+[
+    {
+        "resourceName": "people/c7609866352812146051",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgxBM3c5Q1ppMVRyMD0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "699bad210b90bd83"
+                    }
+                },
+                "displayName": "Abe Pralle",
+                "familyName": "Pralle",
+                "givenName": "Abe",
+                "displayNameLastFirst": "Pralle, Abe"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "116858016035247999737"
+                    }
+                },
+                "displayName": "Abe Pralle",
+                "familyName": "Pralle",
+                "givenName": "Abe",
+                "displayNameLastFirst": "Pralle, Abe"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "699bad210b90bd83"
+                    }
+                },
+                "value": "abe.pralle@gmail.com",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "699bad210b90bd83"
+                    }
+                },
+                "value": "+1-928-853-2666",
+                "canonicalForm": "+19288532666",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "40 Mutual Connections",
+                "You and Abe both know Luke Hohmann, Matthew Shanker, and 38 others"
+            ],
+            [
+                "You both studied at Northern Arizona University",
+                "You both studied at Northern Arizona University in 2005"
+            ],
+            [
+                "Show more",
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Partner",
+                "Company Name",
+                "Kati Vegan Thai",
+                "Dates Employed",
+                "Sep 2015 – Present",
+                "Employment Duration",
+                "2 yrs 2 mos",
+                "Location",
+                "Seattle, WA"
+            ],
+            [
+                "Partner",
+                "Company Name",
+                "Plasmaworks",
+                "Dates Employed",
+                "May 1995 – Present",
+                "Employment Duration",
+                "22 yrs 6 mos",
+                "Location",
+                "Bellevue, WA",
+                "Co-founder of Plasmaworks.Managed the development of many in-house mobile games and apps including:• Hooked On Words (2.9 million downloads)• Puzzle Number 9• Modern Words• Doctor Cog On Safari (designer, programmer)• Zombie Conga (designer, PalmOS programmer)• Mr. Gibs vs the Deathatron• Fish Hunter• Pocket Greetings• Robot Football• Egyptian Triad• A Guy's Night Out• Air Hockey Plasma• Armageddon Rider• Silo MAD (designed prototype)• Deathride: Betrayal (co-designer)• Jetsom Sam• WyrmhunterDesigned and programmed the \"Rogue\" and \"Slag\" general-purpose languages as well as the \"Plasmacore\" game-programming framework that all in-house Plasmaworks games are implemented in.Designed and programmed an Augmented Reality plug-in for Unity for PopAR Toys from scratch.  The technology overlays 3D images on the video view of a physical book's pages for a \"virtual pop-up book\".Programmed a number of games and apps as contract work:• \"Hellcats\" game for CBS (iOS)• Co-programmed \"Top Spin 2\" mobile tennis for MENT (J2ME)• Co-programmed \"Pepe Le Pew in Scent-Imental\" for MENT (J2ME/BREW)Programmed a number of custom simulations that included full-fledged custom GUI interfaces for the NAU Anthropology Department (C++/Rogue)"
+            ],
+            [
+                "VP of Technology",
+                "Company Name",
+                "AdColony",
+                "Dates Employed",
+                "Jul 2012 – Apr 2016",
+                "Employment Duration",
+                "3 yrs 10 mos",
+                "Location",
+                "Kirkland, WA",
+                "Joined AdColony early in its start-up phase and helped it become a $350M company by the time of its sale to Opera Software in 2014.• Seattle Office hire #2 after the CTO.• Managed the process of locating office space.• Built up the Seattle engineering and tech team from scratch, using personal and professional connections to acquire 70% of the engineering talent hired between mid-2012 and mid-2015.• Key contributor to many core policies and procedures as well as the general organization of the Seattle Office.• Managed the development of the AdColony mobile SDK for iOS and Android.• Designed and programmed the AdColony Android SDK V1 and V2.• Designed the V3 \"Aurora\" SDK for iOS and Android.• Designed and programmed the \"Constellation\" V1 and V2 JavaScript framework used by the \"Dynamic End Cards\" shown as a call to action after an AdColony video ad.• Designed and programmed a custom in-house general-purpose language that could cross-compile to JavaScript for iOS as well as to custom machine bytecode for Android, per each platform's requirements and limitations."
+            ],
+            [
+                "Lecturer of Computer Science",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Aug 1995 – May 2011",
+                "Employment Duration",
+                "15 yrs 10 mos",
+                "Location",
+                "Flagstaff, AZ",
+                "Taught approximately 120 sections of 13 different courses ranging from the Freshman Level to the Master's Level.• Intro to Computer Science (Alice / Java)• Programming for Engineering and Science (C / JavaScript / MATLAB)• Programming for Engineering and Science Lab• FORTRAN Programming (FORTRAN 77)• Computer Science I (Java)• Computer Science I Lab (Java)• Electrical Engineering I• Computer Science II (Java)• Computer Organization (x86/IA-32 Assembly)• Digital Logic Lab (68000 Assembly)• Virtual Worlds (Slag, Plasmacore)• Compilers• Game ProductionFaculty sponsor of a resurrected ACM branch circa 2007.Engineering Camp Instructor - spent approximately 10 years as an assistant instructor for two different summer camps: PALS for incoming minority freshmen and STEP-UP for young women interested in engineering.C++ Language Instructor - served as a language trainer and consultant for both the US Geological Survey and the Flagstaff Arts and Leadership Academy (FALA).Computer Game Maker's Club (CGMC) organizer for approximately 10 years (not an officially sponsored NAU club but attended by many NAU CS students)"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Master of Engineering",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2003 – 2005"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Master of Engineering",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2003 – 2005"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor’s Degree",
+                "Field Of Study",
+                "Computer Science and Engineering",
+                "Dates attended or expected graduation",
+                "1991 – 1995"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor’s Degree",
+                "Field Of Study",
+                "Computer Science and Engineering",
+                "Dates attended or expected graduation",
+                "1991 – 1995"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ],
+            [
+                "Infusionsoft",
+                "16,519 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "AppOnboard, Inc.",
+                "414 followers"
+            ],
+            [
+                "Kati Vegan Thai",
+                "1 followers"
+            ],
+            [
+                "Pita Jungle",
+                "484 followers"
+            ],
+            [
+                "See connections (408)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ],
+            [
+                "Infusionsoft",
+                "16,519 followers"
+            ],
+            [
+                "Infusionsoft",
+                "16,519 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "AppOnboard, Inc.",
+                "414 followers"
+            ],
+            [
+                "AppOnboard, Inc.",
+                "414 followers"
+            ],
+            [
+                "Kati Vegan Thai",
+                "1 followers"
+            ],
+            [
+                "Kati Vegan Thai",
+                "1 followers"
+            ],
+            [
+                "Pita Jungle",
+                "484 followers"
+            ],
+            [
+                "Pita Jungle",
+                "484 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Video Games",
+                "See 88 endorsements for Video Games",
+                "88",
+                "Video Games",
+                "Remove Endorsement",
+                "Endorsed by Davis Zanot and 10 other mutual connections",
+                "Endorsed by 16 of Abe’s colleagues at AdColony"
+            ],
+            [
+                "Video Games",
+                "See 88 endorsements for Video Games",
+                "88"
+            ],
+            [
+                "Programming",
+                "See 67 endorsements for Programming",
+                "67",
+                "Programming",
+                "Remove Endorsement",
+                "Endorsed by Ryan Middleton and 3 others who are highly skilled at this",
+                "Endorsed by Joseph Eagar and 9 other mutual connections"
+            ],
+            [
+                "Programming",
+                "See 67 endorsements for Programming",
+                "67"
+            ],
+            [
+                "Android",
+                "See 66 endorsements for Android",
+                "66",
+                "Android",
+                "Remove Endorsement",
+                "Endorsed by Britt Mullen and 1 other who is highly skilled at this",
+                "Endorsed by Travis Addair and 13 other mutual connections"
+            ],
+            [
+                "Android",
+                "See 66 endorsements for Android",
+                "66"
+            ],
+            [
+                "Software Engineering",
+                "See 55 endorsements for Software Engineering",
+                "55",
+                "Software Engineering",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Engineering",
+                "See 55 endorsements for Software Engineering",
+                "55"
+            ],
+            [
+                "Java",
+                "See 52 endorsements for Java",
+                "52",
+                "Java",
+                "Remove Endorsement"
+            ],
+            [
+                "Java",
+                "See 52 endorsements for Java",
+                "52"
+            ],
+            [
+                "Computer Science",
+                "See 51 endorsements for Computer Science",
+                "51",
+                "Computer Science",
+                "Remove Endorsement"
+            ],
+            [
+                "Computer Science",
+                "See 51 endorsements for Computer Science",
+                "51"
+            ],
+            [
+                "C++",
+                "See 44 endorsements for C++",
+                "44",
+                "C++",
+                "Remove Endorsement"
+            ],
+            [
+                "C++",
+                "See 44 endorsements for C++",
+                "44"
+            ],
+            [
+                "Mobile Applications",
+                "See 31 endorsements for Mobile Applications",
+                "31",
+                "Mobile Applications",
+                "Remove Endorsement"
+            ],
+            [
+                "Mobile Applications",
+                "See 31 endorsements for Mobile Applications",
+                "31"
+            ],
+            [
+                "Software Development",
+                "See 25 endorsements for Software Development",
+                "25",
+                "Software Development",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Development",
+                "See 25 endorsements for Software Development",
+                "25"
+            ],
+            [
+                "C",
+                "See 24 endorsements for C",
+                "24",
+                "C",
+                "Remove Endorsement"
+            ],
+            [
+                "C",
+                "See 24 endorsements for C",
+                "24"
+            ],
+            [
+                "iOS development",
+                "See 23 endorsements for iOS development",
+                "23",
+                "iOS development",
+                "Remove Endorsement"
+            ],
+            [
+                "iOS development",
+                "See 23 endorsements for iOS development",
+                "23"
+            ],
+            [
+                "Bash",
+                "See 22 endorsements for Bash",
+                "22",
+                "Bash",
+                "Remove Endorsement"
+            ],
+            [
+                "Bash",
+                "See 22 endorsements for Bash",
+                "22"
+            ],
+            [
+                "Linux",
+                "See 19 endorsements for Linux",
+                "19",
+                "Linux",
+                "Remove Endorsement"
+            ],
+            [
+                "Linux",
+                "See 19 endorsements for Linux",
+                "19"
+            ],
+            [
+                "Software Design",
+                "See 17 endorsements for Software Design",
+                "17",
+                "Software Design",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Design",
+                "See 17 endorsements for Software Design",
+                "17"
+            ],
+            [
+                "Ruby on Rails",
+                "See 16 endorsements for Ruby on Rails",
+                "16",
+                "Ruby on Rails",
+                "Remove Endorsement"
+            ],
+            [
+                "Ruby on Rails",
+                "See 16 endorsements for Ruby on Rails",
+                "16"
+            ],
+            [
+                "Agile Methodologies",
+                "See 15 endorsements for Agile Methodologies",
+                "15",
+                "Agile Methodologies",
+                "Remove Endorsement"
+            ],
+            [
+                "Agile Methodologies",
+                "See 15 endorsements for Agile Methodologies",
+                "15"
+            ],
+            [
+                "JavaScript",
+                "See 15 endorsements for JavaScript",
+                "15",
+                "JavaScript",
+                "Remove Endorsement"
+            ],
+            [
+                "JavaScript",
+                "See 15 endorsements for JavaScript",
+                "15"
+            ],
+            [
+                "Objective-C",
+                "See 14 endorsements for Objective-C",
+                "14",
+                "Objective-C",
+                "Remove Endorsement"
+            ],
+            [
+                "Objective-C",
+                "See 14 endorsements for Objective-C",
+                "14"
+            ],
+            [
+                "XML",
+                "See 13 endorsements for XML",
+                "13",
+                "XML",
+                "Remove Endorsement"
+            ],
+            [
+                "XML",
+                "See 13 endorsements for XML",
+                "13"
+            ],
+            [
+                "Game Programming",
+                "See 13 endorsements for Game Programming",
+                "13",
+                "Game Programming",
+                "Remove Endorsement"
+            ],
+            [
+                "Game Programming",
+                "See 13 endorsements for Game Programming",
+                "13"
+            ],
+            [
+                "Databases",
+                "See 12 endorsements for Databases",
+                "12",
+                "Databases",
+                "Remove Endorsement"
+            ],
+            [
+                "Databases",
+                "See 12 endorsements for Databases",
+                "12"
+            ],
+            [
+                "Algorithms",
+                "See 11 endorsements for Algorithms",
+                "11",
+                "Algorithms",
+                "Remove Endorsement"
+            ],
+            [
+                "Algorithms",
+                "See 11 endorsements for Algorithms",
+                "11"
+            ],
+            [
+                "HTML",
+                "See 11 endorsements for HTML",
+                "11",
+                "HTML",
+                "Remove Endorsement"
+            ],
+            [
+                "HTML",
+                "See 11 endorsements for HTML",
+                "11"
+            ],
+            [
+                "Architecture",
+                "See 10 endorsements for Architecture",
+                "10",
+                "Architecture",
+                "Remove Endorsement"
+            ],
+            [
+                "Architecture",
+                "See 10 endorsements for Architecture",
+                "10"
+            ],
+            [
+                "Project Management",
+                "See 9 endorsements for Project Management",
+                "9",
+                "Project Management",
+                "Remove Endorsement"
+            ],
+            [
+                "Project Management",
+                "See 9 endorsements for Project Management",
+                "9"
+            ],
+            [
+                "Perl",
+                "See 8 endorsements for Perl",
+                "8",
+                "Perl",
+                "Remove Endorsement"
+            ],
+            [
+                "Perl",
+                "See 8 endorsements for Perl",
+                "8"
+            ],
+            [
+                "CSS",
+                "See 7 endorsements for CSS",
+                "7",
+                "CSS",
+                "Remove Endorsement"
+            ],
+            [
+                "CSS",
+                "See 7 endorsements for CSS",
+                "7"
+            ],
+            [
+                "C#",
+                "See 6 endorsements for C#",
+                "6",
+                "C#",
+                "Remove Endorsement"
+            ],
+            [
+                "C#",
+                "See 6 endorsements for C#",
+                "6"
+            ],
+            [
+                "Android Development",
+                "See 6 endorsements for Android Development",
+                "6",
+                "Android Development",
+                "Remove Endorsement"
+            ],
+            [
+                "Android Development",
+                "See 6 endorsements for Android Development",
+                "6"
+            ],
+            [
+                "HTML 5",
+                "See 5 endorsements for HTML 5",
+                "5",
+                "HTML 5",
+                "Remove Endorsement"
+            ],
+            [
+                "HTML 5",
+                "See 5 endorsements for HTML 5",
+                "5"
+            ],
+            [
+                "Web Development",
+                "See 5 endorsements for Web Development",
+                "5",
+                "Web Development",
+                "Remove Endorsement"
+            ],
+            [
+                "Web Development",
+                "See 5 endorsements for Web Development",
+                "5"
+            ],
+            [
+                "Subversion",
+                "See 5 endorsements for Subversion",
+                "5",
+                "Subversion",
+                "Remove Endorsement"
+            ],
+            [
+                "Subversion",
+                "See 5 endorsements for Subversion",
+                "5"
+            ],
+            [
+                "OS X",
+                "See 4 endorsements for OS X",
+                "4",
+                "OS X",
+                "Remove Endorsement"
+            ],
+            [
+                "OS X",
+                "See 4 endorsements for OS X",
+                "4"
+            ],
+            [
+                "Mobile Devices",
+                "See 4 endorsements for Mobile Devices",
+                "4",
+                "Mobile Devices",
+                "Remove Endorsement"
+            ],
+            [
+                "Mobile Devices",
+                "See 4 endorsements for Mobile Devices",
+                "4"
+            ],
+            [
+                "Game Development",
+                "See 4 endorsements for Game Development",
+                "4",
+                "Game Development",
+                "Remove Endorsement"
+            ],
+            [
+                "Game Development",
+                "See 4 endorsements for Game Development",
+                "4"
+            ],
+            [
+                "OpenGL",
+                "See 3 endorsements for OpenGL",
+                "3",
+                "OpenGL",
+                "Remove Endorsement"
+            ],
+            [
+                "OpenGL",
+                "See 3 endorsements for OpenGL",
+                "3"
+            ],
+            [
+                "Git",
+                "See 3 endorsements for Git",
+                "3",
+                "Git",
+                "Remove Endorsement"
+            ],
+            [
+                "Git",
+                "See 3 endorsements for Git",
+                "3"
+            ],
+            [
+                "Python",
+                "See 3 endorsements for Python",
+                "3",
+                "Python",
+                "Remove Endorsement"
+            ],
+            [
+                "Python",
+                "See 3 endorsements for Python",
+                "3"
+            ],
+            [
+                "iOS",
+                "See 3 endorsements for iOS",
+                "3",
+                "iOS",
+                "Remove Endorsement"
+            ],
+            [
+                "iOS",
+                "See 3 endorsements for iOS",
+                "3"
+            ],
+            [
+                "Cascading Style Sheets (CSS)",
+                "See 2 endorsements for Cascading Style Sheets (CSS)",
+                "2",
+                "Cascading Style Sheets (CSS)",
+                "Remove Endorsement"
+            ],
+            [
+                "Cascading Style Sheets (CSS)",
+                "See 2 endorsements for Cascading Style Sheets (CSS)",
+                "2"
+            ],
+            [
+                "MySQL",
+                "See 2 endorsements for MySQL",
+                "2",
+                "MySQL",
+                "Remove Endorsement"
+            ],
+            [
+                "MySQL",
+                "See 2 endorsements for MySQL",
+                "2"
+            ],
+            [
+                "Distributed Systems",
+                "See 2 endorsements for Distributed Systems",
+                "2",
+                "Distributed Systems",
+                "Remove Endorsement"
+            ],
+            [
+                "Distributed Systems",
+                "See 2 endorsements for Distributed Systems",
+                "2"
+            ],
+            [
+                "HTML5",
+                "See 2 endorsements for HTML5",
+                "2",
+                "HTML5",
+                "Remove Endorsement"
+            ],
+            [
+                "HTML5",
+                "See 2 endorsements for HTML5",
+                "2"
+            ],
+            [
+                "User Interface",
+                "See 2 endorsements for User Interface",
+                "2",
+                "User Interface",
+                "Remove Endorsement"
+            ],
+            [
+                "User Interface",
+                "See 2 endorsements for User Interface",
+                "2"
+            ],
+            [
+                "JIRA",
+                "See 2 endorsements for JIRA",
+                "2",
+                "JIRA",
+                "Remove Endorsement"
+            ],
+            [
+                "JIRA",
+                "See 2 endorsements for JIRA",
+                "2"
+            ],
+            [
+                "Xcode",
+                "See 2 endorsements for Xcode",
+                "2",
+                "Xcode",
+                "Remove Endorsement"
+            ],
+            [
+                "Xcode",
+                "See 2 endorsements for Xcode",
+                "2"
+            ],
+            [
+                "Mobile Games",
+                "See 2 endorsements for Mobile Games",
+                "2",
+                "Mobile Games",
+                "Remove Endorsement"
+            ],
+            [
+                "Mobile Games",
+                "See 2 endorsements for Mobile Games",
+                "2"
+            ]
+        ],
+        "summary": "",
+        "name": "Abe Pralle",
+        "title": "Game Developer",
+        "url": "linkedin.com/in/abepralle",
+        "phone": null,
+        "email": "abe.pralle@gmail.com"
+    }
+]

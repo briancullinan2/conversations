@@ -1,0 +1,29 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "30Sep17",
+    "participants": "Brian Cullinan | wizard > Akiva Greenfield | CEO at Nexus Healthcare Solutions",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Akiva Greenfield",
+        "url": "linkedin.com/in/akiva-greenfield-1a40595",
+        "email": "akiva@nexushs.com",
+        "title": "CEO at Nexus Healthcare Solutions"
+      }
+    ],
+    "message": "I for laid off so I'll message you like every five minutes ;)",
+    "time": "2017-09-30T06:31:00.000Z",
+    "title": "wizard"
+  }
+]

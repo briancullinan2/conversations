@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6218115434743422976/",
+    "participants": [
+        {
+            "name": "Fred von Graf, PMP",
+            "title": "Founder W3M",
+            "url": "linkedin.com/in/fvongraf",
+            "phone": "602-799-3733 (Mobile)",
+            "email": "LinkedIn@vongraf.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-23T17:30:00.000Z"
+        }
+    ]
+}

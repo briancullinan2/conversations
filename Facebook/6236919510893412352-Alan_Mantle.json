@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6236919510893412352/",
+    "participants": [
+        {
+            "name": "Alan Mantle",
+            "title": "General Engineer at Hilton Worldwide",
+            "url": "linkedin.com/in/alan-mantle-42198168",
+            "phone": null,
+            "email": "alan.mantle13@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-13T14:51:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Alan Mantle",
+            "time": "2017-03-22T19:52:00.000Z",
+            "message": "👍\n"
+        }
+    ]
+}

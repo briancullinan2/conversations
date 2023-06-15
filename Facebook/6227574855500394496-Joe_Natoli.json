@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6227574855500394496/",
+    "participants": [
+        {
+            "name": "Joe Natoli",
+            "title": "Owner & General Manager",
+            "url": "linkedin.com/in/joednatoli",
+            "phone": null,
+            "email": "joednato202@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-18T19:59:00.000Z"
+        }
+    ]
+}

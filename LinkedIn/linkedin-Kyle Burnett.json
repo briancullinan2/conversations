@@ -1,0 +1,737 @@
+[
+    {
+        "resourceName": "people/c6354759351425000344",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgx6SWlIZkVCWHM3bz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "5830a3f60ec76398"
+                    }
+                },
+                "displayName": "Kyle Burnett",
+                "familyName": "Burnett",
+                "givenName": "Kyle",
+                "displayNameLastFirst": "Burnett, Kyle"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "106125778969783253091"
+                    }
+                },
+                "displayName": "Kyle Burnett",
+                "familyName": "Burnett",
+                "givenName": "Kyle",
+                "displayNameLastFirst": "Burnett, Kyle"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "112489950663084322457"
+                    }
+                },
+                "displayName": "Kyle Burnett",
+                "familyName": "Burnett",
+                "givenName": "Kyle",
+                "displayNameLastFirst": "Burnett, Kyle"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "5830a3f60ec76398"
+                    }
+                },
+                "value": "kburnett@allbound.com"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "5830a3f60ec76398"
+                    }
+                },
+                "value": "(602) 628-3261",
+                "canonicalForm": "+16026283261",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "94 Mutual Connections",
+                "You and Kyle both know Eric Keosky-Smith, Pamela Metivier, and 92 others"
+            ],
+            [
+                "Kyle can introduce you to 6 people at BeyondTrust",
+                "You are following BeyondTrust"
+            ],
+            [
+                "A checklist to discover everything you need to evaluate a partner portal.",
+                "Kyle shared this"
+            ],
+            [
+                "Change happens quickly in today’s tech-driven economy (pour one out for partner portals). Ross Van Wyk",
+                "Kyle shared this"
+            ],
+            [
+                "So you got a job in channel management...",
+                "Kyle shared this"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Co-Founder and CTO",
+                "Company Name",
+                "Allbound, Inc.",
+                "Dates Employed",
+                "Aug 2014 – Present",
+                "Employment Duration",
+                "3 yrs 3 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "Allbound is an innovative SaaS platform that simplifies and accelerates your ability to recruit, onboard, measure and grow your partners.As the CTO, I lead a great team of developers and designers who are a building a scalable, flexible,  API-first platform."
+            ],
+            [
+                "Adjunct Professor",
+                "Company Name",
+                "Grand Canyon University",
+                "Dates Employed",
+                "Jan 2015 – Present",
+                "Employment Duration",
+                "2 yrs 10 mos",
+                "Location",
+                "Phoenix, AZ",
+                "I teach design and business to an ambitious and talented group of up-and-coming designers and developers. While we spend a fair amount of our time on the technical and tactical aspects of the web, the true focus is helping students become modern-day problem solvers who bring value to the marketplace.Courses Taught: DDN300 - Web Design 1DDN355 - Content  Management SystemsDDN400 - Business for the Design Professional"
+            ],
+            [
+                "Director of Operations",
+                "Company Name",
+                "IDS Technology Marketing",
+                "Dates Employed",
+                "Dec 2013 – Jan 2015",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "IDS Technology Marketing is a business-to-business (B2B) marketing agency whose purpose is to help technology companies success through smart, impactful marketing and sales.At IDS, I lead a great team of designers, developers, marketers and thinkers. My job, simply put, was to enable success of the team who, in turn, help technology companies succeed."
+            ],
+            [
+                "Interactive Services Director",
+                "Company Name",
+                "IDS Technology Marketing",
+                "Dates Employed",
+                "Aug 2011 – Dec 2013",
+                "Employment Duration",
+                "2 yrs 5 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "At IDS, in this role, I worked closely with the company leadership - as I moved from developer to director - to more clearly structure our services offerings, our team composition and the systems needed to enable success."
+            ],
+            [
+                "Developer, Designer",
+                "Company Name",
+                "eEye Digital Security",
+                "Dates Employed",
+                "Aug 2010 – Aug 2011",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "Phoenix, Arizona Area",
+                "I joined a small marketing team of a digital security firm as they looked to reshape their brand and grow market share. As the technical lead, I oversaw the renewed focused on marketing automation within the business model and led the transition from Marketo to Eloqua (a portfolio sister company at the time)."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Texas A&M University",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Journalism",
+                "Dates attended or expected graduation",
+                "1992 – 1994",
+                "Activities and Societies:",
+                "The Batallion student newspaper",
+                "My education was greatest outside of the classroom, with great mentors, focusing on technological shifts in media, publishing and information sharing in general. As the result of their investment in me, I won an internship at The Poynter Institute for Media Studies and learned directly from Mario Garcia, the godfather of modern media design."
+            ],
+            [
+                "Texas A&M University",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Journalism",
+                "Dates attended or expected graduation",
+                "1992 – 1994",
+                "Activities and Societies:",
+                "The Batallion student newspaper",
+                "My education was greatest outside of the classroom, with great mentors, focusing on technological shifts in media, publishing and information sharing in general. As the result of their investment in me, I won an internship at The Poynter Institute for Media Studies and learned directly from Mario Garcia, the godfather of modern media design."
+            ],
+            [
+                "Texas A&M University"
+            ],
+            [
+                "Texas A&M University"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Foster",
+                "Company Name",
+                "Various local groups as needed",
+                "Dates volunteered",
+                "Jan 2010 – Jan 2010",
+                "Volunteer duration",
+                "1 mo",
+                "Cause",
+                "Animal Welfare"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Social Media Today",
+                "267,975 members"
+            ],
+            [
+                "Infusionsoft",
+                "16,601 followers"
+            ],
+            [
+                "Wired PR",
+                "73 followers"
+            ],
+            [
+                "Software as a Service - SaaS - Group",
+                "124,276 members"
+            ],
+            [
+                "Texas A&M University",
+                "370,992 followers"
+            ],
+            [
+                "TechCrunch",
+                "1,865,651 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Social Media Today",
+                "267,975 members"
+            ],
+            [
+                "Social Media Today",
+                "267,975 members"
+            ],
+            [
+                "Infusionsoft",
+                "16,601 followers"
+            ],
+            [
+                "Infusionsoft",
+                "16,601 followers"
+            ],
+            [
+                "Wired PR",
+                "73 followers"
+            ],
+            [
+                "Wired PR",
+                "73 followers"
+            ],
+            [
+                "Software as a Service - SaaS - Group",
+                "124,276 members"
+            ],
+            [
+                "Software as a Service - SaaS - Group",
+                "124,276 members"
+            ],
+            [
+                "Texas A&M University",
+                "370,992 followers"
+            ],
+            [
+                "Texas A&M University",
+                "370,992 followers"
+            ],
+            [
+                "TechCrunch",
+                "1,865,651 followers"
+            ],
+            [
+                "TechCrunch",
+                "1,865,651 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Jen Spencer",
+                "Vice President of Sales and Marketing at SmartBug Media | Speaker | Board Member at Girls in Tech PHX",
+                "August 4, 2017, Kyle was senior to Jen but didn’t manage directly",
+                "\"Yes, and ...\" If there's one thing I've learned from working with Kyle, it's that anything is possible. A problem is only a problem until you solve it, and Kyle's mantra is to find the simplest path to success. He gets excited about possibilities and is ridiculously optimistic, but he also remains grounded in reality. Kyle is a coach and a mentor to many because he listens and because he's constantly trying to better himself through his personal interactions. Also ... Kyle is flat out fun. Like, really, really fun. I laughed nearly every day I worked with Kyle, and I absolutely love him for that."
+            ],
+            [
+                "Jen Spencer",
+                "Vice President of Sales and Marketing at SmartBug Media | Speaker | Board Member at Girls in Tech PHX",
+                "August 4, 2017, Kyle was senior to Jen but didn’t manage directly"
+            ],
+            [
+                "Jen Spencer",
+                "Vice President of Sales and Marketing at SmartBug Media | Speaker | Board Member at Girls in Tech PHX",
+                "August 4, 2017, Kyle was senior to Jen but didn’t manage directly"
+            ],
+            [
+                "Jen Spencer",
+                "Vice President of Sales and Marketing at SmartBug Media | Speaker | Board Member at Girls in Tech PHX",
+                "August 4, 2017, Kyle was senior to Jen but didn’t manage directly"
+            ],
+            "Vice President of Sales and Marketing at SmartBug Media | Speaker | Board Member at Girls in Tech PHX",
+            [
+                "\"Yes, and ...\" If there's one thing I've learned from working with Kyle, it's that anything is possible. A problem is only a problem until you solve it, and Kyle's mantra is to find the simplest path to success. He gets excited about possibilities and is ridiculously optimistic, but he also remains grounded in reality. Kyle is a coach and a mentor to many because he listens and because he's constantly trying to better himself through his personal interactions. Also ... Kyle is flat out fun. Like, really, really fun. I laughed nearly every day I worked with Kyle, and I absolutely love him for that."
+            ],
+            [
+                "\"Yes, and ...\" If there's one thing I've learned from working with Kyle, it's that anything is possible. A problem is only a problem until you solve it, and Kyle's mantra is to find the simplest path to success. He gets excited about possibilities and is ridiculously optimistic, but he also remains grounded in reality. Kyle is a coach and a mentor to many because he listens and because he's constantly trying to better himself through his personal interactions. Also ... Kyle is flat out fun. Like, really, really fun. I laughed nearly every day I worked with Kyle, and I absolutely love him for that."
+            ],
+            [
+                "Evan Brown",
+                "Manager - Network Operations Center at The Plow Group",
+                "June 20, 2015, Kyle worked with Evan in the same group",
+                "I had the opportunity to work with Kyle early on in my career.  To this day he remains one of the co-workers that stands out as a star.  Talent, patience, passion and a natural ability to teach are all words I would use to describe Kyle.  ANY organization would benefit from his contributions."
+            ],
+            [
+                "Evan Brown",
+                "Manager - Network Operations Center at The Plow Group",
+                "June 20, 2015, Kyle worked with Evan in the same group"
+            ],
+            [
+                "Evan Brown",
+                "Manager - Network Operations Center at The Plow Group",
+                "June 20, 2015, Kyle worked with Evan in the same group"
+            ],
+            [
+                "Evan Brown",
+                "Manager - Network Operations Center at The Plow Group",
+                "June 20, 2015, Kyle worked with Evan in the same group"
+            ],
+            "Manager - Network Operations Center at The Plow Group",
+            [
+                "I had the opportunity to work with Kyle early on in my career.  To this day he remains one of the co-workers that stands out as a star.  Talent, patience, passion and a natural ability to teach are all words I would use to describe Kyle.  ANY organization would benefit from his contributions."
+            ],
+            [
+                "I had the opportunity to work with Kyle early on in my career.  To this day he remains one of the co-workers that stands out as a star.  Talent, patience, passion and a natural ability to teach are all words I would use to describe Kyle.  ANY organization would benefit from his contributions."
+            ],
+            [
+                "Elliot Hullverson",
+                "Customer Success Manager at Integrate Inc.",
+                "June 19, 2017, Elliot worked with Kyle in the same group",
+                "I was very fortunate to spend a year working with Elliot on the scrappy start-up team at Allbound. In that time I got to see up close why Elliot's customers and team love working with him: Elliot is smart, ego-free, versatile, engaged and truly cares about helping others achieve successful outcomes. Elliot embodies all of the core values and business smarts you want in a team member and someone I hope to have a chance to partner with again."
+            ],
+            [
+                "Elliot Hullverson",
+                "Customer Success Manager at Integrate Inc.",
+                "June 19, 2017, Elliot worked with Kyle in the same group"
+            ],
+            [
+                "Elliot Hullverson",
+                "Customer Success Manager at Integrate Inc.",
+                "June 19, 2017, Elliot worked with Kyle in the same group"
+            ],
+            [
+                "Elliot Hullverson",
+                "Customer Success Manager at Integrate Inc.",
+                "June 19, 2017, Elliot worked with Kyle in the same group"
+            ],
+            "Customer Success Manager at Integrate Inc.",
+            [
+                "I was very fortunate to spend a year working with Elliot on the scrappy start-up team at Allbound. In that time I got to see up close why Elliot's customers and team love working with him: Elliot is smart, ego-free, versatile, engaged and truly cares about helping others achieve successful outcomes. Elliot embodies all of the core values and business smarts you want in a team member and someone I hope to have a chance to partner with again."
+            ],
+            [
+                "I was very fortunate to spend a year working with Elliot on the scrappy start-up team at Allbound. In that time I got to see up close why Elliot's customers and team love working with him: Elliot is smart, ego-free, versatile, engaged and truly cares about helping others achieve successful outcomes. Elliot embodies all of the core values and business smarts you want in a team member and someone I hope to have a chance to partner with again."
+            ],
+            [
+                "Sara Taylor",
+                "Distinct Traditional and Digital Artist, 3D Modeler",
+                "June 18, 2017, Kyle was Sara’s teacher",
+                "I had the pleasure of teaching a couple of Sara's college courses and very much enjoyed my time with her. Sara's is a talented and driven 3D modeler. She' a calming presence, a great listener, and quick with a laugh. She is a smart, logical thinker and an avid consumer of information. Heck, Sara will read more books in a week than I will in a year. What's more, she will pass those books along to others through her community book-sharing program. Can you imagine the exponential power of this equation? It's impressive. For all of this and more, I'm a big fan of Sara's and trust that you will be too."
+            ],
+            [
+                "Sara Taylor",
+                "Distinct Traditional and Digital Artist, 3D Modeler",
+                "June 18, 2017, Kyle was Sara’s teacher"
+            ],
+            [
+                "Sara Taylor",
+                "Distinct Traditional and Digital Artist, 3D Modeler",
+                "June 18, 2017, Kyle was Sara’s teacher"
+            ],
+            [
+                "Sara Taylor",
+                "Distinct Traditional and Digital Artist, 3D Modeler",
+                "June 18, 2017, Kyle was Sara’s teacher"
+            ],
+            "Distinct Traditional and Digital Artist, 3D Modeler",
+            [
+                "I had the pleasure of teaching a couple of Sara's college courses and very much enjoyed my time with her. Sara's is a talented and driven 3D modeler. She' a calming presence, a great listener, and quick with a laugh. She is a smart, logical thinker and an avid consumer of information. Heck, Sara will read more books in a week than I will in a year. What's more, she will pass those books along to others through her community book-sharing program. Can you imagine the exponential power of this equation? It's impressive. For all of this and more, I'm a big fan of Sara's and trust that you will be too."
+            ],
+            [
+                "I had the pleasure of teaching a couple of Sara's college courses and very much enjoyed my time with her. Sara's is a talented and driven 3D modeler. She' a calming presence, a great listener, and quick with a laugh. She is a smart, logical thinker and an avid consumer of information. Heck, Sara will read more books in a week than I will in a year. What's more, she will pass those books along to others through her community book-sharing program. Can you imagine the exponential power of this equation? It's impressive. For all of this and more, I'm a big fan of Sara's and trust that you will be too."
+            ]
+        ],
+        "skills": [
+            [
+                "Leadership",
+                "See 30 endorsements for Leadership",
+                "30",
+                "Leadership",
+                "Endorse",
+                "Endorsed by Joe Pizzimenti and 1 other mutual connection",
+                "Endorsed by 3 of Kyle’s colleagues at Allbound, Inc."
+            ],
+            [
+                "Leadership",
+                "See 30 endorsements for Leadership",
+                "30"
+            ],
+            [
+                "Entrepreneurship",
+                "See 20 endorsements for Entrepreneurship",
+                "20",
+                "Entrepreneurship",
+                "Endorse",
+                "Endorsed by Sean Holladay and 1 other mutual connection",
+                "Endorsed by 2 of Kyle’s colleagues at Allbound, Inc."
+            ],
+            [
+                "Entrepreneurship",
+                "See 20 endorsements for Entrepreneurship",
+                "20"
+            ],
+            [
+                "SaaS",
+                "See 20 endorsements for SaaS",
+                "20",
+                "SaaS",
+                "Endorse",
+                "Chris Dankowski and 19 connections have given endorsements for this skill"
+            ],
+            [
+                "SaaS",
+                "See 20 endorsements for SaaS",
+                "20"
+            ],
+            [
+                "Product Management",
+                "See 14 endorsements for Product Management",
+                "14",
+                "Product Management",
+                "Endorse"
+            ],
+            [
+                "Product Management",
+                "See 14 endorsements for Product Management",
+                "14"
+            ],
+            [
+                "Start-ups",
+                "See 11 endorsements for Start-ups",
+                "11",
+                "Start-ups",
+                "Endorse"
+            ],
+            [
+                "Start-ups",
+                "See 11 endorsements for Start-ups",
+                "11"
+            ],
+            [
+                "Marketing Strategy",
+                "See 44 endorsements for Marketing Strategy",
+                "44",
+                "Marketing Strategy",
+                "Endorse"
+            ],
+            [
+                "Marketing Strategy",
+                "See 44 endorsements for Marketing Strategy",
+                "44"
+            ],
+            [
+                "Salesforce.com",
+                "See 31 endorsements for Salesforce.com",
+                "31",
+                "Salesforce.com",
+                "Endorse"
+            ],
+            [
+                "Salesforce.com",
+                "See 31 endorsements for Salesforce.com",
+                "31"
+            ],
+            [
+                "Management",
+                "See 13 endorsements for Management",
+                "13",
+                "Management",
+                "Endorse"
+            ],
+            [
+                "Management",
+                "See 13 endorsements for Management",
+                "13"
+            ],
+            [
+                "User Experience",
+                "See 13 endorsements for User Experience",
+                "13",
+                "User Experience",
+                "Endorse"
+            ],
+            [
+                "User Experience",
+                "See 13 endorsements for User Experience",
+                "13"
+            ],
+            [
+                "Software Development",
+                "See 4 endorsements for Software Development",
+                "4",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development",
+                "See 4 endorsements for Software Development",
+                "4"
+            ],
+            [
+                "Web Services",
+                "Web Services",
+                "Endorse"
+            ],
+            [
+                "Web Services"
+            ],
+            [
+                "Amazon Web Services (AWS)",
+                "Amazon Web Services (AWS)",
+                "Endorse"
+            ],
+            [
+                "Amazon Web Services (AWS)"
+            ],
+            [
+                "Marketo",
+                "See 5 endorsements for Marketo",
+                "5",
+                "Marketo",
+                "Endorse"
+            ],
+            [
+                "Marketo",
+                "See 5 endorsements for Marketo",
+                "5"
+            ],
+            [
+                "Eloqua",
+                "See 5 endorsements for Eloqua",
+                "5",
+                "Eloqua",
+                "Endorse"
+            ],
+            [
+                "Eloqua",
+                "See 5 endorsements for Eloqua",
+                "5"
+            ],
+            [
+                "Channel Partners",
+                "See 4 endorsements for Channel Partners",
+                "4",
+                "Channel Partners",
+                "Endorse"
+            ],
+            [
+                "Channel Partners",
+                "See 4 endorsements for Channel Partners",
+                "4"
+            ],
+            [
+                "B2B Marketing",
+                "See 18 endorsements for B2B Marketing",
+                "18",
+                "B2B Marketing",
+                "Endorse"
+            ],
+            [
+                "B2B Marketing",
+                "See 18 endorsements for B2B Marketing",
+                "18"
+            ],
+            [
+                "HubSpot",
+                "See 1 endorsement for HubSpot",
+                "1",
+                "HubSpot",
+                "Endorse"
+            ],
+            [
+                "HubSpot",
+                "See 1 endorsement for HubSpot",
+                "1"
+            ],
+            [
+                "Microsoft CRM",
+                "See 3 endorsements for Microsoft CRM",
+                "3",
+                "Microsoft CRM",
+                "Endorse"
+            ],
+            [
+                "Microsoft CRM",
+                "See 3 endorsements for Microsoft CRM",
+                "3"
+            ],
+            [
+                "Marketing Communications",
+                "See 27 endorsements for Marketing Communications",
+                "27",
+                "Marketing Communications",
+                "Endorse"
+            ],
+            [
+                "Marketing Communications",
+                "See 27 endorsements for Marketing Communications",
+                "27"
+            ],
+            [
+                "Digital Marketing",
+                "See 16 endorsements for Digital Marketing",
+                "16",
+                "Digital Marketing",
+                "Endorse"
+            ],
+            [
+                "Digital Marketing",
+                "See 16 endorsements for Digital Marketing",
+                "16"
+            ],
+            [
+                "Integrated Marketing",
+                "See 13 endorsements for Integrated Marketing",
+                "13",
+                "Integrated Marketing",
+                "Endorse"
+            ],
+            [
+                "Integrated Marketing",
+                "See 13 endorsements for Integrated Marketing",
+                "13"
+            ],
+            [
+                "Software as a Service (SaaS)",
+                "See 7 endorsements for Software as a Service (SaaS)",
+                "7",
+                "Software as a Service (SaaS)",
+                "Endorse"
+            ],
+            [
+                "Software as a Service (SaaS)",
+                "See 7 endorsements for Software as a Service (SaaS)",
+                "7"
+            ],
+            [
+                "WordPress",
+                "See 8 endorsements for WordPress",
+                "8",
+                "WordPress",
+                "Endorse"
+            ],
+            [
+                "WordPress",
+                "See 8 endorsements for WordPress",
+                "8"
+            ],
+            [
+                "Strategic Partnerships",
+                "See 5 endorsements for Strategic Partnerships",
+                "5",
+                "Strategic Partnerships",
+                "Endorse"
+            ],
+            [
+                "Strategic Partnerships",
+                "See 5 endorsements for Strategic Partnerships",
+                "5"
+            ],
+            [
+                "Lead Generation",
+                "See 31 endorsements for Lead Generation",
+                "31",
+                "Lead Generation",
+                "Endorse"
+            ],
+            [
+                "Lead Generation",
+                "See 31 endorsements for Lead Generation",
+                "31"
+            ],
+            [
+                "Demand Generation",
+                "See 11 endorsements for Demand Generation",
+                "11",
+                "Demand Generation",
+                "Endorse"
+            ],
+            [
+                "Demand Generation",
+                "See 11 endorsements for Demand Generation",
+                "11"
+            ]
+        ],
+        "summary": "    I'm purpose-driven and self-motivated leader and teacher. I love to meet smart people, design and build neat and purposeful systems in a team-based environment, share knowledge, and get some laughs.I have more than 20 years in technology development, focusing on marketing and sales enablement  for the enterprise. In that time, I have written systems and led teams that supported such major brands as Dell, Oracle, Cisco, Starwood Hotels and New Times (now Village Voice).\n  \n  \n",
+        "name": "Kyle Burnett",
+        "title": "CTO, Co-Founder of Allbound // GCU Adjunct",
+        "url": "linkedin.com/in/kyleburnett",
+        "phone": "602-628-3261 (Home)",
+        "email": "kburnett@allbound.com"
+    }
+]

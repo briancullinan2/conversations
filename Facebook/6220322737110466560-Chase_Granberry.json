@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6220322737110466560/",
+    "participants": [
+        {
+            "name": "Chase Granberry",
+            "title": "Founder @ AuthorityLabs",
+            "url": "linkedin.com/in/chaseg",
+            "phone": null,
+            "email": "chase.granberry@authoritylabs.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-29T19:41:00.000Z"
+        }
+    ]
+}

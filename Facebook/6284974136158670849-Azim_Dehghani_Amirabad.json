@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6284974136158670849/",
+    "participants": [
+        {
+            "name": "Azim Dehghani Amirabad",
+            "title": "Data Scientist, Machine learning, Optimization, Bioinformatics",
+            "url": "linkedin.com/in/azim-dehghani-amirabad-a8924055",
+            "phone": "",
+            "email": "azim.dehghani@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-06-26T05:23:00.000Z",
+            "message": "Who would I talk to about going to school at MIT?\n"
+        },
+        {
+            "from": "Azim Dehghani Amirabad",
+            "time": "2017-06-26T18:54:00.000Z",
+            "message": "Write to admission office of the department that you would like to apply or if you are interested to work with specific professors, maybe contact him/her\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-26T18:56:00.000Z",
+            "message": "Which professor do you like?\n"
+        },
+        {
+            "from": "Azim Dehghani Amirabad",
+            "time": "2017-06-29T16:00:00.000Z",
+            "message": "All professors here are awesome !\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-29T16:16:00.000Z",
+            "message": "Do you have a favorite?\n"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "30Oct17",
+    "participants": "Brian Cullinan | wizard > Lawrence Dearth | Director of Operations at Insight Global",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Lawrence Dearth",
+        "url": "linkedin.com/in/larwrencedearth",
+        "email": "Lawrence.Dearth@insightglobal.net",
+        "title": "Director of Operations at Insight Global"
+      }
+    ],
+    "message": "Lawrence,\n\nMy name is Brian Cullinan. I am reaching out to you to make you aware that Insight Global has been the BIGGEST waste of time I have encountered out of talking to 24 recruiting agencies. I make my own jobs and you are a side effect. Thank you for your time since it is worth more.",
+    "time": "2017-10-30T01:34:00.000Z",
+    "title": "wizard"
+  }
+]

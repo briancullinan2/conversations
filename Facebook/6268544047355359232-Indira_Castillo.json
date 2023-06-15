@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6268544047355359232/",
+    "participants": [
+        {
+            "name": "Indira Castillo",
+            "title": "Technical Recruiter at Experis",
+            "url": "linkedin.com/in/indira-castillo-705822b",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Indira Castillo",
+            "time": "2017-05-11T12:00:00.000Z",
+            "message": ".Net Architect Needed in Austin, TX!\n\nDear Brian, \n\nExperis is looking for Full Stack .Net Architects for a long-term contract opportunity in Austin, TX. This role will be for the B2B team as a Senior Architect. They are looking specifically for someone who has experience in architecting solutions. Please take a look at the JD below, and send me your updated resume if you're interested.\n\nEngineering Degree in Computer Science/Engineering, or equivalent professional experience. \no 12+ years of related experience with at least 4+ years building web portals and/or ecommerce applications using Microsoft technologies \no Expertise in most of the following Web API (MS ASP.Net), MVC, WCF, HTML5, CSS, JavaScript, JSON, SOAP, REST, JQuery, .Net Framework, C#, Web Services. \no EXPERT knowledge of object oriented programming \no Good experience in NServiceBus, NHibernate, or any other ORM, StructureMap, AutoMapper, log4net, ReSharper, TeamCity. \no Knowledge of SQL Server development and database design\n\nIndira Castillo\nindira.castillo@experis.com\n"
+        },
+        {
+            "from": "Indira Castillo",
+            "time": "2017-06-20T12:00:00.000Z",
+            "message": "Senior .Net Developers Needed in Round Rock, TX!\n\nDear Brian, \n\nMy name is Indira and I am an IT Recruiter with Experis in Austin, TX. I am reaching out to you about some .Net openings I have with my direct client in Round Rock, TX. Please take a look at the job description below, and let me know if you're interested in hearing more about these opportunities.\n\nRole Responsibilities \n- Develops high availability and highly scalable applications which will be used by both internal and external customers \n- Works with clients and Business Analysts to determine software requirements and system impacts \n- Generates technical documentation as well as unit and functional tests \n- Works closely with the global development team, other senior Solution Architects, and executives within the Online Product Engineering group to plan ongoing feature development, product maintenance, and management of development teams \n\nRequirements \n10+ years of related experience with at least 7+ years building web portals and/or ecommerce applications using Microsoft technologies \nExpertise in most of the following React.JS, SignalR, Kafka, Microsoft Orleans, Web API (MS ASP.Net), MVC, WCF, HTML5, CSS, JavaScript, JSON, SOAP, REST, JQuery, .Net Framework, C#, Web Services. \nExpert knowledge of object oriented programming \nKnowledge of SQL Server development and database design \n-Analyzing business requirements, processes, data, and system integration points to determine/recommend appropriate technology solutions -Designing, coding, testing, documenting, and deploying global applications based on system and user requirements \n-Knowledge in analyzing, designing, and developing solutions to highly complex problems \n-Knowledge of XSLT and Agile methodology -Familiar with Unit Test, Mock, Test Driven Development etc.\n\nIndira Castillo\nTechnical Recruiter at Experis\nindira.castillo@experis.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-20T20:15:00.000Z",
+            "message": "Wouldn't it make more sense for me to get a job through a local recruiter that knows the area and will turn around and spend their earnings locally as well?\n"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6225759848458440704/",
+    "participants": [
+        {
+            "name": "Michael Bayless",
+            "title": "Project Manager - Interior Designer at Designcorp",
+            "url": "linkedin.com/in/michael-bayless-3a0938b5",
+            "phone": null,
+            "email": "michaelcbayless@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-01-13T19:46:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Michael Bayless",
+            "time": "2018-01-13T22:30:00.000Z",
+            "message": "You got it buddy.\n"
+        },
+        {
+            "from": "Michael Bayless",
+            "time": "2017-03-08T13:12:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-11T16:25:00.000Z",
+            "message": "Thank you!\n"
+        },
+        {
+            "from": "Michael Bayless",
+            "time": "2017-03-11T20:41:00.000Z",
+            "message": "You're very welcome.\n"
+        }
+    ]
+}

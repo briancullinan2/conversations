@@ -1,0 +1,167 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "5Feb17",
+    "participants": "Gordon Borrell | CEO of Borrell Associates Inc. > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Gordon Borrell",
+        "url": "linkedin.com/in/gordonborrell",
+        "phone": "757-221-6641 (Work)",
+        "email": "GBorrell@borrellassociates.com",
+        "title": "CEO of Borrell Associates Inc."
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Always wanted to know a wizard.",
+    "time": "2017-02-05T21:58:00.000Z",
+    "title": "CEO of Borrell Associates Inc."
+  },
+  {
+    "type": "conversations",
+    "conversations": "5Feb17",
+    "participants": "Brian Cullinan | wizard > Jayson Minard | Chief Technology Officer (CTO) at Collokia",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Jayson Minard",
+        "url": "linkedin.com/in/jaysonminard",
+        "email": "jayson.minard@gmail.com",
+        "title": "Chief Technology Officer (CTO) at Collokia"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-05T23:42:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "5Feb17",
+    "participants": "Vijay Kumar | TAG - North America - Cognizant > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Vijay Kumar",
+        "url": "linkedin.com/in/vijay-kumar-b12a8566",
+        "email": "vijaykumar.s3@cognizant.com",
+        "title": "TAG - North America - Cognizant"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "I look forward to hearing from you.",
+    "time": "2017-02-05T13:10:00.000Z",
+    "title": "TAG - North America - Cognizant"
+  },
+  {
+    "type": "conversations",
+    "conversations": "5Feb17",
+    "participants": "Brian Cullinan | wizard > Alejandra Llaguno | Product Manager at StrongMind",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Alejandra Llaguno",
+        "url": "linkedin.com/in/alejandra-llaguno-a0382442",
+        "phone": "4802558239 (Mobile)",
+        "email": "ale.llaguno@gmail.com",
+        "title": "Product Manager at StrongMind"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-05T01:55:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "5Feb17",
+    "participants": "Brian Cullinan | wizard > Zachariah Robichaud | Lead Developer at OpenTech Alliance, Inc.",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Zachariah Robichaud",
+        "url": "linkedin.com/in/zach2825",
+        "phone": "6024928254 (Work)",
+        "email": "zach2825@gmail.com",
+        "title": "Lead Developer at OpenTech Alliance, Inc."
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-05T01:54:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "5Feb17",
+    "participants": "Brian Cullinan | wizard > Paul Schmidt | Sr Manager Distributed Database Security",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Paul Schmidt",
+        "url": "linkedin.com/in/paul-schmidt-0921704",
+        "email": "pl_schmidt@yahoo.com",
+        "title": "Sr Manager Distributed Database Security"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-05T01:17:00.000Z",
+    "title": "wizard"
+  }
+]

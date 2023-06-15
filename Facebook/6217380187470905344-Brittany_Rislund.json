@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6217380187470905344/",
+    "participants": [
+        {
+            "name": "Brittany Rislund",
+            "title": "Founder and Principal Designer of Maddart Creative",
+            "url": "linkedin.com/in/brittanyrislund",
+            "phone": "602-492-5233 (Work)",
+            "email": "brittany@maddartcreative.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-21T16:49:00.000Z"
+        },
+        {
+            "from": "Brittany Rislund",
+            "message": "Same to you!\n",
+            "time": "2017-12-21T17:18:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I love art. ;)\n",
+            "time": "2017-12-21T17:20:00.000Z"
+        }
+    ]
+}

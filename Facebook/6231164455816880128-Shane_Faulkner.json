@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6231164455816880128/",
+    "participants": [
+        {
+            "name": "Shane Faulkner",
+            "title": "System Engineer at Cerner",
+            "url": "linkedin.com/in/faulknershane",
+            "phone": "1 (928) 525-6166 (Home)",
+            "email": "contact@shanefaulkner.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Happy birthday!\n",
+            "time": "2018-01-28T17:42:00.000Z"
+        }
+    ]
+}

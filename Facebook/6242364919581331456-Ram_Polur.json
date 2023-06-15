@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6242364919581331456/",
+    "participants": [
+        {
+            "name": "Ram Polur",
+            "title": "Data Scientist / Epidemiologist at Humanity X",
+            "url": "linkedin.com/in/rpolur",
+            "phone": null,
+            "email": "rpolur@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-02-28T15:29:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

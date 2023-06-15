@@ -1,0 +1,693 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "33 Mutual Connections",
+                "You and Paul both know Gina Heller, Leanne Kinnard, and 31 others"
+            ],
+            [
+                "\"Uber’s New Mantra: ‘We Do the Right Thing. Period.’\" by MIKE ISAAC via NYT Technology",
+                "Paul shared this"
+            ],
+            [
+                "\"Snapchat User Growth Disappoints in Another Down Quarter\" by KATIE BENNER via NYT Technology",
+                "Paul shared this"
+            ],
+            [
+                "\"Tweeting in 280 Characters? Now You Can Do It, Too\" by MIKE ISAAC via NYT Technology",
+                "Paul shared this"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Senior Storage Engineer",
+                "Company Name",
+                "Zeta Global",
+                "Dates Employed",
+                "Oct 2016 – Present",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "Scottsdale, Arizona",
+                "Daily management and engineering of various storage platforms:-EMC VMAX, VNX, VNXe Isilon, VG8-IBM SVC, DS8800, FS840-NetApp 3050, 3150, 3250-HDS Unified VM-HPE 3Par V800, 7400, 8440, 9450Daily management and engineering of SAN-Brocade (EMC Connectrix/ CMCNE /BNA)-Cisco MDSDaily management and engineering of backup environment- Veritas NetBackup- EMC Data domain- EMC Isilon- Quantum i6000- IBM 3500- Veritas NetBackup AppliancesDaily management and engineering of systems- VMware- RHEL/OEL/CentOS- Oracle Solaris- Veritas Cluster Services- VxVM- Windows 2003-2016 server- Monitoring environment (Nagios XI / Xymon / Graphite- Ansible / Git automation"
+            ],
+            [
+                "Faculty Member",
+                "Company Name",
+                "University of Phoenix – Online Campus",
+                "Dates Employed",
+                "Nov 2008 – Jul 2017",
+                "Employment Duration",
+                "8 yrs 9 mos",
+                "Location",
+                "Phoenix, AZ",
+                "Facilitate courses online (Currently COM 130 - Technical Writing, COM135 - Business Writing & Research, US101 - Intro to Online Learning,. Entry block courses)"
+            ],
+            [
+                "Small Business IT Support / Web Design / IT Consultant",
+                "Company Name",
+                "Paul Simpson Consulting",
+                "Dates Employed",
+                "Feb 2002 – Mar 2017",
+                "Employment Duration",
+                "15 yrs 2 mos",
+                "Location",
+                "Phoenix, Arizona",
+                "Administer / repair / install small business computing environments (Network / Server / PC Hardware / Software / Active Directory)Website design & administration / management"
+            ],
+            [
+                "Storage / BRS Implementation Engineer",
+                "Company Name",
+                "vCORE Technology Partners",
+                "Dates Employed",
+                "Mar 2015 – Mar 2016",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "Scottsdale, AZ",
+                "Solution design / architecture, & implementation of storage, backup appliances, converged, hyper converged, and more. Implementation and integration of Storage, Backup, VMWare, vBlock, etc. Customer meetings, vendor meetings, SOW validations, etc.  Assisted with managed services engineering escalations, pre-sales engineering & design, post-sales support. SME for Linux & UNIX."
+            ],
+            [
+                "Enterprise Backup & Recovery Lead Engineer / Service Owner",
+                "Company Name",
+                "American Airlines",
+                "Dates Employed",
+                "Dec 2014 – Mar 2015",
+                "Employment Duration",
+                "4 mos",
+                "Location",
+                "Tempe, AZ",
+                "Owner of & responsible for global backup and recovery engineering. Design, document, and implement new backup environment utilizing Veritas (Symantec) NetBackup 7.6, DataDomain appliances, and IBM TS-3500 & Ts3200 series tape libraries.Manage backup contract for remote datacenters with HP/EDS Enterprise Backup & Recovery Services.Assist in determining DR strategy and offsite DR locationsWork with other engineers to establish a fully equipped lab environment for testingInterface with vendors for purchasing and evaluationsTrain operations personnel in use of new environmentsTest and evaluate new backup and replication technologies"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of Phoenix",
+                "Degree Name",
+                "MS",
+                "Field Of Study",
+                "Information Systems / Management",
+                "Grade",
+                "3.72",
+                "Dates attended or expected graduation",
+                "2004 – 2006",
+                "Activities and Societies:",
+                "Graduated March 31, 2006",
+                "Final GPA: 3.72"
+            ],
+            [
+                "University of Phoenix",
+                "Degree Name",
+                "MS",
+                "Field Of Study",
+                "Information Systems / Management",
+                "Grade",
+                "3.72",
+                "Dates attended or expected graduation",
+                "2004 – 2006",
+                "Activities and Societies:",
+                "Graduated March 31, 2006",
+                "Final GPA: 3.72"
+            ],
+            [
+                "University of Phoenix",
+                "Degree Name",
+                "None",
+                "Field Of Study",
+                "Information Technology",
+                "Dates attended or expected graduation",
+                "1999 – 2003",
+                "Activities and Societies:",
+                "Ethics, Project Management, Mathematics, Business Systems Development, Programming, Critical Thinking",
+                "Coursework toward a second BS in Information Technology. Terminated due to employment time constraints. Returned to pursue an MS."
+            ],
+            [
+                "University of Phoenix",
+                "Degree Name",
+                "None",
+                "Field Of Study",
+                "Information Technology",
+                "Dates attended or expected graduation",
+                "1999 – 2003",
+                "Activities and Societies:",
+                "Ethics, Project Management, Mathematics, Business Systems Development, Programming, Critical Thinking",
+                "Coursework toward a second BS in Information Technology. Terminated due to employment time constraints. Returned to pursue an MS."
+            ],
+            [
+                "University of Phoenix",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Business Management",
+                "Dates attended or expected graduation",
+                "1997 – 1999",
+                "Cumulative GPA 3.49"
+            ],
+            [
+                "University of Phoenix",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Business Management",
+                "Dates attended or expected graduation",
+                "1997 – 1999",
+                "Cumulative GPA 3.49"
+            ],
+            [
+                "Hewlett-Packard Co. Training",
+                "Degree Name",
+                "Certificate",
+                "Field Of Study",
+                "HP UNIX / OpenView / Security / Perl / Shell Scripting / Virtualization / Performance Tuning",
+                "Grade",
+                "PASS",
+                "Dates attended or expected graduation",
+                "2004 – 2011",
+                "Activities and Societies:",
+                "HP-UX, OpenView, Scripting, Performance, Security",
+                "HP Classes Taken:HP-UX System & Network Administration 1 - 6/04 (HP, Denver, CO)HP-UX System & Network Administration 2 - 8/04 (HP, Denver, CO)HP-UX System & Network Troubleshooting - 11/04 (HP, Downers Grove, IL)HP OpenView Operations for UNIX 1 - 1/05 (HP, Cupertino, CA)HP OpenView Performance Insight Admin 1 - 5/05 (HP, Atlanta, GA)HP OpenView Operations for UNIX 2 - 7/05 (HP, Downers Grove, IL)HP OpenView Network Node Manager 1 - 11/05 (HP, Downers Grove, IL)HP Integrity VSE Administration - 2/07 (HP, Chandler, AZ)HP POSIX Shell Scripting - 10/07 (HP, Mesa, AZ)HP PRM / WLM / gWLM Admin - 12/07 (HP, Chandler, AZ)Perl Programming – 06/09 (HP, Chandler, AZ)HP-UX Security–  08/09 (HP, Chandler, AZ)"
+            ],
+            [
+                "Hewlett-Packard Co. Training",
+                "Degree Name",
+                "Certificate",
+                "Field Of Study",
+                "HP UNIX / OpenView / Security / Perl / Shell Scripting / Virtualization / Performance Tuning",
+                "Grade",
+                "PASS",
+                "Dates attended or expected graduation",
+                "2004 – 2011",
+                "Activities and Societies:",
+                "HP-UX, OpenView, Scripting, Performance, Security",
+                "HP Classes Taken:HP-UX System & Network Administration 1 - 6/04 (HP, Denver, CO)HP-UX System & Network Administration 2 - 8/04 (HP, Denver, CO)HP-UX System & Network Troubleshooting - 11/04 (HP, Downers Grove, IL)HP OpenView Operations for UNIX 1 - 1/05 (HP, Cupertino, CA)HP OpenView Performance Insight Admin 1 - 5/05 (HP, Atlanta, GA)HP OpenView Operations for UNIX 2 - 7/05 (HP, Downers Grove, IL)HP OpenView Network Node Manager 1 - 11/05 (HP, Downers Grove, IL)HP Integrity VSE Administration - 2/07 (HP, Chandler, AZ)HP POSIX Shell Scripting - 10/07 (HP, Mesa, AZ)HP PRM / WLM / gWLM Admin - 12/07 (HP, Chandler, AZ)Perl Programming – 06/09 (HP, Chandler, AZ)HP-UX Security–  08/09 (HP, Chandler, AZ)"
+            ],
+            [
+                "Symantec Company",
+                "Degree Name",
+                "Certificate",
+                "Field Of Study",
+                "Veritas NetBackup Enterprise Administration",
+                "Grade",
+                "PASS",
+                "Dates attended or expected graduation",
+                "2007 – 2007",
+                "Activities and Societies:",
+                "Veritas, NetBackup, Administration",
+                "Certified NetBackup Enterprise Edition Administrator"
+            ],
+            [
+                "Symantec Company",
+                "Degree Name",
+                "Certificate",
+                "Field Of Study",
+                "Veritas NetBackup Enterprise Administration",
+                "Grade",
+                "PASS",
+                "Dates attended or expected graduation",
+                "2007 – 2007",
+                "Activities and Societies:",
+                "Veritas, NetBackup, Administration",
+                "Certified NetBackup Enterprise Edition Administrator"
+            ],
+            [
+                "Mesa Community College",
+                "Degree Name",
+                "Courses in Business Law, Technology, Metrology, UNIX, German, Psychology, Business, Computing",
+                "Field Of Study",
+                "Business Administration and Management, General / Electronics / Information Technology",
+                "Dates attended or expected graduation",
+                "1992 – 2000",
+                "Activities and Societies:",
+                "Courses in Business Law, Technology, Metrology, UNIX, German, Psychology, Business, Computing. Studied UNIX Systems Administration on Sun Solaris 8.",
+                "Terminated studies toward AAS to pursue a BS at University of Phoenix."
+            ],
+            [
+                "Mesa Community College",
+                "Degree Name",
+                "Courses in Business Law, Technology, Metrology, UNIX, German, Psychology, Business, Computing",
+                "Field Of Study",
+                "Business Administration and Management, General / Electronics / Information Technology",
+                "Dates attended or expected graduation",
+                "1992 – 2000",
+                "Activities and Societies:",
+                "Courses in Business Law, Technology, Metrology, UNIX, German, Psychology, Business, Computing. Studied UNIX Systems Administration on Sun Solaris 8.",
+                "Terminated studies toward AAS to pursue a BS at University of Phoenix."
+            ],
+            [
+                "Dobson High School",
+                "Degree Name",
+                "Diploma",
+                "Field Of Study",
+                "Various",
+                "Dates attended or expected graduation",
+                "1987 – 1991",
+                "Activities and Societies:",
+                "German Club, ROTC, Student Newspaper",
+                "General High School classes, with focus on German, Sciences, ROTC, and Business"
+            ],
+            [
+                "Dobson High School",
+                "Degree Name",
+                "Diploma",
+                "Field Of Study",
+                "Various",
+                "Dates attended or expected graduation",
+                "1987 – 1991",
+                "Activities and Societies:",
+                "German Club, ROTC, Student Newspaper",
+                "General High School classes, with focus on German, Sciences, ROTC, and Business"
+            ],
+            [
+                "Salzburg International Preparatory School",
+                "Degree Name",
+                "Transferred to another High School",
+                "Field Of Study",
+                "College/University Preparatory and Advanced High School/Secondary Diploma Program",
+                "Dates attended or expected graduation",
+                "1987 – 1987",
+                "Activities and Societies:",
+                "Skiing, cycling, hiking, ice skating, European travel & cultural immersion",
+                "Advanced High School CoursesExtensive travel & cultural studies throughout Europe."
+            ],
+            [
+                "Salzburg International Preparatory School",
+                "Degree Name",
+                "Transferred to another High School",
+                "Field Of Study",
+                "College/University Preparatory and Advanced High School/Secondary Diploma Program",
+                "Dates attended or expected graduation",
+                "1987 – 1987",
+                "Activities and Societies:",
+                "Skiing, cycling, hiking, ice skating, European travel & cultural immersion",
+                "Advanced High School CoursesExtensive travel & cultural studies throughout Europe."
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Fund raiser",
+                "Company Name",
+                "American Diabetes Association",
+                "Dates volunteered",
+                "May 2008 – Present",
+                "Volunteer duration",
+                "9 yrs 7 mos",
+                "Cause",
+                "Health",
+                "Step Out for a cure, Tour de Cure"
+            ],
+            [
+                "Fund raiser",
+                "Company Name",
+                "American Diabetes Association",
+                "Dates volunteered",
+                "May 2008 – Present",
+                "Volunteer duration",
+                "9 yrs 7 mos",
+                "Cause",
+                "Health",
+                "Step Out for a cure, Tour de Cure"
+            ],
+            [
+                "Media Manager, Crime Statistician",
+                "Company Name",
+                "Marlborough Mesa Neighborhood Association",
+                "Dates volunteered",
+                "Apr 2002 – Aug 2014",
+                "Volunteer duration",
+                "12 yrs 5 mos",
+                "Cause",
+                "Social Services",
+                "Manage media relations & liase with local law enforcement to reduce crime in neighborhood"
+            ],
+            [
+                "Media Manager, Crime Statistician",
+                "Company Name",
+                "Marlborough Mesa Neighborhood Association",
+                "Dates volunteered",
+                "Apr 2002 – Aug 2014",
+                "Volunteer duration",
+                "12 yrs 5 mos",
+                "Cause",
+                "Social Services",
+                "Manage media relations & liase with local law enforcement to reduce crime in neighborhood"
+            ],
+            [
+                "Director of Phoenix Area User Group",
+                "Company Name",
+                "Symantec",
+                "Dates volunteered",
+                "Jun 2009 – Mar 2017",
+                "Volunteer duration",
+                "7 yrs 10 mos",
+                "Cause",
+                "Science and Technology",
+                "Director of Phoenix Area Symantec Backup & Archiving user group (Formerly NetBackup User Group)"
+            ],
+            [
+                "Director of Phoenix Area User Group",
+                "Company Name",
+                "Symantec",
+                "Dates volunteered",
+                "Jun 2009 – Mar 2017",
+                "Volunteer duration",
+                "7 yrs 10 mos",
+                "Cause",
+                "Science and Technology",
+                "Director of Phoenix Area Symantec Backup & Archiving user group (Formerly NetBackup User Group)"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See 47 more skills"
+            ],
+            "Recommendations",
+            [
+                "Under Armour",
+                "328,703 followers"
+            ],
+            [
+                "IT Core Infrastructure",
+                "73,581 members"
+            ],
+            [
+                "Ilya PozinIlya Pozin is a LinkedIn Influencer",
+                "Co-Founder @ Pluto TV | Advisor @ Coplex Ventures",
+                "736,809 followers"
+            ],
+            [
+                "Oracle Customer Experience",
+                "3,784 followers"
+            ],
+            [
+                "Babble Media | Babble.com",
+                "2,214 followers"
+            ],
+            [
+                "Allstate",
+                "156,240 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Under Armour",
+                "328,703 followers"
+            ],
+            [
+                "Under Armour",
+                "328,703 followers"
+            ],
+            [
+                "IT Core Infrastructure",
+                "73,581 members"
+            ],
+            [
+                "IT Core Infrastructure",
+                "73,581 members"
+            ],
+            [
+                "Ilya PozinIlya Pozin is a LinkedIn Influencer",
+                "Co-Founder @ Pluto TV | Advisor @ Coplex Ventures",
+                "736,809 followers"
+            ],
+            [
+                "Ilya PozinIlya Pozin is a LinkedIn Influencer",
+                "Co-Founder @ Pluto TV | Advisor @ Coplex Ventures",
+                "736,809 followers"
+            ],
+            [
+                "Ilya Pozin is a LinkedIn Influencer"
+            ],
+            [
+                "Oracle Customer Experience",
+                "3,784 followers"
+            ],
+            [
+                "Oracle Customer Experience",
+                "3,784 followers"
+            ],
+            [
+                "Babble Media | Babble.com",
+                "2,214 followers"
+            ],
+            [
+                "Babble Media | Babble.com",
+                "2,214 followers"
+            ],
+            [
+                "Allstate",
+                "156,240 followers"
+            ],
+            [
+                "Allstate",
+                "156,240 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Ethan Parr",
+                "Director - IT Infrastructure Engineering at Marriott International, Inc.",
+                "October 12, 2012, Paul worked with Ethan in the same group",
+                "Paul is a fantastic resource to any team he's on. More than just a generalist systems administrator, you can really count on his expertise in a variety of subjects. He's reliable, a team player, and has a firm grasp on systems architecture. US Airways is lucky to have him."
+            ],
+            [
+                "Ethan Parr",
+                "Director - IT Infrastructure Engineering at Marriott International, Inc.",
+                "October 12, 2012, Paul worked with Ethan in the same group"
+            ],
+            [
+                "Ethan Parr",
+                "Director - IT Infrastructure Engineering at Marriott International, Inc.",
+                "October 12, 2012, Paul worked with Ethan in the same group"
+            ],
+            [
+                "Ethan Parr",
+                "Director - IT Infrastructure Engineering at Marriott International, Inc.",
+                "October 12, 2012, Paul worked with Ethan in the same group"
+            ],
+            "Director - IT Infrastructure Engineering at Marriott International, Inc. ",
+            [
+                "Paul is a fantastic resource to any team he's on. More than just a generalist systems administrator, you can really count on his expertise in a variety of subjects. He's reliable, a team player, and has a firm grasp on systems architecture. US Airways is lucky to have him."
+            ],
+            [
+                "Paul is a fantastic resource to any team he's on. More than just a generalist systems administrator, you can really count on his expertise in a variety of subjects. He's reliable, a team player, and has a firm grasp on systems architecture. US Airways is lucky to have him."
+            ],
+            [
+                "Ashley Miller",
+                "Producer at Merestone",
+                "April 20, 2011, Ashley was a client of Paul’s",
+                "I placed Paul as a full-time employee at US Airways. From the moment I spoke with him to the minute he was hired at US Airways I knew he was a high-caliber IT Professional. Paul is extremely knowledgable within the UNIX platform and I know he continues to impress people in his new role on a daily basis."
+            ],
+            [
+                "Ashley Miller",
+                "Producer at Merestone",
+                "April 20, 2011, Ashley was a client of Paul’s"
+            ],
+            [
+                "Ashley Miller",
+                "Producer at Merestone",
+                "April 20, 2011, Ashley was a client of Paul’s"
+            ],
+            [
+                "Ashley Miller",
+                "Producer at Merestone",
+                "April 20, 2011, Ashley was a client of Paul’s"
+            ],
+            "Producer at Merestone",
+            [
+                "I placed Paul as a full-time employee at US Airways. From the moment I spoke with him to the minute he was hired at US Airways I knew he was a high-caliber IT Professional. Paul is extremely knowledgable within the UNIX platform and I know he continues to impress people in his new role on a daily basis."
+            ],
+            [
+                "I placed Paul as a full-time employee at US Airways. From the moment I spoke with him to the minute he was hired at US Airways I knew he was a high-caliber IT Professional. Paul is extremely knowledgable within the UNIX platform and I know he continues to impress people in his new role on a daily basis."
+            ],
+            [
+                "Jose Davila",
+                "Principal Software Engineer at Microchip Technology",
+                "February 24, 2009, Jose worked with Paul in different groups",
+                "Ever since I started working with Paul, Paul has demonstrated to be conscientious about his work to make sure it is done right the first time.  Paul's personal and work ethics are of high moral value.  At the same time, Paul is understanding and always willing to help out regardless of whether or not it is his duty to do so."
+            ],
+            [
+                "Jose Davila",
+                "Principal Software Engineer at Microchip Technology",
+                "February 24, 2009, Jose worked with Paul in different groups"
+            ],
+            [
+                "Jose Davila",
+                "Principal Software Engineer at Microchip Technology",
+                "February 24, 2009, Jose worked with Paul in different groups"
+            ],
+            [
+                "Jose Davila",
+                "Principal Software Engineer at Microchip Technology",
+                "February 24, 2009, Jose worked with Paul in different groups"
+            ],
+            "Principal Software Engineer at Microchip Technology",
+            [
+                "Ever since I started working with Paul, Paul has demonstrated to be conscientious about his work to make sure it is done right the first time.  Paul's personal and work ethics are of high moral value.  At the same time, Paul is understanding and always willing to help out regardless of whether or not it is his duty to do so."
+            ],
+            [
+                "Ever since I started working with Paul, Paul has demonstrated to be conscientious about his work to make sure it is done right the first time.  Paul's personal and work ethics are of high moral value.  At the same time, Paul is understanding and always willing to help out regardless of whether or not it is his duty to do so."
+            ],
+            [
+                "Stephen Ciullo",
+                "Master Technologist - Technical Consultant V at Hewlett-Packard",
+                "February 22, 2009, Paul was a client of Stephen’s",
+                "I am a 'specialist' that works with system administrators around the country in many companies. Paul Simpson is without a doubt one of the most knowledgeable people I have worked with. I spend time working with Paul several times per year, and besides his knowledge in my area of expertise, he is extremely proficient in EVERY area of administration. If I were in a position to hire an administrator...I would hire Paul in an instant. It is someone of his caliber you want in your company."
+            ],
+            [
+                "Stephen Ciullo",
+                "Master Technologist - Technical Consultant V at Hewlett-Packard",
+                "February 22, 2009, Paul was a client of Stephen’s"
+            ],
+            [
+                "Stephen Ciullo",
+                "Master Technologist - Technical Consultant V at Hewlett-Packard",
+                "February 22, 2009, Paul was a client of Stephen’s"
+            ],
+            [
+                "Stephen Ciullo",
+                "Master Technologist - Technical Consultant V at Hewlett-Packard",
+                "February 22, 2009, Paul was a client of Stephen’s"
+            ],
+            "Master Technologist - Technical Consultant V at Hewlett-Packard",
+            [
+                "I am a 'specialist' that works with system administrators around the country in many companies. Paul Simpson is without a doubt one of the most knowledgeable people I have worked with. I spend time working with Paul several times per year, and besides his knowledge in my area of expertise, he is extremely proficient in EVERY area of administration. If I were in a position to hire an administrator...I would hire Paul in an instant. It is someone of his caliber you want in your company."
+            ],
+            [
+                "I am a 'specialist' that works with system administrators around the country in many companies. Paul Simpson is without a doubt one of the most knowledgeable people I have worked with. I spend time working with Paul several times per year, and besides his knowledge in my area of expertise, he is extremely proficient in EVERY area of administration. If I were in a position to hire an administrator...I would hire Paul in an instant. It is someone of his caliber you want in your company."
+            ],
+            [
+                "Ethan Parr",
+                "Director - IT Infrastructure Engineering at Marriott International, Inc.",
+                "October 10, 2012, Ethan worked with Paul in the same group",
+                "Ethan is a well-rounded, knowledgeable, & experienced systems & storage engineer, with a wide range of experiences to draw upon. He is always willing to pitch in and help out others, both in the group, and in the user base, and he promptly responds to any issues or requests, driving each issue to a logical resolution. Dedicated, driven, knowledgeable, and friendly, he is truly an asset to the team."
+            ],
+            [
+                "Ethan Parr",
+                "Director - IT Infrastructure Engineering at Marriott International, Inc.",
+                "October 10, 2012, Ethan worked with Paul in the same group"
+            ],
+            [
+                "Ethan Parr",
+                "Director - IT Infrastructure Engineering at Marriott International, Inc.",
+                "October 10, 2012, Ethan worked with Paul in the same group"
+            ],
+            [
+                "Ethan Parr",
+                "Director - IT Infrastructure Engineering at Marriott International, Inc.",
+                "October 10, 2012, Ethan worked with Paul in the same group"
+            ],
+            "Director - IT Infrastructure Engineering at Marriott International, Inc. ",
+            [
+                "Ethan is a well-rounded, knowledgeable, & experienced systems & storage engineer, with a wide range of experiences to draw upon. He is always willing to pitch in and help out others, both in the group, and in the user base, and he promptly responds to any issues or requests, driving each issue to a logical resolution. Dedicated, driven, knowledgeable, and friendly, he is truly an asset to the team."
+            ],
+            [
+                "Ethan is a well-rounded, knowledgeable, & experienced systems & storage engineer, with a wide range of experiences to draw upon. He is always willing to pitch in and help out others, both in the group, and in the user base, and he promptly responds to any issues or requests, driving each issue to a logical resolution. Dedicated, driven, knowledgeable, and friendly, he is truly an asset to the team."
+            ],
+            [
+                "Jeffrey Braun",
+                "IT Consultant - HPE Professional Services Engineer at Tech Data",
+                "May 25, 2012, Paul worked with Jeffrey in different groups",
+                "Jeff has been, and continues to be a great asset to US Airways IT, while serving in our Warranty Support sector. He is the consummate professional, fixing issues with hardware quickly & effectively. A good communicator & very easy to work with, as well as technically knowledgeable and proficient. Jeff would be an asset to any organization."
+            ],
+            [
+                "Jeffrey Braun",
+                "IT Consultant - HPE Professional Services Engineer at Tech Data",
+                "May 25, 2012, Paul worked with Jeffrey in different groups"
+            ],
+            [
+                "Jeffrey Braun",
+                "IT Consultant - HPE Professional Services Engineer at Tech Data",
+                "May 25, 2012, Paul worked with Jeffrey in different groups"
+            ],
+            [
+                "Jeffrey Braun",
+                "IT Consultant - HPE Professional Services Engineer at Tech Data",
+                "May 25, 2012, Paul worked with Jeffrey in different groups"
+            ],
+            "IT Consultant - HPE Professional Services Engineer at Tech Data",
+            [
+                "Jeff has been, and continues to be a great asset to US Airways IT, while serving in our Warranty Support sector. He is the consummate professional, fixing issues with hardware quickly & effectively. A good communicator & very easy to work with, as well as technically knowledgeable and proficient. Jeff would be an asset to any organization."
+            ],
+            [
+                "Jeff has been, and continues to be a great asset to US Airways IT, while serving in our Warranty Support sector. He is the consummate professional, fixing issues with hardware quickly & effectively. A good communicator & very easy to work with, as well as technically knowledgeable and proficient. Jeff would be an asset to any organization."
+            ]
+        ],
+        "skills": [
+            [
+                "SAN",
+                "See 157 endorsements for SAN",
+                "99+",
+                "SAN",
+                "Endorse",
+                "Endorsed by 2 of Paul’s colleagues at US Airways (now American Airlines)",
+                "Endorsed by 6 people who know SAN"
+            ],
+            [
+                "SAN",
+                "See 157 endorsements for SAN",
+                "99+"
+            ],
+            [
+                "Unix",
+                "See 110 endorsements for Unix",
+                "99+",
+                "Unix",
+                "Endorse",
+                "Endorsed by Neil Kassal and 5 others who are highly skilled at this",
+                "Endorsed by Patricia Stinson and 1 other mutual connection"
+            ],
+            [
+                "Unix",
+                "See 110 endorsements for Unix",
+                "99+"
+            ],
+            [
+                "Solaris",
+                "See 108 endorsements for Solaris",
+                "99+",
+                "Solaris",
+                "Endorse",
+                "Endorsed by Neil Kassal and 2 others who are highly skilled at this",
+                "Endorsed by Patricia Stinson (mutual connection)"
+            ],
+            [
+                "Solaris",
+                "See 108 endorsements for Solaris",
+                "99+"
+            ]
+        ],
+        "summary": "    Specialties: EMC, HP/3Par, IBM, & NetApp Storage, Brocade SAN, Linux / UNIX Administration & Engineering, System Builds, Solutions design & architecture, DataDomain, HP-UX Engineering, Performance Tuning, NetBackup, Windows NT 3.51 thru 2016, Active Directory Administration, Storage Systems Engineering, Generating / Writing Specification & Procedures, Project Management,Experience:23 years of Project Management20 years of HP-UX / Solaris / Linux administration11 years HP-UX Performance Tuning & Analysis22 years of windows administration22 years building systems (servers / desktops)4 years VMware adminstration6 years semiconductor defect reduction / yield engineering6 years database design and maintenance (Oracle, MS SQL, Sybase, Lotus)4 years semiconductor photolithography engineering17 years HP/Brocade SAN / EVA administration17 years EMC/Brocade SAN / Symmetrix, VNX, VNX2, VNXe, VMAX (1,2,3), Clariion, celerra/vg8, vPLEX, vSPEX, RecoverPoint admin install & engineering14 years Veritas NetBackup Enterprise administration9 years DataDomain experience1 year IBM SVC / DS8800 / FS840 experience1 year Violin storage engineering1 year 3Par storage engineering4 years Quantum dedupe experience13 years Quantum tape library experience13 years NetApp administrationB.S. - Business ManagementM.S. - Information Systems / ManagementCertified Nutanix Platform Professional / Sales Rep / Sales EngineerCertified Nimble Storage Installation & Operation ProfessionalCertified for EMC DataDomain Implementation EngineerCertified for EMC VNX Implementation EngineerCertified for EMC Isilon Implementation EngineerMore certifications, but too many to list here\n  \n  \n",
+        "name": "Paul Simpson MIS/M, BSB/M",
+        "title": "Senior Storage Engineer at Zeta Global",
+        "url": "linkedin.com/in/pdsimpson",
+        "phone": "4803310227 (Mobile)",
+        "email": "pdsimpson@gmail.com"
+    }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "22Feb11",
+    "participants": "Paul Falkenbach | VP Sales & Marketing at National Sign Systems > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Paul Falkenbach",
+        "url": "linkedin.com/in/paul-falkenbach-0491a83",
+        "email": "pfalkenbach@natsignsys.com",
+        "title": "VP Sales & Marketing at National Sign Systems"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Congratulations and good luck Brian. See you soon.",
+    "time": "2011-02-22T12:16:00.000Z",
+    "title": "VP Sales & Marketing at National Sign Systems"
+  }
+]

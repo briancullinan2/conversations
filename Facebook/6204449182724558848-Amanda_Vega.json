@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6204449182724558848/",
+    "participants": [
+        {
+            "name": "Amanda Vega",
+            "title": "CEO with 20+ years interactive experience. PR Maven. Social Media Zealot. Published Author. Professional speaker.",
+            "url": "linkedin.com/in/amandavega",
+            "phone": "(480) 275-9797 (Mobile)",
+            "email": "amanda@amandavega.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "I like the social media zealot part!\n",
+            "time": "2017-11-16T00:25:00.000Z"
+        },
+        {
+            "from": "Amanda Vega",
+            "message": "Thanks! I figured it was way cooler than \"expert.\" LOL.\n",
+            "time": "2017-11-16T05:45:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "How do you know? https://www.linkedin.com/in/marlisekarlin\n",
+            "time": "2017-11-16T05:50:00.000Z"
+        },
+        {
+            "from": "Amanda Vega",
+            "message": "Don't know her personally. She connected looking to connect with a yogi friend of mine in LA.\n",
+            "time": "2017-11-16T13:54:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "She's a brilliant lady.\n",
+            "time": "2017-11-16T15:43:00.000Z"
+        },
+        {
+            "from": "Amanda Vega",
+            "message": "Good to know. Maybe ill reach out and get to know her better.... thanks!\n",
+            "time": "2017-11-16T16:18:00.000Z"
+        }
+    ]
+}

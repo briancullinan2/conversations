@@ -1,0 +1,91 @@
+﻿Session Start (bjcullinan@gmail.com:James Palmer): Tue Nov 25 22:51:35 2008
+[11/25/2008 10:51:48 PM] bjcullinan: Hey
+[11/25/2008 10:53:00 PM] bjcullinan: So, the last thing i remember concerning the Digital Carnival surveys is I handed them off to Leah, I don't know where they went after that.
+[11/25/2008 10:53:32 PM] James Palmer: You don't have anything digital?
+[11/25/2008 10:55:34 PM] bjcullinan: I put them all in a database and handed the hard copies back to Leah.  So yes i can set you up with an account, or just email you a print out of the database.
+[11/25/2008 10:56:01 PM] James Palmer: Ooh - either would be awesome.
+[11/25/2008 11:04:21 PM] James Palmer: Err..  Just curious - can you get me either tonight?  Probably an SQL dump might be easiest?
+[11/25/2008 11:04:54 PM] bjcullinan: Yeah i think that would be best, my grants don't seem to be working, and i don't have any ports set up.
+[11/25/2008 11:05:15 PM] James Palmer: Yeah - an sql dump would be great.
+[11/25/2008 11:13:02 PM] bjcullinan: sent
+[11/25/2008 11:14:18 PM] James Palmer: Did you have a list of students and IDs as well or just survey results?
+[11/25/2008 11:15:17 PM] bjcullinan: Yes, there was a list of attendees, but i don't think i have that anymore.  I think i gave these things back to Leah or Dave.
+[11/25/2008 11:15:40 PM] James Palmer: Ok - and you didn't enter those in the database?
+[11/25/2008 11:16:21 PM] bjcullinan: No, i haven't set up a database for attendees yet, we have just been using the attendance sheets for adding new people to the listserv.
+[11/25/2008 11:17:15 PM] James Palmer: Ok.  Thanks - this is better than what I had which was nothing!
+[11/25/2008 11:17:45 PM] bjcullinan: No problem, i am going to fix up the php page right now.
+[11/25/2008 11:18:15 PM] James Palmer: php page?
+[11/25/2008 11:18:57 PM] bjcullinan: yes i wrote a page for inserting information but the view button isn't working
+[11/25/2008 11:19:22 PM] James Palmer: Ah. ok.  Thanks again for the dump.
+[11/25/2008 11:33:53 PM] bjcullinan: (Link: http://209.250.30.30/acm_survey.php)http://209.250.30.30/acm_survey.php
+[11/25/2008 11:34:12 PM] bjcullinan: you can use the View button at the bottom, the first item in the list is the question key
+Session Close (James Palmer): Tue Nov 25 23:38:32 2008
+
+
+Session Start (bjcullinan@gmail.com:James Palmer): Thu Jan 22 23:11:40 2009
+[01/22/2009 11:12:15 PM] bjcullinan: Were you the person who was telling me about a book about a hidden language within spoken word today that could control what people do?
+Session Close (James Palmer): Thu Jan 22 23:14:17 2009
+
+
+Session Start (bjcullinan@gmail.com:James Palmer): Fri Jan 23 07:31:22 2009
+[01/23/2009 07:31:23 AM] James Palmer: I don't think so.  You might be thinking of Neuro-linguistic programming.  Darren Brown (who I have mentioned) often alludes that he does NLP as part of his mentalism act.  But he really doesn't..  His act is based on pretty straightforward illusions and cold/warm reading.
+[01/23/2009 07:32:17 AM] James Palmer: NLP as far as I can tell is bunk.
+[01/23/2009 10:01:19 AM] bjcullinan: ah i think that is it
+[01/23/2009 10:01:30 AM] bjcullinan: i guess i will just have to read the book
+[01/23/2009 10:08:05 AM] bjcullinan: It sounded like it was about that, but it was a fictional story.
+[01/23/2009 10:19:51 AM] bjcullinan: I must have gotten my stories mixed up, i remember you talk about Darren brown in class, i am thinking of the book Snow Crash that i was told to read by someone.
+Session Close (James Palmer): Fri Jan 23 10:49:53 2009
+
+
+Session Start (bjcullinan@gmail.com:James Palmer): Sun Jan 25 14:09:45 2009
+[01/25/2009 02:10:08 PM] bjcullinan: i keep getting blue screens after i install the usb driver
+[01/25/2009 02:10:35 PM] bjcullinan: it looks like it hangs there for a moment and starts up the drivers, and then i get a libusb0.dll blue screen
+[01/25/2009 02:11:33 PM] bjcullinan: JTag tool installs fine, it crashes after i install the second device
+Session Start (bjcullinan@gmail.com:James Palmer): Fri Jan 30 13:09:29 2009
+[01/30/2009 01:11:51 PM] bjcullinan: So i guess maybe you or david was misunderstanding me with the light detector, i think i could make a circuit to only be on when there is a specific brightness of light or more, and discard everything below that peak, so it would be either on or off.  then for my input i would pragmatically discard some bits and just figure out if the majority of the time the light is on or off that must mean a certain signal.
+[01/30/2009 01:15:22 PM] *** Disconnected from server.
+[01/30/2009 01:30:58 PM] James Palmer: Ah ok.  That should be easy enough to integrate.
+[01/30/2009 02:28:12 PM] bjcullinan: so what is the due date on this next project?  were the only requirements to read in an input and then output some secret code?
+[01/30/2009 02:31:55 PM] James Palmer: I didn't say the due date.  It's likely to be next Monday.  And the requirements were to choose one of the input and output methods we talked about unless you come to me with another idea.
+[01/30/2009 02:32:16 PM] bjcullinan: ok, sounds good
+Session Close (James Palmer): Fri Jan 30 15:02:18 2009
+
+
+Session Start (bjcullinan@gmail.com:James Palmer): Mon Feb 02 14:01:44 2009
+[02/02/2009 02:01:52 PM] bjcullinan: Do you have a soldering iron in your office?
+[02/02/2009 02:02:06 PM] James Palmer: Yes.  But no solder.
+[02/02/2009 02:02:18 PM] bjcullinan: i have some, can i borrow it?
+[02/02/2009 02:02:30 PM] James Palmer: Sure, if you put the batteries in.
+[02/02/2009 02:09:36 PM] bjcullinan: darnit, i need cheaper wire
+[02/02/2009 02:09:49 PM] James Palmer: Why is that?
+[02/02/2009 02:16:14 PM] bjcullinan: i want to solder leads to all the wire holes and put them all through the little hole in the plastic cover
+Session Close (James Palmer): Mon Feb 02 14:30:33 2009
+
+
+Session Start (bjcullinan@gmail.com:James Palmer): Sun Feb 08 21:51:14 2009
+[02/08/2009 09:51:28 PM] bjcullinan: Will you shorten the length of class tomorrow so i can go skiing?
+[02/08/2009 10:21:36 PM] *** Disconnected from server.
+Session Close (James Palmer): Sun Feb 08 22:51:51 2009
+
+
+Session Start (bjcullinan@gmail.com:James Palmer): Mon Mar 02 13:09:24 2009
+[03/02/2009 01:09:48 PM] bjcullinan: I almost forgot, me and a few other students in ES want to make a lazer tag game with our chips
+[03/02/2009 01:18:01 PM] James Palmer: Cool.  Sounds like fun.
+[03/02/2009 01:19:22 PM] bjcullinan: could you come up with a project after spring break that would allow us to propose a use for the chips and implement it? if there isn't already a full plan of projects
+Session Close (James Palmer): Mon Mar 02 14:02:49 2009
+
+
+Session Start (bjcullinan@gmail.com:James Palmer): Fri Mar 06 14:02:52 2009
+[03/06/2009 02:03:36 PM] bjcullinan: So that problem i was having with fulltext, i will probably just implement my own simple fulltext like searching into the actualy sql statement
+[03/06/2009 02:04:13 PM] bjcullinan: using the locate() function in sql
+[03/06/2009 02:19:32 PM] James Palmer: (Link: http://swish-e.org/)http://swish-e.org/ in case you are interested. Might not be ideal for your app, but does really good relevance analysis and its lightning fast.
+[03/06/2009 02:24:03 PM] bjcullinan: yeah i could make an extension to use that, i am trying to make it so it can be loaded on to any system with the default settings though
+[03/06/2009 02:24:09 PM] bjcullinan: like wamp, lamp, and mamp
+Session Close (James Palmer): Fri Mar 06 14:54:43 2009
+
+
+Session Start (bjcullinan@gmail.com:James Palmer): Wed May 06 13:32:56 2009
+[05/06/2009 01:33:03 PM] bjcullinan: Did you find the report in your box?
+Session Close (James Palmer): Wed May 06 13:33:03 2009
+
+

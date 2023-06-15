@@ -1,0 +1,56 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "16Sep17",
+    "participants": "Brian Cullinan | wizard > James Robinson | Statistical Consultant",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "James Robinson",
+        "url": "linkedin.com/in/james-robinson-9b97205",
+        "email": "james.mac.robinson@gmail.com",
+        "title": "Statistical Consultant"
+      }
+    ],
+    "message": "Hey buddy how's it going!? I am looking for work. What have you been up to?",
+    "time": "2017-09-16T00:12:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "16Sep17",
+    "participants": "Brian Cullinan | wizard > Gary Duggan | Sales Account Executive at CityScapes International Inc",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Gary Duggan",
+        "url": "linkedin.com/in/gary-duggan-90a9b29b",
+        "email": "gduggan@cityscapesinc.com",
+        "title": "Sales Account Executive at CityScapes International Inc"
+      }
+    ],
+    "message": "So great to hear back! I am looking for a job I would love to come work for you!",
+    "time": "2017-09-16T00:30:00.000Z",
+    "title": "wizard"
+  }
+]

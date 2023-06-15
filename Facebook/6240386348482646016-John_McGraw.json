@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6240386348482646016/",
+    "participants": [
+        {
+            "name": "John McGraw",
+            "title": "Co Founder at Equestrian Life",
+            "url": "linkedin.com/in/jomcgraw",
+            "phone": "6508144769 (Mobile)",
+            "email": "john@equestrianlife.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-23T04:27:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "John McGraw",
+            "time": "2017-03-08T14:52:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-08T18:39:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

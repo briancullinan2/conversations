@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6220997848222232576/",
+    "participants": [
+        {
+            "name": "Phil Potter",
+            "title": "Founder & CEO, The Armory",
+            "url": "linkedin.com/in/philllippotter",
+            "phone": null,
+            "email": "phillip.t.potter@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-31T16:24:00.000Z"
+        }
+    ]
+}

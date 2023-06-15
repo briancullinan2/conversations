@@ -1,0 +1,868 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "17 Mutual Connections",
+                "You and Thom both know Lauretta (Laurie) Zerga, Mark Hayhurst, and 15 others"
+            ],
+            [
+                "1 Mutual Group",
+                "You and Thom are both in the Cloud Native Application Delivery and DevOps group"
+            ],
+            [
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Sr. Software Engineer",
+                "Company Name",
+                "IGT",
+                "Dates Employed",
+                "Jun 2017 – Present",
+                "Employment Duration",
+                "6 mos",
+                "Location",
+                "Austin, Texas"
+            ],
+            [
+                "Sr. Software Engineer — DevOps",
+                "Company Name",
+                "Revionics",
+                "Dates Employed",
+                "Dec 2014 – Nov 2015",
+                "Employment Duration",
+                "1 yr",
+                "Location",
+                "Austin, Texas",
+                "Sr. Software Engineer embedded in DevOps team:•\tImplemented a web portal for DevOps custom developed triage/planning tools (Node.js, Python, Flask, Bootstrap, Nginx):—\tDeveloped Customer Explorer app to query customer database meta data (cached data from SQL Server and MongoDB).—\tDeveloped IP Address Explorer to query Amazon Web Service (AWS) IP uses (interfaces, public/private DNS, and end use, e.g., server/database/customer).—\tDeveloped RabbitMQ Management REST API query app to gather exchange and queue stats leading to bottleneck problems.•\tDeveloped PowerShell code to build out an IIS web server (apps, app pools, vdirs, ACLs, etc.)•\tDevised environments/projects/processes for Octopus Deploy product evaluation:—\tLeveraged custom PowerShell code to perform customer and/or site specific actions for ASP.NET app deployments.—\tConfigured product line deployment flow to QA, staging, UAT, sandbox and production environments."
+            ],
+            [
+                "MTS Software Engineer",
+                "Company Name",
+                "eBay/PayPal",
+                "Dates Employed",
+                "Mar 2010 – Nov 2014",
+                "Employment Duration",
+                "4 yrs 9 mos",
+                "Location",
+                "Austin, TX",
+                "Member of the Technical Staff — eBay Core PlatformsSoftware Engineer for Core Platform products:•\tPorted automated workload stress management system (Python, CGI) to Java. Reversed engineered system specifications from Python code and web pages. The Tomcat hosted Servlet served JSP and AJAX functions backed by SQL CRUD operations for an HTML5 experience (JavaScript, jQuery, DataTables).•\tPerformed triage, customization and troubleshooting for WSO2 load balancer product for managing web traffic. Member of the Technical Staff —PayPal Web InfrastructureSoftware Engineer for C++ based web infrastructure frameworks:•\tSubject matter expert for Web Infrastructure and consultant for Product Developers (PD).•\tPerformed triage and troubleshooting for critical production business functions. Worked issues that involved communicating with various Engineering and Operations groups from around the world.•\tDeveloped code fixes for framework code as well as for orphaned PD code."
+            ],
+            [
+                "Sr. Software Developer — Trading Technology",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "Jul 2003 – Feb 2009",
+                "Employment Duration",
+                "5 yrs 8 mos",
+                "Location",
+                "Austin, Texas Area",
+                "Developed stock trading applications on Windows servers using .NET and C++ technologies:•\tPorted a proprietary customer account balances calculation engine from the mainframe (z/OS) to Windows. Proving that the COBOL code could run unmodified as Win32 DLLs, I developed a multi-threaded C++ MFC server app to use these DLLs to service high-volume TCP/IP requests from all our client web and desktop channels.•\tSaved over $9M/year by shifting CPU workload for these customer account balances and positions requests from the mainframe plex to Windows servers. Lowered mainframe CPU demand allowed for the sale of a mainframe.•\tReceived Excellence in Service award for development of CPU offload system.•\tUpgraded app server to .NET (C++/CLI) to support .NET Remoting requests.•\tDeveloped a Windows service (C#) to serve customer account balances and positions data from an in-memory data store via .NET Remoting.•\tDeveloped testing and validation utilities (TCP/IP and .NET Remoting requests) to exercise and ensure correct server operation.•\tPrototyped Java EE Web Service for order status component of the trading system.•\tMentored 6 new team members in these multi-platform programming techniques. Consulted with these developers as they derived 3 additional trading system server apps from this project.•\tDeveloped production monitoring procedures and trained operations in assessing health of these systems."
+            ],
+            [
+                "Sr. Software Developer — Common System Services",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "Jan 1994 – Dec 1999",
+                "Employment Duration",
+                "6 yrs",
+                "Location",
+                "San Francisco Bay Area",
+                "Developed common services (APIs and components) for our multi-platform (z/OS, Windows, Solaris) environment:•\tDeveloped middleware components (data marshaling, data compression) to expose mainframe-based business functions to Windows desktop environments using C, C++, Java, VB, and DCOM.•\tDeveloped utilities and APIs to integrate vendor software into our business applications environment (C, C++, Java on Windows).•\tDeveloped multi-platform messaging components on z/OS and Windows using WebSphere MQ for a prototype of trading event notification publish and subscribe system.•\tDeveloped a multi-platform data gathering and information delivery system for branch office LED information display systems using CICS (z/OS and AIX), C, VB, COM, and DCOM.•\tReceived Excellence in Service award for rapid evaluation, tools development, and deployment of Windows NT (Solaris desktop replacement)."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "City College of San Francisco",
+                "Degree Name",
+                "Associate's Degree",
+                "Field Of Study",
+                "Computer and Information Science"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Ben HorowitzBen Horowitz is a LinkedIn Influencer",
+                "Horowitz at Andreessen Horowitz",
+                "226,004 followers"
+            ],
+            [
+                "Cloud Native Application Delivery and DevOps",
+                "14,266 members"
+            ],
+            [
+                "Austin Software Professionals",
+                "1,429 members"
+            ],
+            [
+                "Cloud Computing",
+                "471,395 members"
+            ],
+            [
+                "Agile and Lean Software Development",
+                "154,488 members"
+            ],
+            [
+                "TechCrunch",
+                "1,909,400 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Ben HorowitzBen Horowitz is a LinkedIn Influencer",
+                "Horowitz at Andreessen Horowitz",
+                "226,004 followers"
+            ],
+            [
+                "Ben HorowitzBen Horowitz is a LinkedIn Influencer",
+                "Horowitz at Andreessen Horowitz",
+                "226,004 followers"
+            ],
+            [
+                "Ben Horowitz is a LinkedIn Influencer"
+            ],
+            [
+                "Cloud Native Application Delivery and DevOps",
+                "14,266 members"
+            ],
+            [
+                "Cloud Native Application Delivery and DevOps",
+                "14,266 members"
+            ],
+            [
+                "Austin Software Professionals",
+                "1,429 members"
+            ],
+            [
+                "Austin Software Professionals",
+                "1,429 members"
+            ],
+            [
+                "Cloud Computing",
+                "471,395 members"
+            ],
+            [
+                "Cloud Computing",
+                "471,395 members"
+            ],
+            [
+                "Agile and Lean Software Development",
+                "154,488 members"
+            ],
+            [
+                "Agile and Lean Software Development",
+                "154,488 members"
+            ],
+            [
+                "TechCrunch",
+                "1,909,400 followers"
+            ],
+            [
+                "TechCrunch",
+                "1,909,400 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Ramesh Babu Srinivasan",
+                "Configuration Manager at Revionics",
+                "January 22, 2017, Thom worked with Ramesh Babu in the same group",
+                "Thom has extensive experience delivering technical solutions in Microsoft .NET and PowerShell platforms. At Revionics he demonstrated his ability to learn new products quickly and provide valuable input when piloting solutions. I would highly recommend Thom to any project seeking a highly skilled technical Sr. Developer role."
+            ],
+            [
+                "Ramesh Babu Srinivasan",
+                "Configuration Manager at Revionics",
+                "January 22, 2017, Thom worked with Ramesh Babu in the same group"
+            ],
+            [
+                "Ramesh Babu Srinivasan",
+                "Configuration Manager at Revionics",
+                "January 22, 2017, Thom worked with Ramesh Babu in the same group"
+            ],
+            [
+                "Ramesh Babu Srinivasan",
+                "Configuration Manager at Revionics",
+                "January 22, 2017, Thom worked with Ramesh Babu in the same group"
+            ],
+            "Configuration Manager at Revionics",
+            [
+                "Thom has extensive experience delivering technical solutions in Microsoft .NET and PowerShell platforms. At Revionics he demonstrated his ability to learn new products quickly and provide valuable input when piloting solutions. I would highly recommend Thom to any project seeking a highly skilled technical Sr. Developer role."
+            ],
+            [
+                "Thom has extensive experience delivering technical solutions in Microsoft .NET and PowerShell platforms. At Revionics he demonstrated his ability to learn new products quickly and provide valuable input when piloting solutions. I would highly recommend Thom to any project seeking a highly skilled technical Sr. Developer role."
+            ],
+            [
+                "Vincent Phillips",
+                "Co-Founder and Chief Technology Officer at Income& Technologies, Inc.",
+                "January 4, 2017, Vincent managed Thom directly",
+                "Thom and I worked together for many years at Schwab. He is a gifted developer on whom one could always count to solve even the thorniest problem. His persistence in wrestling with problems was much admired. He was also a well-liked person who was easy to get along with and happy to help others. I would hire him again in an instant."
+            ],
+            [
+                "Vincent Phillips",
+                "Co-Founder and Chief Technology Officer at Income& Technologies, Inc.",
+                "January 4, 2017, Vincent managed Thom directly"
+            ],
+            [
+                "Vincent Phillips",
+                "Co-Founder and Chief Technology Officer at Income& Technologies, Inc.",
+                "January 4, 2017, Vincent managed Thom directly"
+            ],
+            [
+                "Vincent Phillips",
+                "Co-Founder and Chief Technology Officer at Income& Technologies, Inc.",
+                "January 4, 2017, Vincent managed Thom directly"
+            ],
+            "Co-Founder and Chief Technology Officer at Income& Technologies, Inc.",
+            [
+                "Thom and I worked together for many years at Schwab. He is a gifted developer on whom one could always count to solve even the thorniest problem. His persistence in wrestling with problems was much admired. He was also a well-liked person who was easy to get along with and happy to help others. I would hire him again in an instant."
+            ],
+            [
+                "Thom and I worked together for many years at Schwab. He is a gifted developer on whom one could always count to solve even the thorniest problem. His persistence in wrestling with problems was much admired. He was also a well-liked person who was easy to get along with and happy to help others. I would hire him again in an instant."
+            ]
+        ],
+        "skills": [
+            [
+                "Web Services",
+                "See 40 endorsements for Web Services",
+                "40",
+                "Web Services",
+                "Endorse",
+                "Endorsed by Rama Kolli and 1 other who is highly skilled at this",
+                "Endorsed by Scott Bray (mutual connection)"
+            ],
+            [
+                "Web Services",
+                "See 40 endorsements for Web Services",
+                "40"
+            ],
+            [
+                "Software Development",
+                "See 38 endorsements for Software Development",
+                "38",
+                "Software Development",
+                "Endorse",
+                "Endorsed by Rama Kolli and 4 others who are highly skilled at this",
+                "Endorsed by Scott Bray and 1 other mutual connection"
+            ],
+            [
+                "Software Development",
+                "See 38 endorsements for Software Development",
+                "38"
+            ],
+            [
+                "XML",
+                "See 34 endorsements for XML",
+                "34",
+                "XML",
+                "Endorse",
+                "Endorsed by Akram Ahmad and 1 other who is highly skilled at this",
+                "Endorsed by Scott Bray and 1 other mutual connection"
+            ],
+            [
+                "XML",
+                "See 34 endorsements for XML",
+                "34"
+            ],
+            [
+                "Agile Methodologies",
+                "See 24 endorsements for Agile Methodologies",
+                "24",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 24 endorsements for Agile Methodologies",
+                "24"
+            ],
+            [
+                "SQL",
+                "See 16 endorsements for SQL",
+                "16",
+                "SQL",
+                "Endorse"
+            ],
+            [
+                "SQL",
+                "See 16 endorsements for SQL",
+                "16"
+            ],
+            [
+                "Java",
+                "See 15 endorsements for Java",
+                "15",
+                "Java",
+                "Endorse"
+            ],
+            [
+                "Java",
+                "See 15 endorsements for Java",
+                "15"
+            ],
+            [
+                "C++",
+                "See 14 endorsements for C++",
+                "14",
+                "C++",
+                "Endorse"
+            ],
+            [
+                "C++",
+                "See 14 endorsements for C++",
+                "14"
+            ],
+            [
+                "Visual Basic",
+                "See 13 endorsements for Visual Basic",
+                "13",
+                "Visual Basic",
+                "Endorse"
+            ],
+            [
+                "Visual Basic",
+                "See 13 endorsements for Visual Basic",
+                "13"
+            ],
+            [
+                "Linux",
+                "See 11 endorsements for Linux",
+                "11",
+                "Linux",
+                "Endorse"
+            ],
+            [
+                "Linux",
+                "See 11 endorsements for Linux",
+                "11"
+            ],
+            [
+                "Java Enterprise Edition",
+                "See 10 endorsements for Java Enterprise Edition",
+                "10",
+                "Java Enterprise Edition",
+                "Endorse"
+            ],
+            [
+                "Java Enterprise Edition",
+                "See 10 endorsements for Java Enterprise Edition",
+                "10"
+            ],
+            [
+                "C#",
+                "See 10 endorsements for C#",
+                "10",
+                "C#",
+                "Endorse"
+            ],
+            [
+                "C#",
+                "See 10 endorsements for C#",
+                "10"
+            ],
+            [
+                "Unix",
+                "See 9 endorsements for Unix",
+                "9",
+                "Unix",
+                "Endorse"
+            ],
+            [
+                "Unix",
+                "See 9 endorsements for Unix",
+                "9"
+            ],
+            [
+                "Software Development Life Cycle",
+                "See 9 endorsements for Software Development Life Cycle",
+                "9",
+                "Software Development Life Cycle",
+                "Endorse"
+            ],
+            [
+                "Software Development Life Cycle",
+                "See 9 endorsements for Software Development Life Cycle",
+                "9"
+            ],
+            [
+                ".NET",
+                "See 8 endorsements for .NET",
+                "8",
+                ".NET",
+                "Endorse"
+            ],
+            [
+                ".NET",
+                "See 8 endorsements for .NET",
+                "8"
+            ],
+            [
+                "C",
+                "See 7 endorsements for C",
+                "7",
+                "C",
+                "Endorse"
+            ],
+            [
+                "C",
+                "See 7 endorsements for C",
+                "7"
+            ],
+            [
+                "TCP/IP",
+                "See 6 endorsements for TCP/IP",
+                "6",
+                "TCP/IP",
+                "Endorse"
+            ],
+            [
+                "TCP/IP",
+                "See 6 endorsements for TCP/IP",
+                "6"
+            ],
+            [
+                "Relational Databases",
+                "See 6 endorsements for Relational Databases",
+                "6",
+                "Relational Databases",
+                "Endorse"
+            ],
+            [
+                "Relational Databases",
+                "See 6 endorsements for Relational Databases",
+                "6"
+            ],
+            [
+                "Integration",
+                "See 6 endorsements for Integration",
+                "6",
+                "Integration",
+                "Endorse"
+            ],
+            [
+                "Integration",
+                "See 6 endorsements for Integration",
+                "6"
+            ],
+            [
+                "SDLC",
+                "See 5 endorsements for SDLC",
+                "5",
+                "SDLC",
+                "Endorse"
+            ],
+            [
+                "SDLC",
+                "See 5 endorsements for SDLC",
+                "5"
+            ],
+            [
+                "Eclipse",
+                "See 4 endorsements for Eclipse",
+                "4",
+                "Eclipse",
+                "Endorse"
+            ],
+            [
+                "Eclipse",
+                "See 4 endorsements for Eclipse",
+                "4"
+            ],
+            [
+                "Python",
+                "See 4 endorsements for Python",
+                "4",
+                "Python",
+                "Endorse"
+            ],
+            [
+                "Python",
+                "See 4 endorsements for Python",
+                "4"
+            ],
+            [
+                "Solaris",
+                "See 4 endorsements for Solaris",
+                "4",
+                "Solaris",
+                "Endorse"
+            ],
+            [
+                "Solaris",
+                "See 4 endorsements for Solaris",
+                "4"
+            ],
+            [
+                "Enterprise Software",
+                "See 4 endorsements for Enterprise Software",
+                "4",
+                "Enterprise Software",
+                "Endorse"
+            ],
+            [
+                "Enterprise Software",
+                "See 4 endorsements for Enterprise Software",
+                "4"
+            ],
+            [
+                "Public Speaking",
+                "See 3 endorsements for Public Speaking",
+                "3",
+                "Public Speaking",
+                "Endorse"
+            ],
+            [
+                "Public Speaking",
+                "See 3 endorsements for Public Speaking",
+                "3"
+            ],
+            [
+                "MFC",
+                "See 3 endorsements for MFC",
+                "3",
+                "MFC",
+                "Endorse"
+            ],
+            [
+                "MFC",
+                "See 3 endorsements for MFC",
+                "3"
+            ],
+            [
+                "Tomcat",
+                "See 3 endorsements for Tomcat",
+                "3",
+                "Tomcat",
+                "Endorse"
+            ],
+            [
+                "Tomcat",
+                "See 3 endorsements for Tomcat",
+                "3"
+            ],
+            [
+                "JSP",
+                "See 3 endorsements for JSP",
+                "3",
+                "JSP",
+                "Endorse"
+            ],
+            [
+                "JSP",
+                "See 3 endorsements for JSP",
+                "3"
+            ],
+            [
+                "JavaScript",
+                "See 3 endorsements for JavaScript",
+                "3",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 3 endorsements for JavaScript",
+                "3"
+            ],
+            [
+                "JSTL",
+                "See 2 endorsements for JSTL",
+                "2",
+                "JSTL",
+                "Endorse"
+            ],
+            [
+                "JSTL",
+                "See 2 endorsements for JSTL",
+                "2"
+            ],
+            [
+                "VBA",
+                "See 2 endorsements for VBA",
+                "2",
+                "VBA",
+                "Endorse"
+            ],
+            [
+                "VBA",
+                "See 2 endorsements for VBA",
+                "2"
+            ],
+            [
+                "Red Hat Linux",
+                "See 2 endorsements for Red Hat Linux",
+                "2",
+                "Red Hat Linux",
+                "Endorse"
+            ],
+            [
+                "Red Hat Linux",
+                "See 2 endorsements for Red Hat Linux",
+                "2"
+            ],
+            [
+                "Servlets",
+                "See 2 endorsements for Servlets",
+                "2",
+                "Servlets",
+                "Endorse"
+            ],
+            [
+                "Servlets",
+                "See 2 endorsements for Servlets",
+                "2"
+            ],
+            [
+                "Spring",
+                "See 2 endorsements for Spring",
+                "2",
+                "Spring",
+                "Endorse"
+            ],
+            [
+                "Spring",
+                "See 2 endorsements for Spring",
+                "2"
+            ],
+            [
+                "Spring Webflow",
+                "See 2 endorsements for Spring Webflow",
+                "2",
+                "Spring Webflow",
+                "Endorse"
+            ],
+            [
+                "Spring Webflow",
+                "See 2 endorsements for Spring Webflow",
+                "2"
+            ],
+            [
+                "Software as a Service (SaaS)",
+                "See 2 endorsements for Software as a Service (SaaS)",
+                "2",
+                "Software as a Service (SaaS)",
+                "Endorse"
+            ],
+            [
+                "Software as a Service (SaaS)",
+                "See 2 endorsements for Software as a Service (SaaS)",
+                "2"
+            ],
+            [
+                "Powershell",
+                "See 1 endorsement for Powershell",
+                "1",
+                "Powershell",
+                "Endorse"
+            ],
+            [
+                "Powershell",
+                "See 1 endorsement for Powershell",
+                "1"
+            ],
+            [
+                "Node.js",
+                "See 1 endorsement for Node.js",
+                "1",
+                "Node.js",
+                "Endorse"
+            ],
+            [
+                "Node.js",
+                "See 1 endorsement for Node.js",
+                "1"
+            ],
+            [
+                "MongoDB",
+                "See 1 endorsement for MongoDB",
+                "1",
+                "MongoDB",
+                "Endorse"
+            ],
+            [
+                "MongoDB",
+                "See 1 endorsement for MongoDB",
+                "1"
+            ],
+            [
+                "Bootstrap",
+                "See 1 endorsement for Bootstrap",
+                "1",
+                "Bootstrap",
+                "Endorse"
+            ],
+            [
+                "Bootstrap",
+                "See 1 endorsement for Bootstrap",
+                "1"
+            ],
+            [
+                "RabbitMQ",
+                "See 1 endorsement for RabbitMQ",
+                "1",
+                "RabbitMQ",
+                "Endorse"
+            ],
+            [
+                "RabbitMQ",
+                "See 1 endorsement for RabbitMQ",
+                "1"
+            ],
+            [
+                "Nginx",
+                "See 1 endorsement for Nginx",
+                "1",
+                "Nginx",
+                "Endorse"
+            ],
+            [
+                "Nginx",
+                "See 1 endorsement for Nginx",
+                "1"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 1 endorsement for Microsoft SQL Server",
+                "1",
+                "Microsoft SQL Server",
+                "Endorse"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 1 endorsement for Microsoft SQL Server",
+                "1"
+            ],
+            [
+                "Amazon Web Services (AWS)",
+                "See 1 endorsement for Amazon Web Services (AWS)",
+                "1",
+                "Amazon Web Services (AWS)",
+                "Endorse"
+            ],
+            [
+                "Amazon Web Services (AWS)",
+                "See 1 endorsement for Amazon Web Services (AWS)",
+                "1"
+            ],
+            [
+                "REST",
+                "See 1 endorsement for REST",
+                "1",
+                "REST",
+                "Endorse"
+            ],
+            [
+                "REST",
+                "See 1 endorsement for REST",
+                "1"
+            ],
+            [
+                "SaaS",
+                "See 1 endorsement for SaaS",
+                "1",
+                "SaaS",
+                "Endorse"
+            ],
+            [
+                "SaaS",
+                "See 1 endorsement for SaaS",
+                "1"
+            ],
+            [
+                "AJAX",
+                "See 1 endorsement for AJAX",
+                "1",
+                "AJAX",
+                "Endorse"
+            ],
+            [
+                "AJAX",
+                "See 1 endorsement for AJAX",
+                "1"
+            ],
+            [
+                "jQuery",
+                "See 1 endorsement for jQuery",
+                "1",
+                "jQuery",
+                "Endorse"
+            ],
+            [
+                "jQuery",
+                "See 1 endorsement for jQuery",
+                "1"
+            ],
+            [
+                "Software Engineering",
+                "See 1 endorsement for Software Engineering",
+                "1",
+                "Software Engineering",
+                "Endorse"
+            ],
+            [
+                "Software Engineering",
+                "See 1 endorsement for Software Engineering",
+                "1"
+            ],
+            [
+                "Cloud Computing",
+                "See 1 endorsement for Cloud Computing",
+                "1",
+                "Cloud Computing",
+                "Endorse"
+            ],
+            [
+                "Cloud Computing",
+                "See 1 endorsement for Cloud Computing",
+                "1"
+            ],
+            [
+                "MVC",
+                "See 2 endorsements for MVC",
+                "2",
+                "MVC",
+                "Endorse"
+            ],
+            [
+                "MVC",
+                "See 2 endorsements for MVC",
+                "2"
+            ]
+        ],
+        "summary": "    • Support and Software Development Engineer proficient in cross-platform development (Windows, Linux, Java environments).• Consistently delivers high levels of results in technology areas.• Recognized for embracing and quickly understanding ever changing technologies.• Excels at problem solving and thrives when developing robust, maintainable solutions.• Equally productive when working individually and as part of a team.\n  \n  \n",
+        "name": "Thom Shuler",
+        "title": "Sr. Software Engineer",
+        "url": "linkedin.com/in/thomshuler",
+        "phone": "512-694-9104 (Mobile)",
+        "email": "Thom.Shuler+linkedin@gmail.com"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6213486337966829568/",
+    "participants": [
+        {
+            "name": "John Lehnert",
+            "title": "IT Project Manager across multiple industries",
+            "url": "linkedin.com/in/johnlehnert",
+            "phone": null,
+            "email": "jmlehnert@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-10T22:56:00.000Z"
+        }
+    ]
+}

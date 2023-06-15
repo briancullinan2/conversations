@@ -1,0 +1,172 @@
+﻿Session Start (BrianJCullinan:MooMan8212): Tue Oct 04 17:30:35 2005
+[10/04/2005 05:30 PM] Me: Hey Chris
+[10/04/2005 05:30 PM] MooMan8212: hi
+[10/04/2005 05:31 PM] Me: The diagram of the hubs must not have shown up right
+[10/04/2005 05:31 PM] MooMan8212: probably not, I don't use IE so it doesn't rich format the text.  and it looks all shitty
+[10/04/2005 05:31 PM] MooMan8212: ill paste what I meant
+[10/04/2005 05:31 PM] Me: i don't use IE either, what do you take me for a noob?
+[10/04/2005 05:31 PM] Me: I was thinking 4 routers plugged into 1 hub making all 16 connection the same level
+[10/04/2005 05:31 PM] MooMan8212: well I don't use FireFox either
+[10/04/2005 05:32 PM] Me: oh yeah what browser?
+[10/04/2005 05:32 PM] MooMan8212: Opera
+[10/04/2005 05:32 PM] Me: its alright, but you have to pay for it don';t you?
+[10/04/2005 05:32 PM] Me: i mean pay for it technically
+[10/04/2005 05:32 PM] MooMan8212: no
+[10/04/2005 05:32 PM] MooMan8212: they got  rid of the Ads on it
+[10/04/2005 05:32 PM] MooMan8212: there's no plugins for it, but it's the fastest.  and i heard about it before firefox and im to stubborn
+[10/04/2005 05:33 PM] Me: anywho, i understand what you were saying about having to go through two hubs, its basically the same idea you presented, except with normal 4 port hubs and using all the ports
+[10/04/2005 05:33 PM] Me: the reason i am confident in my method is because i doubt there are many games that actually could make use of gigabit ethernet
+[10/04/2005 05:33 PM] MooMan8212: give me a second
+[10/04/2005 05:34 PM] Me: actually sorry i am confusing both of us, i mean use all routers not hubs
+[10/04/2005 05:34 PM] MooMan8212: 
+ Hub1  -    Hub 2
+  |             |
+ Hub3       Hub 4
+  |             |
+ Hub5  -   Hub 6  
+[10/04/2005 05:34 PM] Me: hmmm
+[10/04/2005 05:34 PM] Me: interesting
+[10/04/2005 05:35 PM] Me: i am not used to using hubs
+[10/04/2005 05:35 PM] MooMan8212: is the best for self containing networks.  because the furthest a packet goes is 2 hubs at any point
+[10/04/2005 05:35 PM] MooMan8212: by hub I mean router
+[10/04/2005 05:35 PM] Me: yeah
+[10/04/2005 05:35 PM] Me: so we are using all 2 port routers with no wep usage?
+[10/04/2005 05:36 PM] MooMan8212: I guess I don't know what you mean by WEP, isn't wep a security protical?
+[10/04/2005 05:36 PM] Me: yeah i don't use hubs, i think the main difference between a hub and a router is when it comes to dividing up the WEP
+[10/04/2005 05:36 PM] MooMan8212: Wired Equivalent Privacy?
+[10/04/2005 05:37 PM] Me: no
+[10/04/2005 05:37 PM] Me: hold on
+[10/04/2005 05:37 PM] Me: the place you plug in the internet connection to be routed
+[10/04/2005 05:38 PM] Me: i must be using the wrong term
+[10/04/2005 05:38 PM] MooMan8212: oh opposed to any port on the router being allowed in?
+[10/04/2005 05:38 PM] Me: yes
+[10/04/2005 05:38 PM] MooMan8212: circular should still work
+[10/04/2005 05:38 PM] Me: yeah
+[10/04/2005 05:38 PM] MooMan8212: because even then UDP is just as fast as TCP
+[10/04/2005 05:38 PM] Me: gosh what is that called
+[10/04/2005 05:39 PM] MooMan8212: what exactly does it do?
+[10/04/2005 05:39 PM] Me: is it WAN
+[10/04/2005 05:39 PM] Me: yeah
+[10/04/2005 05:39 PM] Me: sorry
+[10/04/2005 05:40 PM] MooMan8212: oh okay, that makes sense
+[10/04/2005 05:40 PM] Me: yes i am talking about doing your circular setup but how would that effect the WAN
+[10/04/2005 05:40 PM] MooMan8212: doesn't it have more than one output?
+[10/04/2005 05:41 PM] Me: well the WAN is where it plugs into the wall then a router divides up that signal to all the ports
+[10/04/2005 05:41 PM] MooMan8212: or
+[10/04/2005 05:41 PM] MooMan8212: are you talking about the group?
+[10/04/2005 05:41 PM] MooMan8212: got it, so you want to be able to connect to other people outside of the room?
+[10/04/2005 05:41 PM] Me: yeah
+[10/04/2005 05:42 PM] Me: with my setup, with the 4 routers plugged into 1 router, then the WAN plugged into that 1 router, yeah there is a lot more divisions but not many people can take advantage of gigabit lan anyways
+[10/04/2005 05:43 PM] Me: and since most routers are gigabit lan now, you would have to have a pretty high end adapter that not many games can take advantage of either
+[10/04/2005 05:44 PM] Me: with your setup i am not sure where in the circle we would plug in the WAN so that all the computers could use it
+[10/04/2005 05:44 PM] MooMan8212:           WAN
+               |
+            Router
+            /        \
+      Router   Router
+         |             |
+    Router     Router
+          \          /
+          Router
+[10/04/2005 05:44 PM] MooMan8212: I guess either way it would be the same
+[10/04/2005 05:45 PM] Me: yeah it might work
+[10/04/2005 05:45 PM] Me: so we need to get people to participate in the group now that a few have joined
+[10/04/2005 05:45 PM] Me: are you going to participate?
+[10/04/2005 05:47 PM] *** You have been disconnected. Tue Oct 04 17:47:49 2005.
+[10/04/2005 05:49 PM] *** "MooMan8212" signed on at Tue Oct 04 17:49:20 2005.
+[10/04/2005 05:50 PM] MooMan8212: I don't have any gaming equipment
+[10/04/2005 08:32 PM] Me: you don't have any gaming equipment?
+[10/04/2005 08:32 PM] Me: do you play any games?
+[10/04/2005 08:51 PM] MooMan8212: i dont have a console
+Session Close (MooMan8212): Tue Oct 04 21:10:08 2005
+
+
+Session Start (BrianJCullinan:MooMan8212): Wed Oct 05 23:38:43 2005
+Session Close (MooMan8212): Wed Oct 05 23:38:46 2005
+
+
+Session Start (BrianJCullinan:MooMan8212): Sat Oct 08 13:23:35 2005
+[10/08/2005 01:23 PM] MooMan8212: are we supposed to be there dressed by 2?
+[10/08/2005 01:23 PM] MooMan8212: are we supposed to be there dressed by 2?
+[10/08/2005 01:24 PM] Me: yes
+[10/08/2005 01:24 PM] MooMan8212: thanks
+Session Close (MooMan8212): Sat Oct 08 20:39:29 2005
+
+
+Session Start (BrianJCullinan:MooMan8212): Mon Oct 10 23:23:41 2005
+[10/10/2005 11:23 PM] Me: hey
+[10/10/2005 11:23 PM] MooMan8212: hi
+[10/10/2005 11:24 PM] Me: i was thinking we could hold out first party next sunday
+[10/10/2005 11:24 PM] MooMan8212: I don't have anything.  do you think someone would have an extra controller or something?
+[10/10/2005 11:27 PM] Me: yeah sure
+[10/10/2005 11:27 PM] Me: just show up
+[10/10/2005 11:27 PM] MooMan8212: where?
+[10/10/2005 11:27 PM] Me: if you want to bring your computer we can give you some games
+[10/10/2005 11:27 PM] Me: my room
+[10/10/2005 11:27 PM] Me: sechrist 115
+[10/10/2005 11:28 PM] MooMan8212: oh...are you doing computer gaming?  
+[10/10/2005 11:28 PM] MooMan8212: I thought you were doing console
+[10/10/2005 11:28 PM] Me: we are doing a lot of gaming
+[10/10/2005 11:28 PM] MooMan8212: alright.  yeah ill try to make it
+[10/10/2005 11:28 PM] MooMan8212: what time?
+[10/10/2005 11:31 PM] Me: all day
+[10/10/2005 11:31 PM] MooMan8212: k.  sounds good.
+[10/10/2005 11:31 PM] Me: ok
+[10/10/2005 11:33 PM] *** "MooMan8212" signed off at Mon Oct 10 23:33:10 2005.
+[10/10/2005 11:34 PM] *** "MooMan8212" signed on at Mon Oct 10 23:34:58 2005.
+[10/10/2005 11:41 PM] Me: if you didn't know, i am actually a homosexual
+[10/10/2005 11:41 PM] *** Auto-response from MooMan8212: be back later maybe
+Session Close (MooMan8212): Mon Oct 10 23:46:50 2005
+
+
+Session Start (BrianJCullinan:MooMan8212): Mon Oct 10 23:47:18 2005
+[10/10/2005 11:47 PM] MooMan8212: ...alright
+[10/10/2005 11:47 PM] Me: alright?
+[10/10/2005 11:47 PM] MooMan8212: BrianJCullinan: if you didn't know, i am actually a homosexual
+[10/10/2005 11:47 PM] *** "MooMan8212" signed off at Mon Oct 10 23:47:59 2005.
+[10/10/2005 11:49 PM] *** "MooMan8212" signed on at Mon Oct 10 23:49:02 2005.
+[10/10/2005 11:49 PM] Me: i am not really a homosexual
+[10/10/2005 11:49 PM] Me: there are people in my room that don't have enough maturity to respect my stuff
+[10/10/2005 11:49 PM] MooMan8212: i figured it was a roommate
+[10/10/2005 11:50 PM] Me: yeah
+[10/10/2005 11:50 PM] Me: i love women way to much to be gay
+[10/10/2005 11:50 PM] MooMan8212: yeah. me too.  although I wouldnt really put it like that
+[10/10/2005 11:51 PM] Me: lol yeah i probably shouldn't
+[10/10/2005 11:58 PM] *** "MooMan8212" signed off at Mon Oct 10 23:58:20 2005.
+[10/10/2005 11:59 PM] *** "MooMan8212" signed on at Mon Oct 10 23:59:46 2005.
+Session Close (MooMan8212): Tue Oct 11 00:37:55 2005
+
+
+Session Start (BrianJCullinan:MooMan8212): Thu Oct 13 17:26:52 2005
+[10/13/2005 05:27 PM] Me: hi
+[10/13/2005 05:27 PM] MooMan8212: hey
+[10/13/2005 05:28 PM] Me: whats going on?
+[10/13/2005 05:28 PM] MooMan8212: im about to leave to go practice.  you?
+[10/13/2005 05:28 PM] Me: bored
+[10/13/2005 05:29 PM] MooMan8212: yeah this campus is very boring
+[10/13/2005 05:29 PM] Me: yeah
+[10/13/2005 05:29 PM] MooMan8212: ive found no consistant source of fun
+[10/13/2005 05:29 PM] MooMan8212: oh well
+[10/13/2005 05:29 PM] MooMan8212: later
+[10/13/2005 05:31 PM] Me: c ya
+[10/13/2005 05:31 PM] *** Auto-response from MooMan8212: practice and dinner
+Session Close (MooMan8212): Thu Oct 13 17:31:24 2005
+
+
+Session Start (BrianJCullinan:MooMan8212): Tue Oct 18 22:27:50 2005
+[10/18/2005 10:27 PM] MooMan8212: (Link: http://webaccelerator.google.com/)http://webaccelerator.google.com/
+ a neccessity
+[10/18/2005 10:32 PM] Me: do you have it?
+[10/18/2005 10:32 PM] MooMan8212: yes
+[10/18/2005 10:32 PM] MooMan8212: i saved 1 hour in 1 day
+[10/18/2005 10:32 PM] Me: i can't get it
+[10/18/2005 10:32 PM] MooMan8212: (Link: http://webaccelerator.google.com/GoogleWebAcceleratorSetup.msi)http://webaccelerator.google.com/GoogleWebAcceleratorSetup.msi
+[10/18/2005 10:33 PM] Me: it kinda defeats the purpose if everyone uses it
+[10/18/2005 10:33 PM] MooMan8212: thats why its limited
+[10/18/2005 10:34 PM] Me: do you use mozilla?
+[10/18/2005 10:34 PM] MooMan8212: i do now
+[10/18/2005 11:12 PM] *** "MooMan8212" signed off at Tue Oct 18 23:12:39 2005.
+[10/18/2005 11:16 PM] *** "MooMan8212" signed on at Tue Oct 18 23:16:02 2005.
+Session Close (MooMan8212): Tue Oct 18 23:17:21 2005
+
+

@@ -1,0 +1,265 @@
+﻿Session Start (bjcullinan@gmail.com:Abe Pralle): Fri Feb 29 00:34:16 2008
+[02/29/2008 12:34:24 AM] bjcullinan: Don't forget to change it in the BitReader too
+[02/29/2008 12:34:29 AM] bjcullinan: i fixed mine
+Session Close (Abe Pralle): Fri Feb 29 00:35:45 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Fri Feb 29 01:06:27 2008
+[02/29/2008 01:06:27 AM] Abe Pralle: cool, thanks
+[02/29/2008 01:07:07 AM] bjcullinan: just got my settings reader implemented with binary files, tomorrow i am going to serialize with richards xml stream
+[02/29/2008 01:07:28 AM] bjcullinan: you need a Serializable object in plasma core
+[02/29/2008 01:09:21 AM] Abe Pralle: I dunno... it'd be a real pain to write and serialized files are easily broken.
+[02/29/2008 01:10:16 AM] bjcullinan: Yeah, that's true, i guess i will just stick with my proprietary stuff
+[02/29/2008 01:11:07 AM] bjcullinan: this should make it uber fast though when recording
+[02/29/2008 01:12:49 AM] Abe Pralle: totally
+Session Close (Abe Pralle): Fri Feb 29 01:14:19 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Sun Mar 02 15:52:41 2008
+[03/02/2008 03:53:43 PM] bjcullinan: So it looks like I am having trouble reading back in signed Int64
+[03/02/2008 03:53:53 PM] bjcullinan: Do i need to read in 65 bits?
+[03/02/2008 03:54:07 PM] Abe Pralle: No
+[03/02/2008 03:54:51 PM] Abe Pralle: I'll take a look later tonight if you don't spot a bug.
+[03/02/2008 03:54:52 PM] bjcullinan: Should i send you a test program that can re-create the problem i am having, because i can't figure it out, i am sure it is just a type casting problem.
+[03/02/2008 03:55:20 PM] Abe Pralle: Yeah, sure
+[03/02/2008 03:55:41 PM] bjcullinan: ok
+[03/02/2008 04:06:37 PM] bjcullinan: Sent you an e-mail with the info.
+Session Close (Abe Pralle): Sun Mar 02 16:16:58 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Sun Mar 02 17:35:51 2008
+[03/02/2008 05:35:51 PM] Abe Pralle: Figure any thing out since you sent the email?
+[03/02/2008 05:37:30 PM] bjcullinan: Nope still got the same problem with the reader.  Everything else works except it isn't reading the right numbers.
+[03/02/2008 05:37:36 PM] bjcullinan: You take a look at my example?
+[03/02/2008 05:37:46 PM] Abe Pralle: am now
+[03/02/2008 05:39:21 PM] bjcullinan: The one type cast i sent you earlier didn't seem to fix it entirely.
+[03/02/2008 05:40:32 PM] Abe Pralle: what's an example #?
+[03/02/2008 05:40:35 PM] Abe Pralle: that fails?
+[03/02/2008 05:40:51 PM] Abe Pralle: ah, got one
+[03/02/2008 05:41:20 PM] bjcullinan: If you look at the trace most of them do, seems to be mostly negatives, but quadrant 2 works fine
+[03/02/2008 05:41:27 PM] bjcullinan: An entire classes worth of beta testers, your engine is going to be perfect pretty soon.
+[03/02/2008 05:46:59 PM] bjcullinan: So it doesn't seem to be to_Int64 or to_Real64 because converting them back and forth produces the same number perfectly.
+[03/02/2008 05:47:16 PM] Abe Pralle: RE: beta: totally. :)
+[03/02/2008 05:47:21 PM] Abe Pralle: Yeah, it's a problem in the BitReader somewhere
+[03/02/2008 05:58:21 PM] bjcullinan: i guess i will just split it up manually for now
+[03/02/2008 05:58:55 PM] Abe Pralle: Try these two methods:
+[03/02/2008 05:58:58 PM] Abe Pralle:     method read_Int64.Int64:
+      # Returns the next 64 bits as an Int64 assumed to be in 
+      # high-low byte order.
+      local Int64 a = Int64(read(32)).left_shifted(32)
+      local Int64 b = (Int64(read(32)) & Int64(0xffffffff00000000))
+      return a | b
+
+    method read_Int64_low_high.Int64:
+      # Returns the next 64 bits as an Int64 assumed to be in 
+      # low-high byte order.
+      local Int64 result = Int64(read_low_high(32)) & Int64(0xffffffff)
+      return result | Int64(read_low_high(32)).left_shifted(32)
+
+[03/02/2008 06:01:54 PM] Abe Pralle: If you're reading from a file those two fixes should be enough.  But if you're writing/reading a Char list or something, you'll need this fix too:
+[03/02/2008 06:01:55 PM] Abe Pralle:     method fill_buffer( Int32 to_n_bits ):
+      # Internal use.
+      while (bit_count < to_n_bits and src.has_another)
+        bit_buffer = bit_buffer.left_shifted(8) | (src.read & 255)
+        bit_count += 8
+      endWhile
+
+[03/02/2008 06:02:21 PM] Abe Pralle: (all in standard.slag BitReader)
+[03/02/2008 06:16:05 PM] bjcullinan: Ok so now it shows the right angle in every quadrant, but if you look at my example again, there are still angles that don't convert correctly.
+[03/02/2008 06:16:13 PM] bjcullinan: * convert back and forth
+[03/02/2008 06:16:58 PM] bjcullinan: -2.8687
+[03/02/2008 06:17:20 PM] bjcullinan: 0.1810
+Session Close (Abe Pralle): Sun Mar 02 18:29:53 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Sun Mar 02 18:40:38 2008
+[03/02/2008 06:40:38 PM] Abe Pralle:     method read_Int64.Int64:
+      # Returns the next 64 bits as an Int64 assumed to be in 
+      # high-low byte order.
+      local Int64 a = Int64(read(32)).left_shifted(32)
+      local Int64 b = (Int64(read(32)) & Int64(0xffffffff))
+      return a | b
+
+[03/02/2008 06:40:43 PM] Abe Pralle: That'll fix it
+[03/02/2008 06:41:39 PM] bjcullinan: I see what you did there.
+[03/02/2008 06:41:46 PM] Abe Pralle: gotta go - ttyl
+[03/02/2008 06:41:52 PM] bjcullinan: ttyl
+Session Close (Abe Pralle): Sun Mar 02 18:41:53 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Fri Apr 04 02:49:33 2008
+[04/04/2008 02:50:27 AM] bjcullinan: So I think the general consensus is people decided watching the first BSG on a projector would be optimal.
+[04/04/2008 02:50:41 AM] bjcullinan: I hope you will join us at my place tomorrow (Friday)
+Session Close (Abe Pralle): Fri Apr 04 02:50:59 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Fri Apr 04 08:36:53 2008
+[04/04/2008 08:36:53 AM] Abe Pralle: One possible issue I thought of: how many people are you expecting besides the me and the folks that usually hang out at my place?
+[04/04/2008 08:45:17 AM] *** Disconnected from server.
+[04/04/2008 09:24:36 AM] bjcullinan: should be no more then the usual, maybe 8 total
+Session Close (Abe Pralle): Fri Apr 04 09:24:37 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Fri Apr 04 09:26:41 2008
+[04/04/2008 09:26:41 AM] Abe Pralle: Hmm, so yeah, I'd have 6+ myself... seems like too many to cram into one house.  We'd better just have simultaneous BSG parties.
+[04/04/2008 09:52:52 AM] *** Disconnected from server.
+[04/04/2008 09:54:02 AM] *** Disconnected from server.
+[04/04/2008 09:54:02 AM] *** Disconnected from server.
+Session Start (bjcullinan@gmail.com:Abe Pralle): Fri Apr 18 18:00:09 2008
+[04/18/2008 06:00:09 PM] Abe Pralle: Hey B-Dog
+[04/18/2008 06:29:53 PM] bjcullinan: Hey
+[04/18/2008 06:30:23 PM] bjcullinan: pjs and cookies?
+Session Close (Abe Pralle): Fri Apr 18 18:30:25 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Thu Jul 31 01:20:52 2008
+[07/31/2008 01:21:37 AM] bjcullinan: hey, thanks for the donation, i didn't want to point it out at the time because other people we around, it will go towards paying for future gatherings.
+[07/31/2008 01:22:01 AM] bjcullinan: wine loft tomorrow (thursday) evening?
+Session Close (Abe Pralle): Thu Jul 31 01:23:35 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Thu Jul 31 03:11:14 2008
+[07/31/2008 03:11:14 AM] Abe Pralle: maybe... anything special going on or just hanging out?
+[07/31/2008 03:11:38 AM] bjcullinan: just hanging out, maybe Leah would like to go to celebrate her test being over
+[07/31/2008 03:12:11 AM] Abe Pralle: :)
+[07/31/2008 03:16:35 AM] bjcullinan: (Link: http://209.250.30.30/mediaserver/)http://209.250.30.30/mediaserver/
+[07/31/2008 03:18:26 AM] Abe Pralle: slick!
+[07/31/2008 03:19:37 AM] bjcullinan: i want to write a flash player and port over the G-Force visualizations
+[07/31/2008 03:20:15 AM] Abe Pralle: I have no idea what those are but it sounds cool. :)
+[07/31/2008 03:20:59 AM] bjcullinan: g-force is the visualization included with itunes
+[07/31/2008 03:21:10 AM] bjcullinan: they are really hot
+[07/31/2008 03:23:06 AM] Abe Pralle: hmm, I'll have to check it out
+[07/31/2008 03:25:10 AM] bjcullinan: the torrent feature took my a long time
+[07/31/2008 03:25:24 AM] bjcullinan: obviously the site is for legal stuff, not file sharing
+[07/31/2008 03:25:36 AM] bjcullinan: and for personal use only
+[07/31/2008 03:26:30 AM] Abe Pralle: how can I see the torrent feature?
+[07/31/2008 03:26:58 AM] bjcullinan: click send selected items to Downloads, then a new window pops up, then use the arrows next to each file
+[07/31/2008 03:27:25 AM] Abe Pralle: ah, nice
+[07/31/2008 03:27:44 AM] Abe Pralle: Super slick!  Great work!
+[07/31/2008 03:28:12 AM] bjcullinan: it starts a seeder on my server, registers with the tracker on my server, then gives out the torrent file
+Session Close (Abe Pralle): Thu Jul 31 03:58:23 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Fri Aug 01 02:36:38 2008
+[08/01/2008 02:36:43 AM] bjcullinan: yeah it just went down hill
+[08/01/2008 02:36:56 AM] Abe Pralle: haha, I figured
+[08/01/2008 02:37:02 AM] Abe Pralle: What happened?
+[08/01/2008 02:37:13 AM] bjcullinan: well
+[08/01/2008 02:37:32 AM] bjcullinan: do you know how leah and katrina are together when under the influence?
+[08/01/2008 02:37:59 AM] bjcullinan: something just clicks and they fit together like peanut butter and jelly
+[08/01/2008 02:38:29 AM] bjcullinan: they fell down, and i felt bad
+[08/01/2008 02:38:34 AM] bjcullinan: leah scrapped her arm
+[08/01/2008 02:38:54 AM] bjcullinan: i am afraid that matt is afraid to go out because of their behavior
+[08/01/2008 02:39:10 AM] bjcullinan: but i guess if i were in his position i would be like meh
+[08/01/2008 02:39:59 AM] Abe Pralle: Yeah.  I do think Leah and Katrina get a little too wild for their own good...
+[08/01/2008 02:40:17 AM] bjcullinan: anywho, it was good hangin' out with you and Ryan, i hope i see you guys saturday
+[08/01/2008 02:41:26 AM] bjcullinan: the location for the movie doesn't matter to me, ryans tv is nice, i guess seating would also be something to consider, i don't plan on asking anyone else over so it should be the same group
+[08/01/2008 02:41:42 AM] bjcullinan: i have had a craving to watch batman begins also
+[08/01/2008 02:42:30 AM] Abe Pralle: Yeah, sounds good.  I'm up for doing it at your house... you do have a litte more seating and a nicer projector.
+[08/01/2008 02:43:05 AM] bjcullinan: "i do have a very large..."
+[08/01/2008 02:43:10 AM] bjcullinan: "screen"
+[08/01/2008 02:43:30 AM] bjcullinan: haha
+[08/01/2008 02:43:37 AM] bjcullinan: bed time for me
+[08/01/2008 02:43:39 AM] bjcullinan: have a good one
+[08/01/2008 02:43:42 AM] Abe Pralle: night!
+Session Close (Abe Pralle): Fri Aug 01 02:43:43 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Fri Aug 01 03:10:04 2008
+[08/01/2008 03:10:13 AM] bjcullinan: can't sleep, why are you still up?
+Session Close (Abe Pralle): Fri Aug 01 03:10:14 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Fri Aug 01 03:10:28 2008
+[08/01/2008 03:10:28 AM] Abe Pralle:  programming on my game
+[08/01/2008 03:10:40 AM] bjcullinan: good stuff
+Session Close (Abe Pralle): Fri Aug 01 03:13:45 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Mon Sep 08 10:09:05 2008
+[09/08/2008 10:11:27 AM] bjcullinan: Spore is amazing btw.  But it wouldn't be a Maxis game if it had an autosave, i lost about 6 hours progress.  It crashed when i was just starting to work on my galactic empire. :-(
+Session Close (Abe Pralle): Mon Sep 08 10:24:59 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Mon Sep 15 23:09:29 2008
+[09/15/2008 11:09:37 PM] bjcullinan: so these burritos you speak of
+[09/15/2008 11:09:54 PM] bjcullinan: are they strictly organic and or vegeterian?
+[09/15/2008 11:10:14 PM] bjcullinan: you hat seems very burrito appropriate
+[09/15/2008 11:10:35 PM] Abe Pralle: Vegetarian... Veggie Burrito from El Capitan's last night and #4 (Bean & Cheese) from Burrito's Fiesta today...
+[09/15/2008 11:11:43 PM] bjcullinan: hmmm both very delicious providers of burritos
+[09/15/2008 11:12:36 PM] bjcullinan: man i filled the rough calices on my fingures with wood filler
+[09/15/2008 11:12:48 PM] bjcullinan: this project is enormously tedious
+[09/15/2008 11:14:48 PM] Abe Pralle: What'cha working on?
+[09/15/2008 11:15:05 PM] bjcullinan: coffee table, trying to get it done before the big party in october
+[09/15/2008 11:15:25 PM] bjcullinan: it is going to house lighting and my media server laid out
+[09/15/2008 11:16:59 PM] bjcullinan: it has a glass top, so you will be able to see all the cool parts flashing
+[09/15/2008 11:18:17 PM] Abe Pralle: nice
+[09/15/2008 11:18:57 PM] bjcullinan: yeah i am putting a ton of work into it
+[09/15/2008 11:28:50 PM] bjcullinan: that's not why i got a bad score on a project though
+[09/15/2008 11:29:05 PM] bjcullinan: i just ran out of time, next ones will be better
+[09/15/2008 11:30:02 PM] Abe Pralle: Glad to hear!  Start a little early on Project 3, since you'll need to do some more work on Project 2 to get it working.
+[09/15/2008 11:30:28 PM] bjcullinan: yeah definitely
+Session Close (Abe Pralle): Mon Sep 15 23:35:47 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Wed Sep 24 10:44:39 2008
+[09/24/2008 10:44:44 AM] bjcullinan: Man everyone is away.
+[09/24/2008 10:44:55 AM] bjcullinan: Your website link doesn't work on the falculty listing page.
+[09/24/2008 10:45:07 AM] bjcullinan: Someone wrapped it, now it has a space in it.
+[09/24/2008 10:45:31 AM] bjcullinan: Or an extra %20 character when you click on it.
+[09/24/2008 10:46:56 AM] Abe Pralle: hmm, k
+[09/24/2008 10:47:00 AM] Abe Pralle: thx
+Session Close (Abe Pralle): Wed Sep 24 11:01:05 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Wed Sep 24 13:49:25 2008
+[09/24/2008 01:49:41 PM] bjcullinan: I am feeling kind of sick, I left my project report in your box.
+Session Close (Abe Pralle): Wed Sep 24 13:49:42 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Wed Sep 24 13:54:05 2008
+[09/24/2008 01:54:05 PM] Abe Pralle: k - sorry to hear
+Session Close (Abe Pralle): Wed Sep 24 14:13:31 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Thu Sep 25 01:08:22 2008
+[09/25/2008 01:08:45 AM] bjcullinan: I am feeling a little better, but i missed work too.  Hows life?
+[09/25/2008 01:14:28 AM] Abe Pralle: Oh, purt good.
+Session Close (Abe Pralle): Thu Sep 25 01:41:48 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Thu Sep 25 11:57:05 2008
+[09/25/2008 11:57:21 AM] bjcullinan: most useful iPhone evar! (Link: http://feeds.gawker.com/~r/gizmodo/full/~3/403044810/drowned-iphone-3g-reincarnated-as-beautiful-fishing-lure)http://feeds.gawker.com/~r/gizmodo/full/~3/403044810/drown(Link: http://feeds.gawker.com/~r/gizmodo/full/~3/403044810/drowned-iphone-3g-reincarnated-as-beautiful-fishing-lure)(Link: http://feeds.gawker.com/~r/gizmodo/full/~3/403044810/drowned-iphone-3g-reincarnated-as-beautiful-fishing-lure)(Link: http://feeds.gawker.com/~r/gizmodo/full/~3/403044810/drowned-iphone-3g-reincarnated-as-beautiful-fishing-lure)ed-iphone-3g-reincarnated-as-beautiful-fishing-lure
+[09/25/2008 11:59:01 AM] Abe Pralle: See, iPhone catches fish too.  iPhone can do anything!
+[09/25/2008 12:06:45 PM] bjcullinan: lawl
+Session Close (Abe Pralle): Thu Sep 25 12:07:36 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Thu Sep 25 12:37:53 2008
+[09/25/2008 12:37:53 PM] Abe Pralle: Hey Brian - just sent you a test email since I'm having issues.  Did you get it?
+[09/25/2008 12:46:19 PM] bjcullinan: Yup!
+[09/25/2008 12:46:29 PM] bjcullinan: Anything i can help with? What kind of issues?
+Session Close (Abe Pralle): Thu Sep 25 13:16:42 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Thu Sep 25 14:31:20 2008
+[09/25/2008 02:31:21 PM] Abe Pralle: Thanks!  Eh, it's fine. If you really want to know: NAU made me migrate to the NAU server and dropped my forward.  I had to email them to set up the new forward - and did so, but it doesn't look like the forward's gone through yet 'cause all my school mail gets sent to my school box.  But when I email my NAU address from Gmail using my NAU "from" address, the email shows up in my Gmail box right away, which makes me think that Gmail's just putting it in my inbox without sending it through NAU - so I needed to test and make sure that something sent from "Gmail as NAU" would still get through.
+[09/25/2008 02:34:46 PM] bjcullinan: i c
+Session Close (Abe Pralle): Thu Sep 25 14:36:01 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Thu Nov 13 12:11:46 2008
+[11/13/2008 12:11:53 PM] bjcullinan: Do you have Palmer's screen name?
+Session Close (Abe Pralle): Thu Nov 13 12:13:32 2008
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Thu Mar 12 14:48:34 2009
+[03/12/2009 02:48:36 PM] bjcullinan: (Link: http://dev.bjcullinan.com/?template=default)http://dev.bjcullinan.com/?template=default
+Session Close (Abe Pralle): Thu Mar 12 15:18:38 2009
+
+
+Session Start (bjcullinan@gmail.com:Abe Pralle): Thu Mar 12 15:38:57 2009
+[03/12/2009 03:38:57 PM] Abe Pralle: cool
+Session Close (Abe Pralle): Thu Mar 12 15:48:14 2009
+
+

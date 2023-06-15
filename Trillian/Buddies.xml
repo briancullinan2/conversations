@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+   <!DOCTYPE buddies
+      PUBLIC "-//IETF//DTD RFCxxxx XBUDDY 1.0//EN" "xbuddy.dtd">
+
+<!-- WARNING: This is a generated file by Trillian.  Do not update while -->
+<!--          Trillian is running otherwise updates will be erased       -->
+
+   <buddies>
+      <title>Buddies for Trillian User</title>
+      <version>1.2</version>
+      <section name="default" sort="1">
+            <group expanded="0">
+               <title>Me</title>
+               <group expanded="1">
+                  <title>MSN</title>
+                  <buddy uri="MSN:1%3Abjcullinan%40live%2Ecom%3Abjcullinan%40live%2Ecom%3A0" last_seen="1250623553">b%2Ecullinan%40cox%2Enet</buddy>
+                  <buddy uri="MSN:1%3Abjcullinan%40cox%2Enet%3AHuitzilopoctli%3A1">Huitzilopoctli</buddy>
+                  <buddy uri="MSN:1%3Ab%2Ecullinan%40cox%2Enet%3AMe%3A1" last_seen="1244441865">Me</buddy>
+               </group>
+               <group expanded="0">
+                  <title>Y%21</title>
+                  <buddy uri="YAHOO:1%3Abjcullinan%3Abjcullinan" last_seen="1250623553">bjcullinan</buddy>
+               </group>
+               <group expanded="0">
+                  <title>ICQ</title>
+                  <buddy uri="ICQ:1%3A215469521%3Ab%2Ecullinan" last_seen="1250623553">b%2Ecullinan</buddy>
+               </group>
+               <group expanded="0">
+                  <title>AIM</title>
+                  <buddy uri="AIM:1%3ABJCullinan%3ABrian%20Cullinan" last_seen="1250623553">Brian%20Cullinan</buddy>
+                  <buddy uri="AIM:1%3ABrianJCullinan%3ABrianJCullinan">BrianJCullinan</buddy>
+                  <buddy uri="AIM:1%3ADrPFanta%3ADrPFanta">DrPFanta</buddy>
+                  <buddy uri="AIM:1%3AEricthepathetic%3AEricthepathetic">Ericthepathetic</buddy>
+                  <buddy uri="AIM:1%3AFenrirrr%3AFenrirrr">Fenrirrr</buddy>
+                  <buddy uri="AIM:1%3AFrooFel%3AFrooFel">FrooFel</buddy>
+                  <buddy uri="AIM:1%3AGiveMeALlama%3AGiveMeALlama">GiveMeALlama</buddy>
+                  <buddy uri="AIM:1%3AHEXx41x53x53%3AHEXx41x53x53" last_seen="1116194753">HEXx41x53x53</buddy>
+                  <buddy uri="AIM:1%3AHuitzilopoctliii%3AHuitzilopoctliii">Huitzilopoctliii</buddy>
+                  <buddy uri="AIM:1%3AIDonHaveYurPants%3AIDonHaveYurPants">IDonHaveYurPants</buddy>
+                  <buddy uri="AIM:1%3AImStudlyAndSuave%3AImStudlyAndSuave">ImStudlyAndSuave</buddy>
+                  <buddy uri="AIM:1%3AImTerriblyBored%3AImTerriblyBored" last_seen="1107311609">ImTerriblyBored</buddy>
+                  <buddy uri="AIM:1%3AIWantAKiwi%3AIWantAKiwi" last_seen="1107149380">IWantAKiwi</buddy>
+                  <buddy uri="AIM:1%3AKidzThezeDays%3AKidzThezeDays">KidzThezeDays</buddy>
+                  <buddy uri="AIM:1%3ALittlePNutss%3ALittlePNutss">LittlePNutss</buddy>
+                  <buddy uri="AIM:1%3AWGWiseMaster%3AMy%20Clan" last_seen="1112670956">My%20Clan</buddy>
+                  <buddy uri="AIM:1%3ANoooNotTheCheese%3ANoooNotTheCheese">NoooNotTheCheese</buddy>
+                  <buddy uri="AIM:1%3AOneFromAbove999%3AOneFromAbove999">OneFromAbove999</buddy>
+                  <buddy uri="AIM:1%3AOneFromBelow666%3AOneFromBelow666">OneFromBelow666</buddy>
+                  <buddy uri="AIM:1%3AOneFromLimbo333%3AOneFromLimbo333">OneFromLimbo333</buddy>
+                  <buddy uri="AIM:1%3AOomBlah%3AOomBlah">OomBlah</buddy>
+                  <buddy uri="AIM:1%3APittasIsGay%3APittasIsGay">PittasIsGay</buddy>
+                  <buddy uri="AIM:1%3Apoopiedoobles05%3Apoopiedoobles05" last_seen="1106983428">poopiedoobles05</buddy>
+                  <buddy uri="AIM:1%3Asilencedmonkey05%3Asilencedmonkey05">silencedmonkey05</buddy>
+                  <buddy uri="AIM:1%3ATryAgainIn15Min%3ATryAgainIn15Min">TryAgainIn15Min</buddy>
+                  <buddy uri="AIM:1%3ATubeSockMan666%3ATubeSockMan666">TubeSockMan666</buddy>
+                  <buddy uri="AIM:1%3ATubeSocksMan666%3ATubeSocksMan666">TubeSocksMan666</buddy>
+               </group>
+               <group expanded="0">
+                  <title>IRC</title>
+                  <buddy uri="IRC:1%3AWG_Wise_Master%3AWG_Wise_Master" last_seen="1201841014">WG_Wise_Master</buddy>
+               </group>
+               <group expanded="0">
+                  <title>Jabber</title>
+                  <buddy uri="JABBER:bjcullinan%40gmail%2Ecom" last_seen="1250623553">bjcullinan</buddy>
+               </group>
+               <group expanded="0">
+                  <title>XFire</title>
+                  <buddy uri="XFIRE:wisemaster" last_seen="1201841014">wisemaster</buddy>
+               </group>
+            </group>
+            <group expanded="0">
+               <title>NAU%20Band</title>
+               <buddy uri="AIM:1%3Aajw1293%3AAaron%20Walker" last_seen="1250623553">Aaron%20Walker</buddy>
+               <buddy uri="AIM:1%3Aelektromgntcplse%3AAlex%20Childers" last_seen="1182474629">Alex%20Childers</buddy>
+               <buddy uri="MSN:1%3Apandaz_rock%40hotmail%2Ecom%3AAlexander%20Tobias%3A1" last_seen="1193552569">Alexander%20Tobias</buddy>
+               <buddy uri="AIM:1%3Atropicaiexposure%3AAmy%20Presson" last_seen="1191814589">Amy%20Presson</buddy>
+               <buddy uri="YAHOO:1%3Ajackrabbits426%3Ajackrabbits426" last_seen="1201840147">Andy%20Beatty</buddy>
+               <buddy uri="AIM:1%3AMooMan8212%3AChris%20Hanks" last_seen="1201841014">Chris%20Hanks</buddy>
+               <buddy uri="AIM:1%3Atahititinamarie%3AChristina%20Sanders" last_seen="1201831682">Christina%20Sanders</buddy>
+               <buddy uri="MSN:1%3Amusic4life007%40hotmail%2Ecom%3AChristina%20Sanders%3A1" last_seen="1201832056">Christina%20Sanders</buddy>
+               <buddy uri="JABBER:tahititinamarie%40gmail%2Ecom" last_seen="1199919452">Christina%20Sanders</buddy>
+               <buddy uri="AIM:1%3ASexyinpink88%3ACourtney%20Gordon" last_seen="1141978161">Courtney%20Gordon</buddy>
+               <buddy uri="AIM:1%3Afoxapottamus%3AElliot%20Fox" last_seen="1195163051">Elliot%20Fox</buddy>
+               <buddy uri="AIM:1%3Ahcischill%3AHeath%20Carnicom" last_seen="1179455833">Heath%20Carnicom</buddy>
+               <buddy uri="MSN:1%3Aantisocialactivist%40hotmail%2Ecom%3AHeath%20Carnicom%3A1" last_seen="1245798629">Heath%20Carnicom</buddy>
+               <buddy uri="AIM:1%3Ajessieface1138%3AJessie%20Demaree" last_seen="1243558236">Jessie%20Demaree</buddy>
+               <buddy uri="AIM:1%3ANakoma8%3ALauren%20Nelson" last_seen="1200547587">Lauren%20Nelson</buddy>
+               <buddy uri="AIM:1%3ACowsSayMoo71087%3AMegan%20Oechsner" last_seen="1200870588">Megan%20Oechsner</buddy>
+               <buddy uri="AIM:1%3Atrumpetchewie%3AMichael%20Rivera" last_seen="1194204989">Michael%20Rivera</buddy>
+               <buddy uri="AIM:1%3Anauaramus%3ANate%20Beck" last_seen="1130823633">Nate%20Beck</buddy>
+               <buddy uri="MSN:1%3Anau323k13l%40hotmail%2Ecom%3ANate%20Beck%3A1">Nate%20Beck</buddy>
+               <buddy uri="AIM:1%3Anau323k13l%3ANate%20Beck" last_seen="1177463819">Nate%20Beck</buddy>
+               <buddy uri="AIM:1%3Aroboticemperor%3ASamuel%20Guerrero" last_seen="1250365540">Samuel%20Guerrero</buddy>
+            </group>
+            <group expanded="1">
+               <title>NAU%20Friends</title>
+               <buddy uri="JABBER:boushley%2Ecefns%40gmail%2Ecom">Aaron%20Boushley</buddy>
+               <buddy uri="JABBER:abe%2Epralle%40gmail%2Ecom" last_seen="1250623553">Abe%20Pralle</buddy>
+               <buddy uri="AIM:1%3Aabepralle%3AAbe%20Pralle" last_seen="1250623553">Abe%20Pralle</buddy>
+               <buddy uri="AIM:1%3ADixieDots%3AAlex%20Scholtes" last_seen="1139818721">Alex%20Scholtes</buddy>
+               <buddy uri="AIM:1%3APeachali442%3AAlice%20Smart" last_seen="1146005787">Alice%20Smart</buddy>
+               <buddy uri="YAHOO:1%3Alorraine142001%3Alorraine142001" last_seen="1250359487">Andrea%20Flannagan</buddy>
+               <buddy uri="AIM:1%3AiamGracefuL16%3AAndrea%20Kohn" last_seen="1250330399">Andrea%20Kohn</buddy>
+               <buddy uri="AIM:1%3Akadoochikudelka%3AAndrew%20Kudelka" last_seen="1196497554">Andrew%20Kudelka</buddy>
+               <buddy uri="MSN:1%3Aa426hemi_cuda%40hotmail%2Ecom%3AAndrew%20Olson%3A1" last_seen="1250623553">Andrew%20Olson</buddy>
+               <buddy uri="JABBER:lizardwhoskiis%40gmail%2Ecom" last_seen="1250485396">Ben%20Liszewski</buddy>
+               <buddy uri="AIM:1%3ALetsGoHillmen%3ABrad%20McCann" last_seen="1247652863">Brad%20McCann</buddy>
+               <buddy uri="AIM:1%3AV4G480ND%3ABrandon%20Collier" last_seen="1250542963">Brandon%20Collier</buddy>
+               <buddy uri="AIM:1%3Ashakeitok%3ABridget%20Sharp" last_seen="1250620557">Bridget%20Sharp</buddy>
+               <buddy uri="AIM:1%3Abcsideout%3ABrittany%20Larson" last_seen="1246970871">Brittany%20Larson</buddy>
+               <buddy uri="MSN:1%3Acollegedudebry%40hotmail%2Ecom%3ABryan%20Goldberg%3A1" last_seen="1201662644">Bryan%20Goldberg</buddy>
+               <buddy uri="MSN:1%3Ajigmeddorje%40hotmail%2Ecom%3AChodron%20Robie%3A1" last_seen="1201305045">Chodron%20Robie</buddy>
+               <buddy uri="JABBER:christian%2Emchugh%40gmail%2Ecom" last_seen="1250623553">Christian%20McHugh</buddy>
+               <buddy uri="JABBER:wiredclint%40gmail%2Ecom" last_seen="1250623553">Clint%20Baker</buddy>
+               <buddy uri="AIM:1%3Adragonflyjazz17%3AColin%20Spiers" last_seen="1201841014">Colin%20Spiers</buddy>
+               <buddy uri="YAHOO:1%3Aarcadiaz04%3Aarcadiaz04" last_seen="1247720032">Crystal%20Diaz</buddy>
+               <buddy uri="JABBER:arcadiaz04%40gmail%2Ecom" last_seen="1250484549">Crystal%20Diaz</buddy>
+               <buddy uri="MSN:1%3Aarcadiaz04%40gmail%2Ecom%3ACrystal%20Diaz%3A1">Crystal%20Diaz</buddy>
+               <buddy uri="AIM:1%3Alilrodney187%3ACyrus%20Igono" last_seen="1201841014">Cyrus%20Igono</buddy>
+               <buddy uri="MSN:1%3Aanti_milestone%40hotmail%2Ecom%3ADavid%20McArthur%3A1" last_seen="1250623553">David%20McArthur</buddy>
+               <buddy uri="JABBER:david%2Emcarthur%40gmail%2Ecom" last_seen="1250541660">David%20McArthur</buddy>
+               <buddy uri="JABBER:davide%2Esmith%40gmail%2Ecom">David%20Smith</buddy>
+               <buddy uri="AIM:1%3Adesmith28%3ADavid%20Smith" last_seen="1247814017">David%20Smith</buddy>
+               <buddy uri="MSN:1%3Adesmith28%40hotmail%2Ecom%3ADavid%20Smith%3A1">David%20Smith</buddy>
+               <buddy uri="AIM:1%3ADimthem4%3ADiana%20Taylor" last_seen="1249314555">Diana%20Taylor</buddy>
+               <buddy uri="AIM:1%3Achubark87%3ADustin%20White" last_seen="1245381667">Dustin%20White</buddy>
+               <buddy uri="MSN:1%3Abreakerofmen%40hotmail%2Ecom%3AElyse%20Field%3A1">Elyse%20Field</buddy>
+               <metacontact remove_contact_alert_window="0">
+                  <title>Eric%20Foehner</title>
+                  <buddy uri="YAHOO:1%3Acuriousericgeorge%3AEric%20Foehner">Eric%20Foehner</buddy>
+                  <buddy uri="MSN:1%3Aericgfoehner%40hotmail%2Ecom%3AEric%20Foehner%3A1" last_seen="1124477672">Eric%20Foehner</buddy>
+                  <buddy uri="AIM:1%3AEricGFoehner%3AEric%20Foehner" default_server="AIM%20%2D%20BrianJCullinan" last_seen="1178777258">Eric%20Foehner</buddy>
+               </metacontact>
+               <buddy uri="AIM:1%3AaGreySpectre%3AForest%20Schwyn" last_seen="1250623553">Forest%20Schwyn</buddy>
+               <buddy uri="AIM:1%3ASpectreTop%3AForest%20Schwyn" last_seen="1250542963">Forest%20Schwyn</buddy>
+               <buddy uri="AIM:1%3Aspazmicsleeper21%3AHolly%20Pyle" last_seen="1250456272">Holly%20Pyle</buddy>
+               <buddy uri="JABBER:jamasan%40gmail%2Ecom" last_seen="1250541660">James%20Palmer</buddy>
+               <buddy uri="AIM:1%3ABadLifeguard%3AJared%20Hrabak" last_seen="1250623553">Jared%20Hrabak</buddy>
+               <buddy uri="JABBER:brede1337%40gmail%2Ecom" last_seen="1249069750">Jarid%20Bredemeier</buddy>
+               <buddy uri="AIM:1%3Ajp7man7%3AJeff%20Poole" last_seen="1197878294">Jeff%20Poole</buddy>
+               <buddy uri="AIM:1%3ATrueMeister6%3AJeffrey%20True" last_seen="1201757585">Jeffrey%20True</buddy>
+               <buddy uri="MSN:1%3Aj%2Eschoch%40hotmail%2Ecom%3AJenna%20Schoch%3A1" last_seen="1243638481">Jenna%20Schoch</buddy>
+               <buddy uri="AIM:1%3Alevelofsanity%3AJenna%20Schoch" last_seen="1250498933">Jenna%20Schoch</buddy>
+               <buddy uri="AIM:1%3Asoy1entknight%3AJessica%20Hudson" last_seen="1247807389">Jessica%20Hudson</buddy>
+               <buddy uri="AIM:1%3Aelhalylady%3AJessica%20Pack" last_seen="1247530015">Jessica%20Pack</buddy>
+               <buddy uri="MSN:1%3Agiraffee%40hotmail%2Ecom%3AJoanna%20Hicks%3A1" last_seen="1250476303">Joanna%20Hicks</buddy>
+               <buddy uri="JABBER:joeedh%40gmail%2Ecom" last_seen="1250623553">Joe%20Eagar</buddy>
+               <buddy uri="MSN:1%3Amoe_jo69%40hotmail%2Ecom%3AJoe%20Fellers%3A1" last_seen="1250623553">Joe%20Fellers</buddy>
+               <buddy uri="AIM:1%3AFJoeAZ%3AJoe%20Flieger" last_seen="1250623553">Joe%20Flieger</buddy>
+               <buddy uri="JABBER:fjoeaz%40gmail%2Ecom" last_seen="1250623553">Joe%20Flieger</buddy>
+               <buddy uri="MSN:1%3Acomputernerd123%40hotmail%2Ecom%3AJoe%20Flieger%3A1" last_seen="1250623553">Joe%20Flieger</buddy>
+               <buddy uri="JABBER:zaren678%40gmail%2Ecom" last_seen="1250484894">John%20Anderson</buddy>
+               <buddy uri="AIM:1%3Aexodusjpg%3AJohn%20Goral" last_seen="1250623553">John%20Goral</buddy>
+               <buddy uri="AIM:1%3Anullphi%3AJohn%20Meyer" last_seen="1247866867">John%20Meyer</buddy>
+               <buddy uri="AIM:1%3Agordo3387%3AJordan%20Ross" last_seen="1248942517">Jordan%20Ross</buddy>
+               <buddy uri="MSN:1%3Ajoshganyo%40hotmail%2Ecom%3AJosh%20Ganyo%3A1" last_seen="1250623553">Josh%20Ganyo</buddy>
+               <buddy uri="AIM:1%3Ahumoroussmile%3AJoshua%20Mallett" last_seen="1250623553">Joshua%20Mallett</buddy>
+               <buddy uri="AIM:1%3Ajuloboe%3AJulie%20Anderson" last_seen="1250618298">Julie%20Anderson</buddy>
+               <buddy uri="MSN:1%3Ajuloboe%40hotmail%2Ecom%3AJulie%20Anderson%3A1" last_seen="1201823406">Julie%20Anderson</buddy>
+               <buddy uri="MSN:1%3Aaquafinaress%40hotmail%2Ecom%3AKailey%20Larson%3A1" last_seen="1173851900">Kailey%20Larson</buddy>
+               <buddy uri="AIM:1%3Akaetykaete%3AKaity%20Whitney" last_seen="1246489573">Kaity%20Whitney</buddy>
+               <buddy uri="AIM:1%3Afingereleven0606%3AKaran%20Shah" last_seen="1250518334">Karan%20Shah</buddy>
+               <buddy uri="JABBER:shah%2Ekaran%40gmail%2Ecom" last_seen="1250623553">Karan%20Shah</buddy>
+               <buddy uri="AIM:1%3Acheerdork824%3AKatie%20Bauer" last_seen="1250477321">Katie%20Bauer</buddy>
+               <buddy uri="AIM:1%3Aswtninocnt0690%3AKatie%20Sharman" last_seen="1199321802">Katie%20Sharman</buddy>
+               <buddy uri="AIM:1%3Akikilax87%3AKatie%20Sharman" last_seen="1137556719">Katie%20Sharman</buddy>
+               <buddy uri="MSN:1%3Asilentdragons%40hotmail%2Ecom%3AKatrina%20Blackwelder%3A1" last_seen="1250623553">Katrina%20Blackwelder</buddy>
+               <buddy uri="AIM:1%3Awhiteling346%3AKatrina%20Blackwelder" last_seen="1247817164">Katrina%20Blackwelder</buddy>
+               <buddy uri="MSN:1%3Akstreet16%40hotmail%2Ecom%3AKeifer%20Street%3A1" last_seen="1177080750">Keifer%20Street</buddy>
+               <buddy uri="MSN:1%3Akeifer%2Estreet%40hotmail%2Ecom%3AKeifer%20Street%3A1" last_seen="1201841014">Keifer%20Street</buddy>
+               <buddy uri="AIM:1%3Akellbells912%3AKelly%20Hennessey" last_seen="1164176760">Kelly%20Hennessey</buddy>
+               <buddy uri="AIM:1%3Acryptelligencia%3ALeah%20Shanker" last_seen="1247807372">Leah%20Shanker</buddy>
+               <buddy uri="AIM:1%3Anobody289%3AMatt%20Shanker" last_seen="1250623553">Matt%20Shanker</buddy>
+               <buddy uri="AIM:1%3Asoulofsoulfly%3AMatt%20Tinkelman" last_seen="1163558489">Matt%20Tinkelman</buddy>
+               <buddy uri="AIM:1%3AFishFlakes57%3AMeaghan%20Winfield" last_seen="1250623553">Meaghan%20Winfield</buddy>
+               <buddy uri="AIM:1%3Anaumeg57%3AMeaghan%20Winfield">Meaghan%20Winfield</buddy>
+               <buddy uri="AIM:1%3AQtbabe417%3AMeg%20Marini" last_seen="1201816109">Meg%20Marini</buddy>
+               <buddy uri="AIM:1%3Agooddharmagirl%3AMegan%20Ware" last_seen="1245813614">Megan%20Ware</buddy>
+               <buddy uri="JABBER:missmjware%40gmail%2Ecom">Megan%20Ware</buddy>
+               <buddy uri="AIM:1%3Amssy358%3AMelissa%20Mcdonald" last_seen="1149297560">Melissa%20Mcdonald</buddy>
+               <buddy uri="AIM:1%3Alissapoo4%3AMelissa%20White" last_seen="1250623553">Melissa%20White</buddy>
+               <buddy uri="AIM:1%3AFireAlwaysWorks%3AMicheal%20Brooks" last_seen="1250623553">Micheal%20Brooks</buddy>
+               <buddy uri="AIM:1%3Amurphymccauley%3AMurphy%20Mccauley" last_seen="1250623553">Murphy%20Mccauley</buddy>
+               <buddy uri="AIM:1%3Ahippytripout%3ANatalya%20Swestock" last_seen="1201841014">Natalya%20Swestock</buddy>
+               <buddy uri="AIM:1%3ANaTeDdOg2000%3ANate%20Casiraro" last_seen="1247159259">Nate%20Casiraro</buddy>
+               <buddy uri="AIM:1%3Acharmer146%3ANicole%20Camper" last_seen="1250541660">Nicole%20Camper</buddy>
+               <buddy uri="JABBER:pete%2Egomersall%40gmail%2Ecom" last_seen="1250623553">Pete%20Gomersall</buddy>
+               <buddy uri="AIM:1%3ADatasyrgePhil%3APhillip%20Schafer" last_seen="1201841014">Phillip%20Schafer</buddy>
+               <buddy uri="JABBER:ragunr%40gmail%2Ecom" last_seen="1250623553">Richard%20Lester</buddy>
+               <buddy uri="YAHOO:1%3Asilverragun%3Asilverragun" last_seen="1146100746">Richard%20Lester</buddy>
+               <buddy uri="AIM:1%3Adarkpowers%2Eryan%40gmail%2Ecom%3ARyan%20Bohner" last_seen="1247800533">Ryan%20Bohner</buddy>
+               <buddy uri="JABBER:darkpowers%2Eryan%40gmail%2Ecom">Ryan%20Bohner</buddy>
+               <buddy uri="AIM:1%3As0lidfox%3ARyan%20Raub" last_seen="1250623553">Ryan%20Raub</buddy>
+               <buddy uri="AIM:1%3Aryanwoody13%3ARyan%20Woodall" last_seen="1250618261">Ryan%20Woodall</buddy>
+               <buddy uri="AIM:1%3Asallyannmcgee%3ASally%20McGee" last_seen="1149431904">Sally%20McGee</buddy>
+               <buddy uri="AIM:1%3AWhamolaSam%3ASam%20Opp" last_seen="1250531180">Sam%20Opp</buddy>
+               <buddy uri="AIM:1%3Aphxhockey99%3AScott%20Johnson" default_server="AIM%20%2D%20BrianJCullinan" last_seen="1245827808">Scott%20Johnson</buddy>
+               <buddy uri="JABBER:fowler%2Eshawn%40gmail%2Ecom" last_seen="1250623553">Shawn%20Fowler</buddy>
+               <buddy uri="JABBER:sarcas%40gmail%2Ecom" last_seen="1246136464">Steve%20Arcas</buddy>
+               <buddy uri="MSN:1%3Askoechle%40hotmail%2Ecom%3ASteve%20Koechle%3A1" last_seen="1244510520">Steve%20Koechle</buddy>
+               <buddy uri="AIM:1%3AZithrandmir%3ATalbert%20Tso" last_seen="1248910096">Talbert%20Tso</buddy>
+               <buddy uri="AIM:1%3ANonConformistism%3ATeresa%20Cvach" last_seen="1250523191">Teresa%20Cvach</buddy>
+               <buddy uri="AIM:1%3Atwcz3%3ATim%20Cochran" last_seen="1250623553">Tim%20Cochran</buddy>
+               <buddy uri="JABBER:timsapio%40gmail%2Ecom" last_seen="1247796443">Tim%20Sapio</buddy>
+               <buddy uri="AIM:1%3Atwopacliveson123%3ATim%20Woods" last_seen="1200860753">Tim%20Woods</buddy>
+               <buddy uri="AIM:1%3Afilish1212%3ATony%20Camacho">Tony%20Camacho</buddy>
+               <buddy uri="AIM:1%3Atotomolinos%3ATori%20Kalmi" last_seen="1245436333">Tori%20Kalmi</buddy>
+               <buddy uri="AIM:1%3Atr4vishudson%3ATravis%20Hudson" last_seen="1250623553">Travis%20Hudson</buddy>
+               <buddy uri="AIM:1%3Atravis14489%3ATravis%20Hudson" last_seen="1195509389">Travis%20Hudson</buddy>
+               <buddy uri="AIM:1%3AAllAboutTheMusac%3ATrent%20Lowery" last_seen="1244662877">Trent%20Lowery</buddy>
+               <buddy uri="AIM:1%3Atfunk1940%3ATrevor%20Carr" last_seen="1250501094">Trevor%20Carr</buddy>
+               <buddy uri="AIM:1%3AGottaLuvOrchDork%3AWhitney%20Ladd" last_seen="1198211634">Whitney%20Ladd</buddy>
+               <buddy uri="AIM:1%3AIngaPlaysViolin%3AWhitney%20Ladd">Whitney%20Ladd</buddy>
+               <buddy uri="JABBER:zmitchell%40gmail%2Ecom" last_seen="1250623553">Zach%20MItchell</buddy>
+               <buddy uri="MSN:1%3Azacmit%40hotmail%2Ecom%3AZach%20MItchell%3A1" last_seen="1196452793">Zach%20MItchell</buddy>
+               <buddy uri="MSN:1%3Azmitchell%40gmail%2Ecom%3AZach%20MItchell%3A1" last_seen="1250623553">Zach%20MItchell</buddy>
+            </group>
+            <group expanded="1">
+               <title>College</title>
+               <buddy uri="AIM:1%3AdieAnsicht%3AAlex%20Bruce" last_seen="1142320598">Alex%20Bruce</buddy>
+               <buddy uri="MSN:1%3Atheday12701%40hotmail%2Ecom%3AAlex%20Markov%3A1" last_seen="1250623553">Alex%20Markov</buddy>
+               <buddy uri="MSN:1%3Aalex%2Emarkov%40rp%2Ds%2Ecom%3AAlex%20Markov%3A1" last_seen="1250538905">Alex%20Markov</buddy>
+               <buddy uri="AIM:1%3AAmsley07%3AAmy%20Root" last_seen="1184796625">Amy%20Root</buddy>
+               <metacontact remove_contact_alert_window="0" last_seen="1250489679">
+                  <title>Andrew%20Galban</title>
+                  <buddy uri="AIM:1%3AUofM3586%3AAndrew%20Galban" last_seen="1185243018">Andrew%20Galban</buddy>
+                  <buddy uri="AIM:1%3AMichigan3586%3AAndrew%20Galban" default_server="AIM%20%2D%20BrianJCullinan" last_seen="1250489679">Andrew%20Galban</buddy>
+               </metacontact>
+               <buddy uri="AIM:1%3Aamariemcb%3AAshley%20McBrien" last_seen="1247701157">Ashley%20McBrien</buddy>
+               <buddy uri="AIM:1%3Alaxchick0205%3ABeccy%20Stemm" last_seen="1201841014">Beccy%20Stemm</buddy>
+               <buddy uri="AIM:1%3Alegionunion%3ABrad%20Humphryes" last_seen="1201671190">Brad%20Humphryes</buddy>
+               <buddy uri="MSN:1%3Aragnarok346%40hotmail%2Ecom%3ABrian%20McCluskey%3A1" last_seen="1244588546">Brian%20McCluskey</buddy>
+               <buddy uri="AIM:1%3Adaponykilla%3ACale%20Dodge" last_seen="1164667862">Cale%20Dodge</buddy>
+               <buddy uri="AIM:1%3ACL0SERbyFAR%3ACale%20Dodge" last_seen="1245549570">Cale%20Dodge</buddy>
+               <buddy uri="AIM:1%3AZer0ch1ck26%3AChelsea%20Dishman" last_seen="1133210077">Chelsea%20Dishman</buddy>
+               <buddy uri="AIM:1%3ATheICEprincess24%3AChelsea%20Dishman" last_seen="1249099730">Chelsea%20Dishman</buddy>
+               <buddy uri="AIM:1%3ANoliIvIitF0rce%3ADan%20Fairaizl" last_seen="1149402480">Dan%20Fairaizl</buddy>
+               <buddy uri="YAHOO:1%3Anightblade35%40yahoo%2Ecom%3ADan%20Fairaizl">Dan%20Fairaizl</buddy>
+               <buddy uri="AIM:1%3Amorninsta182%3ADanica%20Buzniak" last_seen="1201835074">Danica%20Buzniak</buddy>
+               <metacontact remove_contact_alert_window="0">
+                  <title>Eric%20Sefeurt</title>
+                  <buddy uri="AIM:1%3ACryFreedom586%3AEric%20S" last_seen="1121658666">Eric%20S</buddy>
+                  <buddy uri="AIM:1%3ALmberjack4u%3AEric%20S" last_seen="1178791629">Eric%20S</buddy>
+               </metacontact>
+               <buddy uri="AIM:1%3AMedorose%3AErica" last_seen="1201749449">Erica</buddy>
+               <buddy uri="AIM:1%3Asaxytenor07%3AErika%20Fournier" last_seen="1250623553">Erika%20Fournier</buddy>
+               <buddy uri="AIM:1%3Acaosstrisciante%3AGarrett%20Matlick" last_seen="1250623553">Garrett%20Matlick</buddy>
+               <buddy uri="AIM:1%3Agrmkorn13%3AGreg%20Miraglia" last_seen="1250542963">Greg%20Miraglia</buddy>
+               <buddy uri="AIM:1%3ABlindFishEye%3AGunnhild%20Albrecht" last_seen="1247726656">Gunnhild%20Albrecht</buddy>
+               <buddy uri="AIM:1%3Aatragicfairytale%3AJacqueline%20Fournier" last_seen="1149751037">Jacqueline%20Fournier</buddy>
+               <buddy uri="MSN:1%3Athanatos_13667%40hotmail%2Ecom%3AJames%20McCormick%3A1" last_seen="1192409697">James%20McCormick</buddy>
+               <buddy uri="AIM:1%3AAZJRJ%3AJeffrey%20Judy" last_seen="1243444595">Jeffrey%20Judy</buddy>
+               <buddy uri="AIM:1%3Afishingforstones%3AJeremy%20Pond" last_seen="1201062880">Jeremy%20Pond</buddy>
+               <metacontact remove_contact_alert_window="0">
+                  <title>Jessica%20Conklin</title>
+                  <buddy uri="AIM:1%3ATinkerbelle1987%3AJessica%20Conklin" last_seen="1173410573">Jessica%20Conklin</buddy>
+               </metacontact>
+               <buddy uri="AIM:1%3AJNWSWIMS%3AJessica%20Weisel" last_seen="1178668136">Jessica%20Weisel</buddy>
+               <buddy uri="AIM:1%3Alegionjedi%3AJosh%20Bowen" default_server="AIM%20%2D%20BrianJCullinan" last_seen="1250541337">Josh%20Bowen</buddy>
+               <buddy uri="AIM:1%3AMegamiWashu5%3AKristina%20O%27Conner" last_seen="1189655259">Kristina%20O%27Conner</buddy>
+               <buddy uri="AIM:1%3Arolemodelslave%3AMegan%20Ekstrom" last_seen="1201841014">Megan%20Ekstrom</buddy>
+               <buddy uri="AIM:1%3AChicaloco14%3AMegan%20Ekstrom">Megan%20Ekstrom</buddy>
+               <buddy uri="AIM:1%3ASkAnKpHo4739%3AMike%20Farrari" last_seen="1201742073">Mike%20Farrari</buddy>
+               <buddy uri="AIM:1%3Acprossu2%3ANerd%20Andrew" last_seen="1250623553">Nerd%20Andrew</buddy>
+               <buddy uri="AIM:1%3Ajazzsax8402%3APaul%20Prinke" last_seen="1250623553">Paul%20Prinke</buddy>
+               <buddy uri="MSN:1%3Afuji897%40hotmail%2Ecom%3ARobert%20Douglas%3A1" last_seen="1250623553">Robert%20Douglas</buddy>
+               <buddy uri="AIM:1%3Afuji897%3ARobert%20Douglas" last_seen="1246387750">Robert%20Douglas</buddy>
+               <buddy uri="AIM:1%3AtheSaRbStEr%3ASara%20Sarbo" last_seen="1126069628">Sara%20Sarbo</buddy>
+               <metacontact remove_contact_alert_window="0" last_seen="1201464215">
+                  <title>Sara%20Taylor</title>
+                  <buddy uri="AIM:1%3AFindURinnerDznR%3ASara%20Taylor" last_seen="1201464215">Sara%20Taylor</buddy>
+                  <buddy uri="AIM:1%3Afnctnlydisfnctnl%3ASara%20Taylor" last_seen="1131812181">Sara%20Taylor</buddy>
+                  <buddy uri="AIM:1%3AOLdSk00LNinTend0%3ASara%20Taylor" last_seen="1125290856">Sara%20Taylor</buddy>
+                  <buddy uri="AIM:1%3AtheSoNgThtNEvRns%3ASara%20Taylor" last_seen="1118114022">Sara%20Taylor</buddy>
+               </metacontact>
+               <buddy uri="AIM:1%3Agrandslam419%3AShannon%20McHenry" last_seen="1194242264">Shannon%20McHenry</buddy>
+               <buddy uri="AIM:1%3Acurlygurly1686%3AStephanie%20Roeckner" last_seen="1247909021">Stephanie%20Roeckner</buddy>
+               <buddy uri="AIM:1%3ACyberPsycho563%3ATim%20Goodrich" last_seen="1170906605">Tim%20Goodrich</buddy>
+            </group>
+            <group expanded="1">
+               <title>PHS%20Band</title>
+               <buddy uri="AIM:1%3Aamaldonado33%3AAlfred%20Maldanado" last_seen="1250623553">Alfred%20Maldanado</buddy>
+               <buddy uri="MSN:1%3Aamaldonado_3%40hotmail%2Ecom%3AAlfred%20Maldanado%3A1" last_seen="1188581911">Alfred%20Maldanado</buddy>
+               <buddy uri="AIM:1%3ASkapunk4everr%3AAndy%20Belluomini" last_seen="1192055960">Andy%20Belluomini</buddy>
+               <buddy uri="AIM:1%3AAPTWIRLER%3AAstin%20Phillips" last_seen="1250542963">Astin%20Phillips</buddy>
+               <buddy uri="AIM:1%3Axxhappycynicxx%3ABrianna%20Potts" last_seen="1166072942">Brianna%20Potts</buddy>
+               <buddy uri="AIM:1%3Aclaire590%3AClaire%20Norbut" default_server="AIM%20%2D%20BrianJCullinan" last_seen="1250621449">Claire%20Norbut</buddy>
+               <buddy uri="AIM:1%3Adanshowgun01%3ADaniel%20Armstrong" default_server="AIM%20%2D%20BrianJCullinan" last_seen="1246939572">Daniel%20Armstrong</buddy>
+               <buddy uri="AIM:1%3Askankinwhiteman%3ADerek%20Sinex" default_server="AIM%20%2D%20BrianJCullinan" last_seen="1201841014">Derek%20Sinex</buddy>
+               <buddy uri="AIM:1%3AerK005%3AEric%20Johnson" last_seen="1190237715">Eric%20Johnson</buddy>
+               <buddy uri="AIM:1%3ARepoc911%3AJesse%20Bowen" last_seen="1250424156">Jesse%20Bowen</buddy>
+               <buddy uri="AIM:1%3Asmileychick840%3AKristin%20Kiernen" last_seen="1247630744">Kristin%20Kiernen</buddy>
+            </group>
+            <group expanded="1">
+               <title>Other</title>
+               <buddy uri="AIM:1%3ABasketballA0722%3AAndrew%20Craine" last_seen="1197590507">Andrew%20Craine</buddy>
+               <buddy uri="AIM:1%3ABBJay319%3ADanielle" last_seen="1134906679">Danielle</buddy>
+               <buddy uri="AIM:1%3Ajdbaby73%3ADanielle" last_seen="1113285910">Danielle</buddy>
+               <buddy uri="AIM:1%3ATinyDncR360%3ADanielle%20Valentine" last_seen="1159209239">Danielle%20Valentine</buddy>
+               <buddy uri="AIM:1%3Afugimax%3Afugimax" last_seen="1249224959">fugimax</buddy>
+               <buddy uri="AIM:1%3Aconcusionkid37%3AGreg%20Beach" last_seen="1164733884">Greg%20Beach</buddy>
+               <buddy uri="YAHOO:1%3Aimrananwar17%40yahoo%2Ecom%3Aimrananwar17%40yahoo%2Ecom">imrananwar17%40yahoo%2Ecom</buddy>
+               <buddy uri="AIM:1%3AJennyBear8143%3AJenny" last_seen="1246998046">Jenny</buddy>
+               <buddy uri="AIM:1%3Acuteone404%3AJenny%20King" last_seen="1245429370">Jenny%20King</buddy>
+               <metacontact remove_contact_alert_window="0" last_seen="1245021955">
+                  <title>John</title>
+                  <buddy uri="YAHOO:1%3Asporky86%3Asporky86" last_seen="1245021955">John</buddy>
+               </metacontact>
+               <metacontact remove_contact_alert_window="0">
+                  <title>Katie</title>
+                  <buddy uri="AIM:1%3AShopperGal502%3AKatie" last_seen="1178678115">Katie</buddy>
+                  <buddy uri="AIM:1%3Arunnerkatie502%3AKatie" last_seen="1139355617">Katie</buddy>
+                  <buddy uri="AIM:1%3Akatiep502%3AKatie" last_seen="1124406439">Katie</buddy>
+               </metacontact>
+               <buddy uri="AIM:1%3AKking484%3AKelly%20King" last_seen="1250347077">Kelly%20King</buddy>
+               <buddy uri="AIM:1%3Astobygotastick%3Astobygotastick" last_seen="1149286048">stobygotastick</buddy>
+            </group>
+            <group expanded="1">
+               <title>Family</title>
+               <metacontact remove_contact_alert_window="0" last_seen="1201840990">
+                  <title>Andrew%20McVey</title>
+                  <buddy uri="AIM:1%3Amishap201%3AAndrew%20McVey" last_seen="1201841014">Andrew%20McVey</buddy>
+                  <buddy uri="AIM:1%3Anolife13%3AAndrew%20McVey">Andrew%20McVey</buddy>
+                  <buddy uri="AIM:1%3Aironcabbage%3AAndrew%20McVey" last_seen="1201841014">Andrew%20McVey</buddy>
+                  <buddy uri="XFIRE:deathdidupart" last_seen="1179725723">deathdidupart</buddy>
+               </metacontact>
+               <buddy uri="AIM:1%3AFaLLtOPiEcEs44%3ACallie%20Cullinan" last_seen="1246305237">Callie%20Cullinan</buddy>
+               <buddy uri="AIM:1%3AQuantius99%3AChase%20McVey" last_seen="1249185416">Chase%20McVey</buddy>
+               <buddy uri="AIM:1%3ASurfKawena%3AColleen%20Cullinan" last_seen="1201061207">Colleen%20Cullinan</buddy>
+               <buddy uri="AIM:1%3Alilblue1832%3AColleen%20Cullinan" last_seen="1194320743">Colleen%20Cullinan</buddy>
+               <buddy uri="AIM:1%3As1ng1nstar%3ACorinne" last_seen="1245908809">Corinne</buddy>
+               <buddy uri="AIM:1%3Asaibian86%3AKevin" last_seen="1201831521">Kevin</buddy>
+               <buddy uri="AIM:1%3Alemcvey%3ALEMcVey" last_seen="1244046527">LEMcVey</buddy>
+               <buddy uri="YAHOO:1%3Aazdbacksluvr%3Aazdbacksluvr" last_seen="1249245898">Mom</buddy>
+               <buddy uri="AIM:1%3AGroeneRook420%3ANate" last_seen="1115413566">Nate</buddy>
+               <buddy uri="AIM:1%3AMrNate109%3ANate" last_seen="1110757828">Nate</buddy>
+               <buddy uri="AIM:1%3Adarienjammer109%3ANate" last_seen="1246302421">Nate</buddy>
+               <buddy uri="AIM:1%3Apracticeubiquity%3ANate" last_seen="1123557850">Nate</buddy>
+               <buddy uri="SKYPE:quantius99" last_seen="1198991177">quantius99</buddy>
+               <buddy uri="AIM:1%3Asamcvey%3ASteve%20McVey" last_seen="1245452190">Steve%20McVey</buddy>
+               <buddy uri="YAHOO:1%3Atbangert%40yahoo%2Ecom%3ATim%20Bangert">Tim%20Bangert</buddy>
+            </group>
+            <group expanded="0">
+               <title>Clan</title>
+               <buddy uri="AIM:1%3AWGBigBoy%3AAlfred" last_seen="1176962589">Alfred</buddy>
+               <buddy uri="AIM:1%3AWGMisanthrope%3AEric" last_seen="1129928455">Eric</buddy>
+               <buddy uri="AIM:1%3Athanat0s667%3AJames" last_seen="1133568624">James</buddy>
+            </group>
+            <group expanded="0">
+               <title>Gamers</title>
+               <buddy uri="IRC:1%3A%5BSPD%5DRalphNader%3A%5BSPD%5DRalphNader" last_seen="1109032651">%5BSPD%5DRalphNader</buddy>
+               <buddy uri="IRC:1%3AAcetone%3AAcetone" last_seen="1201841014">Acetone</buddy>
+               <buddy uri="IRC:1%3AAcetone%7CFuKnUt%3AAcetone%7CFuKnUt" last_seen="1117598971">Acetone%7CFuKnUt</buddy>
+               <buddy uri="IRC:1%3AMidgetKiller%3AMidgetKiller" last_seen="1176789742">MidgetKiller</buddy>
+               <buddy uri="IRC:1%3ARalphNader%3ARalphNader" last_seen="1163616598">RalphNader</buddy>
+               <buddy uri="AIM:1%3ARbew1Ry%3ARbew1Ry" last_seen="1120969575">Rbew1Ry</buddy>
+               <buddy uri="IRC:1%3A%7BEmS%7DStu%3A%7BEmS%7DStu">%7BEmS%7DStu</buddy>
+            </group>
+            <group expanded="0">
+               <title>Recent%20Buddies</title>
+               <buddy uri="AIM:1%3Aarcticbreeze886%3Aarcticbreeze886">arcticbreeze886</buddy>
+               <buddy uri="AIM:1%3Afooluura%3Afooluura" last_seen="1146294156">fooluura</buddy>
+               <buddy uri="AIM:1%3Akaptainkha0s246%3Akaptainkha0s246" last_seen="1130471984">kaptainkha0s246</buddy>
+               <buddy uri="AIM:1%3Alilangel10027%3Alilangel10027" last_seen="1178781006">lilangel10027</buddy>
+               <buddy uri="AIM:1%3Aluvskittens02%3Aluvskittens02" last_seen="1178658382">luvskittens02</buddy>
+               <buddy uri="AIM:1%3Amygal2000%3Amygal2000" last_seen="1177278513">mygal2000</buddy>
+               <buddy uri="AIM:1%3Athechelseasaid%3Athechelseasaid" last_seen="1178825861">thechelseasaid</buddy>
+            </group>
+            <group expanded="0">
+               <title>From%20Band</title>
+               <buddy uri="AIM:1%3Abandchik8705%3Abandchik8705" last_seen="1159736945">bandchik8705</buddy>
+            </group>
+            <group expanded="0">
+               <title>AIM%20Bots</title>
+               <buddy uri="AIM:1%3AMovieFone%3AMovieFone" last_seen="1178825861">MovieFone</buddy>
+               <buddy uri="AIM:1%3AShoppingBuddy%3AShoppingBuddy" last_seen="1178825861">ShoppingBuddy</buddy>
+            </group>
+            <group expanded="0">
+               <title>People</title>
+               <buddy uri="AIM:1%3ABringBackMyPants%3ABringBackMyPants" last_seen="1250623553">BringBackMyPants</buddy>
+               <buddy uri="AIM:1%3AEfoehn%3AEfoehn">Efoehn</buddy>
+               <buddy uri="AIM:1%3AWackyStef9%3AWackyStef9" last_seen="1242829937">WackyStef9</buddy>
+            </group>
+            <group expanded="1">
+               <title>Xfire</title>
+            </group>
+            <group expanded="0">
+               <title>Recent%20Buddies2</title>
+               <buddy uri="AIM:1%3Auaballer147%3Auaballer147" last_seen="1247351216">uaballer147</buddy>
+            </group>
+            <group expanded="1">
+               <title>MSN</title>
+               <buddy uri="MSN:1%3Ababycakes775%40yahoo%2Ecom%3A%2A%2ADanniii%2A%2A%3A1" last_seen="1249279530">%2A%2ADanniii%2A%2A</buddy>
+               <buddy uri="MSN:1%3Abaybblueyes%40hotmail%2Ecom%3Abaybblueyes%40hotmail%2Ecom%3A0">baybblueyes%40hotmail%2Ecom</buddy>
+               <buddy uri="MSN:1%3Afirehawk104%40hotmail%2Ecom%3AMr%2EFluff%3A1" last_seen="1245634900">Mr%2EFluff</buddy>
+               <buddy uri="MSN:1%3Apicklesoup2%40hotmail%2Ecom%3Apicklesoup2%40hotmail%2Ecom%3A0">picklesoup2%40hotmail%2Ecom</buddy>
+               <buddy uri="MSN:1%3Astatester%40msn%2Ecom%3AState%3A1" last_seen="1243409191">State</buddy>
+            </group>
+            <group expanded="1">
+               <title>Skype</title>
+               <buddy uri="SKYPE:echo123">echo123</buddy>
+            </group>
+            <buddy uri="JABBER:david%2Eearl%2Esmith%40gmail%2Ecom">David%20Smith</buddy>
+      </section>
+   </buddies>

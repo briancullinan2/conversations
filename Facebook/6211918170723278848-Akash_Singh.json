@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6211918170723278848/",
+    "participants": [
+        {
+            "name": "Akash Singh",
+            "title": "Sr. Technical Recruiter at Next Level Business services, Inc.",
+            "url": "linkedin.com/in/akash-singh-04778411a",
+            "phone": "9069315482 (Home)",
+            "email": "akash.singh@nlbservices.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-06T15:05:00.000Z"
+        },
+        {
+            "from": "Akash Singh",
+            "message": "Your welcome\n",
+            "time": "2017-12-07T18:03:00.000Z"
+        }
+    ]
+}

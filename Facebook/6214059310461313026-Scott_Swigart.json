@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6214059310461313026/",
+    "participants": [
+        {
+            "name": "Scott Swigart",
+            "title": "President and CTO of Cascade Insights, Lover of great research, Leader of smart analysts, Business technology nerd",
+            "url": "linkedin.com/in/scottswigart",
+            "phone": null,
+            "email": "scott@cascadeinsights.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-12T12:53:00.000Z"
+        }
+    ]
+}

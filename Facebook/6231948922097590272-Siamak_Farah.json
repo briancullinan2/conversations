@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6231948922097590272/",
+    "participants": [
+        {
+            "name": "Siamak Farah",
+            "title": "CEO at InfoStreet, Inc.",
+            "url": "linkedin.com/in/siamakfarah",
+            "phone": null,
+            "email": "sia@infostreet.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-30T21:40:00.000Z"
+        }
+    ]
+}

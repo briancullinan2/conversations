@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6227480870245187585/",
+    "participants": [
+        {
+            "name": "Ritchie J. Smith",
+            "title": "I make people's lives a little easier.",
+            "url": "linkedin.com/in/ritchiejsmith",
+            "phone": null,
+            "email": "ritchiesmith@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-18T13:45:00.000Z"
+        }
+    ]
+}

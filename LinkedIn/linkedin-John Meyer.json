@@ -1,0 +1,522 @@
+[
+    {
+        "resourceName": "people/c7485099764715095672",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "67e06a9408340678"
+                    }
+                },
+                "displayName": "John Meyer",
+                "familyName": "Meyer",
+                "givenName": "John",
+                "displayNameLastFirst": "Meyer, John"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "110620783304466302989"
+                    }
+                },
+                "displayName": "John Meyer",
+                "familyName": "Meyer",
+                "givenName": "John",
+                "displayNameLastFirst": "Meyer, John"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "67e06a9408340678"
+                    }
+                },
+                "value": "jrmeyer@gmail.com",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "67e06a9408340678"
+                    }
+                },
+                "value": "(917) 512-5466",
+                "canonicalForm": "+19175125466",
+                "type": "work",
+                "formattedType": "Work"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "67e06a9408340678"
+                    }
+                },
+                "value": "+1-928-254-8598",
+                "canonicalForm": "+19282548598",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "13 Mutual Connections",
+                "You and John both know Jesse Gill, Leah Shanker, and 11 others"
+            ],
+            [
+                "You both worked at Northern Arizona University",
+                "John worked at Northern Arizona University after you started"
+            ],
+            [
+                "Show more",
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Senior Systems Administrator",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Jun 2013 – Present",
+                "Employment Duration",
+                "4 yrs 5 mos",
+                "Location",
+                "Flagstaff, Arizona Area",
+                "· IT infrastructure for live multi-camera video productions· Multi-platform video streaming· Hyper-V clustering· SAN administration· System Center administration· Security appliance administration· Virtual desktop infrastructure"
+            ],
+            [
+                "Executive Director",
+                "Company Name",
+                "Bacchus Arts Collective",
+                "Dates Employed",
+                "May 2013 – Present",
+                "Employment Duration",
+                "4 yrs 6 mos",
+                "Location",
+                "Flagstaff, Arizona Area",
+                "· Started a Circus Arts Education and Performance non-profit"
+            ],
+            [
+                "Director of Technology",
+                "Company Name",
+                "Light Technology Publishing",
+                "Dates Employed",
+                "Nov 2009 – May 2013",
+                "Employment Duration",
+                "3 yrs 7 mos",
+                "Location",
+                "Flagstaff, Arizona",
+                "· Administer physical and virtual servers running Ubuntu and Windows Server.· Administer iptables and Dell Sonicwall UTMs.· Web and ecommerce development within the Drupal content management system· Manage a digital publishing team, primarily focused on ePUB creation.· Oversee publishing relationships with distributors and authors.· Recruit and hire technical and design employees as needed."
+            ],
+            [
+                "Radio Operations Intern",
+                "Company Name",
+                "KNAU Arizona Public Radio",
+                "Dates Employed",
+                "May 2010 – May 2011",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "Flagstaff, Arizona",
+                "· Prepared network-provided audio for re-broadcast.· Ensured proper working order of all production and local broadcast audio equipment.· Advanced troubleshooting of Audiovault2, embedded linux network delay recorders, and satellite program subscriptions via PRSS ContentDepot."
+            ],
+            [
+                "Chief Engineer",
+                "Company Name",
+                "KJACK - Northern Arizona University's Student Run Radio",
+                "Dates Employed",
+                "Aug 2008 – May 2011",
+                "Employment Duration",
+                "2 yrs 10 mos",
+                "Location",
+                "Flagstaff, Arizona",
+                "· Oversaw all technical aspects of a broadcast college radio station.· Grew and trained an engineering team to support servers, clients, audio production equipment, and remote production equipment.· Deployed a task management system to delegate work load in this diverse, team-based environment.· Developed a curriculum to ensure proper functioning of the station.  Developed lectures on common audio topics, with more advanced lectures on a range of topics including systems administration, field troubleshooting, power management, cable building, production audio, and remote field production.· Trained and supported non-technical end users over a large library of software applications, including Powergold, RivendellAudio, and custom built web applications.· Built and deployed servers on Ubuntu 10.04 and Rivendell radio automation.  Kept parts on hand for cold-swap failover in case of any hardware issues.· Evaluated Red5 Flash Server to replace Windows Media Streaming Server for 24x7 video content.· Secured all servers behind iptables and allowed remote connections only via secured VPN connections.· Deployed and managed client machines on Ubuntu 10.04 and Windows 7.  All machines shared server storage over an internal NFS share.· Rewired the entire on-air studio, including broadcast audio and video equipment.  Developed cable best practices and cable management on a tight budget.· Scripted server administration tasks with AutoIT, PowerShell, and bash."
+            ],
+            [
+                "Systems and Network Administrator",
+                "Company Name",
+                "Architectural & Environmental Associates",
+                "Dates Employed",
+                "Dec 2006 – Nov 2007",
+                "Employment Duration",
+                "1 yr",
+                "Location",
+                "Flagstaff, Arizona",
+                "· Designed and deployed a new website and ecommerce system based on OSCommerce and Wordpress.· Managed local network (wired and wireless), email systems and servers, and Windows 2000 Active Directory domain.· Deployed remote jobsite networks, including all cabling, with secured VPN connections to the main internal network.· Developed and maintained an inventory of all software licenses and deployment.· Deployed virus, spyware, and malware protection.· Performed electrical maintenance on hardware, including soldered component replacement.· Supported remote users via VNC and remote desktop."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University",
+                "Field Of Study",
+                "Sound Design - Theatre",
+                "Dates attended or expected graduation",
+                "2006 – 2010",
+                "Activities and Societies:",
+                "United States Institute for Theatre Technology, Alpha Psi Omega, KJACK - Northern Arizona University's Student-Run Radio"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ],
+            [
+                "See connections (132)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Windows Server",
+                "See 5 endorsements for Windows Server",
+                "5",
+                "Windows Server",
+                "Endorse",
+                "Endorsed by 2 of John’s colleagues at Light Technology Publishing"
+            ],
+            [
+                "Windows Server",
+                "See 5 endorsements for Windows Server",
+                "5"
+            ],
+            [
+                "Servers",
+                "See 5 endorsements for Servers",
+                "5",
+                "Servers",
+                "Endorse",
+                "Endorsed by 3 of John’s colleagues at Northern Arizona University"
+            ],
+            [
+                "Servers",
+                "See 5 endorsements for Servers",
+                "5"
+            ],
+            [
+                "System Administration",
+                "See 4 endorsements for System Administration",
+                "4",
+                "System Administration",
+                "Endorse",
+                "Endorsed by 2 of John’s colleagues at Northern Arizona University"
+            ],
+            [
+                "System Administration",
+                "See 4 endorsements for System Administration",
+                "4"
+            ],
+            [
+                "Linux",
+                "See 4 endorsements for Linux",
+                "4",
+                "Linux",
+                "Remove Endorsement"
+            ],
+            [
+                "Linux",
+                "See 4 endorsements for Linux",
+                "4"
+            ],
+            [
+                "Active Directory",
+                "See 4 endorsements for Active Directory",
+                "4",
+                "Active Directory",
+                "Endorse"
+            ],
+            [
+                "Active Directory",
+                "See 4 endorsements for Active Directory",
+                "4"
+            ],
+            [
+                "Ubuntu",
+                "See 3 endorsements for Ubuntu",
+                "3",
+                "Ubuntu",
+                "Endorse"
+            ],
+            [
+                "Ubuntu",
+                "See 3 endorsements for Ubuntu",
+                "3"
+            ],
+            [
+                "Microsoft Office",
+                "See 3 endorsements for Microsoft Office",
+                "3",
+                "Microsoft Office",
+                "Endorse"
+            ],
+            [
+                "Microsoft Office",
+                "See 3 endorsements for Microsoft Office",
+                "3"
+            ],
+            [
+                "Python",
+                "See 3 endorsements for Python",
+                "3",
+                "Python",
+                "Remove Endorsement"
+            ],
+            [
+                "Python",
+                "See 3 endorsements for Python",
+                "3"
+            ],
+            [
+                "OS X",
+                "See 3 endorsements for OS X",
+                "3",
+                "OS X",
+                "Endorse"
+            ],
+            [
+                "OS X",
+                "See 3 endorsements for OS X",
+                "3"
+            ],
+            [
+                "Windows",
+                "See 2 endorsements for Windows",
+                "2",
+                "Windows",
+                "Endorse"
+            ],
+            [
+                "Windows",
+                "See 2 endorsements for Windows",
+                "2"
+            ],
+            [
+                "Apache",
+                "See 2 endorsements for Apache",
+                "2",
+                "Apache",
+                "Endorse"
+            ],
+            [
+                "Apache",
+                "See 2 endorsements for Apache",
+                "2"
+            ],
+            [
+                "PHP",
+                "See 2 endorsements for PHP",
+                "2",
+                "PHP",
+                "Endorse"
+            ],
+            [
+                "PHP",
+                "See 2 endorsements for PHP",
+                "2"
+            ],
+            [
+                "Drupal",
+                "See 2 endorsements for Drupal",
+                "2",
+                "Drupal",
+                "Endorse"
+            ],
+            [
+                "Drupal",
+                "See 2 endorsements for Drupal",
+                "2"
+            ],
+            [
+                "Troubleshooting",
+                "See 2 endorsements for Troubleshooting",
+                "2",
+                "Troubleshooting",
+                "Endorse"
+            ],
+            [
+                "Troubleshooting",
+                "See 2 endorsements for Troubleshooting",
+                "2"
+            ],
+            [
+                "Bash",
+                "See 2 endorsements for Bash",
+                "2",
+                "Bash",
+                "Endorse"
+            ],
+            [
+                "Bash",
+                "See 2 endorsements for Bash",
+                "2"
+            ],
+            [
+                "Team Management",
+                "See 1 endorsement for Team Management",
+                "1",
+                "Team Management",
+                "Endorse"
+            ],
+            [
+                "Team Management",
+                "See 1 endorsement for Team Management",
+                "1"
+            ],
+            [
+                "Project Planning",
+                "See 1 endorsement for Project Planning",
+                "1",
+                "Project Planning",
+                "Endorse"
+            ],
+            [
+                "Project Planning",
+                "See 1 endorsement for Project Planning",
+                "1"
+            ],
+            [
+                "Hiring Personnel",
+                "See 1 endorsement for Hiring Personnel",
+                "1",
+                "Hiring Personnel",
+                "Endorse"
+            ],
+            [
+                "Hiring Personnel",
+                "See 1 endorsement for Hiring Personnel",
+                "1"
+            ],
+            [
+                "OSX",
+                "See 1 endorsement for OSX",
+                "1",
+                "OSX",
+                "Endorse"
+            ],
+            [
+                "OSX",
+                "See 1 endorsement for OSX",
+                "1"
+            ],
+            [
+                "MySQL",
+                "See 1 endorsement for MySQL",
+                "1",
+                "MySQL",
+                "Endorse"
+            ],
+            [
+                "MySQL",
+                "See 1 endorsement for MySQL",
+                "1"
+            ],
+            [
+                "HTML",
+                "See 1 endorsement for HTML",
+                "1",
+                "HTML",
+                "Endorse"
+            ],
+            [
+                "HTML",
+                "See 1 endorsement for HTML",
+                "1"
+            ],
+            [
+                "Scripting",
+                "See 1 endorsement for Scripting",
+                "1",
+                "Scripting",
+                "Endorse"
+            ],
+            [
+                "Scripting",
+                "See 1 endorsement for Scripting",
+                "1"
+            ],
+            [
+                "DNS",
+                "DNS",
+                "Endorse"
+            ],
+            [
+                "DNS"
+            ],
+            [
+                "WLAN",
+                "WLAN",
+                "Endorse"
+            ],
+            [
+                "WLAN"
+            ],
+            [
+                "VMware",
+                "VMware",
+                "Endorse"
+            ],
+            [
+                "VMware"
+            ]
+        ],
+        "summary": "",
+        "name": "John Meyer",
+        "title": "Senior Systems Administrator at Northern Arizona University",
+        "url": "linkedin.com/in/meyerjohnr",
+        "phone": null,
+        "email": "jrmeyer@gmail.com"
+    }
+]

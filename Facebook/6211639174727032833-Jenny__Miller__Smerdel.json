@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6211639174727032833/",
+    "participants": [
+        {
+            "name": "Jenny (Miller) Smerdel",
+            "title": "Talent Acquisition Manager at Kinney Group, Inc.",
+            "url": "linkedin.com/in/jennyannemiller",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Do you ever get the feeling that there is too much software?\n",
+            "time": "2017-12-05T20:36:00.000Z"
+        },
+        {
+            "from": "Jenny (Miller) Smerdel",
+            "message": "I get the feeling you think there is too much software, haha.\n",
+            "time": "2017-12-05T21:45:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Just curious\n",
+            "time": "2017-12-05T21:53:00.000Z"
+        }
+    ]
+}

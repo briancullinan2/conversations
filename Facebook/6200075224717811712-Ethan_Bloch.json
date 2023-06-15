@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6200075224717811712/",
+    "participants": [
+        {
+            "name": "Ethan Bloch",
+            "title": "CEO, Digit",
+            "url": "linkedin.com/in/ebloch",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Just interviewed with your company\nSpending a week training me to use coffee could save you a year of development.",
+            "time": "2016-11-03T12:00:00.000Z"
+        }
+    ]
+}

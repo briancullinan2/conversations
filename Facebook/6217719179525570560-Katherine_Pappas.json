@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6217719179525570560/",
+    "participants": [
+        {
+            "name": "Katherine Pappas",
+            "title": "Chief Wellness Officer at Blissential",
+            "url": "linkedin.com/in/pappaskatherine",
+            "phone": "480 371 8889 (Home)",
+            "email": "katherine.pappas@blissential.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-12-22T15:16:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-05T22:54:00.000Z",
+            "message": "Congrats on the new job!\n"
+        }
+    ]
+}

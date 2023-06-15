@@ -1,0 +1,29 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "22Nov17",
+    "participants": "Brian Cullinan | wizard > Steffen Olson | Web Developer at Northern Arizona University",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Steffen Olson",
+        "url": "linkedin.com/in/steffen-olson-0b681272",
+        "email": "so72@nau.edu",
+        "title": "Web Developer at Northern Arizona University"
+      }
+    ],
+    "message": "You must be a genius. Do you want more work?",
+    "time": "2017-11-22T21:18:00.000Z",
+    "title": "wizard"
+  }
+]

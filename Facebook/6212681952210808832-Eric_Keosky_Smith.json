@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6212681952210808832/",
+    "participants": [
+        {
+            "name": "Eric Keosky-Smith",
+            "title": "Entrepreneurial Executive w/ extensive Sales, Marketing, Management, Business Development, ECommerce, Product expertise.",
+            "url": "linkedin.com/in/erickeoskysmith",
+            "phone": "480-221-1698 (Mobile)",
+            "email": "eric@bizdevguy.co"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Eric Keosky-Smith",
+            "message": "https://www.thesosmethod.com/product/take5/",
+            "time": "2017-12-08T17:40:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-12-08T17:40:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Hmm maybe a mobile bug. I am actually rewriting the whole site. You are fast!",
+            "time": "2017-12-08T17:40:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Will be more like \ncalm.com\n when I am done.",
+            "time": "2017-10-22T17:42:00.000Z"
+        },
+        {
+            "from": "Eric Keosky-Smith",
+            "message": "",
+            "time": "2017-10-22T17:56:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Oh wow. Thanks for the feedback. The new site will be vastly different and much easier to use.",
+            "time": "2017-10-22T18:23:00.000Z"
+        }
+    ]
+}

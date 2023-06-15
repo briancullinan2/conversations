@@ -1,0 +1,1242 @@
+﻿Session Start (bjcullinan@gmail.com:Clint Baker): Fri Sep 14 12:56:44 2007
+[09/14/2007 12:56:49 PM] bjcullinan: Hi Clint
+[09/14/2007 12:57:11 PM] bjcullinan: did you send someone up to add the power strips to peterson 315?
+Session Close (Clint Baker): Fri Sep 14 12:59:24 2007
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Sep 14 13:02:29 2007
+[09/14/2007 01:02:29 PM] Clint Baker: Not yet.  I'm still waiting on some info from the person who is running it.  I've got to go up later, so I'll probably just set that stuff up then.
+[09/14/2007 01:05:29 PM] bjcullinan: ok great, i probably won't see you again until thursday, that's the next time i am scheduled in engineering, but i'll check this weekend in-case that changes
+Session Close (Clint Baker): Fri Sep 14 13:05:35 2007
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Sep 19 15:20:58 2007
+[09/19/2007 03:21:18 PM] bjcullinan: how do i log someone off a locked computer?
+[09/19/2007 03:22:20 PM] Clint Baker: Windows?  I don't think we've set up your admin account yet.  Either send me the hostname of the computer or just reboot it.
+[09/19/2007 03:22:49 PM] bjcullinan: so i need an admin account and a key to the locker up here in ps 232
+[09/19/2007 03:23:45 PM] Clint Baker: Right.  You and Akira need accounts.  We just need to go over some stuff before you guys start using them.
+[09/19/2007 03:24:53 PM] bjcullinan: Ok, great i will be in the CENS building all day tomorrow
+[09/19/2007 03:26:00 PM] Clint Baker: Ok.  I have cabinet keys for you now, so stop by whenever.
+[09/19/2007 03:26:34 PM] *** Disconnected from server.
+[09/19/2007 03:26:57 PM] bjcullinan: its awefully slow up here in ps232
+[09/19/2007 03:27:54 PM] Clint Baker: It usually is.  it is a good time to do homework.  :)
+[09/19/2007 03:28:19 PM] bjcullinan: i don't do homework on wednesdays
+[09/19/2007 03:28:44 PM] bjcullinan: i need my laptop, to play team fortress 2 pre-release
+[09/19/2007 03:30:26 PM] Clint Baker: Actually, if you are bored, you could go help out Ben and Kaj in the Dean's office.  Then one of them can come down here to man the helpdesk
+[09/19/2007 03:30:56 PM] Clint Baker: I think they are in room 140, Bonnie ODonnell's office just north of the Dean's office.
+[09/19/2007 03:31:18 PM] bjcullinan: in the biology building right?
+[09/19/2007 03:31:23 PM] Clint Baker: Correct
+[09/19/2007 03:31:29 PM] bjcullinan: k ttyl
+[09/19/2007 03:31:39 PM] Clint Baker: thanks
+[09/19/2007 03:36:56 PM] bjcullinan: all done
+[09/19/2007 03:37:46 PM] Clint Baker: Ah, ok.
+[09/19/2007 03:38:19 PM] bjcullinan: We should have shirts. So people don't look at me strange when i tell them i am here to help.
+[09/19/2007 03:39:46 PM] Clint Baker: Don't worry.  Eventually random people you've never met will be stopping you in the halls to fix stuff.
+[09/19/2007 03:40:58 PM] bjcullinan: I used to get that when i worked at resnet.  Very annoying, that job made me hate computers and the terrible things people do to them.
+Session Close (Clint Baker): Wed Sep 19 15:41:25 2007
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Sep 19 15:42:06 2007
+[09/19/2007 03:42:07 PM] Clint Baker: Here, you'll mostly hate the fact that we have no money, so a lot of the faculty use ancient hardware.
+[09/19/2007 03:44:08 PM] bjcullinan: old hardware never bothers me, i got a box of it in my garage at home
+[09/19/2007 03:45:26 PM] bjcullinan: i was impressed by how beautiful the servers are, i was expecting a bunch of random old, ugly raid and scsi setups
+Session Close (Clint Baker): Wed Sep 19 15:49:33 2007
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Sep 19 16:06:53 2007
+[09/19/2007 04:06:53 PM] Clint Baker: Sun has always made nice stuff.  Do you have a terminal open on one of the following servers?  hoth, kamino, kessel, ilum
+[09/19/2007 04:07:03 PM] bjcullinan: hoth
+[09/19/2007 04:07:34 PM] Clint Baker: Run this in a terminal and let me know what happens, please:
+ sudo /opt/SUNWut/sbin/utsession -p
+[09/19/2007 04:07:47 PM] Clint Baker: It will ask for your password after you run that command.
+[09/19/2007 04:08:02 PM] bjcullinan: yeah
+[09/19/2007 04:08:07 PM] bjcullinan: enter mine?
+[09/19/2007 04:08:21 PM] Clint Baker: yes.  It should give you some output on token ID's and stuff.
+[09/19/2007 04:09:15 PM] bjcullinan: i don't have a sudo password
+[09/19/2007 04:09:18 PM] bjcullinan: and i got reported
+[09/19/2007 04:09:37 PM] Clint Baker: No, you aren't in the group.  I missed that part.  Hold on a sec.
+Session Close (Clint Baker): Wed Sep 19 16:53:57 2007
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Sep 26 15:22:36 2007
+[09/26/2007 03:22:47 PM] bjcullinan: does anything ever happen in this ps232 room?
+[09/26/2007 03:23:02 PM] bjcullinan: kind of boring checking printer paper status
+[09/26/2007 03:23:38 PM] bjcullinan: isn't there a way to spy on sessions? view open applications? that sort of thing?
+Session Close (Clint Baker): Wed Sep 26 15:23:42 2007
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Sep 26 15:24:32 2007
+[09/26/2007 03:24:32 PM] Clint Baker: Heh.  That isn't really the kind of thing we do.  Remind me to get you a copy of the Sys Admin Code of Ethics.  :)
+[09/26/2007 03:26:10 PM] bjcullinan: Yeah i wasn't really going to spy, i was just interested if it was possible any further then the ps -A command
+[09/26/2007 03:26:50 PM] bjcullinan: I know computer labs in highschool always had someone spying, but i guess under the age of 18 no one has any rights especially the right to privacy
+[09/26/2007 03:29:11 PM] Clint Baker: That's actually kind of a touchy subject - the whole privacy thing.  It is one of the major reasons that the student workers don't get root access to anything but the local windows desktops.   We don't spy on anyone.  The only time it will ever come up is if someone complains, but it very rarely happens.
+[09/26/2007 03:31:49 PM] bjcullinan: Ok.  Also i have to add my hours from last week to the hours to this week, since the system was just unlocked for me yesterday.
+[09/26/2007 03:32:49 PM] bjcullinan: So if my hours appear to be more then usual, its because it is 3 weeks worth, instead of only 2.
+[09/26/2007 03:32:55 PM] Clint Baker: Ok.  Generally if it is only a few hours, you can pad your current timesheet with those times.  Since you have been here a while, I believe there is a backpay link or form to fill out.
+[09/26/2007 03:33:17 PM] Clint Baker: if you can come in under 30 hours on this timesheet, go ahead and do that.
+[09/26/2007 03:33:28 PM] Clint Baker: 30/week
+[09/26/2007 03:33:42 PM] bjcullinan: I am not a full time student anymore, does that affect the ability to make 30/week?
+[09/26/2007 03:34:06 PM] Clint Baker: i don't believe so.  Student workers are capped at 30/wk
+[09/26/2007 03:34:34 PM] bjcullinan: ok then i will have to extend this padding, or fill out that form
+[09/26/2007 03:34:58 PM] bjcullinan: i have about 6 hours too many
+Session Close (Clint Baker): Wed Sep 26 15:35:13 2007
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Sep 26 15:38:24 2007
+[09/26/2007 03:38:24 PM] Clint Baker: Ok.  Just talked to Juana.  you can pad your timesheet up to 60 hours total for the two weeks.  Any more than that and you'll have to pick up a timesheet from her here in engineering.
+[09/26/2007 03:39:15 PM] bjcullinan: oh 30/week, my mistake i was thinking total but that would be 2 weeks, i should have plenty of room
+[09/26/2007 03:39:48 PM] Clint Baker: ok, good
+[09/26/2007 03:39:49 PM] bjcullinan: How do you think thunderbird compares to microsoft outlook?
+[09/26/2007 03:40:44 PM] Clint Baker: like all things.  one has features/convenience that the other doesn't.
+[09/26/2007 03:42:37 PM] Clint Baker: i don't run windows.  outlook is far too big and clumsy for what I want to do, which is check email.  I only recently, reluctantly, switched to a gui-based email client only because we have to support thunderbird.
+[09/26/2007 03:42:55 PM] Clint Baker: if I could run pine, which is text-based, i'd be a happy guy.
+[09/26/2007 03:44:53 PM] bjcullinan: Good to know.  I think i'll stick with outlook because i rather enjoy the integration between contacts and calendar and notes, and although there are some valiant attempts, i think outlook is more feature rich then the alternatives.
+[09/26/2007 03:45:37 PM] Clint Baker: it is completely up to you.   you can be the outlook help guy since no one else here uses it.  However, you will need to be able to support tbird, as well.
+[09/26/2007 03:46:01 PM] Clint Baker: what is ABE club?
+[09/26/2007 03:46:24 PM] bjcullinan: Abe Pralle's game programming club
+[09/26/2007 03:47:31 PM] bjcullinan: I can adapt to many systems fairly quickly, i think i'll install tbird and browse around just to get familiar with it.  I am very familiar with outlook, i've even attempted to write extensions for office.
+[09/26/2007 03:50:22 PM] bjcullinan: and actually i am available until 6:30 not 5:30, i just changed it
+Session Close (Clint Baker): Wed Sep 26 15:52:03 2007
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Sep 26 15:54:02 2007
+[09/26/2007 03:54:02 PM] Clint Baker: ok.  i was just looking for a time to have a cens-it meeting.  i was hoping it wouldn't start at 6 or 7pm, but we may have no choice.
+[09/26/2007 03:54:41 PM] bjcullinan: if that's the case, i can go to abe's club on tuesday later
+[09/26/2007 03:55:16 PM] Clint Baker: ok.  i'll send some mail out once I talk to pete and christian.  it may be wednesday night at 5:30
+Session Close (Clint Baker): Wed Sep 26 16:07:54 2007
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Oct 10 12:48:50 2007
+[10/10/2007 12:48:56 PM] bjcullinan: when do the paychecks go through?
+Session Close (Clint Baker): Wed Oct 10 12:55:35 2007
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Oct 10 14:18:43 2007
+[10/10/2007 02:18:43 PM] Clint Baker: Not sure.  If you have direct deposit, I think it happens Friday morning at midnight.  Louie should tell you for sure.
+[10/10/2007 03:06:44 PM] bjcullinan: last friday or the week after?
+[10/10/2007 03:10:05 PM] Clint Baker: I really don't know.  Check Louie - it will say there somewhere
+[10/10/2007 03:10:51 PM] bjcullinan: ok
+Session Close (Clint Baker): Wed Oct 10 15:20:16 2007
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Tue Oct 16 19:47:49 2007
+[10/16/2007 07:48:12 PM] bjcullinan: i could fix the errors on the scheduler scripts
+Session Close (Clint Baker): Tue Oct 16 19:48:14 2007
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Oct 25 09:11:53 2007
+Session Close (Clint Baker): Thu Oct 25 09:12:00 2007
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Nov 08 10:50:51 2007
+[11/08/2007 10:50:52 AM] Clint Baker: You there?
+[11/08/2007 10:52:29 AM] bjcullinan: yes
+[11/08/2007 10:53:12 AM] Clint Baker: need you to stop by the bio main office - 2nd floor of the bio building and help them connect to the shared drive real quick
+[11/08/2007 10:53:51 AM] Clint Baker: room 227
+[11/08/2007 10:53:55 AM] bjcullinan: i would, but my father is in town, i told pete i needed work off
+[11/08/2007 10:54:08 AM] Clint Baker: oh, ok
+[11/08/2007 10:54:13 AM] Clint Baker: nevermind
+[11/08/2007 10:55:57 AM] bjcullinan: is there a better place to put an "unavailable shift" then just e-mail someone in charge?
+[11/08/2007 10:56:38 AM] Clint Baker: Yeah, mark off time you'll be out in ocal.
+[11/08/2007 10:59:32 AM] bjcullinan: ok
+Session Close (Clint Baker): Thu Nov 08 11:29:34 2007
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Tue Nov 20 10:45:27 2007
+[11/20/2007 10:45:36 AM] bjcullinan: did dell come and repair stuff?
+[11/20/2007 10:55:13 AM] Clint Baker: Yes.  It is all taken care of.  meant to mail you back, actually
+[11/20/2007 11:12:57 AM] bjcullinan: thats ok, just wanted to make sure, glad it all worked out
+[11/20/2007 11:14:57 AM] Clint Baker: Yeah, the guy showed up Friday night.  Thanks for taking care of that.
+[11/20/2007 11:15:29 AM] bjcullinan: np
+Session Close (Clint Baker): Tue Nov 20 11:23:23 2007
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Tue Nov 20 15:20:00 2007
+[11/20/2007 03:20:14 PM] bjcullinan: do you know how to make file streams seekable in apache?
+[11/20/2007 03:45:11 PM] Clint Baker: No one down here knows how.
+Session Close (Clint Baker): Tue Nov 20 16:22:29 2007
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Tue Dec 04 15:27:35 2007
+[12/04/2007 03:27:56 PM] bjcullinan: i need to leave work a little early today for a team project due this week
+[12/04/2007 03:28:26 PM] bjcullinan: only a half hour early, sorry for the late notify, but it just came up yesterday
+[12/04/2007 03:28:36 PM] Clint Baker: that's fine
+[12/04/2007 03:29:12 PM] Clint Baker: just leave a note on the whiteboard thing on the door with the 8084 phone number
+[12/04/2007 03:29:58 PM] bjcullinan: ok
+[12/04/2007 03:43:03 PM] Clint Baker: Could you make sure the printer in that office is set up and get me the IP address from a test page or something, please?
+Session Close (Clint Baker): Tue Dec 04 16:36:42 2007
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Jan 18 11:31:27 2008
+[01/18/2008 11:31:27 AM] Clint Baker: hey, are you up north
+[01/18/2008 11:31:45 AM] bjcullinan: yes
+[01/18/2008 11:32:45 AM] bjcullinan: hey if i start a display at location :1 what is the full path for that
+[01/18/2008 11:32:52 AM] bjcullinan: is it localhost:0.1?
+[01/18/2008 11:33:44 AM] Clint Baker: yes.  Or you can abbreviate it :0.1
+[01/18/2008 11:34:20 AM] Clint Baker: Could you go up to room 153 really quick?  Marissa there says her computer is "sparking."  Could you carefully take a look and try to figure out what is wrong?
+[01/18/2008 11:34:36 AM] bjcullinan: yeah sure
+[01/18/2008 11:34:42 AM] bjcullinan: in bio building?
+[01/18/2008 11:35:16 AM] Clint Baker: yes.  Graylyn's office.  Just up the hall from you.
+[01/18/2008 11:35:20 AM] bjcullinan: ok
+[01/18/2008 11:37:24 AM] bjcullinan: so i think the power strip is shorting out, where might i find a better one?
+[01/18/2008 11:38:14 AM] Clint Baker: If there isn't one in your office there, then we'll have to bring one up from down here.
+[01/18/2008 11:40:02 AM] bjcullinan: couldn't find one, we will have to put it on the todo list
+[01/18/2008 11:41:36 AM] bjcullinan: so another display question, i am trying to get firefox to launch on a specific display, and DISPLAY=:1 works, but firefox --display=localhost:0.1 does not, and the problem is i can't use DISPLAY running from a PHP script, is there some other command that has the power of DISPLAY?
+[01/18/2008 11:43:04 AM] Clint Baker: I thought you could set environment variables in PHP
+[01/18/2008 11:44:16 AM] bjcullinan: so display is an environment variable?
+[01/18/2008 11:44:52 AM] Clint Baker: Yes, you set an environment variable DISPLAY to the display you want to use, then all X stuff will show up on that display for that session.
+[01/18/2008 11:45:17 AM] bjcullinan: that makes a lot more sense now
+[01/18/2008 11:45:17 AM] Clint Baker: That is generally how one does X forwarding
+[01/18/2008 11:45:50 AM] Clint Baker: I've never used the --display option in firefox and I can't find examples of other people using it.  
+[01/18/2008 11:46:45 AM] bjcullinan: probably because it doesn't work the way you'd expect
+[01/18/2008 11:46:58 AM] bjcullinan: i can't get it to work either
+[01/18/2008 11:46:59 AM] Clint Baker: right.  I don't know what the argument should look like
+[01/18/2008 11:47:46 AM] bjcullinan: well it seems to except localhost:0.1 and gives me an error on some other variations, but it always fails at logging on to the display
+[01/18/2008 11:48:00 AM] bjcullinan: i even tried running it under the same user as the display
+[01/18/2008 11:49:28 AM] Clint Baker: ah, that is one thing to check.  The host that is display 0:1 needs to allow X forwards.  That can be set with the xhost command like
+ xhost +computername
+[01/18/2008 11:51:14 AM] bjcullinan: yeah this might complicate it a little more, but i am not actually using x, i am using Xvfb
+[01/18/2008 11:54:27 AM] Clint Baker: Hmmm... I'm not familiar with that.
+[01/18/2008 11:55:01 AM] bjcullinan: it's a virtual frame buffer, i guess it is slimmer and used for running stuff that you don't actually need to see, but require a display
+[01/18/2008 11:55:27 AM] bjcullinan: so i am trying to run a firefox command to create a thumbnail of a web page, but i don't want to have to install crappy kde or xorg stuff
+[01/18/2008 11:55:34 AM] bjcullinan: on my webserver
+[01/18/2008 11:56:01 AM] Clint Baker: reading about it now.  seems like it would be an interesting idea.
+[01/18/2008 11:56:47 AM] bjcullinan: what i plan on doing with it is doing like a remote desktop/ google maps type of website rendering for mobile devices
+[01/18/2008 11:57:28 AM] bjcullinan: so you connect to my site and type in an address and it renders the page remotely, and just sends the client a picture, and there will be some fancy javascripts to navigate
+[01/18/2008 11:58:04 AM] Clint Baker: has the phone been ringing up there?
+[01/18/2008 11:58:10 AM] bjcullinan: yes
+[01/18/2008 11:58:26 AM] Clint Baker: Be sure to get that if it rings.  Kathy Clock is stopping by for a USB cable
+[01/18/2008 11:59:00 AM] bjcullinan: i see a usb drive but no single cable
+[01/18/2008 11:59:26 AM] bjcullinan: i think it is a good idea because microsoft will never release a good browser, and the phones don't have enough storage for an entire engine like Webkit anyways
+[01/18/2008 12:07:54 PM] Clint Baker: ok, we'll get one for her down here
+[01/18/2008 12:08:31 PM] bjcullinan: ok
+Session Close (Clint Baker): Fri Jan 18 12:22:33 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Jan 23 11:12:19 2008
+[01/23/2008 11:12:20 AM] Clint Baker: are you in the north campus office?
+[01/23/2008 11:12:23 AM] bjcullinan: yes
+[01/23/2008 11:12:31 AM] Clint Baker: If the phone rings, answer it, please
+[01/23/2008 11:12:39 AM] bjcullinan: ok
+[01/23/2008 11:12:59 AM] bjcullinan: it just rang but someone picked it up just as i was about to
+[01/23/2008 11:13:09 AM] bjcullinan: should i answer the 32088 number also?
+[01/23/2008 11:13:11 AM] Clint Baker: It rang 3 times before I got it
+Session Close (Clint Baker): Wed Jan 23 11:43:18 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Jan 28 10:03:29 2008
+[01/28/2008 10:03:30 AM] Clint Baker: Brian, are you in the office?
+[01/28/2008 10:03:34 AM] bjcullinan: yes
+[01/28/2008 10:03:44 AM] Clint Baker: Please start answering the phone  :)
+[01/28/2008 10:04:00 AM] bjcullinan: i was reaching for it
+[01/28/2008 10:04:04 AM] bjcullinan: is someone on the line now?
+[01/28/2008 10:04:32 AM] Clint Baker: Yes, we got it after it rang a couple of times.  
+[01/28/2008 10:04:56 AM] bjcullinan: maybe it starts ringing down there sooner
+[01/28/2008 10:08:35 AM] Clint Baker: maybe.
+Session Close (Clint Baker): Mon Jan 28 10:15:22 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Jan 28 10:29:44 2008
+[01/28/2008 10:29:52 AM] bjcullinan: is there a server down?
+[01/28/2008 10:30:26 AM] Clint Baker: not that I am aware of.  Which server?
+[01/28/2008 10:30:31 AM] Clint Baker: or what is the problem?
+[01/28/2008 10:30:44 AM] bjcullinan: she is having trouble connecting using a client
+[01/28/2008 10:31:35 AM] bjcullinan: maybe you can help her troubleshoot sounds like the thinstation isn't pointing to the right place
+[01/28/2008 10:34:27 AM] Clint Baker: so a Sun Ray, right?  Do you know who it is or what the problem is?
+[01/28/2008 10:34:52 AM] Clint Baker: Or was this the girl from the BIO office that just called me?
+[01/28/2008 10:40:59 AM] bjcullinan: yeah i gave her your number
+[01/28/2008 10:41:06 AM] bjcullinan: what did the problem end up being?
+[01/28/2008 10:42:35 AM] Clint Baker: So she was trying to connect to a share in S:\dept.  Pete sent out mail last week explaining this.  The dept directory in shared was moved over to ITS, so it now maps under R:.
+[01/28/2008 10:42:52 AM] Clint Baker: I just had her open My Computer, go to R: and she found her stuff.
+[01/28/2008 10:49:59 AM] bjcullinan: wow that is not what she explained to me
+[01/28/2008 10:50:16 AM] bjcullinan: i asked her if she was logged on and she said "it isn't found"
+[01/28/2008 10:50:23 AM] bjcullinan: ridiculous
+Session Close (Clint Baker): Mon Jan 28 11:20:25 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Jan 28 11:22:17 2008
+[01/28/2008 11:22:17 AM] Clint Baker: yeah, a lot of people here are not horribly computer saavy.  A lot of how we troubleshoot is learing how to ask questions in such a way that we can determine the problem from their answers.  It's a skill you'll learn the more you do actual computer support.
+[01/28/2008 11:23:35 AM] bjcullinan: a guy is having printer problems in 122 i think
+[01/28/2008 11:23:45 AM] bjcullinan: i told him to call the number back to get someone down there
+[01/28/2008 11:25:33 AM] Clint Baker: Ok, but remember that someone may not always be here.  The better way to handle that is to ask some questions - maybe restarting the printer would have helped.  If that doesn't work and you really can't help them over the phone, have them send email to (Link: mailto:censithelp@nau.edu)censithelp@nau.edu.  
+[01/28/2008 11:26:22 AM] Clint Baker: If the problem is urgent and needs to be looked at immediately, and you can't help them, don't have the person call back or another number.  Get all their info, including name and contact info, and you can get ahold of us - via IM or direct phone and let us know what is going on.
+[01/28/2008 11:34:11 AM] bjcullinan: ok
+[01/28/2008 12:04:37 PM] bjcullinan: mcb4 
+ 5263 
+ 122c 
+ problem accessing information on I:\ and S:\ not trying to get to dept folder, looking for other saved files.
+[01/28/2008 12:04:48 PM] *** Unable to deliver message.  Server reports: (503) (none)
+[01/28/2008 12:04:54 PM] bjcullinan: Mary blackett called
+[01/28/2008 12:04:54 PM] *** Unable to deliver message.  Server reports: (503) (none)
+Session Close (Clint Baker): Mon Jan 28 12:04:57 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Jan 28 12:05:04 2008
+Session Close (Clint Baker): Mon Jan 28 12:28:33 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Feb 01 12:53:23 2008
+[02/01/2008 12:53:39 PM] bjcullinan: print downstairs in internet cafe needs paper
+[02/01/2008 12:55:50 PM] Clint Baker: ok
+Session Close (Clint Baker): Fri Feb 01 13:01:12 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Feb 06 11:12:30 2008
+[02/06/2008 11:12:45 AM] bjcullinan: box from Cannon at front desk
+[02/06/2008 11:12:55 AM] bjcullinan: mary just called to let me know
+[02/06/2008 11:21:58 AM] bjcullinan: stanley left his stick of RAM in the sun box
+Session Close (Clint Baker): Wed Feb 06 11:52:00 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Feb 08 09:31:46 2008
+[02/08/2008 09:31:52 AM] bjcullinan: got a message for you
+[02/08/2008 09:33:11 AM] bjcullinan: Lisa Hardy already talked to you is what said, She needs access to the new shared drive CENE, ABET, Clarical? (All the department folders etc.) her login is ls236, her extension is 31447
+Session Close (Clint Baker): Fri Feb 08 09:54:52 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Feb 08 10:26:43 2008
+[02/08/2008 10:26:54 AM] bjcullinan: hey i was wondering, why is the connection slower at night?
+Session Close (Clint Baker): Fri Feb 08 10:28:06 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Feb 11 10:03:40 2008
+[02/11/2008 10:03:50 AM] bjcullinan: my phone failed on me
+[02/11/2008 10:04:09 AM] bjcullinan: i got the account info, it is BIO4805 and the PI is Gerry Allan
+[02/11/2008 10:04:52 AM] Clint Baker: Ok.  Preferred Image doesn't support Dell's.  I'll give Gerry a call and see what he wants to do.  Thanks  :)
+[02/11/2008 10:05:22 AM] bjcullinan: also they told me the printer repair guy came before and replaced all the rollers, and that seems to be what is wrong now.  Wrong parts maybe?  It seemed like the rollers were too tight and paper couldn't get through.
+[02/11/2008 10:05:50 AM] Clint Baker: Hmm.  maybe.  do they know what guy this was?
+[02/11/2008 10:06:10 AM] bjcullinan: they just told me he was from printer repair.
+[02/11/2008 10:06:20 AM] Clint Baker: ok.  I'll give gerry a call
+Session Close (Clint Baker): Mon Feb 11 10:08:24 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Feb 15 15:46:11 2008
+[02/15/2008 03:46:26 PM] bjcullinan: what is the network address to mat classes shared folder?
+[02/15/2008 03:46:38 PM] bjcullinan: auto-mounted to M: drive?
+[02/15/2008 03:47:24 PM] Clint Baker: Dunno.  Probably on \\naushares\math or something.
+[02/15/2008 03:47:47 PM] Clint Baker: If you are still up north, Pete should be around 165 someplace.  Or give Christian a call - he may know.
+Session Close (Clint Baker): Fri Feb 15 16:18:14 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Feb 27 09:33:38 2008
+[02/27/2008 09:33:39 AM] Clint Baker: Are you in 165?
+Session Close (Clint Baker): Wed Feb 27 09:39:24 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Feb 27 09:41:59 2008
+[02/27/2008 09:42:04 AM] bjcullinan: where is 322j?
+[02/27/2008 09:46:25 AM] Clint Baker: Engineering building.
+Session Close (Clint Baker): Wed Feb 27 09:56:08 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Feb 27 12:54:37 2008
+[02/27/2008 12:54:51 PM] bjcullinan: got a lady that needs arcview i told her to submit a ticket
+Session Close (Clint Baker): Wed Feb 27 13:07:30 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Feb 28 10:14:53 2008
+[02/28/2008 10:15:27 AM] bjcullinan: I am having trouble logging into cens, we use the same passwords as the vpn correct?
+[02/28/2008 10:16:41 AM] Clint Baker: yes, your password is the same.  I don't know what you mean by "cens."  And there is no service that we provide that requires vpn.
+[02/28/2008 10:17:38 AM] bjcullinan: just want to do some shcp off my home directory
+[02/28/2008 10:18:09 AM] Clint Baker: for scp or sftp, use sftp.cens.nau.edu.  no vpn is required.
+[02/28/2008 10:18:28 AM] bjcullinan: i guess i could just use windows explorer to get to the network  but that is boring
+Session Close (Clint Baker): Thu Feb 28 10:51:53 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Feb 29 10:19:50 2008
+[02/29/2008 10:20:15 AM] bjcullinan: ink is out in the lab
+[02/29/2008 10:20:32 AM] Clint Baker: Yes, I know.  I had Headlee call you so you could take care of it.
+[02/29/2008 10:20:47 AM] Clint Baker: The cabinet in PS232 is where the ink will be, if we have any.  I need to know if we do or not.
+[02/29/2008 10:21:00 AM] bjcullinan: i am not sure there is a cartridge for this printer up here
+[02/29/2008 10:21:30 AM] bjcullinan: yes i saw the message on the printer earlier and checked the cabinet
+[02/29/2008 10:21:50 AM] bjcullinan: but i will go check again and get the printer model if there is none
+[02/29/2008 10:22:04 AM] Clint Baker: Right.  If there isn't one, I'll need to know what to order.
+[02/29/2008 10:23:17 AM] bjcullinan: ok brb
+[02/29/2008 10:27:24 AM] bjcullinan: It is a LaserJet 9050dn
+[02/29/2008 10:27:33 AM] bjcullinan: there is no cartrige
+[02/29/2008 10:27:38 AM] Clint Baker: Ok, can you send that to me in mail?  I can't get to it now.
+[02/29/2008 10:28:57 AM] bjcullinan: So i did not realize this until yesterday when I got an e-mail telling me a meeting was added to my agenda, but i have another class during that time today.
+[02/29/2008 10:29:32 AM] Clint Baker: sigh
+[02/29/2008 10:29:37 AM] bjcullinan: I have no problem missing the class for a once in a long while meeting, but it would be helpful if i could leave work a half hour early to tend to the class assignment
+[02/29/2008 10:29:46 AM] Clint Baker: Please update Ocal with your schedule  :)
+[02/29/2008 10:30:25 AM] bjcullinan: yes, i thought i did because i dropped a class to add that one, but it really is no big deal.
+[02/29/2008 10:30:47 AM] Clint Baker: If you need to miss work, email pete, christian and I, and also update Ocal with that information.  If you have any closing shifts that you'll miss, let us know as early as possible so we can get someone else to close.
+[02/29/2008 10:31:34 AM] Clint Baker: No biggie if you can't make the meeting.  We'll just be going over some basic stuff that everyone should be doing.  One of us will just come by and get you that information later.
+[02/29/2008 10:32:22 AM] bjcullinan: It really is no problem, if you don't mind me missing a bit of the end of my shift
+[02/29/2008 10:32:51 AM] Clint Baker: Up to you
+[02/29/2008 10:33:01 AM] bjcullinan: Are you planning on having the meeting here in 165?
+[02/29/2008 10:34:34 AM] Clint Baker: Not in 165 - I don't know where it will actually be.  We'll just gather at 165 and go from there.
+[02/29/2008 10:34:50 AM] Clint Baker: We'll write the final location on the witeboard on the 165 door for stragglers.
+[02/29/2008 10:41:07 AM] Clint Baker: Gotta take off.  don't forget to send me mail on the cartidge type I need to order.
+Session Close (Clint Baker): Fri Feb 29 11:12:53 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Feb 29 11:36:43 2008
+[02/29/2008 11:36:57 AM] bjcullinan: Looks like i will be able to stay here the whole time
+Session Close (Clint Baker): Fri Feb 29 11:37:28 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Mar 05 11:46:10 2008
+[03/05/2008 11:46:10 AM] Clint Baker: Could you run up to the BIO office (227, I think) and check to see if there is still a toner box there for that hp9050?  We need to get it back if it is.
+[03/05/2008 11:46:24 AM] Clint Baker: Talk to Singne if you don't see it
+[03/05/2008 11:48:13 AM] Clint Baker: you there?
+Session Close (Clint Baker): Wed Mar 05 11:49:34 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Mar 05 11:53:10 2008
+[03/05/2008 11:53:34 AM] bjcullinan: didn't see it, I left a note for singne to call me
+[03/05/2008 11:53:52 AM] Clint Baker: ok.  the person at the desk there didn't know about it?
+[03/05/2008 12:19:05 PM] bjcullinan: No they did not, still haven't gotten a call though
+[03/05/2008 12:19:12 PM] Clint Baker: k
+[03/05/2008 12:19:44 PM] bjcullinan: So the reason i use IM in one place is because of the chat logs, but i will have a solution for that by tomorrow.
+[03/05/2008 12:20:04 PM] bjcullinan: i just need to get around to syncing them up again in my SVN
+[03/05/2008 12:20:06 PM] Clint Baker: you could always use the pc or the sun ray  :)
+[03/05/2008 12:20:45 PM] bjcullinan: I like having logs of conversations, the sunray wouldn't really fix that.
+[03/05/2008 12:21:14 PM] Clint Baker: I know you are working on homework projects, which I have no problem with - as long as it doesn't interfere with work.  Mostly you need to be available for work stuff.  If homework has to be done at home, so be it.
+[03/05/2008 12:24:14 PM] bjcullinan: I completely understand and agree, I will sync my logs with my laptop today and launch it locally from now on.  The only reason i usually don't is because the logs will be split up across computers, hence harder to find previously discussed information.
+[03/05/2008 12:25:12 PM] Clint Baker: that's fine.  :)
+[03/05/2008 12:26:23 PM] bjcullinan: do we help people in the communications building?
+[03/05/2008 12:33:35 PM] Clint Baker: Not unless it is someone from CENS using that building for something.  But generally, no.
+[03/05/2008 12:34:11 PM] Clint Baker: CENS is engineering, biology, physics, chemistry, environmental science, geology, math, etc.  basically, all the science disciplines
+[03/05/2008 12:35:36 PM] bjcullinan: oh
+[03/05/2008 12:35:53 PM] bjcullinan: Some girl called, she might be slightly annoyed.
+[03/05/2008 12:36:22 PM] Clint Baker: about what?
+[03/05/2008 12:37:02 PM] bjcullinan: Called from the communications building, i told her to send us an e-mail.  I guess i will have to call her back and give her the ITS phone number.
+[03/05/2008 12:38:05 PM] Clint Baker: The Univeristy at large gets IT help from the Solution Center (for faculty - 3-1511) or the Academic Computing Help Desk (for students 3-9294)
+[03/05/2008 12:38:22 PM] Clint Baker: what was she having problems with?
+[03/05/2008 12:39:02 PM] bjcullinan: Problem with her computer monitor, she probably forgot to push the power button
+[03/05/2008 12:39:13 PM] bjcullinan: I am putting those numbers on this phone number sheet
+[03/05/2008 12:39:55 PM] Clint Baker: Ok.  Do that
+[03/05/2008 12:40:51 PM] Clint Baker: A better way to handle that would have been to go take a look.  For things like that, don't have them send mail it re-describing the problem because I'm just going to assign the ticket back to whomever is closest (in this case, you) and make you go look anyway.
+[03/05/2008 12:41:05 PM] Clint Baker: Don't just respond to each phone call with "send us email"
+[03/05/2008 12:42:40 PM] bjcullinan: Generally i wouldn't, but it is good to know we don't generally support the Com building
+[03/05/2008 12:43:42 PM] bjcullinan: shall i call them back now and let them know?  the ticket showed up.
+[03/05/2008 12:44:20 PM] Clint Baker: Yes, call them back and close the ticket out.
+Session Close (Clint Baker): Wed Mar 05 12:45:47 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Mar 05 16:15:38 2008
+[03/05/2008 04:15:47 PM] bjcullinan: so how do i ship stuff to the engineering building?
+[03/05/2008 04:16:13 PM] Clint Baker: what stuff?
+[03/05/2008 04:16:25 PM] bjcullinan: I order hard drives about every 2 weeks
+[03/05/2008 04:16:41 PM] Clint Baker: like personal stuff?  I'm not sure you can.
+[03/05/2008 04:16:48 PM] bjcullinan: and they never come because i am never at home
+[03/05/2008 04:16:54 PM] bjcullinan: it is "work" stuff
+[03/05/2008 04:18:06 PM] Clint Baker: ok.  the front desk doesn't know who you are.  if that is the case, they refuse delivery.  bldg 69, room 122 86011.
+[03/05/2008 04:18:10 PM] Clint Baker: what does "work" mean?
+[03/05/2008 04:18:24 PM] Clint Baker: Is this for ACM?
+[03/05/2008 04:18:40 PM] bjcullinan: i do work on my computer, and i need hard drives for it to work
+[03/05/2008 04:19:15 PM] Clint Baker: so it is personal.  Then no, I don't believe you can.
+[03/05/2008 04:19:43 PM] bjcullinan: bummer, because i spend more time on campus then i do at home
+[03/05/2008 04:20:40 PM] Clint Baker: yes, but your laptop isn't required for work.  We provide an abundance of computers for that.  They don't want every student shipping stuff there.  Try the bookstore - I know they have a post office of sorts there.
+Session Close (Clint Baker): Wed Mar 05 16:53:03 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Mar 10 10:21:53 2008
+Session Close (Clint Baker): Mon Mar 10 10:22:03 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Mar 10 10:24:36 2008
+Session Close (Clint Baker): Mon Mar 10 10:28:10 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Mar 10 10:29:52 2008
+[03/10/2008 10:30:04 AM] bjcullinan: do the computer in the lecture rooms have DVD drives
+[03/10/2008 10:30:10 AM] bjcullinan: ?
+[03/10/2008 10:31:01 AM] Clint Baker: In engineering, yes.  Other buildings, it depends on how old the lectern machine is.
+[03/10/2008 10:33:13 AM] bjcullinan: Some guy is showing up for a presentation and was wondering
+[03/10/2008 10:36:50 AM] Clint Baker: what guy?
+[03/10/2008 10:37:33 AM] bjcullinan: Danny in room 118
+[03/10/2008 10:39:49 AM] Clint Baker: So did you get him that information?  It would be good to know what Danny's last name is and room 118 in what building if not.
+[03/10/2008 10:41:12 AM] bjcullinan: Yes i let him know, and it is in the engineering building he said
+[03/10/2008 10:41:37 AM] Clint Baker: ok
+[03/10/2008 10:42:14 AM] bjcullinan: He should be fine, will there be someone at the desk at 5?
+[03/10/2008 10:42:47 AM] Clint Baker: (Link: http://www.cens.nau.edu/it/hds.html)http://www.cens.nau.edu/it/hds.html
+ Bookmark that link
+Session Close (Clint Baker): Mon Mar 10 10:45:07 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Mar 10 10:54:36 2008
+[03/10/2008 10:55:08 AM] bjcullinan: The student worker at the biology desk needs access to the bio list server
+[03/10/2008 10:55:21 AM] bjcullinan: we take care of our own lists right?
+Session Close (Clint Baker): Mon Mar 10 10:59:43 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Mar 10 11:00:09 2008
+[03/10/2008 11:00:09 AM] Clint Baker: not sure about that one.  create a ticket for that person and I'll look at it when I get a chance.
+[03/10/2008 11:00:42 AM] bjcullinan: I gave her the number for ITS so she can be added
+Session Close (Clint Baker): Mon Mar 10 11:05:36 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Mar 10 11:30:23 2008
+[03/10/2008 11:30:23 AM] Clint Baker: If you assign a ticket, don't forget to assign it a queue, as well.  Don't leave it in Raw
+Session Close (Clint Baker): Mon Mar 10 11:31:19 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Mar 12 12:00:34 2008
+[03/12/2008 12:00:34 PM] Clint Baker: She just has 3 Dell 755's?
+[03/12/2008 12:12:19 PM] bjcullinan: yes
+[03/12/2008 12:12:22 PM] bjcullinan: and monitors
+[03/12/2008 12:12:33 PM] Clint Baker: k. thanks
+Session Close (Clint Baker): Wed Mar 12 12:12:35 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Mar 14 09:36:22 2008
+[03/14/2008 09:36:31 AM] bjcullinan: When are we imaging computers?
+Session Close (Clint Baker): Fri Mar 14 10:31:06 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Mar 14 10:36:17 2008
+[03/14/2008 10:36:17 AM] Clint Baker: I believe Dixon said she'd be by around 11:15.  Christian will probably stop by to show you how to image them
+[03/14/2008 10:39:51 AM] bjcullinan: ok
+Session Close (Clint Baker): Fri Mar 14 10:42:51 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Mar 14 15:59:53 2008
+[03/14/2008 03:59:53 PM] Clint Baker: You still around?
+[03/14/2008 04:04:24 PM] Clint Baker: nevermind
+Session Close (Clint Baker): Fri Mar 14 18:55:00 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Mar 14 20:46:44 2008
+[03/14/2008 08:47:05 PM] bjcullinan: Does the image server have vista installs?
+Session Close (Clint Baker): Fri Mar 14 21:17:10 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Mar 24 11:07:44 2008
+[03/24/2008 11:07:51 AM] bjcullinan: Does Julie actually do stuff?
+[03/24/2008 11:08:27 AM] bjcullinan: Because there has been stuff in the past that I thought she was perfectly capable of, but she ended up just passing it off the next person.
+[03/24/2008 11:09:00 AM] bjcullinan: And she was the only person that came in after me the day before spring break.
+[03/24/2008 11:18:14 AM] Clint Baker: Yes, Julie actually does do stuff.
+Session Close (Clint Baker): Mon Mar 24 11:27:13 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Mar 31 11:11:30 2008
+[03/31/2008 11:11:30 AM] Clint Baker: Are you there?
+[03/31/2008 11:33:59 AM] bjcullinan: i am now
+[03/31/2008 11:34:15 AM] bjcullinan: i got a call, some computer in the chem building was out of hard drive space
+[03/31/2008 11:38:21 AM] bjcullinan: whats up?
+[03/31/2008 11:42:59 AM] Clint Baker: Nevermind.  Lost calculator - I was going to have you check ps232, but the girl is going to go herself.
+Session Close (Clint Baker): Mon Mar 31 12:17:57 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Mar 31 12:26:37 2008
+[03/31/2008 12:27:18 PM] bjcullinan: why doesn't ctrl-D auto "logout" when using ssh to a campus server?
+Session Close (Clint Baker): Mon Mar 31 12:27:36 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Mar 31 15:15:00 2008
+[03/31/2008 03:15:00 PM] Clint Baker: tcsh comes configured to logout with CTRL-D automatically.  Most bash implimentations these days has it disabled - you have to turn it on if you want that silliness.
+Session Close (Clint Baker): Mon Mar 31 15:42:49 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Apr 02 11:10:25 2008
+[04/02/2008 11:10:57 AM] bjcullinan: Sidney in bio just called she has new computers, should i go ahead an pick them up for imaging right now?
+[04/02/2008 11:11:31 AM] bjcullinan: Christian and i did some imaging but we didn't get to the last part of adding the new computers to the network
+[04/02/2008 11:18:12 AM] Clint Baker: Yes, you can start imaging them.  Do you know how to set up the computer accounts in AD?  That has to be done before joining them to the domain.
+[04/02/2008 11:18:30 AM] Clint Baker: And if you send me MAC addresses, along with what rooms they will be assigned to, I'll add them to DNS/DHCP
+[04/02/2008 11:23:24 AM] bjcullinan: I do not know how to add the accounts
+[04/02/2008 11:23:57 AM] bjcullinan: I have a hard drive here with the images should i just use the latest faculty image?
+[04/02/2008 11:24:08 AM] Clint Baker: Ok.  We'll show you.  For now, if you can just provide me with the MAC's and building/room numbers, I'll set that up.
+[04/02/2008 11:24:20 AM] Clint Baker: Yes, faculty image.
+[04/02/2008 11:25:35 AM] bjcullinan: ok
+[04/02/2008 11:33:44 AM] bjcullinan: Also how do we usually go about copying stuff over to the new computers?  Should i just instruct them to copy stuff from the only one onto the network?
+[04/02/2008 11:34:22 AM] Clint Baker: Yes.  BIO has a share on kashyyyk anyway.  That or their home directories are good places to keep that kind of data.
+[04/02/2008 11:57:54 AM] bjcullinan: So for some reason this USB drive with the images isn't detecting, and Ghost freezes when it tries to open the file browser anyways (under from Image)
+[04/02/2008 11:58:51 AM] bjcullinan: I think the CD may be messed up, could we get a new copy up here or can you tell me how to access the ghostsrv, because my login doesn't work
+[04/02/2008 12:01:48 PM] Clint Baker: I can bring a ghost CD up.  You think that is what is causing the USB failure?
+[04/02/2008 12:02:59 PM] bjcullinan: the A43 browser doesn't show the drive either
+[04/02/2008 12:03:12 PM] bjcullinan: but if you come up you can log onto the ghostsrv
+[04/02/2008 12:04:38 PM] Clint Baker: Was the USB disk attached before the computer was started up?
+[04/02/2008 12:04:50 PM] bjcullinan: yes
+[04/02/2008 12:05:00 PM] Clint Baker: BartPE won't recognize USB devices on the fly - if you plugged it in after booting, it won't work.
+[04/02/2008 12:05:07 PM] bjcullinan: christian and i discovered that last time
+[04/02/2008 12:08:19 PM] Clint Baker: ok.  don't know if I'll make it up there before you leave.  Keep at it.  There is no reason why USB should fail.  Try different USB ports, etc.
+[04/02/2008 12:10:55 PM] bjcullinan: wait i see it in the boot menu this time
+[04/02/2008 12:11:00 PM] Clint Baker: oh good
+[04/02/2008 12:11:05 PM] bjcullinan: must have been the port
+[04/02/2008 12:11:09 PM] bjcullinan: bummer
+[04/02/2008 12:19:44 PM] bjcullinan: Ghost is still freezing up though
+[04/02/2008 12:20:52 PM] Clint Baker: where does it freeze?  sure it isn't just taking a while?
+[04/02/2008 12:23:21 PM] bjcullinan: Never took this long before, It freezes every time i try to open the dialog for selecting an Image in ghost
+[04/02/2008 12:24:39 PM] Clint Baker: disk activity?  not sure what to tell you other than to keep poking at it.
+[04/02/2008 12:25:47 PM] bjcullinan: Yeah it must be the cd, it is acting like a read error
+[04/02/2008 12:25:52 PM] bjcullinan: no disk activity
+[04/02/2008 12:37:08 PM] bjcullinan: Yeah must be the cd, it is pretty scratched up, and even though the USB drive is detected in the bios it still doesn't show up in A43
+[04/02/2008 12:44:38 PM] Clint Baker: does ghost actually launch?
+[04/02/2008 12:45:11 PM] Clint Baker: if ghost32 launches, then it isn't the CD.  The whole thing gets read into memory.
+[04/02/2008 12:49:47 PM] Clint Baker: gotta run.  if you don't get finished, give the ticket on this to whomever comes in after you.  If not ticket exists - create one.
+[04/02/2008 01:04:03 PM] bjcullinan: Well even though the USB drive shows up in the bios now, it isn't being detected in BartPE.
+Session Close (Clint Baker): Wed Apr 02 13:10:37 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Apr 04 10:37:19 2008
+[04/04/2008 10:40:46 AM] bjcullinan: Looks like this one hasn't been imaged, and the external HD with the images is still not loading
+[04/04/2008 10:40:59 AM] Clint Baker: Do you have that 755 CD?
+[04/04/2008 10:42:23 AM] bjcullinan: I booted using a new BartPE CD
+[04/04/2008 10:43:25 AM] Clint Baker: when you say the external HD isn't loading, is it not being recognized, or is the image itself not installing?
+[04/04/2008 10:45:05 AM] bjcullinan: It is not being recognized.  It isn't showing up in the list of drives in my Computer
+[04/04/2008 10:45:48 AM] Clint Baker: Is the CD you are booting from the one that Tim burned yesterday?
+[04/04/2008 10:46:53 AM] bjcullinan: I have to assume so because it looks new and it is now the CD I was trying to use wednesday
+[04/04/2008 10:47:31 AM] Clint Baker: ok
+[04/04/2008 10:47:45 AM] bjcullinan: I need to go home, i am so tired I can't even think straight, and I feel entirely useless today.
+[04/04/2008 10:52:01 AM] bjcullinan: I have no idea where this 755 CD is, looks like a regular BartPE CD to me, there is no other CD that looks useful, just some empty burnable ones and the old scratched up copy.
+[04/04/2008 10:52:57 AM] Clint Baker: ok. did you say one computer was imaged and the other wasn't?
+[04/04/2008 10:56:14 AM] bjcullinan: Nope none of them have been imaged.
+[04/04/2008 10:57:04 AM] Clint Baker: ok. i'll have to take a look or get Tim up there to finish them, then.
+[04/04/2008 10:57:08 AM] Clint Baker: Not sure what is wrong.
+[04/04/2008 12:30:14 PM] bjcullinan: Frac the 1 call i get today and someone else picks it up.
+[04/04/2008 12:42:09 PM] bjcullinan: Is there a spare ink cartridge in the lab?
+[04/04/2008 12:42:16 PM] bjcullinan: Someone claims it is already out again]
+[04/04/2008 12:43:55 PM] Clint Baker: I don't know.  If there is, it is in the cabinet in that room
+[04/04/2008 12:43:59 PM] Clint Baker: in ps232
+[04/04/2008 12:49:52 PM] bjcullinan: Yeah i had just assumed the big printer but she was talking about the little color one
+[04/04/2008 12:50:13 PM] bjcullinan: Should i bring the empty cartridge with me so you guys can order replacements someday?
+[04/04/2008 12:50:15 PM] Clint Baker: oh right.  I read "ink" and assumed you meant ink  :)
+[04/04/2008 12:53:34 PM] Clint Baker: and yes, i'll need to know what to order.  send that info in mail, though
+Session Close (Clint Baker): Fri Apr 04 13:23:53 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Apr 11 09:47:29 2008
+[04/11/2008 09:47:38 AM] bjcullinan: People that don't read error messages are silly.
+Session Close (Clint Baker): Fri Apr 11 09:56:36 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Apr 23 10:48:32 2008
+[04/23/2008 10:48:48 AM] bjcullinan: hey so i have a lady trying to access a scanner on a printer
+[04/23/2008 10:49:02 AM] bjcullinan: but microsoft office isn't detecting that there is a scanner installed
+[04/23/2008 10:49:14 AM] bjcullinan: do we have to install some other drivers to get this to work?
+Session Close (Clint Baker): Wed Apr 23 10:53:54 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Apr 23 11:02:40 2008
+[04/23/2008 11:02:40 AM] Clint Baker: Probably.  The manufacturer's website should have more info.                  
+Session Close (Clint Baker): Wed Apr 23 11:18:12 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Apr 23 11:48:30 2008
+[04/23/2008 11:48:30 AM] Clint Baker: Is the ticket in raw about the scanner the same issue you were asking me about?                  
+[04/23/2008 12:08:58 PM] bjcullinan: So i am still confused about how to get this system to work, a scanner should show up as an image device, not just a printer, all these drivers seem to be printer drivers
+[04/23/2008 12:08:59 PM] bjcullinan: (Link: http://ricoh-usa.com/downloads/downloads.asp?tsn=Ricoh-USA&path=http://support.ricoh.com/bb/html/dr_ut_e/rc2/model/x2035_2045/x2035_2045en.htm)http://ricoh-usa.com/downloads/downloads.asp?tsn=Ricoh-USA&path=http://support.ri(Link: http://ricoh-usa.com/downloads/downloads.asp?tsn=Ricoh-USA&path=http://support.ricoh.com/bb/html/dr_ut_e/rc2/model/x2035_2045/x2035_2045en.htm)coh.com/bb/html/dr_ut_e/rc2/model/x2035_2045/x2035_2045en.htm
+[04/23/2008 12:10:10 PM] bjcullinan: i must be missing something here
+[04/23/2008 12:12:19 PM] Clint Baker: What model printer is that again?
+[04/23/2008 12:12:27 PM] Clint Baker: And what is the name of the windoze pc in that office?
+[04/23/2008 12:14:22 PM] bjcullinan: the printer model is 2035s/p
+[04/23/2008 12:14:30 PM] Clint Baker: ok
+[04/23/2008 12:14:40 PM] bjcullinan: and you mean the secretary's computer name?
+[04/23/2008 12:15:05 PM] Clint Baker: No, the one in room 165.  I'm pretty sure I downloaded the drivers there already - I was going to look.
+[04/23/2008 12:15:34 PM] Clint Baker: But I found the link on the site: (Link: http://support.ricoh.com/bb/html/dr_ut_e/rc2/model/x2035_2045/x2035_2045en.htm)http://support.ricoh.com/bb/html/dr_ut_e/rc2/model/x2035_2045/x2035_2045en.htm
+[04/23/2008 12:15:41 PM] Clint Baker: Don't know if I can direct link to it or not
+[04/23/2008 12:16:01 PM] Clint Baker: Wait - that's release notes.
+[04/23/2008 12:16:03 PM] bjcullinan: yeah that is what i just found too
+[04/23/2008 12:16:08 PM] Clint Baker: (Link: http://www.ricoh-usa.com/downloads/downloads.asp?tsn=Ricoh-USA&path=http://support.ricoh.com/bb/html/dr_ut_e/rc2/model/x2035_2045/x2035_2045en.htm)http://www.ricoh-usa.com/downloads/downloads.asp?tsn=Ricoh-USA&path=http://support.ricoh.com/bb/html/dr_ut_e/rc2/model/x2035_2045/x2035_2045en.htm
+[04/23/2008 12:16:30 PM] Clint Baker: So you want the Network TWAIN driver from there.  Download it and install it.
+[04/23/2008 12:16:31 PM] bjcullinan: my problem is, there is like this extension scanner thing on top of it
+[04/23/2008 12:16:46 PM] bjcullinan: is that really going to handle the scanner as well?
+[04/23/2008 12:19:45 PM] Clint Baker: Yes.  It is just a TWAIN driver.  Hold on - phone
+Session Close (Clint Baker): Wed Apr 23 12:30:50 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Apr 30 12:35:42 2008
+[04/30/2008 12:35:51 PM] bjcullinan: how do i do a lookup based on username?
+[04/30/2008 12:37:46 PM] Clint Baker: lookup -u <username>                  
+[04/30/2008 12:38:07 PM] Clint Baker: or (Link: http://ldap.nau.edu)http://ldap.nau.edu
+[04/30/2008 12:38:33 PM] bjcullinan: hmm not showing up
+[04/30/2008 12:38:37 PM] bjcullinan: very strange
+[04/30/2008 12:38:51 PM] Clint Baker: what username?
+[04/30/2008 12:38:53 PM] bjcullinan: nvm there it is
+[04/30/2008 12:40:19 PM] bjcullinan: is there something i could log into in the future to do lookups, i usually just get kessel from logging into the sftp address, are there other addresses that work?
+[04/30/2008 12:41:18 PM] Clint Baker: you can ssh to unix.cens.nau.edu, which includes kessel.  You can also use the webpage.
+[04/30/2008 12:41:33 PM] bjcullinan: yeah i'll bookmark it
+[04/30/2008 12:41:34 PM] bjcullinan: thanks
+Session Close (Clint Baker): Wed Apr 30 13:34:32 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Apr 30 15:34:24 2008
+[04/30/2008 03:34:41 PM] bjcullinan: So, is there work to do for CENS over the summer?
+[04/30/2008 03:36:14 PM] Clint Baker: There is.  Not sure how much, yet.  If you are interested, I'll let you know when I find out.
+[04/30/2008 03:40:03 PM] bjcullinan: Ok, sounds great!
+Session Close (Clint Baker): Wed Apr 30 15:41:40 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon May 12 21:17:44 2008
+[05/12/2008 09:17:57 PM] bjcullinan: were we supposed to turn in our keys?
+[05/12/2008 09:18:15 PM] bjcullinan: i would assume so, is the building still open for me to do that?
+Session Close (Clint Baker): Mon May 12 21:29:24 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Tue May 13 10:15:36 2008
+[05/13/2008 10:15:36 AM] Clint Baker: Yeah, engineering is open from 7:30am to 4:30pm                  
+Session Close (Clint Baker): Tue May 13 12:31:20 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Tue May 13 12:33:55 2008
+[05/13/2008 12:34:04 PM] bjcullinan: So we do need to return the keys now?
+[05/13/2008 12:42:46 PM] *** Disconnected from server.
+Session Close (Clint Baker): Tue May 13 13:01:55 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Tue May 13 13:06:29 2008
+[05/13/2008 01:06:30 PM] Clint Baker: I really don't know.  If you'll be back next semester, I'd say keep them
+[05/13/2008 01:08:28 PM] bjcullinan: Ok
+Session Close (Clint Baker): Tue May 13 13:17:13 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Tue May 13 18:44:41 2008
+[05/13/2008 06:44:58 PM] bjcullinan: hey, what port should we use to connect to the sftp.cens.nau.edu
+[05/13/2008 06:45:17 PM] bjcullinan: i am trying to use filezilla
+[05/13/2008 06:52:04 PM] *** Disconnected from server.
+[05/13/2008 06:54:42 PM] *** Disconnected from server.
+Session Close (Clint Baker): Tue May 13 18:57:35 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed May 14 09:46:13 2008
+[05/14/2008 09:46:14 AM] Clint Baker: 22
+[05/14/2008 12:11:25 PM] *** Disconnected from server.
+[05/14/2008 12:55:54 PM] *** Disconnected from server.
+Session Close (Clint Baker): Wed May 14 13:50:26 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Jul 23 14:52:51 2008
+Session Close (Clint Baker): Wed Jul 23 14:52:53 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Sep 03 10:58:42 2008
+Session Close (Clint Baker): Wed Sep 03 10:58:47 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Sep 04 10:29:23 2008
+[09/04/2008 10:29:30 AM] bjcullinan: what is the admin password?
+[09/04/2008 10:29:45 AM] bjcullinan: for windows desktops generally
+[09/04/2008 10:29:50 AM] bjcullinan: ewio something
+[09/04/2008 10:29:52 AM] bjcullinan: ?
+[09/04/2008 10:29:59 AM] Clint Baker: call 3-5731
+Session Close (Clint Baker): Thu Sep 04 10:31:05 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Sep 04 10:36:00 2008
+[09/04/2008 10:36:00 AM] Clint Baker: \\malastare
+[09/04/2008 10:37:09 AM] Clint Baker: software/private/general/office/2007/
+[09/04/2008 10:38:09 AM] bjcullinan: had it right, just forgot to vpn in
+[09/04/2008 10:38:29 AM] Clint Baker: shouldn't need vpn if you are on campus...
+[09/04/2008 10:38:42 AM] Clint Baker: though you will have to fully qualify the domain.  malastare.cefns.nau.edu
+[09/04/2008 10:39:36 AM] bjcullinan: ah, right
+[09/04/2008 10:41:00 AM] bjcullinan: Is facebook blocked on the EGR wireless?
+[09/04/2008 10:41:24 AM] Clint Baker: no websites are blocked at NAU
+Session Close (Clint Baker): Thu Sep 04 10:44:26 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Sep 04 12:39:13 2008
+[09/04/2008 12:45:20 PM] bjcullinan: I was going to call you about getting the external hard drive working on the laptop.
+[09/04/2008 12:45:57 PM] bjcullinan: It doesn't desktop with Ultimate Boot but it just worked on the desktop, so maybe i will try i different USB port first.
+[09/04/2008 12:48:36 PM] Clint Baker: You'll need to have the drive attached before powering it on - the windows on CD doesn't support hot-adding drives.  
+[09/04/2008 12:49:44 PM] bjcullinan: yes, i did that
+[09/04/2008 01:02:23 PM] bjcullinan: leah is still having trouble using the acm listsrv, will you check to make sure her username lmd46 is set up for it?
+[09/04/2008 01:05:12 PM] bjcullinan: and just to veryify, what domain do we put on the computers?
+Session Close (Clint Baker): Thu Sep 04 13:35:44 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Sep 05 11:31:27 2008
+[09/05/2008 11:31:43 AM] bjcullinan: i need help in Bio 256 getting the audio to work
+Session Close (Clint Baker): Fri Sep 05 11:56:16 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Sep 05 11:58:05 2008
+[09/05/2008 11:58:05 AM] Clint Baker: what kind of help?
+[09/05/2008 11:58:44 AM] bjcullinan: Well i don't know how to get it to work, partially because i am not sure what equipment controls the audio.
+[09/05/2008 11:58:59 AM] bjcullinan: There is an amp in the cabinate which i would have to assume needs to be working.
+[09/05/2008 11:59:18 AM] bjcullinan: But the amp and vcr and dvd player are all plugged in but no recieiving power.
+[09/05/2008 11:59:30 AM] Clint Baker: ok, is the power outlet even hot?
+[09/05/2008 12:15:11 PM] bjcullinan: Must not be, but i can't figure out how to turn it on/
+[09/05/2008 12:15:36 PM] bjcullinan: Maybe there is a breaker on the outlet?
+[09/05/2008 12:32:55 PM] Clint Baker: maybe.  you've plugged in some known good device to that outlet, right?
+[09/05/2008 12:35:21 PM] Clint Baker: are you checking at the outlet or at a power strip or something down the way?  Grab something you know works and plug it directly into the wall and see what you get.
+[09/05/2008 12:39:22 PM] bjcullinan: figured it out
+[09/05/2008 12:39:29 PM] bjcullinan: there is a switch on the side of the cabinate
+[09/05/2008 12:39:42 PM] bjcullinan: obviously people don't notice it, or don't know about it
+[09/05/2008 12:39:47 PM] bjcullinan: i am printing out a sign
+[09/05/2008 12:40:26 PM] Clint Baker: k
+Session Close (Clint Baker): Fri Sep 05 12:51:06 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Sep 11 12:45:36 2008
+[09/11/2008 12:45:40 PM] bjcullinan: webwork is down?
+[09/11/2008 12:59:42 PM] Clint Baker: are you asking me?
+[09/11/2008 01:14:41 PM] bjcullinan: well there are some e-mails in otrs
+[09/11/2008 01:14:57 PM] bjcullinan: and hagood, one of the guys who sent an e-mail, also called to ask
+[09/11/2008 01:15:04 PM] bjcullinan: are we even in charge of web work?
+[09/11/2008 01:15:08 PM] Clint Baker: looking at it now
+[09/11/2008 01:17:06 PM] bjcullinan: Also a lady asked about using remote software available in the library in the new biology building, she said her department doesn't want to pay for it, but is convinced that students should still be able to use it without going to were it is available.
+[09/11/2008 01:18:29 PM] bjcullinan: I know the business building offers an application server that students can sign in to, do we offer something like that, that would have the biology tools on it?
+Session Close (Clint Baker): Thu Sep 11 14:09:01 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Sep 11 18:31:14 2008
+Session Close (Clint Baker): Thu Sep 11 18:31:17 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Sep 12 12:38:06 2008
+[09/12/2008 12:36:39 PM] Clint Baker: I move around a lot, so IMing me questions like this if you don't know I'm here is pretty iffy.  In the future, for things like this that you don't know the answer to, get the person's name and make a ticket in OTRS for them. [2008/09/12 12:36:39]
+[09/12/2008 12:37:10 PM] Clint Baker: And you never mentioned the application's name.  We use sgd, like business does.  sgd.cefns.nau.edu.  If we haven't installed the particular application, it won't be there.   [2008/09/12 12:37:10]
+[09/12/2008 02:23:31 PM] *** Disconnected from server.
+Session Close (Clint Baker): Fri Sep 12 15:04:45 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Sep 15 10:24:51 2008
+[09/15/2008 10:24:57 AM] bjcullinan: what is the CSTL?
+[09/15/2008 10:47:27 AM] *** Disconnected from server.
+Session Close (Clint Baker): Mon Sep 15 11:17:29 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Sep 15 11:20:11 2008
+[09/15/2008 11:20:11 AM] Clint Baker: Center for Sustainable Teaching and Learning
+[09/15/2008 11:20:27 AM] bjcullinan: and we take care of them too?
+[09/15/2008 11:23:17 AM] Clint Baker: yeah, actually christian gave me the wrong meaning of cstl - Center for Science Teaching and Learning.  We take care of them now.
+[09/15/2008 11:23:37 AM] Clint Baker: for future reference, (Link: http://www.google.com)www.google.com, search for 
+ cstl site:nau.edu
+[09/15/2008 11:23:48 AM] Clint Baker: You can use that syntax to search for anything on a particular domain
+[09/15/2008 11:23:49 AM] bjcullinan: oh good call
+Session Close (Clint Baker): Mon Sep 15 11:31:23 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Tue Sep 16 10:44:33 2008
+[09/16/2008 10:44:33 AM] Clint Baker: You there?
+[09/16/2008 10:48:19 AM] Clint Baker: Wettaw room 130 (big lecture hall) has complaints of a dim projector.  It is available between 10:50 and 11:30.  I need you to go there, bring up all projectors and take a look.  There is a remote for the projectors in that room - if one is dim, take a look at the settings and make sure someone didn't turn it down.  Then let me know what you find.
+[09/16/2008 10:50:59 AM] bjcullinan: ok
+[09/16/2008 11:04:10 AM] bjcullinan: so when i got there the projector on the right didn't have the faintest glow coming from it, so i hit on using the remote and i heard the fans spin up
+[09/16/2008 11:04:34 AM] bjcullinan: a green light is on which i think is power, and another green light was flashing which i think is standby
+[09/16/2008 11:04:51 AM] bjcullinan: i could still hear the fans but nothing came on
+[09/16/2008 11:05:22 AM] bjcullinan: so i hit the standby on the remote, and the on button on the computer control, and it seems to be stuck in this both red lights mode
+[09/16/2008 11:05:32 AM] bjcullinan: maybe a burnt out bulb?
+[09/16/2008 11:05:47 AM] Clint Baker: k
+Session Close (Clint Baker): Tue Sep 16 11:19:17 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Sep 17 21:13:14 2008
+[09/17/2008 09:13:52 PM] bjcullinan: Hey, i am wondering if you might know where i could get a 10inch PCI-E ribbon cable.  Is there a limit on how long pci ribbon cables can be?
+Session Close (Clint Baker): Wed Sep 17 21:43:54 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Sep 18 10:01:45 2008
+[09/18/2008 10:01:45 AM] Clint Baker: Some quick googling shows this is pretty young and not used a whole lot.  I'm not seeing any at newegg.  The specs document at the pci-sig page is password protected, but I've seen articles saying people have used 7m cables and one saying 30m is possible.
+[09/18/2008 10:02:39 AM] Clint Baker: As far as where to buy one, you'll have to do some searching.  standard shops like newegg don't appear to have them.  I've found places that say they do, but they've all been "call to order" kinds of things.
+[09/18/2008 10:10:20 AM] bjcullinan: and that is 7 meters?  so signal loss? i am thinking i might just make one
+[09/18/2008 10:11:20 AM] bjcullinan: i have enough ide cables i could use, just need to order the part for the other end
+Session Close (Clint Baker): Thu Sep 18 10:50:30 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Sep 18 10:56:50 2008
+[09/18/2008 10:56:56 AM] bjcullinan: Do you think that would work?
+[09/18/2008 10:58:05 AM] *** Disconnected from server.
+Session Close (Clint Baker): Thu Sep 18 10:58:54 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Sep 18 11:28:17 2008
+[09/18/2008 11:28:17 AM] Clint Baker: I honestly don't know.  I've never tried to build one.  I've read about a stabilizer or some kind of homoginator that is used to equalize the signal on the cables since they are such high bandwidth.  You may need one, you may not.
+[09/18/2008 11:28:37 AM] Clint Baker: Depends on how much time/money you want to spend making it go  :)
+[09/18/2008 11:43:36 AM] bjcullinan: places are asking $270 for 1 meter, i only need 10 inches!
+Session Close (Clint Baker): Thu Sep 18 12:13:38 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Sep 18 12:15:25 2008
+Session Close (Clint Baker): Thu Sep 18 12:15:32 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Sep 18 12:55:22 2008
+Session Close (Clint Baker): Thu Sep 18 12:56:41 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Sep 18 13:13:08 2008
+Session Close (Clint Baker): Thu Sep 18 13:45:07 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Sep 22 10:07:13 2008
+Session Close (Clint Baker): Mon Sep 22 10:43:15 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Sep 22 10:45:07 2008
+[09/22/2008 10:45:10 AM] bjcullinan: you around?
+[09/22/2008 10:45:38 AM] Clint Baker: what's up?
+[09/22/2008 10:47:33 AM] bjcullinan: got a computer to register
+[09/22/2008 10:48:01 AM] Clint Baker: ok.  I need a hostname and MAC address
+[09/22/2008 10:48:29 AM] bjcullinan: bio144-01, mac address is 00:21:9B:49:0A:B6
+[09/22/2008 10:49:19 AM] bjcullinan: bio144-01, mac address is 00-21-9B-49-0A-B6
+[09/22/2008 10:49:30 AM] bjcullinan: also what do i set the domain to again?
+[09/22/2008 10:49:58 AM] Clint Baker: done.  By domain, do you mean the AD setup?
+[09/22/2008 10:50:50 AM] bjcullinan: when changing the computer name to bio and room number, i have to add it to the domain
+[09/22/2008 10:50:59 AM] bjcullinan: not sure what AD means
+[09/22/2008 10:51:46 AM] bjcullinan: somethings with froot?
+[09/22/2008 10:52:11 AM] Clint Baker: AD stands for Active Directory.  It is microsoft's directory database - it replaces and surpasses NT4 style domains.
+ This computer is for the advisor person?
+[09/22/2008 10:52:28 AM] bjcullinan: yes
+[09/22/2008 10:52:58 AM] Clint Baker: Then it will go into nau.froot.nau.edu.  Have you created the account in AD yet?
+[09/22/2008 10:53:09 AM] Clint Baker: If not, do not add the computer to the domain yet.
+[09/22/2008 10:53:55 AM] bjcullinan: no i have not, i think pete showed me how once, but i forgot
+[09/22/2008 10:54:26 AM] Clint Baker: ok. just be sure to never attempt to add a computer to the domain without first ensuring a computer account exists in that domain.
+[09/22/2008 10:55:08 AM] Clint Baker: the account exists now.  you should be able to join nau.froot.nau.edu with your admin account
+[09/22/2008 10:55:18 AM] bjcullinan: ok
+[09/22/2008 10:55:51 AM] Clint Baker: while that comptuer reboots, there is a printer in there.  Can you send me the MAC address from it, please? 
+[09/22/2008 10:56:06 AM] Clint Baker: There should be a test sheet on top of it. If not, plug it in and print one.
+[09/22/2008 10:58:44 AM] bjcullinan: ok
+[09/22/2008 10:59:18 AM] bjcullinan: so it is prompting for my username and password, but i am getting access denied, using nau-students\bjc76 as my login name
+[09/22/2008 10:59:40 AM] Clint Baker: No, your admin account.  nau-students\bcullinan
+[09/22/2008 11:00:47 AM] bjcullinan: Got it.
+[09/22/2008 11:07:58 AM] bjcullinan: I can't figure out how to print out the MAC, if i hold the print button it prints out a general information page about the series, but no setting information.
+[09/22/2008 11:18:01 AM] Clint Baker: try holding the largest button down for a few seconds.
+[09/22/2008 11:18:43 AM] Clint Baker: or look the model up on the web and get a manual.  Once I get that and you deliver the computer, I'll need you to go install that printer upstairs
+[09/22/2008 11:18:55 AM] bjcullinan: omg, so 2 seconds prints info, 5+ seconds prints config
+[09/22/2008 11:19:01 AM] Clint Baker: cool
+[09/22/2008 11:19:03 AM] bjcullinan: i tried looking it up
+[09/22/2008 11:19:22 AM] bjcullinan: 00-1F-29-28-CD-64
+[09/22/2008 11:19:43 AM] Clint Baker: what model printer is that?
+[09/22/2008 11:19:56 AM] bjcullinan: LaserJet P2015dn
+[09/22/2008 11:29:31 AM] Clint Baker: Ok.  Set the IP manually on that printer to 134.114.144.21, then take it up to room 324 and set it up where the old HP4 is now.  Make sure it is pingable.  If you need a key, you can get one from the BIO office on the second floor.
+[09/22/2008 11:29:50 AM] Clint Baker: and let me know when that is up there and ready to go.
+[09/22/2008 11:45:12 AM] Clint Baker: When you create tickets, please create them from the "customer" - i.e. the person who brought the issue to your attention.  I now have a ticket, that when closed, will notify me.  Doesn't really help anyone else out.
+[09/22/2008 11:45:36 AM] Clint Baker: Also, get in the habit of setting the queue - don't just leave it in raw
+[09/22/2008 11:48:28 AM] Clint Baker: Can you re-create that ticket for the person you talked to, please?
+[09/22/2008 11:52:38 AM] bjcullinan: Recreate it?
+[09/22/2008 11:52:56 AM] bjcullinan: a couple people have reported the problem
+[09/22/2008 11:54:56 AM] Clint Baker: pick one.  :)
+[09/22/2008 11:55:34 AM] Clint Baker: i'm going to delete the password
+[09/22/2008 11:55:44 AM] Clint Baker: sorry, i'm going to delete the ticket you created for/by me
+[09/22/2008 11:56:56 AM] bjcullinan: qait
+[09/22/2008 11:56:57 AM] bjcullinan: wait
+[09/22/2008 11:57:02 AM] bjcullinan: that tool me a while to type
+[09/22/2008 11:57:27 AM] bjcullinan: *took
+[09/22/2008 11:58:17 AM] Clint Baker: it was like 10 lines  :)
+[09/22/2008 11:58:51 AM] bjcullinan: Ok, this is why i didn't create it right the first time.
+[09/22/2008 11:59:03 AM] bjcullinan: Where do i put the person that notified me of the problem?
+[09/22/2008 11:59:22 AM] bjcullinan: So there is a To: <queue name> and a From:
+[09/22/2008 11:59:31 AM] bjcullinan: Sorry, backwards
+[09/22/2008 11:59:47 AM] bjcullinan: there is a from Queue name, now if it is just being created it isn't From anywhere
+[09/22/2008 12:00:32 PM] bjcullinan: Nvm E-mail ticket just doesn't make any sense
+[09/22/2008 12:00:36 PM] bjcullinan: i will make it a phone
+[09/22/2008 12:01:48 PM] Clint Baker: use phone ticket.  Ignore Type, "From" is the customer. "To" is the queue (Audio/Video in this case), Ignore "service" "SLA" and Owner is one of us that will take care of fixing it (me, for now).
+[09/22/2008 12:02:11 PM] Clint Baker: know how this works.  You should be creating tickets far more often.
+[09/22/2008 12:04:32 PM] bjcullinan: Yeah, i just forgot that i generally use the Phone Ticket side
+[09/22/2008 12:04:46 PM] Clint Baker: ah
+[09/22/2008 12:05:01 PM] Clint Baker: Is the advisor's computer set up?
+[09/22/2008 12:05:18 PM] bjcullinan: So the IP cannot be set manually on this printer.  There is some software interface that has to be used to change the settings.
+[09/22/2008 12:05:43 PM] bjcullinan: Yes, her computer is finished
+[09/22/2008 12:08:14 PM] bjcullinan: The forums say the best way is just to assign it the IP in the router
+[09/22/2008 12:08:23 PM] bjcullinan: or on the DHCP server i mean
+[09/22/2008 12:08:35 PM] bjcullinan: So if you set the mac address won't that be done?
+[09/22/2008 12:29:15 PM] Clint Baker: ok, that's fine, then.  The static IP I set for that printer probably won't take effect until the reload at midnight tonight.  Leave that printer there and set it up when you get in tomorrow.
+[09/22/2008 12:29:22 PM] Clint Baker: gotta run
+[09/22/2008 12:50:51 PM] bjcullinan: Ok
+Session Close (Clint Baker): Mon Sep 22 12:50:52 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Sep 24 10:37:22 2008
+[09/24/2008 10:37:29 AM] bjcullinan: We need a plant for the office
+Session Close (Clint Baker): Wed Sep 24 10:38:10 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Sep 25 10:06:25 2008
+[09/25/2008 10:06:56 AM] bjcullinan: I suspect the problem with the projector is the power cord in the back, any way we can get that hardwired?
+Session Close (Clint Baker): Thu Sep 25 10:11:29 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Sep 25 10:41:16 2008
+[09/25/2008 10:41:16 AM] Clint Baker: I don't understand what you are asking.  The power cord plugs into something, and you want to solder it together somehow?
+[09/25/2008 10:41:52 AM] bjcullinan: The power cord for the projector comes out of the wall, and plugs into the socket
+[09/25/2008 10:42:17 AM] Clint Baker: yes  yes it does
+[09/25/2008 10:42:25 AM] bjcullinan: people keep unplugging it, would it be possible to get it to not  come out of the wall?
+[09/25/2008 10:42:42 AM] Clint Baker: No, it will have to be plugged in
+[09/25/2008 10:47:27 AM] bjcullinan: i guess i will go find out if that is the problem
+[09/25/2008 10:51:22 AM] bjcullinan: the door to the lecture hall is locked
+[09/25/2008 10:53:42 AM] Clint Baker: knock on it.  get a key from the bio office.  strange that the door to a lecture hall that is used all day would be locked...
+[09/25/2008 10:53:54 AM] bjcullinan: yeah, that is what i thought
+[09/25/2008 10:55:31 AM] bjcullinan: Some old lady locked it during the class.
+[09/25/2008 10:57:53 AM] Clint Baker: Holloway's class starts are 11:10 or so.  He was going to be in there when the last class got out at 10:50.  Please be there to help him
+[09/25/2008 10:58:24 AM] bjcullinan: Yes, i just called him, i've been running back and forth.
+Session Close (Clint Baker): Thu Sep 25 11:29:20 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Oct 03 10:16:01 2008
+[10/03/2008 10:16:11 AM] bjcullinan: How do we handle the licensing for contribute?
+[10/03/2008 10:16:19 AM] bjcullinan: *Adobe Contribute
+Session Close (Clint Baker): Fri Oct 03 11:30:13 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Oct 13 12:00:41 2008
+[10/13/2008 12:01:22 PM] bjcullinan: what are the devices called that allow selecting of inputs to outputs electronically?
+[10/13/2008 12:01:49 PM] bjcullinan: like in the wettah building, there are 3 or so inputs and you can select where to put them on the monitors or projectors.
+[10/13/2008 12:05:11 PM] bjcullinan: is it called a matrix switch?
+Session Close (Clint Baker): Mon Oct 13 12:45:12 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Oct 13 12:55:47 2008
+[10/13/2008 12:55:47 PM] Clint Baker: I just call it a switch.  I've never heard the term "matrix switch" before.  Why, is something wrong in wettaw?
+[10/13/2008 12:59:37 PM] bjcullinan: no
+[10/13/2008 12:59:43 PM] bjcullinan: just looking into getting one
+[10/13/2008 01:00:00 PM] bjcullinan: matrix switch seemed to bring up the results i want
+[10/13/2008 01:00:08 PM] bjcullinan: but they are expensive
+Session Close (Clint Baker): Mon Oct 13 13:17:08 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Oct 20 11:28:35 2008
+[10/20/2008 11:29:45 AM] bjcullinan: I have a user that has run out of space on their shared drive in geology, could we look into where the space is being used and expand their quota, she says she only has some 500mb quota.
+[10/20/2008 11:29:57 AM] bjcullinan: the username is ac78
+[10/20/2008 11:31:12 AM] Clint Baker: Where is their shared drive?
+[10/20/2008 11:31:37 AM] Clint Baker: which server?
+[10/20/2008 11:34:19 AM] bjcullinan: it is in the geology lab, 105?
+[10/20/2008 11:34:42 AM] Clint Baker: No, the server her shared drive lives on
+[10/20/2008 11:35:00 AM] Clint Baker: Is she having trouble with files that live on kashyyyk, or one of ITS' servers?
+[10/20/2008 11:35:14 AM] bjcullinan: I didn't have her check, so i am not sure.
+[10/20/2008 11:35:27 AM] Clint Baker: ok
+[10/20/2008 11:35:45 AM] bjcullinan: She mentioned using a website directory, but i suppose that doesn't narrow it down.
+[10/20/2008 11:36:11 AM] bjcullinan: is there a callback feature on the phones?
+[10/20/2008 11:36:40 AM] Clint Baker: ac78 has no home directory on our server.  The shared drives on our servers have no quotas set, so my guess is she is using her ITS space. Is she a student or faculty?
+[10/20/2008 11:37:06 AM] bjcullinan: Student
+[10/20/2008 11:37:14 AM] Clint Baker: you don't have contact information for her?
+[10/20/2008 11:38:02 AM] bjcullinan: I can look up that information in ldap, she was in the computer lab.
+[10/20/2008 11:38:33 AM] Clint Baker: ok, sounds like she needs to call the ACHD, in any case.
+[10/20/2008 11:39:03 AM] bjcullinan: Ok
+[10/20/2008 11:46:40 AM] bjcullinan: I have a laptop here from the Chem office that it used occasionally by faculty that i just reimaged, I was thinking we would like to change the computer name and address.
+[10/20/2008 11:47:28 AM] bjcullinan: nvm, i will just send you the ticket
+[10/20/2008 11:51:08 AM] Clint Baker: to rename a computer, I just need the new hostname and MAC address
+Session Close (Clint Baker): Mon Oct 20 11:53:45 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Oct 20 12:20:45 2008
+[10/20/2008 12:20:45 PM] Clint Baker: dns/AD stuff is done for that laptop.  you have the ticket back and probably have time to finish it up.
+[10/20/2008 01:34:56 PM] bjcullinan: Thanks, left for ARD before you messaged me, i'll finish it up tonight.
+Session Close (Clint Baker): Mon Oct 20 14:11:15 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Oct 31 12:00:13 2008
+Session Close (Clint Baker): Fri Oct 31 12:00:20 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Nov 03 12:14:29 2008
+[11/03/2008 12:14:41 PM] Clint Baker: Before you leave today, please fill the printer in PS232 with paper.
+Session Close (Clint Baker): Mon Nov 03 12:51:37 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Tue Nov 04 10:17:36 2008
+[11/04/2008 10:17:36 AM] Clint Baker: Thanks for doing the projector last night.  Reports are that it works great.  One question, though.  Where did the ladder go?
+[11/04/2008 10:17:59 AM] bjcullinan: there was a closet next to the elevator, in wettah right?
+[11/04/2008 10:18:47 AM] Clint Baker: yeah, that sounds like it.  Could you call Bruce Bryant at 3-1319 and help him locate it?
+[11/04/2008 10:18:47 AM] bjcullinan: kind of next to it, there is a short hall to a sign that says authorized personnel only or something to that effect.
+[11/04/2008 10:18:56 AM] bjcullinan: sure thing
+[11/04/2008 10:19:07 AM] Clint Baker: I'm sure it is in the right place.  I think maybe bruce is looking somewhere else, maybe
+[11/04/2008 10:20:51 AM] bjcullinan: done
+[11/04/2008 10:20:59 AM] bjcullinan: i mean i helped him find it
+[11/04/2008 10:20:59 AM] Clint Baker: thanks
+[11/04/2008 10:21:07 AM] bjcullinan: i guess he was expecting it to be in the classroom
+Session Close (Clint Baker): Tue Nov 04 10:24:13 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Nov 07 11:15:03 2008
+[11/07/2008 11:15:03 AM] Clint Baker: Could you stop by room 124a in Wettaw, please?  Either Bruce or Jeff there can take you up to retrieve a computer with a bad power supply.  We'll need to get that running again asap.
+[11/07/2008 11:24:29 AM] Clint Baker: are you there?
+[11/07/2008 11:25:50 AM] Clint Baker: Also, we found a computer downstairs in the internet cafe locked with your bcullinan account.  Please don't lock up lab computers - logout when you are done.  Thanks :)
+Session Close (Clint Baker): Fri Nov 07 13:02:11 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Nov 12 12:38:15 2008
+[11/12/2008 12:38:46 PM] bjcullinan: I need a user added to the biology seniors list serv, tdl43, rfr
+Session Close (Clint Baker): Wed Nov 12 12:38:55 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Nov 12 12:40:12 2008
+[11/12/2008 12:40:12 PM] Clint Baker: we don't run listservs - ITS does.  And most of those are LDAP filters based on group criteria.  If these are students and are classified as seniors, they will be automatically added when their status with administration reflects that.
+[11/12/2008 12:41:10 PM] Clint Baker: If this is a different list (something custom that is maintained by someone else), make a ticket.  Otherwise, if they are currently classified as seniors and aren't on the seniors list, they need to talk to the ACHD
+[11/12/2008 12:41:27 PM] bjcullinan: ok i will call them back
+[11/12/2008 12:43:31 PM] Clint Baker: Please get in the habit of making tickets for things rather than jotting down information and IMing it to someone.  One of the purposes of the ticket tracking system is for time accountability.  Our student worker budget is potentially partially based on how many hours get tracked in that database.
+[11/12/2008 12:50:16 PM] bjcullinan: Sounds good, i just thought this was a more urgent issue, and could be resolved quickly.  Since we don't have certain privileges, like adding computers to the DNS, what kind of time frame can i relay to the person in need?  How long would it take for one of the manager to respond to something like that?  When we use IM the response is usually immediate, luckily most problems aren't very urgent.
+Session Close (Clint Baker): Wed Nov 12 13:20:18 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Nov 12 13:48:40 2008
+[11/12/2008 01:48:40 PM] Clint Baker: things like building PC's for people usually isn't urgent.  And it takes less than a day - we check the ticket system as well.  And usually people don't need their computers build immediately in the middle of the day.  Urgent issues are things that would prevent an instructor from teaching a class, for example.
+[11/12/2008 01:49:04 PM] Clint Baker: and listserv additions aren't urgent  :)
+[11/12/2008 01:50:01 PM] bjcullinan: thanks
+Session Close (Clint Baker): Wed Nov 12 13:50:02 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Nov 12 13:55:22 2008
+[11/12/2008 01:55:22 PM] Clint Baker: That's not to say that you should blow people off if they want something done and it isn't related to teaching a class.  Your job is still simply to help the people who ask for it.  Just as a rule of thumb, if it isn't something you can get up and fix right away, make a ticket.  If it is something simple like answering a question or setting up someone's printer, you don't need to make a ticket.
+Session Close (Clint Baker): Wed Nov 12 13:55:56 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Nov 20 12:42:56 2008
+[11/20/2008 12:42:56 PM] Clint Baker: Hey, just got that ticket you assigned me.  Did this person talk to you about this?
+[11/20/2008 12:43:20 PM] bjcullinan: They called on the phone, i forgot to ask them how they spelled their name.
+[11/20/2008 12:43:31 PM] bjcullinan: They said the SunRay wasn't used for a long time.
+[11/20/2008 12:44:26 PM] Clint Baker: mirriam powell is a department, not really a person.  Whenever you answer the phone, please make sure you get a name and a phone number to call them back on before you hang up.  there's no point in creating a ticket if we can't let the person know it is fixed.
+[11/20/2008 12:45:48 PM] bjcullinan: i didn't realize it was the department.
+[11/20/2008 12:48:10 PM] Clint Baker: I can see that.  Just don't rely on being able to look them up in the directory from a name alone.  Whenever you create a ticket, you should have at least a name and phone number.  if the problem has to do with hardware or something that is location specific, it needs the building name/number and room number as well.
+[11/20/2008 12:48:54 PM] Clint Baker: all tickets should have that information in them.  Just ask yourself if you would have all the info you need to take care of a problem based on the info you provide.
+[11/20/2008 12:48:54 PM] bjcullinan: Ok.  I'll try not to let it happen again.
+[11/20/2008 12:49:17 PM] bjcullinan: Did we find a problem with it?
+[11/20/2008 12:50:45 PM] Clint Baker: when we first started using sun rays, we loaned a bunch out to people but never kept track of who.  they moved them around, dumped them in corners, etc.  So I've disabled connections from all rays I don't know about.  This is apparently one of the 5 or so I'm missing.  I'll call around and find out who has it, then enable access on it.
+[11/20/2008 12:50:50 PM] Clint Baker: gotta run for a bit
+[11/20/2008 12:52:23 PM] bjcullinan: ok ttyl
+Session Close (Clint Baker): Thu Nov 20 12:52:24 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Dec 04 10:15:46 2008
+[12/04/2008 10:16:39 AM] bjcullinan: I noticed Pete re-forwarded that ticket for the Wettah lecture room to you, did you take a look or do i still need to head over there when it is open?
+[12/04/2008 10:21:20 AM] Clint Baker: i'll be going there soon
+[12/04/2008 10:23:05 AM] bjcullinan: ok
+Session Close (Clint Baker): Thu Dec 04 10:53:07 2008
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Jan 12 00:29:57 2009
+[01/12/2009 12:30:17 AM] bjcullinan: Hey, do we have a new schedule for the semester yet?  Should i work whatever old hours i can?
+Session Close (Clint Baker): Mon Jan 12 00:30:30 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Jan 12 09:26:35 2009
+[01/12/2009 09:26:36 AM] Clint Baker: You should talk to Pete about that
+Session Close (Clint Baker): Mon Jan 12 10:30:54 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Jan 22 16:29:58 2009
+[01/22/2009 04:30:02 PM] bjcullinan: mdc86
+ cm333
+Session Close (Clint Baker): Thu Jan 22 17:08:19 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Jan 22 17:42:18 2009
+[01/22/2009 05:42:26 PM] bjcullinan: What is the path for nau-shares?
+Session Close (Clint Baker): Thu Jan 22 18:16:12 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Feb 06 18:55:57 2009
+[02/06/2009 06:56:22 PM] bjcullinan: will you do us a favor and put centrify on our ubuntu box in 105?
+Session Close (Clint Baker): Fri Feb 06 19:17:51 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Feb 09 10:13:29 2009
+[02/09/2009 10:13:29 AM] Clint Baker: there are ubuntu boxes down there?  We need to have the root password on those machines if they are going to be on the network in this building.
+[02/09/2009 10:13:38 AM] Clint Baker: But then yes, I can put centrify on them.
+[02/09/2009 12:41:46 PM] bjcullinan: there is one ubuntu box that we bought through you guy from dell, i think we put ubuntu on it outselves
+Session Close (Clint Baker): Mon Feb 09 12:41:49 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Feb 12 12:18:54 2009
+[02/12/2009 12:19:03 PM] bjcullinan: are you available?
+[02/12/2009 12:46:53 PM] Clint Baker: Sorry, I'll have to leave here in about 15 minutes.  Christian is at lunch and should be back soon.  Talk to him about it when he gets back.
+[02/12/2009 12:47:10 PM] bjcullinan: ok sounds good
+Session Close (Clint Baker): Thu Feb 12 13:06:51 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Feb 12 16:45:52 2009
+[02/12/2009 04:46:01 PM] bjcullinan: apt isn't updating on the acm server
+Session Close (Clint Baker): Thu Feb 12 16:49:10 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Feb 20 11:55:40 2009
+[02/20/2009 11:55:44 AM] bjcullinan: Are you around?
+Session Close (Clint Baker): Fri Feb 20 12:32:43 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Wed Apr 08 17:52:39 2009
+[04/08/2009 05:54:33 PM] bjcullinan: The processor array appears to be in the same mess that it was the other day, the first 8 look fine, the next 8 have an assortment of color codes like when they boot up (meaning they are getting stuck during the upgrade and restarting), and the bottom 8 where all green so potentially ok
+Session Close (Clint Baker): Wed Apr 08 19:00:11 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Jun 04 11:46:00 2009
+[06/04/2009 11:46:19 AM] bjcullinan: Hi Clint, whats the status on the server room?  Can I come in an help?
+[06/04/2009 11:57:18 AM] Clint Baker: server room is still being worked on.  file server died, so i'm working on that.  it is pretty quiet around here so I don't think there is anything for you to do, really.
+[06/04/2009 12:04:51 PM] bjcullinan: oh, get any cabling done?
+[06/04/2009 12:07:31 PM] Clint Baker: not yet.  still have time for that, though.
+[06/04/2009 12:10:56 PM] bjcullinan: yeah sounds good, i was thinking i'd come in monday just to see what the scoop is, sean might have some work for me too
+[06/04/2009 12:11:50 PM] Clint Baker: once i get the rack layout figured out, there will probably be some stuff
+[06/04/2009 12:12:03 PM] bjcullinan: ok, sounds good
+Session Close (Clint Baker): Thu Jun 04 12:42:05 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Jun 15 13:56:09 2009
+[06/15/2009 01:56:09 PM] Clint Baker: Are you around?
+Session Close (Clint Baker): Mon Jun 15 14:43:09 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Tue Jun 23 12:03:42 2009
+[06/23/2009 12:31:36 PM] bjcullinan: I can come in after lunch if you want to work on racks?
+Session Close (Clint Baker): Tue Jun 23 13:05:42 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Tue Jun 23 13:33:25 2009
+Session Close (Clint Baker): Tue Jun 23 13:33:27 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Tue Jun 23 13:57:38 2009
+[06/23/2009 01:57:38 PM] Clint Baker: hey.  I'm probably just going to cable up to the windows rack so Pete can start his stuff.  Unfortunately there isn't enough room back there for two and I'm not sure what I'd have you do.  You are welcome to come in and continue web stuff, however.
+Session Close (Clint Baker): Tue Jun 23 13:59:56 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Tue Jun 23 14:00:05 2009
+[06/23/2009 02:00:34 PM] bjcullinan: I must have been on my way over as you sent that.
+Session Close (Clint Baker): Tue Jun 23 14:00:35 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Thu Jun 25 15:03:57 2009
+[06/25/2009 03:03:57 PM] Clint Baker: Are you there
+[06/25/2009 03:29:30 PM] bjcullinan: Yes
+[06/25/2009 03:29:37 PM] *** Disconnected from server.
+[06/25/2009 03:36:00 PM] bjcullinan: I can come in to lock up and clean up 255A
+[06/25/2009 03:36:02 PM] Clint Baker: Where have you been today?  I thought I saw you earlier...
+[06/25/2009 03:36:12 PM] bjcullinan: i'
+[06/25/2009 03:36:17 PM] bjcullinan: ve been working here
+[06/25/2009 03:36:26 PM] Clint Baker: Ah.  Well, no more of that.  
+[06/25/2009 03:37:08 PM] bjcullinan: Ok, i feel like i can get a lot more done here at my own pace.  I'd be happy to talk with you about the goals Shawn and I have worked out.
+[06/25/2009 03:37:26 PM] Clint Baker: Ben's here to lock up tonight.  Tomorrow, come to work.  You can take care of 225a then.  Your primary job function is to answer the phones, provide tech support, etc.  Special projects can be done while you are doing that.
+[06/25/2009 03:39:15 PM] bjcullinan: Ah, I misunderstood, i didn't think the phone needed attention.
+[06/25/2009 03:41:37 PM] Clint Baker: well, it doesn't unless it rings.
+Session Close (Clint Baker): Thu Jun 25 16:11:53 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Fri Jun 26 00:13:21 2009
+Session Close (Clint Baker): Fri Jun 26 00:13:48 2009
+
+
+Session Start (bjcullinan@gmail.com:Clint Baker): Mon Jul 13 13:44:05 2009
+[07/13/2009 01:44:21 PM] bjcullinan: I have a DNS/iptables question for you
+[07/13/2009 01:45:07 PM] bjcullinan: i have a DNS server set up and i want to be able to access my website with bjcullinan.com (which works fine) but then i want to access my desktop with desktop.bjcullinan.com on the internal network
+[07/13/2009 01:45:56 PM] bjcullinan: would i forward all traffic with iptables?  i don't think using bind forwarding will work because the desktop does not have a publicly accessible ip address, only an internal one
+[07/13/2009 01:47:55 PM] Clint Baker: so you set up just a caching DNS server, then?
+[07/13/2009 01:49:48 PM] bjcullinan: yeah
+[07/13/2009 01:49:53 PM] Clint Baker: i.e. you have some hosting company set up to resolve your domain name to an IP, but you have an internal dns server set up just to get to the machines on your local net, right?
+[07/13/2009 01:50:11 PM] bjcullinan: yes
+[07/13/2009 01:50:38 PM] bjcullinan: i have subdomains that work just fine, it is just a matter of getting it to connect to a different computer internally
+[07/13/2009 01:52:18 PM] Clint Baker: you'll probably want to use something like iptables to do port forwarding, then.  that's the simplest way.  so hitting port 80 will connect to whatever you have running a web server, requests to port whateverwindowsuses will connect to your windows box, etc.
+[07/13/2009 01:53:01 PM] Clint Baker: the downside there is that you'd only be able to route traffic to one machine.  if you had 2 windows machines you wanted to connect to, you'd have to choose one or get the second machine to listen for rdp requests on another port.
+[07/13/2009 01:54:45 PM] bjcullinan: yeah, but i was wondering if using the flag --source in iptables might fix that problem.  so for example i forward the RDP port to one server and depending on the domain iptables can forward to the specific computer
+[07/13/2009 01:58:53 PM] Clint Baker: i think source just specifies the source port the request is coming from.  i don't see how you'd use that to route to a specific computer
+[07/13/2009 02:01:28 PM] Clint Baker: the best option is to get your domain name to point to your own dns server.  then every machine can have it's own entry
+[07/13/2009 02:03:52 PM] bjcullinan: hmmm, yeah the domain works fine i just am not sure how to get ip tables to foward all traffic based on sub domain
+[07/13/2009 02:08:07 PM] Clint Baker: so specifically, what are you trying to do?  be able to type rdesktop machinea.subdomain.domain.tld and get it to connect to the right thing, right?
+[07/13/2009 02:08:17 PM] bjcullinan: yeah
+[07/13/2009 02:08:40 PM] bjcullinan: the -d option accepts a named address
+[07/13/2009 02:08:45 PM] bjcullinan: so maybe that is what i what
+[07/13/2009 02:08:48 PM] bjcullinan: *want
+[07/13/2009 02:09:18 PM] bjcullinan: but i also want rdesktop machineb.bjcullinan.com to go to a different machine
+[07/13/2009 02:14:55 PM] Clint Baker: and you want this to happen from your internal lan or from the outside?
+[07/13/2009 02:18:14 PM] bjcullinan: outside the LAN
+[07/13/2009 02:18:46 PM] Clint Baker: ok.  so if you do an nslookup on machinea.whatever and machineb.whatever, do you get the same or different IP addresses?
+[07/13/2009 02:18:59 PM] Clint Baker: or do you only have whatever.com resolving?
+[07/13/2009 02:22:30 PM] bjcullinan: same external IP address
+[07/13/2009 02:22:44 PM] bjcullinan: the domain stuff it all working, i use other subdomains
+[07/13/2009 02:22:50 PM] Clint Baker: just 209.250.30.30, right?
+[07/13/2009 02:22:53 PM] bjcullinan: yeah
+[07/13/2009 02:23:29 PM] bjcullinan: i just don't know how to get it to work with different computer on the internal network using the same port
+[07/13/2009 02:24:54 PM] Clint Baker: so you have your nameservers set to point to that same external IP, so presumable you are running your dns server on that IP.  The thing is, unless you have public IP's for each machine on your LAN, there is no way to say that bob.bjcullinan.com is going to go someplace different than sue.bjcullinan.com
+[07/13/2009 02:25:16 PM] bjcullinan: yeah
+[07/13/2009 02:25:39 PM] bjcullinan: that's why i need iptables to forward the ports based on the name bob, or sue
+[07/13/2009 02:26:29 PM] Clint Baker: port forwarding is your only option, as far as I know.  the source and destination options in iptables just refer to the source or destination IP addresses, but since the only ip that will hit your stuff is 209.250.30.30, that's the only place they will go.  I don't know of a way to embed a DNS request with something that iptables can read and route from.
+[07/13/2009 02:27:05 PM] Clint Baker: If you could, then no one would pay for class a/b/c ip blocks
+[07/13/2009 02:27:23 PM] Clint Baker: it would also negate the need for ipv6  :)
+[07/13/2009 02:30:08 PM] bjcullinan: yeah i can't get even a single port in iptables to forward properly let alone 2 simultneously
+[07/13/2009 02:30:38 PM] bjcullinan: prerouting should show up under forwards in the iptables --list right?
+[07/13/2009 02:30:38 PM] *** Disconnected from server.
+[07/13/2009 02:45:20 PM] Clint Baker: don't know.  i don't have anything set up that way.  trying to find you an example
+[07/13/2009 02:48:21 PM] Clint Baker: well, it still doesn't matter.  the only thing the forward is going to do is forward based on the port.  The IP is fixed.
+[07/13/2009 02:59:36 PM] *** Clint Baker <wiredclint@gmail.com/WorkB0BAD969> signed off at Mon Jul 13 14:59:36 2009.
+Session Close (Clint Baker): Mon Jul 13 15:36:53 2009
+
+

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6235847924044091392/",
+    "participants": [
+        {
+            "name": "Randall Layman",
+            "title": "Senior Talent Acquisition Consultant at Worldpay",
+            "url": "linkedin.com/in/randalllayman",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Randall Layman",
+            "time": "2018-02-10T12:00:00.000Z",
+            "message": "Interested in a Software Developer Opportunity (Tempe,AZ) - FullTime\n\nHi Brian, \n\nJust wanted to send you a quick note. Your background really stood out to me as someone they would like to speak with. It's a full-time software development position located in Tempe.\n\nOur client is in the payments industry that has a great working environment, brand-new offices, flexible hours, 401k, full benefits paid, and more. I'd like to learn more about your current role and technologies you have experience with. \n\nDo you have 5-10 minutes this morning/afternoon to discuss in more in-detail?\n\nBest,\n\nRandall Layman\nSr. Recruiter | Fintech Division\n706.877.0402 | randall.layman@tekstream.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-10T15:59:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

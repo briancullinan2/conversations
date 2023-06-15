@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6222143026475651072/",
+    "participants": [
+        {
+            "name": "Ken Robertson",
+            "title": "EVP of Operations @ Picmonic | Top AZ Startup!",
+            "url": "linkedin.com/in/kjrobertson",
+            "phone": "7146142109 (Mobile)",
+            "email": "ken.robertson@picmonic.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-03T20:14:00.000Z"
+        },
+        {
+            "from": "Ken Robertson",
+            "message": "Hey Brian, glad you reached out. I'd never heard of SOS Method Foundation before, that's an awesome mission man!\n",
+            "time": "2018-01-03T20:18:00.000Z"
+        },
+        {
+            "from": "Ken Robertson",
+            "message": "You searching for anything specific right now or just expanding your network?\n",
+            "time": "2018-01-03T20:18:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Expanding network. We are a sum of our peers. I want to network with people with the CEO mindset.\n",
+            "time": "2018-01-03T20:19:00.000Z"
+        },
+        {
+            "from": "Ken Robertson",
+            "message": "Hey Brian! Always down to expand the network with the like-minded. What are your hobbies? I usually find better ways to connect with people based on hobbies than professions, and we'll always get to the professional stuff.\n",
+            "time": "2018-01-13T07:52:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Hobbies are automation and hiking and reading and movies. I've been working on a meditation website on the side. How about you?\n",
+            "time": "2018-01-13T18:32:00.000Z"
+        }
+    ]
+}

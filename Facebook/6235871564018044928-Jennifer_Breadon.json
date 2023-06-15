@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6235871564018044928/",
+    "participants": [
+        {
+            "name": "Jennifer Breadon",
+            "title": "Senior Technical Recruiter",
+            "url": "linkedin.com/in/jenniferbreadon",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Jennifer Breadon",
+            "time": "2018-02-10T12:00:00.000Z",
+            "message": "Sr. Software Engineer - Intuit\n\nBrian, \n\nWe are currently working on an 18+ month contract position with Intuit in San Diego that I think fits well with your background. Please see the notes below and let me know if you're interested and I will follow right up.\n\nThanks!\n\nResponsibilities: \n\"\tPreference is REST (we don't use SOAP) but a senior candidate that had used SOAP mostly would not be turned away as they should understand both. Minimal exposure to REST is required though. \n\"\tConsumer for other back end services and develop rest services for our clients to consume from us.\n\"\tThis is new development - but with all development there is maintenance involved so it is a part of the day to day.\n\nJennifer Breadon\njbreadon@cydio.com\n619-573-4835\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-10T17:31:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Jennifer Breadon",
+            "time": "2018-02-10T17:39:00.000Z",
+            "message": "Hey Brian, let me know a good time we can connect to discuss. Thanks!\n"
+        }
+    ]
+}

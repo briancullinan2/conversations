@@ -1,0 +1,387 @@
+[
+    {
+        "experience": [
+            "Highlights",
+            [
+                "7 Mutual Connections",
+                "You and Stephen both know Jeff Pulver, . Benny .Czarny, and 5 others"
+            ],
+            [
+                "1 Mutual Group",
+                "You and Stephen are both in the DEF CON group"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "CTO, Chief Scientist, Co-founder",
+                "Company Name",
+                "Change My Path",
+                "Dates Employed",
+                "Oct 2014 – Present",
+                "Employment Duration",
+                "3 yrs 1 mo",
+                "Location",
+                "San Francisco, CA",
+                "http://changemypath.com/Creating a scalable self-reinforcing social education platform that combines entertainment with learning in innovative ways to solve the job skills training gap, meta-learning deficiencies, and later to revolutionize life-long learning in general."
+            ],
+            [
+                "CEO, consultant, inventor",
+                "Company Name",
+                "OptimaLogic",
+                "Dates Employed",
+                "Oct 2011 – Present",
+                "Employment Duration",
+                "6 yrs 1 mo",
+                "Location",
+                "Sunnyvale, CA",
+                "OptimaLogic is my R&D and consulting company.  I'm always learning, investing in new education and research, consulting periodically, and occasionally inventing new solutions."
+            ],
+            [
+                "Director Software Engineering",
+                "Company Name",
+                "Pelican Imaging Corporation",
+                "Dates Employed",
+                "Mar 2012 – Oct 2014",
+                "Employment Duration",
+                "2 yrs 8 mos",
+                "Location",
+                "Santa Clara, CA",
+                "Leading computational camera product and SDK software design, implementation, and optimization for embedded ARM.Developed SPI communication layer for Movidius Myriad 1 with Dragonboard Android.Used JavaGlue Java/C++ binder with Javascript/Groovy in Java to create cross-platform unittest framework.  Resulting use allowed capturing logged trace statements which could then be run as a Javascript sequence.Moved development environment from waterfall to agile Scrum, sparse documentation to a rich wiki with Gliffy & Graphviz diagrams, tasks from a Gantt to Jira Greenhopper tasks, subversion to git, native projects to CMake for Win/Linux/Android/OSX, proprietary integration server to Jenkins.  Screened and interviewed hundreds of candidates, improving process in various key ways.  Developed a particularly revealing Socratic interview problem.Solved numerous management, product, and technical problems while managing and working with technical teams, direct and offshore.  Acted in management, product, team lead, and deep hands-on development roles.  Ported all code to MacOSX.Redesigned auto-exposure architecture to easily support all Android and DSLR-like exposure scene and semi-auto modes.Suggested and drove key product, product marketing, optimization, imaging, computer vision, technology, and methodology ideas, features, and implementation details.Worked with vendors, OEM customers, and partners to complete agreements, remove roadblocks, and build mutually supportive, constructive technical and business relationships to enable team to accomplish highly technical and unprecedented integration and optimization of DSP, GPU, and multithreaded/multicore computational imaging.Directly managed and resolved numerous conflicts while asserting culture, tool, and process improvements.Solved runtime code security requirement using industry-best technology and commissioning open source partial replacement to avoid performance losses."
+            ],
+            [
+                "Principal Android Engineer",
+                "Company Name",
+                "GREE International, Inc.",
+                "Dates Employed",
+                "Oct 2011 – Mar 2012",
+                "Employment Duration",
+                "6 mos",
+                "Location",
+                "Burlingame, California",
+                "Built new generation social gaming and casual gaming platform API for Android.Created InDoc open source internationalized comments documentation tool to manage end-user and internal documentation in multiple languages (English, Japanese, and others).  This allows a developer to quickly remove documentation from source code, inserting the desired language from the documentation files as needed.Building concise API for game developers use of GREE / OpenFeint social and casual game support features.Support Android, mobile (iOS), and scalable server architecture and development environment and process.Implementing OAuth, JSON, image acquisition, and other capabilities on Android."
+            ],
+            [
+                "Senior Consultant",
+                "Company Name",
+                "OptimaLogic through Triple Crown Consulting for Sony Electronics, DRBD",
+                "Dates Employed",
+                "May 2010 – Nov 2011",
+                "Employment Duration",
+                "1 yr 7 mos",
+                "Location",
+                "San Jose, CA",
+                "Wide-ranging design, development, agile/Scrum-based project management, security architecture / evaluation, system integration / administration, and consulting.New Product Development – mobile & desktop eReader - Android, Qt, OAUTH, XML, Adobe RMSDK, DRM, Java, C++, Eclipse, CMakeParticipated in heavy problem solving and development in new eReader development, primarily for Android in Java & C++ and desktop in Qt and C++.Implemented all of OAUTH-like protocol with complex application semantics, multi-threaded applications, security and DRM features, and multi-party communication model.Wrote and rewrote GUI and application logic for Android and desktop Qt applications.  Solved many bugs, multi-threading issues, and rewrites to reduce complexity and improve stability.Created a DOM-like XML parser in Java from scratch with a Java-optimal API.Fixed, extended, integrated, and forked the XBig Java->C++ integration code generator to become the JavaGlue project.  Used this for extensive interfacing between an Android Java application and a large C++ document, communication, and DRM library.Architected a concise solution to highly complex application communication, DRM, user account, and reading feed requirements by using Qt's QStateMachine.  Developed design rules for clean addition of arbitrary state groups, states, and loosely coupled integration with other application objects.Built cross-platform (MacOS X, Linux, Windows, Android), cross-language (C++, Java, Java->C++, C++->Java), multi-project build system using CMake.  Included code generation passes, unit and regression tests (including automated Android emulator testing), subversion integration, and was run in Hudson.Rewrote, virtually from scratch, the Android reading view, implementing many interdependent features like two-page mode, right-to-left, zoom/pan, page-flip animation integration, render ahead, font swap, bookmarks, and highlights."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "American University",
+                "Degree Name",
+                "Masters of Science",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2005 – 2013"
+            ],
+            [
+                "American University",
+                "Degree Name",
+                "Masters of Science",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2005 – 2013"
+            ],
+            [
+                "Stanford University",
+                "Degree Name",
+                "Work toward AI Certificate",
+                "Field Of Study",
+                "Artificial Intelligence",
+                "Dates attended or expected graduation",
+                "2008 – 2008",
+                "Robotics, Probabilistic Reasoning"
+            ],
+            [
+                "Stanford University",
+                "Degree Name",
+                "Work toward AI Certificate",
+                "Field Of Study",
+                "Artificial Intelligence",
+                "Dates attended or expected graduation",
+                "2008 – 2008",
+                "Robotics, Probabilistic Reasoning"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See 36 more skills"
+            ],
+            "Recommendations",
+            [
+                "Sam ShankSam Shank is a LinkedIn Influencer",
+                "CEO and Co-Founder at HotelTonight",
+                "321,223 followers"
+            ],
+            [
+                "RenderScript: parallel computing on Android, the easy way",
+                "235 members"
+            ],
+            [
+                "American University",
+                "114,235 followers"
+            ],
+            [
+                "IETF - The Internet Engineering Task Force",
+                "9,665 members"
+            ],
+            [
+                "Singularity University",
+                "44,020 followers"
+            ],
+            [
+                "International Network of Spiritual Entrepreneurs (INSE)",
+                "16,221 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Sam ShankSam Shank is a LinkedIn Influencer",
+                "CEO and Co-Founder at HotelTonight",
+                "321,223 followers"
+            ],
+            [
+                "Sam ShankSam Shank is a LinkedIn Influencer",
+                "CEO and Co-Founder at HotelTonight",
+                "321,223 followers"
+            ],
+            [
+                "Sam Shank is a LinkedIn Influencer"
+            ],
+            [
+                "RenderScript: parallel computing on Android, the easy way",
+                "235 members"
+            ],
+            [
+                "RenderScript: parallel computing on Android, the easy way",
+                "235 members"
+            ],
+            [
+                "American University",
+                "114,235 followers"
+            ],
+            [
+                "American University",
+                "114,235 followers"
+            ],
+            [
+                "IETF - The Internet Engineering Task Force",
+                "9,665 members"
+            ],
+            [
+                "IETF - The Internet Engineering Task Force",
+                "9,665 members"
+            ],
+            [
+                "Singularity University",
+                "44,020 followers"
+            ],
+            [
+                "Singularity University",
+                "44,020 followers"
+            ],
+            [
+                "International Network of Spiritual Entrepreneurs (INSE)",
+                "16,221 members"
+            ],
+            [
+                "International Network of Spiritual Entrepreneurs (INSE)",
+                "16,221 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Selvan Rajan",
+                "Security, mobile & middle-tier architect/CTO",
+                "August 1, 2011, Stephen worked with Selvan in the same group",
+                "Stephen is one of the few people that I have come across with tons of knowledge combined with exceptional work ethics to complete the job at hand and with a helping hand to others whenever he was approached. Revered by his peers as a subject matter expert in mobile technologies. Would hire him without any hesitation if the right opportunity arises to use his skills."
+            ],
+            [
+                "Selvan Rajan",
+                "Security, mobile & middle-tier architect/CTO",
+                "August 1, 2011, Stephen worked with Selvan in the same group"
+            ],
+            [
+                "Selvan Rajan",
+                "Security, mobile & middle-tier architect/CTO",
+                "August 1, 2011, Stephen worked with Selvan in the same group"
+            ],
+            [
+                "Selvan Rajan",
+                "Security, mobile & middle-tier architect/CTO",
+                "August 1, 2011, Stephen worked with Selvan in the same group"
+            ],
+            "Security, mobile & middle-tier architect/CTO",
+            [
+                "Stephen is one of the few people that I have come across with tons of knowledge combined with exceptional work ethics to complete the job at hand and with a helping hand to others whenever he was approached. Revered by his peers as a subject matter expert in mobile technologies. Would hire him without any hesitation if the right opportunity arises to use his skills."
+            ],
+            [
+                "Stephen is one of the few people that I have come across with tons of knowledge combined with exceptional work ethics to complete the job at hand and with a helping hand to others whenever he was approached. Revered by his peers as a subject matter expert in mobile technologies. Would hire him without any hesitation if the right opportunity arises to use his skills."
+            ],
+            [
+                "Jerry Oh",
+                "Sr. Manager, Partner Programs at Roku Inc.",
+                "August 1, 2011, Jerry was a client of Stephen’s",
+                "Stephen was, and continues to be, a highly valued consultant that we depend on in the team for results. There's no shortage of high pressure, critical areas and projects which involve him, and he has delivered, with professionalism and a dedication which we appreciate as much as his ability to fluidly adapt to our (sometimes) changing requests."
+            ],
+            [
+                "Jerry Oh",
+                "Sr. Manager, Partner Programs at Roku Inc.",
+                "August 1, 2011, Jerry was a client of Stephen’s"
+            ],
+            [
+                "Jerry Oh",
+                "Sr. Manager, Partner Programs at Roku Inc.",
+                "August 1, 2011, Jerry was a client of Stephen’s"
+            ],
+            [
+                "Jerry Oh",
+                "Sr. Manager, Partner Programs at Roku Inc.",
+                "August 1, 2011, Jerry was a client of Stephen’s"
+            ],
+            "Sr. Manager, Partner Programs at Roku Inc.",
+            [
+                "Stephen was, and continues to be, a highly valued consultant that we depend on in the team for results. There's no shortage of high pressure, critical areas and projects which involve him, and he has delivered, with professionalism and a dedication which we appreciate as much as his ability to fluidly adapt to our (sometimes) changing requests."
+            ],
+            [
+                "Stephen was, and continues to be, a highly valued consultant that we depend on in the team for results. There's no shortage of high pressure, critical areas and projects which involve him, and he has delivered, with professionalism and a dedication which we appreciate as much as his ability to fluidly adapt to our (sometimes) changing requests."
+            ],
+            [
+                "Pam Ochs",
+                "System Administrator at Sequoia Holdings, Inc",
+                "January 9, 2014, Stephen was senior to Pam but didn’t manage directly",
+                "Pam was a very hardworking and respected technical and security professional working for key Federal government clients while at High Performance Technologies, Inc.  She is diligent, easy to work with, technical, and multifaceted."
+            ],
+            [
+                "Pam Ochs",
+                "System Administrator at Sequoia Holdings, Inc",
+                "January 9, 2014, Stephen was senior to Pam but didn’t manage directly"
+            ],
+            [
+                "Pam Ochs",
+                "System Administrator at Sequoia Holdings, Inc",
+                "January 9, 2014, Stephen was senior to Pam but didn’t manage directly"
+            ],
+            [
+                "Pam Ochs",
+                "System Administrator at Sequoia Holdings, Inc",
+                "January 9, 2014, Stephen was senior to Pam but didn’t manage directly"
+            ],
+            "System Administrator at Sequoia Holdings, Inc",
+            [
+                "Pam was a very hardworking and respected technical and security professional working for key Federal government clients while at High Performance Technologies, Inc.  She is diligent, easy to work with, technical, and multifaceted."
+            ],
+            [
+                "Pam was a very hardworking and respected technical and security professional working for key Federal government clients while at High Performance Technologies, Inc.  She is diligent, easy to work with, technical, and multifaceted."
+            ],
+            [
+                "Kranthi Velivala",
+                "Solution Architect at Deloitte",
+                "October 3, 2013, Stephen was a client of Kranthi’s",
+                "Kranthi was an effective team lead for our intense development effort to create demos for our technology for high profile trade shows.  This work involved many features, difficult integration, constrained resources, and hard deadlines crucial to the company.  Kranthi was a diligent and capable lead in making this happen, bridging the gap between a US startup environment and dev team and the Indian dev team."
+            ],
+            [
+                "Kranthi Velivala",
+                "Solution Architect at Deloitte",
+                "October 3, 2013, Stephen was a client of Kranthi’s"
+            ],
+            [
+                "Kranthi Velivala",
+                "Solution Architect at Deloitte",
+                "October 3, 2013, Stephen was a client of Kranthi’s"
+            ],
+            [
+                "Kranthi Velivala",
+                "Solution Architect at Deloitte",
+                "October 3, 2013, Stephen was a client of Kranthi’s"
+            ],
+            "Solution Architect at Deloitte",
+            [
+                "Kranthi was an effective team lead for our intense development effort to create demos for our technology for high profile trade shows.  This work involved many features, difficult integration, constrained resources, and hard deadlines crucial to the company.  Kranthi was a diligent and capable lead in making this happen, bridging the gap between a US startup environment and dev team and the Indian dev team."
+            ],
+            [
+                "Kranthi was an effective team lead for our intense development effort to create demos for our technology for high profile trade shows.  This work involved many features, difficult integration, constrained resources, and hard deadlines crucial to the company.  Kranthi was a diligent and capable lead in making this happen, bridging the gap between a US startup environment and dev team and the Indian dev team."
+            ]
+        ],
+        "skills": [
+            [
+                "Software Development",
+                "See 144 endorsements for Software Development",
+                "99+",
+                "Software Development",
+                "Endorse",
+                "Endorsed by Terry Blanchard and 16 others who are highly skilled at this",
+                "Endorsed by Javier Ibáñez-Padilla and 1 other mutual connection"
+            ],
+            [
+                "Software Development",
+                "See 144 endorsements for Software Development",
+                "99+"
+            ],
+            [
+                "Agile Methodologies",
+                "See 82 endorsements for Agile Methodologies",
+                "82",
+                "Agile Methodologies",
+                "Endorse",
+                "Endorsed by Javier Ibáñez-Padilla and 1 other mutual connection",
+                "Endorsed by 5 of Stephen’s colleagues at Pelican Imaging"
+            ],
+            [
+                "Agile Methodologies",
+                "See 82 endorsements for Agile Methodologies",
+                "82"
+            ],
+            [
+                "Linux",
+                "See 72 endorsements for Linux",
+                "72",
+                "Linux",
+                "Endorse",
+                "Endorsed by Chris McClanahan and 6 others who are highly skilled at this",
+                "Endorsed by Javier Ibáñez-Padilla and 1 other mutual connection"
+            ],
+            [
+                "Linux",
+                "See 72 endorsements for Linux",
+                "72"
+            ]
+        ],
+        "summary": "    Wide and frequently deep background in numerous technical, theoretical, and business areas in addition to advanced interpersonal and communications ability.  Competent in many areas, periodically at the cutting edge of current techniques.  Insatiably curious and driven to understand, create, solve, build, and work with interesting people and projects.Current resume: http://sdw.st/gresSpecialties: System Architect & Developer — Intelligence / Performance / Security / UsabilityCareer themes: http://sdw.st/sdwthemes\n  \n  \n",
+        "name": "Stephen Williams",
+        "title": "CTO & cofounder at Change My Path",
+        "url": "linkedin.com/in/stephendwilliams",
+        "phone": "650-450-8649 (Mobile)",
+        "email": "sdw@lig.net"
+    }
+]

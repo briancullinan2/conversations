@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6198221070764425216/",
+    "participants": [
+        {
+            "name": "Peter Bezanson",
+            "title": "Chief Executive Officer at BASIS.ed",
+            "url": "linkedin.com/in/peter-bezanson-81700814",
+            "phone": "",
+            "email": "peter.bezanson@basised.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for the connect!",
+            "time": "2016-10-29T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Did you like my other email?",
+            "time": "2017-10-30T18:49:00.000Z"
+        }
+    ]
+}

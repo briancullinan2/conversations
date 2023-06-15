@@ -1,0 +1,306 @@
+[
+    {
+        "resourceName": "people/c4558722367360447858",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3f43d5d70825b572"
+                    }
+                },
+                "displayName": "Brandon Collier",
+                "familyName": "Collier",
+                "givenName": "Brandon",
+                "displayNameLastFirst": "Collier, Brandon"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3f43d5d70825b572"
+                    }
+                },
+                "value": "+1-503-209-4579",
+                "canonicalForm": "+15032094579",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "Brandon can introduce you to 2 people at Intel Corporation",
+                "Brandon worked at Intel Corporation"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Firmware Engineer",
+                "Company Name",
+                "Intel Corporation",
+                "Dates Employed",
+                "Aug 2014 – Present",
+                "Employment Duration",
+                "3 yrs 3 mos",
+                "Location",
+                "Hillsboro, Or",
+                "Pathfinding super secret, next generation security features for Intel storage technologies."
+            ],
+            [
+                "Computer Engineer",
+                "Company Name",
+                "Specialized Office Systems",
+                "Dates Employed",
+                "Oct 2012 – Aug 2014",
+                "Employment Duration",
+                "1 yr 11 mos"
+            ],
+            [
+                "Software Engineering Intern",
+                "Company Name",
+                "Tektronix",
+                "Dates Employed",
+                "Jun 2012 – Sep 2012",
+                "Employment Duration",
+                "4 mos"
+            ],
+            [
+                "Bicycle Mechanic",
+                "Company Name",
+                "Performance Bicycle Shop",
+                "Dates Employed",
+                "Jun 2007 – Jun 2012",
+                "Employment Duration",
+                "5 yrs 1 mo"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Portland State University",
+                "Degree Name",
+                "Bachelor's Degree",
+                "Field Of Study",
+                "Computer Engineering",
+                "Dates attended or expected graduation",
+                "2009 – 2013"
+            ],
+            [
+                "Portland State University",
+                "Degree Name",
+                "Bachelor's Degree",
+                "Field Of Study",
+                "Computer Engineering",
+                "Dates attended or expected graduation",
+                "2009 – 2013"
+            ],
+            [
+                "Northern Arizona University",
+                "Field Of Study",
+                "Computer Engineering"
+            ],
+            [
+                "Northern Arizona University",
+                "Field Of Study",
+                "Computer Engineering"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Northern Arizona University",
+                "101,012 followers"
+            ],
+            [
+                "Portland State University",
+                "113,118 followers"
+            ],
+            [
+                "Portland State University",
+                "121,601 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,009 followers"
+            ],
+            [
+                "Intel Corporation",
+                "938,385 followers"
+            ],
+            [
+                "See connections (45)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Northern Arizona University",
+                "101,012 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "101,012 followers"
+            ],
+            [
+                "Portland State University",
+                "113,118 followers"
+            ],
+            [
+                "Portland State University",
+                "113,118 followers"
+            ],
+            [
+                "Portland State University",
+                "121,601 followers"
+            ],
+            [
+                "Portland State University",
+                "121,601 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,009 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,009 followers"
+            ],
+            [
+                "Intel Corporation",
+                "938,385 followers"
+            ],
+            [
+                "Intel Corporation",
+                "938,385 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "C++",
+                "See 3 endorsements for C++",
+                "3",
+                "C++",
+                "Endorse",
+                "Faraz Siddiqi and 2 connections have given endorsements for this skill"
+            ],
+            [
+                "C++",
+                "See 3 endorsements for C++",
+                "3"
+            ],
+            [
+                "Software Development",
+                "See 2 endorsements for Software Development",
+                "2",
+                "Software Development",
+                "Endorse",
+                "Faraz Siddiqi and 1 connection have given endorsements for this skill"
+            ],
+            [
+                "Software Development",
+                "See 2 endorsements for Software Development",
+                "2"
+            ],
+            [
+                "C",
+                "See 2 endorsements for C",
+                "2",
+                "C",
+                "Endorse",
+                "Faraz Siddiqi and 1 connection have given endorsements for this skill"
+            ],
+            [
+                "C",
+                "See 2 endorsements for C",
+                "2"
+            ],
+            [
+                "Software Engineering",
+                "See 2 endorsements for Software Engineering",
+                "2",
+                "Software Engineering",
+                "Endorse"
+            ],
+            [
+                "Software Engineering",
+                "See 2 endorsements for Software Engineering",
+                "2"
+            ],
+            [
+                "Firmware",
+                "See 2 endorsements for Firmware",
+                "2",
+                "Firmware",
+                "Endorse"
+            ],
+            [
+                "Firmware",
+                "See 2 endorsements for Firmware",
+                "2"
+            ],
+            [
+                "Software Design",
+                "See 2 endorsements for Software Design",
+                "2",
+                "Software Design",
+                "Endorse"
+            ],
+            [
+                "Software Design",
+                "See 2 endorsements for Software Design",
+                "2"
+            ],
+            [
+                "Java",
+                "See 1 endorsement for Java",
+                "1",
+                "Java",
+                "Endorse"
+            ],
+            [
+                "Java",
+                "See 1 endorsement for Java",
+                "1"
+            ],
+            [
+                "Linux",
+                "See 1 endorsement for Linux",
+                "1",
+                "Linux",
+                "Endorse"
+            ],
+            [
+                "Linux",
+                "See 1 endorsement for Linux",
+                "1"
+            ]
+        ],
+        "summary": "",
+        "name": "Brandon Collier",
+        "title": "Firmware Engineer at Intel Corporation",
+        "url": "linkedin.com/in/brandon-collier-44b95567",
+        "phone": "",
+        "email": "brandon@collier.in"
+    }
+]

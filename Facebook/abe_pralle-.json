@@ -1,0 +1,88 @@
+{
+    "thread": "https://www.facebook.com/messages/t/abe.pralle",
+    "participants": [
+        {}
+    ],
+    "messages": [
+        {
+            "from": "Brian",
+            "message": "Brian\nMake them think they are special momentarily and see if it improves their day versus the regular noise on the internet. Distractions are important!\n",
+            "time": "2016-10-12T00:01:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nInteresting data point. I played this game with two other people and now one of them wants to hang out today. Coincidence or projecting confidence?\n",
+            "time": "2016-10-12T00:01:00.000Z"
+        },
+        {
+            "from": "Abe",
+            "message": "\nThey say what goes around comes around... \n",
+            "time": "2016-10-12T00:01:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nI am making go around.\n*it\nLet me know if you notice anything strange. \n",
+            "time": "2016-10-12T00:01:00.000Z"
+        },
+        {
+            "from": "Abe",
+            "message": "\nOkay\n",
+            "time": "2016-10-12T00:01:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nLOL I already convinced one friend I am an AI from playing my compliment game.\n",
+            "time": "2016-10-12T00:01:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nI can see the future.\n",
+            "time": "2016-11-14T05:04:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nWouldn't it be cool to make a text scroller 3D? https://github.com/rastapasta/mapscii\nrastapasta/mapscii\n🗺 MapSCII - Braille & ASCII map renderer for your console => telnet mapscii.me\ngithub.com\n",
+            "time": "2018-05-07T17:49:00.000Z"
+        },
+        {
+            "from": "Abe",
+            "message": "\nNeat!\n",
+            "time": "2018-05-07T17:49:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nI love UX, I am designing a new sales and subscription portal for Act!.\nWhat are you up to?\n",
+            "time": "2018-05-07T17:49:00.000Z"
+        },
+        {
+            "from": "Abe",
+            "message": "\nLots of projects!  Right now I'm fixing my bitmap resizing algorithm in Plasmacore so that blending a totally transparent \"black\" pixel with a non-transparent neighbor doesn't add a black tint to the resulting pixel.\n",
+            "time": "2018-05-07T17:49:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nUsing HSL for blending not RGB?\n",
+            "time": "2018-05-08T04:46:00.000Z"
+        },
+        {
+            "from": "Abe",
+            "message": "\nRGB; the tweak is based around the alpha channel\n",
+            "time": "2018-05-08T06:34:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nhttp://www.imdb.com/title/tt3967856/\nOkja (2017)\nDirected by Joon-ho Bong. With Tilda Swinton, Paul Dano, Seo-Hyun Ahn, Jake Gyllenhaal. Meet Mija, a young girl who risks everything to prevent a powerful, multi-national company from kidnapping her best friend - a massive animal named Okja.\nimdb.com\n",
+            "time": "2017-06-29T16:01:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nQ: Why did Mickey Mouse take a trip into space?\nA: He wanted to find Pluto!\n",
+            "time": "2017-11-12T04:45:00.000Z"
+        },
+        {
+            "from": "Abe",
+            "message": "\n",
+            "time": "2017-11-12T15:33:00.000Z"
+        }
+    ]
+}

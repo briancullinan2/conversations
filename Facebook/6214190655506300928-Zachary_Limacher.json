@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6214190655506300928/",
+    "participants": [
+        {
+            "name": "Zachary Limacher",
+            "title": "Senior Management Consultant, Business Architect and Strategist",
+            "url": "linkedin.com/in/zachary-limacher-1b629a119",
+            "phone": null,
+            "email": "zlimacher@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "How do you keep up with technology?\n",
+            "time": "2017-12-12T21:35:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-25T23:29:00.000Z"
+        }
+    ]
+}

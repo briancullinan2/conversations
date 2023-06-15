@@ -1,0 +1,138 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "18Dec17",
+    "participants": "Brian Cullinan | wizard > Mark Vange | Serial Technology Entrepreneur",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Mark Vange",
+        "url": "linkedin.com/in/markvange",
+        "phone": "(480) 270-4646 (Mobile)",
+        "email": "mark@markvange.com",
+        "title": "Serial Technology Entrepreneur"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-12-18T16:17:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "18Dec17",
+    "participants": "Raymond Chai | Founder of Billionaire.Property > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Raymond Chai",
+        "url": "linkedin.com/in/raymond-chai-b7077b37",
+        "email": "boyy.tv@gmail.com",
+        "title": "Founder of Billionaire.Property"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "You welcome.",
+    "time": "2017-12-18T23:15:00.000Z",
+    "title": "Founder of Billionaire.Property"
+  },
+  {
+    "type": "conversations",
+    "conversations": "18Dec17",
+    "participants": "Gerald (Gerry) Weber | President/CEO Jewelry Repair Enterprises Inc. > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Gerald (Gerry) Weber",
+        "url": "linkedin.com/in/gerald-gerry-weber-81812b",
+        "email": "gerrywbw@gmail.com",
+        "title": "President/CEO Jewelry Repair Enterprises Inc."
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "We have tremendous resources both inside and outside the company.",
+    "time": "2017-12-18T18:31:00.000Z",
+    "title": "President/CEO Jewelry Repair Enterprises Inc."
+  },
+  {
+    "type": "conversations",
+    "conversations": "18Dec17",
+    "participants": "Brian Cullinan | wizard > Gerald (Gerry) Weber | President/CEO Jewelry Repair Enterprises Inc.",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Gerald (Gerry) Weber",
+        "url": "linkedin.com/in/gerald-gerry-weber-81812b",
+        "email": "gerrywbw@gmail.com",
+        "title": "President/CEO Jewelry Repair Enterprises Inc."
+      }
+    ],
+    "message": "Sounds perfect, nice work! Let me know when you ever need a technologist.",
+    "time": "2017-12-18T18:58:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "18Dec17",
+    "participants": "Brian Cullinan | wizard > Rich Hlavka | C-Level Executive - Business Development and Sales Leader",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Rich Hlavka",
+        "url": "linkedin.com/in/richhlavka",
+        "email": "rjhholdings@gmail.com",
+        "title": "C-Level Executive - Business Development and Sales Leader"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-12-18T16:16:00.000Z",
+    "title": "wizard"
+  }
+]

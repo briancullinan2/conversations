@@ -1,0 +1,49 @@
+{
+    "thread": "/messaging/thread/6224285838675636224/",
+    "participants": [
+        {
+            "name": "Carrie Severson",
+            "title": "Storyteller Trainer for Women in the World",
+            "url": "linkedin.com/in/carrieseverson",
+            "phone": null,
+            "email": "carrie@seversonsisters.org"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-09T18:09:00.000Z"
+        },
+        {
+            "from": "Carrie Severson",
+            "message": "Hi Brian ~ Thank you for reaching out! How do you improve the world one question at a time?! Carrie\n",
+            "time": "2018-01-09T18:29:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I suppose the word \"world\" is relative. What appears to me as an improvement may be insignificant to others. Are self help books fiction or nonfiction?\n",
+            "time": "2018-01-09T20:14:00.000Z"
+        },
+        {
+            "from": "Carrie Severson",
+            "message": "I hope they'd be nonfiction...although that very question was a topic of conversation with a writer just last week! Are you published?\n",
+            "time": "2018-01-09T21:57:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I'd like to publish someday sure. Not currently.\n",
+            "time": "2018-01-09T22:26:00.000Z"
+        },
+        {
+            "from": "Carrie Severson",
+            "message": "Well that's what I do so if you have questions about the publishing world, ask!\n",
+            "time": "2018-01-09T22:28:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you I will!\n",
+            "time": "2018-01-09T22:38:00.000Z"
+        }
+    ]
+}

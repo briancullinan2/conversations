@@ -1,0 +1,162 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "12Sep17",
+    "participants": "Brian Cullinan | wizard > Alec McKinley | Software Engineering Recruitment",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Alec McKinley",
+        "url": "linkedin.com/in/aemckinley",
+        "title": "Software Engineering Recruitment"
+      }
+    ],
+    "message": "I would love to work for a video game company! I have mind games designed for you. When can we start?",
+    "time": "2017-09-12T18:59:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "12Sep17",
+    "participants": "Alec McKinley | Software Engineering Recruitment > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Alec McKinley",
+        "url": "linkedin.com/in/aemckinley",
+        "title": "Software Engineering Recruitment"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Hey Brian,\n\nI just want to make sure that you're not being facetious and that I totally understand you, as mind games aren't fun - is working for Rockstar something you'd be interested in hearing a little more about? If so, let's set up a time to chat. I am free tomorrow afternoon until 5pm ET. Let me know what time and number works best for us to speak.\n\nBest and looking forward to speaking,\nAlec",
+    "time": "2017-09-12T19:49:00.000Z",
+    "title": "Software Engineering Recruitment"
+  },
+  {
+    "type": "conversations",
+    "conversations": "12Sep17",
+    "participants": "Brian Cullinan | wizard > Nathan Rohweder | Quality Assurance Engineer at Novelist",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Nathan Rohweder",
+        "url": "linkedin.com/in/nathan-rohweder-8b1026121",
+        "email": "rohwedernt@gmail.com",
+        "title": "Quality Assurance Engineer at Novelist"
+      }
+    ],
+    "message": "I have mind games designed for you. When can we start?",
+    "time": "2017-09-12T18:58:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "12Sep17",
+    "participants": "Paul Falkenbach | VP Sales & Marketing at National Sign Systems > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Paul Falkenbach",
+        "url": "linkedin.com/in/paul-falkenbach-0491a83",
+        "email": "pfalkenbach@natsignsys.com",
+        "title": "VP Sales & Marketing at National Sign Systems"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Call me anytime. I will try calling you as well.",
+    "time": "2017-09-12T11:45:00.000Z",
+    "title": "VP Sales & Marketing at National Sign Systems"
+  },
+  {
+    "type": "conversations",
+    "conversations": "12Sep17",
+    "participants": "Brian Cullinan | wizard > Paul Falkenbach | VP Sales & Marketing at National Sign Systems",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Paul Falkenbach",
+        "url": "linkedin.com/in/paul-falkenbach-0491a83",
+        "email": "pfalkenbach@natsignsys.com",
+        "title": "VP Sales & Marketing at National Sign Systems"
+      }
+    ],
+    "message": "Totally different answer than what Jim gave me. I really need help on this because you're way smarter than me. I don't think he is enabling this company to keep up with the tech boom that's coming. It is all about mindset, if you are interested, look at this link and please talk to me so we can talk about really hard questions.",
+    "time": "2017-09-12T17:39:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "12Sep17",
+    "participants": "Brian Cullinan | wizard > Paul Falkenbach | VP Sales & Marketing at National Sign Systems",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Paul Falkenbach",
+        "url": "linkedin.com/in/paul-falkenbach-0491a83",
+        "email": "pfalkenbach@natsignsys.com",
+        "title": "VP Sales & Marketing at National Sign Systems"
+      }
+    ],
+    "message": "https://www.gatesnotes.com/Books/Mindset-The-New-Psychology-of-Success",
+    "time": "2017-09-12T17:39:00.000Z",
+    "title": "wizard"
+  }
+]

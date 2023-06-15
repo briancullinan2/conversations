@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6215243867525038080/",
+    "participants": [
+        {
+            "name": "Samir Trivedi",
+            "title": "Product Owner CSPO",
+            "url": "linkedin.com/in/samirtrivedi",
+            "phone": null,
+            "email": "st471438@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-15T19:20:00.000Z"
+        },
+        {
+            "from": "Samir Trivedi",
+            "message": "Hey you are welcome. Pls let me know if there is anything I can be helpful with.\n",
+            "time": "2017-12-16T19:36:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I applied at PetSmart. We take our dogs there for grooming. Digitizing that service is brilliant. What are you working on?\n",
+            "time": "2017-12-21T16:37:00.000Z"
+        },
+        {
+            "from": "Samir Trivedi",
+            "message": "Thats great. Good luck..\n",
+            "time": "2017-12-22T14:10:00.000Z"
+        },
+        {
+            "from": "Samir Trivedi",
+            "message": "I am in Digital Space dept and PO of some of the products for our Petsmart.com & Petsmart.ca website\n",
+            "time": "2017-12-22T14:10:00.000Z"
+        }
+    ]
+}

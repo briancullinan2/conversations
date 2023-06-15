@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6198305745444880384/",
+    "participants": [
+        {
+            "name": "Lawrence Dearth",
+            "title": "Regional Manager at Insight Global",
+            "url": "linkedin.com/in/larwrencedearth",
+            "phone": "",
+            "email": "Lawrence.Dearth@insightglobal.net"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-10-29T01:34:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-10-29T01:34:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Any suggestions?",
+            "time": "2017-10-29T00:29:00.000Z"
+        },
+        {
+            "from": "Lawrence Dearth",
+            "message": "Thanks for the feedback",
+            "time": "2017-10-29T00:32:00.000Z"
+        }
+    ]
+}

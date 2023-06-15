@@ -1,0 +1,49 @@
+{
+    "thread": "/messaging/thread/6241421337890476032/",
+    "participants": [
+        {
+            "name": "Jeremy McElliott",
+            "title": "Roles Engineer Security Analyst @ Charles Schwab",
+            "url": "linkedin.com/in/jmcelliott",
+            "phone": "2082838899 (Home)",
+            "email": "jmcelliott@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-02-26T01:00:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Jeremy McElliott",
+            "time": "2017-02-26T01:39:00.000Z",
+            "message": "You bet. I'll meet out at work in person eventually!!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-02-26T02:32:00.000Z",
+            "message": "Yes, I'd like to hang out sometime outside of work. :)\n"
+        },
+        {
+            "from": "Jeremy McElliott",
+            "time": "2017-02-26T02:38:00.000Z",
+            "message": "Absolutely. I'll drop by this week and formally introduce myself and maybe we can head to lunch some time this week\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-02-26T02:54:00.000Z",
+            "message": "👍\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-28T14:20:00.000Z",
+            "message": "Did you win?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-15T21:12:00.000Z",
+            "message": "Everyone at Schwab should read this: http://www.cio.com/article/3200445/it-strategy/12-best-practices-it-should-avoid-at-all-costs.html\n"
+        }
+    ]
+}

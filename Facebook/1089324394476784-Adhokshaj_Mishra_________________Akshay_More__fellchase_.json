@@ -1,0 +1,862 @@
+{
+    "thread": "https://www.facebook.com/messages/t/1089324394476784",
+    "participants": [
+        {
+            "name": "Adhokshaj Mishra\n(अधोक्षज मिश्र )",
+            "description": "Followed by 622 people",
+            "url": "https://www.facebook.com/AdhokshajMishra"
+        },
+        {
+            "name": "Akshay More\n(fellchase)",
+            "description": "Admin at Codeloop",
+            "url": "Single"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nessentially, compile time compiler will be written in templates\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nActually 2 neural networks that improve each other\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nnot that hard sir\nlet me start with something simple\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nSurely\nWell, what you're aiming for (from what I understand) is to have a compiler improve the source code automatically without human intervention.. to avoid signature matches etc?\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nmostly to thwart static analysis\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nThat said, I'm very confused by what you're trying to achieve\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nand partially dynamic analysis too\nbecause you cannot attach a fucking debugger that easily\nBasically, I can fake entire memory\nfrom outside, you will see garbage, from inside code will see sensible data\ncryptography is magic\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nTrue that \nAnd all keys can reside inside the VM\nSo far so good \n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nyeah\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nSo then, I presume that the compiler is outside the VM, as is the custom compiler that you're trying to generate on demand?\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nyes\nand this whole C++ fuckery generates entire packagee in a single executable\nwith a single build command\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nHmm.. how about feeding the conventional compiler other information (similar to how msfvenom can obfuscate payloads) during its compilation?\nPutting the whole custom compiler out of the equation for a moment\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\numm\nso after hitting build\nI can go on a weekend tour\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nor, 1 week vacation in not so few cases?\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nDoes it take so long to build with that compiler? \nMan, now I totally see why you want to build a custom compiler \n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nit depends\nif you put everything in templates\nit takes too much time and memory\nthere are other ways to run code at compile time\nwhile reducing templates\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nHmm \n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nif you are naive with C++, you end up paying a huge cost\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nWell I'm not familiar with C++ or any of its compilers but yeah.. I can imagine that having a compiler compile a second compiler and have that second compiler compile a third arbitrary program while it itself is being compiled is infeasible \nHence why I would personally look elsewhere\nOr at least have the second compiler finish itself before compiling anything else with it\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nactually, that shit is side effect\nC++ has templates\nand templates are turing complete\nwhich means, any problem which is solvable, can be solved entirely in templates\n\nprime no generation, string reversal, fibonacci or other sequenece, whatever you have done in clg\ntree traversal, BFS/DFS search etc\nall these can be done, entirely in templates\nhell, even crypto can be don entirely in templates\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nO.o\nYou can build entire programs in C++ by just gluing together templates?\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nFucking yes.\n"
+        },
+        {
+            "from": "Sahil",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nSahil\nYes\nI can\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nquickly runs away from the C++ hell\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nAgain, turing completeness was totally unintended\n"
+        },
+        {
+            "from": "Sahil",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nSahil\nI glove c and c++\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nonly after templates were shoved into C++, people noticed that this shit is turing complete\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nPrograms that are glued together are obviously never efficient\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\n@Michael De Roover MOV is turing complete, and so is XOR\nrun away from assembly too \n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nPlenty of shit code that I've seen that just glued other stuff together\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nIt depends upon who wrote the code\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nA program is only good when it does whatever it should efficiently\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nI write code which allows easy gluing. Yet that is efficient in runtime\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nAnd templates always have unnecessary stuff in them\nBetter write your own code instead of copy pasting templates and gluing them together that way is all I'm saying\nBut yeah, I guess the amount of unnecessary stuff indeed depends on who wrote it\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\ntemplates solve a problem bro\nsee, when you need same code at many places, you use functions\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nIf you wrote it by yourself, you can at least rest assured that it lives up to your own standards.. but I rarely find that to be the case with others' code \n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nwhen you need similar codes at many places, you use templates\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nYup, that's true\nHmm \n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nthey allow easy code generation based on a template, and instance specific details\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nBut you do always create the codes yourself or review others' templates before using them, right?\nIf that's the case, the code should be reasonably efficient\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\ndepends\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nMaybe I'm just too turned down by glue code used by leets like Somedev \nOr the KaliFixer that Jack Xen made once.. that shit glued Python 2.7 and Bash code together of all things \nTo do the full code rewrite that I did on that shit I needed quite a bit of intoxicants.. lotsa wine \n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nAh no, at least it was Python 3.. but still, lotsa unneeded dependencies and shitty code.. and one of those fucking awesome banners \nhttps://github.com/techwebspot/KaliFixer/commit/635d603be90b9a19f6f42957a1053bdce5ad9bf6 should anyone be interested \n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nBy the way, I just had this crazy idea with regards to a severed cable from the ISP box in the basement to my apartment on 2nd floor.. what if I bypass the cable and do it wirelessly?\n"
+        },
+        {
+            "from": "",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "Biprodeep Roy added Biprodeep Roy."
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nwtf?\nbipro added bipro?\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nThat way I only need to put some low frequency transmitter in the basement and a receiver in my apartment. It should do about 100Mbps traffic while staying reasonably stable over such a distance. Also it should not interfere with other RF signals\nXD\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nBiprodeep\nMy other account got Zucked\n\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\n@Biprodeep Roy your thoughts on compile time compiler?\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nNow the question is.. is there a formula to calculate the appropriate frequency range, at a given wattage for a given physical range?\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nBiprodeep\n@Adhokshaj Mishra eh?\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nI guess yes\n@Biprodeep Royhere you go: \n\nhttps://www.facebook.com/AdhokshajMishra/posts/1811283072230390\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nBiprodeep\nAny uses  I find it pretty much the same as parallel compiling\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nCondor\nThe insanity level probably \nIt's over 9000 :V\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T18:03:00.000Z",
+            "message": "\nAdhokshaj\nmalicious use\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nyep in malware, but still it will land up in forensics\nI was into kernel stuff with C \nReading a book for 2 days\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nAdhokshaj\nI want to compile my code for custom arch\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nand since I got banned for a week I'm getting extra time\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nAdhokshaj\nbut I dont want to use seperate tools\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nCool, in linux environment a pretty stealth method\n*unix\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nAdhokshaj\neven on windows\nthat way, if you attach a debugger, I can fake memory\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nCondor\nWhat did you get Zucked for? \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nI posted a video in Send Memes with a \"Allah hu Akbar\" joke, it was probably posted by some facebook page I shared it there\nSome jihadi reported it to Zucky\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nCondor\n:3\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nThe one that you liked\n"
+        },
+        {
+            "from": "Adhokshaj",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nAdhokshaj\njihadi xD\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nCondor\nAccount blew up itself :V\nFacebook accounts even doing bomb suicide these days \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\n\nAnd BTW\n\nMy low end project is almost ready \nToday I converted an old TV to a smart TV\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nCondor\n\nNo keys though \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nAnd I will use this to develop a Home Security system\n\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nCondor\nBut really nice project \nHome security system without keys \nSeriously, get that sorted before doing anything else lol\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\n will do it\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nIts just the raw OS\nI never modified anything here\nI will, and put a mainline custom compiled kernel\nI tried once I got issues with display drivers\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nCondor\nAbout that.. Raspberry Pi has tons of downstream patches into its kernel\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nrolled back to stock\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nCondor\nIt's very difficult to port those to mainline\nBut if you're able to, please lmk\nI'm struggling with the same thing on my Pi's\nApparently 4.9 has less downstream patches, but still over 100\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nEven this Pi 0 is faster than RPi, it has got 4 cores and Mali 400\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nCondor\nOn 4.4 it used to be over 400 downstream patches \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nJust half the price of it\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nCondor\nYeah \nIt kinda sucks that we can buy only one of them though \nPi0 would've been perfect for clustering purpose \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\n I have a trend of selecting the products with little or no support that instigates me to dig deeper and deeper\n\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nFor example: This hasn't got a display port anywhere\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nCondor\nAh no it's an orange pi in your case?\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nWhat I did is: I cut a RCA cable of my old set-top-box\nI made two channels\nGround and TV Out\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nCondor\nHmm\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nI built a custom pin socket and soldered it there with the cable\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nCondor\nTo the gpio?\nOr somewhere else?\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nYeah, ground and TV-Out\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nCondor\nAha\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nAnd connect to my TV, then logged into it and turned on wifi and connect to router,\nafter that disconnected it\nand now controlling it from my PC itself\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nCondor\nOrange Pi0 has wifi? \nHow much are those per unit?\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nyea, Wifi with antenna\nand bluetooth and IR reciever too\nAlso a mic\n$10\napparently\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nCondor\nYup, just looked for them\nYou bought it on AliExpress?\nHow was the shipping?\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nNope, from an Indian store they imported from China\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nCondor\nAh \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nBiprodeep\nI got it within a week\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T19:40:00.000Z",
+            "message": "\nCondor\nHmm.. I see\nI rarely buy in local stores (full of Winshit \"professionals\" that charge almost double the value) so yeah.. this AliExpress link that they provide is what I'd look into\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T20:00:00.000Z",
+            "message": "\nBiprodeep\nThese are best suited for a good cluster \n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T20:00:00.000Z",
+            "message": "\nCondor\nProblem is that they take so long to ship \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T20:00:00.000Z",
+            "message": "\nBiprodeep\nYou buy in bulk you'll get good discounts\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T20:00:00.000Z",
+            "message": "\nCondor\nUp to several months sometimes \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T20:00:00.000Z",
+            "message": "\nBiprodeep\nAlso AliExpress giving $100 coupons\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-29T20:00:00.000Z",
+            "message": "\nCondor\nMakes you think that maybe they ship it by rowboat \nHmm \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-07-29T20:00:00.000Z",
+            "message": "\nBiprodeep\nxD\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-30T00:00:00.000Z",
+            "message": "\nCondor\nTurns out that the formula that I was looking for earlier has to do with the Fresnel zone \nNever heard of it before though\n\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-07-30T00:00:00.000Z",
+            "message": "\nCondor\nAnd it turns out that if I can get both transceivers to be reasonably strong (like 500mW or so) I could still use a relatively high frequency\nAfter all, both transceivers would be stationary.. So I can pin the signal down to a specific location rather than beaming it everywhere like RF equipment usually does, and with that significantly improve the range\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-02T00:19:00.000Z",
+            "message": "\nCondor\nI really want to debug this issue with my GL drivers but I can't get any meaningful debug logs going on and Nvidia bastards don't wanna dump core or say anything in journal when they decide to crash my system  is there any way to force the system to launch itself (kernel) and all user processes (particularly web browser and GL drivers) to launch in debug mode and dump core whenever something gets borked up? The chances of a hangup / freeze increase significantly when I fire up any web browser\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-02T00:19:00.000Z",
+            "message": "\nCondor\nSo firing up web browser during tests will decrease log size significantly, however storage isn't a problem. I have about 10TB at my disposal and I wanna squeeze out any logs out of the session that I can get\n"
+        },
+        {
+            "from": "fellchase@somewhere",
+            "time": "2017-08-02T09:37:00.000Z",
+            "message": "\nfellchase@somewhere\nGrub mkconfig detects everything but not the initramdisk\nRunning arch os prober installed \n#oldproblem\n\n"
+        },
+        {
+            "from": "Nidhish",
+            "time": "2017-08-02T09:37:00.000Z",
+            "message": "\nNidhish\n\n"
+        },
+        {
+            "from": "fellchase@somewhere",
+            "time": "2017-08-02T09:37:00.000Z",
+            "message": "\nfellchase@somewhere\nAnyone has any idea?\n@Shivam Shrirao\nElite people don't just read messages like dat\n"
+        },
+        {
+            "from": "Shivam",
+            "time": "2017-08-02T09:37:00.000Z",
+            "message": "\nShivam\nUmm. Sorry. Don't know. Never got such problem.\n"
+        },
+        {
+            "from": "fellchase@somewhere",
+            "time": "2017-08-02T09:37:00.000Z",
+            "message": "\nfellchase@somewhere\nI better use kali now \n#Hexor\n\n"
+        },
+        {
+            "from": "Shivam",
+            "time": "2017-08-02T09:37:00.000Z",
+            "message": "\nShivam\nHehe. But in fixing arch we learn a hell lotbof things\n*hell lot\n*of\n"
+        },
+        {
+            "from": "fellchase@somewhere",
+            "time": "2017-08-02T09:37:00.000Z",
+            "message": "\nfellchase@somewhere\nha \nBut I have no idea what's happening  reading bbs \n"
+        },
+        {
+            "from": "fellchase@somewhere",
+            "time": "2017-08-03T10:06:00.000Z",
+            "message": "\nfellchase@somewhere\n\n\n"
+        },
+        {
+            "from": "fellchase@somewhere",
+            "time": "2017-08-03T10:06:00.000Z",
+            "message": "\nfellchase@somewhere\nI'm still peasant\nPeasant  of manjaro\n"
+        },
+        {
+            "from": "",
+            "time": "2017-08-04T12:33:00.000Z",
+            "message": "Biprodeep Roy removed Biprodeep Roy from the group."
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T17:47:00.000Z",
+            "message": "\nCondor\n\nLiving hell \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T17:47:00.000Z",
+            "message": "\nBiprodeep\n;/\n\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T17:47:00.000Z",
+            "message": "\nCondor\nSuch awesome leety speediness, these library networks \nand that latency \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T17:47:00.000Z",
+            "message": "\nBiprodeep\nyou using android om PC? \n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T17:47:00.000Z",
+            "message": "\nCondor\nhm? it's my tablet\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T17:47:00.000Z",
+            "message": "\nBiprodeep\noh\n\nnevermind\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T17:47:00.000Z",
+            "message": "\nCondor\nXD\nanyway, this sucks \nmy laptop is even worse\nupdating system at 20kB/s \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T17:47:00.000Z",
+            "message": "\nBiprodeep\nif that tablet was on its last condition, I'd have scrapped open its and extracted its PCB and converted it into a DIY single board PC \n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T17:47:00.000Z",
+            "message": "\nCondor\nit's new one bro \nbought it only few weeks ago XD\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T17:47:00.000Z",
+            "message": "\nBiprodeep\nmodel please\n\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T17:47:00.000Z",
+            "message": "\nCondor\nMedion LifeTab x10302 \nit's decent tab\nAnd unlike previous OEMs , Medion does seem cooperative with regards to source code and complying with GPL\nanw, gotta go\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T17:55:00.000Z",
+            "message": "\nCondor\nanw, gotta go\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T17:55:00.000Z",
+            "message": "\nBiprodeep\nchecking it now \nIntel Atom LOL\nYou got owned there \n\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T17:55:00.000Z",
+            "message": "\nCondor\nLol no\nIt's an MT8783 octacore\nMaking it a possible replacement for my laptop\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T17:55:00.000Z",
+            "message": "\nCondor\nBTW check out this beast \nhttps://www.gizmochina.com/2017/03/06/vernees-first-helio-x30-model-prototype-apollo-2-debuted-mwc-2017/\nA pocket-sized PC rival \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T17:55:00.000Z",
+            "message": "\nBiprodeep\nthats surprisingly cheap \n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T17:55:00.000Z",
+            "message": "\nCondor\nI know right? 300 bucks for such a powerhouse! \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nBiprodeep\nSo you down for it?\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nCondor\nNot really, I don't need all that horsepower in my pockets\nNot to mention that it hasn't been made available to the public yet, apparently it's still a prototype\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nBiprodeep\nWell honestly I don't think anyone needs that much in their pockets unless they are really looking for some gaming\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nCondor\nEven for mobile gamers I'd say that anything beyond quad-core is overkill\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nCondor\nThis is a game that I often play on my phone\nGame's called Toram Online\n\nQuite graphics-intensive but my 2015 Acer Liquid Z630 manages it just fine \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nBiprodeep\nNeed to try it someday although i totally hate games\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nCondor\nWell this is a MMORPG so depending on your tastes you may or may not like the game\nBut do try it out \nBtw farming is mostly end-game stuff, story line can get you up to like lv100 in no time \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nBiprodeep\nXD\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nCondor\nOn this account I split it up against 2 chars though.. and now I don't have any story quests to play anymore \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nBiprodeep\n4:07 am here now and I am studying analysis of algorithm :v\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nCondor\nNo sleep leet \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nBiprodeep\nAwake whole night lol just 10 minutes fb for refreshing\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nCondor\nXD\nWell, I guess I'll have to do an all nighter too \nStill have a couple servers to take care of\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nBiprodeep\nFor me its like a normal routine :v\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nCondor\nBut when do you sleep then?\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nBiprodeep\n2 hours sleep from 5 am to 7 am\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nBiprodeep\nThen will go for college\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nCondor\nNow I get why you wear sunglasses \nEyes must be red AF with so little sleep \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T22:13:00.000Z",
+            "message": "\nBiprodeep\nComeback at 6:30 pm, half hour rest then get back to work :')\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T22:41:00.000Z",
+            "message": "\nCondor\nAnd dark sleepy bags underneath it \n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T22:41:00.000Z",
+            "message": "\nBiprodeep\nExactly\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T22:41:00.000Z",
+            "message": "\nCondor\nXD\n"
+        },
+        {
+            "from": "Biprodeep",
+            "time": "2017-08-08T22:41:00.000Z",
+            "message": "\nBiprodeep\nI often get called panda for it \n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-08T22:41:00.000Z",
+            "message": "\nCondor\n\n"
+        },
+        {
+            "from": "fellchase@somewhere",
+            "time": "2017-08-09T01:29:00.000Z",
+            "message": "\nfellchase@somewhere\n\n"
+        },
+        {
+            "from": "fellchase@somewhere",
+            "time": "2017-08-09T01:29:00.000Z",
+            "message": "\nfellchase@somewhere\nI think only that small power nap in 24 hours would be detrimental for your body in long run\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-09T01:29:00.000Z",
+            "message": "\nCondor\nTrue that \n"
+        },
+        {
+            "from": "fellchase@somewhere",
+            "time": "2017-08-09T01:29:00.000Z",
+            "message": "\nfellchase@somewhere\nYep\n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-09T01:29:00.000Z",
+            "message": "\nCondor\nBtw it's 3:40 am here.. gonna catch some sleep as well\nGood night!\n"
+        },
+        {
+            "from": "fellchase@somewhere",
+            "time": "2017-08-09T01:29:00.000Z",
+            "message": "\nfellchase@somewhere\nIt's 7.10am n im in college\nFirst lecture is off \n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-09T01:29:00.000Z",
+            "message": "\nCondor\nBtw Bipro don't forget to reply to my PM\n"
+        },
+        {
+            "from": "fellchase@somewhere",
+            "time": "2017-08-09T01:29:00.000Z",
+            "message": "\nfellchase@somewhere\nI'll read mah ebuk\nHe'll forget \n"
+        },
+        {
+            "from": "Condor",
+            "time": "2017-08-09T01:29:00.000Z",
+            "message": "\nCondor\n\nWell, only time will tell\nCiao!\n"
+        },
+        {
+            "from": "fellchase@somewhere",
+            "time": "2017-08-09T01:29:00.000Z",
+            "message": "\nfellchase@somewhere\nYup bye\n+2\n"
+        }
+    ]
+}

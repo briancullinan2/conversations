@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6214466311972540416/",
+    "participants": [
+        {
+            "name": "Paul Epstein",
+            "title": "CEO at PrevientMD, LLC & CEO at Longevity Ventures, LLC",
+            "url": "linkedin.com/in/pauliepstein",
+            "phone": "",
+            "email": "paul@previent.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-12-13T15:50:00.000Z"
+        },
+        {
+            "from": "Paul Epstein",
+            "message": "My pleasure. Is there a purpose for you're connecting?",
+            "time": "2017-10-20T16:02:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "In general, we are a product of our peers. Specifically I would love to answer any computer related questions. What is the hardest problem you have faced as a CEO?",
+            "time": "2017-10-20T16:59:00.000Z"
+        }
+    ]
+}

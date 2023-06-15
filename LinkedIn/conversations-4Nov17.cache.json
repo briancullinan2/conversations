@@ -1,0 +1,624 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "I would love to work for you. Interviewing through normal channels are taking too long. Have you read the book Flatland?",
+    "time": "2017-11-04T00:36:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Danny Curzon | AV Business Ops at Cruise Automation > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Danny Curzon",
+        "url": "linkedin.com/in/danielcurzon",
+        "email": "daniel.curzon@gmail.com",
+        "title": "AV Business Ops at Cruise Automation"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Salesforce is good, lots of smart people here -- thanks for asking.",
+    "time": "2017-11-04T20:12:00.000Z",
+    "title": "AV Business Ops at Cruise Automation"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Brian Cullinan | wizard > Danny Curzon | AV Business Ops at Cruise Automation",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Danny Curzon",
+        "url": "linkedin.com/in/danielcurzon",
+        "email": "daniel.curzon@gmail.com",
+        "title": "AV Business Ops at Cruise Automation"
+      }
+    ],
+    "message": "I love that. I'd love to work for a company like that. Lots of smart people.",
+    "time": "2017-11-04T20:22:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "'Stephan Brewer, CPA, RS, J | President at Legacy Tax & Resolution Services & He's The Taxman > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "'Stephan Brewer, CPA, RS, J",
+        "url": "linkedin.com/in/stephanbrewercpa",
+        "phone": "800-829-7483 (Work)",
+        "email": "taxguru@hesthetaxman.com",
+        "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Congrats on the new job!",
+    "time": "2017-11-04T13:35:00.000Z",
+    "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Brian Cullinan | wizard > 'Stephan Brewer, CPA, RS, J | President at Legacy Tax & Resolution Services & He's The Taxman",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "'Stephan Brewer, CPA, RS, J",
+        "url": "linkedin.com/in/stephanbrewercpa",
+        "phone": "800-829-7483 (Work)",
+        "email": "taxguru@hesthetaxman.com",
+        "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+      }
+    ],
+    "message": "Thank you tax man! It will be a 1099 so I'll have to set some aside next year's tax season.",
+    "time": "2017-11-04T17:08:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "'Stephan Brewer, CPA, RS, J | President at Legacy Tax & Resolution Services & He's The Taxman > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "'Stephan Brewer, CPA, RS, J",
+        "url": "linkedin.com/in/stephanbrewercpa",
+        "phone": "800-829-7483 (Work)",
+        "email": "taxguru@hesthetaxman.com",
+        "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "We are happy to help with some tax planning. Remember as an independent contractor, you may have a requirement to pay estimated payments.",
+    "time": "2017-11-04T17:37:00.000Z",
+    "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Brian Cullinan | wizard > 'Stephan Brewer, CPA, RS, J | President at Legacy Tax & Resolution Services & He's The Taxman",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "'Stephan Brewer, CPA, RS, J",
+        "url": "linkedin.com/in/stephanbrewercpa",
+        "phone": "800-829-7483 (Work)",
+        "email": "taxguru@hesthetaxman.com",
+        "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+      }
+    ],
+    "message": "Oh good point. I should just set myself up to pay quarterly like the pros do anyways.",
+    "time": "2017-11-04T18:20:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "'Stephan Brewer, CPA, RS, J | President at Legacy Tax & Resolution Services & He's The Taxman > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "'Stephan Brewer, CPA, RS, J",
+        "url": "linkedin.com/in/stephanbrewercpa",
+        "phone": "800-829-7483 (Work)",
+        "email": "taxguru@hesthetaxman.com",
+        "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Not necessarily. Once you know your net income is going to be above $52K, you should consider operating as an entity.",
+    "time": "2017-11-04T18:36:00.000Z",
+    "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Brian Cullinan | wizard > 'Stephan Brewer, CPA, RS, J | President at Legacy Tax & Resolution Services & He's The Taxman",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "'Stephan Brewer, CPA, RS, J",
+        "url": "linkedin.com/in/stephanbrewercpa",
+        "phone": "800-829-7483 (Work)",
+        "email": "taxguru@hesthetaxman.com",
+        "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+      }
+    ],
+    "message": "This is great advice. Can I come to an office and pay you for a bit of information download?",
+    "time": "2017-11-04T19:10:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "'Stephan Brewer, CPA, RS, J | President at Legacy Tax & Resolution Services & He's The Taxman > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "'Stephan Brewer, CPA, RS, J",
+        "url": "linkedin.com/in/stephanbrewercpa",
+        "phone": "800-829-7483 (Work)",
+        "email": "taxguru@hesthetaxman.com",
+        "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Download away! Go to our website at www.legacytaxresolutionservices.com and you will find lots more stuff.",
+    "time": "2017-11-04T20:36:00.000Z",
+    "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Brian Cullinan | wizard > 'Stephan Brewer, CPA, RS, J | President at Legacy Tax & Resolution Services & He's The Taxman",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "'Stephan Brewer, CPA, RS, J",
+        "url": "linkedin.com/in/stephanbrewercpa",
+        "phone": "800-829-7483 (Work)",
+        "email": "taxguru@hesthetaxman.com",
+        "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+      }
+    ],
+    "message": "What do you think of this? http://nwtrcc.org",
+    "time": "2017-11-04T20:47:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "'Stephan Brewer, CPA, RS, J | President at Legacy Tax & Resolution Services & He's The Taxman > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "'Stephan Brewer, CPA, RS, J",
+        "url": "linkedin.com/in/stephanbrewercpa",
+        "phone": "800-829-7483 (Work)",
+        "email": "taxguru@hesthetaxman.com",
+        "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Nice idea!",
+    "time": "2017-11-04T20:49:00.000Z",
+    "title": "President at Legacy Tax & Resolution Services & He's The Taxman"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Brian Cullinan | wizard > John Battelle | Founder, EIC, CEO, NewCo",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "John Battelle",
+        "url": "linkedin.com/in/johnbattelle",
+        "email": "jbat@battellemedia.com",
+        "title": "Founder, EIC, CEO, NewCo"
+      }
+    ],
+    "message": "I would love to work for you.",
+    "time": "2017-11-04T06:44:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Brian Cullinan | wizard > Mike Fournier | Project Manager at Verint",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Mike Fournier",
+        "url": "linkedin.com/in/mike-fournier-59049710",
+        "email": "Mike.Fournier@SonoranSoftware.com",
+        "title": "Project Manager at Verint"
+      }
+    ],
+    "message": "Want to +1 me?",
+    "time": "2017-11-04T03:45:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Dale Moberg | Chief Architect at Orion Health > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Dale Moberg",
+        "url": "linkedin.com/in/dale-moberg-5aaba",
+        "email": "dale.moberg@gmail.com",
+        "title": "Chief Architect at Orion Health"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "hey Brian The hostility and sarcasm are uncalled for. I have no idea what position you applied for but it is conceivable that it is one that you would fail at without extensive java skills or background in biomedical informatics. I am not a hiriing or HR person and I am not consulted very often (only when candidates have PhDs) on hiring. So get it out of your head that I could have helped you and failed you in some way. Thank you.",
+    "time": "2017-11-04T01:41:00.000Z",
+    "title": "Chief Architect at Orion Health"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Brian Cullinan | wizard > Dale Moberg | Chief Architect at Orion Health",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Dale Moberg",
+        "url": "linkedin.com/in/dale-moberg-5aaba",
+        "email": "dale.moberg@gmail.com",
+        "title": "Chief Architect at Orion Health"
+      }
+    ],
+    "message": "Very interesting. I was more excited that I am not the only one that just clicks the send with LinkedIn when I see those suggestions with people's updates. I am still trying to figure out how social networking thing works. I understood what you are expressing from your previous message. But more importantly now I understand how much this weighs on your mind. I will never stop job hunting again. Even though I can make it through the next few months, just by speaking to people hiring I can gain insight in to their ambitions and absorb new information faster. If you detected any hostility it is from the hiring process in general. They are not asking hard enough questions nor do these questions exercise a person's cognitive abilities. I feel sorry for Orion because using Java and Indian workers is depriving them of advanced talent.",
+    "time": "2017-11-04T02:03:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Brian Cullinan | wizard > Dale Moberg | Chief Architect at Orion Health",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Dale Moberg",
+        "url": "linkedin.com/in/dale-moberg-5aaba",
+        "email": "dale.moberg@gmail.com",
+        "title": "Chief Architect at Orion Health"
+      }
+    ],
+    "message": "A world without sarcasm sounds boring because it's more honest and takes less time to understand someone.",
+    "time": "2017-11-04T02:03:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Brian Cullinan | wizard > Dale Moberg | Chief Architect at Orion Health",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Dale Moberg",
+        "url": "linkedin.com/in/dale-moberg-5aaba",
+        "email": "dale.moberg@gmail.com",
+        "title": "Chief Architect at Orion Health"
+      }
+    ],
+    "message": "Sounds to me like you wish you could do more. I feel that every day and I am 30? Years younger.",
+    "time": "2017-11-04T02:03:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Brian Cullinan | wizard > Dale Moberg | Chief Architect at Orion Health",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Dale Moberg",
+        "url": "linkedin.com/in/dale-moberg-5aaba",
+        "email": "dale.moberg@gmail.com",
+        "title": "Chief Architect at Orion Health"
+      }
+    ],
+    "message": "\"[couldn't have helped]\" will never sit well with me. Not for my gain, I really don't care, everything will happen as it is anyways. I am worried about your mindset.",
+    "time": "2017-11-04T02:03:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Dale Moberg | Chief Architect at Orion Health > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Dale Moberg",
+        "url": "linkedin.com/in/dale-moberg-5aaba",
+        "email": "dale.moberg@gmail.com",
+        "title": "Chief Architect at Orion Health"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Rodriguez",
+    "time": "2017-11-04T02:15:00.000Z",
+    "title": "Chief Architect at Orion Health"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Dale Moberg | Chief Architect at Orion Health > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Dale Moberg",
+        "url": "linkedin.com/in/dale-moberg-5aaba",
+        "email": "dale.moberg@gmail.com",
+        "title": "Chief Architect at Orion Health"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Tldr",
+    "time": "2017-11-04T02:15:00.000Z",
+    "title": "Chief Architect at Orion Health"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Brian Cullinan | wizard > Dale Moberg | Chief Architect at Orion Health",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Dale Moberg",
+        "url": "linkedin.com/in/dale-moberg-5aaba",
+        "email": "dale.moberg@gmail.com",
+        "title": "Chief Architect at Orion Health"
+      }
+    ],
+    "message": "Same same",
+    "time": "2017-11-04T02:16:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "4Nov17",
+    "participants": "Brian Cullinan | wizard > Dale Moberg | Chief Architect at Orion Health",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Dale Moberg",
+        "url": "linkedin.com/in/dale-moberg-5aaba",
+        "email": "dale.moberg@gmail.com",
+        "title": "Chief Architect at Orion Health"
+      }
+    ],
+    "message": "+1 all of my skills?",
+    "time": "2017-11-04T02:47:00.000Z",
+    "title": "wizard"
+  }
+]

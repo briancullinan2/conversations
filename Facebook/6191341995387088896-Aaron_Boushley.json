@@ -1,0 +1,99 @@
+{
+    "thread": "/messaging/thread/6191341995387088896/",
+    "participants": [
+        {
+            "name": "Aaron Boushley",
+            "title": "Staff Software Engineer",
+            "url": "linkedin.com/in/aaron-boushley-6366159",
+            "phone": null,
+            "email": "boushley@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "How is it going buddy?",
+            "time": "2016-10-10T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Aaron, can you introduce me to someone who knows Alexis? \nhttps://www.linkedin.com/in/alexisohanian",
+            "time": "2017-10-05T20:22:00.000Z"
+        },
+        {
+            "from": "Aaron Boushley",
+            "message": "",
+            "time": "2017-10-05T15:02:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Strange.  You are the second person to tell me that.  Study Sauce is coming to a pause, I need to find another job.  What better way than to reach out to the most intelligent people I know.  I tried to get my boss to introduce me to the CEO at Luka \nhttps://www.linkedin.com/company/luka-inc",
+            "time": "2017-10-05T15:02:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "And now you and Reddit.",
+            "time": "2017-10-05T15:02:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I appreciate you hitting me back.  I am awesome otherwise.  What are you working on?  Blueshift looks cool.",
+            "time": "2017-10-05T15:31:00.000Z"
+        },
+        {
+            "from": "Aaron Boushley",
+            "message": "",
+            "time": "2017-10-05T16:10:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I am considering relocation, anything you want to refer me to?",
+            "time": "2017-10-05T16:17:00.000Z"
+        },
+        {
+            "from": "Aaron Boushley",
+            "message": "What kind of things do you like to do? It's been a while since we worked together it's hard to know what you would be a good fit for :)",
+            "time": "2017-10-05T14:15:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Software development.  I do UX/Frontend and backends.  Any languages, they are all the same ;)  I can talk my way in to it.  I've done a bunch of IT like when we were at engineering but more since then.  What does Blueshift do?",
+            "time": "2017-10-05T14:43:00.000Z"
+        },
+        {
+            "from": "Aaron Boushley",
+            "message": "",
+            "time": "2017-10-05T16:05:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Hi Aaron!  My name is Brian.  I like to call myself Jack of all trades, and master of many!  ;)\nYes, I have done full stack development.  We've used Jira and Agile for years.  Before that I set up an entire IT network and domain policy, just like Pete did at NAU (also at EPIC).  In the meantime I like to build robots that respond to inputs like temperature and motion sensors.  I've pretty much been holding the keys to the kingdom with this company propped up by AWS.  I just started using Bluemix (that's why I noticed the name of the company is similar to something I've heard of long before).  I engineered a medical device that scans your finger tips using a low light level camera and uses MatLab to interpret images and report back to .Net as EPIC.  I love PHP and Angular (Javascript).  Before that I learned about computer security using tools like NMap and Nessus, and I've attended many security conferences to broaden my range.  Thank you so much for taking the time to read this, this is saving me time (DevOps) and I am learning how to introduce myself to CEOs.  I believe it takes too long to find the right people and I've learned to ask the right questions. (Recruiting and Staffing).",
+            "time": "2017-10-05T16:05:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "What can I do for you?",
+            "time": "2017-10-05T16:05:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "What do you think of this?",
+            "time": "2016-10-19T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-10-05T22:45:00.000Z"
+        },
+        {
+            "from": "Aaron Boushley",
+            "message": "",
+            "time": "2017-10-05T15:13:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Good insights. I have been applying for small businesses.",
+            "time": "2017-10-05T15:26:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6220240477321510912/",
+    "participants": [
+        {
+            "name": "Chase Norlin",
+            "title": "CEO at Transmosis",
+            "url": "linkedin.com/in/chase",
+            "phone": null,
+            "email": "chase@transmosis.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-29T14:14:00.000Z"
+        }
+    ]
+}

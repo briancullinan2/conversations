@@ -1,0 +1,29 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "20Aug17",
+    "participants": "Dieter Otte | Associate Professor of Computer Science at NAU > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Dieter Otte",
+        "url": "linkedin.com/in/dieter-otte-4bb39115",
+        "email": "dieter.otte@nau.edu",
+        "title": "Associate Professor of Computer Science at NAU"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "I’d like to add you to my professional network on LinkedIn.\n\n- Dieter",
+    "time": "2017-08-20T16:12:00.000Z",
+    "title": "Associate Professor of Computer Science at NAU"
+  }
+]

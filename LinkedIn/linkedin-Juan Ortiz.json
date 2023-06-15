@@ -1,0 +1,498 @@
+[
+    {
+        "resourceName": "people/c4735956761257526198",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "114688404081717667618"
+                    }
+                },
+                "displayName": "Juan Ortiz",
+                "familyName": "Ortiz",
+                "givenName": "Juan",
+                "displayNameLastFirst": "Ortiz, Juan"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "41b97f950a5d43b6"
+                    }
+                },
+                "value": "jmopr83@gmail.com"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Wyncode Academy",
+                "Field Of Study",
+                "Full Stack Web Developer",
+                "Dates attended or expected graduation",
+                "2016"
+            ],
+            [
+                "Wyncode Academy",
+                "Field Of Study",
+                "Full Stack Web Developer",
+                "Dates attended or expected graduation",
+                "2016"
+            ],
+            [
+                "Universidad de Puerto Rico - Recinto Universitario de Mayaguez",
+                "Field Of Study",
+                "Computer Engineering",
+                "Dates attended or expected graduation",
+                "2010 – 2011"
+            ],
+            [
+                "Universidad de Puerto Rico - Recinto Universitario de Mayaguez",
+                "Field Of Study",
+                "Computer Engineering",
+                "Dates attended or expected graduation",
+                "2010 – 2011"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Wyncode Academy",
+                "1,020 followers"
+            ],
+            [
+                "Hashrocket",
+                "1,050 followers"
+            ],
+            [
+                "SATO Global Solutions",
+                "773 followers"
+            ],
+            [
+                "Kipu Systems",
+                "974 followers"
+            ],
+            [
+                "LiveNinja",
+                "644 followers"
+            ],
+            [
+                "Wyncode Academy",
+                "445 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (128)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Wyncode Academy",
+                "1,020 followers"
+            ],
+            [
+                "Wyncode Academy",
+                "1,020 followers"
+            ],
+            [
+                "Hashrocket",
+                "1,050 followers"
+            ],
+            [
+                "Hashrocket",
+                "1,050 followers"
+            ],
+            [
+                "SATO Global Solutions",
+                "773 followers"
+            ],
+            [
+                "SATO Global Solutions",
+                "773 followers"
+            ],
+            [
+                "Kipu Systems",
+                "974 followers"
+            ],
+            [
+                "Kipu Systems",
+                "974 followers"
+            ],
+            [
+                "LiveNinja",
+                "644 followers"
+            ],
+            [
+                "LiveNinja",
+                "644 followers"
+            ],
+            [
+                "Wyncode Academy",
+                "445 followers"
+            ],
+            [
+                "Wyncode Academy",
+                "445 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Ruby",
+                "See 4 endorsements for Ruby",
+                "4",
+                "Ruby",
+                "Endorse",
+                "Endorsed by Henry Arbolaez, who is highly skilled at this"
+            ],
+            [
+                "Ruby",
+                "See 4 endorsements for Ruby",
+                "4"
+            ],
+            [
+                "JavaScript",
+                "See 4 endorsements for JavaScript",
+                "4",
+                "JavaScript",
+                "Endorse",
+                "Endorsed by Henry Arbolaez, who is highly skilled at this"
+            ],
+            [
+                "JavaScript",
+                "See 4 endorsements for JavaScript",
+                "4"
+            ],
+            [
+                "HTML",
+                "See 4 endorsements for HTML",
+                "4",
+                "HTML",
+                "Endorse",
+                "Endorsed by Sean Hendricks, who is highly skilled at this"
+            ],
+            [
+                "HTML",
+                "See 4 endorsements for HTML",
+                "4"
+            ],
+            [
+                "Management",
+                "See 3 endorsements for Management",
+                "3",
+                "Management",
+                "Endorse"
+            ],
+            [
+                "Management",
+                "See 3 endorsements for Management",
+                "3"
+            ],
+            [
+                "Microsoft Excel",
+                "See 3 endorsements for Microsoft Excel",
+                "3",
+                "Microsoft Excel",
+                "Endorse"
+            ],
+            [
+                "Microsoft Excel",
+                "See 3 endorsements for Microsoft Excel",
+                "3"
+            ],
+            [
+                "Project Management",
+                "See 3 endorsements for Project Management",
+                "3",
+                "Project Management",
+                "Endorse"
+            ],
+            [
+                "Project Management",
+                "See 3 endorsements for Project Management",
+                "3"
+            ],
+            [
+                "Ruby on Rails",
+                "See 2 endorsements for Ruby on Rails",
+                "2",
+                "Ruby on Rails",
+                "Endorse"
+            ],
+            [
+                "Ruby on Rails",
+                "See 2 endorsements for Ruby on Rails",
+                "2"
+            ],
+            [
+                "jQuery",
+                "See 2 endorsements for jQuery",
+                "2",
+                "jQuery",
+                "Endorse"
+            ],
+            [
+                "jQuery",
+                "See 2 endorsements for jQuery",
+                "2"
+            ],
+            [
+                "CSS",
+                "See 2 endorsements for CSS",
+                "2",
+                "CSS",
+                "Endorse"
+            ],
+            [
+                "CSS",
+                "See 2 endorsements for CSS",
+                "2"
+            ],
+            [
+                "Java",
+                "See 2 endorsements for Java",
+                "2",
+                "Java",
+                "Endorse"
+            ],
+            [
+                "Java",
+                "See 2 endorsements for Java",
+                "2"
+            ],
+            [
+                "Sales",
+                "See 2 endorsements for Sales",
+                "2",
+                "Sales",
+                "Endorse"
+            ],
+            [
+                "Sales",
+                "See 2 endorsements for Sales",
+                "2"
+            ],
+            [
+                "HTML5",
+                "See 1 endorsement for HTML5",
+                "1",
+                "HTML5",
+                "Endorse"
+            ],
+            [
+                "HTML5",
+                "See 1 endorsement for HTML5",
+                "1"
+            ],
+            [
+                "Coding Languages",
+                "See 1 endorsement for Coding Languages",
+                "1",
+                "Coding Languages",
+                "Endorse"
+            ],
+            [
+                "Coding Languages",
+                "See 1 endorsement for Coding Languages",
+                "1"
+            ],
+            [
+                "Computer Hardware",
+                "See 1 endorsement for Computer Hardware",
+                "1",
+                "Computer Hardware",
+                "Endorse"
+            ],
+            [
+                "Computer Hardware",
+                "See 1 endorsement for Computer Hardware",
+                "1"
+            ],
+            [
+                "Microsoft Word",
+                "See 1 endorsement for Microsoft Word",
+                "1",
+                "Microsoft Word",
+                "Endorse"
+            ],
+            [
+                "Microsoft Word",
+                "See 1 endorsement for Microsoft Word",
+                "1"
+            ],
+            [
+                "Computer Engineering",
+                "See 1 endorsement for Computer Engineering",
+                "1",
+                "Computer Engineering",
+                "Endorse"
+            ],
+            [
+                "Computer Engineering",
+                "See 1 endorsement for Computer Engineering",
+                "1"
+            ],
+            [
+                "Electronics",
+                "See 1 endorsement for Electronics",
+                "1",
+                "Electronics",
+                "Endorse"
+            ],
+            [
+                "Electronics",
+                "See 1 endorsement for Electronics",
+                "1"
+            ],
+            [
+                "Microsoft Office",
+                "See 1 endorsement for Microsoft Office",
+                "1",
+                "Microsoft Office",
+                "Endorse"
+            ],
+            [
+                "Microsoft Office",
+                "See 1 endorsement for Microsoft Office",
+                "1"
+            ],
+            [
+                "Computer Science",
+                "See 1 endorsement for Computer Science",
+                "1",
+                "Computer Science",
+                "Endorse"
+            ],
+            [
+                "Computer Science",
+                "See 1 endorsement for Computer Science",
+                "1"
+            ],
+            [
+                "PowerPoint",
+                "See 1 endorsement for PowerPoint",
+                "1",
+                "PowerPoint",
+                "Endorse"
+            ],
+            [
+                "PowerPoint",
+                "See 1 endorsement for PowerPoint",
+                "1"
+            ],
+            [
+                "Teamwork",
+                "See 1 endorsement for Teamwork",
+                "1",
+                "Teamwork",
+                "Endorse"
+            ],
+            [
+                "Teamwork",
+                "See 1 endorsement for Teamwork",
+                "1"
+            ],
+            [
+                "Organization Skills",
+                "See 1 endorsement for Organization Skills",
+                "1",
+                "Organization Skills",
+                "Endorse"
+            ],
+            [
+                "Organization Skills",
+                "See 1 endorsement for Organization Skills",
+                "1"
+            ],
+            [
+                "Manufacturing Operations",
+                "See 1 endorsement for Manufacturing Operations",
+                "1",
+                "Manufacturing Operations",
+                "Endorse"
+            ],
+            [
+                "Manufacturing Operations",
+                "See 1 endorsement for Manufacturing Operations",
+                "1"
+            ],
+            [
+                "Manufacturing",
+                "See 1 endorsement for Manufacturing",
+                "1",
+                "Manufacturing",
+                "Endorse"
+            ],
+            [
+                "Manufacturing",
+                "See 1 endorsement for Manufacturing",
+                "1"
+            ],
+            [
+                "Customer Service",
+                "See 1 endorsement for Customer Service",
+                "1",
+                "Customer Service",
+                "Endorse"
+            ],
+            [
+                "Customer Service",
+                "See 1 endorsement for Customer Service",
+                "1"
+            ],
+            [
+                "Linux",
+                "See 1 endorsement for Linux",
+                "1",
+                "Linux",
+                "Endorse"
+            ],
+            [
+                "Linux",
+                "See 1 endorsement for Linux",
+                "1"
+            ],
+            [
+                "SQL",
+                "See 1 endorsement for SQL",
+                "1",
+                "SQL",
+                "Endorse"
+            ],
+            [
+                "SQL",
+                "See 1 endorsement for SQL",
+                "1"
+            ]
+        ],
+        "summary": "",
+        "name": "Juan Ortiz",
+        "title": "Jr Full-Stack Web Developer",
+        "url": "linkedin.com/in/jmopr",
+        "phone": null,
+        "email": "jmopr83@hotmail.com"
+    }
+]

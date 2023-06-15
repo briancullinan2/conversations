@@ -1,0 +1,89 @@
+{
+    "thread": "/messaging/thread/6249745938693320704/",
+    "participants": [
+        {
+            "name": "Lance Klem",
+            "title": "Managing Director at The ProSource Group",
+            "url": "linkedin.com/in/lanceklem",
+            "phone": "949-278-0337 (Mobile)",
+            "email": "lklem@theprosourcegroup.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Lance Klem",
+            "time": "2017-03-21T12:00:00.000Z",
+            "message": "Owner\n\nHi Brian, \n\nI am the owner of the Prosource Group. My recruiter Veronica emailed with you regarding a senior AWS leader role. I would like to share every possible detail that we have. We are an exclusive vendor for our client and I am more than glad to give you all the information you need to see if you are interested.\n\nLet me know if you have time on Tuesday.\nThanks,\nLance\n\nLance Klem\n949-278-0337 | lklem@theprosourcegroup.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-21T00:27:00.000Z",
+            "message": "What do you want to solve that you think AWS can help with?\n"
+        },
+        {
+            "from": "Lance Klem",
+            "time": "2017-03-21T00:37:00.000Z",
+            "message": "The way the Sr Director explained it to me was \"due to the Petabytes of information we have to store and keep secure, AWS is the solution that makes the most sense for our growing organization.\"\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-21T01:06:00.000Z",
+            "message": "I'd like to set up a phone call. If I can't help then the owner of quiltdata definitely can. He's very familiar with AWS as well if you are open to contract work. What format is the data in? Does your director have an idea of what encryption scheme he would use?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-21T03:46:00.000Z",
+            "message": "http://docs.aws.amazon.com/AmazonS3/latest/dev/serv-side-encryption.html\n"
+        },
+        {
+            "from": "Lance Klem",
+            "time": "2017-03-21T17:46:00.000Z",
+            "message": "Thanks Brian. Can you get on the phone with me tomorrow morning for a brief call at 8:30am?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-21T18:30:00.000Z",
+            "message": "Yeah that should work 4804660856\n"
+        },
+        {
+            "from": "Lance Klem",
+            "time": "2017-03-22T15:19:00.000Z",
+            "message": "Brian,\nGood morning. I am headed into the doctor and will not be able to make our call. Do you have time Thursday morning? Whatever works best for you.\nThanks for understanding.\nLance\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-22T15:40:00.000Z",
+            "message": "Thursday works, I hope you feel better soon!\n"
+        },
+        {
+            "from": "Lance Klem",
+            "time": "2017-03-23T15:12:00.000Z",
+            "message": "BRian,\nThis is the job description for our call.\n\nTasks and Responsibilities: \nThe Software Engineer that fills this role will be responsible for the development, testing, debugging and support of software related to our client’s core platform technology which processes and queries data in extremely large-scale database (petabytes). The candidate must be conscientious, detail oriented and be dedicated to seeing tasks through to completion. Above all, the candidate must have a passion for learning and technology.\n\nRequired Skills and Experience: \n•\tCandidates must have 4+ years of professional software development experience\n•\tB.S. in Computer Science or a related field\n•\tCandidates must have a very high proficiency with at least one strongly typed language (such as Scala, Java or C#) and a dynamic scripting language like Python\n•\tProficiency in JavaScript, Node.js, AngularJS, Bootstrap and the building of RESTful API\n•\tRelational databases (in particular, PostgreSQL)\n•\tAlgorithm design/development, and data structure\n•\tExperience with a version control system such as GIT or experience with TFS\n•\tHands-on experience in software QA and unit testing\n•\tCandidates must possess excellent communication skills across technical and non-technical domains\n•\tCandidates must be self-motivated and possess a “can do” attitude\n\nPreferred Qualifications: \n•\tExperience with Linux OS\n•\tExperience in DevOps processes and CI/CD management tools\n•\tExperience with AWS cloud infrastructure\n•\tExperience with scrum software development framework\n•\tFamiliar with software containerization using Docker and programming of distributed systems\n"
+        },
+        {
+            "from": "Lance Klem",
+            "time": "2017-03-23T15:12:00.000Z",
+            "message": "http://www.humanlongevity.com/\nHere is our clients website\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-23T15:55:00.000Z",
+            "message": "Phone rebooted, sorry\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-23T15:55:00.000Z",
+            "message": "Want to call back, my phone didn't even store the number. Most annoying UX bug ever. Holding a button accidentally shuts down the phone.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-23T16:16:00.000Z",
+            "message": "I can't access that URL, it comes up blank.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-23T16:16:00.000Z",
+            "message": "nvm, it doesn't come up with adblocker turned on\n"
+        }
+    ]
+}

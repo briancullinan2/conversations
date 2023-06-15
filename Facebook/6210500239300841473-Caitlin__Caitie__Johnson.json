@@ -1,0 +1,54 @@
+{
+    "thread": "/messaging/thread/6210500239300841473/",
+    "participants": [
+        {
+            "name": "Caitlin (Caitie) Johnson",
+            "title": "Staffing Solutions Manager at ABS Technology",
+            "url": "linkedin.com/in/caitlin-johnson-a2a66050",
+            "phone": "7574192215 (Work)",
+            "email": "cjohnson@abstechnology.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "You're a genius!\n",
+            "time": "2017-12-02T17:10:00.000Z"
+        },
+        {
+            "from": "Caitlin Johnson",
+            "message": "No, you're a genius! \n\nActually, I have a genius idea. It surrounds a new Software Engineering opportunity and discussing your interest level.\n",
+            "time": "2017-12-02T20:44:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "What company and how much?\n",
+            "time": "2017-12-02T21:21:00.000Z"
+        },
+        {
+            "from": "Caitlin Johnson",
+            "message": "With us, ABS Technology, and up to 95/hr\n",
+            "time": "2017-12-02T21:27:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "That sounds good!\n",
+            "time": "2017-12-02T21:31:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Can you email me the role and I'll send you my updated resume?\n",
+            "time": "2017-12-02T21:31:00.000Z"
+        },
+        {
+            "from": "Caitlin Johnson",
+            "message": "Sure no problem, what is the best email address for you?\n",
+            "time": "2017-12-05T14:32:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Megamindbrian@gmail.com\n",
+            "time": "2017-12-05T15:14:00.000Z"
+        }
+    ]
+}

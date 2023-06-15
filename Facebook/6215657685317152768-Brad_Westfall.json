@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6215657685317152768/",
+    "participants": [
+        {
+            "name": "Brad Westfall",
+            "title": "Lead Engineer (JavaScript) at Smart Clinic",
+            "url": "linkedin.com/in/bradwestfallazpixels",
+            "phone": "",
+            "email": "brad@azpixels.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-12-16T22:44:00.000Z"
+        },
+        {
+            "from": "Brad Westfall",
+            "message": "Of course!",
+            "time": "2017-12-17T05:02:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "What does azpixels do?",
+            "time": "2017-12-21T16:35:00.000Z"
+        },
+        {
+            "from": "Brad Westfall",
+            "message": "Sorry, Brian. I've been busy moving. I do web development",
+            "time": "2017-12-29T04:49:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Me too! Hope the move is going smoothly! Happy New year!",
+            "time": "2017-11-05T14:19:00.000Z"
+        },
+        {
+            "from": "Brad Westfall",
+            "message": "Happy New Year",
+            "time": "2017-11-05T23:42:00.000Z"
+        }
+    ]
+}

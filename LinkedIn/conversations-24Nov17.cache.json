@@ -1,0 +1,166 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "24Nov17",
+    "participants": "Sarah Marie | Founder | the BOUJ® > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Sarah Marie",
+        "url": "linkedin.com/in/thebouj",
+        "email": "bouj@thebouj.com",
+        "title": "Founder | the BOUJ®"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "HI Brian!\n\nI am looking for someone to complete a project started in Ruby on Rails. The Data Model portion is completed. Now I need the data connected to the ui/design, paypal integration and google maps integration. Let me know if you are interested and of course your rates.\n\nSarah",
+    "time": "2017-11-24T03:51:00.000Z",
+    "title": "Founder | the BOUJ®"
+  },
+  {
+    "type": "conversations",
+    "conversations": "24Nov17",
+    "participants": "Brian Cullinan | wizard > Sarah Marie | Founder | the BOUJ®",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Sarah Marie",
+        "url": "linkedin.com/in/thebouj",
+        "email": "bouj@thebouj.com",
+        "title": "Founder | the BOUJ®"
+      }
+    ],
+    "message": "Sounds fun! I'm a bit busy at the moment.",
+    "time": "2017-11-24T03:57:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "24Nov17",
+    "participants": "Brian Cullinan | wizard > Sarah Marie | Founder | the BOUJ®",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Sarah Marie",
+        "url": "linkedin.com/in/thebouj",
+        "email": "bouj@thebouj.com",
+        "title": "Founder | the BOUJ®"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-11-24T03:57:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "24Nov17",
+    "participants": "Sarah Marie | Founder | the BOUJ® > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Sarah Marie",
+        "url": "linkedin.com/in/thebouj",
+        "email": "bouj@thebouj.com",
+        "title": "Founder | the BOUJ®"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Thank you for connecting as well!",
+    "time": "2017-11-24T04:10:00.000Z",
+    "title": "Founder | the BOUJ®"
+  },
+  {
+    "type": "conversations",
+    "conversations": "24Nov17",
+    "participants": "Paul Yates | Agile Product Owner & Product Development Consultant > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Paul Yates",
+        "url": "linkedin.com/in/paulgyates",
+        "phone": "3107397282 (Mobile)",
+        "email": "paulgustavyates@gmail.com",
+        "title": "Agile Product Owner & Product Development Consultant"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Big thanksgiving dinner in AZ tomorrow?",
+    "time": "2017-11-24T01:49:00.000Z",
+    "title": "Agile Product Owner & Product Development Consultant"
+  },
+  {
+    "type": "conversations",
+    "conversations": "24Nov17",
+    "participants": "Brian Cullinan | wizard > Paul Yates | Agile Product Owner & Product Development Consultant",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Paul Yates",
+        "url": "linkedin.com/in/paulgyates",
+        "phone": "3107397282 (Mobile)",
+        "email": "paulgustavyates@gmail.com",
+        "title": "Agile Product Owner & Product Development Consultant"
+      }
+    ],
+    "message": "Going to see family in Charleston.",
+    "time": "2017-11-24T01:55:00.000Z",
+    "title": "wizard"
+  }
+]

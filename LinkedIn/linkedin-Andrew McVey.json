@@ -1,0 +1,481 @@
+[
+    {
+        "resourceName": "people/c1647651638660993661",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgxlZ3BSUTk2aWR1TT0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "16dda26f8bfa927d"
+                    }
+                },
+                "displayName": "Andrew McVey",
+                "familyName": "McVey",
+                "givenName": "Andrew",
+                "displayNameLastFirst": "McVey, Andrew"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "115893590966315208678"
+                    }
+                },
+                "displayName": "Andrew McVey",
+                "familyName": "McVey",
+                "givenName": "Andrew",
+                "displayNameLastFirst": "McVey, Andrew"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "16dda26f8bfa927d"
+                    }
+                },
+                "value": "asmcvey@gmail.com",
+                "type": "home",
+                "formattedType": "Home"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "16dda26f8bfa927d"
+                    }
+                },
+                "value": "+1-480-444-9065",
+                "canonicalForm": "+14804449065",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "19 Mutual Connections",
+                "You and Andrew both know Steve McVey, Stephen Gaerig, and 17 others"
+            ],
+            [
+                "You both studied at Northern Arizona University",
+                "You both studied at Northern Arizona University from 2008 to 2010"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Line Cook",
+                "Company Name",
+                "Jackrabbit Restaurant",
+                "Dates Employed",
+                "Mar 2017 – Jul 2017",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "Portland, Oregon Area"
+            ],
+            [
+                "Cook",
+                "Company Name",
+                "Marriott Hotels",
+                "Dates Employed",
+                "Aug 2016 – Mar 2017",
+                "Employment Duration",
+                "8 mos",
+                "Location",
+                "Portland Downtown Waterfront"
+            ],
+            [
+                "Cook",
+                "Company Name",
+                "Clarklewis Restaurant",
+                "Dates Employed",
+                "Jun 2016 – Mar 2017",
+                "Employment Duration",
+                "10 mos",
+                "Location",
+                "Portland, Oregon Area",
+                "Line Cook"
+            ],
+            [
+                "Banquet Kitchen Supervisor",
+                "Company Name",
+                "Omni Hotels & Resorts",
+                "Dates Employed",
+                "2013 – 2016",
+                "Employment Duration",
+                "3 yrs",
+                "Location",
+                "Nashville",
+                "•\tPosition: Cook 2 – Cook 1 – Lead Cook – Banquet Kitchen Supervisor •\tGained and implemented leadership skills while teaching team members•\tSupervised daily tasks including: Fire Times, Organizing coolers and speed racks, Scheduling, Food Costing, Ordering, Purchasing and Receiving, Eco Sure and Sanitation, Time Management, and Serving•\tSolved critical problems with guests, associates and equipment•\tAttended Pre Con, BEO, and Daily Standup meetings,•\tEmployed efficient preparations and processes in order to set up and complete orders•\tMaintained constant awareness of employees and resources while completing  my own tasks•\tGained knowledge of allergies and dietary restrictions"
+            ],
+            [
+                "Cook",
+                "Company Name",
+                "Hilton Worldwide",
+                "Dates Employed",
+                "Mar 2012 – Jun 2013",
+                "Employment Duration",
+                "1 yr 4 mos",
+                "Location",
+                "Carefree Arizona",
+                "•\tExperienced at comprehending and implementing custom Banquet Event Orders•\tUtilized necessary skills in the areas of ordering, purchasing and receiving, food costs, time management, multitasking, methods of producing food and serving the guests•\tExposed to a variety of cross training experiences•\tTrained coworkers on correct procedures and efficient processes"
+            ],
+            [
+                "Cook",
+                "Company Name",
+                "Benedict's Cafe and Catering",
+                "Dates Employed",
+                "May 2010 – Jun 2013",
+                "Employment Duration",
+                "3 yrs 2 mos",
+                "Location",
+                "Phoenix Arizona",
+                "•\tHired as a Chef’s Assistant•\tPrepared short orders and catering orders•\tLearned basic skills such as searing, roasting, sautéing, frying, and baking."
+            ],
+            [
+                "Cook",
+                "Company Name",
+                "Wolfley's Neighborhood Grill",
+                "Dates Employed",
+                "May 2011 – Aug 2011",
+                "Employment Duration",
+                "4 mos",
+                "Location",
+                "Phoenix, Arizona",
+                "•\tHired as a Line Cook, Expeditor•\tPrepared short orders using micros technology•\tExpedited orders and garnished dishes•\tKept food quality standards, cleanliness standards, and time-temperature standards"
+            ],
+            [
+                "Food Runner/Busser",
+                "Company Name",
+                "Fairmont Hotels & Resorts/Stone Rose Lounge",
+                "Dates Employed",
+                "May 2009 – Aug 2009",
+                "Employment Duration",
+                "4 mos",
+                "Location",
+                "Phoenix, Arizona",
+                "•\tExpedited and delivered finished plates to poolside guests.•\tStocked the barware and glassware, delivered food to bar customers, cleared dishes, completed appropriate side work, and maintained cleanliness of the bar."
+            ],
+            [
+                "Food Runner",
+                "Company Name",
+                "Marriott International",
+                "Dates Employed",
+                "May 2007 – Aug 2008",
+                "Employment Duration",
+                "1 yr 4 mos",
+                "•\tExpedited and delivered 100-300 covers a night. •\tFacilitated communication between the kitchen and the servers, regulated and prepared the par stocks, garnished and finished dishes, and performed all relevant side work."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Hotel and Restaurant Management",
+                "Dates attended or expected graduation",
+                "2008 – 2012",
+                "Activities and Societies:",
+                "Jazz Band",
+                "School of Hotel and Restaurant Management, GPA: 3.5Dean’s list Relevant courses:Food Systems Management – advanced kitchen protocols, sanitation, cleanliness, organization, and time/temperature abusesCommercial Food Service – description of food history, recipes and techniques Food and Beverage Cost Control – concepts and strategies for managing food costPurchasing – in depth on buying, shipping, receiving, storing, and food costRevenue Management – advanced hotel and restaurant marketing and accounting"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Hotel and Restaurant Management",
+                "Dates attended or expected graduation",
+                "2008 – 2012",
+                "Activities and Societies:",
+                "Jazz Band",
+                "School of Hotel and Restaurant Management, GPA: 3.5Dean’s list Relevant courses:Food Systems Management – advanced kitchen protocols, sanitation, cleanliness, organization, and time/temperature abusesCommercial Food Service – description of food history, recipes and techniques Food and Beverage Cost Control – concepts and strategies for managing food costPurchasing – in depth on buying, shipping, receiving, storing, and food costRevenue Management – advanced hotel and restaurant marketing and accounting"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science (B.S.)",
+                "Field Of Study",
+                "Hotel and Restaurant Management",
+                "Dates attended or expected graduation",
+                "2008 – 2012",
+                "School of Hotel and Restaurant Management, GPA: 3.5Dean’s list Relevant courses:Food Systems Management – advanced kitchen protocols, sanitation, cleanliness, organization, and time/temperature abusesCommercial Food Service – description of food history, recipes and techniques Food and Beverage Cost Control – concepts and strategies for managing food costPurchasing – in depth on buying, shipping, receiving, storing, and food costRevenue Management – advanced hotel and restaurant marketing and accounting"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science (B.S.)",
+                "Field Of Study",
+                "Hotel and Restaurant Management",
+                "Dates attended or expected graduation",
+                "2008 – 2012",
+                "School of Hotel and Restaurant Management, GPA: 3.5Dean’s list Relevant courses:Food Systems Management – advanced kitchen protocols, sanitation, cleanliness, organization, and time/temperature abusesCommercial Food Service – description of food history, recipes and techniques Food and Beverage Cost Control – concepts and strategies for managing food costPurchasing – in depth on buying, shipping, receiving, storing, and food costRevenue Management – advanced hotel and restaurant marketing and accounting"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Hilton",
+                "560,463 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Omni Hotels & Resorts",
+                "38,158 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,807 followers"
+            ],
+            [
+                "Marriott Hotels",
+                "115,134 followers"
+            ],
+            [
+                "See connections (60)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Hilton",
+                "560,463 followers"
+            ],
+            [
+                "Hilton",
+                "560,463 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Omni Hotels & Resorts",
+                "38,158 followers"
+            ],
+            [
+                "Omni Hotels & Resorts",
+                "38,158 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,807 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,807 followers"
+            ],
+            [
+                "Marriott Hotels",
+                "115,134 followers"
+            ],
+            [
+                "Marriott Hotels",
+                "115,134 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Catering",
+                "See 6 endorsements for Catering",
+                "6",
+                "Catering",
+                "Endorse",
+                "Endorsed by Chase McVey and 1 other mutual connection"
+            ],
+            [
+                "Catering",
+                "See 6 endorsements for Catering",
+                "6"
+            ],
+            [
+                "Banquets",
+                "See 5 endorsements for Banquets",
+                "5",
+                "Banquets",
+                "Endorse",
+                "Christine Conner and 4 connections have given endorsements for this skill"
+            ],
+            [
+                "Banquets",
+                "See 5 endorsements for Banquets",
+                "5"
+            ],
+            [
+                "Food and Beverage",
+                "See 2 endorsements for Food and Beverage",
+                "2",
+                "Food and Beverage",
+                "Endorse",
+                "Kevin A. Jones and 1 connection have given endorsements for this skill"
+            ],
+            [
+                "Food and Beverage",
+                "See 2 endorsements for Food and Beverage",
+                "2"
+            ],
+            [
+                "Restaurants",
+                "See 2 endorsements for Restaurants",
+                "2",
+                "Restaurants",
+                "Endorse"
+            ],
+            [
+                "Restaurants",
+                "See 2 endorsements for Restaurants",
+                "2"
+            ],
+            [
+                "Cooking",
+                "See 2 endorsements for Cooking",
+                "2",
+                "Cooking",
+                "Endorse"
+            ],
+            [
+                "Cooking",
+                "See 2 endorsements for Cooking",
+                "2"
+            ],
+            [
+                "Event Planning",
+                "See 1 endorsement for Event Planning",
+                "1",
+                "Event Planning",
+                "Endorse"
+            ],
+            [
+                "Event Planning",
+                "See 1 endorsement for Event Planning",
+                "1"
+            ],
+            [
+                "Customer Service",
+                "See 1 endorsement for Customer Service",
+                "1",
+                "Customer Service",
+                "Endorse"
+            ],
+            [
+                "Customer Service",
+                "See 1 endorsement for Customer Service",
+                "1"
+            ],
+            [
+                "Hospitality Management",
+                "See 1 endorsement for Hospitality Management",
+                "1",
+                "Hospitality Management",
+                "Endorse"
+            ],
+            [
+                "Hospitality Management",
+                "See 1 endorsement for Hospitality Management",
+                "1"
+            ],
+            [
+                "Hospitality",
+                "See 1 endorsement for Hospitality",
+                "1",
+                "Hospitality",
+                "Endorse"
+            ],
+            [
+                "Hospitality",
+                "See 1 endorsement for Hospitality",
+                "1"
+            ],
+            [
+                "Management",
+                "See 1 endorsement for Management",
+                "1",
+                "Management",
+                "Endorse"
+            ],
+            [
+                "Management",
+                "See 1 endorsement for Management",
+                "1"
+            ],
+            [
+                "Hospitality Industry",
+                "See 1 endorsement for Hospitality Industry",
+                "1",
+                "Hospitality Industry",
+                "Endorse"
+            ],
+            [
+                "Hospitality Industry",
+                "See 1 endorsement for Hospitality Industry",
+                "1"
+            ],
+            [
+                "Time Management",
+                "Time Management",
+                "Endorse"
+            ],
+            [
+                "Time Management"
+            ],
+            [
+                "Food & Beverage",
+                "Food & Beverage",
+                "Endorse"
+            ],
+            [
+                "Food & Beverage"
+            ],
+            [
+                "Hotel and Restaurant Management",
+                "See 2 endorsements for Hotel and Restaurant Management",
+                "2",
+                "Hotel and Restaurant Management",
+                "Endorse"
+            ],
+            [
+                "Hotel and Restaurant Management",
+                "See 2 endorsements for Hotel and Restaurant Management",
+                "2"
+            ]
+        ],
+        "summary": "",
+        "name": "Andrew McVey",
+        "title": "Hospitality Professional",
+        "url": "linkedin.com/in/andrew-mcvey-79809a64",
+        "phone": "(480)444-9065 (Mobile)",
+        "email": "asmcvey@gmail.com"
+    }
+]

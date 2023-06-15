@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6291369276758589440/",
+    "participants": [
+        {
+            "name": "Jerimey Braley",
+            "title": "Division Director IT Recruiting at SaleStart, LLC",
+            "url": "linkedin.com/in/jerimey-braley-7861161",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Jerimey Braley",
+            "time": "2017-07-13T12:00:00.000Z",
+            "message": "Full Stack Developers Needed\n\nHi Brian, \n\nI noticed your profile and wanted to send a quick note checking on your status. The reason is, I'm working with a well-established (healthcare) client that's looking to hire a number of full stack developers. These are permanent roles and I have copied the details below. Roles range from Jr-Principal level and the pay is commensurate with experience.\n\nI'm not sure if the timing is right but if you're open to exploring new opportunities, I would appreciate the chance to discuss this with you.\n\nCharacter & Abilities\nBe a thoughtful do-er. It’s not enough to be insightful; regularly get your hands dirty with a can-do attitude.\nCollaborate, pair, and extreme program with your peers. Fill white-boards with next-generation architecture and solutions.\nBe flexible. Be willing to throw something away, take it back out of the trash can, and crumple it back up again as we learn more about the solution space.\nKeep learning and be intellectually curious. Technology is a race and we need marathon runners here.\nOwn your solution from soup to nuts to tailing a log on the production server.\n\nRequired\nBachelor’s degree in science, technology, engineering, or math; or commensurate work experience.\nProfessional development experience writing applications in Java or Python; or related Object Oriented language.\nExperience with full-stack web application development (e.g. AJAX calls to web server to database).\nExperience hitting the command line and remoting into multiple distinct systems to troubleshoot problems.\nExperience working in a team setting using source control technologies (e.g. Git, SVN).\nExperience using testing frameworks (unit, integration, functional).\n\nThanks for your time,\n\nJerimey Braley\nDivision Director IT Recruiting at SaleStart, LLC\n339-298-9515 | jerimey_braley@yahoo.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-13T20:58:00.000Z",
+            "message": "Healthcare is a mess.\n"
+        },
+        {
+            "from": "Jerimey Braley",
+            "time": "2017-07-13T21:00:00.000Z",
+            "message": "True. This is a little different though. Our client provides SAAS based solution that healthcare organizations use.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-13T21:00:00.000Z",
+            "message": "What company?\n"
+        }
+    ]
+}

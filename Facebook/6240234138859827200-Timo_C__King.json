@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6240234138859827200/",
+    "participants": [
+        {
+            "name": "Timo C. King",
+            "title": "IT Recruiter Team Lead at MATRIX Resources",
+            "url": "linkedin.com/in/timocoleking",
+            "phone": "8117813969 (Mobile)",
+            "email": "Timo.King@matrixres.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Timo C. King",
+            "time": "2018-02-22T12:00:00.000Z",
+            "message": "Brian - DevOps - Work with Matrix!\n\nHi Brian, \n\nI see you are interested in new opportunities.\n\nI have job opportunity as a DevOps Engineer with one of our clients.\n\nCould you give me a few minutes of your time to talk about it?}\n\nGive me a call or give me a number to call.\n\nRegards,\n\nTimo C. King\n8117813969 | timocoleking@gmail.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-22T18:25:00.000Z",
+            "message": "What company?\n"
+        },
+        {
+            "from": "Timo C. King",
+            "time": "2018-02-22T18:30:00.000Z",
+            "message": "Arizona Department of Education\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-22T18:40:00.000Z",
+            "message": "Waste of time. I've already been submitted and they never responded.\n"
+        },
+        {
+            "from": "Timo C. King",
+            "time": "2018-02-22T18:52:00.000Z",
+            "message": "Hey Brian, so this is a new role that came out today, it might be with different managers. There are many variables that could explain why they never called you. I would like to just talk with you a few minutes to get a feel for what you are looking for as we do have many other clients out there or who knows, you might know someone that needs a job atm. We pay $500 USD referral fees for any hires. What time can I call you?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-22T18:54:00.000Z",
+            "message": "Do you know anyone that likes Nodejs? I have a contract job for them 60/hr.\n"
+        }
+    ]
+}

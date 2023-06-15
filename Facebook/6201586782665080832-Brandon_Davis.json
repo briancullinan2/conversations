@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6201586782665080832/",
+    "participants": [
+        {
+            "name": "Brandon Davis",
+            "title": "Gameplay QA Manager at Riot Games",
+            "url": "linkedin.com/in/brandon-davis-50a698a4",
+            "phone": null,
+            "email": "rokudan217@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting. You look like a genius!\n",
+            "time": "2017-11-08T02:51:00.000Z"
+        },
+        {
+            "from": "Brandon Davis",
+            "message": "Thank you! NAU seems so far away at this point. What makes you say I look like a genius?!\n",
+            "time": "2017-11-17T01:45:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I think everyone is a genius they just haven't realized it.\n",
+            "time": "2017-11-17T01:47:00.000Z"
+        }
+    ]
+}

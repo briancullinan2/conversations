@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6214550188841848832/",
+    "participants": [
+        {
+            "name": "Jeff Rozner",
+            "title": "Serial Entrepreneur",
+            "url": "linkedin.com/in/jeff-rozner-b8320",
+            "phone": "330 338 0495 (Mobile)",
+            "email": "jeffrozner@hotmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-13T21:23:00.000Z"
+        },
+        {
+            "from": "Jeff Rozner",
+            "message": "sure, how are things?\n",
+            "time": "2017-12-13T21:25:00.000Z"
+        },
+        {
+            "from": "Jeff Rozner",
+            "message": "interesting projects going on?\n",
+            "time": "2017-12-13T21:25:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Working on a meditation website. Thesosmethod.com\n",
+            "time": "2017-12-13T22:15:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "How about you?\n",
+            "time": "2017-12-13T22:15:00.000Z"
+        }
+    ]
+}

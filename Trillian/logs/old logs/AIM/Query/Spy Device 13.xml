@@ -1,0 +1,4 @@
+<session type="start" time="1116634230" medium="AIM" to="Spy%20Device%2013" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1116634230" medium="AIM" to="BrianJCullinan" from="Spy%20Device%2013" from_display="Spy%20Device%2013" text="mom%27s%20calling%20you%20"/>
+<message type="outgoing_privateMessage" time="1116634243" medium="AIM" to="Spy%20Device%2013" from="BrianJCullinan" from_display="Me" text="ok"/>
+<session type="stop" time="1116634393" medium="AIM" to="Spy%20Device%2013" from="BrianJCullinan"/>

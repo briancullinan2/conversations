@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6220996846144286720/",
+    "participants": [
+        {
+            "name": "Alexander Schwarz",
+            "title": "General Manager Germany, Austria, Switzerland at Airbnb",
+            "url": "linkedin.com/in/alexander-schwarz-66354a46",
+            "phone": "",
+            "email": "alexander.j.schwarz@googlemail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-12-31T16:20:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-06T14:39:00.000Z",
+            "message": "Happy birthday!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-06T14:39:00.000Z",
+            "message": "Do you believe in coincidence?\n"
+        }
+    ]
+}

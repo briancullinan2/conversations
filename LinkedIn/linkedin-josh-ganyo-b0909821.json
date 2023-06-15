@@ -1,0 +1,684 @@
+[
+    {
+        "resourceName": "people/c5592340757241311039",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMOE9lQWkrWkNjYms9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "4d9bfc4a0a4eaf3f"
+                    }
+                },
+                "displayName": "Josh Ganyo",
+                "familyName": "Ganyo",
+                "givenName": "Josh",
+                "displayNameLastFirst": "Ganyo, Josh"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "4d9bfc4a0a4eaf3f"
+                    }
+                },
+                "value": "+1-928-550-1174",
+                "canonicalForm": "+19285501174",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "5 Mutual Connections",
+                "You and josh both know Perry Jonkheer, David McArthur, and 3 others"
+            ],
+            [
+                "You both worked at Charles Schwab",
+                "You both worked at Charles Schwab from Nov 2016 to Feb 2017"
+            ],
+            [
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Sr. Datacenter Engineer",
+                "Company Name",
+                "Charles Schwab",
+                "Dates Employed",
+                "Jan 2014 – Present",
+                "Employment Duration",
+                "3 yrs 11 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "Enterprise Systems Engineer III",
+                "Company Name",
+                "Kingman Regional Medical Center",
+                "Dates Employed",
+                "Jan 2013 – Jan 2014",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "Kingman, AZ",
+                "Lead storage, VMware and CommVault backup engineer."
+            ],
+            [
+                "Network Engineer II",
+                "Company Name",
+                "Kingman Regional Medical Center",
+                "Dates Employed",
+                "Sep 2010 – Jan 2013",
+                "Employment Duration",
+                "2 yrs 5 mos",
+                "Lead for storage, virtualization, backup and security."
+            ],
+            [
+                "IT Network Security Manger",
+                "Company Name",
+                "Mohave Community College",
+                "Dates Employed",
+                "Jan 2010 – Sep 2010",
+                "Employment Duration",
+                "9 mos",
+                "Security and Network administration, policy development and process design."
+            ],
+            [
+                "Web Developer II",
+                "Company Name",
+                "SungardHE",
+                "Dates Employed",
+                "Jan 2006 – Jan 2009",
+                "Employment Duration",
+                "3 yrs 1 mo",
+                "Web design, CMS development, PHP, .Net, CGI and Perl development. Portal install and development, interface design, project planning and implementation testing. Single Sign on implementation and Oracle/MS SQL management."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of Phoenix",
+                "Degree Name",
+                "AS",
+                "Field Of Study",
+                "Business Administration and Management, General",
+                "Dates attended or expected graduation",
+                "2010 – 2011"
+            ],
+            [
+                "University of Phoenix",
+                "Degree Name",
+                "AS",
+                "Field Of Study",
+                "Business Administration and Management, General",
+                "Dates attended or expected graduation",
+                "2010 – 2011"
+            ],
+            [
+                "Kingman High School",
+                "Degree Name",
+                "High School Diploma",
+                "Dates attended or expected graduation",
+                "1996 – 2000"
+            ],
+            [
+                "Kingman High School",
+                "Degree Name",
+                "High School Diploma",
+                "Dates attended or expected graduation",
+                "1996 – 2000"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Cloud Computing, SaaS & Virtualization",
+                "488,358 members"
+            ],
+            [
+                "Charles Schwab",
+                "104,670 followers"
+            ],
+            [
+                "Kingman Regional Medical Center",
+                "1,551 followers"
+            ],
+            [
+                "The Virtualization & Cloud Computing Group",
+                "108,445 members"
+            ],
+            [
+                "University of Phoenix",
+                "788,160 followers"
+            ],
+            [
+                "University of Phoenix",
+                "842,163 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (123)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Cloud Computing, SaaS & Virtualization",
+                "488,358 members"
+            ],
+            [
+                "Cloud Computing, SaaS & Virtualization",
+                "488,358 members"
+            ],
+            [
+                "Charles Schwab",
+                "104,670 followers"
+            ],
+            [
+                "Charles Schwab",
+                "104,670 followers"
+            ],
+            [
+                "Kingman Regional Medical Center",
+                "1,551 followers"
+            ],
+            [
+                "Kingman Regional Medical Center",
+                "1,551 followers"
+            ],
+            [
+                "The Virtualization & Cloud Computing Group",
+                "108,445 members"
+            ],
+            [
+                "The Virtualization & Cloud Computing Group",
+                "108,445 members"
+            ],
+            [
+                "University of Phoenix",
+                "788,160 followers"
+            ],
+            [
+                "University of Phoenix",
+                "788,160 followers"
+            ],
+            [
+                "University of Phoenix",
+                "842,163 followers"
+            ],
+            [
+                "University of Phoenix",
+                "842,163 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Security",
+                "See 21 endorsements for Security",
+                "21",
+                "Security",
+                "Endorse",
+                "Endorsed by Zach Mitchell and 1 other mutual connection",
+                "Endorsed by 3 of josh’s colleagues at Charles Schwab"
+            ],
+            [
+                "Security",
+                "See 21 endorsements for Security",
+                "21"
+            ],
+            [
+                "SQL",
+                "See 18 endorsements for SQL",
+                "18",
+                "SQL",
+                "Endorse",
+                "Endorsed by Zach Mitchell (mutual connection)",
+                "Endorsed by 6 of josh’s colleagues at Kingman Regional Medical Center"
+            ],
+            [
+                "SQL",
+                "See 18 endorsements for SQL",
+                "18"
+            ],
+            [
+                "VMware",
+                "See 17 endorsements for VMware",
+                "17",
+                "VMware",
+                "Endorse",
+                "Endorsed by Zach Mitchell (mutual connection)",
+                "Endorsed by 3 of josh’s colleagues at Charles Schwab"
+            ],
+            [
+                "VMware",
+                "See 17 endorsements for VMware",
+                "17"
+            ],
+            [
+                "System Administration",
+                "See 16 endorsements for System Administration",
+                "16",
+                "System Administration",
+                "Endorse"
+            ],
+            [
+                "System Administration",
+                "See 16 endorsements for System Administration",
+                "16"
+            ],
+            [
+                "Active Directory",
+                "See 14 endorsements for Active Directory",
+                "14",
+                "Active Directory",
+                "Endorse"
+            ],
+            [
+                "Active Directory",
+                "See 14 endorsements for Active Directory",
+                "14"
+            ],
+            [
+                "Troubleshooting",
+                "See 13 endorsements for Troubleshooting",
+                "13",
+                "Troubleshooting",
+                "Endorse"
+            ],
+            [
+                "Troubleshooting",
+                "See 13 endorsements for Troubleshooting",
+                "13"
+            ],
+            [
+                "Data Center",
+                "See 13 endorsements for Data Center",
+                "13",
+                "Data Center",
+                "Endorse"
+            ],
+            [
+                "Data Center",
+                "See 13 endorsements for Data Center",
+                "13"
+            ],
+            [
+                "Databases",
+                "See 10 endorsements for Databases",
+                "10",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 10 endorsements for Databases",
+                "10"
+            ],
+            [
+                "Networking",
+                "See 10 endorsements for Networking",
+                "10",
+                "Networking",
+                "Endorse"
+            ],
+            [
+                "Networking",
+                "See 10 endorsements for Networking",
+                "10"
+            ],
+            [
+                "Software Documentation",
+                "See 8 endorsements for Software Documentation",
+                "8",
+                "Software Documentation",
+                "Endorse"
+            ],
+            [
+                "Software Documentation",
+                "See 8 endorsements for Software Documentation",
+                "8"
+            ],
+            [
+                "Network Security",
+                "See 8 endorsements for Network Security",
+                "8",
+                "Network Security",
+                "Endorse"
+            ],
+            [
+                "Network Security",
+                "See 8 endorsements for Network Security",
+                "8"
+            ],
+            [
+                "Network Administration",
+                "See 7 endorsements for Network Administration",
+                "7",
+                "Network Administration",
+                "Endorse"
+            ],
+            [
+                "Network Administration",
+                "See 7 endorsements for Network Administration",
+                "7"
+            ],
+            [
+                "Access",
+                "See 6 endorsements for Access",
+                "6",
+                "Access",
+                "Endorse"
+            ],
+            [
+                "Access",
+                "See 6 endorsements for Access",
+                "6"
+            ],
+            [
+                "Project Management",
+                "See 6 endorsements for Project Management",
+                "6",
+                "Project Management",
+                "Endorse"
+            ],
+            [
+                "Project Management",
+                "See 6 endorsements for Project Management",
+                "6"
+            ],
+            [
+                "Help Desk Support",
+                "See 5 endorsements for Help Desk Support",
+                "5",
+                "Help Desk Support",
+                "Endorse"
+            ],
+            [
+                "Help Desk Support",
+                "See 5 endorsements for Help Desk Support",
+                "5"
+            ],
+            [
+                "Microsoft Office",
+                "See 5 endorsements for Microsoft Office",
+                "5",
+                "Microsoft Office",
+                "Endorse"
+            ],
+            [
+                "Microsoft Office",
+                "See 5 endorsements for Microsoft Office",
+                "5"
+            ],
+            [
+                "HTML",
+                "See 4 endorsements for HTML",
+                "4",
+                "HTML",
+                "Endorse"
+            ],
+            [
+                "HTML",
+                "See 4 endorsements for HTML",
+                "4"
+            ],
+            [
+                "CSS",
+                "See 3 endorsements for CSS",
+                "3",
+                "CSS",
+                "Endorse"
+            ],
+            [
+                "CSS",
+                "See 3 endorsements for CSS",
+                "3"
+            ],
+            [
+                "Higher Education",
+                "See 3 endorsements for Higher Education",
+                "3",
+                "Higher Education",
+                "Endorse"
+            ],
+            [
+                "Higher Education",
+                "See 3 endorsements for Higher Education",
+                "3"
+            ],
+            [
+                "Instructional Design",
+                "See 3 endorsements for Instructional Design",
+                "3",
+                "Instructional Design",
+                "Endorse"
+            ],
+            [
+                "Instructional Design",
+                "See 3 endorsements for Instructional Design",
+                "3"
+            ],
+            [
+                "Teaching",
+                "See 3 endorsements for Teaching",
+                "3",
+                "Teaching",
+                "Endorse"
+            ],
+            [
+                "Teaching",
+                "See 3 endorsements for Teaching",
+                "3"
+            ],
+            [
+                "Public Speaking",
+                "See 3 endorsements for Public Speaking",
+                "3",
+                "Public Speaking",
+                "Endorse"
+            ],
+            [
+                "Public Speaking",
+                "See 3 endorsements for Public Speaking",
+                "3"
+            ],
+            [
+                "Technical Writing",
+                "See 3 endorsements for Technical Writing",
+                "3",
+                "Technical Writing",
+                "Endorse"
+            ],
+            [
+                "Technical Writing",
+                "See 3 endorsements for Technical Writing",
+                "3"
+            ],
+            [
+                "Team Leadership",
+                "See 3 endorsements for Team Leadership",
+                "3",
+                "Team Leadership",
+                "Endorse"
+            ],
+            [
+                "Team Leadership",
+                "See 3 endorsements for Team Leadership",
+                "3"
+            ],
+            [
+                "SAN",
+                "See 3 endorsements for SAN",
+                "3",
+                "SAN",
+                "Endorse"
+            ],
+            [
+                "SAN",
+                "See 3 endorsements for SAN",
+                "3"
+            ],
+            [
+                "Disaster Recovery",
+                "See 3 endorsements for Disaster Recovery",
+                "3",
+                "Disaster Recovery",
+                "Endorse"
+            ],
+            [
+                "Disaster Recovery",
+                "See 3 endorsements for Disaster Recovery",
+                "3"
+            ],
+            [
+                "E-Learning",
+                "See 2 endorsements for E-Learning",
+                "2",
+                "E-Learning",
+                "Endorse"
+            ],
+            [
+                "E-Learning",
+                "See 2 endorsements for E-Learning",
+                "2"
+            ],
+            [
+                "NetApp",
+                "See 2 endorsements for NetApp",
+                "2",
+                "NetApp",
+                "Endorse"
+            ],
+            [
+                "NetApp",
+                "See 2 endorsements for NetApp",
+                "2"
+            ],
+            [
+                "Research",
+                "See 2 endorsements for Research",
+                "2",
+                "Research",
+                "Endorse"
+            ],
+            [
+                "Research",
+                "See 2 endorsements for Research",
+                "2"
+            ],
+            [
+                "Instructional Technology",
+                "See 2 endorsements for Instructional Technology",
+                "2",
+                "Instructional Technology",
+                "Endorse"
+            ],
+            [
+                "Instructional Technology",
+                "See 2 endorsements for Instructional Technology",
+                "2"
+            ],
+            [
+                "Student Affairs",
+                "See 2 endorsements for Student Affairs",
+                "2",
+                "Student Affairs",
+                "Endorse"
+            ],
+            [
+                "Student Affairs",
+                "See 2 endorsements for Student Affairs",
+                "2"
+            ],
+            [
+                "Technical Support",
+                "See 2 endorsements for Technical Support",
+                "2",
+                "Technical Support",
+                "Endorse"
+            ],
+            [
+                "Technical Support",
+                "See 2 endorsements for Technical Support",
+                "2"
+            ],
+            [
+                "vCloud",
+                "See 1 endorsement for vCloud",
+                "1",
+                "vCloud",
+                "Endorse"
+            ],
+            [
+                "vCloud",
+                "See 1 endorsement for vCloud",
+                "1"
+            ],
+            [
+                "Storage Area Networks",
+                "See 1 endorsement for Storage Area Networks",
+                "1",
+                "Storage Area Networks",
+                "Endorse"
+            ],
+            [
+                "Storage Area Networks",
+                "See 1 endorsement for Storage Area Networks",
+                "1"
+            ],
+            [
+                "VMware View",
+                "See 1 endorsement for VMware View",
+                "1",
+                "VMware View",
+                "Endorse"
+            ],
+            [
+                "VMware View",
+                "See 1 endorsement for VMware View",
+                "1"
+            ],
+            [
+                "Cisco UCS",
+                "Cisco UCS",
+                "Endorse"
+            ],
+            [
+                "Cisco UCS"
+            ]
+        ],
+        "summary": "",
+        "name": "josh ganyo",
+        "title": "Sr. Datacenter Engineer at Charles Schwab",
+        "url": "linkedin.com/in/josh-ganyo-b0909821",
+        "phone": "",
+        "email": "josh@joshganyo.com"
+    }
+]

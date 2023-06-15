@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6252207677804421120/",
+    "participants": [
+        {
+            "name": "Andrew Jones, CSP",
+            "title": "Delivery Manager at Softworld",
+            "url": "linkedin.com/in/ajonesy19",
+            "phone": null,
+            "email": "andrew.jones@softworldinc.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Andrew Jones, CSP",
+            "time": "2017-03-27T12:00:00.000Z",
+            "message": "Java Development Role (Contract), Scottsdale, AZ\n\nHi Brian, \n\nI wanted to reach out to you after I came across your resume online and noticed your lengthy full-stack Java development experience. I wasn't sure if you were actively looking at new jobs or not right now, but I was hoping you'd at least be open to listening. \n\nI'm working with a client of mine in Scottsdale, AZ who has a huge presence with IT in the Government industry. They are currently looking to add a Java Web Application Developer to their team on a contract-basis.\n\nRole: Java Web Application Developer\nContract - 6-12 Months +\nLocation: On-site, Scottsdale, AZ\nIndustry: Government\n**US Citizens required due to work with the Government; no clearances needed.\n\nResponsibilities:\nThis individual will code, enhance and maintain software applications used by business programs to facilitate the order management, manufacturing and shipment of product.\n\nThe Java Web Application Developer will be expected to lead the software development environment, including the generation of SW design documentation, user test cases and defect resolution.\n\nRequirements:\n- Extensive experience with Java (6, 7, 8) and J2EE development with web applications\n- Experience with Java technologies like JSON, JSP, JBoss, JUnit\n- Web development experience with JavaScript, jQuery, HTML, CSS, XML, Ajax\n- Database development / stored procedures experience with Oracle, SQL\n- Experience/exposure to SOAP/REST Web Services, Maven, Netbeans\n\nBonus Skills:\n- Experience with newer JavaScript frameworks like AngularJS\n- Working experience with Rational UTC\n\n\nPlease let me know when you might have some time to chat this week!\n\nThanks,\n\nAndrew Jones, CSP\n781-833-0233\nandrew.jones@softworldinc.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-27T19:51:00.000Z",
+            "message": "Sorry I don't do contracts because I don't want the hiring manager to think I am not a part of the team.\n"
+        },
+        {
+            "from": "Andrew Jones, CSP",
+            "time": "2017-03-27T20:28:00.000Z",
+            "message": "Hi Brian - understandable - although with this company (General Dynamics) almost everyone is a contractor; just how they work. There is the chance after 6-12 months they would be open to conversion to direct.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-27T21:02:00.000Z",
+            "message": "Can't win them all I suppose...\n"
+        }
+    ]
+}

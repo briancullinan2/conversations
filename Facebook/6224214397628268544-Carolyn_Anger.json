@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6224214397628268544/",
+    "participants": [
+        {
+            "name": "Carolyn Anger",
+            "title": "Founder at Fayte Marketing",
+            "url": "linkedin.com/in/carolynanger",
+            "phone": null,
+            "email": "carolyn@faytemarketing.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-09T13:25:00.000Z"
+        }
+    ]
+}

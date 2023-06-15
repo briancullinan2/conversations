@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6230410211388116992/",
+    "participants": [
+        {
+            "name": "Will Iverson",
+            "title": "CEO at Game Studio One",
+            "url": "linkedin.com/in/wiverson",
+            "phone": null,
+            "email": "wiverson@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-26T15:45:00.000Z"
+        }
+    ]
+}

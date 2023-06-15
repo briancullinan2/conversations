@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6222821668230885376/",
+    "participants": [
+        {
+            "name": "Jaime Martinez",
+            "title": "CEO at Schola",
+            "url": "linkedin.com/in/jaimemartinez260",
+            "phone": "6024653935 (Mobile)",
+            "email": "jaime@scholasolutions.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-05T17:11:00.000Z"
+        }
+    ]
+}

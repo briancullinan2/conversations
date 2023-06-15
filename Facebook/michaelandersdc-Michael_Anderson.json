@@ -1,0 +1,22 @@
+{
+    "thread": "https://www.facebook.com/messages/archived/t/michaelandersdc",
+    "participants": [
+        {
+            "name": "Michael Anderson",
+            "description": "Lives in Washington, District of Columbia",
+            "url": "https://www.facebook.com/michaelandersdc"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Michael",
+            "time": "2006-01-17T22:45:00.000Z",
+            "message": "\nhey what's up\r\njust thought i'd say hey, maybe you wanna hang out sometime.\r\nwell ttyl\r\nMike\nhey what's up\r\njust thought i'd say hey, maybe you wanna hang out sometime.\r\nwell ttyl\r\nMike\n\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2006-01-18T15:32:00.000Z",
+            "message": "Brian\nhey yeah we should definitely hang out sometime.\n"
+        }
+    ]
+}

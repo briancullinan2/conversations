@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6044205017164980224/",
+    "participants": [
+        {
+            "name": "Camille Sitto",
+            "title": "Technical Recruiter",
+            "url": "linkedin.com/in/camille-sitto-3a658b18",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Camille Sitto",
+            "message": "Networking\ncamille@greenrhinostaffing.com\ngreenrhinostaffing.com",
+            "time": "2015-08-31T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-10-06T00:17:00.000Z"
+        },
+        {
+            "from": "Camille Sitto",
+            "message": "camille@greenrhinostaffing.com\n<mailto:\ncamille@greenrhinostaffing.com\ngreenrhinostaffing.com\n<\nhttps://greenrhinostaffing-my.sharepoint.com/personal/lindsay_greenrhinostaffing_com/FormServerTemplates/greenrhinostaffing.com>\nhit-reply@linkedin.com\nhttps://www.linkedin.com/e/v2?e=10en3i-ieewapt1-66&t=nmp&midToken=AQGtr-eCpsWVuQ&ek=inmail_accepted>",
+            "time": "2017-10-06T18:22:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "My resume is fully detailed in my LinkedIn profile.  Little busy for a phone call, if your clients like what they see then we can talk more.",
+            "time": "2017-10-06T05:46:00.000Z"
+        }
+    ]
+}

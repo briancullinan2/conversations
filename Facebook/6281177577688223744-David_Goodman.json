@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6281177577688223744/",
+    "participants": [
+        {
+            "name": "David Goodman",
+            "title": "Engineering & Technology Recruiter at PDS Tech",
+            "url": "linkedin.com/in/david-goodman-a38b6776",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "David Goodman",
+            "time": "2017-06-15T12:00:00.000Z",
+            "message": "Re: Sr. Drupal Developer\n\nHi Brian, \n\nI found your profile on LinkedIn, and thought I'd reach out to network. You have a fantastic background in front end Drupal Development, and I thought you might know of someone with a similar background to yourself, who might be looking for a career move.\n\nPDS Tech is a national recruiting firm focused primarily on providing Technology talent to Aerospace and Government. \n\nIf there's anything I can do for you in return please let me know. I would love an opportunity to return the favor.\n\nBest wishes,\n\nDavid Goodman\n480.620.2744 | dgoodman@pdstech.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-11T22:34:00.000Z",
+            "message": "What is the position like?\n"
+        },
+        {
+            "from": "David Goodman",
+            "time": "2017-07-11T22:44:00.000Z",
+            "message": "It is very much like a position that closed weeks ago. Technically indistinguishable.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-11T22:45:00.000Z",
+            "message": "Hmm. Drupal isn't fun though... It's actually the opposite of fun. Hook systems suck.\n"
+        },
+        {
+            "from": "David Goodman",
+            "time": "2017-07-11T22:45:00.000Z",
+            "message": "In that case, you're in luck.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-11T22:46:00.000Z",
+            "message": "How?\n"
+        }
+    ]
+}

@@ -1,0 +1,430 @@
+[
+    {
+        "resourceName": "people/c5310942851590799527",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMa2RyeGRTdHBtNk09",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "49b442628b7840a7"
+                    }
+                },
+                "displayName": "Robert Haines",
+                "familyName": "Haines",
+                "givenName": "Robert",
+                "displayNameLastFirst": "Haines, Robert"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "49b442628b7840a7"
+                    }
+                },
+                "value": "(602) 882-6070",
+                "canonicalForm": "+16028826070",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "I had the privilege of working with Steve Forbes yesterday.  OK, I admit I was a  little intimidated.  It turns out that Steve is the most generous, kindest, down-to-earth business person I have meet in a long time.  I completely agreed with his political and business views and I especially loved wit.  I mostly appreciated the opportunity to learn from, Steve.",
+                "Robert commented"
+            ],
+            [
+                "I feel like there needs to be a new social network that does not allow ANY links or media sharing. Everything would be text. Period. That way, you'd actually foster real dialogue and not just spam media content.",
+                "Robert shared this"
+            ],
+            [
+                "What an honor to have Cardtapp recognized as the 11th fastest growing company in Washington.  This is a huge tribute to our entire team and everyone who has been involved since that first crazy day we decided to launch this company.  LFD!",
+                "Robert commented"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Customer Success Manager",
+                "Company Name",
+                "FrontSpin",
+                "Dates Employed",
+                "Mar 2016 – Present",
+                "Employment Duration",
+                "1 yr 8 mos",
+                "Location",
+                "Phoenix, Arizona",
+                "FrontSpin is the industry's leading-edge sales communication software and power dialer. Our innovative platform implements your playbooks across all touchpoints, helping you engage with up to 3x more prospects and customers in less time, closing more deals and accelerating sales.Core Responsibilities:• Product demos • Customer trainings • Manning trade show booths • Triaging day to day support inquiries"
+            ],
+            [
+                "Growth Advisor",
+                "Company Name",
+                "Tech Fabric",
+                "Dates Employed",
+                "Oct 2017 – Present",
+                "Employment Duration",
+                "1 mo",
+                "Location",
+                "Gilbert, AZ",
+                "Tech Fabric was created with a goal of helping solve complex business problems by building software applications that scale extremely well on demand and yet are very robust, fault-tolerant and secure. From innovative startups to large enterprises, our unparalleled expertise with the frameworks that are revolutionizing the industry make us the premier development team to help expand and execute your vision. With a highly technical team of Cloud experts, we are at the leading edge of the newest and rapidly evolving cloud technologies such as Microservices using Service Fabric, Docker, Kubernetes, Logic Apps, Azure Functions etc."
+            ],
+            [
+                "Growth Advisor",
+                "Company Name",
+                "Reztech",
+                "Dates Employed",
+                "Feb 2016 – Aug 2017",
+                "Employment Duration",
+                "1 yr 7 mos",
+                "Location",
+                "Tempe, AZ",
+                "Reztech is a Tempe, Arizona-based software development firm specialized in building cloud-based applications on the Microsoft Stack (.NET, C#, SQL Server, Azure, etc.) and mobile apps (iOS, Android). Key Highlights: • Strategically advised the CEO and team, implementing strategies that led to a nice 12x gain in annual revenue in just 18 months! • Acted as interim Director of Business Development, building out the sales process and team to support efficient growth."
+            ],
+            [
+                "Global Business Development / Partnership Curator",
+                "Company Name",
+                "Axosoft",
+                "Dates Employed",
+                "May 2015 – Dec 2015",
+                "Employment Duration",
+                "8 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "Axosoft provides award-winning Agile Project Management software (SaaS) to software development teams around the globe. Core Responsibilities: • This position was newly created and had never existed before at Axosoft, so my key challenge was to see if we could successfully create a Global Channel Partner Program for this SaaS. • I developed 4 key types of partnerships: Referral Partners, VAR Partners, Community Partners and Integration Partners. • I worked with US-based companies and International companies to develop relationships that would lead to indirect sales for Axosoft through those channel partners. • I worked internally to develop new sales and marketing materials, special promotions, webinars and initiatives aimed at growing and supporting these channel programs."
+            ],
+            [
+                "Director of Business Development",
+                "Company Name",
+                "Clarisoft Technologies",
+                "Dates Employed",
+                "Aug 2011 – May 2015",
+                "Employment Duration",
+                "3 yrs 10 mos",
+                "Location",
+                "7201 E. Camelback Rd. #320, Scottsdale, AZ 85251",
+                "Clarisoft provides custom software development services, building web-based platforms, mobile apps and specialized large-scale software systems. Career Highlights:• I was hired as Clarisoft's first ever full-time Director of Business Development, effectively becoming a sales and marketing team of one, working directly alongside the CEO. • As a sales and marketing team of one, I helped spur company growth by 70% in 2011, 80% in 2012, 50% in 2013, and by 80% again in 2014! All were record years for us and yes, I crushed my quotas ;-) • I successfully developed and implemented strategies that acquired us some very large and profitable clients, the largest of which were in the healthcare and financial services spaces. • When my CEO moved to NY to open our first expansion office, I took over the local Scottsdale office and managed it for a year, working alongside and managing the new folks I helped hire."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "DeVry University of Technology",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Computer Information Systems (CIS)",
+                "Grade",
+                "Graduated with honors (3.5 GPA)",
+                "Dates attended or expected graduation",
+                "1998 – 2001",
+                "Computer Information System (CIS)"
+            ],
+            [
+                "DeVry University of Technology",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Computer Information Systems (CIS)",
+                "Grade",
+                "Graduated with honors (3.5 GPA)",
+                "Dates attended or expected graduation",
+                "1998 – 2001",
+                "Computer Information System (CIS)"
+            ],
+            [
+                "Landmark Education",
+                "Degree Name",
+                "Landmark Curriculum for Living",
+                "Dates attended or expected graduation",
+                "2014 – 2014",
+                "Activities and Societies:",
+                "Landmark Forum, Landmark Seminar Program, Landmark Advanced Course, Landmark Assisting Program, Landmark Self-Expression and Leadership Program, Landmark Communications Program",
+                "I have completed my the following courses: Landmark Forum (Jan. 2014), Landmark Advanced Course (March 2014), Breakthroughs: Living Outside the Box Seminar Series (May 2014), Self-Expression and Leadership Program (June 2014), An Invented Life Seminar Series (Oct. 2014), Communication: Access to Power (Dec. 2014) and Communication: Power to Create (forgot the exact date). I am also in the Landmark Assisting Program and have assisted on the production team for the following courses: Communication: Access to Power (May, 2014), and Landmark Advanced Course (Jan. 2015) and others."
+            ],
+            [
+                "Landmark Education",
+                "Degree Name",
+                "Landmark Curriculum for Living",
+                "Dates attended or expected graduation",
+                "2014 – 2014",
+                "Activities and Societies:",
+                "Landmark Forum, Landmark Seminar Program, Landmark Advanced Course, Landmark Assisting Program, Landmark Self-Expression and Leadership Program, Landmark Communications Program",
+                "I have completed my the following courses: Landmark Forum (Jan. 2014), Landmark Advanced Course (March 2014), Breakthroughs: Living Outside the Box Seminar Series (May 2014), Self-Expression and Leadership Program (June 2014), An Invented Life Seminar Series (Oct. 2014), Communication: Access to Power (Dec. 2014) and Communication: Power to Create (forgot the exact date). I am also in the Landmark Assisting Program and have assisted on the production team for the following courses: Communication: Access to Power (May, 2014), and Landmark Advanced Course (Jan. 2015) and others."
+            ],
+            [
+                "Barry Goldwater High School",
+                "Degree Name",
+                "Diploma",
+                "Field Of Study",
+                "Diploma",
+                "Dates attended or expected graduation",
+                "1994 – 1998"
+            ],
+            [
+                "Barry Goldwater High School",
+                "Degree Name",
+                "Diploma",
+                "Field Of Study",
+                "Diploma",
+                "Dates attended or expected graduation",
+                "1994 – 1998"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Co-Organizer",
+                "Company Name",
+                "Startup Weekend Phoenix",
+                "Dates volunteered",
+                "Sep 2015 – Dec 2015",
+                "Volunteer duration",
+                "4 mos",
+                "Cause",
+                "Economic Empowerment",
+                "We put on a very successful Startup Weekend Phoenix. We had a great turnout, lots of mentors and an all-star judges panel. And according to Cam Kashani, we also awarded the most prizes in Startup Weekend history, giving away over $18,500 in prizes to the top 3 winners. I am so proud of my team. Event Page: http://www.up.co/communities/usa/phoenix/startup-weekend/6726"
+            ],
+            "Recommendations",
+            [
+                "Partner Buzz  - Channel In Action",
+                "4,959 members"
+            ],
+            [
+                "Harkins Theatres",
+                "9,183 followers"
+            ],
+            [
+                "Pete CashmorePete Cashmore is a LinkedIn Influencer",
+                "Founder and CEO, Mashable",
+                "1,292,678 followers"
+            ],
+            [
+                "John BurnsJohn Burns is a LinkedIn Influencer",
+                "CEO at John Burns Real Estate Consulting and Owner, John Burns Real Estate Consulting",
+                "628,234 followers"
+            ],
+            [
+                "Deepak Chopra MD (official)Deepak Chopra MD (official) is a LinkedIn Influencer",
+                "Founder, Chopra Foundation",
+                "5,211,800 followers"
+            ],
+            [
+                "Strategic Performance Management Forum",
+                "1,275 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Partner Buzz  - Channel In Action",
+                "4,959 members"
+            ],
+            [
+                "Partner Buzz  - Channel In Action",
+                "4,959 members"
+            ],
+            [
+                "Harkins Theatres",
+                "9,183 followers"
+            ],
+            [
+                "Harkins Theatres",
+                "9,183 followers"
+            ],
+            [
+                "Pete CashmorePete Cashmore is a LinkedIn Influencer",
+                "Founder and CEO, Mashable",
+                "1,292,678 followers"
+            ],
+            [
+                "Pete CashmorePete Cashmore is a LinkedIn Influencer",
+                "Founder and CEO, Mashable",
+                "1,292,678 followers"
+            ],
+            [
+                "Pete Cashmore is a LinkedIn Influencer"
+            ],
+            [
+                "John BurnsJohn Burns is a LinkedIn Influencer",
+                "CEO at John Burns Real Estate Consulting and Owner, John Burns Real Estate Consulting",
+                "628,234 followers"
+            ],
+            [
+                "John BurnsJohn Burns is a LinkedIn Influencer",
+                "CEO at John Burns Real Estate Consulting and Owner, John Burns Real Estate Consulting",
+                "628,234 followers"
+            ],
+            [
+                "John Burns is a LinkedIn Influencer"
+            ],
+            [
+                "Deepak Chopra MD (official)Deepak Chopra MD (official) is a LinkedIn Influencer",
+                "Founder, Chopra Foundation",
+                "5,211,800 followers"
+            ],
+            [
+                "Deepak Chopra MD (official)Deepak Chopra MD (official) is a LinkedIn Influencer",
+                "Founder, Chopra Foundation",
+                "5,211,800 followers"
+            ],
+            [
+                "Deepak Chopra MD (official) is a LinkedIn Influencer"
+            ],
+            [
+                "Strategic Performance Management Forum",
+                "1,275 members"
+            ],
+            [
+                "Strategic Performance Management Forum",
+                "1,275 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Chip Morgan",
+                "Chief Sales & Revenue Officer",
+                "October 2, 2017, Robert worked with Chip in the same group",
+                "Robert is a well-respected professional in the technology industry and community.  He's a master of his craft when he executes a sales or business development strategy, engages business clients to gather their technical requirements or to learn ways to serve them better, and with his overall client care and support to help them realize their vision and goals.  Robert is exceptionally personable, infinitely curious, highly intelligent and skilled, and deeply committed to his purpose.  I trust he's an incredibly valuable asset to any team.  I welcome the opportunity to work with Robert any time!"
+            ],
+            [
+                "Chip Morgan",
+                "Chief Sales & Revenue Officer",
+                "October 2, 2017, Robert worked with Chip in the same group"
+            ],
+            [
+                "Chip Morgan",
+                "Chief Sales & Revenue Officer",
+                "October 2, 2017, Robert worked with Chip in the same group"
+            ],
+            [
+                "Chip Morgan",
+                "Chief Sales & Revenue Officer",
+                "October 2, 2017, Robert worked with Chip in the same group"
+            ],
+            "Chief Sales & Revenue Officer",
+            [
+                "Robert is a well-respected professional in the technology industry and community.  He's a master of his craft when he executes a sales or business development strategy, engages business clients to gather their technical requirements or to learn ways to serve them better, and with his overall client care and support to help them realize their vision and goals.  Robert is exceptionally personable, infinitely curious, highly intelligent and skilled, and deeply committed to his purpose.  I trust he's an incredibly valuable asset to any team.  I welcome the opportunity to work with Robert any time!"
+            ],
+            [
+                "Robert is a well-respected professional in the technology industry and community.  He's a master of his craft when he executes a sales or business development strategy, engages business clients to gather their technical requirements or to learn ways to serve them better, and with his overall client care and support to help them realize their vision and goals.  Robert is exceptionally personable, infinitely curious, highly intelligent and skilled, and deeply committed to his purpose.  I trust he's an incredibly valuable asset to any team.  I welcome the opportunity to work with Robert any time!"
+            ],
+            [
+                "Dan Pendleton",
+                "Sales Manager, Renewals",
+                "September 28, 2017, Dan was a client of Robert’s",
+                "Robert's dedication to customer success and sales is unparalleled. He guided us through an incredible proof of concept and evaluation process, and was always available for us. Felt like we had an 'on-call' representative at just about any hour which was amazing and completely unexpected. He was critical in helping us understand our goals and how his team could help us build a better process for a greater return from our inside sales team. Always friendly, professional and flexible, Robert is the ideal sales rep for every sales role. Given the chance, hire him."
+            ],
+            [
+                "Dan Pendleton",
+                "Sales Manager, Renewals",
+                "September 28, 2017, Dan was a client of Robert’s"
+            ],
+            [
+                "Dan Pendleton",
+                "Sales Manager, Renewals",
+                "September 28, 2017, Dan was a client of Robert’s"
+            ],
+            [
+                "Dan Pendleton",
+                "Sales Manager, Renewals",
+                "September 28, 2017, Dan was a client of Robert’s"
+            ],
+            "Sales Manager, Renewals",
+            [
+                "Robert's dedication to customer success and sales is unparalleled. He guided us through an incredible proof of concept and evaluation process, and was always available for us. Felt like we had an 'on-call' representative at just about any hour which was amazing and completely unexpected. He was critical in helping us understand our goals and how his team could help us build a better process for a greater return from our inside sales team. Always friendly, professional and flexible, Robert is the ideal sales rep for every sales role. Given the chance, hire him."
+            ],
+            [
+                "Robert's dedication to customer success and sales is unparalleled. He guided us through an incredible proof of concept and evaluation process, and was always available for us. Felt like we had an 'on-call' representative at just about any hour which was amazing and completely unexpected. He was critical in helping us understand our goals and how his team could help us build a better process for a greater return from our inside sales team. Always friendly, professional and flexible, Robert is the ideal sales rep for every sales role. Given the chance, hire him."
+            ],
+            [
+                "Preetham Reddy",
+                "Cloud  Solutions Architect building large scale apps and services using Azure",
+                "September 28, 2017, Robert reported directly to Preetham",
+                "Preetham is one of those super rare individuals who is just too dang smart. He's a whiz at systems architecture and programming, and under his leadership at Reztech, the company was in a constant cycle of growth. All our clients loved him and knew he was the right man for the job, leading their projects. It was an absolute pleasure working alongside Preetham and I'm fortunate to call him a friend."
+            ],
+            [
+                "Preetham Reddy",
+                "Cloud  Solutions Architect building large scale apps and services using Azure",
+                "September 28, 2017, Robert reported directly to Preetham"
+            ],
+            [
+                "Preetham Reddy",
+                "Cloud  Solutions Architect building large scale apps and services using Azure",
+                "September 28, 2017, Robert reported directly to Preetham"
+            ],
+            [
+                "Preetham Reddy",
+                "Cloud  Solutions Architect building large scale apps and services using Azure",
+                "September 28, 2017, Robert reported directly to Preetham"
+            ],
+            "Cloud  Solutions Architect building large scale apps and services using Azure ",
+            [
+                "Preetham is one of those super rare individuals who is just too dang smart. He's a whiz at systems architecture and programming, and under his leadership at Reztech, the company was in a constant cycle of growth. All our clients loved him and knew he was the right man for the job, leading their projects. It was an absolute pleasure working alongside Preetham and I'm fortunate to call him a friend."
+            ],
+            [
+                "Preetham is one of those super rare individuals who is just too dang smart. He's a whiz at systems architecture and programming, and under his leadership at Reztech, the company was in a constant cycle of growth. All our clients loved him and knew he was the right man for the job, leading their projects. It was an absolute pleasure working alongside Preetham and I'm fortunate to call him a friend."
+            ],
+            [
+                "Dan Pendleton",
+                "Sales Manager, Renewals",
+                "September 28, 2017, Dan was a client of Robert’s",
+                "Dan is one heck of a good guy. Hard working, diligent, highly intelligent and just 'good people' overall. While working together we became fast friends who geek out over different shared interests (mostly gaming) and I have nothing but good things to say about him. He's great at sales, very personable and super friendly. He'd bring heart to any team he's on. Score card says 10/10."
+            ],
+            [
+                "Dan Pendleton",
+                "Sales Manager, Renewals",
+                "September 28, 2017, Dan was a client of Robert’s"
+            ],
+            [
+                "Dan Pendleton",
+                "Sales Manager, Renewals",
+                "September 28, 2017, Dan was a client of Robert’s"
+            ],
+            [
+                "Dan Pendleton",
+                "Sales Manager, Renewals",
+                "September 28, 2017, Dan was a client of Robert’s"
+            ],
+            "Sales Manager, Renewals",
+            [
+                "Dan is one heck of a good guy. Hard working, diligent, highly intelligent and just 'good people' overall. While working together we became fast friends who geek out over different shared interests (mostly gaming) and I have nothing but good things to say about him. He's great at sales, very personable and super friendly. He'd bring heart to any team he's on. Score card says 10/10."
+            ],
+            [
+                "Dan is one heck of a good guy. Hard working, diligent, highly intelligent and just 'good people' overall. While working together we became fast friends who geek out over different shared interests (mostly gaming) and I have nothing but good things to say about him. He's great at sales, very personable and super friendly. He'd bring heart to any team he's on. Score card says 10/10."
+            ]
+        ],
+        "skills": [],
+        "summary": "    One of the coolest tech startups ever (www.Frontspin.com) is where I hang my hat every day. I'm their CSM, handling product demos, customer trainings, manning trade show booths, and triaging day to day support inquiries. I grew up here in Phoenix, but after college (DeVry, Bachelor's degree *with honors* in Computer Science) I moved away for ~10 years (Seattle and Los Angeles mostly) and finally moved back to Phoenix ~7 years ago. Since then I have been very active in my local Tech Community, mentoring startups, connecting people, creating opportunities, organizing and hosting networking events; I even spent a couple years on the AZ Tech Council's Startup & Entrepreneurship Committee.\n  \n  \n",
+        "name": "Robert Haines",
+        "title": "CSM @ FrontSpin, Growth Advisor for Tech Startups, Big ol' Geek at ♥",
+        "url": "linkedin.com/in/roberthaines",
+        "phone": "",
+        "email": "brilliantandkind@gmail.com"
+    }
+]

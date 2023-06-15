@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6292847208404443136/",
+    "participants": [
+        {
+            "name": "Babu Tunk",
+            "title": "Latitude 36 Inc - Resource Manager",
+            "url": "linkedin.com/in/babutunk",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Babu Tunk",
+            "time": "2017-07-17T12:00:00.000Z",
+            "message": "Job Opportunity for “AWS Engineer” @ Phoenix, AZ for 7 months contract\n\nDear Brian, \n\nI am impressed by your skills and experience, would like to present for “AWS Engineer” job opportunity at Phoenix, AZ. If you'd be interested in learning more about this. I would pass on your reference to my colleague Mr. Praveen Narava, \"pnarava@lat36.com\" / 510-256-7317, recruiting on this role (for his Direct Client – Blue Shield of California). He would be glad to send you a detailed job description and connect for expediting the submission. \n\nLooking forward to hearing from you soon with your contact details.\n\nThanks and have a great day.\n\nBabu Tunk\nLatitude 36 Inc - Resource Manager \n+1-716-240-0769\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-07-17T22:55:00.000Z",
+            "message": "Why would blue shield California need DevOps in Phoenix?\n"
+        },
+        {
+            "from": "Babu Tunk",
+            "time": "2017-07-17T23:53:00.000Z",
+            "message": "Hi Brian, Please share your contact details here, will ask Praveen to give you a call and discuss the job opportunity. Thank you.\n"
+        }
+    ]
+}

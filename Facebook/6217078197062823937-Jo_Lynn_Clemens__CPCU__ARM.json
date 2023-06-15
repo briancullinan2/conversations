@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6217078197062823937/",
+    "participants": [
+        {
+            "name": "Jo Lynn Clemens, CPCU, ARM",
+            "title": "CEO and Founder at I've Been Vetted",
+            "url": "linkedin.com/in/jo-lynn-clemens-cpcu-arm-749ab110",
+            "phone": null,
+            "email": "jolynn.clemens@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-12-20T20:49:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Jo Lynn Clemens, CPCU, ARM",
+            "time": "2017-12-20T20:58:00.000Z",
+            "message": "Hi Brian, Thank you! Let's meet in 2017 to discuss a project. Best. Jo Lynn\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-12-21T15:51:00.000Z",
+            "message": "I look forward to it.\n"
+        },
+        {
+            "from": "Jo Lynn Clemens, CPCU, ARM",
+            "time": "2017-03-08T12:42:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-11T16:25:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

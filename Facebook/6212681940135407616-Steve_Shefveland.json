@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6212681940135407616/",
+    "participants": [
+        {
+            "name": "Steve Shefveland",
+            "title": "Founder and Managing Director at Emerging Global Services, LLC (EGS)",
+            "url": "linkedin.com/in/shefveland",
+            "phone": "4806308207 (Work)",
+            "email": "steve@emergingglobal.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting! What does global emerging do? The name sounds very nebulous.\n",
+            "time": "2017-12-08T17:40:00.000Z"
+        },
+        {
+            "from": "Steve Shefveland",
+            "message": "Just read our home page, it is very straight forward. www.emergingglobal.com\n",
+            "time": "2017-12-08T18:28:00.000Z"
+        }
+    ]
+}

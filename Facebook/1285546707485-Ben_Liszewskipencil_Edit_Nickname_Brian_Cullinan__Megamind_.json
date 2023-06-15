@@ -1,0 +1,32 @@
+{
+    "thread": "https://www.facebook.com/messages/archived/t/1285546707485",
+    "participants": [
+        {
+            "name": "Ben Liszewski",
+            "description": "Followed by 10 people",
+            "url": "https://www.facebook.com/ben.liszewski"
+        },
+        {
+            "name": "pencil\nEdit Nickname\nBrian Cullinan\n(Megamind)",
+            "description": "Quasi-dimensional Being at Earth",
+            "url": "Followed by 30 people"
+        }
+    ],
+    "messages": [
+        {
+            "from": "David",
+            "time": "2010-03-25T08:01:00.000Z",
+            "message": "\nDavid\nThe hotel was $60. Gas+insurance came to $28 for my car, and $20 for Brian's car (his mom paid insurance). So here's what I have people down as still owing:\n\nTravis: $60 hotel + $24 cars - $61 paid = $23\nBen: $60 hotel + $28 car - $25 paid = $63\nHeather: $60 hotel + $28 car - $60 paid = $28\nBrian: $60 hotel - $17 paid - $40 gas money I am collecting = $3\nJessie: $60 hotel + $4 banana boat = $64 (contact Brian for car)\nMike: $60 hotel + $20 ice house = $80 (contact Brian for car)\nRJ: $60 hotel - $60 paid = $0\nTeresa: $60 hotel + $20 car = $80 (you can pay either me or Joe)\nJoe: $60 hotel + $24 cars - $640 hotel bill = -$556\n\nEverything look right?\n\n"
+        },
+        {
+            "from": "Teresa",
+            "time": "2010-03-25T15:34:00.000Z",
+            "message": "\nTeresa\nThanks!\n\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2010-03-25T16:40:00.000Z",
+            "message": "Brian\nThis does not look right. You subtracted $40 from what I owe you for gas, but then wrote contact Brian for car when in fact they should just pay David for my gas.\n"
+        }
+    ]
+}

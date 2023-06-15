@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6222440993136930817/",
+    "participants": [
+        {
+            "name": "Adam Duren",
+            "title": "CTO at Northern Logic",
+            "url": "linkedin.com/in/adamduren",
+            "phone": "850-326-6799 (Mobile)",
+            "email": "adamduren@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-04T15:59:00.000Z"
+        }
+    ]
+}

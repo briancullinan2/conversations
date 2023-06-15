@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6240377108116365312/",
+    "participants": [
+        {
+            "name": "Michele Lerch, CSM, CSPO",
+            "title": "IT Iteration Manager at Nationwide Insurance Company",
+            "url": "linkedin.com/in/michele-lerch-csm-cspo-2410471",
+            "phone": null,
+            "email": "michelelerch@cox.net"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-23T03:50:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Michele Lerch, CSM, CSPO",
+            "time": "2018-02-23T15:12:00.000Z",
+            "message": "Likewise! Have a great day!\n"
+        }
+    ]
+}

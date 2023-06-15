@@ -1,0 +1,37 @@
+{
+    "thread": "https://www.facebook.com/messages/archived/t/10046386",
+    "participants": [
+        {
+            "name": "Erik Hubl",
+            "description": "Works at Norfolk Academy",
+            "url": "Studied at Arizona State University"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Brian",
+            "time": "2012-01-02T06:21:00.000Z",
+            "message": "Brian\nOur 5 mutual friends are really interesting, do you know them mostly from ASU?\n"
+        },
+        {
+            "from": "Erik",
+            "time": "2012-01-03T04:18:00.000Z",
+            "message": "\nnegative, elementary school and high school actually\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-03T04:18:00.000Z",
+            "message": "Brian\nOh wow. Have a good new years eve?\n"
+        },
+        {
+            "from": "Erik",
+            "time": "2012-01-04T12:06:00.000Z",
+            "message": "\nTwas not bad. How was yours\n\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2012-01-04T16:10:00.000Z",
+            "message": "Brian\nPretty excellent.  We stayed up late and were exhausted by the time Jen wanted to keep clubbing at 3 AM.\n"
+        }
+    ]
+}

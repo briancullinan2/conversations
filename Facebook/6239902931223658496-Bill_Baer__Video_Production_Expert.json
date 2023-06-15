@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6239902931223658496/",
+    "participants": [
+        {
+            "name": "Bill Baer, Video Production Expert",
+            "title": "Owner / Executive Producer at Baerclaw Video Productions",
+            "url": "linkedin.com/in/billbaeraz",
+            "phone": "602-789-8396 (Work)",
+            "email": "bill@baerclawproductions.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-21T20:26:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Bill Baer, Video Production Expert",
+            "time": "2018-02-21T20:29:00.000Z",
+            "message": "Of course Brian. If there's anything that I can do to help, please let me know!\nBest regards,\nBill.\n"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6216284899482091520/",
+    "participants": [
+        {
+            "name": "Tom McCloud",
+            "title": "Chief of Cool Stuff (retired from Intel) at NewellGurus",
+            "url": "linkedin.com/in/tom-mccloud-125750",
+            "phone": null,
+            "email": "encantotom@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-18T16:16:00.000Z"
+        }
+    ]
+}

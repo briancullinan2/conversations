@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6216601681212305409/",
+    "participants": [
+        {
+            "name": "Jared Burnup",
+            "title": "Owner at Burnup Investments",
+            "url": "linkedin.com/in/jared-burnup-413007110",
+            "phone": null,
+            "email": "burnupinvestments@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-19T13:15:00.000Z"
+        },
+        {
+            "from": "Jared Burnup",
+            "message": "No problem\n",
+            "time": "2017-12-19T14:38:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "What are you investing in?\n",
+            "time": "2017-12-21T16:29:00.000Z"
+        },
+        {
+            "from": "Jared Burnup",
+            "message": "keyword phrased dot coms.\n",
+            "time": "2018-01-03T00:37:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "So domain squatting?\n",
+            "time": "2018-01-03T05:49:00.000Z"
+        },
+        {
+            "from": "Jared Burnup",
+            "message": "Can call it that. Hard to develop when your buying them off expiration sometime 300 a month.\n",
+            "time": "2018-01-03T05:54:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6242801041323147264/",
+    "participants": [
+        {
+            "name": "Mark Farlin",
+            "title": "Director - Product Management at Informative Graphics",
+            "url": "linkedin.com/in/mark-farlin-9ab846",
+            "phone": null,
+            "email": "mfarlin@sbcglobal.net"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-03-01T20:22:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-02T04:09:00.000Z",
+            "message": "https://theoutline.com/post/1166/programmers-are-confessing-their-coding-sins-to-protest-a-broken-job-interview-process\n\nLast time I interviewed at your company I got a whiteboard interview. Interesting I am not the only one that sees this as a problem.\n"
+        }
+    ]
+}

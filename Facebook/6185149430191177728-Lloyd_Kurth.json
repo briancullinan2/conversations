@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6185149430191177728/",
+    "participants": [
+        {
+            "name": "Lloyd Kurth",
+            "title": "Strategic Software Architect",
+            "url": "linkedin.com/in/lloydkurth",
+            "phone": null,
+            "email": "lloyd@kurth.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "I am still on the job hunt.  I don't think this position at Cruise Automation with Stephen is going to go through.  Any need for a software developer?  I am not sure Tom wants to work with me after he blew me off for dinner.",
+            "time": "2016-09-23T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Slightly different design I thought it would be cool to share.  What do you think?",
+            "time": "2016-10-20T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-10-05T00:47:00.000Z"
+        }
+    ]
+}

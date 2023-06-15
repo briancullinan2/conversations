@@ -1,0 +1,5 @@
+<session type="start" time="1180848221" medium="AIM" to="hcischill" from="bjcullinan"/>
+<message type="information_standard" time="1180848221" medium="AIM" text="NOTE%3A%20This%20user%20is%20offline%2E%20%20Your%20messages%20will%20most%20likely%20%2Anot%2A%20be%20received%21"/>
+<message type="outgoing_privateMessage" time="1180848224" medium="AIM" to="hcischill" from="bjcullinan" from_display="BJCullinan" text="hi"/>
+<message type="information_standard" time="1180848224" medium="AIM" text="Error%20while%20sending%20IM%3A%20This%20user%20is%20currently%20not%20logged%20on"/>
+<session type="stop" time="1180848227" medium="AIM" to="hcischill" from="bjcullinan"/>

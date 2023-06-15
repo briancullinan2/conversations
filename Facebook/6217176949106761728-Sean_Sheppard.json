@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6217176949106761728/",
+    "participants": [
+        {
+            "name": "Sean Sheppard",
+            "title": "Founder @ GrowthX & GrowthX Academy | Entrepreneur | VC | Top 20 Sale Influencer | HuffPo Contributor",
+            "url": "linkedin.com/in/seansheppard",
+            "phone": null,
+            "email": "seanasheppard@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-12-21T03:21:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-16T15:23:00.000Z",
+            "message": "Congrats on your work anniversary!\n"
+        }
+    ]
+}

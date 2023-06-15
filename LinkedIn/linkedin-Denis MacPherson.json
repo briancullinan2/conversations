@@ -1,0 +1,193 @@
+[
+    {
+        "resourceName": "people/c8587208228534779219",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMaTFyNGNxQnFDYms9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "772be4630a207d53"
+                    }
+                },
+                "displayName": "Denis MacPherson",
+                "familyName": "MacPherson",
+                "givenName": "Denis",
+                "displayNameLastFirst": "MacPherson, Denis"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "116595442183781295176"
+                    }
+                },
+                "displayName": "Denis MacPherson",
+                "familyName": "MacPherson",
+                "givenName": "Denis",
+                "displayNameLastFirst": "MacPherson, Denis"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "772be4630a207d53"
+                    }
+                },
+                "value": "+1 623-252-3622",
+                "canonicalForm": "+16232523622",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "10 Mutual Connections",
+                "You and Denis both know Glen Chamberlain, Patricia Stinson, and 8 others"
+            ],
+            [
+                "1 Mutual Group",
+                "You and Denis are both in the DEF CON group"
+            ],
+            [
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Security Engeineering",
+                "Company Name",
+                "Financial Institution",
+                "Dates Employed",
+                "Jan 2015 – Present",
+                "Employment Duration",
+                "2 yrs 10 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "Security Analyst",
+                "Company Name",
+                "Financial Institution",
+                "Dates Employed",
+                "Dec 2013 – Jan 2015",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "System Engineer / Programmer",
+                "Company Name",
+                "Law School",
+                "Dates Employed",
+                "Oct 2007 – Dec 2013",
+                "Employment Duration",
+                "6 yrs 3 mos",
+                "Location",
+                "Phoenix, Arizona"
+            ],
+            "Recommendations",
+            [
+                "Information Security Community",
+                "439,018 members"
+            ],
+            [
+                "Information Security Careers Network (ISCN): Cyber/CISSP/CCNA/PCI/Data/Network/Hacking/cloud jobs",
+                "73,490 members"
+            ],
+            [
+                "Security Architecture",
+                "14,181 members"
+            ],
+            [
+                "GIAC Certifications",
+                "9,652 followers"
+            ],
+            [
+                "Network Security, Management and Monitoring",
+                "3,855 members"
+            ],
+            [
+                "(ISC)²",
+                "36,847 followers"
+            ],
+            [
+                "See connections (318)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Information Security Community",
+                "439,018 members"
+            ],
+            [
+                "Information Security Community",
+                "439,018 members"
+            ],
+            [
+                "Information Security Careers Network (ISCN): Cyber/CISSP/CCNA/PCI/Data/Network/Hacking/cloud jobs",
+                "73,490 members"
+            ],
+            [
+                "Information Security Careers Network (ISCN): Cyber/CISSP/CCNA/PCI/Data/Network/Hacking/cloud jobs",
+                "73,490 members"
+            ],
+            [
+                "Security Architecture",
+                "14,181 members"
+            ],
+            [
+                "Security Architecture",
+                "14,181 members"
+            ],
+            [
+                "GIAC Certifications",
+                "9,652 followers"
+            ],
+            [
+                "GIAC Certifications",
+                "9,652 followers"
+            ],
+            [
+                "Network Security, Management and Monitoring",
+                "3,855 members"
+            ],
+            [
+                "Network Security, Management and Monitoring",
+                "3,855 members"
+            ],
+            [
+                "(ISC)²",
+                "36,847 followers"
+            ],
+            [
+                "(ISC)²",
+                "36,847 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [],
+        "summary": "",
+        "name": "Denis MacPherson",
+        "title": "Information Security",
+        "url": "linkedin.com/in/denismacpherson",
+        "phone": "",
+        "email": "denismacpherson@gmail.com"
+    }
+]

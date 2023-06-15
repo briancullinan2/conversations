@@ -1,0 +1,49 @@
+{
+    "thread": "/messaging/thread/6214371817688268800/",
+    "participants": [
+        {
+            "name": "Matt (Handshakin) Holmes 👋🏼",
+            "title": "Entrepreneur, Speaker, Vlogger, World Record Holder",
+            "url": "linkedin.com/in/handshakin",
+            "phone": "7205155117 (Home)",
+            "email": "matt@handshakin.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Matt Holmes 👋🏼",
+            "time": "2017-12-13T09:35:00.000Z",
+            "message": "Hey, thanks for connecting, Brian\n\nHow can I help you or your startup? Are you growing your personal brand to drive more leads?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-12-13T13:15:00.000Z",
+            "message": "Excellent question! You are fast.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-12-13T13:15:00.000Z",
+            "message": "What is your world record for?\n"
+        },
+        {
+            "from": "Matt Holmes 👋🏼",
+            "time": "2017-12-14T21:40:00.000Z",
+            "message": "Hehe world's longest handshake (between two people), shook hands for 46 hours straight\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-12-14T21:41:00.000Z",
+            "message": "That is impressive.\n"
+        },
+        {
+            "from": "Matt Holmes 👋🏼",
+            "time": "2017-12-15T06:08:00.000Z",
+            "message": "Some say impressive, some say stupid haha\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-02T16:19:00.000Z",
+            "message": "Happy birthday!\n"
+        }
+    ]
+}

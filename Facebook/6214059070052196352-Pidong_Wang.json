@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6214059070052196352/",
+    "participants": [
+        {
+            "name": "Pidong Wang",
+            "title": "Staff ML & NLP Engineer at MZ",
+            "url": "linkedin.com/in/wangpidong",
+            "phone": "",
+            "email": "wangpidong@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-12-12T12:52:00.000Z"
+        },
+        {
+            "from": "Pidong Wang",
+            "message": "Thank you, too! Have a nice day!",
+            "time": "2017-12-13T17:36:00.000Z"
+        }
+    ]
+}

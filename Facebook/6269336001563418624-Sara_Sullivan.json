@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6269336001563418624/",
+    "participants": [
+        {
+            "name": "Sara Sullivan",
+            "title": "Talent Lead @ #6 Best Consulting Firms To Work For'",
+            "url": "linkedin.com/in/saralsullivan804",
+            "phone": "8045458728 (Work)",
+            "email": "ssullivan@captechconsulting.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Sara Sullivan",
+            "time": "2017-05-12T17:13:00.000Z",
+            "message": "Hi Brian,\nI wanted to see if you're still looking for Engineering opportunities, specifically in Denver. Your background and experience is great and exactly what we're looking for at CapTech. Let me know if you can chat next week.\nThanks,\nSara Sullivan\n804-545-8728 | ssullivan@captechconsulting.com\n"
+        },
+        {
+            "from": "Sara Sullivan",
+            "time": "2017-05-15T13:32:00.000Z",
+            "message": "Hi Brian, \nThanks for connecting. Do you have time this week to have a quick call?\nThanks,\nSara Sullivan\n804-545-8728 | ssullivan@captechconsulting.com\n"
+        }
+    ]
+}

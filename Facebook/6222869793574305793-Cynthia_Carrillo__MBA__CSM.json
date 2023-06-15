@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6222869793574305793/",
+    "participants": [
+        {
+            "name": "Cynthia Carrillo, MBA, CSM",
+            "title": "Regional Director, Bay Area at Greater Sacramento Economic Council",
+            "url": "linkedin.com/in/cynthiarcm",
+            "phone": null,
+            "email": "cynthiarcm@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-05T20:22:00.000Z"
+        },
+        {
+            "from": "Cynthia Carrillo, MBA, CSM",
+            "message": "Absolutely, thank you for your invitation! Would love to learn more about your work.\n",
+            "time": "2018-01-06T23:53:00.000Z"
+        }
+    ]
+}

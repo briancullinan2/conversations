@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6212000255832055809/",
+    "participants": [
+        {
+            "name": "Richard Wood",
+            "title": "IT Architect at Credit Suisse",
+            "url": "linkedin.com/in/richard-wood-1ba302",
+            "phone": null,
+            "email": "richard.wood@nobilitas.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "I love Switzerland!\n",
+            "time": "2017-12-06T20:31:00.000Z"
+        }
+    ]
+}

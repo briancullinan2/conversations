@@ -1,0 +1,29 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "2Jan17",
+    "participants": "Mike Mann | Founder of fabulous cloud corporations Phone.com, DomainMarket.com & SEO.com; Author: MakeMillions.com > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Mike Mann",
+        "url": "linkedin.com/in/microman",
+        "email": "mikemann@mikemann.com",
+        "title": "Founder of fabulous cloud corporations Phone.com, DomainMarket.com & SEO.com; Author: MakeMillions.com"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "my pleasure, happy new year",
+    "time": "2017-01-02T10:48:00.000Z",
+    "title": "Founder of fabulous cloud corporations Phone.com, DomainMarket.com & SEO.com; Author: MakeMillions.com"
+  }
+]

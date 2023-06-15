@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6224075740879613952/",
+    "participants": [
+        {
+            "name": "Brian Kann",
+            "title": "Seeking New Opportunity - Outstanding Experience in Large, High-Profile Design/Build",
+            "url": "linkedin.com/in/aecdesignbuild",
+            "phone": "+16308805266 (Work)",
+            "email": "briankann@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Brian Kann",
+            "message": "Hello Brian,\n\nI just accepted your invitation to connect on LinkedIn. And after reading a bit of your profile, I'd like to say that I would be interested in speaking with you. I do believe there might well be an opportunity to work together - or at least both gain from discussing it.\n\nBrian Kann\n(630) 991-8061\n",
+            "time": "2018-01-09T04:14:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-09T05:04:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "What startup? Similar to people per hour?\n",
+            "time": "2018-02-02T17:40:00.000Z"
+        }
+    ]
+}

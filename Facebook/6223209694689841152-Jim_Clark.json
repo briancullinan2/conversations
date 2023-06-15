@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6223209694689841152/",
+    "participants": [
+        {
+            "name": "Jim Clark",
+            "title": "Owner, Blind Society",
+            "url": "https://www.linkedin.com/in/jim-clark-2996322/",
+            "phone": null,
+            "email": "jim.clark@blindsociety.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-06T18:53:00.000Z"
+        }
+    ]
+}

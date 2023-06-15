@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6265937650750939136/",
+    "participants": [
+        {
+            "name": "Sarah Russi",
+            "title": "Senior Technical Recruiter at Procom Services",
+            "url": "linkedin.com/in/sarah-russi-557a3662",
+            "phone": "(919)480-3910 (Work)",
+            "email": "sarahr@procomservices.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Sarah Russi",
+            "time": "2017-05-04T12:00:00.000Z",
+            "message": "Awesome perm opportunity - Raleigh, NC relo avail.\n\nHi Brian, \n\nI am reaching out because I am currently recruiting for a senior Software Engineer with Ruby on Rails, (Git, MySQL, LAMP stack, AWS, DevOps or anything open source would be great too) to join our educational services client for a permanent, direct hire opportunity in downtown Raleigh. \n\nThey are very passionate about open source technical stacks and have a relaxed, \"Google like\" work environment making the coolest products. In addition, we have a high success rate placing out of town candidates as they offer relocation packages.\n\nAre you on the market?\n\nThanks and have a great day!\nSarah\n\nSarah Russi\n(919)480-3910 | sarahr@procomservices.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-04T16:41:00.000Z",
+            "message": "Which part of my profile says Ruby on Rails?\n"
+        }
+    ]
+}

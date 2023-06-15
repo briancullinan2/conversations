@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6240635479516069888/",
+    "participants": [
+        {
+            "name": "Nicholas Schultz",
+            "title": "Software QA Engineer at American Airlines",
+            "url": "linkedin.com/in/nicholasschultz",
+            "phone": null,
+            "email": "nick.schultz01@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-23T20:57:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

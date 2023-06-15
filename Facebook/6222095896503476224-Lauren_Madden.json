@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6222095896503476224/",
+    "participants": [
+        {
+            "name": "Lauren Madden",
+            "title": "Mindset and Wellness Coach at Lauren Madden Coaching",
+            "url": "linkedin.com/in/lauren-madden-18007b54",
+            "phone": null,
+            "email": "laurenmadden91@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-03T17:07:00.000Z"
+        },
+        {
+            "from": "Lauren Madden",
+            "message": "Same to you! How are things in your world? Happy New Year.\n",
+            "time": "2018-01-03T21:54:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I would describe my world as unburdened. Thank you for asking! Happy New year. :) How are things as a recruiter at creative circle?\n",
+            "time": "2018-01-03T22:01:00.000Z"
+        },
+        {
+            "from": "Lauren Madden",
+            "message": "I like that description! Things are good on my end. I am celebrating my one year anniversary soon w/ this company. It's fun working with marketing and advertising people because it's what I went to school for + what I enjoy.\n",
+            "time": "2018-01-04T21:05:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Good to do what you enjoy!\n",
+            "time": "2018-01-04T22:07:00.000Z"
+        }
+    ]
+}

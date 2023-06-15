@@ -1,0 +1,49 @@
+{
+    "thread": "/messaging/thread/6212003318793859072/",
+    "participants": [
+        {
+            "name": "Mary Ligon",
+            "title": "Director of Research and Development/NLP Trainer/Coach at Mary Ligon Company",
+            "url": "linkedin.com/in/maryligonco",
+            "phone": "561-294-8507 (Work)",
+            "email": "maryligon@ymail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting! I can read minds too!\n",
+            "time": "2017-12-06T20:43:00.000Z"
+        },
+        {
+            "from": "Mary Ligon",
+            "message": "Great to connect. Mind reading is a great idea for your next software. Please get my computer to read my mind and to be forgiving when I change my mind 5 times in 30 seconds:-)\n",
+            "time": "2017-12-07T22:36:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Lol DARPA is already working on it ;)\n",
+            "time": "2017-12-07T23:20:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thanks for endorsing me for Web Development!\n",
+            "time": "2017-12-07T23:20:00.000Z"
+        },
+        {
+            "from": "Mary Ligon",
+            "message": "Thanks for endorsing me for Personal Transformation!\n",
+            "time": "2018-01-04T14:03:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Sure!\n",
+            "time": "2018-01-04T14:21:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Happy New year! :)\n",
+            "time": "2018-01-04T14:21:00.000Z"
+        }
+    ]
+}

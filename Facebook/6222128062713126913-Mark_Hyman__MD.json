@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6222128062713126913/",
+    "participants": [
+        {
+            "name": "Mark Hyman, MD",
+            "title": "Chairman, Institute for Functional Medicine",
+            "url": "linkedin.com/in/drhyman",
+            "phone": null,
+            "email": "mark@ultrawellnesscenter.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-03T19:15:00.000Z"
+        }
+    ]
+}

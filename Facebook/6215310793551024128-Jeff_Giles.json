@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6215310793551024128/",
+    "participants": [
+        {
+            "name": "Jeff Giles",
+            "title": "Writer and Editor",
+            "url": "linkedin.com/in/jeff-giles-87356094",
+            "phone": "",
+            "email": "jeffreymgiles@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-12-15T23:46:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-12-15T23:46:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-11-07T23:53:00.000Z"
+        }
+    ]
+}

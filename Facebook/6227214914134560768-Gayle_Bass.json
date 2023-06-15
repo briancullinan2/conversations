@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6227214914134560768/",
+    "participants": [
+        {
+            "name": "Gayle Bass",
+            "title": "TV Host",
+            "url": "linkedin.com/in/gayle-bass-8665206",
+            "phone": null,
+            "email": "gaylebass@hotmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-17T20:08:00.000Z"
+        }
+    ]
+}

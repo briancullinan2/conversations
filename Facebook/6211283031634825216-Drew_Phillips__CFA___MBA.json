@@ -1,0 +1,64 @@
+{
+    "thread": "/messaging/thread/6211283031634825216/",
+    "participants": [
+        {
+            "name": "Drew Phillips, CFA®, MBA",
+            "title": "Investment Analyst at MRA Associates",
+            "url": "linkedin.com/in/drew-phillips-mba",
+            "phone": null,
+            "email": "daphillips11@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "How are you?\n",
+            "time": "2017-12-04T21:01:00.000Z"
+        },
+        {
+            "from": "Drew Phillips, CFA®, MBA",
+            "message": "Doing well! Long time no talk. How have you been?\n",
+            "time": "2017-12-04T21:04:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Super, just took a job at Charles Schwab.\n",
+            "time": "2017-12-04T21:41:00.000Z"
+        },
+        {
+            "from": "Drew Phillips, CFA®, MBA",
+            "message": "Oh yeah? Doing what? That is where my company has all of our assets.\n",
+            "time": "2017-12-04T22:17:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Interesting. Access management. I own all your data then.\n",
+            "time": "2017-12-04T22:39:00.000Z"
+        },
+        {
+            "from": "Drew Phillips, CFA®, MBA",
+            "message": "That's cool. Schwab is a good company. Congratulations on the new job.\n",
+            "time": "2017-12-04T23:54:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you. What have you been up to?\n",
+            "time": "2017-12-05T00:19:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "What came of that app you were working on?\n",
+            "time": "2017-12-05T00:19:00.000Z"
+        },
+        {
+            "from": "Drew Phillips, CFA®, MBA",
+            "message": "Overall been good. I've just been working and trying to obtain the CFA designation. I passed level II in June and have the last level this coming June. \n\nThe app never went anywhere. The company I was working with went under and then dissolved. I just left it alone after that.\n",
+            "time": "2017-12-05T01:20:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Wow that sucks. I worked on an app for 3 years and couldn't get it picked up by the target market.\n",
+            "time": "2017-12-05T03:48:00.000Z"
+        }
+    ]
+}

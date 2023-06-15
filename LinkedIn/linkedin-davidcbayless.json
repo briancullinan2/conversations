@@ -1,0 +1,478 @@
+[
+    {
+        "resourceName": "people/c639568837319559967",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMaGdBNUYrOGRsdzg9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "8e034780dd78b1f"
+                    }
+                },
+                "displayName": "David Bayless",
+                "familyName": "Bayless",
+                "givenName": "David",
+                "displayNameLastFirst": "Bayless, David"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "105546792443201134604"
+                    }
+                },
+                "displayName": "David Bayless",
+                "familyName": "Bayless",
+                "givenName": "David",
+                "displayNameLastFirst": "Bayless, David"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "8e034780dd78b1f"
+                    }
+                },
+                "value": "+1 970-999-2821",
+                "canonicalForm": "+19709992821",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "13 Mutual Connections",
+                "You and David both know David Stark, Aneesh Karve, and 11 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Full Stack Web Development Immersive Instructor; Software Engineer",
+                "Company Name",
+                "Galvanize Inc",
+                "Dates Employed",
+                "Jun 2017 – Present",
+                "Employment Duration",
+                "6 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "Agile Software Developer",
+                "Company Name",
+                "Allstate",
+                "Dates Employed",
+                "Jun 2016 – Jun 2017",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "Tempe, AZ"
+            ],
+            [
+                "General Manager",
+                "Company Name",
+                "Booklovers Corner Store",
+                "Dates Employed",
+                "Jun 2013 – Oct 2015",
+                "Employment Duration",
+                "2 yrs 5 mos",
+                "Location",
+                "Fort Collins"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Galvanize - Fort Collins, Old Town",
+                "Dates attended or expected graduation",
+                "2015 – 2016"
+            ],
+            [
+                "Galvanize - Fort Collins, Old Town",
+                "Dates attended or expected graduation",
+                "2015 – 2016"
+            ],
+            [
+                "Colorado State University",
+                "Degree Name",
+                "Cello Pedagogy Certificate",
+                "Field Of Study",
+                "Cello Pedagogy"
+            ],
+            [
+                "Colorado State University",
+                "Degree Name",
+                "Cello Pedagogy Certificate",
+                "Field Of Study",
+                "Cello Pedagogy"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Assistant in middle school special needs classroom",
+                "Company Name",
+                "Webber Junior High School",
+                "Dates volunteered",
+                "Aug 2011 – May 2012",
+                "Volunteer duration",
+                "10 mos"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Allstate",
+                "156,311 followers"
+            ],
+            [
+                "Galvanize - Fort Collins, Old Town",
+                "485 followers"
+            ],
+            [
+                "Colorado State University",
+                "190,927 followers"
+            ],
+            [
+                "Colorado State University",
+                "205,942 followers"
+            ],
+            [
+                "Galvanize Inc",
+                "7,038 followers"
+            ],
+            [
+                "See connections (222)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Allstate",
+                "156,311 followers"
+            ],
+            [
+                "Allstate",
+                "156,311 followers"
+            ],
+            [
+                "Galvanize - Fort Collins, Old Town",
+                "485 followers"
+            ],
+            [
+                "Galvanize - Fort Collins, Old Town",
+                "485 followers"
+            ],
+            [
+                "Colorado State University",
+                "190,927 followers"
+            ],
+            [
+                "Colorado State University",
+                "190,927 followers"
+            ],
+            [
+                "Colorado State University",
+                "205,942 followers"
+            ],
+            [
+                "Colorado State University",
+                "205,942 followers"
+            ],
+            [
+                "Galvanize Inc",
+                "7,038 followers"
+            ],
+            [
+                "Galvanize Inc",
+                "7,038 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "HTML",
+                "See 3 endorsements for HTML",
+                "3",
+                "HTML",
+                "Endorse",
+                "Endorsed by Ian Smith, who is highly skilled at this",
+                "Endorsed by 2 of David’s colleagues at Galvanize Inc"
+            ],
+            [
+                "HTML",
+                "See 3 endorsements for HTML",
+                "3"
+            ],
+            [
+                "CSS",
+                "See 2 endorsements for CSS",
+                "2",
+                "CSS",
+                "Endorse",
+                "Elle Bayless and 1 connection have given endorsements for this skill"
+            ],
+            [
+                "CSS",
+                "See 2 endorsements for CSS",
+                "2"
+            ],
+            [
+                "AngularJS",
+                "See 2 endorsements for AngularJS",
+                "2",
+                "AngularJS",
+                "Endorse",
+                "Elle Bayless and 1 connection have given endorsements for this skill"
+            ],
+            [
+                "AngularJS",
+                "See 2 endorsements for AngularJS",
+                "2"
+            ],
+            [
+                "Node.js",
+                "See 2 endorsements for Node.js",
+                "2",
+                "Node.js",
+                "Endorse"
+            ],
+            [
+                "Node.js",
+                "See 2 endorsements for Node.js",
+                "2"
+            ],
+            [
+                "Express.js",
+                "See 2 endorsements for Express.js",
+                "2",
+                "Express.js",
+                "Endorse"
+            ],
+            [
+                "Express.js",
+                "See 2 endorsements for Express.js",
+                "2"
+            ],
+            [
+                "jQuery",
+                "See 3 endorsements for jQuery",
+                "3",
+                "jQuery",
+                "Endorse"
+            ],
+            [
+                "jQuery",
+                "See 3 endorsements for jQuery",
+                "3"
+            ],
+            [
+                "JavaScript",
+                "See 2 endorsements for JavaScript",
+                "2",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 2 endorsements for JavaScript",
+                "2"
+            ],
+            [
+                "PostgreSQL",
+                "See 1 endorsement for PostgreSQL",
+                "1",
+                "PostgreSQL",
+                "Endorse"
+            ],
+            [
+                "PostgreSQL",
+                "See 1 endorsement for PostgreSQL",
+                "1"
+            ],
+            [
+                "Agile Methodologies",
+                "See 1 endorsement for Agile Methodologies",
+                "1",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 1 endorsement for Agile Methodologies",
+                "1"
+            ],
+            [
+                "Pair Programming",
+                "See 1 endorsement for Pair Programming",
+                "1",
+                "Pair Programming",
+                "Endorse"
+            ],
+            [
+                "Pair Programming",
+                "See 1 endorsement for Pair Programming",
+                "1"
+            ],
+            [
+                "Management",
+                "See 1 endorsement for Management",
+                "1",
+                "Management",
+                "Endorse"
+            ],
+            [
+                "Management",
+                "See 1 endorsement for Management",
+                "1"
+            ],
+            [
+                "Customer Service",
+                "Customer Service",
+                "Endorse"
+            ],
+            [
+                "Customer Service"
+            ],
+            [
+                "Project Management",
+                "Project Management",
+                "Endorse"
+            ],
+            [
+                "Project Management"
+            ],
+            [
+                "Leadership",
+                "See 1 endorsement for Leadership",
+                "1",
+                "Leadership",
+                "Endorse"
+            ],
+            [
+                "Leadership",
+                "See 1 endorsement for Leadership",
+                "1"
+            ],
+            [
+                "Sales",
+                "Sales",
+                "Endorse"
+            ],
+            [
+                "Sales"
+            ],
+            [
+                "Strategic Planning",
+                "Strategic Planning",
+                "Endorse"
+            ],
+            [
+                "Strategic Planning"
+            ],
+            [
+                "New Business Development",
+                "New Business Development",
+                "Endorse"
+            ],
+            [
+                "New Business Development"
+            ],
+            [
+                "Business Development",
+                "Business Development",
+                "Endorse"
+            ],
+            [
+                "Business Development"
+            ],
+            [
+                "Business Strategy",
+                "Business Strategy",
+                "Endorse"
+            ],
+            [
+                "Business Strategy"
+            ],
+            [
+                "BOSH",
+                "BOSH",
+                "Endorse"
+            ],
+            [
+                "BOSH"
+            ],
+            [
+                "Continuous Integration",
+                "Continuous Integration",
+                "Endorse"
+            ],
+            [
+                "Continuous Integration"
+            ],
+            [
+                "Continuous Delivery",
+                "Continuous Delivery",
+                "Endorse"
+            ],
+            [
+                "Continuous Delivery"
+            ],
+            [
+                "Test Driven Development",
+                "Test Driven Development",
+                "Endorse"
+            ],
+            [
+                "Test Driven Development"
+            ],
+            [
+                "Test Automation",
+                "Test Automation",
+                "Endorse"
+            ],
+            [
+                "Test Automation"
+            ],
+            [
+                "Go",
+                "Go",
+                "Endorse"
+            ],
+            [
+                "Go"
+            ]
+        ],
+        "summary": "    I am a self-driven, creative problem solver/full stack software developer with a penchant for music, board and video games, armchair philosophy, reading, long walks on the beach, and bad \"dad\" jokes. Learning quickly is one of my strengths and I am eager to learn, adapt, and grow. As a developer, I thrive in collaborative work environments and seek out opportunities where I can mentor and be mentored. Additionally, I enjoy automating as many processes as I can and highly value DevOps ideals. Continuous integration, deployment and testing are all part of how I prefer to move through the development process.\n  \n  \n",
+        "name": "David Bayless",
+        "title": "Full Stack Web Development Immersive Instructor; Software Engineer at Galvanize Inc",
+        "url": "linkedin.com/in/davidcbayless",
+        "phone": "9709992821 (Mobile)",
+        "email": "david.c.bayless15@gmail.com"
+    }
+]

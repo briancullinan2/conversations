@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6187917717283094528/",
+    "participants": [
+        {
+            "name": "Brady Gentile",
+            "title": "Our team's mission is to help build a better internet.",
+            "url": "linkedin.com/in/bradygentile",
+            "phone": "(480) 735 1133 (Mobile)",
+            "email": "Brady@CloudFlare.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-10-05T09:35:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-10-05T09:35:00.000Z"
+        },
+        {
+            "from": "Brady Gentile",
+            "message": "https://studysauce.com/\nbmgentile@gmail.com",
+            "time": "2017-10-05T09:44:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Awesome, thank you for connecting!",
+            "time": "2017-10-05T22:41:00.000Z"
+        }
+    ]
+}

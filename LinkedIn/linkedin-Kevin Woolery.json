@@ -1,0 +1,894 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "Kevin can introduce you to 6 people at Google",
+                "You are following Google"
+            ],
+            [
+                "How CDNs can adapt to the cloud computing era",
+                "Kevin liked a comment"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Co-Founder & CTO",
+                "Company Name",
+                "Jetpack",
+                "Dates Employed",
+                "Sep 2009 – Present",
+                "Employment Duration",
+                "8 yrs 3 mos",
+                "Location",
+                "Santa Monica, Ca",
+                "Acted as the technical visionary for the company, defining policy, and practices for building out a highly available advertising service to allow publishers to increase their advertising capacity by way of creating new, innovative non-standard advertising units.Designed, and implemented a highly available, multi-tiered, scalable advertising platform for creating, delivering, and managing high impact non-standard digital ad units.  Comparable to an ad delivery system such as DoubleClick, but focused on non-standard ads, such as overlays, large video display, and active skins. Designed a fault-tolerant tracking system capable of currently handling over 5 billion tracking events per month with near horizontal scalability by distribution through backend data store sharding.Designed and implemented an advanced IDE for creating a variety of JavaScript/CSS/HTML ad units able to run on all major browsers given doc type, and browser rendering differences.  Managed a team of engineers working on production of new ad unit types using the platform, and implementing new modular components to increase the scope of the platform functionality. Completely bootstrapped the creation, and initial implementation of the Jetpack Ad Platform. Created a profitable, self-sufficient company by the third year in existence, due to continuous optimization of the technology, and processes associated with technical implementations of complicated advertising projects"
+            ],
+            [
+                "Co-Founder & Chief Software Architect",
+                "Company Name",
+                "Spin Media (Buzzmedia/Buzznet)",
+                "Dates Employed",
+                "Apr 2003 – Jun 2009",
+                "Employment Duration",
+                "6 yrs 3 mos",
+                "Location",
+                "Hollywood, Ca",
+                "Acted in a hands-on lead role for all-technical discussions, decisions, and vision for the entire company.Designed and built a large-scale distributed social media platform with PERL, PHP, and MySQL (LAMP) supporting upwards of 500 million page views per month and 40 million unique visitors.Modified memcached to support key storage, and wildcard cache deletes for integration between application and database layers.Built a managed platform for supporting large-scale implementations of MovableType, WordPress, and Drupal.Designed and implemented a custom storage solution for highly reliable archival and retrieval of hundreds of millions of images.Designed and implemented a completely pluggable infrastructure using RPC standards such as XMLRPC, REST, RSS, and ATOM.Managed the technical vision of the company, taking it from inception through implementation and maintenance phases.Spoke on a panel at the OSTA conference regarding how to manage the inundation of rich media in everyone's life.Managed an internal team of 10 engineers, and an offshore team consisting of more than 25 engineers."
+            ],
+            [
+                "Senior Manager, Network Services",
+                "Company Name",
+                "Amp'd Mobile",
+                "Dates Employed",
+                "Jun 2005 – Dec 2005",
+                "Employment Duration",
+                "7 mos",
+                "Location",
+                "Los Angeles, Ca",
+                "Worked with over 20 external vendors to build out the entire data infrastructure for the Amp'd Mobile Cellular network.Worked as the technical lead on all software projects.Performed code reviews for vendors in PHP, J2EE, and C++Coordinated system integration across multiple data centers for content offerings, and billing functions.Successfully launched the Amp'd service in December 2005."
+            ],
+            [
+                "Sr. Software Architect",
+                "Company Name",
+                "Savvis",
+                "Dates Employed",
+                "Jun 2004 – Oct 2004",
+                "Employment Duration",
+                "5 mos",
+                "Built a large-scale real-time bandwidth-reporting portal for a leading CDN using J2EE and Struts/Tiles architecture.Designed and implemented a custom pivot database schema (OLAP alternative) in PostgreSQL for managing over 1 billion records.Built an automation platform for populating real-time records in PostgreSQL using Perl."
+            ],
+            [
+                "Sr. Software Architect",
+                "Company Name",
+                "Screen Actors Guild",
+                "Dates Employed",
+                "Apr 2003 – Jun 2004",
+                "Employment Duration",
+                "1 yr 3 mos",
+                "Led a technical team of 20 engineers in formulating a J2EE/Weblogic Portal 7.0 solution to manage 400,000 users.Assisted in development of a high-availability system, including data-center build-out, network architecture, and software architecture.Developed custom integration processes to facilitate studio residuals and earnings data to be automatically routed through Oracle E-Business Suite."
+            ],
+            [
+                "Sr Software Architect",
+                "Company Name",
+                "Metapa",
+                "Dates Employed",
+                "Apr 2001 – Oct 2002",
+                "Employment Duration",
+                "1 yr 7 mos",
+                "Integrated a JAAS-based authentication system into a SOAP-based software architecture.Created a resource meta-data management system and a network reliability-testing infrastructure.Engineered custom Apache modules to handle authentication with 3rd party management systems."
+            ],
+            [
+                "Director of Network Services / Lead System Architect",
+                "Company Name",
+                "SBASoft/Sage Metrics",
+                "Dates Employed",
+                "Aug 2000 – Apr 2001",
+                "Employment Duration",
+                "9 mos",
+                "Managed a team of network engineers, system engineers, developers, and network administrators.Designed and implemented a custom web-based CRM and ticket tracking system.Created a scalable SNMP management system for managing large distributed clusters.Designed and implemented a Network Operations Center capable of managing a high-volume 24x7 Application Service Provider.Utilized UML class, sequence, and use cases diagrams to document product design."
+            ],
+            [
+                "Sr Systems Engineer",
+                "Company Name",
+                "Digital Island",
+                "Dates Employed",
+                "Dec 1999 – Aug 2000",
+                "Employment Duration",
+                "9 mos",
+                "Designed and implemented software distribution system capable of handling software synchronization across 1200-plus servers.Created an automated large-scale backup system and a web-based tracking system."
+            ],
+            [
+                "Internet Systems Engineer",
+                "Company Name",
+                "Sandpiper Networks, Inc",
+                "Dates Employed",
+                "Aug 1998 – Dec 1999",
+                "Employment Duration",
+                "1 yr 5 mos",
+                "Served as the main contact for all high-level technical issues relating to the operation of a large-scale, distributed, high-availability network.Led technical staff in the construction of a robust 24/7 scalable Network Operations Center.Responsible for design and implementation of an SNMP-based network management system.Supported a large-scale distributed network consisting of more than 1000 servers, with bandwidth exceeding the OC-192 level.Designed and implemented high-availability web caching clusters.Acted as technical liaison between Operations and Software Engineering Departments.Senior Software Quality Assurance Engineer December 1997  -  September 1998Played pivotal role in Quality Assurance effort for large-scale distributed web caching system.Designed and implemented automated testing suites; assisted in the initial web server cluster design, including identifying redundancies and implementing an effective 4 load balancing model.Acted as liaison between the QA, Software Engineering, and Network Services Departments.Worked with customers to meet specific integration needs; designed custom plug-ins as needed."
+            ],
+            [
+                "Partner/Founder",
+                "Company Name",
+                "Red Eye Development",
+                "Dates Employed",
+                "1996 – 1999",
+                "Employment Duration",
+                "3 yrs",
+                "Location",
+                "Simi Valley, Ca",
+                "Software, and services"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Moorpark College",
+                "Degree Name",
+                "Associate of Arts (AA)",
+                "Field Of Study",
+                "Liberal Arts and Sciences/Liberal Studies"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Artificial Intelligence, Deep & Machine Learning, AI, Algorithms, Virtual Assistants,Chatbots",
+                "11,089 members"
+            ],
+            [
+                "The Business Leaders Roundtable®",
+                "439 members"
+            ],
+            [
+                "Guy KawasakiGuy Kawasaki is a LinkedIn Influencer",
+                "Chief evangelist + keynote speaker",
+                "2,632,442 followers"
+            ],
+            [
+                "LAKANA a division of Nexstar Digital",
+                "1,404 followers"
+            ],
+            [
+                "Alex BlumbergAlex Blumberg is a LinkedIn Influencer",
+                "Podcast Businessman",
+                "14,897 followers"
+            ],
+            [
+                "Undertone",
+                "9,341 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Artificial Intelligence, Deep & Machine Learning, AI, Algorithms, Virtual Assistants,Chatbots",
+                "11,089 members"
+            ],
+            [
+                "Artificial Intelligence, Deep & Machine Learning, AI, Algorithms, Virtual Assistants,Chatbots",
+                "11,089 members"
+            ],
+            [
+                "The Business Leaders Roundtable®",
+                "439 members"
+            ],
+            [
+                "The Business Leaders Roundtable®",
+                "439 members"
+            ],
+            [
+                "Guy KawasakiGuy Kawasaki is a LinkedIn Influencer",
+                "Chief evangelist + keynote speaker",
+                "2,632,442 followers"
+            ],
+            [
+                "Guy KawasakiGuy Kawasaki is a LinkedIn Influencer",
+                "Chief evangelist + keynote speaker",
+                "2,632,442 followers"
+            ],
+            [
+                "Guy Kawasaki is a LinkedIn Influencer"
+            ],
+            [
+                "LAKANA a division of Nexstar Digital",
+                "1,404 followers"
+            ],
+            [
+                "LAKANA a division of Nexstar Digital",
+                "1,404 followers"
+            ],
+            [
+                "Alex BlumbergAlex Blumberg is a LinkedIn Influencer",
+                "Podcast Businessman",
+                "14,897 followers"
+            ],
+            [
+                "Alex BlumbergAlex Blumberg is a LinkedIn Influencer",
+                "Podcast Businessman",
+                "14,897 followers"
+            ],
+            [
+                "Alex Blumberg is a LinkedIn Influencer"
+            ],
+            [
+                "Undertone",
+                "9,341 followers"
+            ],
+            [
+                "Undertone",
+                "9,341 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Chris Willett",
+                "Principal Software Engineer at NBC Universal",
+                "November 27, 2012, Chris reported directly to Kevin",
+                "Kevin is a key creator of a social media giant that is BuzzMedia. Having architected Celebuzz And Buzznet and many of BuzzMedia's other sites along with Steve Haldane, Kevin was leagues ahead of his time, designing and managing an unwieldy number of properties under insane deadlines. Kevin was instrumental in choosing frameworks and creating publishing tools, adding detailed customizations from APIs and scripts to the fine details of the sites UIs. He is great at managing project timelines and expectations, was fun to work for and with and always had great insight. I would work for Kevin again in a heartbeat."
+            ],
+            [
+                "Chris Willett",
+                "Principal Software Engineer at NBC Universal",
+                "November 27, 2012, Chris reported directly to Kevin"
+            ],
+            [
+                "Chris Willett",
+                "Principal Software Engineer at NBC Universal",
+                "November 27, 2012, Chris reported directly to Kevin"
+            ],
+            [
+                "Chris Willett",
+                "Principal Software Engineer at NBC Universal",
+                "November 27, 2012, Chris reported directly to Kevin"
+            ],
+            "Principal Software Engineer at NBC Universal",
+            [
+                "Kevin is a key creator of a social media giant that is BuzzMedia. Having architected Celebuzz And Buzznet and many of BuzzMedia's other sites along with Steve Haldane, Kevin was leagues ahead of his time, designing and managing an unwieldy number of properties under insane deadlines. Kevin was instrumental in choosing frameworks and creating publishing tools, adding detailed customizations from APIs and scripts to the fine details of the sites UIs. He is great at managing project timelines and expectations, was fun to work for and with and always had great insight. I would work for Kevin again in a heartbeat."
+            ],
+            [
+                "Kevin is a key creator of a social media giant that is BuzzMedia. Having architected Celebuzz And Buzznet and many of BuzzMedia's other sites along with Steve Haldane, Kevin was leagues ahead of his time, designing and managing an unwieldy number of properties under insane deadlines. Kevin was instrumental in choosing frameworks and creating publishing tools, adding detailed customizations from APIs and scripts to the fine details of the sites UIs. He is great at managing project timelines and expectations, was fun to work for and with and always had great insight. I would work for Kevin again in a heartbeat."
+            ],
+            [
+                "Shawn Faison",
+                "Senior Software Engineer at SABIO mobile",
+                "November 15, 2012, Shawn reported directly to Kevin",
+                "Kevin is a great leader, software architect, and programmer who stands out as a role model to other developers. Every one on our team looked up to Kevin's technical skill and we all respected and listened to his advice. He always lead by example and was available as a resource to us all. Often times he was the first programmer in the office and left late when we all left . I recommend him highly as he's basically a superhero technologist."
+            ],
+            [
+                "Shawn Faison",
+                "Senior Software Engineer at SABIO mobile",
+                "November 15, 2012, Shawn reported directly to Kevin"
+            ],
+            [
+                "Shawn Faison",
+                "Senior Software Engineer at SABIO mobile",
+                "November 15, 2012, Shawn reported directly to Kevin"
+            ],
+            [
+                "Shawn Faison",
+                "Senior Software Engineer at SABIO mobile",
+                "November 15, 2012, Shawn reported directly to Kevin"
+            ],
+            "Senior Software Engineer at SABIO mobile",
+            [
+                "Kevin is a great leader, software architect, and programmer who stands out as a role model to other developers. Every one on our team looked up to Kevin's technical skill and we all respected and listened to his advice. He always lead by example and was available as a resource to us all. Often times he was the first programmer in the office and left late when we all left . I recommend him highly as he's basically a superhero technologist."
+            ],
+            [
+                "Kevin is a great leader, software architect, and programmer who stands out as a role model to other developers. Every one on our team looked up to Kevin's technical skill and we all respected and listened to his advice. He always lead by example and was available as a resource to us all. Often times he was the first programmer in the office and left late when we all left . I recommend him highly as he's basically a superhero technologist."
+            ],
+            [
+                "Chris Willett",
+                "Principal Software Engineer at NBC Universal",
+                "November 27, 2012, Kevin was senior to Chris but didn’t manage directly",
+                "In the fast paced world of web application development, where software requirements continually evolve, yet deadlines remain, it takes an engineer who can adapt to this ever changing environment, and still deliver solid, quality software to make this successful. Chris was exactly this type of engineer at BuzzMedia. He was a key contributor to building the BuzzMedia publisher network from a handful of individually managed sites to an enterprise level platform capable of seemingly unlimited scalability. If there was a critical project on the table, I was always confident in assigning the project to Chris, because I trusted that he would architect, and implement a creative, and thoughtful solution that took scalability, reliability, and best practices into consideration."
+            ],
+            [
+                "Chris Willett",
+                "Principal Software Engineer at NBC Universal",
+                "November 27, 2012, Kevin was senior to Chris but didn’t manage directly"
+            ],
+            [
+                "Chris Willett",
+                "Principal Software Engineer at NBC Universal",
+                "November 27, 2012, Kevin was senior to Chris but didn’t manage directly"
+            ],
+            [
+                "Chris Willett",
+                "Principal Software Engineer at NBC Universal",
+                "November 27, 2012, Kevin was senior to Chris but didn’t manage directly"
+            ],
+            "Principal Software Engineer at NBC Universal",
+            [
+                "In the fast paced world of web application development, where software requirements continually evolve, yet deadlines remain, it takes an engineer who can adapt to this ever changing environment, and still deliver solid, quality software to make this successful. Chris was exactly this type of engineer at BuzzMedia. He was a key contributor to building the BuzzMedia publisher network from a handful of individually managed sites to an enterprise level platform capable of seemingly unlimited scalability. If there was a critical project on the table, I was always confident in assigning the project to Chris, because I trusted that he would architect, and implement a creative, and thoughtful solution that took scalability, reliability, and best practices into consideration."
+            ],
+            [
+                "In the fast paced world of web application development, where software requirements continually evolve, yet deadlines remain, it takes an engineer who can adapt to this ever changing environment, and still deliver solid, quality software to make this successful. Chris was exactly this type of engineer at BuzzMedia. He was a key contributor to building the BuzzMedia publisher network from a handful of individually managed sites to an enterprise level platform capable of seemingly unlimited scalability. If there was a critical project on the table, I was always confident in assigning the project to Chris, because I trusted that he would architect, and implement a creative, and thoughtful solution that took scalability, reliability, and best practices into consideration."
+            ],
+            [
+                "Shawn Faison",
+                "Senior Software Engineer at SABIO mobile",
+                "November 15, 2012, Shawn worked with Kevin in the same group",
+                "When I first started working with Shawn, I was completely impressed by his passion for technology, and his eagerness to want to continue expanding his knowledge of new technologies, whether it be functional programming with erlang, or harnessing the power of collective intelligence. As a software engineer, and a core member of the technical team, I had full confidence in his abilities to deliver on a project, and given the complicated, sometimes seemingly impossible requirements, I knew that he would work tirelessly to figure out the best solution. He was a pleasure to work with at BuzzMedia, and counts as one of a handful of engineers I've worked with throughout my career that I would continue to think of for future projects because of the level of quality he delivers."
+            ],
+            [
+                "Shawn Faison",
+                "Senior Software Engineer at SABIO mobile",
+                "November 15, 2012, Shawn worked with Kevin in the same group"
+            ],
+            [
+                "Shawn Faison",
+                "Senior Software Engineer at SABIO mobile",
+                "November 15, 2012, Shawn worked with Kevin in the same group"
+            ],
+            [
+                "Shawn Faison",
+                "Senior Software Engineer at SABIO mobile",
+                "November 15, 2012, Shawn worked with Kevin in the same group"
+            ],
+            "Senior Software Engineer at SABIO mobile",
+            [
+                "When I first started working with Shawn, I was completely impressed by his passion for technology, and his eagerness to want to continue expanding his knowledge of new technologies, whether it be functional programming with erlang, or harnessing the power of collective intelligence. As a software engineer, and a core member of the technical team, I had full confidence in his abilities to deliver on a project, and given the complicated, sometimes seemingly impossible requirements, I knew that he would work tirelessly to figure out the best solution. He was a pleasure to work with at BuzzMedia, and counts as one of a handful of engineers I've worked with throughout my career that I would continue to think of for future projects because of the level of quality he delivers."
+            ],
+            [
+                "When I first started working with Shawn, I was completely impressed by his passion for technology, and his eagerness to want to continue expanding his knowledge of new technologies, whether it be functional programming with erlang, or harnessing the power of collective intelligence. As a software engineer, and a core member of the technical team, I had full confidence in his abilities to deliver on a project, and given the complicated, sometimes seemingly impossible requirements, I knew that he would work tirelessly to figure out the best solution. He was a pleasure to work with at BuzzMedia, and counts as one of a handful of engineers I've worked with throughout my career that I would continue to think of for future projects because of the level of quality he delivers."
+            ]
+        ],
+        "skills": [
+            [
+                "Deep Learning",
+                "See 1 endorsement for Deep Learning",
+                "1",
+                "Deep Learning",
+                "Endorse",
+                "Paul Benevich has given an endorsement for this skill"
+            ],
+            [
+                "Deep Learning",
+                "See 1 endorsement for Deep Learning",
+                "1"
+            ],
+            [
+                "Apache",
+                "See 37 endorsements for Apache",
+                "37",
+                "Apache",
+                "Endorse",
+                "Endorsed by Shawn Faison, who is highly skilled at this",
+                "Endorsed by 3 of Kevin’s colleagues at Jetpack"
+            ],
+            [
+                "Apache",
+                "See 37 endorsements for Apache",
+                "37"
+            ],
+            [
+                "Scalability",
+                "See 32 endorsements for Scalability",
+                "32",
+                "Scalability",
+                "Endorse",
+                "Endorsed by 2 of Kevin’s colleagues at Jetpack"
+            ],
+            [
+                "Scalability",
+                "See 32 endorsements for Scalability",
+                "32"
+            ],
+            [
+                "MySQL",
+                "See 25 endorsements for MySQL",
+                "25",
+                "MySQL",
+                "Endorse"
+            ],
+            [
+                "MySQL",
+                "See 25 endorsements for MySQL",
+                "25"
+            ],
+            [
+                "PHP",
+                "See 21 endorsements for PHP",
+                "21",
+                "PHP",
+                "Endorse"
+            ],
+            [
+                "PHP",
+                "See 21 endorsements for PHP",
+                "21"
+            ],
+            [
+                "Unix",
+                "See 16 endorsements for Unix",
+                "16",
+                "Unix",
+                "Endorse"
+            ],
+            [
+                "Unix",
+                "See 16 endorsements for Unix",
+                "16"
+            ],
+            [
+                "Distributed Systems",
+                "See 14 endorsements for Distributed Systems",
+                "14",
+                "Distributed Systems",
+                "Endorse"
+            ],
+            [
+                "Distributed Systems",
+                "See 14 endorsements for Distributed Systems",
+                "14"
+            ],
+            [
+                "Web Applications",
+                "See 13 endorsements for Web Applications",
+                "13",
+                "Web Applications",
+                "Endorse"
+            ],
+            [
+                "Web Applications",
+                "See 13 endorsements for Web Applications",
+                "13"
+            ],
+            [
+                "CMS",
+                "See 12 endorsements for CMS",
+                "12",
+                "CMS",
+                "Endorse"
+            ],
+            [
+                "CMS",
+                "See 12 endorsements for CMS",
+                "12"
+            ],
+            [
+                "Strategic Partnerships",
+                "See 10 endorsements for Strategic Partnerships",
+                "10",
+                "Strategic Partnerships",
+                "Endorse"
+            ],
+            [
+                "Strategic Partnerships",
+                "See 10 endorsements for Strategic Partnerships",
+                "10"
+            ],
+            [
+                "Integration",
+                "See 10 endorsements for Integration",
+                "10",
+                "Integration",
+                "Endorse"
+            ],
+            [
+                "Integration",
+                "See 10 endorsements for Integration",
+                "10"
+            ],
+            [
+                "REST",
+                "See 8 endorsements for REST",
+                "8",
+                "REST",
+                "Endorse"
+            ],
+            [
+                "REST",
+                "See 8 endorsements for REST",
+                "8"
+            ],
+            [
+                "Mobile Applications",
+                "See 7 endorsements for Mobile Applications",
+                "7",
+                "Mobile Applications",
+                "Endorse"
+            ],
+            [
+                "Mobile Applications",
+                "See 7 endorsements for Mobile Applications",
+                "7"
+            ],
+            [
+                "Network Architecture",
+                "See 6 endorsements for Network Architecture",
+                "6",
+                "Network Architecture",
+                "Endorse"
+            ],
+            [
+                "Network Architecture",
+                "See 6 endorsements for Network Architecture",
+                "6"
+            ],
+            [
+                "C#",
+                "See 4 endorsements for C#",
+                "4",
+                "C#",
+                "Endorse"
+            ],
+            [
+                "C#",
+                "See 4 endorsements for C#",
+                "4"
+            ],
+            [
+                "Operating Systems",
+                "See 4 endorsements for Operating Systems",
+                "4",
+                "Operating Systems",
+                "Endorse"
+            ],
+            [
+                "Operating Systems",
+                "See 4 endorsements for Operating Systems",
+                "4"
+            ],
+            [
+                "Cloud Computing",
+                "See 4 endorsements for Cloud Computing",
+                "4",
+                "Cloud Computing",
+                "Endorse"
+            ],
+            [
+                "Cloud Computing",
+                "See 4 endorsements for Cloud Computing",
+                "4"
+            ],
+            [
+                "Software Development",
+                "See 4 endorsements for Software Development",
+                "4",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development",
+                "See 4 endorsements for Software Development",
+                "4"
+            ],
+            [
+                "jQuery",
+                "See 3 endorsements for jQuery",
+                "3",
+                "jQuery",
+                "Endorse"
+            ],
+            [
+                "jQuery",
+                "See 3 endorsements for jQuery",
+                "3"
+            ],
+            [
+                "Programming",
+                "See 3 endorsements for Programming",
+                "3",
+                "Programming",
+                "Endorse"
+            ],
+            [
+                "Programming",
+                "See 3 endorsements for Programming",
+                "3"
+            ],
+            [
+                "JavaScript",
+                "See 2 endorsements for JavaScript",
+                "2",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 2 endorsements for JavaScript",
+                "2"
+            ],
+            [
+                "Zend Framework",
+                "See 2 endorsements for Zend Framework",
+                "2",
+                "Zend Framework",
+                "Endorse"
+            ],
+            [
+                "Zend Framework",
+                "See 2 endorsements for Zend Framework",
+                "2"
+            ],
+            [
+                "Databases",
+                "See 2 endorsements for Databases",
+                "2",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 2 endorsements for Databases",
+                "2"
+            ],
+            [
+                "Software Architectural Design",
+                "See 1 endorsement for Software Architectural Design",
+                "1",
+                "Software Architectural Design",
+                "Endorse"
+            ],
+            [
+                "Software Architectural Design",
+                "See 1 endorsement for Software Architectural Design",
+                "1"
+            ],
+            [
+                "Mac OS X",
+                "See 1 endorsement for Mac OS X",
+                "1",
+                "Mac OS X",
+                "Endorse"
+            ],
+            [
+                "Mac OS X",
+                "See 1 endorsement for Mac OS X",
+                "1"
+            ],
+            [
+                "Java",
+                "See 1 endorsement for Java",
+                "1",
+                "Java",
+                "Endorse"
+            ],
+            [
+                "Java",
+                "See 1 endorsement for Java",
+                "1"
+            ],
+            [
+                "Entrepreneurship",
+                "See 1 endorsement for Entrepreneurship",
+                "1",
+                "Entrepreneurship",
+                "Endorse"
+            ],
+            [
+                "Entrepreneurship",
+                "See 1 endorsement for Entrepreneurship",
+                "1"
+            ],
+            [
+                "Objective-C",
+                "See 1 endorsement for Objective-C",
+                "1",
+                "Objective-C",
+                "Endorse"
+            ],
+            [
+                "Objective-C",
+                "See 1 endorsement for Objective-C",
+                "1"
+            ],
+            [
+                "LAMP",
+                "See 1 endorsement for LAMP",
+                "1",
+                "LAMP",
+                "Endorse"
+            ],
+            [
+                "LAMP",
+                "See 1 endorsement for LAMP",
+                "1"
+            ],
+            [
+                "Architectures",
+                "See 1 endorsement for Architectures",
+                "1",
+                "Architectures",
+                "Endorse"
+            ],
+            [
+                "Architectures",
+                "See 1 endorsement for Architectures",
+                "1"
+            ],
+            [
+                "CSS3",
+                "CSS3",
+                "Endorse"
+            ],
+            [
+                "CSS3"
+            ],
+            [
+                "System Architecture",
+                "System Architecture",
+                "Endorse"
+            ],
+            [
+                "System Architecture"
+            ],
+            [
+                "J2ME",
+                "J2ME",
+                "Endorse"
+            ],
+            [
+                "J2ME"
+            ],
+            [
+                "J2EE",
+                "J2EE",
+                "Endorse"
+            ],
+            [
+                "J2EE"
+            ],
+            [
+                "iOS",
+                "iOS",
+                "Endorse"
+            ],
+            [
+                "iOS"
+            ],
+            [
+                "Design Patterns",
+                "Design Patterns",
+                "Endorse"
+            ],
+            [
+                "Design Patterns"
+            ],
+            [
+                "Keras",
+                "Keras",
+                "Endorse"
+            ],
+            [
+                "Keras"
+            ],
+            [
+                "Python",
+                "Python",
+                "Endorse"
+            ],
+            [
+                "Python"
+            ],
+            [
+                "Amazon Web Services (AWS)",
+                "Amazon Web Services (AWS)",
+                "Endorse"
+            ],
+            [
+                "Amazon Web Services (AWS)"
+            ],
+            [
+                "Machine",
+                "Machine",
+                "Endorse"
+            ],
+            [
+                "Machine"
+            ],
+            [
+                "Leader",
+                "Leader",
+                "Endorse"
+            ],
+            [
+                "Leader"
+            ],
+            [
+                "Software Development Life Cycle (SDLC)",
+                "Software Development Life Cycle (SDLC)",
+                "Endorse"
+            ],
+            [
+                "Software Development Life Cycle (SDLC)"
+            ],
+            [
+                "Scrum",
+                "Scrum",
+                "Endorse"
+            ],
+            [
+                "Scrum"
+            ],
+            [
+                "Product Development",
+                "Product Development",
+                "Endorse"
+            ],
+            [
+                "Product Development"
+            ],
+            [
+                "Product Strategy",
+                "Product Strategy",
+                "Endorse"
+            ],
+            [
+                "Product Strategy"
+            ],
+            [
+                "Entrepreneurship Development",
+                "Entrepreneurship Development",
+                "Endorse"
+            ],
+            [
+                "Entrepreneurship Development"
+            ],
+            [
+                "IT Infrastructure Design",
+                "IT Infrastructure Design",
+                "Endorse"
+            ],
+            [
+                "IT Infrastructure Design"
+            ],
+            [
+                "Software Documentation",
+                "Software Documentation",
+                "Endorse"
+            ],
+            [
+                "Software Documentation"
+            ],
+            [
+                "Software Development Methodologies",
+                "Software Development Methodologies",
+                "Endorse"
+            ],
+            [
+                "Software Development Methodologies"
+            ],
+            [
+                "Agile Methodologies",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies"
+            ]
+        ],
+        "summary": "  Software, Systems, and Network architecture Specialties: Software, Systems, and Network architecture\n  \n  \n",
+        "name": "Kevin Woolery",
+        "title": "Co-Founder & CTO at Jetpack",
+        "url": "linkedin.com/in/kevinwoolery73",
+        "phone": "3109020498 (Mobile)",
+        "email": "kwoolery@gmail.com"
+    }
+]

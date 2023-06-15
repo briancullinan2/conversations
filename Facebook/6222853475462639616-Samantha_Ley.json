@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6222853475462639616/",
+    "participants": [
+        {
+            "name": "Samantha Ley",
+            "title": "Director of Client Development Advertisers at Find Your Influence, Inc",
+            "url": "linkedin.com/in/samanthaley",
+            "phone": null,
+            "email": "Samantha@findyourinfluence.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-05T19:18:00.000Z"
+        },
+        {
+            "from": "Samantha Ley",
+            "message": "Absolutely, always nice to network! \n\nBest, \nSamantha\n",
+            "time": "2018-01-10T19:43:00.000Z"
+        }
+    ]
+}

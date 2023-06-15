@@ -1,0 +1,54 @@
+{
+    "thread": "/messaging/thread/6240645872900730880/",
+    "participants": [
+        {
+            "name": "Amy Roberts",
+            "title": "Creative Recruiter",
+            "url": "linkedin.com/in/amyroberts823",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Amy Roberts",
+            "time": "2018-02-23T12:00:00.000Z",
+            "message": "Website Manager-Do you know anyone?\n\nHi Brian, \n\nStaffing Strong is recruiting for a Website Manager for a client in Scottsdale, AZ. They will have an understanding of best practices in all aspects of website management, including UX/UI, digital content development, conversion optimization, and A/B testing. They will identify and track the KPI’s that support organizational goals, and will be responsible for SEO and website performance analytics.\n\nImplement marketing strategy and site content schedule for website, updating with seasonal and promotional content\nDevelop web strategy for launches of new products and services\nIdentify traffic and conversion trends across the site and identify opportunities for improvement\nRecommend and implement testing to improve the website experience\nLead SEO optimization with 3rd party vendor support\nMonitor and report on customer journey and site experience, providing recommendations for improvements\nResearch competitor site experience to identify trends\nConstantly evaluate industry innovation and best practices to identify potential challenges or opportunities and recommend future enhancements\nManage Umbraco CMS system and push content \nEnsure web pages/assets adhere to brand guidelines and standards\nPartner with IT and 3rd party vendors on development and management of website\nSupport media tracking requirements\nLeverage analytics to enhance overall customer experience\n\nBachelor’s preferably in Marketing\nMinimum 3 years of exp in CMS and website management\nFamiliarity with the Umbraco platform\nAnalytics skills with ability to apply findings into recommendations for actions\nWebsite best practices\nStrong prioritization skills\nOutstanding communication skills (both oral and written) coupled w/ the ability to articulate clearly.\nAbility to build relationships/excellent verbal and written communication skills.\nSelf-directed w/ the ability to exercise independent judgment.\n\nThank you,\n\nAmy Roberts\namy@staffingstrong.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-23T21:40:00.000Z",
+            "message": "Thank you for connecting! What company?\n"
+        },
+        {
+            "from": "Amy Roberts",
+            "time": "2018-02-23T22:43:00.000Z",
+            "message": "I can send you our confidentiality agreement, we just ask that you keep the client information confidential. What is the best email for you?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-23T23:02:00.000Z",
+            "message": "Megamindbrian@gmail.com\n"
+        },
+        {
+            "from": "Amy Roberts",
+            "time": "2018-02-23T23:28:00.000Z",
+            "message": "Thanks Brian. Our client is Massage Envy.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-23T23:34:00.000Z",
+            "message": "OK, why would you need an NDA for that?\n"
+        },
+        {
+            "from": "Amy Roberts",
+            "time": "2018-02-23T23:38:00.000Z",
+            "message": "We ask our candidates information confidential. There are times when candidates are working with multiple agencies and we don't want those other agencies hounding our clients.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-23T23:49:00.000Z",
+            "message": "OK I don't want to work for a company that only works with one staffing agency.\n"
+        }
+    ]
+}

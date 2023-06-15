@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6230410130891042816/",
+    "participants": [
+        {
+            "name": "Shane Smith",
+            "title": "Ruby Test Engineer at Linux Academy",
+            "url": "linkedin.com/in/shaneallensmith",
+            "phone": null,
+            "email": "voodoogq@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-26T15:45:00.000Z"
+        }
+    ]
+}

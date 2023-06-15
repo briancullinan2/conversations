@@ -1,0 +1,22 @@
+{
+    "thread": "https://www.facebook.com/messages/archived/t/kevin.theiss.10",
+    "participants": [
+        {
+            "name": "Kevin Theiss",
+            "description": "Application Systems Analyst/Programmer at Northern Arizona University",
+            "url": "https://www.facebook.com/kevin.theiss.10"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Kevin",
+            "time": "2009-11-19T01:26:00.000Z",
+            "message": "\nHey Brian,\n\nI'm Kevin Theiss.  You may know me from ACM.  During your presentation, I was the guy in the front asking questions about the difficulty of using Drupal to create a web page.  Well, I remembered your offer to help people with making something in Drupal, and I was wondering if you would be able to help me.  I'm planning on starting something with it over the winter break, but I'm having a hard time getting it installed.  If you're going to be at ACM on Thursday, do you think we could meet up and figure this out?  Just let me know when you're available.  Thanks!\n\n--Kevin Theiss\n\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2009-11-19T21:10:00.000Z",
+            "message": "Brian\nHey Kevin,\n\nI should be able to stop by ACM tonight to take a look but I have other work to do.\n\nTalk to you then,\nBrian\n"
+        }
+    ]
+}

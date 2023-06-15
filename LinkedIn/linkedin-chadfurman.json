@@ -1,0 +1,576 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "72 Mutual Connections",
+                "You and Chad both know John Furrier, Kimberlie Cerrone, and 70 others"
+            ],
+            [
+                "He drives around the wilderness every day, for the most heartwarming reason.",
+                "Follow Adam Danyal for inspirational videos.",
+                "Chad shared this"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Tech Lead",
+                "Company Name",
+                "Clevertech",
+                "Dates Employed",
+                "Jul 2016 – Present",
+                "Employment Duration",
+                "1 yr 6 mos",
+                "Location",
+                "Remote, Corp-to-Corp",
+                "* Responsible for manual and automatic code deployments* Control scope to set and meet expectations according to business needs* Unblock devs and ensure accurate estimates* Agile sprint planning, hosting weekly planning poker and retrospective meetings* Run daily standup meetings and ensure daily update emails are delivered to client* Meet directly with client at client's discretion to address business needs* Deliver and support delivery of high quality React components* Re-architected WebRTC Conferencing platform to use Relay Modern, GraphQL, and Postgres* Organize monthly programming tournament* Administer changes to AWS (s3, iam, etc) as required"
+            ],
+            [
+                "Full-stack Developer",
+                "Company Name",
+                "Clevertech",
+                "Dates Employed",
+                "Jun 2015 – Jun 2016",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "Remote, Corp-to-Corp",
+                "Reporting directly to clientImplementing C code for recording and playback in Janus WebRTC Gateway pluginsScaling infrastructure to handle an unknown upper-limit of usersWorking with real-time UI updates via Socket.ioProgramming REST APIs in Node with Express and MongoPowering layouts with Flexbox and CSS3Coding Angular components (resources, controllers, routes, templates, etc.)Contributing to REST endpoint development in a Slim Micro-Framework APISupporting development in EmberCreating NetSuite RESTletsMaintaining interactive API documentation in ApiaryDeveloping MVC code in CakePHP 1.2Testing in SimpleTest, PHPUnit, and SplinterReviewing pull requests in GithubConfiguring Vagrant and AnsibleImproving internal tools using NodeJSScripting Hubot in Node with PromisesMocking with Sinon"
+            ],
+            [
+                "Senior Web Developer",
+                "Company Name",
+                "Fuzz Productions",
+                "Dates Employed",
+                "Sep 2013 – Jun 2015",
+                "Employment Duration",
+                "1 yr 10 mos",
+                "Location",
+                "Northampton, MA",
+                "Building REST APIs in MVC Frameworks: Laravel, CakePHP, Sails, Rails, Django, CodeIgniter, etc.Mocking APIs using Node and Express.Performing security audits with Burpsuite, SQLMap, Nmap, etc.Programming reusable AngularJS services, controllers, directives, etc. Independently pursue new technology: Polymer, Meteor, Ionic.Writing Gulp tasks to compile and minify static assets (i.e. SCSS).Managing AWS, Heroku, and shared hosting environments.Automating with bash: setup, deploy, check for POODLES, etc.Guiding projects through requirements gathering and estimates to completion.Participating in Agile sprints using Jira, and authoring documentation in Gitlab and Confluence.Coaching team members and staying current on the latest and greatest in HTML / JS / CSS."
+            ],
+            [
+                "Web Developer",
+                "Company Name",
+                "KathodeRay Media Inc.",
+                "Dates Employed",
+                "May 2012 – Aug 2013",
+                "Employment Duration",
+                "1 yr 4 mos",
+                "Location",
+                "Greenville, New York",
+                "Responsibilities included:Managing several projects including legacy Joomla 1.5 code with direct client communication. Creating custom CMSs using Code Igniter and Grocery Crud. Developing custom Wordpress / Joomla / Drupal themes and plugins.Maintaining legacy ASP code.Performing PSD-to-HTML conversions. Plan and lead company learning workshops.Write blog posts related to PHP development.",
+                "Media (1)",
+                "This position has 1 media",
+                "KathodeRay Media | Business Marketing Services | Marketing Albany NY",
+                "KathodeRay Media | Business Marketing Services | Marketing Albany NY",
+                "This media is a link"
+            ],
+            [
+                "Freelance Web Developer and Systems Administrator",
+                "Company Name",
+                "Cyber Architecture Freelance",
+                "Dates Employed",
+                "Jan 2005 – May 2012",
+                "Employment Duration",
+                "7 yrs 5 mos",
+                "Location",
+                "Greater Capital District, NY",
+                "Responsibilities include:Building custom templates for open source content management systemsManaging client relationshipsComplete project life-cycle from the first handshake"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "State University of New York at Albany",
+                "Degree Name",
+                "Bachelor of Science (B.S.)",
+                "Field Of Study",
+                "Mathematics and Computer Science",
+                "Dates attended or expected graduation",
+                "2008 – 2012"
+            ],
+            [
+                "State University of New York at Albany",
+                "Degree Name",
+                "Bachelor of Science (B.S.)",
+                "Field Of Study",
+                "Mathematics and Computer Science",
+                "Dates attended or expected graduation",
+                "2008 – 2012"
+            ],
+            [
+                "Hudson Valley Community College",
+                "Degree Name",
+                "Associate of Science (A.S.)",
+                "Field Of Study",
+                "Computer Information Systems",
+                "Dates attended or expected graduation",
+                "2006 – 2008"
+            ],
+            [
+                "Hudson Valley Community College",
+                "Degree Name",
+                "Associate of Science (A.S.)",
+                "Field Of Study",
+                "Computer Information Systems",
+                "Dates attended or expected graduation",
+                "2006 – 2008"
+            ],
+            [
+                "Duanesburg Central",
+                "Degree Name",
+                "Advanced Regents Diploma with Honors",
+                "Dates attended or expected graduation",
+                "2002 – 2006"
+            ],
+            [
+                "Duanesburg Central",
+                "Degree Name",
+                "Advanced Regents Diploma with Honors",
+                "Dates attended or expected graduation",
+                "2002 – 2006"
+            ],
+            [
+                "Schenectady County Community College -- Non-Matriculated",
+                "Degree Name",
+                "Non-Matriculated",
+                "Field Of Study",
+                "Computer and Information Sciences, General",
+                "Dates attended or expected graduation",
+                "1996 – 1998"
+            ],
+            [
+                "Schenectady County Community College -- Non-Matriculated",
+                "Degree Name",
+                "Non-Matriculated",
+                "Field Of Study",
+                "Computer and Information Sciences, General",
+                "Dates attended or expected graduation",
+                "1996 – 1998"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Developer",
+                "Company Name",
+                "Occupy Albany"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See 47 more skills"
+            ],
+            "Recommendations",
+            [
+                "Jamie DimonJamie Dimon is a LinkedIn Influencer",
+                "Chairman and CEO of JPMorgan Chase & Co.",
+                "722,484 followers"
+            ],
+            [
+                "JavaScript",
+                "137,667 members"
+            ],
+            [
+                "MYSQL PHP Developer",
+                "22,428 members"
+            ],
+            [
+                "Fuzz",
+                "1,647 followers"
+            ],
+            [
+                "Laravel PHP Framework",
+                "25,669 members"
+            ],
+            [
+                "Open Source",
+                "183,823 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Jamie DimonJamie Dimon is a LinkedIn Influencer",
+                "Chairman and CEO of JPMorgan Chase & Co.",
+                "722,484 followers"
+            ],
+            [
+                "Jamie DimonJamie Dimon is a LinkedIn Influencer",
+                "Chairman and CEO of JPMorgan Chase & Co.",
+                "722,484 followers"
+            ],
+            [
+                "Jamie Dimon is a LinkedIn Influencer"
+            ],
+            [
+                "JavaScript",
+                "137,667 members"
+            ],
+            [
+                "JavaScript",
+                "137,667 members"
+            ],
+            [
+                "MYSQL PHP Developer",
+                "22,428 members"
+            ],
+            [
+                "MYSQL PHP Developer",
+                "22,428 members"
+            ],
+            [
+                "Fuzz",
+                "1,647 followers"
+            ],
+            [
+                "Fuzz",
+                "1,647 followers"
+            ],
+            [
+                "Laravel PHP Framework",
+                "25,669 members"
+            ],
+            [
+                "Laravel PHP Framework",
+                "25,669 members"
+            ],
+            [
+                "Open Source",
+                "183,823 members"
+            ],
+            [
+                "Open Source",
+                "183,823 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Ian Thornton",
+                "Builder of digital products",
+                "September 20, 2016, Chad worked with Ian in the same group",
+                "Intelligent, articulate and dedicated, Chad is a guaranteed prize player. I couldn't have wished for a more calm, friendly and engaging person to join my team. In the dev world it can sometimes be difficult to find someone that's hard working and super-smart without being stubborn and difficult to work with, but Chad really is that person. Whether he's working alone on a task or pairing up to solve something, whether it's heavy coding, working on ideas or preparing documentation, you can be sure it'll be nothing less than 100%."
+            ],
+            [
+                "Ian Thornton",
+                "Builder of digital products",
+                "September 20, 2016, Chad worked with Ian in the same group"
+            ],
+            [
+                "Ian Thornton",
+                "Builder of digital products",
+                "September 20, 2016, Chad worked with Ian in the same group"
+            ],
+            [
+                "Ian Thornton",
+                "Builder of digital products",
+                "September 20, 2016, Chad worked with Ian in the same group"
+            ],
+            "Builder of digital products",
+            [
+                "Intelligent, articulate and dedicated, Chad is a guaranteed prize player. I couldn't have wished for a more calm, friendly and engaging person to join my team. In the dev world it can sometimes be difficult to find someone that's hard working and super-smart without being stubborn and difficult to work with, but Chad really is that person. Whether he's working alone on a task or pairing up to solve something, whether it's heavy coding, working on ideas or preparing documentation, you can be sure it'll be nothing less than 100%."
+            ],
+            [
+                "Intelligent, articulate and dedicated, Chad is a guaranteed prize player. I couldn't have wished for a more calm, friendly and engaging person to join my team. In the dev world it can sometimes be difficult to find someone that's hard working and super-smart without being stubborn and difficult to work with, but Chad really is that person. Whether he's working alone on a task or pairing up to solve something, whether it's heavy coding, working on ideas or preparing documentation, you can be sure it'll be nothing less than 100%."
+            ],
+            [
+                "Kévin Pérard",
+                "Product Manager at CleverTech",
+                "August 31, 2016, Kévin managed Chad directly",
+                "Chad is super dedicated about everything he does. He has a lot of knowledge that he loves to share with his team. He always respects his deadlines and he will deliver a product of high quality at the end. With all of that said, he stays modest despite his great performance."
+            ],
+            [
+                "Kévin Pérard",
+                "Product Manager at CleverTech",
+                "August 31, 2016, Kévin managed Chad directly"
+            ],
+            [
+                "Kévin Pérard",
+                "Product Manager at CleverTech",
+                "August 31, 2016, Kévin managed Chad directly"
+            ],
+            [
+                "Kévin Pérard",
+                "Product Manager at CleverTech",
+                "August 31, 2016, Kévin managed Chad directly"
+            ],
+            "Product Manager at CleverTech",
+            [
+                "Chad is super dedicated about everything he does. He has a lot of knowledge that he loves to share with his team. He always respects his deadlines and he will deliver a product of high quality at the end. With all of that said, he stays modest despite his great performance."
+            ],
+            [
+                "Chad is super dedicated about everything he does. He has a lot of knowledge that he loves to share with his team. He always respects his deadlines and he will deliver a product of high quality at the end. With all of that said, he stays modest despite his great performance."
+            ],
+            [
+                "Adrian Gabriel Gesto Delgado",
+                "Full Stack Developer",
+                "July 26, 2016, Chad worked with Adrian Gabriel in the same group",
+                "Chad is a top tier developer, reliable, flexible and very committed to what he does. Always keeping his mind on the game, even when under pressure he's able to keep team morale up and deliver without altering the quality of his output.  I've been humbled to work with such a bright mind as his, his determination and focus allowed the team to provide over the top results when the odds were all against us."
+            ],
+            [
+                "Adrian Gabriel Gesto Delgado",
+                "Full Stack Developer",
+                "July 26, 2016, Chad worked with Adrian Gabriel in the same group"
+            ],
+            [
+                "Adrian Gabriel Gesto Delgado",
+                "Full Stack Developer",
+                "July 26, 2016, Chad worked with Adrian Gabriel in the same group"
+            ],
+            [
+                "Adrian Gabriel Gesto Delgado",
+                "Full Stack Developer",
+                "July 26, 2016, Chad worked with Adrian Gabriel in the same group"
+            ],
+            "Full Stack Developer",
+            [
+                "Chad is a top tier developer, reliable, flexible and very committed to what he does. Always keeping his mind on the game, even when under pressure he's able to keep team morale up and deliver without altering the quality of his output.  I've been humbled to work with such a bright mind as his, his determination and focus allowed the team to provide over the top results when the odds were all against us."
+            ],
+            [
+                "Chad is a top tier developer, reliable, flexible and very committed to what he does. Always keeping his mind on the game, even when under pressure he's able to keep team morale up and deliver without altering the quality of his output.  I've been humbled to work with such a bright mind as his, his determination and focus allowed the team to provide over the top results when the odds were all against us."
+            ],
+            [
+                "Erica Breuer",
+                "Personal Brand Strategist—Stand Out, Get Noticed, & Attract The Work You Love",
+                "February 7, 2016, Erica was senior to Chad but didn’t manage directly",
+                "As HR manager at Clevertech, I was the first person on our team that Chad had a chance to wow— but I wasn’t the last. Chad delights clients, project managers, and the developers he codes alongside for a number of reasons. He’s a great listener that loves exploring new ideas. He understands how to share a vision. He’s always growing his talents and ready to use them to support others through tough challenges. The result? Chad is a knockout developer. If you’re reading this, connect with him and set a time to grab coffee with him. You’ll be glad you did!"
+            ],
+            [
+                "Erica Breuer",
+                "Personal Brand Strategist—Stand Out, Get Noticed, & Attract The Work You Love",
+                "February 7, 2016, Erica was senior to Chad but didn’t manage directly"
+            ],
+            [
+                "Erica Breuer",
+                "Personal Brand Strategist—Stand Out, Get Noticed, & Attract The Work You Love",
+                "February 7, 2016, Erica was senior to Chad but didn’t manage directly"
+            ],
+            [
+                "Erica Breuer",
+                "Personal Brand Strategist—Stand Out, Get Noticed, & Attract The Work You Love",
+                "February 7, 2016, Erica was senior to Chad but didn’t manage directly"
+            ],
+            "Personal Brand Strategist—Stand Out, Get Noticed, & Attract The Work You Love",
+            [
+                "As HR manager at Clevertech, I was the first person on our team that Chad had a chance to wow— but I wasn’t the last. Chad delights clients, project managers, and the developers he codes alongside for a number of reasons. He’s a great listener that loves exploring new ideas. He understands how to share a vision. He’s always growing his talents and ready to use them to support others through tough challenges. The result? Chad is a knockout developer. If you’re reading this, connect with him and set a time to grab coffee with him. You’ll be glad you did!"
+            ],
+            [
+                "As HR manager at Clevertech, I was the first person on our team that Chad had a chance to wow— but I wasn’t the last. Chad delights clients, project managers, and the developers he codes alongside for a number of reasons. He’s a great listener that loves exploring new ideas. He understands how to share a vision. He’s always growing his talents and ready to use them to support others through tough challenges. The result? Chad is a knockout developer. If you’re reading this, connect with him and set a time to grab coffee with him. You’ll be glad you did!"
+            ],
+            [
+                "Katherine Silverston",
+                "QA Tester at LOOKBOOKS Media",
+                "February 2, 2016, Chad worked with Katherine in the same group",
+                "Chad is a wonderful person! He is always very helpful and very patient, and really knows how to problem solve and figure out issues as they arise. I can easily say he was one of the best developers I've had experience working with, and hope to work with him on another project in the future. He is an asset to any team he is with, and along with being a great team player is also a wonderful motivator when the chips are down."
+            ],
+            [
+                "Katherine Silverston",
+                "QA Tester at LOOKBOOKS Media",
+                "February 2, 2016, Chad worked with Katherine in the same group"
+            ],
+            [
+                "Katherine Silverston",
+                "QA Tester at LOOKBOOKS Media",
+                "February 2, 2016, Chad worked with Katherine in the same group"
+            ],
+            [
+                "Katherine Silverston",
+                "QA Tester at LOOKBOOKS Media",
+                "February 2, 2016, Chad worked with Katherine in the same group"
+            ],
+            "QA Tester at LOOKBOOKS Media",
+            [
+                "Chad is a wonderful person! He is always very helpful and very patient, and really knows how to problem solve and figure out issues as they arise. I can easily say he was one of the best developers I've had experience working with, and hope to work with him on another project in the future. He is an asset to any team he is with, and along with being a great team player is also a wonderful motivator when the chips are down."
+            ],
+            [
+                "Chad is a wonderful person! He is always very helpful and very patient, and really knows how to problem solve and figure out issues as they arise. I can easily say he was one of the best developers I've had experience working with, and hope to work with him on another project in the future. He is an asset to any team he is with, and along with being a great team player is also a wonderful motivator when the chips are down."
+            ],
+            [
+                "James Nadeau",
+                "Senior Engineer at CleverTech",
+                "February 1, 2016, James was senior to Chad but didn’t manage directly",
+                "Kind, engaging, and always looking to learn. If Chad doesn't understand something, his ego has never gotten in the way of asking for help. More importantly he listens and then tries to apply what he's learned. Keep it up chad, you'll go far!"
+            ],
+            [
+                "James Nadeau",
+                "Senior Engineer at CleverTech",
+                "February 1, 2016, James was senior to Chad but didn’t manage directly"
+            ],
+            [
+                "James Nadeau",
+                "Senior Engineer at CleverTech",
+                "February 1, 2016, James was senior to Chad but didn’t manage directly"
+            ],
+            [
+                "James Nadeau",
+                "Senior Engineer at CleverTech",
+                "February 1, 2016, James was senior to Chad but didn’t manage directly"
+            ],
+            "Senior Engineer at CleverTech",
+            [
+                "Kind, engaging, and always looking to learn. If Chad doesn't understand something, his ego has never gotten in the way of asking for help. More importantly he listens and then tries to apply what he's learned. Keep it up chad, you'll go far!"
+            ],
+            [
+                "Kind, engaging, and always looking to learn. If Chad doesn't understand something, his ego has never gotten in the way of asking for help. More importantly he listens and then tries to apply what he's learned. Keep it up chad, you'll go far!"
+            ],
+            [
+                "Jhon H. Caicedo",
+                "Senior Developer at CleverTech",
+                "January 31, 2016, Chad worked with Jhon H. in the same group",
+                "Chad has proved to be an excellent co worker and professional, really kind, creates very good code, is always ready to help and has a great ability to learn and do research when needed."
+            ],
+            [
+                "Jhon H. Caicedo",
+                "Senior Developer at CleverTech",
+                "January 31, 2016, Chad worked with Jhon H. in the same group"
+            ],
+            [
+                "Jhon H. Caicedo",
+                "Senior Developer at CleverTech",
+                "January 31, 2016, Chad worked with Jhon H. in the same group"
+            ],
+            [
+                "Jhon H. Caicedo",
+                "Senior Developer at CleverTech",
+                "January 31, 2016, Chad worked with Jhon H. in the same group"
+            ],
+            "Senior Developer at CleverTech",
+            [
+                "Chad has proved to be an excellent co worker and professional, really kind, creates very good code, is always ready to help and has a great ability to learn and do research when needed."
+            ],
+            [
+                "Chad has proved to be an excellent co worker and professional, really kind, creates very good code, is always ready to help and has a great ability to learn and do research when needed."
+            ],
+            [
+                "Bartosz Jarocki",
+                "Co-Owner at Ulam Labs",
+                "August 17, 2017, Chad managed Bartosz directly",
+                "In the corp-to-corp remote-first setting we both work, Bartosz is both disciplined and focused.  When you combine the fact that 1) Bartosz is a pleasure to work with and 2) Bartosz constantly demonstrates curiosity and willingness to embrace and learn new tech, then what you get is a passionate programmer with a tendency to go above, beyond, and excel consistently."
+            ],
+            [
+                "Bartosz Jarocki",
+                "Co-Owner at Ulam Labs",
+                "August 17, 2017, Chad managed Bartosz directly"
+            ],
+            [
+                "Bartosz Jarocki",
+                "Co-Owner at Ulam Labs",
+                "August 17, 2017, Chad managed Bartosz directly"
+            ],
+            [
+                "Bartosz Jarocki",
+                "Co-Owner at Ulam Labs",
+                "August 17, 2017, Chad managed Bartosz directly"
+            ],
+            "Co-Owner at Ulam Labs",
+            [
+                "In the corp-to-corp remote-first setting we both work, Bartosz is both disciplined and focused.  When you combine the fact that 1) Bartosz is a pleasure to work with and 2) Bartosz constantly demonstrates curiosity and willingness to embrace and learn new tech, then what you get is a passionate programmer with a tendency to go above, beyond, and excel consistently."
+            ],
+            [
+                "In the corp-to-corp remote-first setting we both work, Bartosz is both disciplined and focused.  When you combine the fact that 1) Bartosz is a pleasure to work with and 2) Bartosz constantly demonstrates curiosity and willingness to embrace and learn new tech, then what you get is a passionate programmer with a tendency to go above, beyond, and excel consistently."
+            ],
+            [
+                "Glenn Lasher",
+                "Release Management Engineer at IntegraTouch",
+                "July 29, 2017, Chad and Glenn were students together",
+                "Glenn is an intelligent and passionate techie who's driven to learn and grow.  Being experienced with both systems administration and audio engineering while also possessing strong communication and social skills make Glenn Lasher a valuable addition to any team."
+            ],
+            [
+                "Glenn Lasher",
+                "Release Management Engineer at IntegraTouch",
+                "July 29, 2017, Chad and Glenn were students together"
+            ],
+            [
+                "Glenn Lasher",
+                "Release Management Engineer at IntegraTouch",
+                "July 29, 2017, Chad and Glenn were students together"
+            ],
+            [
+                "Glenn Lasher",
+                "Release Management Engineer at IntegraTouch",
+                "July 29, 2017, Chad and Glenn were students together"
+            ],
+            "Release Management Engineer at IntegraTouch",
+            [
+                "Glenn is an intelligent and passionate techie who's driven to learn and grow.  Being experienced with both systems administration and audio engineering while also possessing strong communication and social skills make Glenn Lasher a valuable addition to any team."
+            ],
+            [
+                "Glenn is an intelligent and passionate techie who's driven to learn and grow.  Being experienced with both systems administration and audio engineering while also possessing strong communication and social skills make Glenn Lasher a valuable addition to any team."
+            ]
+        ],
+        "skills": [
+            [
+                "JavaScript",
+                "See 113 endorsements for JavaScript",
+                "99+",
+                "JavaScript",
+                "Endorse",
+                "Endorsed by David Jurado Ortega and 18 others who are highly skilled at this",
+                "Endorsed by Jason Tennant and 1 other mutual connection"
+            ],
+            [
+                "JavaScript",
+                "See 113 endorsements for JavaScript",
+                "99+"
+            ],
+            [
+                "HTML",
+                "See 101 endorsements for HTML",
+                "99+",
+                "HTML",
+                "Endorse",
+                "Endorsed by Erinç Emer and 13 others who are highly skilled at this",
+                "Endorsed by 8 of Chad’s colleagues at Clevertech"
+            ],
+            [
+                "HTML",
+                "See 101 endorsements for HTML",
+                "99+"
+            ],
+            [
+                "PHP",
+                "See 87 endorsements for PHP",
+                "87",
+                "PHP",
+                "Endorse",
+                "Endorsed by David Jurado Ortega and 3 others who are highly skilled at this",
+                "Endorsed by 8 of Chad’s colleagues at Clevertech"
+            ],
+            [
+                "PHP",
+                "See 87 endorsements for PHP",
+                "87"
+            ]
+        ],
+        "summary": "    * I am only interested in 100% telecommuting positions at this time** I am currently not looking to make a switchProfessional, dedicated, friendly.  Over ten years experience.  PHP, JS, Python, C -- Laravel, Angular, Express, Flask, WebRTC.  Version control. Linux / Mac / CLI.   Currently enjoying full-time telecommuting with a team that values consistent quality, effort, and growth.\n  \n  \n",
+        "name": "Chad Furman",
+        "title": "Tech Lead at Clevertech",
+        "url": "linkedin.com/in/chadfurman",
+        "phone": "",
+        "email": "cybarc@gmail.com"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6237378891678302209/",
+    "participants": [
+        {
+            "name": "Nick Maultsby",
+            "title": "Head of Engineering at DUFL",
+            "url": "linkedin.com/in/nickmaultsby",
+            "phone": null,
+            "email": "nmaultsby@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-14T21:16:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

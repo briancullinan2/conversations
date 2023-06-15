@@ -1,0 +1,713 @@
+[
+    {
+        "resourceName": "people/c8565812973496709947",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "76dfe18409b4333b"
+                    }
+                },
+                "displayName": "Jared Hrabak",
+                "familyName": "Hrabak",
+                "givenName": "Jared",
+                "displayNameLastFirst": "Hrabak, Jared"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "110714389140309512060"
+                    }
+                },
+                "displayName": "Jared",
+                "givenName": "Jared",
+                "displayNameLastFirst": "Jared"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "76dfe18409b4333b"
+                    }
+                },
+                "value": "+1-623-521-2073",
+                "canonicalForm": "+16235212073",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "5 Mutual Connections",
+                "You and Jared both know Linda Zaruches, Kerri Francisco, CPC, and 3 others"
+            ],
+            [
+                "You both studied at Northern Arizona University",
+                "You both studied at Northern Arizona University from 2006 to 2009"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "IT Security Supervisor",
+                "Company Name",
+                "FIS",
+                "Dates Employed",
+                "Aug 2014 – Present",
+                "Employment Duration",
+                "3 yrs 3 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "NETOPS Officer",
+                "Company Name",
+                "United States Army Reserve",
+                "Dates Employed",
+                "Dec 2009 – Present",
+                "Employment Duration",
+                "7 yrs 11 mos",
+                "Location",
+                "Mesa, AZ",
+                "•Supervise and manage information system assets associated with Automated Information Systems (AIS) and Internet Protocol (IP) Local Area Networks (LAN) for Army Enterprise Systems.•Plan, develop, implement, and test real time voice and data tactical information systems.•Assist in leading of personnel in the S3 section and managing the training of Soldiers in the administration, management, maintenance, operation, integration, securing and troubleshooting of tactical AIS, intranets, and video teleconferencing (VTC) systems.•Create and implement Information Assurance/Computer Network Defense (IA/CND) programs to protect and defend information, computers, and networks from disruption, denial of service, degradation, or destruction. Support the Information Assurance Vulnerability Alert (IAVA) and Information Condition programs.•Develop policy recommendations and advise commanders and staff on planning, installing, administering, managing, maintaining, operating, integrating and securing information systems on Army, Joint, Combined, and Coalition networks. •Technical Applications: Open Shortest Path First, Enhanced Interior Gateway Routing Protocol, Border Gateway Protocol, Routing Information Protocol, Virtual Local Area Networks, Dynamic Multipoint VPN, Next Hop Resolution Protocol, Quality of Service, Voice over IP."
+            ],
+            [
+                "Systems Administrator II",
+                "Company Name",
+                "Fidelity National Information Services",
+                "Dates Employed",
+                "Apr 2013 – Jul 2014",
+                "Employment Duration",
+                "1 yr 4 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Perform monitoring of critical Hosted Services systems.Perform daily, weekly and monthly maintenance tasks for Hosted Services.Work incidents and escalate to other members of the Hosted Team.Assist with the coordination and provisioning of new hosted customers into production.Escalation point for services related events for Hosted customers.Creating and maintaining process documentation, checklists and guidelines for implementation and support services.Hosted Services end user (customer) configuration changes.Performing restoration services and requests.Serve as an escalation point for all services related to the Hosted Services customers.Disaster Recovery Team.This position is responsible participating on the DR testing team for LAN and Hosted Services Customers."
+            ],
+            [
+                "Executive Officer",
+                "Company Name",
+                "US Army",
+                "Dates Employed",
+                "Feb 2012 – Mar 2013",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "Kabul, Afghanistan",
+                "• Deployed to Afghanistan with a Signal Company that is tasked to support over 15,000 customers 24/7, including over 200 distinguished VIPs from multiple directorates and international coalition forces• Provides guidance, policies, training and instructions to 15 subordinates in order to accomplish allmissions and tasks• Coordinate, supervise and advise on activities pertaining to missions, training and operations• Guide subordinates with strategic and technical guidance to five distant sites in the Greater KabulMetropolitan Area, as well as professional advice to both subordinates and superiors• Responsible for managing the day-to-day operations of the company, analyzing and applying thecollective intelligence and threat reports on road conditions in Kabul, ensuring the safety of soldiers in a volatile and hazardous environment• Provide technical briefs to higher level officers on network outages, security issues, and programoperations• Routinely solve large technical related problems that affected customers by coordinating and providing the necessary resources to mitigate issues and restore services• Coordinates the deployment of the Mission Essential Vulnerability Area (MEVA) team in response to potential or increased security threats to base operations in coordination with the unit Terrorism Liaison Officer"
+            ],
+            [
+                "Proxy Web Filter Administrator",
+                "Company Name",
+                "General Dynamics Information Technology",
+                "Dates Employed",
+                "Jan 2011 – Mar 2013",
+                "Employment Duration",
+                "2 yrs 3 mos",
+                "Location",
+                "Sierra Vista, AZ",
+                "•Intermediate-level Proxy Web Filter Administrator working as part of a small team of peer and senior-level administrators, specializing in Blue Coat Web Proxy.•Working on incidents which consist of providing customer support regarding standard change issues, addressing known recurring scenarios, site categorization, reverse configuration and troubleshoot problems in order to support mission customers and end users.•Troubleshooting of web based issues, network problems and other technical issues to support mission customers and end users, participating in on-call support.•Responsible for the protection of Army web servers across the continental United States. •Perform remote administration of Network Appliance NetCache and BlueCoat Proxies.•Secure Gateway devices and security log servers running Red Hat Enterprise Linux 3.0. •Maintain current knowledge of mission hardware and software applications. •Perform Log Analysis, DNS entry coordination, ACL management and multi-system configuration control as required. Resolve or coordinate a resolution to APC forward and reverse proxy incidents and develop SOPs for APC specific technical issues. •Documentation and development of forward and reverse proxy Standard Operating Procedures for all policy decisions. •Technical Applications: Lightweight Directory Access Protocol, Domain Name System, Dynamic Host Configuration Protocol, Hypertext Transfer Protocol and Secure, File Transfer Protocol, Secure Shell and Wireshark, Public Key Encyption, SSL/TLS Server Certificates."
+            ],
+            [
+                "Help Desk Technician",
+                "Company Name",
+                "General Dynamics Information Technology",
+                "Dates Employed",
+                "Nov 2010 – Jan 2011",
+                "Employment Duration",
+                "3 mos",
+                "Location",
+                "Sierra Vista, AZ",
+                "Recommends systems modifications to reduce user problems. Responsible for fielding trouble calls, providing PC and application level support to users to include providing communication/training to users on desktop systems, assisting them with setup issues, hardware or applications failure."
+            ],
+            [
+                "Assistant Scoutmaster",
+                "Company Name",
+                "Boy Scouts of America",
+                "Dates Employed",
+                "2005 – 2005",
+                "Employment Duration",
+                "less than a year"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Signal Basic Officer Leadership Course",
+                "Dates attended or expected graduation",
+                "2010 – 2010",
+                "CompTIA Security +, cryptology, network intrusion devices, implementing and maintaining a secure network and security policies and procedures. CISCO Certified Network Associate 1st Semester, completed Network Fundamentals, CISCO packet tracer and command line interface of routers. Windows XP, Vista, Windows 7, VMware, Virtual PC, Microsoft Office 2003, 2007, 2010, Sharepoint, Outlook 2007, MS Exchange, Managing User and Computer Accounts, Active Directory, Implementing Group Policies, Joint Network Node, Signal Switching, Harris Radios, SATCOM, Radio Frequency Spectrum, NIPR, SIPR, VoIP, VTC, COMSEC, BFT, FBCBv2. Trained to be a Platoon Leader or an S6, to plan and manage Signal equipment and personnel."
+            ],
+            [
+                "Signal Basic Officer Leadership Course",
+                "Dates attended or expected graduation",
+                "2010 – 2010",
+                "CompTIA Security +, cryptology, network intrusion devices, implementing and maintaining a secure network and security policies and procedures. CISCO Certified Network Associate 1st Semester, completed Network Fundamentals, CISCO packet tracer and command line interface of routers. Windows XP, Vista, Windows 7, VMware, Virtual PC, Microsoft Office 2003, 2007, 2010, Sharepoint, Outlook 2007, MS Exchange, Managing User and Computer Accounts, Active Directory, Implementing Group Policies, Joint Network Node, Signal Switching, Harris Radios, SATCOM, Radio Frequency Spectrum, NIPR, SIPR, VoIP, VTC, COMSEC, BFT, FBCBv2. Trained to be a Platoon Leader or an S6, to plan and manage Signal equipment and personnel."
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Parks and Recreation Management",
+                "Dates attended or expected graduation",
+                "2006 – 2009"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Parks and Recreation Management",
+                "Dates attended or expected graduation",
+                "2006 – 2009"
+            ],
+            [
+                "Mountain Ridge High School"
+            ],
+            [
+                "Mountain Ridge High School"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Arizona Cyber Warfare Range",
+                "789 followers"
+            ],
+            [
+                "Information Assurance",
+                "15,084 members"
+            ],
+            [
+                "Infosec Products and Tools - No Jobs",
+                "1,261 members"
+            ],
+            [
+                "United Tissue Network",
+                "166 followers"
+            ],
+            [
+                "FIS",
+                "124,254 followers"
+            ],
+            [
+                "OpenDNS - now a part of Cisco",
+                "13,632 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (435)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Arizona Cyber Warfare Range",
+                "789 followers"
+            ],
+            [
+                "Arizona Cyber Warfare Range",
+                "789 followers"
+            ],
+            [
+                "Information Assurance",
+                "15,084 members"
+            ],
+            [
+                "Information Assurance",
+                "15,084 members"
+            ],
+            [
+                "Infosec Products and Tools - No Jobs",
+                "1,261 members"
+            ],
+            [
+                "Infosec Products and Tools - No Jobs",
+                "1,261 members"
+            ],
+            [
+                "United Tissue Network",
+                "166 followers"
+            ],
+            [
+                "United Tissue Network",
+                "166 followers"
+            ],
+            [
+                "FIS",
+                "124,254 followers"
+            ],
+            [
+                "FIS",
+                "124,254 followers"
+            ],
+            [
+                "OpenDNS - now a part of Cisco",
+                "13,632 followers"
+            ],
+            [
+                "OpenDNS - now a part of Cisco",
+                "13,632 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Security",
+                "See 31 endorsements for Security",
+                "31",
+                "Security",
+                "Endorse",
+                "Endorsed by William Lowdermilk and 2 others who are highly skilled at this",
+                "Endorsed by 5 of Jared’s colleagues at FIS"
+            ],
+            [
+                "Security",
+                "See 31 endorsements for Security",
+                "31"
+            ],
+            [
+                "Active Directory",
+                "See 31 endorsements for Active Directory",
+                "31",
+                "Active Directory",
+                "Endorse",
+                "Endorsed by Qui Ly, who is highly skilled at this",
+                "Endorsed by 7 of Jared’s colleagues at FIS"
+            ],
+            [
+                "Active Directory",
+                "See 31 endorsements for Active Directory",
+                "31"
+            ],
+            [
+                "Network Administration",
+                "See 25 endorsements for Network Administration",
+                "25",
+                "Network Administration",
+                "Endorse",
+                "Endorsed by William Lowdermilk, who is highly skilled at this",
+                "Endorsed by 4 of Jared’s colleagues at FIS"
+            ],
+            [
+                "Network Administration",
+                "See 25 endorsements for Network Administration",
+                "25"
+            ],
+            [
+                "Networking",
+                "See 23 endorsements for Networking",
+                "23",
+                "Networking",
+                "Endorse"
+            ],
+            [
+                "Networking",
+                "See 23 endorsements for Networking",
+                "23"
+            ],
+            [
+                "Servers",
+                "See 20 endorsements for Servers",
+                "20",
+                "Servers",
+                "Endorse"
+            ],
+            [
+                "Servers",
+                "See 20 endorsements for Servers",
+                "20"
+            ],
+            [
+                "Troubleshooting",
+                "See 20 endorsements for Troubleshooting",
+                "20",
+                "Troubleshooting",
+                "Endorse"
+            ],
+            [
+                "Troubleshooting",
+                "See 20 endorsements for Troubleshooting",
+                "20"
+            ],
+            [
+                "Computer Security",
+                "See 13 endorsements for Computer Security",
+                "13",
+                "Computer Security",
+                "Endorse"
+            ],
+            [
+                "Computer Security",
+                "See 13 endorsements for Computer Security",
+                "13"
+            ],
+            [
+                "VMware",
+                "See 13 endorsements for VMware",
+                "13",
+                "VMware",
+                "Endorse"
+            ],
+            [
+                "VMware",
+                "See 13 endorsements for VMware",
+                "13"
+            ],
+            [
+                "Leadership",
+                "See 13 endorsements for Leadership",
+                "13",
+                "Leadership",
+                "Endorse"
+            ],
+            [
+                "Leadership",
+                "See 13 endorsements for Leadership",
+                "13"
+            ],
+            [
+                "Network Security",
+                "See 10 endorsements for Network Security",
+                "10",
+                "Network Security",
+                "Endorse"
+            ],
+            [
+                "Network Security",
+                "See 10 endorsements for Network Security",
+                "10"
+            ],
+            [
+                "Routers",
+                "See 10 endorsements for Routers",
+                "10",
+                "Routers",
+                "Endorse"
+            ],
+            [
+                "Routers",
+                "See 10 endorsements for Routers",
+                "10"
+            ],
+            [
+                "Microsoft Exchange",
+                "See 9 endorsements for Microsoft Exchange",
+                "9",
+                "Microsoft Exchange",
+                "Endorse"
+            ],
+            [
+                "Microsoft Exchange",
+                "See 9 endorsements for Microsoft Exchange",
+                "9"
+            ],
+            [
+                "DNS",
+                "See 9 endorsements for DNS",
+                "9",
+                "DNS",
+                "Endorse"
+            ],
+            [
+                "DNS",
+                "See 9 endorsements for DNS",
+                "9"
+            ],
+            [
+                "Information Assurance",
+                "See 8 endorsements for Information Assurance",
+                "8",
+                "Information Assurance",
+                "Endorse"
+            ],
+            [
+                "Information Assurance",
+                "See 8 endorsements for Information Assurance",
+                "8"
+            ],
+            [
+                "Software Installation",
+                "See 7 endorsements for Software Installation",
+                "7",
+                "Software Installation",
+                "Endorse"
+            ],
+            [
+                "Software Installation",
+                "See 7 endorsements for Software Installation",
+                "7"
+            ],
+            [
+                "Windows 7",
+                "See 7 endorsements for Windows 7",
+                "7",
+                "Windows 7",
+                "Endorse"
+            ],
+            [
+                "Windows 7",
+                "See 7 endorsements for Windows 7",
+                "7"
+            ],
+            [
+                "Security+",
+                "See 6 endorsements for Security+",
+                "6",
+                "Security+",
+                "Endorse"
+            ],
+            [
+                "Security+",
+                "See 6 endorsements for Security+",
+                "6"
+            ],
+            [
+                "Integration",
+                "See 6 endorsements for Integration",
+                "6",
+                "Integration",
+                "Endorse"
+            ],
+            [
+                "Integration",
+                "See 6 endorsements for Integration",
+                "6"
+            ],
+            [
+                "VPN",
+                "See 6 endorsements for VPN",
+                "6",
+                "VPN",
+                "Endorse"
+            ],
+            [
+                "VPN",
+                "See 6 endorsements for VPN",
+                "6"
+            ],
+            [
+                "Network Engineering",
+                "See 5 endorsements for Network Engineering",
+                "5",
+                "Network Engineering",
+                "Endorse"
+            ],
+            [
+                "Network Engineering",
+                "See 5 endorsements for Network Engineering",
+                "5"
+            ],
+            [
+                "Network Operations",
+                "See 5 endorsements for Network Operations",
+                "5",
+                "Network Operations",
+                "Endorse"
+            ],
+            [
+                "Network Operations",
+                "See 5 endorsements for Network Operations",
+                "5"
+            ],
+            [
+                "Proxy",
+                "See 5 endorsements for Proxy",
+                "5",
+                "Proxy",
+                "Endorse"
+            ],
+            [
+                "Proxy",
+                "See 5 endorsements for Proxy",
+                "5"
+            ],
+            [
+                "VoIP",
+                "See 5 endorsements for VoIP",
+                "5",
+                "VoIP",
+                "Endorse"
+            ],
+            [
+                "VoIP",
+                "See 5 endorsements for VoIP",
+                "5"
+            ],
+            [
+                "Computer Network Operations",
+                "See 5 endorsements for Computer Network Operations",
+                "5",
+                "Computer Network Operations",
+                "Endorse"
+            ],
+            [
+                "Computer Network Operations",
+                "See 5 endorsements for Computer Network Operations",
+                "5"
+            ],
+            [
+                "Hardware",
+                "See 5 endorsements for Hardware",
+                "5",
+                "Hardware",
+                "Endorse"
+            ],
+            [
+                "Hardware",
+                "See 5 endorsements for Hardware",
+                "5"
+            ],
+            [
+                "Help Desk Support",
+                "See 4 endorsements for Help Desk Support",
+                "4",
+                "Help Desk Support",
+                "Endorse"
+            ],
+            [
+                "Help Desk Support",
+                "See 4 endorsements for Help Desk Support",
+                "4"
+            ],
+            [
+                "CompTIA Security+",
+                "See 4 endorsements for CompTIA Security+",
+                "4",
+                "CompTIA Security+",
+                "Endorse"
+            ],
+            [
+                "CompTIA Security+",
+                "See 4 endorsements for CompTIA Security+",
+                "4"
+            ],
+            [
+                "Domain Name System (DNS)",
+                "See 4 endorsements for Domain Name System (DNS)",
+                "4",
+                "Domain Name System (DNS)",
+                "Endorse"
+            ],
+            [
+                "Domain Name System (DNS)",
+                "See 4 endorsements for Domain Name System (DNS)",
+                "4"
+            ],
+            [
+                "Technical Support",
+                "See 4 endorsements for Technical Support",
+                "4",
+                "Technical Support",
+                "Endorse"
+            ],
+            [
+                "Technical Support",
+                "See 4 endorsements for Technical Support",
+                "4"
+            ],
+            [
+                "Computer Hardware",
+                "See 4 endorsements for Computer Hardware",
+                "4",
+                "Computer Hardware",
+                "Endorse"
+            ],
+            [
+                "Computer Hardware",
+                "See 4 endorsements for Computer Hardware",
+                "4"
+            ],
+            [
+                "Virtual Private Network (VPN)",
+                "See 4 endorsements for Virtual Private Network (VPN)",
+                "4",
+                "Virtual Private Network (VPN)",
+                "Endorse"
+            ],
+            [
+                "Virtual Private Network (VPN)",
+                "See 4 endorsements for Virtual Private Network (VPN)",
+                "4"
+            ],
+            [
+                "iPhone",
+                "See 3 endorsements for iPhone",
+                "3",
+                "iPhone",
+                "Endorse"
+            ],
+            [
+                "iPhone",
+                "See 3 endorsements for iPhone",
+                "3"
+            ],
+            [
+                "Bluecoat",
+                "See 2 endorsements for Bluecoat",
+                "2",
+                "Bluecoat",
+                "Endorse"
+            ],
+            [
+                "Bluecoat",
+                "See 2 endorsements for Bluecoat",
+                "2"
+            ],
+            [
+                "Voice over IP (VoIP)",
+                "See 2 endorsements for Voice over IP (VoIP)",
+                "2",
+                "Voice over IP (VoIP)",
+                "Endorse"
+            ],
+            [
+                "Voice over IP (VoIP)",
+                "See 2 endorsements for Voice over IP (VoIP)",
+                "2"
+            ],
+            [
+                "US Army",
+                "See 1 endorsement for US Army",
+                "1",
+                "US Army",
+                "Endorse"
+            ],
+            [
+                "US Army",
+                "See 1 endorsement for US Army",
+                "1"
+            ]
+        ],
+        "summary": "",
+        "name": "Jared Hrabak",
+        "title": "IT Security Supervisor at FIS",
+        "url": "linkedin.com/in/jared-h-005a9328",
+        "phone": null,
+        "email": "jaredhrabak@gmail.com"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6218097071904342016/",
+    "participants": [
+        {
+            "name": "Daniel Espinoza",
+            "title": "Ring.com",
+            "url": "linkedin.com/in/daniel-espinoza-b88073117",
+            "phone": null,
+            "email": "epicthings@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-23T16:17:00.000Z"
+        }
+    ]
+}

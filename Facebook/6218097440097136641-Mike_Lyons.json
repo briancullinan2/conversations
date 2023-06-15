@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6218097440097136641/",
+    "participants": [
+        {
+            "name": "Mike Lyons",
+            "title": "Video Game Loving Geek and Small Business Enthusiast",
+            "url": "linkedin.com/in/michaelglyons",
+            "phone": null,
+            "email": "mike@lyonsdenphx.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-23T16:19:00.000Z"
+        }
+    ]
+}

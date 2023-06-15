@@ -1,0 +1,54 @@
+{
+    "thread": "/messaging/thread/6199286152227278848/",
+    "participants": [
+        {
+            "name": "David Bouterse",
+            "title": "Director of IT at National Sign Systems",
+            "url": "linkedin.com/in/david-bouterse-a8b4724",
+            "phone": null,
+            "email": "david@bouterse.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2016-11-01T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "How are things going at NSS?",
+            "time": "2017-11-09T02:16:00.000Z"
+        },
+        {
+            "from": "David Bouterse",
+            "message": "Things are going well...busy since I lost my assistant recently but keeping my head above water so far. Which of my bosses here is your Dad? I've seen your name around but wasn't sure.",
+            "time": "2017-10-04T13:18:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "David is my uncle Jim is my dad. Don't worry they are my boss too in some small way.",
+            "time": "2017-10-04T13:18:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "How is the work environment?",
+            "time": "2017-10-04T13:18:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "How can I help?",
+            "time": "2017-10-04T15:26:00.000Z"
+        },
+        {
+            "from": "David Bouterse",
+            "message": "Environment is good now. Was a bit of a mess when I got here 2 years ago but I've gotten things on the back end running pretty smooth which has let me survive on my own so far. Not sure how you could help from Arizona!",
+            "time": "2017-10-04T16:01:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Do you use Ad Block +?",
+            "time": "2017-11-14T15:36:00.000Z"
+        }
+    ]
+}

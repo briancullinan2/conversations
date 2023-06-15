@@ -1,0 +1,577 @@
+[
+    {
+        "resourceName": "people/c276982750331244101",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3d80a580a678e45"
+                    }
+                },
+                "displayName": "James Palmer",
+                "familyName": "Palmer",
+                "givenName": "James",
+                "displayNameLastFirst": "Palmer, James"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "112663667502766279111"
+                    }
+                },
+                "displayName": "James Dean Palmer",
+                "familyName": "Palmer",
+                "givenName": "James Dean",
+                "displayNameLastFirst": "Palmer, James Dean"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3d80a580a678e45"
+                    }
+                },
+                "value": "jamasan@gmail.com"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "3d80a580a678e45"
+                    }
+                },
+                "value": "+1-928-523-5376",
+                "canonicalForm": "+19285235376",
+                "type": "work",
+                "formattedType": "Work"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "30 Mutual Connections",
+                "You and James both know Abe Pralle, Matthew Shanker, and 28 others"
+            ],
+            [
+                "You both worked at Northern Arizona University",
+                "You both worked at Northern Arizona University from Sep 2007 to May 2009"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Associate Professor",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Aug 2006 – Present",
+                "Employment Duration",
+                "11 yrs 3 mos"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "The University of Texas at Dallas",
+                "Degree Name",
+                "Doctor of Philosophy (PhD)",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2002 – 2006"
+            ],
+            [
+                "The University of Texas at Dallas",
+                "Degree Name",
+                "Doctor of Philosophy (PhD)",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2002 – 2006"
+            ],
+            [
+                "Texas A&M University",
+                "Degree Name",
+                "Master's Degree",
+                "Field Of Study",
+                "Computer Visualization",
+                "Dates attended or expected graduation",
+                "1998 – 2000"
+            ],
+            [
+                "Texas A&M University",
+                "Degree Name",
+                "Master's Degree",
+                "Field Of Study",
+                "Computer Visualization",
+                "Dates attended or expected graduation",
+                "1998 – 2000"
+            ],
+            [
+                "Texas A&M University",
+                "Degree Name",
+                "Bachelor's Degree",
+                "Field Of Study",
+                "Computer Engineering",
+                "Dates attended or expected graduation",
+                "1994 – 1998"
+            ],
+            [
+                "Texas A&M University",
+                "Degree Name",
+                "Bachelor's Degree",
+                "Field Of Study",
+                "Computer Engineering",
+                "Dates attended or expected graduation",
+                "1994 – 1998"
+            ],
+            [
+                "University of North Texas",
+                "Degree Name",
+                "High School",
+                "Dates attended or expected graduation",
+                "1993 – 1994"
+            ],
+            [
+                "University of North Texas",
+                "Degree Name",
+                "High School",
+                "Dates attended or expected graduation",
+                "1993 – 1994"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Texas A&M University",
+                "370,075 followers"
+            ],
+            [
+                "The University of Texas at Dallas",
+                "111,710 followers"
+            ],
+            [
+                "The University of Texas at Dallas",
+                "96,342 followers"
+            ],
+            [
+                "University of North Texas",
+                "193,342 followers"
+            ],
+            [
+                "Wolfram|Alpha LLC",
+                "5,073 followers"
+            ],
+            [
+                "ACM SIGCSE",
+                "4,786 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (183)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Texas A&M University",
+                "370,075 followers"
+            ],
+            [
+                "Texas A&M University",
+                "370,075 followers"
+            ],
+            [
+                "The University of Texas at Dallas",
+                "111,710 followers"
+            ],
+            [
+                "The University of Texas at Dallas",
+                "111,710 followers"
+            ],
+            [
+                "The University of Texas at Dallas",
+                "96,342 followers"
+            ],
+            [
+                "The University of Texas at Dallas",
+                "96,342 followers"
+            ],
+            [
+                "University of North Texas",
+                "193,342 followers"
+            ],
+            [
+                "University of North Texas",
+                "193,342 followers"
+            ],
+            [
+                "Wolfram|Alpha LLC",
+                "5,073 followers"
+            ],
+            [
+                "Wolfram|Alpha LLC",
+                "5,073 followers"
+            ],
+            [
+                "ACM SIGCSE",
+                "4,786 members"
+            ],
+            [
+                "ACM SIGCSE",
+                "4,786 members"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Software Engineering",
+                "See 10 endorsements for Software Engineering",
+                "10",
+                "Software Engineering",
+                "Endorse",
+                "Endorsed by 4 of James’ colleagues at Northern Arizona University"
+            ],
+            [
+                "Software Engineering",
+                "See 10 endorsements for Software Engineering",
+                "10"
+            ],
+            [
+                "Computer Science",
+                "See 7 endorsements for Computer Science",
+                "7",
+                "Computer Science",
+                "Endorse",
+                "Endorsed by Joshua Santos (mutual connection)",
+                "Endorsed by 5 of James’ colleagues at Northern Arizona University"
+            ],
+            [
+                "Computer Science",
+                "See 7 endorsements for Computer Science",
+                "7"
+            ],
+            [
+                "Software Development",
+                "See 7 endorsements for Software Development",
+                "7",
+                "Software Development",
+                "Remove Endorsement",
+                "Endorsed by 4 of James’ colleagues at Northern Arizona University"
+            ],
+            [
+                "Software Development",
+                "See 7 endorsements for Software Development",
+                "7"
+            ],
+            [
+                "Python",
+                "See 6 endorsements for Python",
+                "6",
+                "Python",
+                "Endorse"
+            ],
+            [
+                "Python",
+                "See 6 endorsements for Python",
+                "6"
+            ],
+            [
+                "C",
+                "See 5 endorsements for C",
+                "5",
+                "C",
+                "Endorse"
+            ],
+            [
+                "C",
+                "See 5 endorsements for C",
+                "5"
+            ],
+            [
+                "C++",
+                "See 5 endorsements for C++",
+                "5",
+                "C++",
+                "Endorse"
+            ],
+            [
+                "C++",
+                "See 5 endorsements for C++",
+                "5"
+            ],
+            [
+                "Computational Geometry",
+                "See 4 endorsements for Computational Geometry",
+                "4",
+                "Computational Geometry",
+                "Endorse"
+            ],
+            [
+                "Computational Geometry",
+                "See 4 endorsements for Computational Geometry",
+                "4"
+            ],
+            [
+                "Computer Graphics",
+                "See 4 endorsements for Computer Graphics",
+                "4",
+                "Computer Graphics",
+                "Endorse"
+            ],
+            [
+                "Computer Graphics",
+                "See 4 endorsements for Computer Graphics",
+                "4"
+            ],
+            [
+                "Programming Languages",
+                "See 4 endorsements for Programming Languages",
+                "4",
+                "Programming Languages",
+                "Endorse"
+            ],
+            [
+                "Programming Languages",
+                "See 4 endorsements for Programming Languages",
+                "4"
+            ],
+            [
+                "LaTeX",
+                "See 4 endorsements for LaTeX",
+                "4",
+                "LaTeX",
+                "Endorse"
+            ],
+            [
+                "LaTeX",
+                "See 4 endorsements for LaTeX",
+                "4"
+            ],
+            [
+                "CSS",
+                "See 4 endorsements for CSS",
+                "4",
+                "CSS",
+                "Endorse"
+            ],
+            [
+                "CSS",
+                "See 4 endorsements for CSS",
+                "4"
+            ],
+            [
+                "Programming",
+                "See 4 endorsements for Programming",
+                "4",
+                "Programming",
+                "Remove Endorsement"
+            ],
+            [
+                "Programming",
+                "See 4 endorsements for Programming",
+                "4"
+            ],
+            [
+                "HTML",
+                "See 3 endorsements for HTML",
+                "3",
+                "HTML",
+                "Endorse"
+            ],
+            [
+                "HTML",
+                "See 3 endorsements for HTML",
+                "3"
+            ],
+            [
+                "Computer Science Education",
+                "See 2 endorsements for Computer Science Education",
+                "2",
+                "Computer Science Education",
+                "Endorse"
+            ],
+            [
+                "Computer Science Education",
+                "See 2 endorsements for Computer Science Education",
+                "2"
+            ],
+            [
+                "JavaScript",
+                "See 2 endorsements for JavaScript",
+                "2",
+                "JavaScript",
+                "Remove Endorsement"
+            ],
+            [
+                "JavaScript",
+                "See 2 endorsements for JavaScript",
+                "2"
+            ],
+            [
+                "OpenCV",
+                "See 1 endorsement for OpenCV",
+                "1",
+                "OpenCV",
+                "Endorse"
+            ],
+            [
+                "OpenCV",
+                "See 1 endorsement for OpenCV",
+                "1"
+            ],
+            [
+                "PHP",
+                "See 1 endorsement for PHP",
+                "1",
+                "PHP",
+                "Endorse"
+            ],
+            [
+                "PHP",
+                "See 1 endorsement for PHP",
+                "1"
+            ],
+            [
+                "Artificial Intelligence",
+                "See 1 endorsement for Artificial Intelligence",
+                "1",
+                "Artificial Intelligence",
+                "Endorse"
+            ],
+            [
+                "Artificial Intelligence",
+                "See 1 endorsement for Artificial Intelligence",
+                "1"
+            ],
+            [
+                "High Performance Computing",
+                "See 1 endorsement for High Performance Computing",
+                "1",
+                "High Performance Computing",
+                "Endorse"
+            ],
+            [
+                "High Performance Computing",
+                "See 1 endorsement for High Performance Computing",
+                "1"
+            ],
+            [
+                "MySQL",
+                "See 1 endorsement for MySQL",
+                "1",
+                "MySQL",
+                "Endorse"
+            ],
+            [
+                "MySQL",
+                "See 1 endorsement for MySQL",
+                "1"
+            ],
+            [
+                "OpenGL",
+                "See 1 endorsement for OpenGL",
+                "1",
+                "OpenGL",
+                "Endorse"
+            ],
+            [
+                "OpenGL",
+                "See 1 endorsement for OpenGL",
+                "1"
+            ],
+            [
+                "Algorithms",
+                "See 1 endorsement for Algorithms",
+                "1",
+                "Algorithms",
+                "Endorse"
+            ],
+            [
+                "Algorithms",
+                "See 1 endorsement for Algorithms",
+                "1"
+            ],
+            [
+                "Machine Learning",
+                "See 1 endorsement for Machine Learning",
+                "1",
+                "Machine Learning",
+                "Endorse"
+            ],
+            [
+                "Machine Learning",
+                "See 1 endorsement for Machine Learning",
+                "1"
+            ],
+            [
+                "University Teaching",
+                "See 1 endorsement for University Teaching",
+                "1",
+                "University Teaching",
+                "Endorse"
+            ],
+            [
+                "University Teaching",
+                "See 1 endorsement for University Teaching",
+                "1"
+            ],
+            [
+                "Image Processing",
+                "See 1 endorsement for Image Processing",
+                "1",
+                "Image Processing",
+                "Endorse"
+            ],
+            [
+                "Image Processing",
+                "See 1 endorsement for Image Processing",
+                "1"
+            ],
+            [
+                "Computer Vision",
+                "See 1 endorsement for Computer Vision",
+                "1",
+                "Computer Vision",
+                "Endorse"
+            ],
+            [
+                "Computer Vision",
+                "See 1 endorsement for Computer Vision",
+                "1"
+            ]
+        ],
+        "summary": "",
+        "name": "James Palmer",
+        "title": "Associate Professor and SICCS Associate Director for Undergraduate Programs at Northern Arizona University",
+        "url": "linkedin.com/in/james-palmer-42194b98",
+        "phone": null,
+        "email": "james@tiger3k.com"
+    }
+]

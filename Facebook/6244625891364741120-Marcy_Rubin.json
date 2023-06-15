@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6244625891364741120/",
+    "participants": [
+        {
+            "name": "Marcy Rubin",
+            "title": "Sr Technical Recruiter at ConsultNet - Salt Lake City, UT (Remote)",
+            "url": "linkedin.com/in/marcydrubin",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Marcy Rubin",
+            "time": "2017-03-06T12:00:00.000Z",
+            "message": "Senior DevOps Engineer - Salt Lake City, UT - 16-02657\n\nHi Brian, \n\nI bumped into your profile on LinkedIn through some of my connections. \n\nOne of my clients is looking for a talented DevOps Engineer to assist in automating, deploying and supporting SaaS and on premise solutions. This is an agile engineering team that is also going to need extra attention on AWS. \n\nYour skill-sets seem as if they might align and I was hoping you would be open to a conversation - would you be available to discuss this week?\n\nPerhaps you know of someone your could refer if this opportunity doesn't fit your current goals.\n\nPlease contact me to set up a time when we can speak and discuss your background and this position in more detail.\n\n\nRegards,\n\nMarcy Rubin\nSenior Technical Recruiter\nConsultNet\n801-997-6223\nmrubin@consultnet.com\nSKYPE ID: cnmrubin\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-06T21:45:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

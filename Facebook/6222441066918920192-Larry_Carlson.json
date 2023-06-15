@@ -1,0 +1,49 @@
+{
+    "thread": "/messaging/thread/6222441066918920192/",
+    "participants": [
+        {
+            "name": "Larry Carlson",
+            "title": "Owner, BtoBLeads.com",
+            "url": "linkedin.com/in/btobleads",
+            "phone": null,
+            "email": "larrycarls@btobleads.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-04T15:59:00.000Z"
+        },
+        {
+            "from": "Larry Carlson",
+            "message": "Hi Brian,\n\nI am in the process of relaunching my business BtoBLeads.com - focus on adding human touch for companies that are struggling with the management of marketing automation. So we create and manage sales pipeline strategies for clients. \n\nLarry Carlson\n",
+            "time": "2018-01-04T16:22:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Nice! Have you used pipedrive.com?\n",
+            "time": "2018-01-04T17:19:00.000Z"
+        },
+        {
+            "from": "Larry Carlson",
+            "message": "No, however it would be worth exploring some type of partnership with them. Are you involved with application development projects? I have an idea to bounce off of you if so...\n",
+            "time": "2018-01-04T18:44:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Yes! What's up?\n",
+            "time": "2018-01-04T19:00:00.000Z"
+        },
+        {
+            "from": "Larry Carlson",
+            "message": "I have taken four clients' sales process and refined them by creating a tool for each one that basically takes their lead qualification process and develops a report based on prospects answers and delivers a recommendation to the user. I want to offer this as a service when I re-launch my business BtoBLeads.com. This concept also is a great strategy for getting leads and using a generic website and promote in social media. I could explain it better in a conversation...\n",
+            "time": "2018-01-04T19:20:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Let's talk soon. My first impression, this comes off similar to Salesforce and pipedrive. My number is 4804660856, please feel free to leave a voicemail and I'll call back.\n",
+            "time": "2018-01-04T20:35:00.000Z"
+        }
+    ]
+}

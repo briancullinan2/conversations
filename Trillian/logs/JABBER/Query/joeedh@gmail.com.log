@@ -1,0 +1,422 @@
+﻿Session Start (bjcullinan@gmail.com:joeedh): Sun Mar 02 00:43:57 2008
+[03/02/2008 12:43:57 AM] joeedh: hi.
+[03/02/2008 12:48:43 AM] joeedh: did dave get home allright?
+[03/02/2008 01:41:50 AM] bjcullinan: Yes
+Session Close (joeedh): Sun Mar 02 01:42:00 2008
+
+
+Session Start (bjcullinan@gmail.com:joeedh): Sun Mar 02 01:42:15 2008
+[03/02/2008 01:42:15 AM] joeedh: cool
+[03/02/2008 01:42:27 AM] bjcullinan: how do you spell your last name?
+[03/02/2008 01:42:39 AM] joeedh: eagar
+[03/02/2008 01:42:54 AM] joeedh: I believe it derives from edgar.
+Session Close (joeedh): Sun Mar 02 01:42:55 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Sun Mar 02 18:42:15 2008
+[03/02/2008 06:42:15 PM] Joe Eagar: hi
+[03/02/2008 06:42:20 PM] bjcullinan: high
+[03/02/2008 06:43:00 PM] Joe Eagar: lol.  so, what happened with dave?
+[03/02/2008 06:43:28 PM] bjcullinan: we found him laying down outside the condo in a pile of snow
+[03/02/2008 06:43:35 PM] Joe Eagar: yeek.
+[03/02/2008 06:43:42 PM] bjcullinan: meh
+[03/02/2008 06:43:45 PM] Joe Eagar: so he was trying to walk home?
+[03/02/2008 06:43:46 PM] bjcullinan: he walked home
+[03/02/2008 06:44:04 PM] bjcullinan: i think he got tired of people making fun of him being drunk
+[03/02/2008 06:45:07 PM] Joe Eagar: I wouldn't have thought he'd really notice, in his state :)
+[03/02/2008 06:46:46 PM] Joe Eagar: anyway.  how's your game going?
+[03/02/2008 06:47:10 PM] bjcullinan: pretty excellent
+[03/02/2008 06:47:16 PM] bjcullinan: abe just fixed some bug for me
+[03/02/2008 06:47:31 PM] Joe Eagar: the mouse bug?
+[03/02/2008 06:47:35 PM] bjcullinan: nope
+[03/02/2008 06:47:39 PM] bjcullinan: not that one yet
+[03/02/2008 06:47:54 PM] Joe Eagar: ah :( which bug was it?
+[03/02/2008 06:48:05 PM] bjcullinan: some bitreader bugs
+[03/02/2008 06:49:06 PM] Joe Eagar: ah ok
+[03/02/2008 06:50:10 PM] Joe Eagar: did you try that glcore I sent you?
+[03/02/2008 06:52:32 PM] bjcullinan: yes but my gl drivers are crap on my laptop too so it stopped lagging but it still sucked
+[03/02/2008 06:53:08 PM] Joe Eagar: eek
+Session Close (Joe Eagar): Sun Mar 02 18:53:43 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Sun Mar 02 18:58:47 2008
+[03/02/2008 06:58:47 PM] Joe Eagar: this is interesting.  I think mouse move events are being sent every tick, regardless if the mouse cursor has changed.
+[03/02/2008 06:59:20 PM] Joe Eagar: never mind
+[03/02/2008 06:59:26 PM] Joe Eagar: I think abe fixed that recently
+[03/02/2008 07:04:48 PM] Joe Eagar: hrm.  should've read the code *after* updating svn, not before :)
+Session Close (Joe Eagar): Sun Mar 02 19:08:25 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Sun Mar 02 19:10:45 2008
+[03/02/2008 07:10:45 PM] Joe Eagar: do you have mouse lag problems on any other game on your laptop?
+[03/02/2008 07:10:51 PM] bjcullinan: no
+[03/02/2008 07:11:05 PM] Joe Eagar: ok, then it likely isn't a graphics card driver problem
+[03/02/2008 09:00:46 PM] *** Joe Eagar <joeedh@gmail.com/gmail.61261A87> signed off at Sun Mar 02 21:00:46 2008.
+[03/02/2008 09:44:40 PM] *** Joe Eagar went away at Sun Mar 02 21:44:40 2008.
+[03/03/2008 07:20:53 AM] *** Joe Eagar <joeedh@gmail.com/gmail.61261A87> signed off at Mon Mar 03 07:20:53 2008.
+[03/03/2008 07:22:30 AM] *** Joe Eagar went away at Mon Mar 03 07:22:30 2008.
+[03/03/2008 07:25:53 AM] *** Joe Eagar <joeedh@gmail.com/gmail.61261A87> signed off at Mon Mar 03 07:25:53 2008.
+[03/03/2008 07:26:07 AM] *** Joe Eagar went away at Mon Mar 03 07:26:07 2008.
+[03/03/2008 08:20:38 PM] *** Disconnected from server.
+Session Start (bjcullinan@gmail.com:Joe Eagar): Wed Mar 12 11:44:37 2008
+[03/12/2008 11:44:40 AM] bjcullinan: I need help
+Session Close (Joe Eagar): Wed Mar 12 12:12:26 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Wed Mar 12 14:24:50 2008
+[03/12/2008 02:24:58 PM] bjcullinan: So i got the rotation working
+[03/12/2008 02:25:03 PM] bjcullinan: it is pretty sweet
+Session Close (Joe Eagar): Wed Mar 12 14:30:32 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Wed Mar 12 14:57:11 2008
+[03/12/2008 02:57:11 PM] Joe Eagar: (Link: http://www.codepaster.com/code.php?code=4790)http://www.codepaster.com/code.php?code=4790
+Session Close (Joe Eagar): Wed Mar 12 15:13:54 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Sun Mar 30 01:29:20 2008
+[03/30/2008 01:29:25 AM] bjcullinan: how are you feeling joe?
+[03/30/2008 01:29:53 AM] Joe Eagar: fine.  slept till around 9. :)
+[03/30/2008 01:30:02 AM] Joe Eagar: you?
+[03/30/2008 01:30:28 AM] bjcullinan: i slept until 8
+[03/30/2008 01:30:35 AM] bjcullinan: then had some cake and kept drinking
+[03/30/2008 01:30:44 AM] bjcullinan: pretty awesome time
+[03/30/2008 01:31:03 AM] bjcullinan: too bad there were no girls making out in the bathtub this time
+[03/30/2008 01:31:11 AM] Joe Eagar: yeah.  I wanted to see that ;)
+[03/30/2008 01:31:29 AM] bjcullinan: maybe next time
+[03/30/2008 01:32:07 AM] Joe Eagar: yeah
+[03/30/2008 01:33:00 AM] Joe Eagar: just so long as they do it after BSG
+[03/30/2008 01:33:11 AM] Joe Eagar: ;)
+[03/30/2008 01:33:42 AM] bjcullinan: yeah
+Session Close (Joe Eagar): Sun Mar 30 01:45:44 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Mon Apr 14 18:30:52 2008
+[04/14/2008 06:30:52 PM] Joe Eagar: hi.
+Session Close (Joe Eagar): Tue Apr 15 01:56:58 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Tue Apr 15 06:51:14 2008
+[04/15/2008 06:51:14 AM] Joe Eagar: hi
+[04/15/2008 06:52:05 AM] Joe Eagar: being rick rolled is cool!
+[04/15/2008 09:51:54 AM] *** Disconnected from server.
+[04/15/2008 11:29:24 AM] *** Disconnected from server.
+Session Close (Joe Eagar): Tue Apr 15 13:40:25 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Sat Apr 19 22:32:01 2008
+[04/19/2008 10:32:09 PM] bjcullinan: Did you have a good time at the party?
+Session Close (Joe Eagar): Sat Apr 19 22:45:24 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Sat Apr 19 23:57:11 2008
+[04/19/2008 11:57:11 PM] Joe Eagar: yeah it was fun.
+[04/19/2008 11:57:47 PM] bjcullinan: i am glad you enjoyed it
+[04/19/2008 11:58:04 PM] Joe Eagar: heh that one girl who got really drunk was hilarious
+[04/20/2008 12:00:09 AM] bjcullinan: which girl!?
+[04/20/2008 12:00:22 AM] Joe Eagar: eh the short one in the pink (not travis's sister, her friend).
+[04/20/2008 12:00:47 AM] bjcullinan: lol oh yeah
+[04/20/2008 12:00:49 AM] bjcullinan: totally
+[04/20/2008 12:01:35 AM] Joe Eagar: yeah she totally got lesbian-curious when she got drunk.
+[04/20/2008 12:01:47 AM] bjcullinan: lol
+[04/20/2008 12:02:03 AM] bjcullinan: did she kiss travis' sister?
+[04/20/2008 12:02:27 AM] Joe Eagar: no, she decided not to since jessica has a girlfriend
+[04/20/2008 12:02:34 AM] Joe Eagar: she wanted to though :)
+[04/20/2008 12:02:53 AM] bjcullinan: l
+[04/20/2008 12:02:55 AM] bjcullinan: lol
+[04/20/2008 12:02:56 AM] bjcullinan: amazing
+[04/20/2008 12:03:38 AM] Joe Eagar: yeah it was
+Session Close (Joe Eagar): Sun Apr 20 00:14:17 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Sun Apr 20 00:38:18 2008
+[04/20/2008 12:38:27 AM] bjcullinan: hey did you make a comment then remove it?
+[04/20/2008 12:38:35 AM] Joe Eagar: no.
+[04/20/2008 12:38:39 AM] Joe Eagar: on the group page?
+[04/20/2008 12:38:43 AM] bjcullinan: yeah
+[04/20/2008 12:38:58 AM] bjcullinan: i keep getting e-mails but when i open it, it doesn't show the new stuff
+[04/20/2008 12:39:05 AM] bjcullinan: send me a link to where you made a comment
+[04/20/2008 12:39:14 AM] Joe Eagar: ok
+[04/20/2008 12:40:16 AM] Joe Eagar: I commented on (Link: http://www.facebook.com/photo.php?pid=32462235&id=27705471&ref=nf)http://www.facebook.com/photo.php?pid=32462235&id=27705471&ref=nf and yes it's disappeared.  yeek that's a horrible picture.  lol it's funny though.
+[04/20/2008 12:40:23 AM] Joe Eagar: the comment vanished I mean
+[04/20/2008 12:40:49 AM] bjcullinan: what the hell is going on?
+[04/20/2008 12:40:56 AM] bjcullinan: i got a message and another comment too
+[04/20/2008 12:41:02 AM] bjcullinan: both of them disappeared
+[04/20/2008 12:41:36 AM] Joe Eagar: yeek.  stupid facebook.
+[04/20/2008 12:44:35 AM] Joe Eagar: ok I just tried adding another comment to that picture
+[04/20/2008 12:44:49 AM] Joe Eagar: . . .and it's vanished too
+[04/20/2008 12:45:32 AM] Joe Eagar: hrm, I vaguely remember firefox 3 changed their XMLHttpObject implementation (e.g. ajax) to be more security-friendly.  maybe that's screwing with facebook.
+[04/20/2008 12:46:58 AM] Joe Eagar: ok I tried it in IE 6 and it didn't work either
+[04/20/2008 12:47:27 AM] bjcullinan: hmmmm
+[04/20/2008 12:50:17 AM] bjcullinan: i keep getting the e-mail but no comment
+[04/20/2008 12:52:16 AM] Joe Eagar: yeah it's weird :/
+Session Close (Joe Eagar): Sun Apr 20 00:53:04 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Mon Apr 28 22:15:30 2008
+[04/28/2008 10:15:36 PM] bjcullinan: want some whiskey?
+Session Close (Joe Eagar): Mon Apr 28 22:15:41 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Mon Apr 28 22:16:17 2008
+[04/28/2008 10:16:17 PM] Joe Eagar: not. . .yet. . .
+Session Close (Joe Eagar): Mon Apr 28 22:50:08 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Thu May 08 17:50:02 2008
+[05/08/2008 05:50:02 PM] Joe Eagar: hi
+[05/08/2008 06:00:25 PM] *** Disconnected from server.
+Session Close (Joe Eagar): Thu May 08 18:58:03 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Fri May 09 17:24:59 2008
+[05/09/2008 05:24:59 PM] Joe Eagar: hi
+[05/09/2008 05:25:37 PM] bjcullinan: hi
+[05/09/2008 05:25:40 PM] bjcullinan: what?
+[05/09/2008 05:26:41 PM] Joe Eagar: just wondering what's up.  ha! I know! the semster is over! wahoo! yay!!!!
+[05/09/2008 05:28:11 PM] bjcullinan: yeah i am worn out
+[05/09/2008 05:28:20 PM] Joe Eagar: me too.  not as much of course though.
+[05/09/2008 05:31:27 PM] Joe Eagar: so.  no bsg party tonight? ah.  guess I'll just have to do without the big projector screen :)
+[05/09/2008 05:41:28 PM] bjcullinan: yeah, i am just going to crash
+[05/09/2008 05:41:36 PM] Joe Eagar: that's a good idea
+[05/09/2008 05:50:33 PM] *** Joe Eagar went away at Fri May 09 17:50:33 2008.
+[05/09/2008 05:51:04 PM] *** Joe Eagar <joeedh@gmail.com/gmail.C87CD080> signed off at Fri May 09 17:51:04 2008.
+[05/09/2008 05:51:15 PM] *** Joe Eagar went away at Fri May 09 17:51:15 2008.
+Session Close (Joe Eagar): Fri May 09 18:21:17 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Fri May 09 23:07:27 2008
+[05/09/2008 11:07:27 PM] Joe Eagar: hi, watched bsg yet?
+[05/09/2008 11:42:41 PM] bjcullinan: yeah
+[05/09/2008 11:43:08 PM] bjcullinan: it was good
+[05/09/2008 11:43:14 PM] bjcullinan: i watched it with Crystal
+[05/09/2008 11:44:03 PM] bjcullinan: but I should get back to her, she is pretty demanding in bed
+Session Close (Joe Eagar): Sat May 10 00:14:06 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Sat May 10 13:53:05 2008
+[05/10/2008 01:53:05 PM] Joe Eagar: lol
+Session Close (Joe Eagar): Sat May 10 14:08:05 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Sun May 11 21:20:38 2008
+[05/11/2008 09:20:38 PM] Joe Eagar: hi
+Session Close (Joe Eagar): Mon May 12 00:20:20 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Thu May 15 19:31:28 2008
+[05/15/2008 07:31:28 PM] Joe Eagar: hi
+[05/15/2008 07:31:38 PM] bjcullinan: hi
+[05/15/2008 07:31:45 PM] Joe Eagar: do you read slashdot?
+[05/15/2008 07:32:55 PM] bjcullinan: i do
+[05/15/2008 07:33:10 PM] bjcullinan: usually, not everyday now that i have personal projects to work on
+[05/15/2008 07:34:41 PM] Joe Eagar: ah ok.  well a story about blender showed up there.  couple days ago our BDFL (ton roosendaal) emailed the blender dev mailling list asking for advice on an email for microsoft.  someone from groklow got a hold of it, and now it's sparked this big annoying controversy.
+[05/15/2008 07:35:15 PM] Joe Eagar: since "of course MS has some vast plan to totally destroy blender". it's ridiculous.
+[05/15/2008 07:40:37 PM] bjcullinan: oh
+[05/15/2008 07:40:39 PM] bjcullinan: cool
+[05/15/2008 07:47:57 PM] Joe Eagar: ah.
+[05/15/2008 07:48:00 PM] Joe Eagar: ok.
+Session Close (Joe Eagar): Thu May 15 19:50:13 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Fri May 16 22:44:17 2008
+[05/16/2008 10:44:17 PM] Joe Eagar: hi.  was there a bsg party tonight?
+[05/16/2008 10:46:29 PM] bjcullinan: no
+Session Close (Joe Eagar): Fri May 16 22:46:31 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Fri May 16 22:47:18 2008
+[05/16/2008 10:47:18 PM] Joe Eagar: oh ok.
+Session Close (Joe Eagar): Fri May 16 22:47:23 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Thu May 22 13:41:06 2008
+[05/22/2008 01:41:07 PM] Joe Eagar: hi
+[05/22/2008 01:47:10 PM] bjcullinan: hi
+Session Close (Joe Eagar): Thu May 22 13:47:12 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Thu May 22 13:47:29 2008
+[05/22/2008 01:47:30 PM] Joe Eagar: what's up? anything interesting happening?
+[05/22/2008 01:47:42 PM] bjcullinan: nope, just in phoenix
+[05/22/2008 01:47:56 PM] Joe Eagar: cool.
+[05/22/2008 01:48:14 PM] Joe Eagar: started your slag gui stuff yet?
+[05/22/2008 01:48:39 PM] bjcullinan: haven't talked to Abe
+[05/22/2008 01:49:13 PM] Joe Eagar: oh ok.
+Session Close (Joe Eagar): Thu May 22 13:52:43 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Thu May 22 13:52:52 2008
+[05/22/2008 01:52:52 PM] Joe Eagar: man I'm bored.
+[05/22/2008 01:53:09 PM] bjcullinan: start on the GUI plugin?
+[05/22/2008 01:53:41 PM] Joe Eagar: wait.  you don't want to do it?
+[05/22/2008 01:54:00 PM] bjcullinan: i am kind of kicked out of Game club.
+[05/22/2008 01:54:08 PM] bjcullinan: so i can't really talk to Abe about it
+[05/22/2008 01:54:19 PM] Joe Eagar: oh.  yeek.
+[05/22/2008 01:54:23 PM] bjcullinan: i think my own project is going to take longer anyways
+[05/22/2008 01:54:41 PM] Joe Eagar: what happened?
+[05/22/2008 01:55:29 PM] Joe Eagar: I didn't even know game club had restarted yet. . .
+[05/22/2008 01:56:06 PM] bjcullinan: yup
+[05/22/2008 01:59:48 PM] Joe Eagar: well.  I admit I'm not keen on writing another gui lib, especially since the one I have (it's in python) needs work :/
+Session Close (Joe Eagar): Thu May 22 14:02:06 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Wed May 28 18:15:17 2008
+[05/28/2008 06:15:17 PM] Joe Eagar: hi
+[05/28/2008 06:15:23 PM] bjcullinan: hi
+[05/28/2008 06:15:45 PM] Joe Eagar: so, what's up? still in erm was it phoenix?
+[05/28/2008 06:17:04 PM] bjcullinan: no, back in flagstaff
+[05/28/2008 06:17:11 PM] Joe Eagar: cool.
+[05/28/2008 06:18:03 PM] Joe Eagar: anything interesting happening?
+[05/28/2008 06:18:15 PM] bjcullinan: no
+[05/28/2008 06:18:41 PM] Joe Eagar: ah.  :(  me too.  so boring.
+[05/28/2008 06:19:17 PM] Joe Eagar: ooh I made this quick little animation thing today: (Link: http://www.youtube.com/watch?v=ykKhTI7wmlA)http://www.youtube.com/watch?v=ykKhTI7wmlA
+[05/28/2008 06:20:10 PM] bjcullinan: cool
+Session Close (Joe Eagar): Wed May 28 18:50:12 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Thu May 29 22:07:15 2008
+[05/29/2008 10:07:16 PM] Joe Eagar: hi
+Session Close (Joe Eagar): Thu May 29 22:52:39 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Fri May 30 20:58:25 2008
+[05/30/2008 08:58:25 PM] Joe Eagar: hi
+Session Close (Joe Eagar): Fri May 30 20:58:29 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Fri Jun 06 17:57:00 2008
+[06/06/2008 05:57:00 PM] Joe Eagar: hi
+[06/06/2008 05:57:07 PM] bjcullinan: hi
+[06/06/2008 05:57:25 PM] Joe Eagar: what's up?
+[06/06/2008 05:57:47 PM] bjcullinan: busy with my site
+[06/06/2008 05:57:56 PM] Joe Eagar: cool.  the media server one?
+[06/06/2008 06:00:11 PM] bjcullinan: yeah
+[06/06/2008 06:00:31 PM] Joe Eagar: cool.
+[06/06/2008 06:02:04 PM] Joe Eagar: sounds fun.
+[06/06/2008 06:04:35 PM] *** Joe Eagar went away at Fri Jun 06 18:04:35 2008.
+Session Close (Joe Eagar): Fri Jun 06 18:04:57 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Fri Jun 13 18:05:08 2008
+[06/13/2008 06:05:08 PM] Joe Eagar: hi
+Session Close (Joe Eagar): Fri Jun 13 18:11:11 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Fri Jun 13 19:09:13 2008
+[06/13/2008 07:09:13 PM] Joe Eagar: hi
+Session Close (Joe Eagar): Fri Jun 13 20:04:44 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Tue Jul 15 17:09:45 2008
+[07/15/2008 05:09:46 PM] Joe Eagar: hi
+Session Close (Joe Eagar): Tue Jul 15 17:29:22 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Thu Jul 24 09:35:13 2008
+[07/24/2008 09:35:13 AM] Joe Eagar: hi
+[07/24/2008 10:16:55 AM] *** Disconnected from server.
+Session Close (Joe Eagar): Thu Jul 24 12:06:13 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Fri Jul 25 16:03:00 2008
+[07/25/2008 04:03:00 PM] Joe Eagar: hi
+[07/25/2008 04:03:06 PM] bjcullinan: hi
+Session Close (Joe Eagar): Fri Jul 25 16:03:07 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Fri Jul 25 16:03:33 2008
+[07/25/2008 04:03:34 PM] Joe Eagar: what's up? I hear your back in town.
+[07/25/2008 04:03:43 PM] bjcullinan: yeah just working on my site
+[07/25/2008 04:03:46 PM] bjcullinan: very busy
+[07/25/2008 04:04:06 PM] Joe Eagar: ah ok cool.
+[07/25/2008 04:05:58 PM] Joe Eagar: . . .is that an away message bot?
+[07/25/2008 04:08:35 PM] bjcullinan: i wish
+[07/25/2008 04:10:49 PM] Joe Eagar: lol, well looks like your busy guess I'll ttyl
+[07/25/2008 04:11:15 PM] *** Joe Eagar <joeedh@gmail.com/gmail.5C724EF2> signed off at Fri Jul 25 16:11:15 2008.
+Session Close (Joe Eagar): Fri Jul 25 16:11:19 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Fri Jul 25 20:15:55 2008
+[07/25/2008 08:15:55 PM] Joe Eagar: hi again.  ugh, know if anything's interesting happening tonight?
+Session Close (Joe Eagar): Sat Jul 26 02:43:21 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Tue Jul 29 16:33:57 2008
+[07/29/2008 04:33:57 PM] Joe Eagar: hi
+Session Close (Joe Eagar): Tue Jul 29 16:44:18 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Tue Jul 29 19:21:36 2008
+[07/29/2008 07:21:36 PM] Joe Eagar: hi
+Session Close (Joe Eagar): Tue Jul 29 19:45:46 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Tue Oct 07 14:29:40 2008
+[10/07/2008 02:29:40 PM] Joe Eagar: hi
+Session Close (Joe Eagar): Tue Oct 07 14:29:47 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Sat Oct 11 17:09:59 2008
+[10/11/2008 05:09:59 PM] Joe Eagar: hi
+[10/11/2008 05:14:08 PM] bjcullinan: hi?
+Session Close (Joe Eagar): Sat Oct 11 17:16:02 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Thu Nov 13 22:21:09 2008
+[11/13/2008 10:21:09 PM] Joe Eagar: hi
+Session Close (Joe Eagar): Fri Nov 14 00:32:54 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Fri Dec 05 20:43:37 2008
+[12/05/2008 08:43:37 PM] Joe Eagar: hi
+Session Close (Joe Eagar): Sat Dec 06 00:30:54 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Tue Dec 16 22:23:38 2008
+[12/16/2008 10:23:39 PM] Joe Eagar: what'd up?
+Session Close (Joe Eagar): Wed Dec 17 01:55:05 2008
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Thu Mar 19 10:11:27 2009
+[03/19/2009 10:11:27 AM] Joe Eagar: hi
+[03/19/2009 10:13:51 AM] Joe Eagar: so. . .what's with the empty email that says "thanks, alexander baron" three times? :) is there supposed to be an attachment?
+[03/19/2009 10:23:38 AM] Joe Eagar: oh crap
+[03/19/2009 10:23:47 AM] Joe Eagar: um wrong person
+[03/19/2009 11:25:41 AM] bjcullinan: wow that wasn't retarded
+Session Close (Joe Eagar): Thu Mar 19 11:25:43 2009
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Thu Mar 19 11:26:19 2009
+[03/19/2009 11:26:19 AM] Joe Eagar: lol
+[03/19/2009 11:26:29 AM] Joe Eagar: yeah I clicked on the wrong person's name, heh
+[03/19/2009 11:26:34 AM] bjcullinan: j/k man, whats been up?
+[03/19/2009 11:26:56 AM] Joe Eagar: not much.   anything exciting happening in flagstaff?
+[03/19/2009 11:28:32 AM] bjcullinan: nope
+[03/19/2009 11:28:57 AM] Joe Eagar: ah :(
+[03/19/2009 11:29:18 AM] Joe Eagar: heard winter there was extreme
+[03/19/2009 11:51:26 AM] bjcullinan: yeah, it was pretty fun
+[03/19/2009 11:52:31 AM] Joe Eagar: I heard some buildings caved in
+Session Close (Joe Eagar): Thu Mar 19 11:56:23 2009
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Sat May 02 20:47:43 2009
+[05/02/2009 08:47:44 PM] Joe Eagar: hi
+[05/02/2009 08:48:22 PM] bjcullinan: hi
+[05/02/2009 08:49:22 PM] Joe Eagar: so, what's up in flagstaff?
+[05/02/2009 08:50:46 PM] bjcullinan: not much
+[05/02/2009 08:51:46 PM] Joe Eagar: I hear lots of people are graduating soon.
+[05/02/2009 08:52:31 PM] bjcullinan: yup
+[05/02/2009 08:54:00 PM] Joe Eagar: awesome.  so you and, um dave mcarther/smith and leah and richard are graduating? or do I have it totally wrong.
+[05/02/2009 08:59:14 PM] bjcullinan: i am not
+[05/02/2009 08:59:17 PM] bjcullinan: leah is not
+[05/02/2009 09:00:29 PM] Joe Eagar: oh.  I thought she was.  heh.
+[05/02/2009 09:34:42 PM] *** Disconnected from server.
+Session Close (Joe Eagar): Sat May 02 22:04:44 2009
+
+
+Session Start (bjcullinan@gmail.com:Joe Eagar): Wed Jun 17 14:06:31 2009
+[06/17/2009 02:06:31 PM] Joe Eagar: hi
+Session Close (Joe Eagar): Wed Jun 17 14:08:35 2009
+
+

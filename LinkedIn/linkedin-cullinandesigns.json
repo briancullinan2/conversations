@@ -1,0 +1,305 @@
+[
+    {
+        "resourceName": "people/c9218866453166426105",
+        "etag": "%EgcBAgcJCzcuGg0BAgMEBQYHCAkKCwwNIgxpeUdheWYyQmZ2dz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7feffe320cc007f9"
+                    }
+                },
+                "displayName": "Corinne Cullinan",
+                "familyName": "Cullinan",
+                "givenName": "Corinne",
+                "displayNameLastFirst": "Cullinan, Corinne"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "102628886169107472237"
+                    }
+                },
+                "displayName": "Corinne Cullinan",
+                "familyName": "Cullinan",
+                "givenName": "Corinne",
+                "displayNameLastFirst": "Cullinan, Corinne"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7feffe320cc007f9"
+                    }
+                },
+                "value": "cncullinan@gmail.com",
+                "type": "other",
+                "formattedType": "Other"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7feffe320cc007f9"
+                    }
+                },
+                "value": "ccullinan@natsignsys.com",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7feffe320cc007f9"
+                    }
+                },
+                "value": "+1-614-325-9544",
+                "canonicalForm": "+16143259544",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "memberships": [
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7feffe320cc007f9"
+                    }
+                },
+                "contactGroupMembership": {
+                    "contactGroupId": "17763af58fde6fac"
+                }
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7feffe320cc007f9"
+                    }
+                },
+                "contactGroupMembership": {
+                    "contactGroupId": "26ae22950b78e998"
+                }
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7feffe320cc007f9"
+                    }
+                },
+                "contactGroupMembership": {
+                    "contactGroupId": "2c87e820e64ded3"
+                }
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7feffe320cc007f9"
+                    }
+                },
+                "contactGroupMembership": {
+                    "contactGroupId": "family"
+                }
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7feffe320cc007f9"
+                    }
+                },
+                "contactGroupMembership": {
+                    "contactGroupId": "myContacts"
+                }
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "2 Mutual Connections",
+                "You and Corinne both know Callie Cullinan, LPC and Wendelyn Teter"
+            ],
+            [
+                "You both worked at National Sign Systems",
+                "Corinne worked at National Sign Systems after you started"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Associate Graphic Production Designer",
+                "Company Name",
+                "ALPS, A DST Company",
+                "Dates Employed",
+                "2018 – Present",
+                "Employment Duration",
+                "less than a year"
+            ],
+            [
+                "Graphic Designer",
+                "Company Name",
+                "National Sign Systems",
+                "Dates Employed",
+                "2010 – 2017",
+                "Employment Duration",
+                "7 yrs",
+                "Location",
+                "Columbus, Ohio Area"
+            ],
+            [
+                "Graphic Designer",
+                "Company Name",
+                "CityScapes Architectural Innovations",
+                "Dates Employed",
+                "2010 – 2017",
+                "Employment Duration",
+                "7 yrs",
+                "Location",
+                "Columbus, Ohio Area"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Columbus State Community College",
+                "Field Of Study",
+                "Associate of Arts",
+                "Dates attended or expected graduation",
+                "2011 – 2016"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Columbus State Community College",
+                "51,116 followers"
+            ],
+            [
+                "See connections (7)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Columbus State Community College",
+                "51,116 followers"
+            ],
+            [
+                "Columbus State Community College",
+                "51,116 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Communication",
+                "Communication",
+                "Endorse",
+                "Be the first to endorse Corinne for this skill"
+            ],
+            [
+                "Communication"
+            ],
+            [
+                "Teamwork",
+                "Teamwork",
+                "Endorse",
+                "Be the first to endorse Corinne for this skill"
+            ],
+            [
+                "Teamwork"
+            ],
+            [
+                "Graphic Design",
+                "Graphic Design",
+                "Endorse",
+                "Be the first to endorse Corinne for this skill"
+            ],
+            [
+                "Graphic Design"
+            ],
+            [
+                "Organization Skills",
+                "Organization Skills",
+                "Endorse"
+            ],
+            [
+                "Organization Skills"
+            ],
+            [
+                "Time Management",
+                "Time Management",
+                "Endorse"
+            ],
+            [
+                "Time Management"
+            ],
+            [
+                "Leadership",
+                "Leadership",
+                "Endorse"
+            ],
+            [
+                "Leadership"
+            ],
+            [
+                "Critical Thinking",
+                "Critical Thinking",
+                "Endorse"
+            ],
+            [
+                "Critical Thinking"
+            ],
+            [
+                "Attention to Detail",
+                "Attention to Detail",
+                "Endorse"
+            ],
+            [
+                "Attention to Detail"
+            ],
+            [
+                "Taking Constructive Criticism",
+                "Taking Constructive Criticism",
+                "Endorse"
+            ],
+            [
+                "Taking Constructive Criticism"
+            ]
+        ],
+        "summary": "    Welcome! I've been a Graphic Designer for over seven years and can proudly say I've turned a passion into a career. I have experience with:-Brochures-Catalogs-Marketing Materials-Menu/Signage Design-Photo Superimposing-Logo Design-Print Prep-Desktop Publishing-Videography/Video Editing-PhotographyMy Goal as a Designer: to create clean, accurate and informative pieces of work that meet the vision/directions of a client or project leader.Please feel free to contact me at: cullinan.designs@outlook.com\n  \n  \n",
+        "name": "Corinne Cullinan",
+        "title": "Associate Graphic Production Designer at ALPS, A DST Company",
+        "url": "",
+        "phone": "",
+        "email": ""
+    }
+]

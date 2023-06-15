@@ -1,0 +1,732 @@
+[
+    {
+        "resourceName": "people/c7580955396731721306",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMOE9lQWkrWkNjYms9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "6934f6c48846565a"
+                    }
+                },
+                "displayName": "Jason Young",
+                "familyName": "Young",
+                "givenName": "Jason",
+                "displayNameLastFirst": "Young, Jason"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "6934f6c48846565a"
+                    }
+                },
+                "value": "+1-808-497-4975",
+                "canonicalForm": "+18084974975",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "35 Mutual Connections",
+                "You and Jason both know Dimitri Ponomareff, Fred Yu, and 33 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Managing Director of IT",
+                "Company Name",
+                "DriveTime",
+                "Dates Employed",
+                "May 2014 – Present",
+                "Employment Duration",
+                "3 yrs 7 mos"
+            ],
+            [
+                "Director of Application Development",
+                "Company Name",
+                "DriveTime",
+                "Dates Employed",
+                "Sep 2012 – Apr 2014",
+                "Employment Duration",
+                "1 yr 8 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "Assistant Director of IT",
+                "Company Name",
+                "DriveTime",
+                "Dates Employed",
+                "Feb 2012 – Aug 2012",
+                "Employment Duration",
+                "7 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "IT Manager",
+                "Company Name",
+                "DriveTime",
+                "Dates Employed",
+                "Oct 2011 – Feb 2012",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "IT Team Lead",
+                "Company Name",
+                "DriveTime",
+                "Dates Employed",
+                "Jul 2010 – Sep 2011",
+                "Employment Duration",
+                "1 yr 3 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "Distributed Application Developer III",
+                "Company Name",
+                "DriveTime",
+                "Dates Employed",
+                "Apr 2007 – Jul 2010",
+                "Employment Duration",
+                "3 yrs 4 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "Senior Consultant",
+                "Company Name",
+                "Deer Valley Consulting",
+                "Dates Employed",
+                "Jul 2004 – Mar 2007",
+                "Employment Duration",
+                "2 yrs 9 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "Consultant",
+                "Company Name",
+                "Stahl Technology Services",
+                "Dates Employed",
+                "Nov 2000 – Jun 2004",
+                "Employment Duration",
+                "3 yrs 8 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "Consultant",
+                "Company Name",
+                "Integrated Information Systems",
+                "Dates Employed",
+                "May 2000 – Oct 2000",
+                "Employment Duration",
+                "6 mos",
+                "Location",
+                "Tempe, Arizona Area"
+            ],
+            [
+                "Systems Administrator",
+                "Company Name",
+                "Motorola",
+                "Dates Employed",
+                "Jan 1999 – Apr 2000",
+                "Employment Duration",
+                "1 yr 4 mos",
+                "Location",
+                "Chandler, Arizona Area"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Computer Information Systems",
+                "Dates attended or expected graduation",
+                "1994 – 1998"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "DriveTime",
+                "12,866 followers"
+            ],
+            [
+                "Chief Information Officer (CIO) Network - The Group for CIOs",
+                "239,100 members"
+            ],
+            [
+                "C# Developers / Architects",
+                "217,877 members"
+            ],
+            [
+                "Arizona State University",
+                "386,449 followers"
+            ],
+            [
+                ".NET Developers",
+                "427,244 members"
+            ],
+            [
+                "Information Technology Managers (IT)",
+                "63,103 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (454)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "DriveTime",
+                "12,866 followers"
+            ],
+            [
+                "DriveTime",
+                "12,866 followers"
+            ],
+            [
+                "Chief Information Officer (CIO) Network - The Group for CIOs",
+                "239,100 members"
+            ],
+            [
+                "Chief Information Officer (CIO) Network - The Group for CIOs",
+                "239,100 members"
+            ],
+            [
+                "C# Developers / Architects",
+                "217,877 members"
+            ],
+            [
+                "C# Developers / Architects",
+                "217,877 members"
+            ],
+            [
+                "Arizona State University",
+                "386,449 followers"
+            ],
+            [
+                "Arizona State University",
+                "386,449 followers"
+            ],
+            [
+                ".NET Developers",
+                "427,244 members"
+            ],
+            [
+                ".NET Developers",
+                "427,244 members"
+            ],
+            [
+                "Information Technology Managers (IT)",
+                "63,103 members"
+            ],
+            [
+                "Information Technology Managers (IT)",
+                "63,103 members"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Mike de la Fuente",
+                "DevOps Handyman - Principle Software Engineer",
+                "March 17, 2017, Mike reported directly to Jason",
+                "Jason is one of the best managers I have ever worked for. He has really shown me the art of how to have productive discussions across the organization. His communication skills and his ability to deal with difficult situations in a respectful, thoughtful manner is quite inspiring. Working with Jason made me a better leader and helped me recognize that leadership can come from any member on a team. Jason's technical skill and his ability to solve technical problems is also staggering. I have watched him break down technical problems across our organization with ease. When problems required multiple parties, Jason was the perfect facilitator, keeping us on track to solve the problem. I am grateful for the time I got to work with Jason."
+            ],
+            [
+                "Mike de la Fuente",
+                "DevOps Handyman - Principle Software Engineer",
+                "March 17, 2017, Mike reported directly to Jason"
+            ],
+            [
+                "Mike de la Fuente",
+                "DevOps Handyman - Principle Software Engineer",
+                "March 17, 2017, Mike reported directly to Jason"
+            ],
+            [
+                "Mike de la Fuente",
+                "DevOps Handyman - Principle Software Engineer",
+                "March 17, 2017, Mike reported directly to Jason"
+            ],
+            "DevOps Handyman - Principle Software Engineer",
+            [
+                "Jason is one of the best managers I have ever worked for. He has really shown me the art of how to have productive discussions across the organization. His communication skills and his ability to deal with difficult situations in a respectful, thoughtful manner is quite inspiring. Working with Jason made me a better leader and helped me recognize that leadership can come from any member on a team. Jason's technical skill and his ability to solve technical problems is also staggering. I have watched him break down technical problems across our organization with ease. When problems required multiple parties, Jason was the perfect facilitator, keeping us on track to solve the problem. I am grateful for the time I got to work with Jason."
+            ],
+            [
+                "Jason is one of the best managers I have ever worked for. He has really shown me the art of how to have productive discussions across the organization. His communication skills and his ability to deal with difficult situations in a respectful, thoughtful manner is quite inspiring. Working with Jason made me a better leader and helped me recognize that leadership can come from any member on a team. Jason's technical skill and his ability to solve technical problems is also staggering. I have watched him break down technical problems across our organization with ease. When problems required multiple parties, Jason was the perfect facilitator, keeping us on track to solve the problem. I am grateful for the time I got to work with Jason."
+            ],
+            [
+                "Brad Beebe",
+                "Executive Leader and Entrepreneur",
+                "February 5, 2012, Jason reported directly to Brad",
+                "Brad would be a tremendous asset to any organization looking to bring leadership to their IT department.  He brings a balanced, yet progressive vision of how technology can best service business objectives.  He has a thorough understanding of all parts of the stack and how they fit together to deliver full solutions focused on creating ROI.  On a personal level, he is a man of great character and dedication."
+            ],
+            [
+                "Brad Beebe",
+                "Executive Leader and Entrepreneur",
+                "February 5, 2012, Jason reported directly to Brad"
+            ],
+            [
+                "Brad Beebe",
+                "Executive Leader and Entrepreneur",
+                "February 5, 2012, Jason reported directly to Brad"
+            ],
+            [
+                "Brad Beebe",
+                "Executive Leader and Entrepreneur",
+                "February 5, 2012, Jason reported directly to Brad"
+            ],
+            "Executive Leader and Entrepreneur",
+            [
+                "Brad would be a tremendous asset to any organization looking to bring leadership to their IT department.  He brings a balanced, yet progressive vision of how technology can best service business objectives.  He has a thorough understanding of all parts of the stack and how they fit together to deliver full solutions focused on creating ROI.  On a personal level, he is a man of great character and dedication."
+            ],
+            [
+                "Brad would be a tremendous asset to any organization looking to bring leadership to their IT department.  He brings a balanced, yet progressive vision of how technology can best service business objectives.  He has a thorough understanding of all parts of the stack and how they fit together to deliver full solutions focused on creating ROI.  On a personal level, he is a man of great character and dedication."
+            ]
+        ],
+        "skills": [
+            [
+                "Software Development",
+                "See 23 endorsements for Software Development",
+                "23",
+                "Software Development",
+                "Endorse",
+                "Monica Urrea and 22 connections have given endorsements for this skill"
+            ],
+            [
+                "Software Development",
+                "See 23 endorsements for Software Development",
+                "23"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 17 endorsements for Microsoft SQL Server",
+                "17",
+                "Microsoft SQL Server",
+                "Endorse",
+                "Endorsed by Peter Grisolano and 1 other who is highly skilled at this",
+                "Endorsed by Allen Rice and 1 other mutual connection"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 17 endorsements for Microsoft SQL Server",
+                "17"
+            ],
+            [
+                "TFS",
+                "See 14 endorsements for TFS",
+                "14",
+                "TFS",
+                "Endorse",
+                "James Kulon and 13 connections have given endorsements for this skill"
+            ],
+            [
+                "TFS",
+                "See 14 endorsements for TFS",
+                "14"
+            ],
+            [
+                "SharePoint",
+                "See 10 endorsements for SharePoint",
+                "10",
+                "SharePoint",
+                "Endorse"
+            ],
+            [
+                "SharePoint",
+                "See 10 endorsements for SharePoint",
+                "10"
+            ],
+            [
+                "Scrum",
+                "See 10 endorsements for Scrum",
+                "10",
+                "Scrum",
+                "Endorse"
+            ],
+            [
+                "Scrum",
+                "See 10 endorsements for Scrum",
+                "10"
+            ],
+            [
+                "SQL",
+                "See 9 endorsements for SQL",
+                "9",
+                "SQL",
+                "Endorse"
+            ],
+            [
+                "SQL",
+                "See 9 endorsements for SQL",
+                "9"
+            ],
+            [
+                "T-SQL",
+                "See 5 endorsements for T-SQL",
+                "5",
+                "T-SQL",
+                "Endorse"
+            ],
+            [
+                "T-SQL",
+                "See 5 endorsements for T-SQL",
+                "5"
+            ],
+            [
+                "ASP.NET MVC",
+                "See 5 endorsements for ASP.NET MVC",
+                "5",
+                "ASP.NET MVC",
+                "Endorse"
+            ],
+            [
+                "ASP.NET MVC",
+                "See 5 endorsements for ASP.NET MVC",
+                "5"
+            ],
+            [
+                ".NET",
+                "See 4 endorsements for .NET",
+                "4",
+                ".NET",
+                "Endorse"
+            ],
+            [
+                ".NET",
+                "See 4 endorsements for .NET",
+                "4"
+            ],
+            [
+                "C#",
+                "See 4 endorsements for C#",
+                "4",
+                "C#",
+                "Endorse"
+            ],
+            [
+                "C#",
+                "See 4 endorsements for C#",
+                "4"
+            ],
+            [
+                "ASP.NET",
+                "See 4 endorsements for ASP.NET",
+                "4",
+                "ASP.NET",
+                "Endorse"
+            ],
+            [
+                "ASP.NET",
+                "See 4 endorsements for ASP.NET",
+                "4"
+            ],
+            [
+                "WCF",
+                "See 3 endorsements for WCF",
+                "3",
+                "WCF",
+                "Endorse"
+            ],
+            [
+                "WCF",
+                "See 3 endorsements for WCF",
+                "3"
+            ],
+            [
+                "Visual Studio",
+                "See 3 endorsements for Visual Studio",
+                "3",
+                "Visual Studio",
+                "Endorse"
+            ],
+            [
+                "Visual Studio",
+                "See 3 endorsements for Visual Studio",
+                "3"
+            ],
+            [
+                "Databases",
+                "See 3 endorsements for Databases",
+                "3",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 3 endorsements for Databases",
+                "3"
+            ],
+            [
+                "jQuery",
+                "See 3 endorsements for jQuery",
+                "3",
+                "jQuery",
+                "Endorse"
+            ],
+            [
+                "jQuery",
+                "See 3 endorsements for jQuery",
+                "3"
+            ],
+            [
+                "IT Management",
+                "See 2 endorsements for IT Management",
+                "2",
+                "IT Management",
+                "Endorse"
+            ],
+            [
+                "IT Management",
+                "See 2 endorsements for IT Management",
+                "2"
+            ],
+            [
+                "Architecture",
+                "See 2 endorsements for Architecture",
+                "2",
+                "Architecture",
+                "Endorse"
+            ],
+            [
+                "Architecture",
+                "See 2 endorsements for Architecture",
+                "2"
+            ],
+            [
+                "XML",
+                "See 2 endorsements for XML",
+                "2",
+                "XML",
+                "Endorse"
+            ],
+            [
+                "XML",
+                "See 2 endorsements for XML",
+                "2"
+            ],
+            [
+                "CSS",
+                "See 2 endorsements for CSS",
+                "2",
+                "CSS",
+                "Endorse"
+            ],
+            [
+                "CSS",
+                "See 2 endorsements for CSS",
+                "2"
+            ],
+            [
+                "JavaScript",
+                "See 2 endorsements for JavaScript",
+                "2",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 2 endorsements for JavaScript",
+                "2"
+            ],
+            [
+                "SQL Server",
+                "See 1 endorsement for SQL Server",
+                "1",
+                "SQL Server",
+                "Endorse"
+            ],
+            [
+                "SQL Server",
+                "See 1 endorsement for SQL Server",
+                "1"
+            ],
+            [
+                "Agile",
+                "See 1 endorsement for Agile",
+                "1",
+                "Agile",
+                "Endorse"
+            ],
+            [
+                "Agile",
+                "See 1 endorsement for Agile",
+                "1"
+            ],
+            [
+                "Database Design",
+                "See 1 endorsement for Database Design",
+                "1",
+                "Database Design",
+                "Endorse"
+            ],
+            [
+                "Database Design",
+                "See 1 endorsement for Database Design",
+                "1"
+            ],
+            [
+                "Web Services",
+                "See 1 endorsement for Web Services",
+                "1",
+                "Web Services",
+                "Endorse"
+            ],
+            [
+                "Web Services",
+                "See 1 endorsement for Web Services",
+                "1"
+            ],
+            [
+                "HTML",
+                "See 1 endorsement for HTML",
+                "1",
+                "HTML",
+                "Endorse"
+            ],
+            [
+                "HTML",
+                "See 1 endorsement for HTML",
+                "1"
+            ],
+            [
+                "Windows Azure",
+                "See 1 endorsement for Windows Azure",
+                "1",
+                "Windows Azure",
+                "Endorse"
+            ],
+            [
+                "Windows Azure",
+                "See 1 endorsement for Windows Azure",
+                "1"
+            ],
+            [
+                "Kanban",
+                "See 1 endorsement for Kanban",
+                "1",
+                "Kanban",
+                "Endorse"
+            ],
+            [
+                "Kanban",
+                "See 1 endorsement for Kanban",
+                "1"
+            ],
+            [
+                "Web Development",
+                "See 1 endorsement for Web Development",
+                "1",
+                "Web Development",
+                "Endorse"
+            ],
+            [
+                "Web Development",
+                "See 1 endorsement for Web Development",
+                "1"
+            ],
+            [
+                "Agile Methodologies",
+                "See 1 endorsement for Agile Methodologies",
+                "1",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 1 endorsement for Agile Methodologies",
+                "1"
+            ],
+            [
+                "IIS",
+                "See 1 endorsement for IIS",
+                "1",
+                "IIS",
+                "Endorse"
+            ],
+            [
+                "IIS",
+                "See 1 endorsement for IIS",
+                "1"
+            ],
+            [
+                "HTML 5",
+                "See 1 endorsement for HTML 5",
+                "1",
+                "HTML 5",
+                "Endorse"
+            ],
+            [
+                "HTML 5",
+                "See 1 endorsement for HTML 5",
+                "1"
+            ],
+            [
+                "Team Foundation Server (TFS)",
+                "See 1 endorsement for Team Foundation Server (TFS)",
+                "1",
+                "Team Foundation Server (TFS)",
+                "Endorse"
+            ],
+            [
+                "Team Foundation Server (TFS)",
+                "See 1 endorsement for Team Foundation Server (TFS)",
+                "1"
+            ],
+            [
+                "Web Applications",
+                "See 1 endorsement for Web Applications",
+                "1",
+                "Web Applications",
+                "Endorse"
+            ],
+            [
+                "Web Applications",
+                "See 1 endorsement for Web Applications",
+                "1"
+            ]
+        ],
+        "summary": "",
+        "name": "Jason Young",
+        "title": "Managing Director of IT at DriveTime",
+        "url": "linkedin.com/in/jason-young-5b2ba623",
+        "phone": "",
+        "email": "jayoung76@live.com"
+    }
+]

@@ -1,0 +1,49 @@
+{
+    "thread": "/messaging/thread/6218109451245797376/",
+    "participants": [
+        {
+            "name": "Frederic van West",
+            "title": "Programmer III at Unicon.",
+            "url": "linkedin.com/in/fredvanwest",
+            "phone": "",
+            "email": "fredvanwest@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-12-23T17:07:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Frederic van West",
+            "time": "2017-12-23T17:07:00.000Z",
+            "message": "You bet\n"
+        },
+        {
+            "from": "Frederic van West",
+            "time": "2017-12-23T19:55:00.000Z",
+            "message": "Thanks for endorsing me for PowerPoint!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-12-23T19:56:00.000Z",
+            "message": "Haha, I am trying to get past the 99+ point.\n"
+        },
+        {
+            "from": "Frederic van West",
+            "time": "2017-12-23T19:56:00.000Z",
+            "message": ":)\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-04-19T14:13:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Frederic van West",
+            "time": "2017-04-19T14:14:00.000Z",
+            "message": "Thanks\n"
+        }
+    ]
+}

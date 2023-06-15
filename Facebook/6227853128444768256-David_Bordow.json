@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6227853128444768256/",
+    "participants": [
+        {
+            "name": "David Bordow",
+            "title": "Product Design + Food + Fiddling",
+            "url": "linkedin.com/in/dbordow",
+            "phone": null,
+            "email": "david@bordow.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting! I love food too!\n",
+            "time": "2018-01-19T14:24:00.000Z"
+        }
+    ]
+}

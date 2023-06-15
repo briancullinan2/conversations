@@ -1,0 +1,12 @@
+<session type="Start" time="1207951713" medium="JABBER" from="bjcullinan@gmail.com" to="darkpowers.ryan@gmail.com"/>
+<session type="start" time="1207951713" medium="JABBER" to="darkpowers%2Eryan%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1207951717" medium="JABBER" to="darkpowers%2Eryan%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="bjcullinan"/>
+<session type="stop" time="1207951865" medium="JABBER" to="darkpowers%2Eryan%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1207951987" medium="JABBER" to="darkpowers%2Eryan%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1207951990" medium="JABBER" to="darkpowers%2Eryan%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="Ryan%20Bohner"/>
+<message type="outgoing_privateMessage" time="1207951992" medium="JABBER" to="darkpowers%2Eryan%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="oops"/>
+<message type="outgoing_privateMessage" time="1207952000" medium="JABBER" to="darkpowers%2Eryan%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="%3Ca%20href%3D%22http%3A%2F%2Fwww%2Ebjcullinan%2Ecom%22%3Ehttp%3A%2F%2Fwww%2Ebjcullinan%2Ecom%3C%2Fa%3E"/>
+<session type="stop" time="1207952001" medium="JABBER" to="darkpowers%2Eryan%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<session type="start" time="1208211077" medium="JABBER" to="darkpowers%2Eryan%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="incoming_privateMessage" time="1208211077" medium="JABBER" to="bjcullinan%40gmail%2Ecom" from="darkpowers%2Eryan%40gmail%2Ecom" from_display="Ryan%20Bohner" text="%E2%98%A2%E2%98%A2%E2%98%A2%E2%98%A2%E2%98%A2%E2%98%A2%E2%98%A2%E2%98%A2%E2%98%A2%E2%98%A2"/>
+<session type="stop" time="1208211104" medium="JABBER" to="darkpowers%2Eryan%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>

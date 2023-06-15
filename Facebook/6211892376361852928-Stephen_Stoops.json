@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6211892376361852928/",
+    "participants": [
+        {
+            "name": "Stephen Stoops",
+            "title": "Do it right the first time!",
+            "url": "linkedin.com/in/stephen-stoops-73a99962",
+            "phone": null,
+            "email": "stephen@stoops.co"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-06T13:22:00.000Z"
+        }
+    ]
+}

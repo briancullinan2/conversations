@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6195250711022882816/",
+    "participants": [
+        {
+            "name": "Julianne (Anderson) Bowles",
+            "title": "Data Scientist at Transdev On Demand",
+            "url": "linkedin.com/in/juliannebowles",
+            "phone": null,
+            "email": "juloboe@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "How are you?",
+            "time": "2017-10-05T15:14:00.000Z"
+        },
+        {
+            "from": "Julianne Bowles",
+            "message": "Hi Brian. It's been forever. I'm doing well. Busy with a baby and a full time job! How are you?",
+            "time": "2017-10-05T03:09:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Good. Job hunting. Congrats on the baby. That is awesome. Pass on those genius genes!",
+            "time": "2017-10-05T03:29:00.000Z"
+        },
+        {
+            "from": "Julianne Bowles",
+            "message": "What kind of job and where?",
+            "time": "2017-10-05T03:32:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Any job, been searching in Phoenix. I might get a contract working on a meditation app.",
+            "time": "2017-10-05T03:49:00.000Z"
+        }
+    ]
+}

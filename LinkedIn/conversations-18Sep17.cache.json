@@ -1,0 +1,29 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "18Sep17",
+    "participants": "James Robinson | Statistical Consultant > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "James Robinson",
+        "url": "linkedin.com/in/james-robinson-9b97205",
+        "email": "james.mac.robinson@gmail.com",
+        "title": "Statistical Consultant"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Hey Brian! Life is good. We are busy being parents these days. It's been awesome! You still doing programming?",
+    "time": "2017-09-18T03:52:00.000Z",
+    "title": "Statistical Consultant"
+  }
+]

@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6184906367065739264/",
+    "participants": [
+        {
+            "name": "Kenneth Sager",
+            "title": "Information Security Analyst, Int. at Northern Arizona University",
+            "url": "linkedin.com/in/kenneth-sager-2aa7b8125",
+            "phone": "",
+            "email": "catatonicprime@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Kenneth Sager",
+            "time": "2017-09-19T17:04:00.000Z",
+            "message": "Brian,\n\nI’d like to add you to my professional network on LinkedIn.\n\n- Kenneth\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-19T15:22:00.000Z",
+            "message": "Have you read this? http://vendu.twodots.nl/files/wizardcode4.pdf\n"
+        },
+        {
+            "from": "Kenneth Sager",
+            "time": "2017-06-19T15:34:00.000Z",
+            "message": "Nope, looks interesting though.\n"
+        },
+        {
+            "from": "Kenneth Sager",
+            "time": "2017-06-19T15:34:00.000Z",
+            "message": "Interesting in a too boring to read kinda way. But maybe useful as reference\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-19T15:36:00.000Z",
+            "message": "Haha yeah\n"
+        }
+    ]
+}

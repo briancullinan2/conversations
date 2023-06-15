@@ -1,0 +1,21 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "22Aug17",
+    "participants": "Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Congrats on the anniversary! Hope you're doing well.",
+    "time": "2017-08-22T11:17:00.000Z",
+    "title": "wizard"
+  }
+]

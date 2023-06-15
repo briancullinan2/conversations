@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6218097316864278528/",
+    "participants": [
+        {
+            "name": "Chris Coleman",
+            "title": "CEO at Coder Camps",
+            "url": "linkedin.com/in/chrisecoleman",
+            "phone": null,
+            "email": "chrisecoleman@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-23T16:18:00.000Z"
+        }
+    ]
+}

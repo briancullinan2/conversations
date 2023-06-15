@@ -1,0 +1,84 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "24Feb16",
+    "participants": "Kristen Reynolds | Fitness Director at WESTliving > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Kristen Reynolds",
+        "url": "linkedin.com/in/kristen-reynolds-482aa79a",
+        "phone": "4807583756 (Home)",
+        "email": "kreynold@teksystems.com",
+        "title": "Fitness Director at WESTliving"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Good Morning Brian!\n\nThanks so much for the response. It sounds like you have been in IT longer than most. I bet you have seen a lot change over the past few years! \n\nI would love to connect with you and tell you more about Nike and other companies that we support that could give you that change of pace and introduce you to new things! Let me know a good time and number to reach you at or you can call me directly at 480-758-3756. Looking forward to the conversation :) \n\n>On February 23, 2016, 10:29 AM, Brian Cullinan wrote:\n>Thank you for your interest, I have been developing software since I was only 11 years old. I started in VB4 and explored .Net since it's inception. Later I honed my skills on the web with PHP and JavaScript. I enjoy all forms of software development and computer administration. In previous positions a 6 month salary review has worked well, as it gives us both a chance to show what we are made of, without breaking the bank. I have a lot of experience with start-ups, so I am no stranger to bringing new products and technologies to market in a controlled environment. I would enjoy a change to meet more of the team. For reference, I would be looking in the ballpark of $180k. Thank you. -Brian",
+    "time": "2016-02-24T16:13:00.000Z",
+    "title": "Fitness Director at WESTliving"
+  },
+  {
+    "type": "conversations",
+    "conversations": "24Feb16",
+    "participants": "Brian Cullinan | wizard > Colin Sanders | Technical Recruiter at Pacific Northwest National Laboratory - PNNL",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Colin Sanders",
+        "url": "linkedin.com/in/pnnlrecruiter",
+        "email": "colin.sanders@pnnl.gov",
+        "title": "Technical Recruiter at Pacific Northwest National Laboratory - PNNL"
+      }
+    ],
+    "message": "Ok. I don't know a lot about recruiters. Is that what LinkedIn is for, because these kind of messages are a dime a dozen. Isn't it your job to justify to the business why I am worth the amount !!WE!! are asking for?",
+    "time": "2016-02-24T00:08:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "24Feb16",
+    "participants": "Brian Cullinan | wizard > Colin Sanders | Technical Recruiter at Pacific Northwest National Laboratory - PNNL",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Colin Sanders",
+        "url": "linkedin.com/in/pnnlrecruiter",
+        "email": "colin.sanders@pnnl.gov",
+        "title": "Technical Recruiter at Pacific Northwest National Laboratory - PNNL"
+      }
+    ],
+    "message": "And if you are recruiting on behalf of a national laboratory, don't sell yourself short because you absolutely know that they have the money.",
+    "time": "2016-02-24T00:08:00.000Z",
+    "title": "wizard"
+  }
+]

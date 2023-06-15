@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6212634181508358145/",
+    "participants": [
+        {
+            "name": "Walid Ghribi",
+            "title": "Chairman,Founder,Investor,Entrepreneur & Philanthropist at Lido Global LLC, Partner at Revest UK",
+            "url": "linkedin.com/in/walid-ghribi-2877a825",
+            "phone": null,
+            "email": "will1976gh@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-12-08T14:30:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Walid Ghribi",
+            "time": "2017-03-08T13:40:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-11T16:25:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

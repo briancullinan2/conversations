@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6239172404778721280/",
+    "participants": [
+        {
+            "name": "Chris Blackburn",
+            "title": "Audit Sr. Manager at Deloitte",
+            "url": "linkedin.com/in/chris-blackburn-b82543a1",
+            "phone": null,
+            "email": "crblac@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-19T20:03:00.000Z",
+            "message": "Thank you for connecting!\n"
+        }
+    ]
+}

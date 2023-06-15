@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6181970126728941568/",
+    "participants": [
+        {
+            "name": "Gail Barnes, PMP® , CSM, MBA",
+            "title": "Program Manager, American Express",
+            "url": "linkedin.com/in/gail-barnes-pmp®-csm-mba-2987a11",
+            "phone": null,
+            "email": "gbarne08@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2016-09-14T23:42:00.000Z",
+            "message": "Hey! Tons of new information coming soon!\r\n\r\n\r\n- Brian Cullinan\n"
+        },
+        {
+            "from": "Gail Barnes, PMP® , CSM, MBA",
+            "time": "2017-11-12T21:24:00.000Z",
+            "message": "Congrats on the new job! Way to go I new you could do it\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-11-12T21:40:00.000Z",
+            "message": "Thank you! More to come!\n"
+        },
+        {
+            "from": "Gail Barnes, PMP® , CSM, MBA",
+            "time": "2017-03-08T19:35:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-08T19:43:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

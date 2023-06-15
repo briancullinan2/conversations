@@ -1,0 +1,740 @@
+[
+    {
+        "resourceName": "people/c6170829092728173242",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgxBM3c5Q1ppMVRyMD0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "55a3305d89b572ba"
+                    }
+                },
+                "displayName": "Mr. and Mrs. Mike Fournier",
+                "familyName": "Fournier",
+                "givenName": "and Mrs.",
+                "middleName": "Mike",
+                "honorificPrefix": "Mr",
+                "displayNameLastFirst": "Fournier, Mr and Mrs. Mike"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "55a3305d89b572ba"
+                    }
+                },
+                "value": "mikefournier@cox.net",
+                "type": "other",
+                "formattedType": "Other"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "55a3305d89b572ba"
+                    }
+                },
+                "value": "DFournier@MFS.com",
+                "type": "home",
+                "formattedType": "Home"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "55a3305d89b572ba"
+                    }
+                },
+                "value": "mike.fournier@sage.com",
+                "type": "home",
+                "formattedType": "Home"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "55a3305d89b572ba"
+                    }
+                },
+                "value": "+1-480-473-0420",
+                "canonicalForm": "+14804730420",
+                "type": "home",
+                "formattedType": "Home"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "55a3305d89b572ba"
+                    }
+                },
+                "value": "(480) 289-0163",
+                "canonicalForm": "+14802890163",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "16 Mutual Connections",
+                "You and Mike both know Steve McVey, Greg Head, and 14 others"
+            ],
+            [
+                "Mike can introduce you to 3 people at Verint",
+                "Mike worked at Verint"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Project Manager",
+                "Company Name",
+                "Verint",
+                "Dates Employed",
+                "Mar 2013 – Present",
+                "Employment Duration",
+                "4 yrs 8 mos",
+                "Location",
+                "Scottsdale AZ",
+                "Project Manager for enterprise customers who are implementing our Impact 360 Workforce Optimization suite."
+            ],
+            [
+                "Principal & Independent Consultant",
+                "Company Name",
+                "Sonoran Software Solutions, LLC",
+                "Dates Employed",
+                "2008 – Present",
+                "Employment Duration",
+                "9 yrs",
+                "Location",
+                "Scottsdale Arizona",
+                "Founded consultancy enterprise to design and manage implementation of community-based applications and software to business-development professionals, including business owners, developers, and sales teams. Leverage extensive expertise in Sage SalesLogix CRM platform to strengthen business practices and optimize service offerings. Serve as on-site Business Analyst, working with clients to determine system requirements and design opportunities for software solutions. Orchestrate implementation of designed systems, leading teams of internal and external Software Engineers throughout planning, testing, and deployment. Lead training initiatives to ensure client knowledge of system modifications. As SourceCentrix Principal in parallel, collaborate with Software Engineers and Architects on design and implementation of software product targeting real-estate development industry (www.HobnobOnline.com). Direct product-development initiatives, investigating software needs and seeing development pipelines from idea inception through testing and deployment."
+            ],
+            [
+                "Senior Manager, Professional Services",
+                "Company Name",
+                "Sage",
+                "Dates Employed",
+                "2004 – 2008",
+                "Employment Duration",
+                "4 yrs",
+                "Location",
+                "Scottsdale Arizona",
+                "Directed 12-member team of Project Managers, Business Analysts, and Software Engineers for Professional Services Group [PSG] in identifying and creating long-term strategies needed to increase customer base and drive revenue growth. Managed contract and rate development, business-development initiatives, time tracking, billing, and commission structures in order to meet corporate revenue objectives. Analyzed comprehensive history of projects, determining profit levels and identifying opportunities for improvement to internal project methodologies. Collaborated with sales, support, product-management, and development teams to ensure unilateral success of all project goals.•\tDrove annual revenue from $500K to $2M within three years of engagement by optimizing customer-service offerings and quality in order to dramatically expand customer base and generate additional projects.•\tReduced monthly customer refunds from $10K to $0 by pioneering innovative project methodology that established product-development lifecycle roadmaps to ensure proper software design and client knowledge, eliminating costly mistakes and dramatically improving customer-satisfaction rates.•\tIncreased workload capacity by implementing attainable bonus plan, effectively increasing revenue through incentive structure that drove employee interest in additional projects and overtime capabilities.•\tExpanded interdepartmental communications by instituting regular cross-functional meetings to promote product offerings, internal projects, and software capabilities."
+            ],
+            [
+                "Senior Project Manager, Professional Services",
+                "Company Name",
+                "Sage",
+                "Dates Employed",
+                "1999 – 2004",
+                "Employment Duration",
+                "5 yrs",
+                "Location",
+                "Scottsdale Arizona",
+                "Orchestrated CRM projects using SalesLogix platform, managing entire project lifecycle from requirements solicitation through post-implementation. Managed cross-functional teams in process design, engineering, and quality-assurance activities. Authored project plans, allocated necessary resources, created detailed documentation, and interfaced with customer to ensure project deliverables aligned with expectations. Coordinated on-time and on-budget delivery of 20+ annual projects.•\tRecognized as Project Lead for Safety-Kleen branch-automation project, deploying advanced technologies to 160+ branches. Served in change-management role to restructure project and strengthen operations throughout entire pipeline."
+            ],
+            [
+                "Senior Software Engineer & Business Analyst, Professional Services",
+                "Company Name",
+                "Sage",
+                "Dates Employed",
+                "1998 – 1999",
+                "Employment Duration",
+                "1 yr",
+                "Location",
+                "Scottsdale Arizona",
+                "Recruited to work with customers on determining software needs and project requirements related to large-scale SalesLogix implementations. Analyzed current infrastructure, designing, developing, testing, and implementing customized changes to client systems. Authored design documents and gained Senior Management approval to ensure that project deployments aligned with customer objectives. Coordinated successful migration and integration of all data systems.•\tSpearheaded design, development, and deployment of multicurrency enhancement and sales methodology to SalesLogix system for notable international software company."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "The College of Saint Rose",
+                "Field Of Study",
+                "Business Administration",
+                "Dates attended or expected graduation",
+                "1981 – 1984"
+            ],
+            [
+                "The College of Saint Rose",
+                "Field Of Study",
+                "Business Administration",
+                "Dates attended or expected graduation",
+                "1981 – 1984"
+            ],
+            [
+                "Bryant & Stratton College",
+                "Degree Name",
+                "AOS",
+                "Field Of Study",
+                "Software Engineering and Accounting",
+                "Dates attended or expected graduation",
+                "1979 – 1981",
+                "Activities and Societies:",
+                "Yearbook"
+            ],
+            [
+                "Bryant & Stratton College",
+                "Degree Name",
+                "AOS",
+                "Field Of Study",
+                "Software Engineering and Accounting",
+                "Dates attended or expected graduation",
+                "1979 – 1981",
+                "Activities and Societies:",
+                "Yearbook"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Software as a Service - SaaS - Group",
+                "123,976 members"
+            ],
+            [
+                "Verint",
+                "50,104 followers"
+            ],
+            [
+                "Avolve Software",
+                "937 followers"
+            ],
+            [
+                "Bryant & Stratton College",
+                "22,832 followers"
+            ],
+            [
+                "Bryant & Stratton College",
+                "26,403 followers"
+            ],
+            [
+                "The College of Saint Rose",
+                "17,511 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (257)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Software as a Service - SaaS - Group",
+                "123,976 members"
+            ],
+            [
+                "Software as a Service - SaaS - Group",
+                "123,976 members"
+            ],
+            [
+                "Verint",
+                "50,104 followers"
+            ],
+            [
+                "Verint",
+                "50,104 followers"
+            ],
+            [
+                "Avolve Software",
+                "937 followers"
+            ],
+            [
+                "Avolve Software",
+                "937 followers"
+            ],
+            [
+                "Bryant & Stratton College",
+                "22,832 followers"
+            ],
+            [
+                "Bryant & Stratton College",
+                "22,832 followers"
+            ],
+            [
+                "Bryant & Stratton College",
+                "26,403 followers"
+            ],
+            [
+                "Bryant & Stratton College",
+                "26,403 followers"
+            ],
+            [
+                "The College of Saint Rose",
+                "17,511 followers"
+            ],
+            [
+                "The College of Saint Rose",
+                "17,511 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "David Monic",
+                "Vice President of Business Development & Marketing for MedCentris",
+                "January 21, 2013, David was a client of Mike’s",
+                "We contracted Mike to assist our team with the implementation/rollout of a new technology.  His subject matter knowledge on the technology was outstanding and very detailed, as were his contacts throughout the industry surrounding the technology.  He was extremely dependable and consistently produced outstanding work within required time frames.  He possesses excellent customer service and team building skills, and everyone on the project found him a joy to work with.  In short, Mike was trustworthy, consistent, dependable, knowledgeable, and very easy to work with.  I would not hesitate to hire him again for any similar projects, and give him my highest recommendation for anyone considering his services."
+            ],
+            [
+                "David Monic",
+                "Vice President of Business Development & Marketing for MedCentris",
+                "January 21, 2013, David was a client of Mike’s"
+            ],
+            [
+                "David Monic",
+                "Vice President of Business Development & Marketing for MedCentris",
+                "January 21, 2013, David was a client of Mike’s"
+            ],
+            [
+                "David Monic",
+                "Vice President of Business Development & Marketing for MedCentris",
+                "January 21, 2013, David was a client of Mike’s"
+            ],
+            "Vice President of Business Development & Marketing for MedCentris",
+            [
+                "We contracted Mike to assist our team with the implementation/rollout of a new technology.  His subject matter knowledge on the technology was outstanding and very detailed, as were his contacts throughout the industry surrounding the technology.  He was extremely dependable and consistently produced outstanding work within required time frames.  He possesses excellent customer service and team building skills, and everyone on the project found him a joy to work with.  In short, Mike was trustworthy, consistent, dependable, knowledgeable, and very easy to work with.  I would not hesitate to hire him again for any similar projects, and give him my highest recommendation for anyone considering his services."
+            ],
+            [
+                "We contracted Mike to assist our team with the implementation/rollout of a new technology.  His subject matter knowledge on the technology was outstanding and very detailed, as were his contacts throughout the industry surrounding the technology.  He was extremely dependable and consistently produced outstanding work within required time frames.  He possesses excellent customer service and team building skills, and everyone on the project found him a joy to work with.  In short, Mike was trustworthy, consistent, dependable, knowledgeable, and very easy to work with.  I would not hesitate to hire him again for any similar projects, and give him my highest recommendation for anyone considering his services."
+            ],
+            [
+                "David Reines",
+                "Instructional Designer at Minisoft Inc",
+                "May 19, 2009, Mike was senior to David but didn’t manage directly",
+                "I have worked with Mike both as a colleague and as a student. In both cases, Mike was extremely professional, knowledgeable and easy to get a long with. I would trust Mike's judgment in business matters and respect any decision he makes in the best interest of my company."
+            ],
+            [
+                "David Reines",
+                "Instructional Designer at Minisoft Inc",
+                "May 19, 2009, Mike was senior to David but didn’t manage directly"
+            ],
+            [
+                "David Reines",
+                "Instructional Designer at Minisoft Inc",
+                "May 19, 2009, Mike was senior to David but didn’t manage directly"
+            ],
+            [
+                "David Reines",
+                "Instructional Designer at Minisoft Inc",
+                "May 19, 2009, Mike was senior to David but didn’t manage directly"
+            ],
+            "Instructional Designer at Minisoft Inc",
+            [
+                "I have worked with Mike both as a colleague and as a student. In both cases, Mike was extremely professional, knowledgeable and easy to get a long with. I would trust Mike's judgment in business matters and respect any decision he makes in the best interest of my company."
+            ],
+            [
+                "I have worked with Mike both as a colleague and as a student. In both cases, Mike was extremely professional, knowledgeable and easy to get a long with. I would trust Mike's judgment in business matters and respect any decision he makes in the best interest of my company."
+            ],
+            [
+                "Paul Nuss, PMP",
+                "Implementation Project Manager at TeleTracking Technologies",
+                "April 19, 2009, Paul worked with Mike in different groups",
+                "Mike and I worked together on a number of occasions while I was the Director of Professional Services for the Accpac ERP product of Sage Software. I had the opportunity to work closely with Mike in setting up process standards for managing the Professional Services projects at Sage.  In addition, we shared booth duty during many of the Sage Insights conferences as well as colabrating on a few client projects. Mike is very professional and is a great person to work with.  I hope that we have the opportunity to work together in the future!"
+            ],
+            [
+                "Paul Nuss, PMP",
+                "Implementation Project Manager at TeleTracking Technologies",
+                "April 19, 2009, Paul worked with Mike in different groups"
+            ],
+            [
+                "Paul Nuss, PMP",
+                "Implementation Project Manager at TeleTracking Technologies",
+                "April 19, 2009, Paul worked with Mike in different groups"
+            ],
+            [
+                "Paul Nuss, PMP",
+                "Implementation Project Manager at TeleTracking Technologies",
+                "April 19, 2009, Paul worked with Mike in different groups"
+            ],
+            "Implementation Project Manager at TeleTracking Technologies",
+            [
+                "Mike and I worked together on a number of occasions while I was the Director of Professional Services for the Accpac ERP product of Sage Software. I had the opportunity to work closely with Mike in setting up process standards for managing the Professional Services projects at Sage.  In addition, we shared booth duty during many of the Sage Insights conferences as well as colabrating on a few client projects. Mike is very professional and is a great person to work with.  I hope that we have the opportunity to work together in the future!"
+            ],
+            [
+                "Mike and I worked together on a number of occasions while I was the Director of Professional Services for the Accpac ERP product of Sage Software. I had the opportunity to work closely with Mike in setting up process standards for managing the Professional Services projects at Sage.  In addition, we shared booth duty during many of the Sage Insights conferences as well as colabrating on a few client projects. Mike is very professional and is a great person to work with.  I hope that we have the opportunity to work together in the future!"
+            ],
+            [
+                "Bob Neeser",
+                "Senior Vice President Sales",
+                "April 18, 2009, Bob managed Mike directly",
+                "I worked with Mike Fournier at Sage Software.  Mike managed the Professional Services Group (PSG) for CRM products at Sage.  During our time working together  revenues increased by nearly 400%. Mike and his team engaged with the largest SalesLogix customers, often coming in to turn around situations that had deteriorated badly due to implementation issues or from core product issues. Mike is positive, competent and an all around good person to work with.Bob"
+            ],
+            [
+                "Bob Neeser",
+                "Senior Vice President Sales",
+                "April 18, 2009, Bob managed Mike directly"
+            ],
+            [
+                "Bob Neeser",
+                "Senior Vice President Sales",
+                "April 18, 2009, Bob managed Mike directly"
+            ],
+            [
+                "Bob Neeser",
+                "Senior Vice President Sales",
+                "April 18, 2009, Bob managed Mike directly"
+            ],
+            "Senior Vice President Sales",
+            [
+                "I worked with Mike Fournier at Sage Software.  Mike managed the Professional Services Group (PSG) for CRM products at Sage.  During our time working together  revenues increased by nearly 400%. Mike and his team engaged with the largest SalesLogix customers, often coming in to turn around situations that had deteriorated badly due to implementation issues or from core product issues. Mike is positive, competent and an all around good person to work with.Bob"
+            ],
+            [
+                "I worked with Mike Fournier at Sage Software.  Mike managed the Professional Services Group (PSG) for CRM products at Sage.  During our time working together  revenues increased by nearly 400%. Mike and his team engaged with the largest SalesLogix customers, often coming in to turn around situations that had deteriorated badly due to implementation issues or from core product issues. Mike is positive, competent and an all around good person to work with.Bob"
+            ],
+            [
+                "Jon Van Duyne",
+                "Expert in Scaling Organisations",
+                "March 29, 2009, Jon managed Mike directly",
+                "I had the pleasure of working with Mike while I was serving as Senior Vice President and General Manager for SalesLogix, a part of Sage Software.  Mike took over the leadership of the professional services group in the wake of a restructuring caused by a large number of professional services employees leaving to form a rival firm.  Mike demonstrated a lot of strengths during this time--leadership, ability to handle significant and ongoing pressure, excellent technical apptitude, strong values, and great teamwork.  We eventually turned the organization around and it was largely Mike's tireless devotion and limitless energy that made that turnaround possible.  I very much enjoyed working with Mike and would welcome the opportunity to partner with him again!"
+            ],
+            [
+                "Jon Van Duyne",
+                "Expert in Scaling Organisations",
+                "March 29, 2009, Jon managed Mike directly"
+            ],
+            [
+                "Jon Van Duyne",
+                "Expert in Scaling Organisations",
+                "March 29, 2009, Jon managed Mike directly"
+            ],
+            [
+                "Jon Van Duyne",
+                "Expert in Scaling Organisations",
+                "March 29, 2009, Jon managed Mike directly"
+            ],
+            "Expert in Scaling Organisations",
+            [
+                "I had the pleasure of working with Mike while I was serving as Senior Vice President and General Manager for SalesLogix, a part of Sage Software.  Mike took over the leadership of the professional services group in the wake of a restructuring caused by a large number of professional services employees leaving to form a rival firm.  Mike demonstrated a lot of strengths during this time--leadership, ability to handle significant and ongoing pressure, excellent technical apptitude, strong values, and great teamwork.  We eventually turned the organization around and it was largely Mike's tireless devotion and limitless energy that made that turnaround possible.  I very much enjoyed working with Mike and would welcome the opportunity to partner with him again!"
+            ],
+            [
+                "I had the pleasure of working with Mike while I was serving as Senior Vice President and General Manager for SalesLogix, a part of Sage Software.  Mike took over the leadership of the professional services group in the wake of a restructuring caused by a large number of professional services employees leaving to form a rival firm.  Mike demonstrated a lot of strengths during this time--leadership, ability to handle significant and ongoing pressure, excellent technical apptitude, strong values, and great teamwork.  We eventually turned the organization around and it was largely Mike's tireless devotion and limitless energy that made that turnaround possible.  I very much enjoyed working with Mike and would welcome the opportunity to partner with him again!"
+            ],
+            [
+                "Scot Zimmerman",
+                "Partner, Interlinx Associates, LLC",
+                "March 5, 2009, Scot was a client of Mike’s",
+                "I've worked with Mike in the past on several SalesLogix projects and was always impressed with his professionalism, thoroughness and prompt attention to detail. Our clients were happy as well. As our business grows and we need additional resources for large projects, I won't hesitate to call on Mike for help."
+            ],
+            [
+                "Scot Zimmerman",
+                "Partner, Interlinx Associates, LLC",
+                "March 5, 2009, Scot was a client of Mike’s"
+            ],
+            [
+                "Scot Zimmerman",
+                "Partner, Interlinx Associates, LLC",
+                "March 5, 2009, Scot was a client of Mike’s"
+            ],
+            [
+                "Scot Zimmerman",
+                "Partner, Interlinx Associates, LLC",
+                "March 5, 2009, Scot was a client of Mike’s"
+            ],
+            "Partner, Interlinx Associates, LLC",
+            [
+                "I've worked with Mike in the past on several SalesLogix projects and was always impressed with his professionalism, thoroughness and prompt attention to detail. Our clients were happy as well. As our business grows and we need additional resources for large projects, I won't hesitate to call on Mike for help."
+            ],
+            [
+                "I've worked with Mike in the past on several SalesLogix projects and was always impressed with his professionalism, thoroughness and prompt attention to detail. Our clients were happy as well. As our business grows and we need additional resources for large projects, I won't hesitate to call on Mike for help."
+            ],
+            [
+                "Christy Roush",
+                "Currently seeking leadership opportunity",
+                "January 12, 2010, Mike worked with Christy in different groups",
+                "While Christy and I both worked at Sage, we had several opportunities to work together in order to resolve complex issues at a customer site.  Christy was a pleasure to work with and would always do whatever it took to resolve the customer's issue.  She was bright and articulate.  Christy took pride in her work and always had a smile on her face."
+            ],
+            [
+                "Christy Roush",
+                "Currently seeking leadership opportunity",
+                "January 12, 2010, Mike worked with Christy in different groups"
+            ],
+            [
+                "Christy Roush",
+                "Currently seeking leadership opportunity",
+                "January 12, 2010, Mike worked with Christy in different groups"
+            ],
+            [
+                "Christy Roush",
+                "Currently seeking leadership opportunity",
+                "January 12, 2010, Mike worked with Christy in different groups"
+            ],
+            "Currently seeking leadership opportunity",
+            [
+                "While Christy and I both worked at Sage, we had several opportunities to work together in order to resolve complex issues at a customer site.  Christy was a pleasure to work with and would always do whatever it took to resolve the customer's issue.  She was bright and articulate.  Christy took pride in her work and always had a smile on her face."
+            ],
+            [
+                "While Christy and I both worked at Sage, we had several opportunities to work together in order to resolve complex issues at a customer site.  Christy was a pleasure to work with and would always do whatever it took to resolve the customer's issue.  She was bright and articulate.  Christy took pride in her work and always had a smile on her face."
+            ],
+            [
+                "Louis Costarelos",
+                "Sr. Solution Architect & Dynamics365 Lead",
+                "June 15, 2009, Mike managed Louis directly",
+                "I hired Louis about three years ago and was his direct manager for the next three years.  He is bright, articulate and very good at troubleshooting.  He was able to get up to speed on the SalesLogix lan and mobile products very quickly.  Soon after that, we put him to work troubleshooting implementation and customization issues.  In each case, he methodically got to the root cause of the issue and identified the solution to correct the issue.  Louis was also a strong Business Analyst and Software Engineer.  He even managed his own projects.  His well-rounded skillset makes him an asset to any organization.  I enjoyed working with Louis and would recommend him to anyone looking for a solid Software Engineer or Business Analyst."
+            ],
+            [
+                "Louis Costarelos",
+                "Sr. Solution Architect & Dynamics365 Lead",
+                "June 15, 2009, Mike managed Louis directly"
+            ],
+            [
+                "Louis Costarelos",
+                "Sr. Solution Architect & Dynamics365 Lead",
+                "June 15, 2009, Mike managed Louis directly"
+            ],
+            [
+                "Louis Costarelos",
+                "Sr. Solution Architect & Dynamics365 Lead",
+                "June 15, 2009, Mike managed Louis directly"
+            ],
+            "Sr. Solution Architect & Dynamics365 Lead",
+            [
+                "I hired Louis about three years ago and was his direct manager for the next three years.  He is bright, articulate and very good at troubleshooting.  He was able to get up to speed on the SalesLogix lan and mobile products very quickly.  Soon after that, we put him to work troubleshooting implementation and customization issues.  In each case, he methodically got to the root cause of the issue and identified the solution to correct the issue.  Louis was also a strong Business Analyst and Software Engineer.  He even managed his own projects.  His well-rounded skillset makes him an asset to any organization.  I enjoyed working with Louis and would recommend him to anyone looking for a solid Software Engineer or Business Analyst."
+            ],
+            [
+                "I hired Louis about three years ago and was his direct manager for the next three years.  He is bright, articulate and very good at troubleshooting.  He was able to get up to speed on the SalesLogix lan and mobile products very quickly.  Soon after that, we put him to work troubleshooting implementation and customization issues.  In each case, he methodically got to the root cause of the issue and identified the solution to correct the issue.  Louis was also a strong Business Analyst and Software Engineer.  He even managed his own projects.  His well-rounded skillset makes him an asset to any organization.  I enjoyed working with Louis and would recommend him to anyone looking for a solid Software Engineer or Business Analyst."
+            ]
+        ],
+        "skills": [
+            [
+                "CRM",
+                "See 37 endorsements for CRM",
+                "37",
+                "CRM",
+                "Remove Endorsement",
+                "You and 36 connections have given endorsements for this skill"
+            ],
+            [
+                "CRM",
+                "See 37 endorsements for CRM",
+                "37"
+            ],
+            [
+                "Integration",
+                "See 29 endorsements for Integration",
+                "29",
+                "Integration",
+                "Remove Endorsement",
+                "Endorsed by Rich Eaton and 1 other who is highly skilled at this",
+                "Endorsed by Bridgitte Molyneux and 3 other mutual connections"
+            ],
+            [
+                "Integration",
+                "See 29 endorsements for Integration",
+                "29"
+            ],
+            [
+                "Professional Services",
+                "See 22 endorsements for Professional Services",
+                "22",
+                "Professional Services",
+                "Remove Endorsement",
+                "Endorsed by Bridgitte Molyneux (mutual connection)",
+                "Endorsed by 14 of Mike’s colleagues at Sage"
+            ],
+            [
+                "Professional Services",
+                "See 22 endorsements for Professional Services",
+                "22"
+            ],
+            [
+                "Business Analysis",
+                "See 20 endorsements for Business Analysis",
+                "20",
+                "Business Analysis",
+                "Remove Endorsement"
+            ],
+            [
+                "Business Analysis",
+                "See 20 endorsements for Business Analysis",
+                "20"
+            ],
+            [
+                "SaaS",
+                "See 13 endorsements for SaaS",
+                "13",
+                "SaaS",
+                "Remove Endorsement"
+            ],
+            [
+                "SaaS",
+                "See 13 endorsements for SaaS",
+                "13"
+            ],
+            [
+                "Solution Selling",
+                "See 11 endorsements for Solution Selling",
+                "11",
+                "Solution Selling",
+                "Remove Endorsement"
+            ],
+            [
+                "Solution Selling",
+                "See 11 endorsements for Solution Selling",
+                "11"
+            ],
+            [
+                "Cloud Computing",
+                "See 9 endorsements for Cloud Computing",
+                "9",
+                "Cloud Computing",
+                "Remove Endorsement"
+            ],
+            [
+                "Cloud Computing",
+                "See 9 endorsements for Cloud Computing",
+                "9"
+            ],
+            [
+                "Business Intelligence",
+                "See 9 endorsements for Business Intelligence",
+                "9",
+                "Business Intelligence",
+                "Remove Endorsement"
+            ],
+            [
+                "Business Intelligence",
+                "See 9 endorsements for Business Intelligence",
+                "9"
+            ],
+            [
+                "Software Implementation",
+                "See 7 endorsements for Software Implementation",
+                "7",
+                "Software Implementation",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Implementation",
+                "See 7 endorsements for Software Implementation",
+                "7"
+            ],
+            [
+                "Software Project Management",
+                "See 6 endorsements for Software Project Management",
+                "6",
+                "Software Project Management",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Project Management",
+                "See 6 endorsements for Software Project Management",
+                "6"
+            ],
+            [
+                "Requirements Analysis",
+                "See 4 endorsements for Requirements Analysis",
+                "4",
+                "Requirements Analysis",
+                "Remove Endorsement"
+            ],
+            [
+                "Requirements Analysis",
+                "See 4 endorsements for Requirements Analysis",
+                "4"
+            ],
+            [
+                "Salesforce.com",
+                "See 3 endorsements for Salesforce.com",
+                "3",
+                "Salesforce.com",
+                "Remove Endorsement"
+            ],
+            [
+                "Salesforce.com",
+                "See 3 endorsements for Salesforce.com",
+                "3"
+            ],
+            [
+                "Business Process",
+                "See 3 endorsements for Business Process",
+                "3",
+                "Business Process",
+                "Remove Endorsement"
+            ],
+            [
+                "Business Process",
+                "See 3 endorsements for Business Process",
+                "3"
+            ],
+            [
+                "Pre-sales",
+                "See 3 endorsements for Pre-sales",
+                "3",
+                "Pre-sales",
+                "Remove Endorsement"
+            ],
+            [
+                "Pre-sales",
+                "See 3 endorsements for Pre-sales",
+                "3"
+            ],
+            [
+                "Strategic Partnerships",
+                "See 3 endorsements for Strategic Partnerships",
+                "3",
+                "Strategic Partnerships",
+                "Remove Endorsement"
+            ],
+            [
+                "Strategic Partnerships",
+                "See 3 endorsements for Strategic Partnerships",
+                "3"
+            ],
+            [
+                "Product Management",
+                "See 2 endorsements for Product Management",
+                "2",
+                "Product Management",
+                "Remove Endorsement"
+            ],
+            [
+                "Product Management",
+                "See 2 endorsements for Product Management",
+                "2"
+            ],
+            [
+                "Sales Process",
+                "See 2 endorsements for Sales Process",
+                "2",
+                "Sales Process",
+                "Remove Endorsement"
+            ],
+            [
+                "Sales Process",
+                "See 2 endorsements for Sales Process",
+                "2"
+            ]
+        ],
+        "summary": "    Strategic and results-oriented Professional Services Manager with history of success leading high-profile projects across startup and corporate environments. Proven track record of championing new customer-focused systems that promote business development and optimal functionality of all internal systems. Adept at managing technical-solution design and delivery, software architecture, and systems integration for highly complex programs. Critically analyze, evaluate, and design infrastructure solutions that mitigate deficiencies and operational gaps in technology processes. Extensive experience leading and mentoring cross-functional teams to success while implementing project-management methodologies.Specialties: Strategic Planning  – Process Improvement – Needs Assessment – Operations Management – Installation - Consultative Solutions  – Systems Integration – Client Relations – CRM – Solution Selling – Business Development\n  \n  \n",
+        "name": "Mike Fournier",
+        "title": "Project Manager at Verint",
+        "url": "linkedin.com/in/mike-fournier-59049710",
+        "phone": null,
+        "email": "Mike.Fournier@SonoranSoftware.com"
+    }
+]

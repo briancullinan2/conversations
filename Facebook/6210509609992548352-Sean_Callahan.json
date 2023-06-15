@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6210509609992548352/",
+    "participants": [
+        {
+            "name": "Sean Callahan",
+            "title": "Senior Technical Recruiter at Unitedweb - Nextiva & SiteLock",
+            "url": "linkedin.com/in/seanecallahan",
+            "phone": "602-753-4762 (Work)",
+            "email": "sean.callahan@unitedweb.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Sean Callahan",
+            "message": "Senior Developer | Scottsdale\nwww.linkedin.com/in/seanecallahan/\nscallahan@sharpdecisions.com",
+            "time": "2017-12-02T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "inmail-hit-reply@linkedin.com\n>\nwrote:",
+            "time": "2017-10-26T21:11:00.000Z"
+        }
+    ]
+}

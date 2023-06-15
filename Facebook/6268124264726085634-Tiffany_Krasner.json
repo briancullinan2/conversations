@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6268124264726085634/",
+    "participants": [
+        {
+            "name": "Tiffany Krasner",
+            "title": "Professional Recruiter at Insight Global",
+            "url": "linkedin.com/in/tiffany-krasner-6b6428b6",
+            "phone": "",
+            "email": "Tiffany.Krasner@insightglobal.net"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Tiffany Krasner",
+            "time": "2017-05-10T12:00:00.000Z",
+            "message": "Web Developer opportunity in Phoenix\n\nHi Brian, \n\nMy name is Tiffany Krasner and I’m one of the professional recruiters here at our Insight Global-PHX office. Your profile shows you are open to new opportunities and we are looking to hire a web developer with an emphasis on C# to sit in the North Phoenix area (85054) onsite at one of our large clients (healthcare technology field). Below is the job description. If you are interested in this, please let me know! \n\nSkills:\n- At least 5+years of C-sharp experience \n- Experience programming with Java Script and/or type script \n- At least 1 year of Angular 1 experience \n- AWS experience\n\nDay to day: \nThis candidate will be working in an Agile environment on a team of 8 other developers developing the company’s Website, Mobile Applications and API’s (Application program interface). This position is very collaborate and need someone that has experience and enjoys working in a team environment!\n\nTiffany Krasner\nTiffany.Krasner@insightglobal.com\n480-214-4747\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-10T23:18:00.000Z",
+            "message": "Awesome what company?\n"
+        },
+        {
+            "from": "Tiffany Krasner",
+            "time": "2017-05-11T14:47:00.000Z",
+            "message": "Hi Brian,\nThis is with Teledoc. Have you ever been submitted or interviewed for any roles with them?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-11T14:49:00.000Z",
+            "message": "No. I'll check them out.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-11T14:49:00.000Z",
+            "message": "What do you like most about them?\n"
+        },
+        {
+            "from": "Tiffany Krasner",
+            "time": "2017-05-11T14:56:00.000Z",
+            "message": "They provide a quicker way for people to manager their prescriptions, schedule a doctors visit, or manage medical history all in one app. They provide a way for people to talk to a doctor anytime, anywhere and get faster healthcare which in this day in age there is an app for everything, which I think is pretty cool.\n"
+        }
+    ]
+}

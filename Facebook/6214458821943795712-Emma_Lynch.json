@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6214458821943795712/",
+    "participants": [
+        {
+            "name": "Emma Lynch",
+            "title": "Talent Acquisition",
+            "url": "linkedin.com/in/emma-lynch-3569a122",
+            "phone": "",
+            "email": "emma.lynch@monster.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Emma Lynch",
+            "message": "Thoughts?\nMonster.com\n. I saw your background and wanted to reach out to see if you were open to discussing new opportunities at this time. We have partnered with Altria for an exciting opportunity as a Full Stack Developer/Architect for their Richmond, VA office. They do provide relocation services. You can read the full job description here: \nhttps://monster.avature.net/apply/jobdetail?id=9854\nemma.lynch@monster.com",
+            "time": "2017-12-13T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Sounds fun!",
+            "time": "2017-10-20T15:25:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6221207293153865728/",
+    "participants": [
+        {
+            "name": "Anumit Jooloor",
+            "title": "Consultant",
+            "url": "linkedin.com/in/anumit-jooloor-131752",
+            "phone": "",
+            "email": "anumit@hotmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-01-01T06:16:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Anumit Jooloor",
+            "time": "2018-01-15T17:53:00.000Z",
+            "message": "sure\n"
+        },
+        {
+            "from": "Anumit Jooloor",
+            "time": "2017-04-29T16:30:00.000Z",
+            "message": "Congrats on the new job!\n"
+        }
+    ]
+}

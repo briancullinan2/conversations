@@ -1,0 +1,531 @@
+[
+    {
+        "resourceName": "people/c8378670371407737022",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7447044f89d930be"
+                    }
+                },
+                "displayName": "Forrest Schwyn",
+                "familyName": "Schwyn",
+                "givenName": "Forrest",
+                "displayNameLastFirst": "Schwyn, Forrest"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "103245797279930945472"
+                    }
+                },
+                "displayName": "Forrest Schwyn",
+                "familyName": "Schwyn",
+                "givenName": "Forrest",
+                "displayNameLastFirst": "Schwyn, Forrest"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7447044f89d930be"
+                    }
+                },
+                "value": "spectre@masterwoot.com",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7447044f89d930be"
+                    }
+                },
+                "value": "+1-509-389-4194",
+                "canonicalForm": "+15093894194",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "7447044f89d930be"
+                    }
+                },
+                "value": "(480) 280-2335",
+                "canonicalForm": "+14802802335",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "23 Mutual Connections",
+                "You and Forrest both know Abe Pralle, Matthew Shanker, and 21 others"
+            ],
+            [
+                "You both studied at Northern Arizona University",
+                "You both studied at Northern Arizona University from 2005 to 2009"
+            ],
+            [
+                "Show more",
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Advanced Electrical Engineer",
+                "Company Name",
+                "General Dynamics C4 Systems",
+                "Dates Employed",
+                "May 2009 – Present",
+                "Employment Duration",
+                "8 yrs 6 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "•\tSubject-Matter-Expect on the High Frequency SATCOM waveform and DMR Test Waveform•\tEngineering Lead on the Receive Sensor Trigger FPGA for the Radar Replacement Program (RRRP)•\tReduced waveform development time on the  by over 750 hours by introducing a new integrated workflow utilizing Simulink•\tMathworks Simulink HDL coder technical contact for the Digital Modular Radio•\tProvided bidding and business team support for the acquisition of new contracts•\tCross-functional team development, support and testing with Software, Hardware, Systems •\tTrained new team members in the usage of our software and hardware•\tDeveloped VHDL code for multiple programs on both Xilinx and Altera Architectures including Altera Cyclone V, Altera Aria GX II, Xilinx Spartan 6, Xilinx Artix 7 and Altera Cyclone IV •\tProvided the pin layout for the Xilinx Artix 7 FPGA in Vivado on the Radar Replacement program•\tImplemented the HDL infrastructure and Microblaze backend in Vivado for the Xilinx Artix 7 Provided timing requirements for both projects done in both Altera SDC and Xilinx Vivado XDC•\tImplemented the Simulink fixed point conversion for multiple floating point models and subsequent VHDL adaptation.•\tCreated multiple modules within Simulink and facilitated their adaption to HDL both through hand-coding and through Simulink HDL Coder.•\tExperience working with multiple FPGA interfaces including, AXI I2C, PCI-Express, Seriallite and MOCB•\tSupport and development of legacy FPGAs using Altera Quartus Schematic Mode•\tInterfaced FPGAs to external hardware including external RAM, ADC and DACs across both Xilinx and Altera Platforms.•\tLab testing and debug using logic analyzers, oscilloscopes, spectrum analyzers, signal generators and Altera Signaltap. •\tCreated a C# based program to streamline the build process, make the process more user friendly and expandable for future programs•\tUtilization of IBM Rational ClearCase for version control"
+            ],
+            [
+                "Research Assistent",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "May 2008 – May 2009",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "Flagstaff, Arizona",
+                "Design and construction of wireless environmental sensor networks•\tDesigned the PCB for a new board within the sensor, explored additional connectivity options for harsh operating conditions"
+            ],
+            [
+                "Wirelass lab technician",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Jan 2008 – May 2009",
+                "Employment Duration",
+                "1 yr 5 mos",
+                "Location",
+                "Flagstaff, Arizona",
+                "Simulation, and optimization of for Error Correcting Code(ECC) research using Matlab.•\tDeveloped C++ code to aid in simulation as well as doing work on converting simulations written in Matlab to C++ for efficiency gains."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "Master of Business Administration (M.B.A.)",
+                "Field Of Study",
+                "MBA, International and Marketing emphasis",
+                "Grade",
+                "4.0",
+                "Dates attended or expected graduation",
+                "2014 – 2016",
+                "Activities and Societies:",
+                "Beta Gamma Sigma"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "Master of Business Administration (M.B.A.)",
+                "Field Of Study",
+                "MBA, International and Marketing emphasis",
+                "Grade",
+                "4.0",
+                "Dates attended or expected graduation",
+                "2014 – 2016",
+                "Activities and Societies:",
+                "Beta Gamma Sigma"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Electrical Engineering",
+                "Dates attended or expected graduation",
+                "2005 – 2009",
+                "Activities and Societies:",
+                "IEEE,",
+                "ACM"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Electrical Engineering",
+                "Dates attended or expected graduation",
+                "2005 – 2009",
+                "Activities and Societies:",
+                "IEEE,",
+                "ACM"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Ski Patroller",
+                "Company Name",
+                "Mount Spokane Ski Patrol",
+                "Dates volunteered",
+                "Sep 2000 – Jan 2008",
+                "Volunteer duration",
+                "7 yrs 5 mos",
+                "Cause",
+                "Health",
+                "First responder to medical emergencies that occur on the ski hill in addition to search and rescue for the surrounding area."
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ],
+            [
+                "Defense News",
+                "218,627 followers"
+            ],
+            [
+                "Microsoft",
+                "3,998,961 followers"
+            ],
+            [
+                "Harvard Business Review",
+                "4,633,431 followers"
+            ],
+            [
+                "Northern Arizona University EE Alums",
+                "236 members"
+            ],
+            [
+                "Arizona State University",
+                "386,165 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (330)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ],
+            [
+                "Defense News",
+                "218,627 followers"
+            ],
+            [
+                "Defense News",
+                "218,627 followers"
+            ],
+            [
+                "Microsoft",
+                "3,998,961 followers"
+            ],
+            [
+                "Microsoft",
+                "3,998,961 followers"
+            ],
+            [
+                "Harvard Business Review",
+                "4,633,431 followers"
+            ],
+            [
+                "Harvard Business Review",
+                "4,633,431 followers"
+            ],
+            [
+                "Northern Arizona University EE Alums",
+                "236 members"
+            ],
+            [
+                "Northern Arizona University EE Alums",
+                "236 members"
+            ],
+            [
+                "Arizona State University",
+                "386,165 followers"
+            ],
+            [
+                "Arizona State University",
+                "386,165 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "VHDL",
+                "See 25 endorsements for VHDL",
+                "25",
+                "VHDL",
+                "Endorse",
+                "Endorsed by Talbert Tso and 1 other mutual connection",
+                "Endorsed by 8 of Forrest’s colleagues at General Dynamics Mission Systems"
+            ],
+            [
+                "VHDL",
+                "See 25 endorsements for VHDL",
+                "25"
+            ],
+            [
+                "FPGA",
+                "See 20 endorsements for FPGA",
+                "20",
+                "FPGA",
+                "Remove Endorsement",
+                "You and 19 connections have given endorsements for this skill"
+            ],
+            [
+                "FPGA",
+                "See 20 endorsements for FPGA",
+                "20"
+            ],
+            [
+                "Matlab",
+                "See 11 endorsements for Matlab",
+                "11",
+                "Matlab",
+                "Endorse",
+                "Endorsed by Timothy Cochran and 1 other mutual connection",
+                "Endorsed by 3 of Forrest’s colleagues at General Dynamics Mission Systems"
+            ],
+            [
+                "Matlab",
+                "See 11 endorsements for Matlab",
+                "11"
+            ],
+            [
+                "Simulations",
+                "See 5 endorsements for Simulations",
+                "5",
+                "Simulations",
+                "Endorse"
+            ],
+            [
+                "Simulations",
+                "See 5 endorsements for Simulations",
+                "5"
+            ],
+            [
+                "Altera Quartus",
+                "See 5 endorsements for Altera Quartus",
+                "5",
+                "Altera Quartus",
+                "Remove Endorsement"
+            ],
+            [
+                "Altera Quartus",
+                "See 5 endorsements for Altera Quartus",
+                "5"
+            ],
+            [
+                "ClearCase",
+                "See 3 endorsements for ClearCase",
+                "3",
+                "ClearCase",
+                "Endorse"
+            ],
+            [
+                "ClearCase",
+                "See 3 endorsements for ClearCase",
+                "3"
+            ],
+            [
+                "Xilinx",
+                "See 3 endorsements for Xilinx",
+                "3",
+                "Xilinx",
+                "Endorse"
+            ],
+            [
+                "Xilinx",
+                "See 3 endorsements for Xilinx",
+                "3"
+            ],
+            [
+                "Debugging",
+                "See 3 endorsements for Debugging",
+                "3",
+                "Debugging",
+                "Endorse"
+            ],
+            [
+                "Debugging",
+                "See 3 endorsements for Debugging",
+                "3"
+            ],
+            [
+                "Perl",
+                "See 2 endorsements for Perl",
+                "2",
+                "Perl",
+                "Endorse"
+            ],
+            [
+                "Perl",
+                "See 2 endorsements for Perl",
+                "2"
+            ],
+            [
+                "Altera",
+                "See 2 endorsements for Altera",
+                "2",
+                "Altera",
+                "Endorse"
+            ],
+            [
+                "Altera",
+                "See 2 endorsements for Altera",
+                "2"
+            ],
+            [
+                "Java",
+                "See 2 endorsements for Java",
+                "2",
+                "Java",
+                "Endorse"
+            ],
+            [
+                "Java",
+                "See 2 endorsements for Java",
+                "2"
+            ],
+            [
+                "Embedded Systems",
+                "See 2 endorsements for Embedded Systems",
+                "2",
+                "Embedded Systems",
+                "Endorse"
+            ],
+            [
+                "Embedded Systems",
+                "See 2 endorsements for Embedded Systems",
+                "2"
+            ],
+            [
+                "C#",
+                "See 2 endorsements for C#",
+                "2",
+                "C#",
+                "Remove Endorsement"
+            ],
+            [
+                "C#",
+                "See 2 endorsements for C#",
+                "2"
+            ],
+            [
+                "Simulink",
+                "See 1 endorsement for Simulink",
+                "1",
+                "Simulink",
+                "Endorse"
+            ],
+            [
+                "Simulink",
+                "See 1 endorsement for Simulink",
+                "1"
+            ],
+            [
+                "Software Defined Radio",
+                "See 1 endorsement for Software Defined Radio",
+                "1",
+                "Software Defined Radio",
+                "Endorse"
+            ],
+            [
+                "Software Defined Radio",
+                "See 1 endorsement for Software Defined Radio",
+                "1"
+            ],
+            [
+                "C",
+                "See 1 endorsement for C",
+                "1",
+                "C",
+                "Endorse"
+            ],
+            [
+                "C",
+                "See 1 endorsement for C",
+                "1"
+            ],
+            [
+                "C++",
+                "See 1 endorsement for C++",
+                "1",
+                "C++",
+                "Endorse"
+            ],
+            [
+                "C++",
+                "See 1 endorsement for C++",
+                "1"
+            ],
+            [
+                "ModelSim",
+                "ModelSim",
+                "Endorse"
+            ],
+            [
+                "ModelSim"
+            ],
+            [
+                "Integration",
+                "Integration",
+                "Endorse"
+            ],
+            [
+                "Integration"
+            ]
+        ],
+        "summary": "    FPGA design engineer with demonstrated experience in signal processing for software defined radio and radars. Extremely proficient in the design, simulation, implementation, deployment and debugging of FPGA firmware on both Altera and Xilinx platforms. Effective communicator with natural interpersonal skills honed and exhibited through team interactions in multidisciplinary engineering teams.Strong business acumen, currently in the midst of working on an MBA at W.P. Carey School of Business at ASU.\n  \n  \n",
+        "name": "Forrest Schwyn",
+        "title": "FPGA Designer for General Dynamics C4 Systems",
+        "url": "linkedin.com/in/forrestschwyn",
+        "phone": "4802802335 (Mobile)",
+        "email": "forrest.schwyn@gmail.com"
+    }
+]

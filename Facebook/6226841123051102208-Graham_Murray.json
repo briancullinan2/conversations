@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6226841123051102208/",
+    "participants": [
+        {
+            "name": "Graham Murray",
+            "title": "Owner at QuikSite Inc.",
+            "url": "linkedin.com/in/graham-murray-6196282",
+            "phone": null,
+            "email": "gmurray@lookitdesign.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-16T19:23:00.000Z"
+        }
+    ]
+}

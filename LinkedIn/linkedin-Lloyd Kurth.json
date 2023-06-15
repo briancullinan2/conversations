@@ -1,0 +1,684 @@
+[
+    {
+        "resourceName": "people/c7965765313044381828",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgxUYjZsT0VsNldzQT0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "6e8c155908238084"
+                    }
+                },
+                "displayName": "Lloyd Kurth",
+                "familyName": "Kurth",
+                "givenName": "Lloyd",
+                "displayNameLastFirst": "Kurth, Lloyd"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "6e8c155908238084"
+                    }
+                },
+                "value": "202-709-4266",
+                "canonicalForm": "+12027094266",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "6e8c155908238084"
+                    }
+                },
+                "value": "602-524-2932",
+                "canonicalForm": "+16025242932",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "14 Mutual Connections",
+                "You and Lloyd both know Thomas Blondi, Dale Moberg, and 12 others"
+            ],
+            [
+                "Lloyd can introduce you to 3 people at Enghouse Interactive",
+                "Lloyd worked at Enghouse Interactive"
+            ],
+            [
+                "Show more",
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Principal",
+                "Company Name",
+                "Agile Pursuit, LLC",
+                "Dates Employed",
+                "Jul 2011 – Present",
+                "Employment Duration",
+                "6 yrs 4 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "Agile Pursuit is a contract consulting company specializing in object-oriented software design and development with agile process. Clients include:- Post.Bid.Ship. Inc.; assessed current design/implementation; designed web API moving to SPA/mobile front-ends.- PetSmart Inc.; designed and implemented web API for booking pet grooming appointments via mobile apps.- Shutterfly Inc. (SBS); lead architect for microservice platform for order processing and workflow.- Pink Jeep Tours; REST web services for inquiry and booking of tours.- EPIC Research & Diagnostics, Inc.; decryption and cross-referencing of SQL Server objects.- Logan Simpson Design Inc.; Intranet applications for HR."
+            ],
+            [
+                "CTO",
+                "Company Name",
+                "Delivery IT, INC",
+                "Dates Employed",
+                "Jan 2014 – May 2015",
+                "Employment Duration",
+                "1 yr 5 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Led all architecture design and software development for next generation SaaS solution to create and manage delivery services. ASP.NET MVC 5 web application with SQL Server 2014 database. Managed two other software engineers."
+            ],
+            [
+                "Technology Director",
+                "Company Name",
+                "EPIC Research & Diagnostics, Inc.",
+                "Dates Employed",
+                "Oct 2012 – Sep 2013",
+                "Employment Duration",
+                "1 yr",
+                "Location",
+                "Scottsdale, AZ",
+                "Led all software development for EPIC's ClearView system, a revolutionary imaging and diagnostic device for assessing disease state and risk of developing medical conditions."
+            ],
+            [
+                "Senior Software Architect",
+                "Company Name",
+                "EPIC Research & Diagnostics, Inc.",
+                "Dates Employed",
+                "Apr 2012 – Oct 2012",
+                "Employment Duration",
+                "7 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "Led architecture, design and development of the cloud component of EPIC's ClearView system. Cloud component is a web-based system for managing all installed ClearView clients worldwide and for storage of image and analysis data."
+            ],
+            [
+                "Software Systems Architect",
+                "Company Name",
+                "VeriFone",
+                "Dates Employed",
+                "Nov 2011 – Apr 2012",
+                "Employment Duration",
+                "6 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "Led software design and development for the IntelliNAC administration component. IntelliNAC is a high-performance financial transaction gateway for routing credit card and other transactions."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Kansas State University",
+                "Degree Name",
+                "BSCS",
+                "Field Of Study",
+                "Computer Science, Business Administration",
+                "Dates attended or expected graduation",
+                "1977 – 1980"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Kansas State University",
+                "134,181 followers"
+            ],
+            [
+                "Kansas State University",
+                "124,576 followers"
+            ],
+            [
+                "DeliveryOnDemand, Inc.",
+                "11 followers"
+            ],
+            [
+                "See connections (236)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Kansas State University",
+                "134,181 followers"
+            ],
+            [
+                "Kansas State University",
+                "134,181 followers"
+            ],
+            [
+                "Kansas State University",
+                "124,576 followers"
+            ],
+            [
+                "Kansas State University",
+                "124,576 followers"
+            ],
+            [
+                "DeliveryOnDemand, Inc.",
+                "11 followers"
+            ],
+            [
+                "DeliveryOnDemand, Inc.",
+                "11 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Richard Reynolds",
+                "Illustrated Parts List (IPL) Writer at Flatirons Jouve",
+                "July 28, 2009, Richard worked with Lloyd in different groups",
+                "I worked with Lloyd on hw/sw interaction issues. He was very complete and thorough as a sw engineer and enjoyed working with this professional individual."
+            ],
+            [
+                "Richard Reynolds",
+                "Illustrated Parts List (IPL) Writer at Flatirons Jouve",
+                "July 28, 2009, Richard worked with Lloyd in different groups"
+            ],
+            [
+                "Richard Reynolds",
+                "Illustrated Parts List (IPL) Writer at Flatirons Jouve",
+                "July 28, 2009, Richard worked with Lloyd in different groups"
+            ],
+            [
+                "Richard Reynolds",
+                "Illustrated Parts List (IPL) Writer at Flatirons Jouve",
+                "July 28, 2009, Richard worked with Lloyd in different groups"
+            ],
+            "Illustrated Parts List (IPL) Writer at Flatirons Jouve",
+            [
+                "I worked with Lloyd on hw/sw interaction issues. He was very complete and thorough as a sw engineer and enjoyed working with this professional individual."
+            ],
+            [
+                "I worked with Lloyd on hw/sw interaction issues. He was very complete and thorough as a sw engineer and enjoyed working with this professional individual."
+            ],
+            [
+                "Richard Reynolds",
+                "Illustrated Parts List (IPL) Writer at Flatirons Jouve",
+                "July 28, 2009, Lloyd worked with Richard in different groups",
+                "I worked with Rich at Syntellect early in both our careers. I was doing s/w development on embedded h/w. So I worked with Rich a lot when there were s/w-h/w interaction issues. We spent lots of hours debugging together to find the roots of issues. I always found Rich to be extremely helpful, diligent and a great engineer to work. He was well-respected and a great contributor on a very small team in a startup environment."
+            ],
+            [
+                "Richard Reynolds",
+                "Illustrated Parts List (IPL) Writer at Flatirons Jouve",
+                "July 28, 2009, Lloyd worked with Richard in different groups"
+            ],
+            [
+                "Richard Reynolds",
+                "Illustrated Parts List (IPL) Writer at Flatirons Jouve",
+                "July 28, 2009, Lloyd worked with Richard in different groups"
+            ],
+            [
+                "Richard Reynolds",
+                "Illustrated Parts List (IPL) Writer at Flatirons Jouve",
+                "July 28, 2009, Lloyd worked with Richard in different groups"
+            ],
+            "Illustrated Parts List (IPL) Writer at Flatirons Jouve",
+            [
+                "I worked with Rich at Syntellect early in both our careers. I was doing s/w development on embedded h/w. So I worked with Rich a lot when there were s/w-h/w interaction issues. We spent lots of hours debugging together to find the roots of issues. I always found Rich to be extremely helpful, diligent and a great engineer to work. He was well-respected and a great contributor on a very small team in a startup environment."
+            ],
+            [
+                "I worked with Rich at Syntellect early in both our careers. I was doing s/w development on embedded h/w. So I worked with Rich a lot when there were s/w-h/w interaction issues. We spent lots of hours debugging together to find the roots of issues. I always found Rich to be extremely helpful, diligent and a great engineer to work. He was well-respected and a great contributor on a very small team in a startup environment."
+            ]
+        ],
+        "skills": [
+            [
+                "Agile Methodologies",
+                "See 26 endorsements for Agile Methodologies",
+                "26",
+                "Agile Methodologies",
+                "Endorse",
+                "Endorsed by Philippe Colliat, who is highly skilled at this",
+                "Endorsed by Michael Stowell (mutual connection)"
+            ],
+            [
+                "Agile Methodologies",
+                "See 26 endorsements for Agile Methodologies",
+                "26"
+            ],
+            [
+                "Web Services",
+                "See 23 endorsements for Web Services",
+                "23",
+                "Web Services",
+                "Endorse",
+                "Endorsed by Michael Stowell (mutual connection)",
+                "Endorsed by 3 of Lloyd’s colleagues at Enghouse Interactive"
+            ],
+            [
+                "Web Services",
+                "See 23 endorsements for Web Services",
+                "23"
+            ],
+            [
+                "XML",
+                "See 22 endorsements for XML",
+                "22",
+                "XML",
+                "Remove Endorsement",
+                "Endorsed by Philippe Colliat, who is highly skilled at this",
+                "Endorsed by Michael Stowell (mutual connection)"
+            ],
+            [
+                "XML",
+                "See 22 endorsements for XML",
+                "22"
+            ],
+            [
+                "Software Development",
+                "See 18 endorsements for Software Development",
+                "18",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development",
+                "See 18 endorsements for Software Development",
+                "18"
+            ],
+            [
+                "Scrum",
+                "See 15 endorsements for Scrum",
+                "15",
+                "Scrum",
+                "Endorse"
+            ],
+            [
+                "Scrum",
+                "See 15 endorsements for Scrum",
+                "15"
+            ],
+            [
+                "Integration",
+                "See 13 endorsements for Integration",
+                "13",
+                "Integration",
+                "Endorse"
+            ],
+            [
+                "Integration",
+                "See 13 endorsements for Integration",
+                "13"
+            ],
+            [
+                "Object Oriented Design",
+                "See 12 endorsements for Object Oriented Design",
+                "12",
+                "Object Oriented Design",
+                "Endorse"
+            ],
+            [
+                "Object Oriented Design",
+                "See 12 endorsements for Object Oriented Design",
+                "12"
+            ],
+            [
+                "Java",
+                "See 9 endorsements for Java",
+                "9",
+                "Java",
+                "Endorse"
+            ],
+            [
+                "Java",
+                "See 9 endorsements for Java",
+                "9"
+            ],
+            [
+                "Architecture",
+                "See 9 endorsements for Architecture",
+                "9",
+                "Architecture",
+                "Endorse"
+            ],
+            [
+                "Architecture",
+                "See 9 endorsements for Architecture",
+                "9"
+            ],
+            [
+                "Product Management",
+                "See 9 endorsements for Product Management",
+                "9",
+                "Product Management",
+                "Endorse"
+            ],
+            [
+                "Product Management",
+                "See 9 endorsements for Product Management",
+                "9"
+            ],
+            [
+                "JavaScript",
+                "See 7 endorsements for JavaScript",
+                "7",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 7 endorsements for JavaScript",
+                "7"
+            ],
+            [
+                "Software Engineering",
+                "See 7 endorsements for Software Engineering",
+                "7",
+                "Software Engineering",
+                "Endorse"
+            ],
+            [
+                "Software Engineering",
+                "See 7 endorsements for Software Engineering",
+                "7"
+            ],
+            [
+                "XSLT",
+                "See 6 endorsements for XSLT",
+                "6",
+                "XSLT",
+                "Endorse"
+            ],
+            [
+                "XSLT",
+                "See 6 endorsements for XSLT",
+                "6"
+            ],
+            [
+                "SQL",
+                "See 6 endorsements for SQL",
+                "6",
+                "SQL",
+                "Endorse"
+            ],
+            [
+                "SQL",
+                "See 6 endorsements for SQL",
+                "6"
+            ],
+            [
+                "Microsoft Office",
+                "See 5 endorsements for Microsoft Office",
+                "5",
+                "Microsoft Office",
+                "Endorse"
+            ],
+            [
+                "Microsoft Office",
+                "See 5 endorsements for Microsoft Office",
+                "5"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 5 endorsements for Microsoft SQL Server",
+                "5",
+                "Microsoft SQL Server",
+                "Endorse"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 5 endorsements for Microsoft SQL Server",
+                "5"
+            ],
+            [
+                "UML",
+                "See 5 endorsements for UML",
+                "5",
+                "UML",
+                "Endorse"
+            ],
+            [
+                "UML",
+                "See 5 endorsements for UML",
+                "5"
+            ],
+            [
+                "XML Schema",
+                "See 4 endorsements for XML Schema",
+                "4",
+                "XML Schema",
+                "Endorse"
+            ],
+            [
+                "XML Schema",
+                "See 4 endorsements for XML Schema",
+                "4"
+            ],
+            [
+                "Windows",
+                "See 4 endorsements for Windows",
+                "4",
+                "Windows",
+                "Endorse"
+            ],
+            [
+                "Windows",
+                "See 4 endorsements for Windows",
+                "4"
+            ],
+            [
+                "CSS",
+                "See 4 endorsements for CSS",
+                "4",
+                "CSS",
+                "Endorse"
+            ],
+            [
+                "CSS",
+                "See 4 endorsements for CSS",
+                "4"
+            ],
+            [
+                "Java Enterprise Edition",
+                "See 4 endorsements for Java Enterprise Edition",
+                "4",
+                "Java Enterprise Edition",
+                "Endorse"
+            ],
+            [
+                "Java Enterprise Edition",
+                "See 4 endorsements for Java Enterprise Edition",
+                "4"
+            ],
+            [
+                "C#",
+                "See 3 endorsements for C#",
+                "3",
+                "C#",
+                "Endorse"
+            ],
+            [
+                "C#",
+                "See 3 endorsements for C#",
+                "3"
+            ],
+            [
+                "C++",
+                "See 3 endorsements for C++",
+                "3",
+                "C++",
+                "Endorse"
+            ],
+            [
+                "C++",
+                "See 3 endorsements for C++",
+                "3"
+            ],
+            [
+                "Design Patterns",
+                "See 3 endorsements for Design Patterns",
+                "3",
+                "Design Patterns",
+                "Endorse"
+            ],
+            [
+                "Design Patterns",
+                "See 3 endorsements for Design Patterns",
+                "3"
+            ],
+            [
+                "MySQL",
+                "See 3 endorsements for MySQL",
+                "3",
+                "MySQL",
+                "Endorse"
+            ],
+            [
+                "MySQL",
+                "See 3 endorsements for MySQL",
+                "3"
+            ],
+            [
+                "Unix",
+                "See 3 endorsements for Unix",
+                "3",
+                "Unix",
+                "Endorse"
+            ],
+            [
+                "Unix",
+                "See 3 endorsements for Unix",
+                "3"
+            ],
+            [
+                ".NET",
+                "See 2 endorsements for .NET",
+                "2",
+                ".NET",
+                "Endorse"
+            ],
+            [
+                ".NET",
+                "See 2 endorsements for .NET",
+                "2"
+            ],
+            [
+                "PKI",
+                "See 1 endorsement for PKI",
+                "1",
+                "PKI",
+                "Endorse"
+            ],
+            [
+                "PKI",
+                "See 1 endorsement for PKI",
+                "1"
+            ],
+            [
+                "Ant",
+                "See 1 endorsement for Ant",
+                "1",
+                "Ant",
+                "Endorse"
+            ],
+            [
+                "Ant",
+                "See 1 endorsement for Ant",
+                "1"
+            ],
+            [
+                "Apache",
+                "See 1 endorsement for Apache",
+                "1",
+                "Apache",
+                "Endorse"
+            ],
+            [
+                "Apache",
+                "See 1 endorsement for Apache",
+                "1"
+            ],
+            [
+                "J2EE",
+                "J2EE",
+                "Endorse"
+            ],
+            [
+                "J2EE"
+            ],
+            [
+                "SQL Server",
+                "SQL Server",
+                "Endorse"
+            ],
+            [
+                "SQL Server"
+            ],
+            [
+                "Microservices",
+                "Microservices",
+                "Endorse"
+            ],
+            [
+                "Microservices"
+            ],
+            [
+                "Dependency Injection",
+                "Dependency Injection",
+                "Endorse"
+            ],
+            [
+                "Dependency Injection"
+            ],
+            [
+                "IoC",
+                "IoC",
+                "Endorse"
+            ],
+            [
+                "IoC"
+            ],
+            [
+                "Microsoft Azure",
+                "Microsoft Azure",
+                "Endorse"
+            ],
+            [
+                "Microsoft Azure"
+            ],
+            [
+                "ASP.NET Web API",
+                "ASP.NET Web API",
+                "Endorse"
+            ],
+            [
+                "ASP.NET Web API"
+            ]
+        ],
+        "summary": "    Software Architect with 30 years experience in leading edge software development and management. Excellent conceptualization skills and the ability to apply those to architectural and strategic product issues. Expertise with web technologies, micro services, data encryption, digital signatures, PKI and security protocols. Proficient in object-oriented design methods and project management techniques. Proponent of agile methods, including SCRUM, for delivering high quality products on-time.Specialties:- Object-Oriented Design- Software Patterns- Agile Methods- C#/.NET (Web APIs, MVC, Forms) and .NET Core- Java/J2EE- Web Services (WSDL-based, REST, JSON)- Microservices- SQL (MS SQL Server, MySQL, PostgreSQL)- Web Applications (HTML, CSS, JavaScript, JQuery)- Dependency injection and IoC- XML/XML Schema/XSLT/XQuery- PKI and Security\n  \n  \n",
+        "name": "Lloyd Kurth",
+        "title": "Strategic Software Architect",
+        "url": "linkedin.com/in/lloydkurth",
+        "phone": null,
+        "email": "lloyd@kurth.com"
+    }
+]

@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6314150810410328064/",
+    "participants": [
+        {
+            "name": "Joe Mignacca",
+            "title": "Managing Director at DIVERSANT, LLC",
+            "url": "linkedin.com/in/joe-mignacca-822560",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Joe Mignacca",
+            "message": "Cutting edge direct-hire role in Chandler\njmignacca@diversant.com\njmignacca@diversant.com",
+            "time": "2017-09-14T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Which company?  I occasionally interview so I'd like to save us some time on research.  Should you forgo and exact response, just keep in mind every relationship is built on trust.",
+            "time": "2017-10-12T17:45:00.000Z"
+        },
+        {
+            "from": "Joe Mignacca",
+            "message": "Emailage - \nwww.emailage.com",
+            "time": "2017-10-12T17:48:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Looks cool, I'd interview with them.",
+            "time": "2017-10-12T17:54:00.000Z"
+        },
+        {
+            "from": "Joe Mignacca",
+            "message": "Great.  Can you send me your resume at \njmignacca@diversant.com\n and when can we talk?",
+            "time": "2017-10-12T17:55:00.000Z"
+        }
+    ]
+}

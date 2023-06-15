@@ -1,0 +1,834 @@
+[
+    {
+        "resourceName": "people/c3156362150188154343",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "2bcda6a70873fde7"
+                    }
+                },
+                "displayName": "Ryan Middleton",
+                "familyName": "Middleton",
+                "givenName": "Ryan",
+                "displayNameLastFirst": "Middleton, Ryan"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "114898357284643148729"
+                    }
+                },
+                "displayName": "Ryan Middleton",
+                "familyName": "Middleton",
+                "givenName": "Ryan",
+                "displayNameLastFirst": "Middleton, Ryan"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "2bcda6a70873fde7"
+                    }
+                },
+                "value": "+1-928-221-7210",
+                "canonicalForm": "+19282217210",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "35 Mutual Connections",
+                "You and Ryan both know Abe Pralle, Matthew Shanker, and 33 others"
+            ],
+            [
+                "You both worked at Northern Arizona University",
+                "You both worked at Northern Arizona University from Sep 2007 to May 2009"
+            ],
+            [
+                "Show more",
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Programmer (OnX Contractor), GNOC/Network Automation and Operational Intelligence",
+                "Company Name",
+                "American Express",
+                "Dates Employed",
+                "Jul 2016 – Present",
+                "Employment Duration",
+                "1 yr 4 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "Freelance Developer",
+                "Dates Employed",
+                "Jan 2008 – Jul 2016",
+                "Employment Duration",
+                "8 yrs 7 mos",
+                "Location",
+                "Flagstaff, Arizona Area",
+                "•\tDesigned and implemented core modules of a cyber-physical system for the real-time management of a global network of wind turbines, supporting remote upgrades, per-second sensor readings, real-time monitoring, and the archiving and reporting of performance data•\tCreated and re-factored multiple web services, system software, and firmware to automate procedures, notify users via emails and telephone, simplify tasks, improve user interfaces, and expand functionality•\tDesigned and developed a module for routing packets through a custom semi-ad-hoc low-power wireless network•\tSupported and improved R&D and production processes by monitoring and debugging field test devices, creating shell scripts to manage and combine multiple firmware images into a single programmable binary, and debugging and diagnosing production line problems•\tDeveloped an embedded application framework for a resource-limited platform that stored and swapped custom apps between external flash and program memory, on demand, to allow for a greater number of apps to be installedServed as a guest computer science lecturer for Data Structures and Computer Graphics courses; performed lectures covering AVL and Red-Black trees, heaps, particle systems, flocking, particle swarm optimization, and Java Swing"
+            ],
+            [
+                "Instructor and Adjunct Instructor, Electrical Engineering & Computer Science Department",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Aug 2007 – May 2016",
+                "Employment Duration",
+                "8 yrs 10 mos",
+                "Location",
+                "Flagstaff, Arizona",
+                "Taught various computer science classes as an instructor and adjunct instructor.• Spr 2016 – Instructor of CS II & Labs, Data Structures• Fall 2015 – Instructor of CS II & Labs, Data Structures, Embedded Systems• Fall 2013 – Adjunct Instructor of Virtual Worlds and Ethics in CS• Spr 2012 - Instructor of CS I Lab, CS II & Labs, Data Structures, and Intro. WWW• Fall 2011 - Instructor of CS I Lab, CS II Labs, Data Structures, Ethics in CS, and Intro. to WWW • Spr 2008 - Adjunct Instructor of Intro. to WWW• Fall 2007 - Adjunct Instructor of Intro. to WWW"
+            ],
+            [
+                "Senior Application Systems Analyst (Temporary Employee)",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Aug 2013 – Aug 2015",
+                "Employment Duration",
+                "2 yrs 1 mo",
+                "Location",
+                "Flagstaff, Arizona",
+                "•\tAchieved 99.8% reduction in simulation runtime, generating 50 billion data points, by converting a single-threaded Python program to a clustered (parallelizable) minimal I/O application in C•\tDesigned a database allowing for the archiving and fast retrieval of real-time data streamed from a network of sensor networks distributed across many sites; it also allows tracking and management of physical network assets•\tMigrated multiple scientific research projects to cloud and HPC cluster platforms and trained researchers to use Linux and HPC/cloud for genetic, geospatial, image, and sensor dataMoved from Temporary Employee to Senior Application Systems Analyst as funding sources changed"
+            ],
+            [
+                "Graduate Research Fellow",
+                "Company Name",
+                "Science Foundation Arizona",
+                "Dates Employed",
+                "Aug 2008 – May 2010",
+                "Employment Duration",
+                "1 yr 10 mos",
+                "•\tDesigned a networked dynamic environmental management system for a large university campus of 100+ buildings, allowing for the management and visualization of resource data allocated by criteria such as organizational departments or daily business uses•\tApplied the C2 architectural style to wind turbine control software by creating a C++ multithreaded framework that reduced development time and maximized code reuse"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Master of Science (M.S.) in Engineering",
+                "Field Of Study",
+                "Computer Science Emphasis",
+                "Dates attended or expected graduation",
+                "2008 – 2011",
+                "Activities and Societies:",
+                "Association for Computing Machinery (ACM)",
+                "Thesis: An Architectural Style For Wind Turbine Control Software"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Master of Science (M.S.) in Engineering",
+                "Field Of Study",
+                "Computer Science Emphasis",
+                "Dates attended or expected graduation",
+                "2008 – 2011",
+                "Activities and Societies:",
+                "Association for Computing Machinery (ACM)",
+                "Thesis: An Architectural Style For Wind Turbine Control Software"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science (B.S.)",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2001 – 2005",
+                "Activities and Societies:",
+                "Unofficial Game Club",
+                "Undergraduate Research: Using self-organizing maps to recognize acoustic units associated with information content in animal vocalizations"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "Bachelor of Science (B.S.)",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2001 – 2005",
+                "Activities and Societies:",
+                "Unofficial Game Club",
+                "Undergraduate Research: Using self-organizing maps to recognize acoustic units associated with information content in animal vocalizations"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Workshop Instructor, Workshop Helper",
+                "Company Name",
+                "Software Carpentry",
+                "Dates volunteered",
+                "Feb 2015 – Present",
+                "Volunteer duration",
+                "2 yrs 9 mos",
+                "Cause",
+                "Education",
+                "Helping to teach Software Carpentry (http://software-carpentry.org/) workshops that teach programming and software engineering practices to scientists.  This education helps scientists to be more effective in their research by helping them to publish reproducible results, by showing them how to make their data publicly available, and by showing them how to make the most of their research time and the computation resources available to them.http://software-carpentry.org/pages/team.html#middleton.ryan"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "AdColony",
+                "11,320 followers"
+            ],
+            [
+                "Inc. Magazine",
+                "1,798,607 followers"
+            ],
+            [
+                "Southwest Windpower",
+                "1,094 followers"
+            ],
+            [
+                "Climatec, LLC",
+                "2,089 followers"
+            ],
+            [
+                "University of Washington",
+                "391,732 followers"
+            ],
+            [
+                "Stanford University",
+                "461,867 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (292)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "AdColony",
+                "11,320 followers"
+            ],
+            [
+                "AdColony",
+                "11,320 followers"
+            ],
+            [
+                "Inc. Magazine",
+                "1,798,607 followers"
+            ],
+            [
+                "Inc. Magazine",
+                "1,798,607 followers"
+            ],
+            [
+                "Southwest Windpower",
+                "1,094 followers"
+            ],
+            [
+                "Southwest Windpower",
+                "1,094 followers"
+            ],
+            [
+                "Climatec, LLC",
+                "2,089 followers"
+            ],
+            [
+                "Climatec, LLC",
+                "2,089 followers"
+            ],
+            [
+                "University of Washington",
+                "391,732 followers"
+            ],
+            [
+                "University of Washington",
+                "391,732 followers"
+            ],
+            [
+                "Stanford University",
+                "461,867 followers"
+            ],
+            [
+                "Stanford University",
+                "461,867 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Leah Shanker",
+                "Winemaker at Aridus Wine Company",
+                "April 1, 2011, Leah and Ryan were students together",
+                "Ryan has an unparalleled genuine enthusiasm for problem solving. He's also extraordinarily hard-working and has the persistence to see things through to the very end. In addition, Ryan is the most patient teacher I've ever had the pleasure of knowing. His expertise is sought out by numerous students - he always takes the time to break down complex topics and it seems like he's always teaching a student every time I visit his office."
+            ],
+            [
+                "Leah Shanker",
+                "Winemaker at Aridus Wine Company",
+                "April 1, 2011, Leah and Ryan were students together"
+            ],
+            [
+                "Leah Shanker",
+                "Winemaker at Aridus Wine Company",
+                "April 1, 2011, Leah and Ryan were students together"
+            ],
+            [
+                "Leah Shanker",
+                "Winemaker at Aridus Wine Company",
+                "April 1, 2011, Leah and Ryan were students together"
+            ],
+            "Winemaker at Aridus Wine Company",
+            [
+                "Ryan has an unparalleled genuine enthusiasm for problem solving. He's also extraordinarily hard-working and has the persistence to see things through to the very end. In addition, Ryan is the most patient teacher I've ever had the pleasure of knowing. His expertise is sought out by numerous students - he always takes the time to break down complex topics and it seems like he's always teaching a student every time I visit his office."
+            ],
+            [
+                "Ryan has an unparalleled genuine enthusiasm for problem solving. He's also extraordinarily hard-working and has the persistence to see things through to the very end. In addition, Ryan is the most patient teacher I've ever had the pleasure of knowing. His expertise is sought out by numerous students - he always takes the time to break down complex topics and it seems like he's always teaching a student every time I visit his office."
+            ],
+            [
+                "Olen Cook",
+                "Software Engineer at IBM",
+                "April 9, 2014, Ryan was Olen’s teacher",
+                "Olen is one of the best students that I have ever had the pleasure of teaching.  He is intelligent, hard working, and able to get along with anyone.  In addition, he has a genuine enthusiasm for technology and programming.  Over the past 3 years he has constantly been working on one extracurricular project or another. Olen will make a great addition to any development team with which he is involved."
+            ],
+            [
+                "Olen Cook",
+                "Software Engineer at IBM",
+                "April 9, 2014, Ryan was Olen’s teacher"
+            ],
+            [
+                "Olen Cook",
+                "Software Engineer at IBM",
+                "April 9, 2014, Ryan was Olen’s teacher"
+            ],
+            [
+                "Olen Cook",
+                "Software Engineer at IBM",
+                "April 9, 2014, Ryan was Olen’s teacher"
+            ],
+            "Software Engineer at IBM",
+            [
+                "Olen is one of the best students that I have ever had the pleasure of teaching.  He is intelligent, hard working, and able to get along with anyone.  In addition, he has a genuine enthusiasm for technology and programming.  Over the past 3 years he has constantly been working on one extracurricular project or another. Olen will make a great addition to any development team with which he is involved."
+            ],
+            [
+                "Olen is one of the best students that I have ever had the pleasure of teaching.  He is intelligent, hard working, and able to get along with anyone.  In addition, he has a genuine enthusiasm for technology and programming.  Over the past 3 years he has constantly been working on one extracurricular project or another. Olen will make a great addition to any development team with which he is involved."
+            ],
+            [
+                "Leah Shanker",
+                "Winemaker at Aridus Wine Company",
+                "April 1, 2011, Ryan and Leah were students together",
+                "Leah possesses an unrivaled passion for technology and learning.  She is always eager to investigate new areas of technology, be them hardware or software related.  She is intelligent and quick to master whatever she decides to learn.  Her hard work and persistance have also made her a sought-after teammate for group projects here at school."
+            ],
+            [
+                "Leah Shanker",
+                "Winemaker at Aridus Wine Company",
+                "April 1, 2011, Ryan and Leah were students together"
+            ],
+            [
+                "Leah Shanker",
+                "Winemaker at Aridus Wine Company",
+                "April 1, 2011, Ryan and Leah were students together"
+            ],
+            [
+                "Leah Shanker",
+                "Winemaker at Aridus Wine Company",
+                "April 1, 2011, Ryan and Leah were students together"
+            ],
+            "Winemaker at Aridus Wine Company",
+            [
+                "Leah possesses an unrivaled passion for technology and learning.  She is always eager to investigate new areas of technology, be them hardware or software related.  She is intelligent and quick to master whatever she decides to learn.  Her hard work and persistance have also made her a sought-after teammate for group projects here at school."
+            ],
+            [
+                "Leah possesses an unrivaled passion for technology and learning.  She is always eager to investigate new areas of technology, be them hardware or software related.  She is intelligent and quick to master whatever she decides to learn.  Her hard work and persistance have also made her a sought-after teammate for group projects here at school."
+            ]
+        ],
+        "skills": [
+            [
+                "C",
+                "See 54 endorsements for C",
+                "54",
+                "C",
+                "Remove Endorsement",
+                "Endorsed by Abe Pralle, who is highly skilled at this",
+                "Endorsed by Trent Cooper and 5 other mutual connections"
+            ],
+            [
+                "C",
+                "See 54 endorsements for C",
+                "54"
+            ],
+            [
+                "C++",
+                "See 52 endorsements for C++",
+                "52",
+                "C++",
+                "Remove Endorsement",
+                "Endorsed by Abe Pralle, who is highly skilled at this",
+                "Endorsed by Cody Thompson and 5 other mutual connections"
+            ],
+            [
+                "C++",
+                "See 52 endorsements for C++",
+                "52"
+            ],
+            [
+                "Java",
+                "See 41 endorsements for Java",
+                "41",
+                "Java",
+                "Remove Endorsement",
+                "Endorsed by Abe Pralle and 3 others who are highly skilled at this",
+                "Endorsed by Trent Cooper and 4 other mutual connections"
+            ],
+            [
+                "Java",
+                "See 41 endorsements for Java",
+                "41"
+            ],
+            [
+                "Python",
+                "See 37 endorsements for Python",
+                "37",
+                "Python",
+                "Remove Endorsement"
+            ],
+            [
+                "Python",
+                "See 37 endorsements for Python",
+                "37"
+            ],
+            [
+                "JavaScript",
+                "See 34 endorsements for JavaScript",
+                "34",
+                "JavaScript",
+                "Remove Endorsement"
+            ],
+            [
+                "JavaScript",
+                "See 34 endorsements for JavaScript",
+                "34"
+            ],
+            [
+                "Software Engineering",
+                "See 27 endorsements for Software Engineering",
+                "27",
+                "Software Engineering",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Engineering",
+                "See 27 endorsements for Software Engineering",
+                "27"
+            ],
+            [
+                "Programming",
+                "See 24 endorsements for Programming",
+                "24",
+                "Programming",
+                "Remove Endorsement"
+            ],
+            [
+                "Programming",
+                "See 24 endorsements for Programming",
+                "24"
+            ],
+            [
+                "PHP",
+                "See 20 endorsements for PHP",
+                "20",
+                "PHP",
+                "Remove Endorsement"
+            ],
+            [
+                "PHP",
+                "See 20 endorsements for PHP",
+                "20"
+            ],
+            [
+                "Computer Science",
+                "See 20 endorsements for Computer Science",
+                "20",
+                "Computer Science",
+                "Remove Endorsement"
+            ],
+            [
+                "Computer Science",
+                "See 20 endorsements for Computer Science",
+                "20"
+            ],
+            [
+                "Linux",
+                "See 18 endorsements for Linux",
+                "18",
+                "Linux",
+                "Remove Endorsement"
+            ],
+            [
+                "Linux",
+                "See 18 endorsements for Linux",
+                "18"
+            ],
+            [
+                "MySQL",
+                "See 17 endorsements for MySQL",
+                "17",
+                "MySQL",
+                "Remove Endorsement"
+            ],
+            [
+                "MySQL",
+                "See 17 endorsements for MySQL",
+                "17"
+            ],
+            [
+                "Shell Scripting",
+                "See 14 endorsements for Shell Scripting",
+                "14",
+                "Shell Scripting",
+                "Remove Endorsement"
+            ],
+            [
+                "Shell Scripting",
+                "See 14 endorsements for Shell Scripting",
+                "14"
+            ],
+            [
+                "jQuery",
+                "See 13 endorsements for jQuery",
+                "13",
+                "jQuery",
+                "Remove Endorsement"
+            ],
+            [
+                "jQuery",
+                "See 13 endorsements for jQuery",
+                "13"
+            ],
+            [
+                "Embedded Systems",
+                "See 13 endorsements for Embedded Systems",
+                "13",
+                "Embedded Systems",
+                "Remove Endorsement"
+            ],
+            [
+                "Embedded Systems",
+                "See 13 endorsements for Embedded Systems",
+                "13"
+            ],
+            [
+                "Software Development",
+                "See 12 endorsements for Software Development",
+                "12",
+                "Software Development",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Development",
+                "See 12 endorsements for Software Development",
+                "12"
+            ],
+            [
+                "C#",
+                "See 11 endorsements for C#",
+                "11",
+                "C#",
+                "Remove Endorsement"
+            ],
+            [
+                "C#",
+                "See 11 endorsements for C#",
+                "11"
+            ],
+            [
+                "Software Design",
+                "See 11 endorsements for Software Design",
+                "11",
+                "Software Design",
+                "Remove Endorsement"
+            ],
+            [
+                "Software Design",
+                "See 11 endorsements for Software Design",
+                "11"
+            ],
+            [
+                "Windows",
+                "See 11 endorsements for Windows",
+                "11",
+                "Windows",
+                "Remove Endorsement"
+            ],
+            [
+                "Windows",
+                "See 11 endorsements for Windows",
+                "11"
+            ],
+            [
+                "Matlab",
+                "See 10 endorsements for Matlab",
+                "10",
+                "Matlab",
+                "Remove Endorsement"
+            ],
+            [
+                "Matlab",
+                "See 10 endorsements for Matlab",
+                "10"
+            ],
+            [
+                "Teaching",
+                "See 9 endorsements for Teaching",
+                "9",
+                "Teaching",
+                "Remove Endorsement"
+            ],
+            [
+                "Teaching",
+                "See 9 endorsements for Teaching",
+                "9"
+            ],
+            [
+                "Unix",
+                "See 7 endorsements for Unix",
+                "7",
+                "Unix",
+                "Remove Endorsement"
+            ],
+            [
+                "Unix",
+                "See 7 endorsements for Unix",
+                "7"
+            ],
+            [
+                "Visual Studio",
+                "See 7 endorsements for Visual Studio",
+                "7",
+                "Visual Studio",
+                "Remove Endorsement"
+            ],
+            [
+                "Visual Studio",
+                "See 7 endorsements for Visual Studio",
+                "7"
+            ],
+            [
+                "Web Services",
+                "See 7 endorsements for Web Services",
+                "7",
+                "Web Services",
+                "Remove Endorsement"
+            ],
+            [
+                "Web Services",
+                "See 7 endorsements for Web Services",
+                "7"
+            ],
+            [
+                "Bash",
+                "See 7 endorsements for Bash",
+                "7",
+                "Bash",
+                "Remove Endorsement"
+            ],
+            [
+                "Bash",
+                "See 7 endorsements for Bash",
+                "7"
+            ],
+            [
+                "SQL",
+                "See 7 endorsements for SQL",
+                "7",
+                "SQL",
+                "Remove Endorsement"
+            ],
+            [
+                "SQL",
+                "See 7 endorsements for SQL",
+                "7"
+            ],
+            [
+                "Agile Methodologies",
+                "See 7 endorsements for Agile Methodologies",
+                "7",
+                "Agile Methodologies",
+                "Remove Endorsement"
+            ],
+            [
+                "Agile Methodologies",
+                "See 7 endorsements for Agile Methodologies",
+                "7"
+            ],
+            [
+                ".NET",
+                "See 6 endorsements for .NET",
+                "6",
+                ".NET",
+                "Remove Endorsement"
+            ],
+            [
+                ".NET",
+                "See 6 endorsements for .NET",
+                "6"
+            ],
+            [
+                "Web Applications",
+                "See 6 endorsements for Web Applications",
+                "6",
+                "Web Applications",
+                "Remove Endorsement"
+            ],
+            [
+                "Web Applications",
+                "See 6 endorsements for Web Applications",
+                "6"
+            ],
+            [
+                "Subversion",
+                "See 6 endorsements for Subversion",
+                "6",
+                "Subversion",
+                "Remove Endorsement"
+            ],
+            [
+                "Subversion",
+                "See 6 endorsements for Subversion",
+                "6"
+            ],
+            [
+                "OpenGL",
+                "See 5 endorsements for OpenGL",
+                "5",
+                "OpenGL",
+                "Remove Endorsement"
+            ],
+            [
+                "OpenGL",
+                "See 5 endorsements for OpenGL",
+                "5"
+            ],
+            [
+                "HTML",
+                "See 5 endorsements for HTML",
+                "5",
+                "HTML",
+                "Remove Endorsement"
+            ],
+            [
+                "HTML",
+                "See 5 endorsements for HTML",
+                "5"
+            ],
+            [
+                "Computer Graphics",
+                "See 5 endorsements for Computer Graphics",
+                "5",
+                "Computer Graphics",
+                "Remove Endorsement"
+            ],
+            [
+                "Computer Graphics",
+                "See 5 endorsements for Computer Graphics",
+                "5"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 4 endorsements for Microsoft SQL Server",
+                "4",
+                "Microsoft SQL Server",
+                "Remove Endorsement"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 4 endorsements for Microsoft SQL Server",
+                "4"
+            ],
+            [
+                "Architectures",
+                "See 4 endorsements for Architectures",
+                "4",
+                "Architectures",
+                "Remove Endorsement"
+            ],
+            [
+                "Architectures",
+                "See 4 endorsements for Architectures",
+                "4"
+            ],
+            [
+                "PostgreSQL",
+                "See 3 endorsements for PostgreSQL",
+                "3",
+                "PostgreSQL",
+                "Remove Endorsement"
+            ],
+            [
+                "PostgreSQL",
+                "See 3 endorsements for PostgreSQL",
+                "3"
+            ],
+            [
+                "Databases",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases"
+            ],
+            [
+                "Web Development",
+                "Web Development",
+                "Endorse"
+            ],
+            [
+                "Web Development"
+            ],
+            [
+                "React.js",
+                "React.js",
+                "Endorse"
+            ],
+            [
+                "React.js"
+            ]
+        ],
+        "summary": "    I am a software engineer with a passion for science, technology, interdisciplinary collaboration, and sharing knowledge.Domains:  Software architecture, infrastructure, web services, databases, embedded systems, computer science education\n  \n  \n",
+        "name": "Ryan Middleton",
+        "title": "Software Engineer",
+        "url": "linkedin.com/in/ryanmid",
+        "phone": null,
+        "email": "ryanmid@gmail.com"
+    }
+]

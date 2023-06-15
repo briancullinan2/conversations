@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6214427995269066752/",
+    "participants": [
+        {
+            "name": "Darren Davis",
+            "title": "Principal & Chief Creative Officer at Conversiv",
+            "url": "linkedin.com/in/darren-davis-292597",
+            "phone": null,
+            "email": "ddavis@conversiv.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-13T13:18:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I like you title.\n",
+            "time": "2017-12-13T13:18:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "*your\n",
+            "time": "2017-12-13T13:18:00.000Z"
+        }
+    ]
+}

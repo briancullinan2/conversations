@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6222045666059837441/",
+    "participants": [
+        {
+            "name": "Fellipe Gurgel",
+            "title": "Estudante de Sistemas de Informação na UFU e Estagiário de TI na Inngage",
+            "url": "linkedin.com/in/fellipegurgel",
+            "phone": null,
+            "email": "gurgelfellipe@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-03T13:48:00.000Z"
+        }
+    ]
+}

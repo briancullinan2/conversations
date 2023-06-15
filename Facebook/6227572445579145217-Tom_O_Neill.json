@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6227572445579145217/",
+    "participants": [
+        {
+            "name": "Tom O'Neill",
+            "title": "Chief Executive Officer at The Nerdery",
+            "url": "linkedin.com/in/tomoneill",
+            "phone": null,
+            "email": "tomoneill@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-18T19:49:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6236611238927888384/",
+    "participants": [
+        {
+            "name": "Davis Zanot",
+            "title": "I move bits",
+            "url": "linkedin.com/in/davis-zanot-9035077b",
+            "phone": null,
+            "email": "dzanot@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-12T18:26:00.000Z",
+            "message": "Thank you for connecting! Have you ever been electrocuted?\n"
+        },
+        {
+            "from": "Davis Zanot",
+            "time": "2017-03-22T04:37:00.000Z",
+            "message": "Not yet, perhaps if I play my cards right...\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-22T14:13:00.000Z",
+            "message": "I have. Taser is awesome.\n"
+        }
+    ]
+}

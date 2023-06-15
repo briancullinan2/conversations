@@ -1,0 +1,42 @@
+﻿Session Start (b.cullinan@cox.net:Group Conversation 13712): Fri May 25 08:27:25 2007
+[05/25/2007 08:27:25 AM] David McArthur: ?
+[05/25/2007 08:27:33 AM] Zach MItchell: either of you know of a program that can show me exactly what keys were updated into the registry when i install a program
+[05/25/2007 08:27:41 AM] David McArthur: in control
+[05/25/2007 08:27:53 AM] Zach MItchell: does it actually show you each individual key?
+[05/25/2007 08:27:57 AM] Zach MItchell: like string anyway
+[05/25/2007 08:28:04 AM] David McArthur: i dunno
+[05/25/2007 08:28:12 AM] David McArthur: it shoudl show all the ones that changed
+[05/25/2007 08:28:13 AM] Zach MItchell: is it freeware or do i need to torrent it?
+[05/25/2007 08:28:16 AM] David McArthur: maybe not the values
+[05/25/2007 08:28:19 AM] David McArthur: dunno
+[05/25/2007 08:28:22 AM] Zach MItchell: kk
+[05/25/2007 08:28:25 AM] David McArthur: we just use it here at work
+[05/25/2007 08:28:34 AM] David McArthur: theres no way brians awake
+[05/25/2007 08:29:32 AM] Zach MItchell: hmm i can't find the website for it
+[05/25/2007 08:30:42 AM] David McArthur: (Link: http://www.google.com/search?q=inctrl&ie=utf-8&oe=utf-8&aq=t&rls=com.ubuntu:en-US:official&client=firefox-a)http://www.google.com/search?q=inctrl&ie=utf-8&oe=utf-8&aq=t&rls=com.ubuntu:en-US:official&client=firefox-a
+[05/25/2007 08:30:59 AM] Zach MItchell: ah inctrl
+[05/25/2007 08:31:02 AM] Zach MItchell: gotcha
+[05/25/2007 08:31:03 AM] David McArthur: yeh
+[05/25/2007 08:32:03 AM] Zach MItchell: dude awsome
+[05/25/2007 08:32:03 AM] Zach MItchell: thats just what i needed
+[05/25/2007 08:32:17 AM] Zach MItchell: I wanted it so i can do better batch files
+[05/25/2007 08:32:29 AM] Zach MItchell: now I should be able to do any install through a batch
+[05/25/2007 08:32:43 AM] Zach MItchell: cause you do one install then export all the keys it made
+[05/25/2007 08:32:52 AM] David McArthur: yes
+[05/25/2007 08:32:55 AM] David McArthur: then the prog files
+[05/25/2007 08:32:59 AM] David McArthur: and you should be set
+[05/25/2007 08:33:04 AM] Zach MItchell: so then you just copy the directory over and import the keys
+[05/25/2007 08:33:27 AM] Zach MItchell: first thing is making an ffdshow installer/easy real converter
+[05/25/2007 08:33:30 AM] Zach MItchell: mmm mmm good
+[05/25/2007 08:33:55 AM] Zach MItchell: cause i have more access to active directory then i should
+[05/25/2007 08:34:04 AM] Zach MItchell: i can create an account and give it a startup script
+[05/25/2007 08:34:12 AM] Zach MItchell: that installs that from my server
+[05/25/2007 08:34:33 AM] Zach MItchell: so i make an mmc that has 1-22 computers of a classroom
+[05/25/2007 08:34:39 AM] Zach MItchell: remote into each with that account
+[05/25/2007 08:34:47 AM] Zach MItchell: it auto installs everything i need with preconfigured files
+[05/25/2007 08:35:06 AM] Zach MItchell: then i start all the convertions and run my other batch that does a move on all the rmvb files
+[05/25/2007 08:35:07 AM] Zach MItchell: MUAHAHAHAHAH
+[05/25/2007 08:41:27 AM] *** d33pfr33z3 has left the conversation.
+Session Close (Group Conversation 13712): Fri May 25 08:41:27 2007
+
+

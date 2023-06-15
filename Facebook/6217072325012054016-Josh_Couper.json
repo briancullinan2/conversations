@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6217072325012054016/",
+    "participants": [
+        {
+            "name": "Josh Couper",
+            "title": "Evangelist at Galvanize Inc",
+            "url": "linkedin.com/in/joshcouper",
+            "phone": null,
+            "email": "joshcouper@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-20T20:25:00.000Z"
+        },
+        {
+            "from": "Josh Couper",
+            "message": "You too, Brian! Let me know if I can ever be of help.\n",
+            "time": "2017-12-20T20:27:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Went to a galvanize meetup last night. Excellent job with the venue and speaker so thank you for donating!\n",
+            "time": "2017-12-21T15:53:00.000Z"
+        },
+        {
+            "from": "Josh Couper",
+            "message": "Oh Nice! Were you at our new Phoenix campus? I haven't been there yet. How's the facility? What meetup did you attend?\n",
+            "time": "2017-12-21T16:15:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "The building they are in is really nice. The office is modern and fresh. Lots of natural lighting, something a lot of offices lack. The meetup was an introduction to Docker. Phoenix has perfect whether while everyone else gets snow so I hope you get to visit! ;)\n",
+            "time": "2017-12-21T16:19:00.000Z"
+        },
+        {
+            "from": "Josh Couper",
+            "message": "Yeah I hope I get to visit as well. I've heard great things about Phoenix. \n\nGreat to hear the meetup and campus were awesome!\n",
+            "time": "2017-12-21T17:08:00.000Z"
+        }
+    ]
+}

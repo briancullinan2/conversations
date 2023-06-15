@@ -1,0 +1,32 @@
+{
+    "thread": "https://www.facebook.com/messages/archived/t/kenji.yamamoto.14289",
+    "participants": [
+        {
+            "name": "Kenji Yamamoto",
+            "description": "Engineering Manager at Schweitzer Engineering Laboratories",
+            "url": "Former Software Engineer at General Dynamics Mission Systems"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Brian",
+            "time": "2016-10-02T14:51:00.000Z",
+            "message": "Brian\nHey how have you been? You always seemed like an engineering genius to me.\n"
+        },
+        {
+            "from": "Kenji",
+            "time": "2016-10-02T14:51:00.000Z",
+            "message": "\nHaha, engineering genius is definitely a bit much, but thanks. I'm doing pretty well, how about you?\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-10-02T14:51:00.000Z",
+            "message": "Brian\nAwesome. Just got laid off from full time to part time and I have been looking to expand to places like Motorola or general dynamics, toy worked there right?\n"
+        },
+        {
+            "from": "Kenji",
+            "time": "2016-10-02T17:40:00.000Z",
+            "message": "\nYeah, I was at general dynamics for a couple years\n\n"
+        }
+    ]
+}

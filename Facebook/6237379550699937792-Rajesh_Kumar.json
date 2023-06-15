@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6237379550699937792/",
+    "participants": [
+        {
+            "name": "Rajesh Kumar",
+            "title": "CEO/CTO at TechMileage Software Solutions",
+            "url": "linkedin.com/in/rajeshkum",
+            "phone": null,
+            "email": "rajeshkr.79@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-14T21:19:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Rajesh Kumar",
+            "time": "2018-02-15T16:46:00.000Z",
+            "message": "Thanks Brian. So are you looking for a change?\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-15T18:32:00.000Z",
+            "message": "Probably. Working on a few contracts and I have a second interview tomorrow with swiftpage Act!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-15T18:32:00.000Z",
+            "message": "Any fun projects in the pipeline?\n"
+        },
+        {
+            "from": "Rajesh Kumar",
+            "time": "2018-02-15T18:51:00.000Z",
+            "message": "Brian - can you send me a resume. We have some roles with some of our clients. rajesh.kumar@techmileage.com\n"
+        }
+    ]
+}

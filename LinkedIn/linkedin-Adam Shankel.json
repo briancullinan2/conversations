@@ -1,0 +1,770 @@
+[
+    {
+        "experience": [
+            "Highlights",
+            [
+                "59 Mutual Connections",
+                "You and Adam both know Matt Greene, Luke Hohmann, and 57 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Senior Director of Engineering",
+                "Company Name",
+                "GoDaddy",
+                "Dates Employed",
+                "Sep 2016 – Present",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "Tempe, AZ",
+                "Leading the development of GoDaddy's next generation website building platform.  Focused on a simple to use, mobile first platform that scales to millions of users in data centers around the world."
+            ],
+            [
+                "Director of Engineering",
+                "Company Name",
+                "GoDaddy",
+                "Dates Employed",
+                "Aug 2015 – Sep 2016",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "Tempe, AZ",
+                "•\tSuccessfully lead the development of GoDaddy's next generation Website Builder.  Focusing on a mobile first experience, performance on UI, App, and API tiers and multi-data center deployments.•\tSuccessfully lead teams in the day to day operations of 5+ products hosting millions of websites around the world.•\tDrove the successful adoption of a fully automated CI/CD stack across the division increasing the number of deployments from 4-5 per week to 10-15 per day while maintaining consistent quality.•\tReduced the time to setup and deploy new services from multiple weeks to less than one day simplifying the adoption of a micro-service architecture."
+            ],
+            [
+                "Senior Engineering Manager",
+                "Company Name",
+                "GoDaddy",
+                "Dates Employed",
+                "Aug 2013 – Aug 2015",
+                "Employment Duration",
+                "2 yrs 1 mo",
+                "Location",
+                "Tempe, AZ",
+                "•\tLead the Website Builder product development for the Presence and Commerce group.•\tSuccessfully lead the team through a tech-stack transition from Microsoft C# and RDBMS to a NodeJS based system using Cassandra as a data store.•\tChanged the product direction from a single data center non-redundant system to a system that scales across multiple data centers in an Active / Active configuration serving millions of users.•\tSuccessfully brought a next generation hosting design from prototype to production in less than 6 months.  The new design is capable of handling 10 times the load of the previous system, with 1/5 of the server capacity and 1/10 the time to first byte."
+            ],
+            [
+                "Software Development Manager",
+                "Company Name",
+                "GoDaddy.com",
+                "Dates Employed",
+                "Feb 2012 – Aug 2013",
+                "Employment Duration",
+                "1 yr 7 mos",
+                "Location",
+                "United States",
+                "•\tLead the Corporate and IT Support teams responsible for operations center systems, domain and legal case management applications, company communications and help center systems, company intranet, HRMS, and financial systems.•\tLead the team responsible for claim management process automation.  Claims are brought by external and internal customers relating to Spam, Abuse, Trademark Disputes, Copyright Claims, Domain Transfer Disputes, and Fraud Detection.  Led the effort to incorporate Social Media Influencers, Alexa Rankings and other external indicators reducing the likelihood of taking a major site offline.•\tLed the implementation of company-wide single sign on (SSO) using SAML and ADFS allowing us to integrate with on premise and SaaS based solutions with ease (team open source contributions to SimpleSAMLPhp).•\tConceived and led the implementation of a load balancer change request automation system that abstracted out vendor specific commands and fully automated cluster and server rotation changes.  The system manages 700+ clusters, and over 3500 servers, it led to a 90% decrease in incidents created by deployments and dramatically reduced the amount of time needed for changes to be processed from hours to less than 1 minute. (C#, Perl, ASP.NET, Windows Services, Web Services, Cisco CSM, Cisco ACE, BigIP F5, A10)•\tCreated a service account management system that creates and tracks all system service accounts.   This automated the process of creating, maintaining, and rotating system service accounts within the company.  Allowing the company for the first time to change out all service account username and passwords on a regular basis. (AD, C#, SQL Server, Web Services)"
+            ],
+            [
+                "Lead Development Engineer",
+                "Company Name",
+                "GoDaddy.com",
+                "Dates Employed",
+                "Jun 2011 – Feb 2012",
+                "Employment Duration",
+                "9 mos",
+                "Location",
+                "United States",
+                "•\tLed the effort to make all online help content available to websites in an embedded fashion.  This reduced the amount of time it takes for customers to set up their products.  (PHP, REST, JSON) •\tLed effort to create a multi-data center service that provides Go Daddy websites with all online help content, all legal agreements. (PHP, WSDL, C#, JSON, MySQL, Memcached)•\tCreated an employee review and bonus system to track annual reviews for 3500+ employees and manage the quarterly objectives for 1000+ employees.  Reduced the amount of time needed to track reviews, objectives, and payouts by 80%.  (C#, JavaScript Template Engine, ASP.NET, RSA and AES cryptography)•\tCreated a system responsible for managing all database and web service credentials across all GoDaddy systems.  (C#, C++, Web Services, X509 Certificates)•\tCreated company wide database ORM library for use in .NET Applications that reduced the amount of code needed to integrate database objects by half, and automatically integrated with company based credential management system (SQL Server, MySQL, SQLite)."
+            ],
+            [
+                "Sr. Software Engineer",
+                "Company Name",
+                "GoDaddy.com",
+                "Dates Employed",
+                "Sep 2007 – Jul 2011",
+                "Employment Duration",
+                "3 yrs 11 mos",
+                "Location",
+                "United States",
+                "•\tCreated and led a project to automate the installation of 10000+ SSL Certificates on 1000+ servers.  Reduced the amount of time needed to install a certificate from +5 minutes to less than 1 second per machine.  Integrated with Active Directory to ensure that Service Accounts that needed access to certificates were automatically granted access during installation.•\tCreated system to remotely track and audit company laptops to ensure that the systems are secure.  Reducing the amount of time needed to track / audit company assets.  Developed secure remote update system to allow the company to remotely update laptops in a secure fashion. (C#, ASP.NET, Windows Services, X509 Certificates)•\tCreated an electronic idea tracking system that integrates with a 3rd party time-stamping service. (C#, ASP.NET, JavaScript, Memcached, and X509 Certificates)•\tLed the initiative to integrated custom Applicant Tracking System with Active Directory and 15+ other systems to automate new hire account creation and processes.  50+ person-hours per week saved and allowed the company to double in size without increasing the number of support staff.  (C#, ASP.NET, JavaScript, and Web Services"
+            ],
+            [
+                "Software Systems Engineer",
+                "Company Name",
+                "Mitel",
+                "Dates Employed",
+                "Jun 2004 – Sep 2007",
+                "Employment Duration",
+                "3 yrs 4 mos",
+                "Location",
+                "United States",
+                "•\tCreated, LDAP Import mechanism that gives users the ability to import user accounts from their corporate domain into Inter-Tel Phone Systems via their web browser utilizing ASP.NET and C#.•\tPerformed Team Lead role on a project that integrated Salesforce.com with the Inter-Tel Axxess and Inter-Tel 5000.•\tCreated, using C++ and C#, a .NET plug-in framework that allows Software Developers to use C# and other .NET Languages in the Inter-Tel Applications Platform IVR development environment.•\tDesigned and developed numerous IVR's for end-customers. Including third-party integrations with legacy software such as ICOMS.•\tUsing ASP.NET and C# developed web sites that allow end-customers to create and use campaigns to contact their customers and notify them of important events. Users of this software include Schools, the Health Care industry, and Public Utilities.•\tDeveloped using ASP.NET and C# a web site that allows customers to create and manage their own IVR's directly over the web."
+            ],
+            [
+                "Telecommunications Analyst",
+                "Company Name",
+                "West Business Services",
+                "Dates Employed",
+                "Jun 2002 – Jun 2004",
+                "Employment Duration",
+                "2 yrs 1 mo",
+                "Location",
+                "United States",
+                "•\tDevelopment and management of 150+ Interactive Voice Response applications using Interactive Intelligence Customer Interaction Center 2.2 for a multi-site call center with 700+ agents. Development of numerous desktop applications to help call center agents process calls more efficiently. Integrated call system with CRM applications including Siebel, Telescript, Goldmine and Microsoft Access.•\tResponsible for all aspects of system including administration, development, call routing, call tracking, reporting and uptime."
+            ],
+            [
+                "Systems Engineer",
+                "Company Name",
+                "Interactive Intelligence",
+                "Dates Employed",
+                "May 2001 – May 2002",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "United States",
+                "•\tUsed SAP Automation GUI Library to perform client-side integration between I3 communications software and SAP.  Developed add-on packages that work alongside our platform to fill client needs, as well as developing IVR systems.  Also, consulted and provided knowledge on numerous other proposals and development opportunities. •\tGained the following skills: Installing and configuring Windows NT 4 and Windows 2000 servers, SQL Server 7 and 2000, and Exchange Server 2000, developed mainly with Visual Basic 6, JavaScript, and VBScript.  Also gained vast experience in creating and using COM objects."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Indiana University - Kelley School of Business",
+                "Degree Name",
+                "BSBA",
+                "Field Of Study",
+                "Information Systems, Operations Management, Business Process Management",
+                "Dates attended or expected graduation",
+                "1997 – 2002"
+            ],
+            [
+                "Indiana University - Kelley School of Business",
+                "Degree Name",
+                "BSBA",
+                "Field Of Study",
+                "Information Systems, Operations Management, Business Process Management",
+                "Dates attended or expected graduation",
+                "1997 – 2002"
+            ],
+            [
+                "Indiana University Bloomington"
+            ],
+            [
+                "Indiana University Bloomington"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Indiana University - Kelley School of Business",
+                "54,230 followers"
+            ],
+            [
+                "Mitel",
+                "38,143 followers"
+            ],
+            [
+                ".NET Developers",
+                "426,671 members"
+            ],
+            [
+                "Indiana University Alumni",
+                "3,720 members"
+            ],
+            [
+                "GoDaddy",
+                "41,661 followers"
+            ],
+            [
+                "Linked.NET Users Group (LIDNUG)",
+                "73,741 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Indiana University - Kelley School of Business",
+                "54,230 followers"
+            ],
+            [
+                "Indiana University - Kelley School of Business",
+                "54,230 followers"
+            ],
+            [
+                "Mitel",
+                "38,143 followers"
+            ],
+            [
+                "Mitel",
+                "38,143 followers"
+            ],
+            [
+                ".NET Developers",
+                "426,671 members"
+            ],
+            [
+                ".NET Developers",
+                "426,671 members"
+            ],
+            [
+                "Indiana University Alumni",
+                "3,720 members"
+            ],
+            [
+                "Indiana University Alumni",
+                "3,720 members"
+            ],
+            [
+                "GoDaddy",
+                "41,661 followers"
+            ],
+            [
+                "GoDaddy",
+                "41,661 followers"
+            ],
+            [
+                "Linked.NET Users Group (LIDNUG)",
+                "73,741 members"
+            ],
+            [
+                "Linked.NET Users Group (LIDNUG)",
+                "73,741 members"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Web Services",
+                "See 44 endorsements for Web Services",
+                "44",
+                "Web Services",
+                "Endorse",
+                "Endorsed by Jason Simpson and 4 others who are highly skilled at this",
+                "Endorsed by Jeffrey Yahner and 6 other mutual connections"
+            ],
+            [
+                "Web Services",
+                "See 44 endorsements for Web Services",
+                "44"
+            ],
+            [
+                "Software Development",
+                "See 43 endorsements for Software Development",
+                "43",
+                "Software Development",
+                "Endorse",
+                "Endorsed by Jason Simpson and 4 others who are highly skilled at this",
+                "Endorsed by Jeffrey Yahner and 3 other mutual connections"
+            ],
+            [
+                "Software Development",
+                "See 43 endorsements for Software Development",
+                "43"
+            ],
+            [
+                "C#",
+                "See 31 endorsements for C#",
+                "31",
+                "C#",
+                "Endorse",
+                "Endorsed by Guy Ellis and 6 others who are highly skilled at this",
+                "Endorsed by Jason Simpson and 4 other mutual connections"
+            ],
+            [
+                "C#",
+                "See 31 endorsements for C#",
+                "31"
+            ],
+            [
+                "JavaScript",
+                "See 25 endorsements for JavaScript",
+                "25",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 25 endorsements for JavaScript",
+                "25"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 14 endorsements for Microsoft SQL Server",
+                "14",
+                "Microsoft SQL Server",
+                "Endorse"
+            ],
+            [
+                "Microsoft SQL Server",
+                "See 14 endorsements for Microsoft SQL Server",
+                "14"
+            ],
+            [
+                "Agile Methodologies",
+                "See 13 endorsements for Agile Methodologies",
+                "13",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 13 endorsements for Agile Methodologies",
+                "13"
+            ],
+            [
+                "MySQL",
+                "See 11 endorsements for MySQL",
+                "11",
+                "MySQL",
+                "Endorse"
+            ],
+            [
+                "MySQL",
+                "See 11 endorsements for MySQL",
+                "11"
+            ],
+            [
+                "Databases",
+                "See 10 endorsements for Databases",
+                "10",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 10 endorsements for Databases",
+                "10"
+            ],
+            [
+                ".NET",
+                "See 9 endorsements for .NET",
+                "9",
+                ".NET",
+                "Endorse"
+            ],
+            [
+                ".NET",
+                "See 9 endorsements for .NET",
+                "9"
+            ],
+            [
+                "Web Applications",
+                "See 9 endorsements for Web Applications",
+                "9",
+                "Web Applications",
+                "Endorse"
+            ],
+            [
+                "Web Applications",
+                "See 9 endorsements for Web Applications",
+                "9"
+            ],
+            [
+                "SQL",
+                "See 8 endorsements for SQL",
+                "8",
+                "SQL",
+                "Endorse"
+            ],
+            [
+                "SQL",
+                "See 8 endorsements for SQL",
+                "8"
+            ],
+            [
+                "Web Development",
+                "See 8 endorsements for Web Development",
+                "8",
+                "Web Development",
+                "Endorse"
+            ],
+            [
+                "Web Development",
+                "See 8 endorsements for Web Development",
+                "8"
+            ],
+            [
+                "Management",
+                "See 6 endorsements for Management",
+                "6",
+                "Management",
+                "Endorse"
+            ],
+            [
+                "Management",
+                "See 6 endorsements for Management",
+                "6"
+            ],
+            [
+                "ASP.NET",
+                "See 5 endorsements for ASP.NET",
+                "5",
+                "ASP.NET",
+                "Endorse"
+            ],
+            [
+                "ASP.NET",
+                "See 5 endorsements for ASP.NET",
+                "5"
+            ],
+            [
+                "Software Engineering",
+                "See 4 endorsements for Software Engineering",
+                "4",
+                "Software Engineering",
+                "Endorse"
+            ],
+            [
+                "Software Engineering",
+                "See 4 endorsements for Software Engineering",
+                "4"
+            ],
+            [
+                "Integration",
+                "See 4 endorsements for Integration",
+                "4",
+                "Integration",
+                "Endorse"
+            ],
+            [
+                "Integration",
+                "See 4 endorsements for Integration",
+                "4"
+            ],
+            [
+                "XML",
+                "See 3 endorsements for XML",
+                "3",
+                "XML",
+                "Endorse"
+            ],
+            [
+                "XML",
+                "See 3 endorsements for XML",
+                "3"
+            ],
+            [
+                "jQuery",
+                "See 3 endorsements for jQuery",
+                "3",
+                "jQuery",
+                "Endorse"
+            ],
+            [
+                "jQuery",
+                "See 3 endorsements for jQuery",
+                "3"
+            ],
+            [
+                "Software Project Management",
+                "See 3 endorsements for Software Project Management",
+                "3",
+                "Software Project Management",
+                "Endorse"
+            ],
+            [
+                "Software Project Management",
+                "See 3 endorsements for Software Project Management",
+                "3"
+            ],
+            [
+                "REST",
+                "See 3 endorsements for REST",
+                "3",
+                "REST",
+                "Endorse"
+            ],
+            [
+                "REST",
+                "See 3 endorsements for REST",
+                "3"
+            ],
+            [
+                "AJAX",
+                "See 2 endorsements for AJAX",
+                "2",
+                "AJAX",
+                "Endorse"
+            ],
+            [
+                "AJAX",
+                "See 2 endorsements for AJAX",
+                "2"
+            ],
+            [
+                "CSS",
+                "See 2 endorsements for CSS",
+                "2",
+                "CSS",
+                "Endorse"
+            ],
+            [
+                "CSS",
+                "See 2 endorsements for CSS",
+                "2"
+            ],
+            [
+                "SDLC",
+                "See 2 endorsements for SDLC",
+                "2",
+                "SDLC",
+                "Endorse"
+            ],
+            [
+                "SDLC",
+                "See 2 endorsements for SDLC",
+                "2"
+            ],
+            [
+                "Telecommunications",
+                "See 2 endorsements for Telecommunications",
+                "2",
+                "Telecommunications",
+                "Endorse"
+            ],
+            [
+                "Telecommunications",
+                "See 2 endorsements for Telecommunications",
+                "2"
+            ],
+            [
+                "VoIP",
+                "See 1 endorsement for VoIP",
+                "1",
+                "VoIP",
+                "Endorse"
+            ],
+            [
+                "VoIP",
+                "See 1 endorsement for VoIP",
+                "1"
+            ],
+            [
+                "JSON",
+                "See 1 endorsement for JSON",
+                "1",
+                "JSON",
+                "Endorse"
+            ],
+            [
+                "JSON",
+                "See 1 endorsement for JSON",
+                "1"
+            ],
+            [
+                "HTML",
+                "See 1 endorsement for HTML",
+                "1",
+                "HTML",
+                "Endorse"
+            ],
+            [
+                "HTML",
+                "See 1 endorsement for HTML",
+                "1"
+            ],
+            [
+                "System Architecture",
+                "System Architecture",
+                "Endorse"
+            ],
+            [
+                "System Architecture"
+            ],
+            [
+                "Active Directory",
+                "Active Directory",
+                "Endorse"
+            ],
+            [
+                "Active Directory"
+            ],
+            [
+                "Visual Studio",
+                "Visual Studio",
+                "Endorse"
+            ],
+            [
+                "Visual Studio"
+            ],
+            [
+                "IIS",
+                "IIS",
+                "Endorse"
+            ],
+            [
+                "IIS"
+            ],
+            [
+                "Database Design",
+                "Database Design",
+                "Endorse"
+            ],
+            [
+                "Database Design"
+            ],
+            [
+                "Software Design",
+                "Software Design",
+                "Endorse"
+            ],
+            [
+                "Software Design"
+            ],
+            [
+                "Object Oriented Design",
+                "Object Oriented Design",
+                "Endorse"
+            ],
+            [
+                "Object Oriented Design"
+            ],
+            [
+                "TFS",
+                "TFS",
+                "Endorse"
+            ],
+            [
+                "TFS"
+            ],
+            [
+                "Servers",
+                "Servers",
+                "Endorse"
+            ],
+            [
+                "Servers"
+            ],
+            [
+                "Java",
+                "Java",
+                "Endorse"
+            ],
+            [
+                "Java"
+            ],
+            [
+                "SOA",
+                "SOA",
+                "Endorse"
+            ],
+            [
+                "SOA"
+            ],
+            [
+                "Requirements Analysis",
+                "Requirements Analysis",
+                "Endorse"
+            ],
+            [
+                "Requirements Analysis"
+            ],
+            [
+                "WCF",
+                "WCF",
+                "Endorse"
+            ],
+            [
+                "WCF"
+            ],
+            [
+                "T-SQL",
+                "T-SQL",
+                "Endorse"
+            ],
+            [
+                "T-SQL"
+            ],
+            [
+                "LINQ",
+                "LINQ",
+                "Endorse"
+            ],
+            [
+                "LINQ"
+            ],
+            [
+                "Programming",
+                "Programming",
+                "Endorse"
+            ],
+            [
+                "Programming"
+            ],
+            [
+                "HTML 5",
+                "HTML 5",
+                "Endorse"
+            ],
+            [
+                "HTML 5"
+            ],
+            [
+                "ASP.NET MVC",
+                "ASP.NET MVC",
+                "Endorse"
+            ],
+            [
+                "ASP.NET MVC"
+            ],
+            [
+                "SOAP",
+                "SOAP",
+                "Endorse"
+            ],
+            [
+                "SOAP"
+            ],
+            [
+                "Architecture",
+                "Architecture",
+                "Endorse"
+            ],
+            [
+                "Architecture"
+            ],
+            [
+                "Distributed Systems",
+                "Distributed Systems",
+                "Endorse"
+            ],
+            [
+                "Distributed Systems"
+            ],
+            [
+                "OOP",
+                "OOP",
+                "Endorse"
+            ],
+            [
+                "OOP"
+            ],
+            [
+                "MVC",
+                "MVC",
+                "Endorse"
+            ],
+            [
+                "MVC"
+            ]
+        ],
+        "summary": "",
+        "name": "Adam Shankel",
+        "title": "Sr. Director of Engineering, Helping small businesses succeed online.  We're hiring, join us!  x.co/engineers",
+        "url": "linkedin.com/in/adam-shankel-8895493",
+        "phone": "",
+        "email": "ashankel@gmail.com"
+    }
+]

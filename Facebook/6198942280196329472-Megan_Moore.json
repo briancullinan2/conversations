@@ -1,0 +1,59 @@
+{
+    "thread": "/messaging/thread/6198942280196329472/",
+    "participants": [
+        {
+            "name": "Megan Moore",
+            "title": "Lead Recruiter at TEKsystems",
+            "url": "linkedin.com/in/megan-moore-2816b561",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Megan Moore",
+            "message": "NIKE-AWS/Java Software Engineering Opportunities- Portland, OR\nmemoore@teksystems.com\nmemoore@teksystems.com",
+            "time": "2016-10-31T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Megan Moore, thanks for reaching out. I’d love to hear more about this.",
+            "time": "2017-10-04T19:49:00.000Z"
+        },
+        {
+            "from": "Megan Moore",
+            "message": "Hey Brian! Good to hear from you! Please send me your updated resume and let me know what a good time is for us to speak!",
+            "time": "2017-10-04T15:56:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Here is the resume.",
+            "time": "2017-10-04T18:27:00.000Z"
+        },
+        {
+            "from": "Megan Moore",
+            "message": "Thanks Brian! When are you free to speak?",
+            "time": "2017-10-04T16:16:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Probably not until 5pst",
+            "time": "2017-10-04T16:17:00.000Z"
+        },
+        {
+            "from": "Megan Moore",
+            "message": "How does today around 515 sound?",
+            "time": "2017-10-04T22:30:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Hmm, I thought it would be cool to work forn NIKE but I am not interested\nin Java.",
+            "time": "2017-10-04T22:31:00.000Z"
+        },
+        {
+            "from": "Megan Moore",
+            "message": "Not all the positions require Java.  AWS is the most valuable technology to have over there. There are a wide variety of DevOps opportunities at Nike that are probably more up your alley",
+            "time": "2017-10-04T22:34:00.000Z"
+        }
+    ]
+}

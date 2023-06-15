@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6212385212060487681/",
+    "participants": [
+        {
+            "name": "Gustavo Demoner",
+            "title": "Innovation Strategist and Ideation Specialist",
+            "url": "https://www.linkedin.com/in/gustavodemoner/",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-12-07T22:00:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Gustavo Demoner",
+            "time": "2017-12-07T22:19:00.000Z",
+            "message": "👍\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-12-07T22:21:00.000Z",
+            "message": "What are you working on?\n"
+        },
+        {
+            "from": "Gustavo Demoner",
+            "time": "2017-03-09T05:27:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-09T13:55:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

@@ -1,0 +1,414 @@
+[
+    {
+        "resourceName": "people/c7829198809263189890",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMOE9lQWkrWkNjYms9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "6ca6e6d60e0b2f82"
+                    }
+                },
+                "displayName": "Alex Thaler",
+                "familyName": "Thaler",
+                "givenName": "Alex",
+                "displayNameLastFirst": "Thaler, Alex"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "116189008909178669213"
+                    }
+                },
+                "displayName": "Alex Thaler",
+                "familyName": "Thaler",
+                "givenName": "Alex",
+                "displayNameLastFirst": "Thaler, Alex"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "6ca6e6d60e0b2f82"
+                    }
+                },
+                "value": "alex@edswell.com"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "2 Mutual Connections",
+                "You and Alex both know Alexander Korb and Tim Cook"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Full Stack Engineer",
+                "Company Name",
+                "Edswell",
+                "Dates Employed",
+                "Jan 2014 – Present",
+                "Employment Duration",
+                "3 yrs 11 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "Build and deploy Edswell's suite of college planning features.  Ruby on Rails, Javascript, jQuery, React, Redux,  mySQL, redis, html, css, sass.  Have dabbled in Python."
+            ],
+            [
+                "Founder",
+                "Company Name",
+                "EDSWELL, Inc.",
+                "Dates Employed",
+                "Oct 2013 – Present",
+                "Employment Duration",
+                "4 yrs 2 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "Edswell is a powerful, comprehensive college-planning platform.  Stand-out features include: fully -customizable application plans, sortable college lists, robust event management, beautiful college profiles, and Edswell's acclaimed essay management engine.  Edswell Forum, the app's internal social network, helps counselors stay connected and supported.",
+                "Media (1)",
+                "This position has 1 media",
+                "Edswell Logo",
+                "Edswell Logo",
+                "This media is an image"
+            ],
+            [
+                "Associate",
+                "Company Name",
+                "Young Conaway Stargatt & Taylor, LLP",
+                "Dates Employed",
+                "Aug 2008 – Jun 2010",
+                "Employment Duration",
+                "1 yr 11 mos",
+                "Location",
+                "Wilmington, Delaware",
+                "Corporate counseling and litigation; bankruptcy."
+            ],
+            [
+                "Instructor",
+                "Company Name",
+                "The Princeton Review",
+                "Dates Employed",
+                "Feb 2003 – Apr 2006",
+                "Employment Duration",
+                "3 yrs 3 mos",
+                "Location",
+                "Berkeley, California"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of Pennsylvania Law School",
+                "Degree Name",
+                "JD",
+                "Dates attended or expected graduation",
+                "2005 – 2008"
+            ],
+            [
+                "University of Pennsylvania Law School",
+                "Degree Name",
+                "JD",
+                "Dates attended or expected graduation",
+                "2005 – 2008"
+            ],
+            [
+                "University of California, Berkeley",
+                "Degree Name",
+                "BA",
+                "Dates attended or expected graduation",
+                "1998 – 2002"
+            ],
+            [
+                "University of California, Berkeley",
+                "Degree Name",
+                "BA",
+                "Dates attended or expected graduation",
+                "1998 – 2002"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "University of California, Berkeley",
+                "543,003 followers"
+            ],
+            [
+                "University of Pennsylvania Law School",
+                "14,197 followers"
+            ],
+            [
+                "College Admissions Experts",
+                "21,774 members"
+            ],
+            [
+                "University of California, Berkeley",
+                "502,652 followers"
+            ],
+            [
+                "University of Pennsylvania Law School",
+                "11,848 followers"
+            ],
+            [
+                "Cal Alumni Association | UC Berkeley",
+                "57,032 members"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "University of California, Berkeley",
+                "543,003 followers"
+            ],
+            [
+                "University of California, Berkeley",
+                "543,003 followers"
+            ],
+            [
+                "University of Pennsylvania Law School",
+                "14,197 followers"
+            ],
+            [
+                "University of Pennsylvania Law School",
+                "14,197 followers"
+            ],
+            [
+                "College Admissions Experts",
+                "21,774 members"
+            ],
+            [
+                "College Admissions Experts",
+                "21,774 members"
+            ],
+            [
+                "University of California, Berkeley",
+                "502,652 followers"
+            ],
+            [
+                "University of California, Berkeley",
+                "502,652 followers"
+            ],
+            [
+                "University of Pennsylvania Law School",
+                "11,848 followers"
+            ],
+            [
+                "University of Pennsylvania Law School",
+                "11,848 followers"
+            ],
+            [
+                "Cal Alumni Association | UC Berkeley",
+                "57,032 members"
+            ],
+            [
+                "Cal Alumni Association | UC Berkeley",
+                "57,032 members"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Public Speaking",
+                "See 5 endorsements for Public Speaking",
+                "5",
+                "Public Speaking",
+                "Endorse",
+                "Micheal McKinnon, M.Ed., CPSS and 4 connections have given endorsements for this skill"
+            ],
+            [
+                "Public Speaking",
+                "See 5 endorsements for Public Speaking",
+                "5"
+            ],
+            [
+                "Start-ups",
+                "See 5 endorsements for Start-ups",
+                "5",
+                "Start-ups",
+                "Endorse",
+                "Endorsed by John McMahon, who is highly skilled at this"
+            ],
+            [
+                "Start-ups",
+                "See 5 endorsements for Start-ups",
+                "5"
+            ],
+            [
+                "Entrepreneurship",
+                "See 4 endorsements for Entrepreneurship",
+                "4",
+                "Entrepreneurship",
+                "Endorse",
+                "Endorsed by John McMahon, who is highly skilled at this"
+            ],
+            [
+                "Entrepreneurship",
+                "See 4 endorsements for Entrepreneurship",
+                "4"
+            ],
+            [
+                "Strategic Planning",
+                "See 4 endorsements for Strategic Planning",
+                "4",
+                "Strategic Planning",
+                "Endorse"
+            ],
+            [
+                "Strategic Planning",
+                "See 4 endorsements for Strategic Planning",
+                "4"
+            ],
+            [
+                "Higher Education",
+                "See 4 endorsements for Higher Education",
+                "4",
+                "Higher Education",
+                "Endorse"
+            ],
+            [
+                "Higher Education",
+                "See 4 endorsements for Higher Education",
+                "4"
+            ],
+            [
+                "Teaching",
+                "See 4 endorsements for Teaching",
+                "4",
+                "Teaching",
+                "Endorse"
+            ],
+            [
+                "Teaching",
+                "See 4 endorsements for Teaching",
+                "4"
+            ],
+            [
+                "Nonprofits",
+                "See 3 endorsements for Nonprofits",
+                "3",
+                "Nonprofits",
+                "Endorse"
+            ],
+            [
+                "Nonprofits",
+                "See 3 endorsements for Nonprofits",
+                "3"
+            ],
+            [
+                "Social Media",
+                "See 3 endorsements for Social Media",
+                "3",
+                "Social Media",
+                "Endorse"
+            ],
+            [
+                "Social Media",
+                "See 3 endorsements for Social Media",
+                "3"
+            ],
+            [
+                "Leadership Development",
+                "See 2 endorsements for Leadership Development",
+                "2",
+                "Leadership Development",
+                "Endorse"
+            ],
+            [
+                "Leadership Development",
+                "See 2 endorsements for Leadership Development",
+                "2"
+            ],
+            [
+                "Staff Development",
+                "See 2 endorsements for Staff Development",
+                "2",
+                "Staff Development",
+                "Endorse"
+            ],
+            [
+                "Staff Development",
+                "See 2 endorsements for Staff Development",
+                "2"
+            ],
+            [
+                "Legal Research",
+                "See 2 endorsements for Legal Research",
+                "2",
+                "Legal Research",
+                "Endorse"
+            ],
+            [
+                "Legal Research",
+                "See 2 endorsements for Legal Research",
+                "2"
+            ],
+            [
+                "Mergers & Acquisitions",
+                "See 1 endorsement for Mergers & Acquisitions",
+                "1",
+                "Mergers & Acquisitions",
+                "Endorse"
+            ],
+            [
+                "Mergers & Acquisitions",
+                "See 1 endorsement for Mergers & Acquisitions",
+                "1"
+            ],
+            [
+                "Community Outreach",
+                "See 1 endorsement for Community Outreach",
+                "1",
+                "Community Outreach",
+                "Endorse"
+            ],
+            [
+                "Community Outreach",
+                "See 1 endorsement for Community Outreach",
+                "1"
+            ],
+            [
+                "Program Development",
+                "See 1 endorsement for Program Development",
+                "1",
+                "Program Development",
+                "Endorse"
+            ],
+            [
+                "Program Development",
+                "See 1 endorsement for Program Development",
+                "1"
+            ]
+        ],
+        "summary": "     \n  \n  \n",
+        "name": "Alex Thaler",
+        "title": "Founder, Web Developer",
+        "url": "linkedin.com/in/axdthaler",
+        "phone": "",
+        "email": "athaler@alumni.law.upenn.edu"
+    }
+]

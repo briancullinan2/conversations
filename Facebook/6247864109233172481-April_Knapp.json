@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6247864109233172481/",
+    "participants": [
+        {
+            "name": "April Knapp",
+            "title": "REALTOR® & Property Manager at RE/MAX Peak Properties",
+            "url": "linkedin.com/in/aprilknapp",
+            "phone": null,
+            "email": "aprilknapp@live.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "April Knapp",
+            "time": "2017-03-15T19:42:00.000Z",
+            "message": "Congrats on the new job, Brian!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-15T19:46:00.000Z",
+            "message": "Thanks\n"
+        }
+    ]
+}

@@ -1,0 +1,664 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "8 Mutual Connections",
+                "You and Will both know Scott Swigart, Steven Scott, and 6 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Engineering Manager, Foundation",
+                "Company Name",
+                "Stripe",
+                "Dates Employed",
+                "Jun 2016 – Present",
+                "Employment Duration",
+                "1 yr 6 mos",
+                "Location",
+                "SF",
+                "We design, build, and maintain the core infrastructure used by Stripe’s engineering team. Whether it's debugging production issues across services and levels of the stack, planning for Stripe's growth or building a great customer experience for people using our infrastructure.Join us: https://stripe.com/jobs/positions/infrastructure-engineer !"
+            ],
+            [
+                "Senior Engineering Manager, Infrastructure",
+                "Company Name",
+                "Uber",
+                "Dates Employed",
+                "Jun 2014 – Jun 2016",
+                "Employment Duration",
+                "2 yrs 1 mo",
+                "Location",
+                "San Francisco Bay Area",
+                "Led Uber’s Platform Engineering’s people and strategy, growing a small team into a seventy person organization. Our infrastructure ran Uber, and our tools supported Uber’s more than 1,800 engineers.The team’s stability wins transformed Friday nights from terrors to happy hours (resource isolation, capacity planning, alert tuning). Our self-service tooling and automation facilitated the transition from dozens of microservices to over 1,000 (from Puppet/Clusto to Docker/Mesos/Aurora). We migrated from our original datacenter to an international presence.Focused on mentoring managers, hiring, running org-wide efficiency project for engineering costs, while writing and maintaining a few services (Python, Go) to keep the rust away."
+            ],
+            [
+                "VP of Platform Technology",
+                "Company Name",
+                "SocialCode",
+                "Dates Employed",
+                "May 2012 – Apr 2014",
+                "Employment Duration",
+                "2 yrs",
+                "Location",
+                "San Francisco",
+                "(The Digg Engineering team was acquired by SocialCode.)Founded SocialCode’s San Francisco office, and grew the SF engineering team to 14 engineers. We built new products from scratch (AdOptics dashboard for campaign performance; AdVisor tool for Twitter), and took over development of existing products (MessageOptics social media analytics tool).Designed and implemented much of our infrastructure layer, including our data infras- tructure (Kafka, Redshift), continuous deployment (Github, Jenkins, APT), configuration management (Chef), transition to service-oriented architecture (Django, HA- TEOAS), and cross-product user auth(n|z).",
+                "Media (1)",
+                "This position has 1 media",
+                "Building Data Infrastructure at SocialCode",
+                "Building Data Infrastructure at SocialCode",
+                "This media is a video"
+            ],
+            [
+                "Director of Engineering",
+                "Company Name",
+                "Digg",
+                "Dates Employed",
+                "Jan 2011 – May 2012",
+                "Employment Duration",
+                "1 yr 5 mos",
+                "Location",
+                "San Francisco",
+                "Hired and led team of seven infrastructure and UI/UX engineers who were responsible for the entirety of Digg.com, APIs and mobile applications. Contributed code to most features, and was the primary developer on a handful. Worked mostly in Python, PHP and JavaScript.Represented our engineering team and technology assets to potential acquirers, leading to acquisition by the Washington Post Company (now known as Graham Holding)'s SocialCode."
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "Digg",
+                "Dates Employed",
+                "Jun 2010 – Jan 2011",
+                "Employment Duration",
+                "8 mos",
+                "Location",
+                "San Francisco",
+                "Engineering lead and team lead on a range of projects including implementing our sharded Redis cluster, public APIs, MyNews social news feature and overall caching strategy. Worked primarily in Python, using Cassandra, Redis and MySQL."
+            ],
+            [
+                "Technical Yahoo!",
+                "Company Name",
+                "Yahoo!",
+                "Dates Employed",
+                "Sep 2008 – Jun 2010",
+                "Employment Duration",
+                "1 yr 10 mos",
+                "Worked on full engineering stack for Yahoo! BOSS product, ranging from the Erlang workflow manager to PHP web servers to JavaScript and CSS for the UI/UX."
+            ],
+            [
+                "Cofounder",
+                "Company Name",
+                "Monocle Studios LLC",
+                "Dates Employed",
+                "Sep 2008 – Dec 2009",
+                "Employment Duration",
+                "1 yr 4 mos",
+                "Implemented and sold TouchDefense iPhone game on iTunes store."
+            ],
+            [
+                "Assistant Language Teacher",
+                "Company Name",
+                "JET Program",
+                "Dates Employed",
+                "Aug 2007 – Aug 2008",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Prepared and taught English as a Foreign Language at three public schools in rural Japan."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Centre College",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2003 – 2007",
+                "Activities and Societies:",
+                "Phi Beta Kappa"
+            ],
+            [
+                "Centre College",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2003 – 2007",
+                "Activities and Societies:",
+                "Phi Beta Kappa"
+            ],
+            [
+                "Beloit College"
+            ],
+            [
+                "Beloit College"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Stripe",
+                "43,999 followers"
+            ],
+            [
+                "Beloit College",
+                "11,454 followers"
+            ],
+            [
+                "Beloit College",
+                "10,944 followers"
+            ],
+            [
+                "SocialCode",
+                "5,673 followers"
+            ],
+            [
+                "Centre College",
+                "10,507 followers"
+            ],
+            [
+                "Centre College",
+                "8,169 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Stripe",
+                "43,999 followers"
+            ],
+            [
+                "Stripe",
+                "43,999 followers"
+            ],
+            [
+                "Beloit College",
+                "11,454 followers"
+            ],
+            [
+                "Beloit College",
+                "11,454 followers"
+            ],
+            [
+                "Beloit College",
+                "10,944 followers"
+            ],
+            [
+                "Beloit College",
+                "10,944 followers"
+            ],
+            [
+                "SocialCode",
+                "5,673 followers"
+            ],
+            [
+                "SocialCode",
+                "5,673 followers"
+            ],
+            [
+                "Centre College",
+                "10,507 followers"
+            ],
+            [
+                "Centre College",
+                "10,507 followers"
+            ],
+            [
+                "Centre College",
+                "8,169 followers"
+            ],
+            [
+                "Centre College",
+                "8,169 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Amar Nadhir",
+                "Social media producer/Digital news curator @The Washington Post",
+                "March 8, 2012, Will worked with Amar in the same group",
+                "An ambitious and creative director of engineering with great wisdom and deep skills of IT solutions. Hard working, passionate and achievement oriented. Is able to play any role you need in any IT project. One of the smartest and hardest working engineers I've ever worked with. It's a pleasure working with him."
+            ],
+            [
+                "Amar Nadhir",
+                "Social media producer/Digital news curator @The Washington Post",
+                "March 8, 2012, Will worked with Amar in the same group"
+            ],
+            [
+                "Amar Nadhir",
+                "Social media producer/Digital news curator @The Washington Post",
+                "March 8, 2012, Will worked with Amar in the same group"
+            ],
+            [
+                "Amar Nadhir",
+                "Social media producer/Digital news curator @The Washington Post",
+                "March 8, 2012, Will worked with Amar in the same group"
+            ],
+            "Social media producer/Digital news curator @The Washington Post",
+            [
+                "An ambitious and creative director of engineering with great wisdom and deep skills of IT solutions. Hard working, passionate and achievement oriented. Is able to play any role you need in any IT project. One of the smartest and hardest working engineers I've ever worked with. It's a pleasure working with him."
+            ],
+            [
+                "An ambitious and creative director of engineering with great wisdom and deep skills of IT solutions. Hard working, passionate and achievement oriented. Is able to play any role you need in any IT project. One of the smartest and hardest working engineers I've ever worked with. It's a pleasure working with him."
+            ],
+            [
+                "Jonathan Gardner",
+                "Senior Engineer",
+                "February 29, 2012, Will was senior to Jonathan but didn’t manage directly",
+                "When I interviewed with Digg, I wanted to make sure that they had a solid team of engineers with experience and depth. I also wanted to make sure that the lead engineer was able to both \"herd cats\" and maintain a certain degree of humility.Will is the kind of guy I like working around. He's the ideal engineering manager. Not only is he crazy-smart, but his crazy-smart-ness infects the people around him. When you meet with him and talk about ideas, you come away knowing more about the problems you are working on than you started with, and you have a better grasp of which tools will be the right solution for the problem. Of course, he doesn't know everything, but he knows enough about how to solve problems that he can help you solve your own problems.Will is also a great manager. He knows how to motivate by virtue of his personality. He knows what makes an engineer tick, and he knows when the team is down and has his thumb on what needs to be done to fix it. I know that Will is on our side, and he is carefully listening to our input and advice when he meets with the leadership of the company, and that whatever decisions they come to will be based on accurate information.I can honestly say that Will is the embodiment of the Digg engineering team. I just can't imagine Digg without Will."
+            ],
+            [
+                "Jonathan Gardner",
+                "Senior Engineer",
+                "February 29, 2012, Will was senior to Jonathan but didn’t manage directly"
+            ],
+            [
+                "Jonathan Gardner",
+                "Senior Engineer",
+                "February 29, 2012, Will was senior to Jonathan but didn’t manage directly"
+            ],
+            [
+                "Jonathan Gardner",
+                "Senior Engineer",
+                "February 29, 2012, Will was senior to Jonathan but didn’t manage directly"
+            ],
+            "Senior Engineer",
+            [
+                "When I interviewed with Digg, I wanted to make sure that they had a solid team of engineers with experience and depth. I also wanted to make sure that the lead engineer was able to both \"herd cats\" and maintain a certain degree of humility.Will is the kind of guy I like working around. He's the ideal engineering manager. Not only is he crazy-smart, but his crazy-smart-ness infects the people around him. When you meet with him and talk about ideas, you come away knowing more about the problems you are working on than you started with, and you have a better grasp of which tools will be the right solution for the problem. Of course, he doesn't know everything, but he knows enough about how to solve problems that he can help you solve your own problems.Will is also a great manager. He knows how to motivate by virtue of his personality. He knows what makes an engineer tick, and he knows when the team is down and has his thumb on what needs to be done to fix it. I know that Will is on our side, and he is carefully listening to our input and advice when he meets with the leadership of the company, and that whatever decisions they come to will be based on accurate information.I can honestly say that Will is the embodiment of the Digg engineering team. I just can't imagine Digg without Will."
+            ],
+            [
+                "When I interviewed with Digg, I wanted to make sure that they had a solid team of engineers with experience and depth. I also wanted to make sure that the lead engineer was able to both \"herd cats\" and maintain a certain degree of humility.Will is the kind of guy I like working around. He's the ideal engineering manager. Not only is he crazy-smart, but his crazy-smart-ness infects the people around him. When you meet with him and talk about ideas, you come away knowing more about the problems you are working on than you started with, and you have a better grasp of which tools will be the right solution for the problem. Of course, he doesn't know everything, but he knows enough about how to solve problems that he can help you solve your own problems.Will is also a great manager. He knows how to motivate by virtue of his personality. He knows what makes an engineer tick, and he knows when the team is down and has his thumb on what needs to be done to fix it. I know that Will is on our side, and he is carefully listening to our input and advice when he meets with the leadership of the company, and that whatever decisions they come to will be based on accurate information.I can honestly say that Will is the embodiment of the Digg engineering team. I just can't imagine Digg without Will."
+            ],
+            [
+                "Rich Schumacher",
+                "Software Engineer at Curalate",
+                "March 7, 2012, Will was senior to Rich but didn’t manage directly",
+                "Rich has an uncanny sense for how to find a simple solution to complex technical problems. One of my favorite projects I've worked on at Digg is building a redundant sharded Redis cluster, and Rich turned building that complex system into a tractable and straightforward project. Rich has since moved on to leading the technical side of our Ads platform, but I still go to him frequently to run ideas past him, and for his insight when hard problems have me stumped."
+            ],
+            [
+                "Rich Schumacher",
+                "Software Engineer at Curalate",
+                "March 7, 2012, Will was senior to Rich but didn’t manage directly"
+            ],
+            [
+                "Rich Schumacher",
+                "Software Engineer at Curalate",
+                "March 7, 2012, Will was senior to Rich but didn’t manage directly"
+            ],
+            [
+                "Rich Schumacher",
+                "Software Engineer at Curalate",
+                "March 7, 2012, Will was senior to Rich but didn’t manage directly"
+            ],
+            "Software Engineer at Curalate",
+            [
+                "Rich has an uncanny sense for how to find a simple solution to complex technical problems. One of my favorite projects I've worked on at Digg is building a redundant sharded Redis cluster, and Rich turned building that complex system into a tractable and straightforward project. Rich has since moved on to leading the technical side of our Ads platform, but I still go to him frequently to run ideas past him, and for his insight when hard problems have me stumped."
+            ],
+            [
+                "Rich has an uncanny sense for how to find a simple solution to complex technical problems. One of my favorite projects I've worked on at Digg is building a redundant sharded Redis cluster, and Rich turned building that complex system into a tractable and straightforward project. Rich has since moved on to leading the technical side of our Ads platform, but I still go to him frequently to run ideas past him, and for his insight when hard problems have me stumped."
+            ],
+            [
+                "Amar Nadhir",
+                "Social media producer/Digital news curator @The Washington Post",
+                "March 7, 2012, Will was senior to Amar but didn’t manage directly",
+                "Amar is a passionate advocate for Digg's user experience and the users experiencing it. For each product we come up with, or existing product we tweak, he adds historical context and thoughtful analysis on how we can improve. He's been working in the social media space so long and thought about it so deeply that it's hard to throw any new ideas at him. Getting to work with Amar is one of my favorite parts of working at Digg."
+            ],
+            [
+                "Amar Nadhir",
+                "Social media producer/Digital news curator @The Washington Post",
+                "March 7, 2012, Will was senior to Amar but didn’t manage directly"
+            ],
+            [
+                "Amar Nadhir",
+                "Social media producer/Digital news curator @The Washington Post",
+                "March 7, 2012, Will was senior to Amar but didn’t manage directly"
+            ],
+            [
+                "Amar Nadhir",
+                "Social media producer/Digital news curator @The Washington Post",
+                "March 7, 2012, Will was senior to Amar but didn’t manage directly"
+            ],
+            "Social media producer/Digital news curator @The Washington Post",
+            [
+                "Amar is a passionate advocate for Digg's user experience and the users experiencing it. For each product we come up with, or existing product we tweak, he adds historical context and thoughtful analysis on how we can improve. He's been working in the social media space so long and thought about it so deeply that it's hard to throw any new ideas at him. Getting to work with Amar is one of my favorite parts of working at Digg."
+            ],
+            [
+                "Amar is a passionate advocate for Digg's user experience and the users experiencing it. For each product we come up with, or existing product we tweak, he adds historical context and thoughtful analysis on how we can improve. He's been working in the social media space so long and thought about it so deeply that it's hard to throw any new ideas at him. Getting to work with Amar is one of my favorite parts of working at Digg."
+            ]
+        ],
+        "skills": [
+            [
+                "Python",
+                "See 37 endorsements for Python",
+                "37",
+                "Python",
+                "Endorse",
+                "Endorsed by Joshua Gourneau and 10 others who are highly skilled at this",
+                "Endorsed by 10 of Will’s colleagues at Uber"
+            ],
+            [
+                "Python",
+                "See 37 endorsements for Python",
+                "37"
+            ],
+            [
+                "JavaScript",
+                "See 20 endorsements for JavaScript",
+                "20",
+                "JavaScript",
+                "Endorse",
+                "Endorsed by Jeff Wolski and 2 others who are highly skilled at this",
+                "Endorsed by 8 of Will’s colleagues at Uber"
+            ],
+            [
+                "JavaScript",
+                "See 20 endorsements for JavaScript",
+                "20"
+            ],
+            [
+                "PHP",
+                "See 15 endorsements for PHP",
+                "15",
+                "PHP",
+                "Endorse",
+                "Endorsed by 4 of Will’s colleagues at Uber"
+            ],
+            [
+                "PHP",
+                "See 15 endorsements for PHP",
+                "15"
+            ],
+            [
+                "MySQL",
+                "See 12 endorsements for MySQL",
+                "12",
+                "MySQL",
+                "Endorse"
+            ],
+            [
+                "MySQL",
+                "See 12 endorsements for MySQL",
+                "12"
+            ],
+            [
+                "Django",
+                "See 11 endorsements for Django",
+                "11",
+                "Django",
+                "Endorse"
+            ],
+            [
+                "Django",
+                "See 11 endorsements for Django",
+                "11"
+            ],
+            [
+                "System Architecture",
+                "See 10 endorsements for System Architecture",
+                "10",
+                "System Architecture",
+                "Endorse"
+            ],
+            [
+                "System Architecture",
+                "See 10 endorsements for System Architecture",
+                "10"
+            ],
+            [
+                "Redis",
+                "See 8 endorsements for Redis",
+                "8",
+                "Redis",
+                "Endorse"
+            ],
+            [
+                "Redis",
+                "See 8 endorsements for Redis",
+                "8"
+            ],
+            [
+                "Git",
+                "See 8 endorsements for Git",
+                "8",
+                "Git",
+                "Endorse"
+            ],
+            [
+                "Git",
+                "See 8 endorsements for Git",
+                "8"
+            ],
+            [
+                "Web Applications",
+                "See 6 endorsements for Web Applications",
+                "6",
+                "Web Applications",
+                "Endorse"
+            ],
+            [
+                "Web Applications",
+                "See 6 endorsements for Web Applications",
+                "6"
+            ],
+            [
+                "Management",
+                "See 6 endorsements for Management",
+                "6",
+                "Management",
+                "Endorse"
+            ],
+            [
+                "Management",
+                "See 6 endorsements for Management",
+                "6"
+            ],
+            [
+                "Scalability",
+                "See 6 endorsements for Scalability",
+                "6",
+                "Scalability",
+                "Endorse"
+            ],
+            [
+                "Scalability",
+                "See 6 endorsements for Scalability",
+                "6"
+            ],
+            [
+                "Distributed Systems",
+                "See 5 endorsements for Distributed Systems",
+                "5",
+                "Distributed Systems",
+                "Endorse"
+            ],
+            [
+                "Distributed Systems",
+                "See 5 endorsements for Distributed Systems",
+                "5"
+            ],
+            [
+                "Leadership",
+                "See 5 endorsements for Leadership",
+                "5",
+                "Leadership",
+                "Endorse"
+            ],
+            [
+                "Leadership",
+                "See 5 endorsements for Leadership",
+                "5"
+            ],
+            [
+                "Cassandra",
+                "See 4 endorsements for Cassandra",
+                "4",
+                "Cassandra",
+                "Endorse"
+            ],
+            [
+                "Cassandra",
+                "See 4 endorsements for Cassandra",
+                "4"
+            ],
+            [
+                "Memcached",
+                "See 4 endorsements for Memcached",
+                "4",
+                "Memcached",
+                "Endorse"
+            ],
+            [
+                "Memcached",
+                "See 4 endorsements for Memcached",
+                "4"
+            ],
+            [
+                "jQuery",
+                "See 4 endorsements for jQuery",
+                "4",
+                "jQuery",
+                "Endorse"
+            ],
+            [
+                "jQuery",
+                "See 4 endorsements for jQuery",
+                "4"
+            ],
+            [
+                "Technical Staff Management",
+                "See 4 endorsements for Technical Staff Management",
+                "4",
+                "Technical Staff Management",
+                "Endorse"
+            ],
+            [
+                "Technical Staff Management",
+                "See 4 endorsements for Technical Staff Management",
+                "4"
+            ],
+            [
+                "Ruby",
+                "See 3 endorsements for Ruby",
+                "3",
+                "Ruby",
+                "Endorse"
+            ],
+            [
+                "Ruby",
+                "See 3 endorsements for Ruby",
+                "3"
+            ],
+            [
+                "Open Source",
+                "See 2 endorsements for Open Source",
+                "2",
+                "Open Source",
+                "Endorse"
+            ],
+            [
+                "Open Source",
+                "See 2 endorsements for Open Source",
+                "2"
+            ],
+            [
+                "Databases",
+                "See 2 endorsements for Databases",
+                "2",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 2 endorsements for Databases",
+                "2"
+            ],
+            [
+                "Apache",
+                "See 2 endorsements for Apache",
+                "2",
+                "Apache",
+                "Endorse"
+            ],
+            [
+                "Apache",
+                "See 2 endorsements for Apache",
+                "2"
+            ],
+            [
+                "Tornado",
+                "See 1 endorsement for Tornado",
+                "1",
+                "Tornado",
+                "Endorse"
+            ],
+            [
+                "Tornado",
+                "See 1 endorsement for Tornado",
+                "1"
+            ],
+            [
+                "HTML 5",
+                "See 1 endorsement for HTML 5",
+                "1",
+                "HTML 5",
+                "Endorse"
+            ],
+            [
+                "HTML 5",
+                "See 1 endorsement for HTML 5",
+                "1"
+            ],
+            [
+                "Continuous Integration",
+                "See 1 endorsement for Continuous Integration",
+                "1",
+                "Continuous Integration",
+                "Endorse"
+            ],
+            [
+                "Continuous Integration",
+                "See 1 endorsement for Continuous Integration",
+                "1"
+            ],
+            [
+                "Amazon Web Services (AWS)",
+                "See 1 endorsement for Amazon Web Services (AWS)",
+                "1",
+                "Amazon Web Services (AWS)",
+                "Endorse"
+            ],
+            [
+                "Amazon Web Services (AWS)",
+                "See 1 endorsement for Amazon Web Services (AWS)",
+                "1"
+            ]
+        ],
+        "summary": "  Engineering leader with experience building both infrastructure and products.\n  \n  \n",
+        "name": "Will Larson",
+        "title": "Engineering Manager, Foundation",
+        "url": "linkedin.com/in/will-larson-a44b543",
+        "phone": "",
+        "email": "lethain@gmail.com"
+    }
+]

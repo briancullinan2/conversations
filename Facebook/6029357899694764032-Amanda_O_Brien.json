@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6029357899694764032/",
+    "participants": [
+        {
+            "name": "Amanda O'Brien",
+            "title": "Corporate Recruiter at OTG Management",
+            "url": "linkedin.com/in/theobriengroup",
+            "phone": null,
+            "email": "amanda.obrien@otgmanagement.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Amanda O'Brien",
+            "message": "Networking in Phoenix\naobrien@judge.com",
+            "time": "2015-07-21T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-10-06T04:56:00.000Z"
+        },
+        {
+            "from": "Amanda O'Brien",
+            "message": "aobrien@judge.com\n<mailto:\naobrien@judge.com\nwww.judge.com<http://www.judge.com/>\nJudge.com\n<\nhttp://www.judge.com/>\nhit-reply@linkedin.com\nhttps://www.linkedin.com/e/v2?e=2aej5z-ich5oo3u-70&t=nmp&midToken=AQEvM4YnaaF2QA&ek=inmail_accepted>",
+            "time": "2017-10-06T13:31:00.000Z"
+        }
+    ]
+}

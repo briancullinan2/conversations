@@ -1,0 +1,455 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "9 Mutual Connections",
+                "You and Chris both know John Fanning, Dr. Ernie Prabhakar, and 7 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Director of Engineering, TensorFlow Developer Experience",
+                "Company Name",
+                "Google",
+                "Dates Employed",
+                "Aug 2017 – Present",
+                "Employment Duration",
+                "3 mos",
+                "TensorFlow is one of the most advanced machine learning frameworks.  I'll be contributing to make it even more accessible, broadening the reach of AI and ML to more engineers worldwide."
+            ],
+            [
+                "Founder, Architect, Engineer and BDFL",
+                "Company Name",
+                "LLVM Organization",
+                "Dates Employed",
+                "Dec 2000 – Present",
+                "Employment Duration",
+                "16 yrs 11 mos",
+                "Location",
+                "UIUC and Apple",
+                "I created the LLVM project, drove it to its initial 1.0 release in 2003, and have managed it as it has expanded in scope to include over a dozen sub projects (including clang, LLDB, compiler_rt, lld, an OpenMP runtime, etc).  While the LLVM project has grown far beyond my own contributions, I am still the single most significant contributor by an order of magnitude: https://www.ohloh.net/p/llvm/contributors?query=&sort=commits"
+            ],
+            [
+                "VP Autopilot Software",
+                "Company Name",
+                "Tesla",
+                "Dates Employed",
+                "Jan 2017 – Jun 2017",
+                "Employment Duration",
+                "6 mos",
+                "During my time leading the Autopilot Software team, we brought Autopilot for HW2 cars from a very early initial release to effective parity with HW1.  This involved replacing a mature platform based on MobileEye technology with a completely in-house new design."
+            ],
+            [
+                "Senior Director, Developer Tools Department",
+                "Company Name",
+                "Apple",
+                "Dates Employed",
+                "Sep 2011 – Jan 2017",
+                "Employment Duration",
+                "5 yrs 5 mos",
+                "Location",
+                "Cupertino, CA",
+                "I led the developer tools department at Apple (~200 people) which was responsible for Swift, Xcode, Swift Playgrounds, Instruments, CPU and GPU compilers, low-level tools, and other miscellanea. These tools are used pervasively both within Apple, but also by 3rd party developers targeting iOS, macOS, watchOS, and tvOS."
+            ],
+            [
+                "Creator, architect and engineer",
+                "Company Name",
+                "Clang C, C++, and Objective-C Compiler Frontend",
+                "Dates Employed",
+                "Jun 2007 – Jun 2012",
+                "Employment Duration",
+                "5 yrs 1 mo",
+                "Location",
+                "Apple",
+                "I created the Clang compiler frontend as an \"evenings and weekends\" project while working as an engineer at Apple.  I proved its potential by building out the preprocessor and much of the compiler parser, successfully \"sold\" it internally within Apple, drove it to a 1.0 release as a C and Objective-C compiler in Xcode, enabled its use as the foundation for OpenCL, and oversaw its maturation into a full fledged C++ compiler.  I am personally responsible for the design of many of its subsystems, but have since handed it off to more capable hands.  Though I do not contribute to it frequently any more, I remain one of its most significant contributors: https://www.ohloh.net/p/clang/contributors?query=&sort=commits"
+            ],
+            [
+                "Senior Manager and Architect, Low Level Tools",
+                "Company Name",
+                "Apple",
+                "Dates Employed",
+                "Sep 2009 – Sep 2011",
+                "Employment Duration",
+                "2 yrs 1 mo",
+                "Location",
+                "Cupertino, CA"
+            ],
+            [
+                "Manager of Compilers and Low-Level Tools, Compiler Architect",
+                "Company Name",
+                "Apple",
+                "Dates Employed",
+                "Jul 2008 – Sep 2009",
+                "Employment Duration",
+                "1 yr 3 mos"
+            ],
+            [
+                "LLVM Compiler Group Manager and Compiler Architect",
+                "Company Name",
+                "Apple",
+                "Dates Employed",
+                "Dec 2006 – Jul 2008",
+                "Employment Duration",
+                "1 yr 8 mos"
+            ],
+            [
+                "Senior Compiler Engineer and Tech Lead",
+                "Company Name",
+                "Apple",
+                "Dates Employed",
+                "Jun 2005 – Dec 2006",
+                "Employment Duration",
+                "1 yr 7 mos"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of Illinois at Urbana-Champaign",
+                "Degree Name",
+                "Doctor of Philosophy (Ph.D.)",
+                "Field Of Study",
+                "Computer Science",
+                "Grade",
+                "GPA: 4.0",
+                "Dates attended or expected graduation",
+                "2000 – 2005",
+                "I completed my MS in 2002, and Ph.D. in 2005.  My masters thesis was titled \"LLVM: An Infrastructure for Multi-Stage Optimization\", and my Ph.D. thesis was titled \"Macroscopic Data Structure Analysis and Optimization\".  Both are available on my personal web page.",
+                "Media (1)",
+                "This position has 1 media",
+                "Macroscopic Data Structure Analysis and Optimization",
+                "Macroscopic Data Structure Analysis and Optimization",
+                "This media is a link"
+            ],
+            [
+                "University of Illinois at Urbana-Champaign",
+                "Degree Name",
+                "Doctor of Philosophy (Ph.D.)",
+                "Field Of Study",
+                "Computer Science",
+                "Grade",
+                "GPA: 4.0",
+                "Dates attended or expected graduation",
+                "2000 – 2005",
+                "I completed my MS in 2002, and Ph.D. in 2005.  My masters thesis was titled \"LLVM: An Infrastructure for Multi-Stage Optimization\", and my Ph.D. thesis was titled \"Macroscopic Data Structure Analysis and Optimization\".  Both are available on my personal web page.",
+                "Media (1)",
+                "This position has 1 media",
+                "Macroscopic Data Structure Analysis and Optimization",
+                "Macroscopic Data Structure Analysis and Optimization",
+                "This media is a link"
+            ],
+            [
+                "University of Portland",
+                "Degree Name",
+                "Bachelor's degree",
+                "Field Of Study",
+                "Computer Science",
+                "Grade",
+                "GPA: 3.9",
+                "Dates attended or expected graduation",
+                "1996 – 2000"
+            ],
+            [
+                "University of Portland",
+                "Degree Name",
+                "Bachelor's degree",
+                "Field Of Study",
+                "Computer Science",
+                "Grade",
+                "GPA: 3.9",
+                "Dates attended or expected graduation",
+                "1996 – 2000"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "LLVM Users and Developers",
+                "2,498 members"
+            ],
+            [
+                "Google",
+                "5,360,606 followers"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "LLVM Users and Developers",
+                "2,498 members"
+            ],
+            [
+                "LLVM Users and Developers",
+                "2,498 members"
+            ],
+            [
+                "Google",
+                "5,360,606 followers"
+            ],
+            [
+                "Google",
+                "5,360,606 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Objective-C",
+                "See 126 endorsements for Objective-C",
+                "99+",
+                "Objective-C",
+                "Endorse",
+                "Endorsed by Ted Kremenek and 12 others who are highly skilled at this",
+                "Endorsed by Alex Horovitz (mutual connection)"
+            ],
+            [
+                "Objective-C",
+                "See 126 endorsements for Objective-C",
+                "99+"
+            ],
+            [
+                "C",
+                "See 119 endorsements for C",
+                "99+",
+                "C",
+                "Endorse",
+                "Endorsed by Bertrand Serlet and 6 others who are highly skilled at this",
+                "Endorsed by Dr. Ernie Prabhakar (mutual connection)"
+            ],
+            [
+                "C",
+                "See 119 endorsements for C",
+                "99+"
+            ],
+            [
+                "C++",
+                "See 116 endorsements for C++",
+                "99+",
+                "C++",
+                "Endorse",
+                "Endorsed by Ted Kremenek and 12 others who are highly skilled at this",
+                "Endorsed by 3 of Chris’ colleagues at Google"
+            ],
+            [
+                "C++",
+                "See 116 endorsements for C++",
+                "99+"
+            ],
+            [
+                "Compilers",
+                "See 105 endorsements for Compilers",
+                "99+",
+                "Compilers",
+                "Endorse"
+            ],
+            [
+                "Compilers",
+                "See 105 endorsements for Compilers",
+                "99+"
+            ],
+            [
+                "iOS",
+                "See 91 endorsements for iOS",
+                "91",
+                "iOS",
+                "Endorse"
+            ],
+            [
+                "iOS",
+                "See 91 endorsements for iOS",
+                "91"
+            ],
+            [
+                "Xcode",
+                "See 87 endorsements for Xcode",
+                "87",
+                "Xcode",
+                "Endorse"
+            ],
+            [
+                "Xcode",
+                "See 87 endorsements for Xcode",
+                "87"
+            ],
+            [
+                "OS X",
+                "See 64 endorsements for OS X",
+                "64",
+                "OS X",
+                "Endorse"
+            ],
+            [
+                "OS X",
+                "See 64 endorsements for OS X",
+                "64"
+            ],
+            [
+                "Software Engineering",
+                "See 62 endorsements for Software Engineering",
+                "62",
+                "Software Engineering",
+                "Endorse"
+            ],
+            [
+                "Software Engineering",
+                "See 62 endorsements for Software Engineering",
+                "62"
+            ],
+            [
+                "Software Development",
+                "See 59 endorsements for Software Development",
+                "59",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development",
+                "See 59 endorsements for Software Development",
+                "59"
+            ],
+            [
+                "Programming",
+                "See 56 endorsements for Programming",
+                "56",
+                "Programming",
+                "Endorse"
+            ],
+            [
+                "Programming",
+                "See 56 endorsements for Programming",
+                "56"
+            ],
+            [
+                "LLVM",
+                "See 51 endorsements for LLVM",
+                "51",
+                "LLVM",
+                "Endorse"
+            ],
+            [
+                "LLVM",
+                "See 51 endorsements for LLVM",
+                "51"
+            ],
+            [
+                "Algorithms",
+                "See 50 endorsements for Algorithms",
+                "50",
+                "Algorithms",
+                "Endorse"
+            ],
+            [
+                "Algorithms",
+                "See 50 endorsements for Algorithms",
+                "50"
+            ],
+            [
+                "Optimization",
+                "See 38 endorsements for Optimization",
+                "38",
+                "Optimization",
+                "Endorse"
+            ],
+            [
+                "Optimization",
+                "See 38 endorsements for Optimization",
+                "38"
+            ],
+            [
+                "Processors",
+                "See 34 endorsements for Processors",
+                "34",
+                "Processors",
+                "Endorse"
+            ],
+            [
+                "Processors",
+                "See 34 endorsements for Processors",
+                "34"
+            ],
+            [
+                "Data Structures",
+                "See 33 endorsements for Data Structures",
+                "33",
+                "Data Structures",
+                "Endorse"
+            ],
+            [
+                "Data Structures",
+                "See 33 endorsements for Data Structures",
+                "33"
+            ],
+            [
+                "C++ Language",
+                "See 31 endorsements for C++ Language",
+                "31",
+                "C++ Language",
+                "Endorse"
+            ],
+            [
+                "C++ Language",
+                "See 31 endorsements for C++ Language",
+                "31"
+            ],
+            [
+                "Debugging",
+                "See 27 endorsements for Debugging",
+                "27",
+                "Debugging",
+                "Endorse"
+            ],
+            [
+                "Debugging",
+                "See 27 endorsements for Debugging",
+                "27"
+            ],
+            [
+                "Cocoa",
+                "See 24 endorsements for Cocoa",
+                "24",
+                "Cocoa",
+                "Endorse"
+            ],
+            [
+                "Cocoa",
+                "See 24 endorsements for Cocoa",
+                "24"
+            ],
+            [
+                "Concurrent Programming",
+                "See 23 endorsements for Concurrent Programming",
+                "23",
+                "Concurrent Programming",
+                "Endorse"
+            ],
+            [
+                "Concurrent Programming",
+                "See 23 endorsements for Concurrent Programming",
+                "23"
+            ]
+        ],
+        "summary": "",
+        "name": "Chris Lattner",
+        "title": "Director of Engineering at Google",
+        "url": "linkedin.com/in/chris-lattner-5664498a",
+        "phone": "",
+        "email": "sabre+linkedin@nondot.org"
+    }
+]

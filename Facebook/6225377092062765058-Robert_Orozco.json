@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6225377092062765058/",
+    "participants": [
+        {
+            "name": "Robert Orozco",
+            "title": "Infrastructure Administrator at Emailage",
+            "url": "linkedin.com/in/robertorozco",
+            "phone": null,
+            "email": "rob@roborozco.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-12T18:26:00.000Z"
+        }
+    ]
+}

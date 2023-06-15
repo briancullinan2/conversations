@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6220240424339062784/",
+    "participants": [
+        {
+            "name": "Dave Farber",
+            "title": "Professor Emeritus at the University of Pennsylvania and adjunct professor at Carnegie Mellon University. Also visiting professor at Stevens Institute of Technology and the University of Delaware",
+            "url": "linkedin.com/in/davefarber",
+            "phone": null,
+            "email": "dave@farber.net"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-29T14:14:00.000Z"
+        }
+    ]
+}

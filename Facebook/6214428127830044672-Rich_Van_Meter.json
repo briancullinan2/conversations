@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6214428127830044672/",
+    "participants": [
+        {
+            "name": "Rich Van Meter",
+            "title": "Senior Director, Customer Care Employee Experience at GoDaddy",
+            "url": "linkedin.com/in/rich-van-meter-a932b738",
+            "phone": null,
+            "email": "richvm@godaddy.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-13T13:18:00.000Z"
+        }
+    ]
+}

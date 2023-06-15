@@ -1,0 +1,64 @@
+{
+    "thread": "/messaging/thread/6196468969411481600/",
+    "participants": [
+        {
+            "name": "Dylan Grayson",
+            "title": "Software engineer at Final Draft",
+            "url": "linkedin.com/in/dylangrayson",
+            "phone": "8055514701 (Mobile)",
+            "email": "dgrayson11@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!  Enjoying NAU?",
+            "time": "2017-10-30T23:55:00.000Z"
+        },
+        {
+            "from": "Dylan Grayson",
+            "message": "I did, I graduated in May",
+            "time": "2017-10-30T00:12:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Oh excellent.  Find a job already?  I am on the hunt.",
+            "time": "2017-10-30T00:12:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Lots to do in Phoenix, I could introduce you to someone if you want?",
+            "time": "2017-10-30T00:12:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Want to endorse spam each other?",
+            "time": "2017-10-30T00:25:00.000Z"
+        },
+        {
+            "from": "Dylan Grayson",
+            "message": "I am expecting an offer from a place called Vsolvit in Ventura, CA. I'm in southern California so I wanted to find one out here.",
+            "time": "2017-10-30T00:26:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Oh SoCo would be nice!  I just had 2 interviews today they went well.  Know any other developers that stuck around AZ?",
+            "time": "2017-10-30T00:26:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I'd love to learn more about GIS.",
+            "time": "2017-10-30T00:29:00.000Z"
+        },
+        {
+            "from": "Dylan Grayson",
+            "message": "My friend Brandon Paree is at GM in Phoenix",
+            "time": "2017-10-30T00:31:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Nice.  I had an interview at Cruise Automation the Google car competitor.  I got to ride in one and pick apart their hardware before Bill Gates.  It was awesome :D",
+            "time": "2017-10-30T00:32:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "8Oct17",
+    "participants": "Brian Cullinan | wizard > Brady Gentile | Our team's mission is to help build a better internet.",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brady Gentile",
+        "url": "linkedin.com/in/bradygentile",
+        "phone": "(480) 735 1133 (Mobile)",
+        "email": "Brady@CloudFlare.com",
+        "title": "Our team's mission is to help build a better internet."
+      }
+    ],
+    "message": "Awesome, thank you for connecting!",
+    "time": "2017-10-08T22:41:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "8Oct17",
+    "participants": "Brian Cullinan | wizard > Tammy Peil | VP, Talent & Technology Solutions at SMCI",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Tammy Peil",
+        "url": "linkedin.com/in/tammy-peil-6083822",
+        "phone": "480-442-7576 (Work)",
+        "email": "tpeil@me.com",
+        "title": "VP, Talent & Technology Solutions at SMCI"
+      }
+    ],
+    "message": "Sorry about that thing 3 years ago. I feel like you misunderstood what I was trying to learn about recruiter company relations. We we learned is more important than what was said. Do you want to have coffee sometime?",
+    "time": "2017-10-08T17:05:00.000Z",
+    "title": "wizard"
+  }
+]

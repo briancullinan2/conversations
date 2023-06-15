@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6228047924371218432/",
+    "participants": [
+        {
+            "name": "Stephan Shere",
+            "title": "Chief Executive Officer and Founder of Exquisite Software",
+            "url": "linkedin.com/in/stephanshere",
+            "phone": "4805793324 (Work)",
+            "email": "sshere1985@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-20T03:18:00.000Z"
+        },
+        {
+            "from": "Stephan Shere",
+            "message": "It's a pleasure to be connected, if I can ever be of any assistance, don't hesitate to reach out.\n",
+            "time": "2018-01-20T03:21:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "What do you think of sosmethod.herokuapp.com?\n",
+            "time": "2018-01-20T15:08:00.000Z"
+        }
+    ]
+}

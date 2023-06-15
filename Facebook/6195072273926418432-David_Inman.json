@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6195072273926418432/",
+    "participants": [
+        {
+            "name": "David Inman",
+            "title": "Business Development Manager",
+            "url": "linkedin.com/in/david-inman-74b97b45",
+            "phone": null,
+            "email": "dinman@culturestaff.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thanks for the connect",
+            "time": "2017-10-05T03:25:00.000Z"
+        },
+        {
+            "from": "David Inman",
+            "message": "dinman@culturestaff.com",
+            "time": "2017-10-05T03:25:00.000Z"
+        },
+        {
+            "from": "David Inman",
+            "message": "dinman@culturestaff.com",
+            "time": "2017-10-05T17:38:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Yeah, definitely!  Here's my latest and greatest resume.  Phone number is 4804660856.  I would love some feedback, too complicated, not convincing enough, too colorful?",
+            "time": "2017-10-05T17:41:00.000Z"
+        }
+    ]
+}

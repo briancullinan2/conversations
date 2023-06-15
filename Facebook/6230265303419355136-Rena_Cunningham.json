@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6230265303419355136/",
+    "participants": [
+        {
+            "name": "Rena Cunningham",
+            "title": "Recruiter at Alaska Airlines",
+            "url": "linkedin.com/in/rena-cunningham-27352b8",
+            "phone": null,
+            "email": null
+        }
+    ],
+    "messages": [
+        {
+            "from": "Rena Cunningham",
+            "message": "Rational Interaction Opportunities: Sr. Dev Ops Engineer\n\nHi Brian,\n\nI'm currently working on a role for our client at Microsoft, that I think you would be a good fit for. I'd love to connect via phone and tell you more about the role and being part of Rational. \n\nIf you're interested, please send me few days/times and best number to reach you on and I'll schedule that in the calendar. \nPlease note that I work in Pacific Time Zone.\n\nYou can also send your resume to: rena@rationalagency.com \n\nLooking forward to hearing back.\n\nBest,\nRena Cunningham\n\nRena Cunningham\nrena.o.cunningham@gmail.com\n",
+            "time": "2018-01-26T12:00:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-26T12:32:00.000Z"
+        }
+    ]
+}

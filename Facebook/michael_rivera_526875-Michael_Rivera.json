@@ -1,0 +1,22 @@
+{
+    "thread": "https://www.facebook.com/messages/archived/t/michael.rivera.526875",
+    "participants": [
+        {
+            "name": "Michael Rivera",
+            "description": "",
+            "url": "https://www.facebook.com/michael.rivera.526875"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Michael",
+            "time": "2005-10-06T06:37:00.000Z",
+            "message": "\nhopefully they dont have the ports closed that are needed to host from a machine. You might have to ask resnet for access....or something like that.....\n\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2005-10-06T06:37:00.000Z",
+            "message": "Brian\nNah, you can change the port on a dedicated server, we could even use 80 if we have to.  Besides the master server is public, I have already got an apache server set up on my computer, and remote desktop even works, there isn't any reason games shouldn't work.\n"
+        }
+    ]
+}

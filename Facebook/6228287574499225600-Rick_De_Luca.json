@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6228287574499225600/",
+    "participants": [
+        {
+            "name": "Rick De Luca",
+            "title": "Realtor, FSR Realty, Real Estate 48 Group",
+            "url": "linkedin.com/in/rickdeluca",
+            "phone": "602-456-5050 (Work)",
+            "email": "rick@realestate48.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-20T19:11:00.000Z"
+        }
+    ]
+}

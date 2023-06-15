@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6217427322941825024/",
+    "participants": [
+        {
+            "name": "Jason Tennant",
+            "title": "Full Stack .NET Web Developer | Instructor | Podcast Host",
+            "url": "linkedin.com/in/jltennant",
+            "phone": null,
+            "email": "jason.tennant@outlook.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thank you for connecting!",
+            "time": "2017-12-21T19:56:00.000Z"
+        }
+    ]
+}

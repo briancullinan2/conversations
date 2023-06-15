@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6289886341169766400/",
+    "participants": [
+        {
+            "name": "Ammon Bartram",
+            "title": "Co-founder at Triplebyte",
+            "url": "linkedin.com/in/ammon-bartram-2aaa6712",
+            "phone": "415.343.5436 (Mobile)",
+            "email": "ammonbartram@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-07-09T18:42:00.000Z",
+            "message": "What is the difference between a function and a method?\n"
+        }
+    ]
+}

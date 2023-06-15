@@ -1,0 +1,27 @@
+{
+    "thread": "https://www.facebook.com/messages/t/barret.ayres",
+    "participants": [
+        {
+            "name": "Barret Ayres",
+            "description": "",
+            "url": "https://www.facebook.com/barret.ayres"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Brian",
+            "time": "2016-10-25T03:01:00.000Z",
+            "message": "Brian\nHow are you?\n"
+        },
+        {
+            "from": "Barret",
+            "time": "2016-10-31T00:21:00.000Z",
+            "message": "\nHey Brian, long time no see. Sorry for the delayed response. I dont use facebook often\n"
+        },
+        {
+            "from": "Brian",
+            "time": "2016-10-31T05:54:00.000Z",
+            "message": "Brian\nMe neither, I am building a social media robot in Node.JS\n\n"
+        }
+    ]
+}

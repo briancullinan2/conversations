@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6213062388523028480/",
+    "participants": [
+        {
+            "name": "Gabriel Mays",
+            "title": "Product Guy, Investor, Entrepreneur",
+            "url": "linkedin.com/in/gabrielmays",
+            "phone": null,
+            "email": "gabriel.mays@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-09T18:51:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "thread": "https://www.facebook.com/messages/t/RogerRohweder",
+    "participants": [
+        {}
+    ],
+    "messages": [
+        {
+            "from": "Brian",
+            "message": "Brian\nDo you use anything for code analysis?\n",
+            "time": "2017-06-25T01:10:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nWhat is the difference between a method and a function?\n",
+            "time": "2017-07-04T04:10:00.000Z"
+        },
+        {
+            "from": "Roger",
+            "message": "\nregarding code analysis, the dev team uses ReSharper as their primary tool (for C#/.NET work).  On the JavaScript side for LibraryAware, they are using one of the linters.\nre: method/function: I don't know - would have to look online (like you probably already did).\n",
+            "time": "2017-07-07T16:40:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nA function has an output, a method has inputs and does something with no return.\n*function has inputs and outputs\nLinters are good, I just got karma-coverage working for typescript, that's why I asked.\n",
+            "time": "2017-07-09T18:40:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\n\nWhat do you think of that subscription page?\n",
+            "time": "2017-07-27T20:19:00.000Z"
+        },
+        {
+            "from": "Roger",
+            "message": "\n1-2-4-3-5-6 ?!?\n",
+            "time": "2017-07-27T20:19:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nToo many steps to checkout, I agree and we've talked about it before.\n",
+            "time": "2017-07-31T18:20:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nWebpack is amazing.  It takes 300MB of javascript libraries and packs everything down in to 100k.\n",
+            "time": "2017-08-01T18:25:00.000Z"
+        },
+        {
+            "from": "Roger",
+            "message": "\nseems impossible!\n",
+            "time": "2017-08-02T01:44:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nIf one of your programmers realized they are out of their league and asked to be demoted to junior developer would you fire them?\n",
+            "time": "2017-10-20T19:13:00.000Z"
+        },
+        {
+            "from": "Roger",
+            "message": "\nWould they take the appropriate pay cut? If not, yes.\n",
+            "time": "2017-10-21T02:03:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nYeah I would take a pay cut.\n",
+            "time": "2017-10-21T14:09:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nQ: Where should a 500 pound alien go?\nA: On a diet\n",
+            "time": "2017-11-12T17:37:00.000Z"
+        },
+        {
+            "from": "Brian",
+            "message": "Brian\nI'm thankful for you!!��\n",
+            "time": "2017-11-23T19:08:00.000Z"
+        },
+        {
+            "from": "Roger",
+            "message": "\nAnd Linda, Steve, Andrew, Chase, Lynne and I (and many others, I am sure) are thankful for you. Happy Thanksgiving.\n\n",
+            "time": "2017-11-23T02:18:00.000Z"
+        }
+    ]
+}

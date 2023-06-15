@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6229273940586483712/",
+    "participants": [
+        {
+            "name": "Gower Smith",
+            "title": "CEO Swyft Inc., leveraging technology to improve lives",
+            "url": "linkedin.com/in/gower-smith-98413",
+            "phone": null,
+            "email": "gower.smith@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-23T12:30:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "27Apr13",
+    "participants": "Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "I am looking for something part time that I could do nights and weekends, or the right offer. My resume is available on my website as well:\nhttp://www.bjcullinan.com/resume",
+    "time": "2013-04-27T07:21:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "27Apr13",
+    "participants": "Brian Cullinan | wizard > Thomas Blackburn | Partner at Lane Alton",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Thomas Blackburn",
+        "url": "linkedin.com/in/thomas-blackburn-629a2211",
+        "phone": "1-614-233-4762 (Work)",
+        "email": "tblackburn@lanealton.com",
+        "title": "Partner at Lane Alton"
+      }
+    ],
+    "message": "That would be nice right? It's hard to predict the future.",
+    "time": "2013-04-27T07:08:00.000Z",
+    "title": "wizard"
+  }
+]

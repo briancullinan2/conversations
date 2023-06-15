@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6242113276726042624/",
+    "participants": [
+        {
+            "name": "E Michael Gray, CSSBB, CCXP",
+            "title": "BUSINESS TRANSFORMATION LEADER | Customer Experience | Innovation Strategy | Quality Discipline",
+            "url": "linkedin.com/in/emichaelgray",
+            "phone": "408-398-5593 (Mobile)",
+            "email": "mgray@alumni.nd.edu"
+        }
+    ],
+    "messages": [
+        {
+            "from": "E Michael Gray, CSSBB, CCXP",
+            "time": "2017-02-27T22:26:00.000Z",
+            "message": "Most creative headline!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-02-27T22:50:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-02-27T22:50:00.000Z",
+            "message": "I must be ahead of my time ;)\n"
+        }
+    ]
+}

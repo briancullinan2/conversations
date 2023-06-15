@@ -1,0 +1,4 @@
+<session type="start" time="1180503545" medium="XFIRE" to="wisemaster" from="wisemaster"/>
+<message type="outgoing_privateMessage" time="1180503546" medium="XFIRE" to="wisemaster" from="wisemaster" from_display="wisemaster" text="hi"/>
+<message type="outgoing_privateMessage" time="1180503546" medium="XFIRE" to="wisemaster" from="wisemaster" from_display="wisemaster" text="hi"/>
+<session type="stop" time="1180503547" medium="XFIRE" to="wisemaster" from="wisemaster"/>

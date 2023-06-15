@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6232234454849515520/",
+    "participants": [
+        {
+            "name": "Brent Bergman",
+            "title": "Identity Management Specialist at Charles Schwab",
+            "url": "linkedin.com/in/brent-bergman-6003171",
+            "phone": null,
+            "email": "brentbergman@comcast.net"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-31T16:34:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6278349767336615936/",
+    "participants": [
+        {
+            "name": "Matthew Bowman",
+            "title": "Software Application Engineer at Charles Schwab",
+            "url": "linkedin.com/in/matthew-bowman-a5a31775",
+            "phone": "",
+            "email": "mbowman6241@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-06-07T22:40:00.000Z",
+            "message": "Is your job challenging?\n"
+        },
+        {
+            "from": "Matthew Bowman",
+            "time": "2017-06-08T02:07:00.000Z",
+            "message": "Some days are harder than others. It keeps me on my toes.\n"
+        }
+    ]
+}

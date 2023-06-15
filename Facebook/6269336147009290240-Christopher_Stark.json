@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6269336147009290240/",
+    "participants": [
+        {
+            "name": "Christopher Stark",
+            "title": "Engineering Publisher Growth - Hiring Rockstar Engineers & Data Scientists",
+            "url": "linkedin.com/in/chrisstark",
+            "phone": "425.761.9752 (Mobile)",
+            "email": "chris.stark@freestar.io"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-05-14T01:43:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Christopher Stark",
+            "time": "2017-05-15T23:06:00.000Z",
+            "message": "Definitely. We're looking to add great engineers to our team if you're ever interested in hearing about new opportunities I'd love to chat.\n"
+        }
+    ]
+}

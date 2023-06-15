@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6223141002752860160/",
+    "participants": [
+        {
+            "name": "Ben Chesley",
+            "title": "Director of Sales at Infusionsoft",
+            "url": "linkedin.com/in/benjaminchesley",
+            "phone": "480-729-2222 (Mobile)",
+            "email": "benjaminjchesley@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-06T14:20:00.000Z"
+        }
+    ]
+}

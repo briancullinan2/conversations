@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6230410363544883200/",
+    "participants": [
+        {
+            "name": "Zachary Rosen",
+            "title": "CEO Pantheon",
+            "url": "linkedin.com/in/zacharyrosen",
+            "phone": null,
+            "email": "zack@getpantheon.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-01-26T15:46:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-16T21:57:00.000Z",
+            "message": "Nice work at Pantheon. I'd love to see what containers look like at scale.\n"
+        },
+        {
+            "from": "Zachary Rosen",
+            "time": "2018-02-17T21:37:00.000Z",
+            "message": "Thanks Brian!\n"
+        }
+    ]
+}

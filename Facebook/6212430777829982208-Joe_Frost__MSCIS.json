@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6212430777829982208/",
+    "participants": [
+        {
+            "name": "Joe Frost, MSCIS",
+            "title": "Director of Technology",
+            "url": "linkedin.com/in/joefrosty",
+            "phone": null,
+            "email": "joe.frost@outlook.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-08T01:06:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "What sort of technology are you directing?\n",
+            "time": "2017-12-08T01:06:00.000Z"
+        }
+    ]
+}

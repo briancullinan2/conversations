@@ -1,0 +1,875 @@
+[
+    {
+        "resourceName": "people/c6149246673825469255",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "555683450d9e9347"
+                    }
+                },
+                "displayName": "Christian McHugh",
+                "familyName": "McHugh",
+                "givenName": "Christian",
+                "displayNameLastFirst": "McHugh, Christian"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "118353600330605350160"
+                    }
+                },
+                "displayName": "Christian McHugh",
+                "familyName": "McHugh",
+                "givenName": "Christian",
+                "displayNameLastFirst": "McHugh, Christian"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "555683450d9e9347"
+                    }
+                },
+                "value": "christian.mchugh@gmail.com",
+                "type": "other",
+                "formattedType": "Other"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "555683450d9e9347"
+                    }
+                },
+                "value": "+1-928-523-5732",
+                "canonicalForm": "+19285235732",
+                "type": "work",
+                "formattedType": "Work"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "555683450d9e9347"
+                    }
+                },
+                "value": "+1-908-867-8842",
+                "canonicalForm": "+19088678842",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "5 Mutual Connections",
+                "You and Christian both know Abe Pralle, Dave Sims, and 3 others"
+            ],
+            [
+                "You both worked at Northern Arizona University",
+                "You both worked at Northern Arizona University from Sep 2007 to May 2009"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "DevOps Leader",
+                "Company Name",
+                "Dun & Bradstreet Ireland and ICC Information",
+                "Dates Employed",
+                "Jul 2016 – Present",
+                "Employment Duration",
+                "1 yr 4 mos",
+                "Location",
+                "Dublin"
+            ],
+            [
+                "Partner",
+                "Company Name",
+                "Waytta LLC",
+                "Dates Employed",
+                "May 2014 – Present",
+                "Employment Duration",
+                "3 yrs 6 mos",
+                "Location",
+                "Denton TX",
+                "Business analysis consultingEvaluated business operations and developed automation workflow improvementsManaged developer and DevOps teamsDeveloped Drupal and Wordpress sites"
+            ],
+            [
+                "DevOps Architect",
+                "Company Name",
+                "Energy Future Holdings",
+                "Dates Employed",
+                "Aug 2015 – Jul 2016",
+                "Employment Duration",
+                "1 yr",
+                "Location",
+                "Dallas/Fort Worth Area",
+                "Responsible for cross-team collaboration and service delivery, creating and furthering a culture of DevOps, IT automation, service improvement, other engineered solutions.",
+                "Media (2)",
+                "This position has 2 media",
+                "Using SaltStack to DevOps the Enterprise",
+                "Using SaltStack to DevOps the Enterprise",
+                "This media is a video",
+                "Using SaltStack to DevOps the enterprise",
+                "Using SaltStack to DevOps the enterprise",
+                "This media is a document"
+            ],
+            [
+                "Team leader of Central Web Services",
+                "Company Name",
+                "UNT System",
+                "Dates Employed",
+                "Oct 2012 – Aug 2015",
+                "Employment Duration",
+                "2 yrs 11 mos",
+                "* Implemented and migrated failing, custom-built user facing ticket tracking system to OTRS to support ITIL workflows, reporting, and increase customer satisfaction* Re-formed Central Web Services into DevOps styled operations* Diagnosed existing system and architectural issues; and developed and deployed better performing, scalable, and maintainable solutions* Implemented system and service monitoring and designed/deployed web, database, and I/O benchmarking* Architected new web hosting infrastructure including KVM VM deployment and saltstack provisioning* Increased web handling capabilities from a few hundred users to auto scaling* Organizational improvements through redefining responsibilities and roles between stakeholders such as marketing, compliance and security* Deployed website management automation workflow using self-service portal, jenkins, saltstack, python scripting* Developed automatic website deployment testing framework* Implemented system-wide SLA monitoring using Zabbix* Enhanced culture through modifications in team makeup and discussion groups* Implemented management policies based on AGILE methodology* Organized enterprise-wide adoption of saltstack configuration management"
+            ],
+            [
+                "IT Manager",
+                "Company Name",
+                "University of North Texas",
+                "Dates Employed",
+                "Aug 2009 – Oct 2012",
+                "Employment Duration",
+                "3 yrs 3 mos",
+                "* Infrastructure manager and team leader* Managed teams and computer systems for over four million dollars in grant research* Lead Linux/Mac systems administrator* Consolidated Linux database services as head DBA* Architected and deployed Puppet Configuration Management* Implemented help desk ticket tracking (OTRS) and associated policies* Consolidated multiple workflows and processes through Continuous Improvement server (Jenkins)* Managed ESX server farm and SAN services* Project manager for Citrix XenApp and thin client deployment* Project manager for server room evaluation and upgrade* Updated policies to improve institutional memory*Modified work flows for increased ITIL compliance"
+            ],
+            [
+                "UNIX Systems Administrator",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Jun 2006 – Aug 2009",
+                "Employment Duration",
+                "3 yrs 3 mos",
+                "* General architect of IT deployment* Lead strategy and strategic planning meetings* Manage client and vendor relations as well as interfacing with central IT department* Participate in university committees for web policy, unified messaging, and other systems* Integrated NIS Domain and PC Net Link systems to unified Active Directory environment* Created web site and template infrastructure resulting in a consistent interface for the college* Implemented service/system monitoring system, saving 15% of administrator time* Migrated and built unified Windows/Unix home directory structure utilizing samba* Administer domain of Windows/Linux/Solaris/OSX* Manage teams of student workers* Deployed load balancing infrastructure, resulting in increased service uptime* Deployed clustered mysql database and migrated disparate systems* Deployed SunRay thin clients* Deployed clustered webwork course system"
+            ],
+            [
+                "UNIX Systems Administrator",
+                "Company Name",
+                "Northern Arizona Healthcare",
+                "Dates Employed",
+                "Jan 2006 – Jun 2006",
+                "Employment Duration",
+                "6 mos",
+                "*Created various AIX and batch scripts automating functionality and monitoring* Created and configured Windows patch services (SUS)* Netware and NDS administration* AIX administration including HACMP* Maintained VERITAS system for disaster recovery/backup solution* Developed on Single Sign On Solution* Configured nagios service/host monitoring system"
+            ],
+            [
+                "Editor",
+                "Company Name",
+                "CNN",
+                "Dates Employed",
+                "2003 – 2003",
+                "Employment Duration",
+                "less than a year"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University, College of Business Administration",
+                "Degree Name",
+                "Master of Business Administration (MBA)",
+                "Dates attended or expected graduation",
+                "2007 – 2009"
+            ],
+            [
+                "Northern Arizona University, College of Business Administration",
+                "Degree Name",
+                "Master of Business Administration (MBA)",
+                "Dates attended or expected graduation",
+                "2007 – 2009"
+            ],
+            [
+                "Methacton"
+            ],
+            [
+                "Methacton"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Linux Users & Open Source Developers",
+                "101,770 members"
+            ],
+            [
+                "Unix Sysadmins",
+                "15,828 members"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "5,916 followers"
+            ],
+            [
+                "Energy Future Holdings",
+                "5,721 followers"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "6,263 followers"
+            ],
+            [
+                "See connections (385)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Linux Users & Open Source Developers",
+                "101,770 members"
+            ],
+            [
+                "Linux Users & Open Source Developers",
+                "101,770 members"
+            ],
+            [
+                "Unix Sysadmins",
+                "15,828 members"
+            ],
+            [
+                "Unix Sysadmins",
+                "15,828 members"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "5,916 followers"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "5,916 followers"
+            ],
+            [
+                "Energy Future Holdings",
+                "5,721 followers"
+            ],
+            [
+                "Energy Future Holdings",
+                "5,721 followers"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "6,263 followers"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "6,263 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Linux",
+                "See 31 endorsements for Linux",
+                "31",
+                "Linux",
+                "Remove Endorsement",
+                "Endorsed by Harry McGregor and 1 other who is highly skilled at this",
+                "Endorsed by 20 of Christian’s colleagues at University of North Texas"
+            ],
+            [
+                "Linux",
+                "See 31 endorsements for Linux",
+                "31"
+            ],
+            [
+                "Unix",
+                "See 21 endorsements for Unix",
+                "21",
+                "Unix",
+                "Endorse",
+                "Endorsed by Harry McGregor, who is highly skilled at this",
+                "Endorsed by 13 of Christian’s colleagues at University of North Texas"
+            ],
+            [
+                "Unix",
+                "See 21 endorsements for Unix",
+                "21"
+            ],
+            [
+                "VMware ESX",
+                "See 21 endorsements for VMware ESX",
+                "21",
+                "VMware ESX",
+                "Endorse",
+                "Endorsed by 13 of Christian’s colleagues at University of North Texas"
+            ],
+            [
+                "VMware ESX",
+                "See 21 endorsements for VMware ESX",
+                "21"
+            ],
+            [
+                "Active Directory",
+                "See 17 endorsements for Active Directory",
+                "17",
+                "Active Directory",
+                "Endorse"
+            ],
+            [
+                "Active Directory",
+                "See 17 endorsements for Active Directory",
+                "17"
+            ],
+            [
+                "Jenkins",
+                "See 1 endorsement for Jenkins",
+                "1",
+                "Jenkins",
+                "Endorse"
+            ],
+            [
+                "Jenkins",
+                "See 1 endorsement for Jenkins",
+                "1"
+            ],
+            [
+                "MySQL",
+                "See 15 endorsements for MySQL",
+                "15",
+                "MySQL",
+                "Remove Endorsement"
+            ],
+            [
+                "MySQL",
+                "See 15 endorsements for MySQL",
+                "15"
+            ],
+            [
+                "Zabbix",
+                "See 1 endorsement for Zabbix",
+                "1",
+                "Zabbix",
+                "Endorse"
+            ],
+            [
+                "Zabbix",
+                "See 1 endorsement for Zabbix",
+                "1"
+            ],
+            [
+                "Nagios",
+                "See 11 endorsements for Nagios",
+                "11",
+                "Nagios",
+                "Endorse"
+            ],
+            [
+                "Nagios",
+                "See 11 endorsements for Nagios",
+                "11"
+            ],
+            [
+                "Puppet",
+                "See 9 endorsements for Puppet",
+                "9",
+                "Puppet",
+                "Endorse"
+            ],
+            [
+                "Puppet",
+                "See 9 endorsements for Puppet",
+                "9"
+            ],
+            [
+                "Apache",
+                "See 9 endorsements for Apache",
+                "9",
+                "Apache",
+                "Endorse"
+            ],
+            [
+                "Apache",
+                "See 9 endorsements for Apache",
+                "9"
+            ],
+            [
+                "Debian",
+                "See 7 endorsements for Debian",
+                "7",
+                "Debian",
+                "Endorse"
+            ],
+            [
+                "Debian",
+                "See 7 endorsements for Debian",
+                "7"
+            ],
+            [
+                "Bash",
+                "See 7 endorsements for Bash",
+                "7",
+                "Bash",
+                "Endorse"
+            ],
+            [
+                "Bash",
+                "See 7 endorsements for Bash",
+                "7"
+            ],
+            [
+                "DNS",
+                "See 7 endorsements for DNS",
+                "7",
+                "DNS",
+                "Endorse"
+            ],
+            [
+                "DNS",
+                "See 7 endorsements for DNS",
+                "7"
+            ],
+            [
+                "System Deployment",
+                "See 6 endorsements for System Deployment",
+                "6",
+                "System Deployment",
+                "Endorse"
+            ],
+            [
+                "System Deployment",
+                "See 6 endorsements for System Deployment",
+                "6"
+            ],
+            [
+                "SALT",
+                "SALT",
+                "Endorse"
+            ],
+            [
+                "SALT"
+            ],
+            [
+                "Samba",
+                "See 5 endorsements for Samba",
+                "5",
+                "Samba",
+                "Endorse"
+            ],
+            [
+                "Samba",
+                "See 5 endorsements for Samba",
+                "5"
+            ],
+            [
+                "AIX",
+                "See 5 endorsements for AIX",
+                "5",
+                "AIX",
+                "Endorse"
+            ],
+            [
+                "AIX",
+                "See 5 endorsements for AIX",
+                "5"
+            ],
+            [
+                "Help Desk Support",
+                "See 5 endorsements for Help Desk Support",
+                "5",
+                "Help Desk Support",
+                "Endorse"
+            ],
+            [
+                "Help Desk Support",
+                "See 5 endorsements for Help Desk Support",
+                "5"
+            ],
+            [
+                "Databases",
+                "See 12 endorsements for Databases",
+                "12",
+                "Databases",
+                "Remove Endorsement"
+            ],
+            [
+                "Databases",
+                "See 12 endorsements for Databases",
+                "12"
+            ],
+            [
+                "PostgreSQL",
+                "See 4 endorsements for PostgreSQL",
+                "4",
+                "PostgreSQL",
+                "Endorse"
+            ],
+            [
+                "PostgreSQL",
+                "See 4 endorsements for PostgreSQL",
+                "4"
+            ],
+            [
+                "OTRS",
+                "See 4 endorsements for OTRS",
+                "4",
+                "OTRS",
+                "Endorse"
+            ],
+            [
+                "OTRS",
+                "See 4 endorsements for OTRS",
+                "4"
+            ],
+            [
+                "Load Balancing",
+                "See 3 endorsements for Load Balancing",
+                "3",
+                "Load Balancing",
+                "Endorse"
+            ],
+            [
+                "Load Balancing",
+                "See 3 endorsements for Load Balancing",
+                "3"
+            ],
+            [
+                "Linux System Administration",
+                "See 3 endorsements for Linux System Administration",
+                "3",
+                "Linux System Administration",
+                "Endorse"
+            ],
+            [
+                "Linux System Administration",
+                "See 3 endorsements for Linux System Administration",
+                "3"
+            ],
+            [
+                "OS X",
+                "See 3 endorsements for OS X",
+                "3",
+                "OS X",
+                "Endorse"
+            ],
+            [
+                "OS X",
+                "See 3 endorsements for OS X",
+                "3"
+            ],
+            [
+                "IBM AIX",
+                "See 3 endorsements for IBM AIX",
+                "3",
+                "IBM AIX",
+                "Endorse"
+            ],
+            [
+                "IBM AIX",
+                "See 3 endorsements for IBM AIX",
+                "3"
+            ],
+            [
+                "Windows",
+                "See 3 endorsements for Windows",
+                "3",
+                "Windows",
+                "Endorse"
+            ],
+            [
+                "Windows",
+                "See 3 endorsements for Windows",
+                "3"
+            ],
+            [
+                "Solaris",
+                "See 2 endorsements for Solaris",
+                "2",
+                "Solaris",
+                "Endorse"
+            ],
+            [
+                "Solaris",
+                "See 2 endorsements for Solaris",
+                "2"
+            ],
+            [
+                "Citrix",
+                "See 2 endorsements for Citrix",
+                "2",
+                "Citrix",
+                "Endorse"
+            ],
+            [
+                "Citrix",
+                "See 2 endorsements for Citrix",
+                "2"
+            ],
+            [
+                "KDE",
+                "See 2 endorsements for KDE",
+                "2",
+                "KDE",
+                "Endorse"
+            ],
+            [
+                "KDE",
+                "See 2 endorsements for KDE",
+                "2"
+            ],
+            [
+                "Zenoss",
+                "See 2 endorsements for Zenoss",
+                "2",
+                "Zenoss",
+                "Endorse"
+            ],
+            [
+                "Zenoss",
+                "See 2 endorsements for Zenoss",
+                "2"
+            ],
+            [
+                "Google Apps",
+                "See 2 endorsements for Google Apps",
+                "2",
+                "Google Apps",
+                "Endorse"
+            ],
+            [
+                "Google Apps",
+                "See 2 endorsements for Google Apps",
+                "2"
+            ],
+            [
+                "SAN",
+                "See 4 endorsements for SAN",
+                "4",
+                "SAN",
+                "Endorse"
+            ],
+            [
+                "SAN",
+                "See 4 endorsements for SAN",
+                "4"
+            ],
+            [
+                "Debian/Ubuntu",
+                "See 1 endorsement for Debian/Ubuntu",
+                "1",
+                "Debian/Ubuntu",
+                "Endorse"
+            ],
+            [
+                "Debian/Ubuntu",
+                "See 1 endorsement for Debian/Ubuntu",
+                "1"
+            ],
+            [
+                "Sunray thin clients",
+                "See 1 endorsement for Sunray thin clients",
+                "1",
+                "Sunray thin clients",
+                "Endorse"
+            ],
+            [
+                "Sunray thin clients",
+                "See 1 endorsement for Sunray thin clients",
+                "1"
+            ],
+            [
+                "HACMP",
+                "See 1 endorsement for HACMP",
+                "1",
+                "HACMP",
+                "Endorse"
+            ],
+            [
+                "HACMP",
+                "See 1 endorsement for HACMP",
+                "1"
+            ],
+            [
+                "Veritas Net Backup",
+                "See 1 endorsement for Veritas Net Backup",
+                "1",
+                "Veritas Net Backup",
+                "Endorse"
+            ],
+            [
+                "Veritas Net Backup",
+                "See 1 endorsement for Veritas Net Backup",
+                "1"
+            ],
+            [
+                "Tomcat",
+                "See 1 endorsement for Tomcat",
+                "1",
+                "Tomcat",
+                "Endorse"
+            ],
+            [
+                "Tomcat",
+                "See 1 endorsement for Tomcat",
+                "1"
+            ],
+            [
+                "ActiveMQ",
+                "See 1 endorsement for ActiveMQ",
+                "1",
+                "ActiveMQ",
+                "Endorse"
+            ],
+            [
+                "ActiveMQ",
+                "See 1 endorsement for ActiveMQ",
+                "1"
+            ],
+            [
+                "Netbackup",
+                "See 1 endorsement for Netbackup",
+                "1",
+                "Netbackup",
+                "Endorse"
+            ],
+            [
+                "Netbackup",
+                "See 1 endorsement for Netbackup",
+                "1"
+            ],
+            [
+                "SunRay",
+                "See 1 endorsement for SunRay",
+                "1",
+                "SunRay",
+                "Endorse"
+            ],
+            [
+                "SunRay",
+                "See 1 endorsement for SunRay",
+                "1"
+            ],
+            [
+                "WebWorks",
+                "See 1 endorsement for WebWorks",
+                "1",
+                "WebWorks",
+                "Endorse"
+            ],
+            [
+                "WebWorks",
+                "See 1 endorsement for WebWorks",
+                "1"
+            ],
+            [
+                "Thin",
+                "See 1 endorsement for Thin",
+                "1",
+                "Thin",
+                "Endorse"
+            ],
+            [
+                "Thin",
+                "See 1 endorsement for Thin",
+                "1"
+            ],
+            [
+                "System Administration",
+                "See 3 endorsements for System Administration",
+                "3",
+                "System Administration",
+                "Endorse"
+            ],
+            [
+                "System Administration",
+                "See 3 endorsements for System Administration",
+                "3"
+            ],
+            [
+                "ITIL",
+                "See 4 endorsements for ITIL",
+                "4",
+                "ITIL",
+                "Endorse"
+            ],
+            [
+                "ITIL",
+                "See 4 endorsements for ITIL",
+                "4"
+            ],
+            [
+                "Management",
+                "See 4 endorsements for Management",
+                "4",
+                "Management",
+                "Endorse"
+            ],
+            [
+                "Management",
+                "See 4 endorsements for Management",
+                "4"
+            ],
+            [
+                "Business Process Improvement",
+                "Business Process Improvement",
+                "Endorse"
+            ],
+            [
+                "Business Process Improvement"
+            ],
+            [
+                "Culture Change",
+                "Culture Change",
+                "Endorse"
+            ],
+            [
+                "Culture Change"
+            ],
+            [
+                "Citrix XenApp",
+                "Citrix XenApp",
+                "Endorse"
+            ],
+            [
+                "Citrix XenApp"
+            ],
+            [
+                "Citrix XenDesktop",
+                "Citrix XenDesktop",
+                "Endorse"
+            ],
+            [
+                "Citrix XenDesktop"
+            ],
+            [
+                "KVM",
+                "KVM",
+                "Endorse"
+            ],
+            [
+                "KVM"
+            ]
+        ],
+        "summary": "",
+        "name": "Christian McHugh",
+        "title": "DevOps Leader at D&B",
+        "url": "linkedin.com/in/christian-mchugh-a9a79949",
+        "phone": null,
+        "email": "mchugh19@yahoo.com"
+    }
+]

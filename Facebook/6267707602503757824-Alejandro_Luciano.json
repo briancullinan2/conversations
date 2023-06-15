@@ -1,0 +1,34 @@
+{
+    "thread": "/messaging/thread/6267707602503757824/",
+    "participants": [
+        {
+            "name": "Alejandro Luciano",
+            "title": "National Java Recruiter at TEKsystems",
+            "url": "linkedin.com/in/alejandro-luciano-b4741576",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Alejandro Luciano",
+            "time": "2017-05-09T12:00:00.000Z",
+            "message": "Did you see the note I sent you? Full Stack Java Opportunities!\n\nHi Brian, \n\nI know that you are currently not looking on the market at this time, but had to ask if you may know of anyone that might be interested in working as a Full Stack Java Developer?\n\nThe opportunity is near Wilmington, DE (Greater Philly Area) and we have contract and contract-to-hire roles available!\n\nWe also have referral fees and can talk further If you have someone that is a perfect fit! Just let me know!\n\nBest,\n\nAlejandro Luciano\nallucian@teksystems.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-09T16:12:00.000Z",
+            "message": "What company?\n"
+        },
+        {
+            "from": "Alejandro Luciano",
+            "time": "2017-05-09T21:14:00.000Z",
+            "message": "Hi! The opportunities in Wilmington are with JP Morgan Chase. I also have opportunities elsewhere.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-05-09T21:41:00.000Z",
+            "message": "Anything in Scottsdale?\n"
+        }
+    ]
+}

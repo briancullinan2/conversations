@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6223141084264960001/",
+    "participants": [
+        {
+            "name": "Julie Hudson",
+            "title": "Owner at Onsite Design",
+            "url": "linkedin.com/in/julie-hudson-7a463b14",
+            "phone": null,
+            "email": "julie@onsitedesign-az.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-06T14:20:00.000Z"
+        }
+    ]
+}

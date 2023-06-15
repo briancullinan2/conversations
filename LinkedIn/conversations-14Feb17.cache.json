@@ -1,0 +1,882 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Anebi Agbo | Data Engineer | Data Analytics",
+    "contacts": [
+      {
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "name": "Anebi Agbo",
+        "url": "linkedin.com/in/anebibenjamin",
+        "phone": "480-410-3020 (Mobile)",
+        "email": "anebi13@gmail.com",
+        "title": "Data Engineer | Data Analytics"
+      }
+    ],
+    "message": "Thank you for connecting! Do you like data analytics?",
+    "time": "2017-02-14T18:54:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Anebi Agbo | Data Engineer | Data Analytics > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "name": "Anebi Agbo",
+        "url": "linkedin.com/in/anebibenjamin",
+        "phone": "480-410-3020 (Mobile)",
+        "email": "anebi13@gmail.com",
+        "title": "Data Engineer | Data Analytics"
+      },
+      {
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Hi Brian! \nIt's a pleasure to connect! \nI love analytics. How about yourself? Are you working on a project?",
+    "time": "2017-02-14T18:57:00.000Z",
+    "title": "Data Engineer | Data Analytics"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Anebi Agbo | Data Engineer | Data Analytics",
+    "contacts": [
+      {
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "name": "Anebi Agbo",
+        "url": "linkedin.com/in/anebibenjamin",
+        "phone": "480-410-3020 (Mobile)",
+        "email": "anebi13@gmail.com",
+        "title": "Data Engineer | Data Analytics"
+      }
+    ],
+    "message": "I am trying out some personal analytics. Not sure how collecting data is useful for behavioral study, but maybe there is a business use case in there somewhere. How do you use your data?",
+    "time": "2017-02-14T23:50:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Cheryl McCoy (Whiting), MBA | Managing Director, Interaction Strategy & Support at Charles Schwab",
+    "contacts": [
+      {
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "name": "Cheryl McCoy (Whiting), MBA",
+        "url": "linkedin.com/in/cherylwhiting",
+        "email": "cwhiting@global.t-bird.edu",
+        "title": "Managing Director, Interaction Strategy & Support at Charles Schwab"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-14T18:18:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Mark Streich | Goal-Based Planning Guru @ npv10.com > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "name": "Mark Streich",
+        "url": "linkedin.com/in/markstreich",
+        "title": "Goal-Based Planning Guru @ npv10.com"
+      },
+      {
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "You requested to connect. What can I do for you?",
+    "time": "2017-02-14T18:52:00.000Z",
+    "title": "Goal-Based Planning Guru @ npv10.com"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Mark Streich | Goal-Based Planning Guru @ npv10.com",
+    "contacts": [
+      {
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "name": "Mark Streich",
+        "url": "linkedin.com/in/markstreich",
+        "title": "Goal-Based Planning Guru @ npv10.com"
+      }
+    ],
+    "message": "Thank you for connecting! I love goals, how do you identify a unicorn?",
+    "time": "2017-02-14T18:55:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Derek Lanham | Sales Performance Enthusiast: Sell more with less effort",
+    "contacts": [
+      {
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "name": "Derek Lanham",
+        "url": "linkedin.com/in/dereklanham",
+        "phone": "4044774454 (Work)",
+        "email": "dlanham@calliduscloud.com",
+        "title": "Sales Performance Enthusiast: Sell more with less effort"
+      }
+    ],
+    "message": "Have you used pipedrive?",
+    "time": "2017-02-14T18:54:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Renee Channon | Senior Service Transition Project Manager",
+    "contacts": [
+      {
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "name": "Renee Channon",
+        "url": "linkedin.com/in/renee-channon-0813223",
+        "phone": "4806629928 (Mobile)",
+        "email": "reneesoncerae15@gmail.com",
+        "title": "Senior Service Transition Project Manager"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-14T18:54:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Jaime Neufer | Leader, Problem Solver, Abstract Thinker, Office Energy Generator, & Morale Booster",
+    "contacts": [
+      {
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "name": "Jaime Neufer",
+        "url": "linkedin.com/in/jaime-neufer-032ba65b",
+        "phone": "216-262-6008 (Mobile)",
+        "email": "jaimeneufer@gmail.com",
+        "title": "Leader, Problem Solver, Abstract Thinker, Office Energy Generator, & Morale Booster"
+      }
+    ],
+    "message": "What do you do?",
+    "time": "2017-02-14T02:29:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Jaime Neufer | Leader, Problem Solver, Abstract Thinker, Office Energy Generator, & Morale Booster > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "name": "Jaime Neufer",
+        "url": "linkedin.com/in/jaime-neufer-032ba65b",
+        "phone": "216-262-6008 (Mobile)",
+        "email": "jaimeneufer@gmail.com",
+        "title": "Leader, Problem Solver, Abstract Thinker, Office Energy Generator, & Morale Booster"
+      },
+      {
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "I design new process improvements for processes that suck and cost us money or aren't effective. I report tax and finance information.. and I am a key cog in revamping associate engagement and improving the work environment.",
+    "time": "2017-02-14T18:18:00.000Z",
+    "title": "Leader, Problem Solver, Abstract Thinker, Office Energy Generator, & Morale Booster"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Jaime Neufer | Leader, Problem Solver, Abstract Thinker, Office Energy Generator, & Morale Booster",
+    "contacts": [
+      {
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "name": "Jaime Neufer",
+        "url": "linkedin.com/in/jaime-neufer-032ba65b",
+        "phone": "216-262-6008 (Mobile)",
+        "email": "jaimeneufer@gmail.com",
+        "title": "Leader, Problem Solver, Abstract Thinker, Office Energy Generator, & Morale Booster"
+      }
+    ],
+    "message": "👍",
+    "time": "2017-02-14T18:18:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Jaime Neufer | Leader, Problem Solver, Abstract Thinker, Office Energy Generator, & Morale Booster > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "name": "Jaime Neufer",
+        "url": "linkedin.com/in/jaime-neufer-032ba65b",
+        "phone": "216-262-6008 (Mobile)",
+        "email": "jaimeneufer@gmail.com",
+        "title": "Leader, Problem Solver, Abstract Thinker, Office Energy Generator, & Morale Booster"
+      },
+      {
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "👍",
+    "time": "2017-02-14T18:19:00.000Z",
+    "title": "Leader, Problem Solver, Abstract Thinker, Office Energy Generator, & Morale Booster"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Patricia Simon | Administrative Assisant at Pacific Northwest National Laboratory - PNNL",
+    "contacts": [
+      {
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "name": "Patricia Simon",
+        "url": "linkedin.com/in/patricia-simon-19a769103",
+        "email": "prsimon49@gmail.com",
+        "title": "Administrative Assisant at Pacific Northwest National Laboratory - PNNL"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-14T18:13:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Austin James | When you need an opportunity, look for a door.",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Austin James",
+        "url": "linkedin.com/in/austinmjames",
+        "phone": "6235234842 (Mobile)",
+        "email": "austin@jenisan.com",
+        "title": "When you need an opportunity, look for a door."
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-14T23:33:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "JJ Chalupnik | Freelance Director and CG Generalist > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "JJ Chalupnik",
+        "url": "linkedin.com/in/jjchalupnik",
+        "phone": "480.495.7530 (Home)",
+        "email": "jjchalupnik@gmail.com",
+        "title": "Freelance Director and CG Generalist"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Sure! No problem.",
+    "time": "2017-02-14T23:23:00.000Z",
+    "title": "Freelance Director and CG Generalist"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Heather Seybold | Recruiter at BASIS.ed",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Heather Seybold",
+        "url": "linkedin.com/in/heather-seybold-98231a31",
+        "email": "heather2109@hotmail.com",
+        "title": "Recruiter at BASIS.ed"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-14T22:53:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Colleen Dippel | Founder& Executive Director, Families Empowered",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Colleen Dippel",
+        "url": "linkedin.com/in/colleen-dippel-51434a20",
+        "email": "cdippel@aquinasco.com",
+        "title": "Founder& Executive Director, Families Empowered"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-14T22:52:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Chrisanne Widerberg Shain | HR Recruiter at DriveTime",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Chrisanne Widerberg Shain",
+        "url": "linkedin.com/in/chrisanne-widerberg-shain-26ba93113",
+        "email": "chrisanne.d.shain@gmail.com",
+        "title": "HR Recruiter at DriveTime"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-14T22:01:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Ken Liljegren | President, Spectrum Video & Film Ltd.",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ken Liljegren",
+        "url": "linkedin.com/in/ken-liljegren-79b504b",
+        "email": "spectro.video.linkedin@gmail.com",
+        "title": "President, Spectrum Video & Film Ltd."
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-14T21:19:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Jim Skidmore | Web/Mobile Project Manager at Charles Schwab, Inc",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Jim Skidmore",
+        "url": "linkedin.com/in/jim-skidmore-13212a",
+        "email": "Jim.Skidmore@schwab.com",
+        "title": "Web/Mobile Project Manager at Charles Schwab, Inc"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-14T21:18:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Kris Hadlock | Owner at SUMMUS and WordHerd",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Kris Hadlock",
+        "url": "linkedin.com/in/krishadlock",
+        "email": "kris@summus.io",
+        "title": "Owner at SUMMUS and WordHerd"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-14T21:16:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Paul Baldwin | Baldwin Audio",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Paul Baldwin",
+        "url": "linkedin.com/in/paul-baldwin-79104b13",
+        "phone": "480#235*8228 (Work)",
+        "email": "paul@baldwinaudio.com",
+        "title": "Baldwin Audio"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-14T21:12:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Claudia Breckenridge | Department Head Of Hair at Untitiled Prison Break",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Claudia Breckenridge",
+        "url": "linkedin.com/in/claudiabreckenridge",
+        "email": "cbreckenridge@mac.com",
+        "title": "Department Head Of Hair at Untitiled Prison Break"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-14T21:17:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Claudia Breckenridge | Department Head Of Hair at Untitiled Prison Break",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Claudia Breckenridge",
+        "url": "linkedin.com/in/claudiabreckenridge",
+        "email": "cbreckenridge@mac.com",
+        "title": "Department Head Of Hair at Untitiled Prison Break"
+      }
+    ],
+    "message": "Nice hair.",
+    "time": "2017-02-14T21:17:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Daniel D. Giddings | Scrum Master",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Daniel D. Giddings",
+        "url": "linkedin.com/in/daniel-d-giddings",
+        "email": "dangiddings@hotmail.com",
+        "title": "Scrum Master"
+      }
+    ],
+    "message": "Thank you for connecting! What do you think about people putting dollar $$ amounts on their sprints?",
+    "time": "2017-02-14T16:20:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Daniel D. Giddings | Scrum Master > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Daniel D. Giddings",
+        "url": "linkedin.com/in/daniel-d-giddings",
+        "email": "dangiddings@hotmail.com",
+        "title": "Scrum Master"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "There is always a labor cost associated with any iteration. If you're doing external work you'll need to cover those cost per sprint at a bare minimum. In Scrum you estimate work by size and complexity, get a baseline velocity of 3 sprints and than calculate the remaining backlog by that velocity. Once you understand those variables, billing per sprint can be feasible. Personally, I'd rather bill per project but that leads to arguments about what is it isn't an agile approach. Why do you ask?",
+    "time": "2017-02-14T18:05:00.000Z",
+    "title": "Scrum Master"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Daniel D. Giddings | Scrum Master > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Daniel D. Giddings",
+        "url": "linkedin.com/in/daniel-d-giddings",
+        "email": "dangiddings@hotmail.com",
+        "title": "Scrum Master"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "*what is or isn't an agile approach",
+    "time": "2017-02-14T18:05:00.000Z",
+    "title": "Scrum Master"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Daniel D. Giddings | Scrum Master",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Daniel D. Giddings",
+        "url": "linkedin.com/in/daniel-d-giddings",
+        "email": "dangiddings@hotmail.com",
+        "title": "Scrum Master"
+      }
+    ],
+    "message": "Just curious. Good insights. I found a comment from uncle Bob that talked about using monetary amounts.",
+    "time": "2017-02-14T18:59:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Waguih (Waguih GUINDY) BOUTROS | CEO Phoenix Travel Management",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Waguih (Waguih GUINDY) BOUTROS",
+        "url": "linkedin.com/in/waguihboutros",
+        "phone": "+19494244249 (Mobile)",
+        "email": "w.guindy@escale-travel.com",
+        "title": "CEO Phoenix Travel Management"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-14T16:27:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Waguih (Waguih GUINDY) BOUTROS | CEO Phoenix Travel Management",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Waguih (Waguih GUINDY) BOUTROS",
+        "url": "linkedin.com/in/waguihboutros",
+        "phone": "+19494244249 (Mobile)",
+        "email": "w.guindy@escale-travel.com",
+        "title": "CEO Phoenix Travel Management"
+      }
+    ],
+    "message": "It's my pleasure to have you on board. Happy Valentine's Day. Have a blessed week ahead.",
+    "time": "2017-02-14T16:29:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > ★ Rick Nichols | 🔥Artist - Rick Nichols 🌴 Beach Cantina Owner Restaurateur Mexico 📺 Emmy Winning TV Producer Director 🎶 Live Events",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "★ Rick Nichols",
+        "url": "linkedin.com/in/creekercrew",
+        "phone": "480-862-6016 (Mobile)",
+        "email": "nicholsvideo@gmail.com",
+        "title": "🔥Artist - Rick Nichols 🌴 Beach Cantina Owner Restaurateur Mexico 📺 Emmy Winning TV Producer Director 🎶 Live Events"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-14T16:08:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Philip Ward | Act! Platform Manager at Swiftpage",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Philip Ward",
+        "url": "linkedin.com/in/philip-ward-b9aa1853",
+        "email": "philipmward@hotmail.com",
+        "title": "Act! Platform Manager at Swiftpage"
+      }
+    ],
+    "message": "Thank you for the interview today! :)",
+    "time": "2017-02-14T16:03:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Alicia Isaacson | IT Technical Recruiter at MDI Group > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Alicia Isaacson",
+        "url": "linkedin.com/in/alicia-isaacson",
+        "email": "aisaacson@mdigroup.com",
+        "title": "IT Technical Recruiter at MDI Group"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "No, thank you! ☺",
+    "time": "2017-02-14T15:51:00.000Z",
+    "title": "IT Technical Recruiter at MDI Group"
+  },
+  {
+    "type": "conversations",
+    "conversations": "14Feb17",
+    "participants": "Brian Cullinan | wizard > Daniel Braha | Creative Director, SOS Media",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Daniel Braha",
+        "url": "linkedin.com/in/danielbraha",
+        "phone": "(303) 351-1767 (Home)",
+        "email": "dan@sosmedia.org",
+        "title": "Creative Director, SOS Media"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-14T14:40:00.000Z",
+    "title": "wizard"
+  }
+]

@@ -1,0 +1,44 @@
+{
+    "thread": "/messaging/thread/6240171241135751168/",
+    "participants": [
+        {
+            "name": "Joe Reynolds",
+            "title": "Producer, Skyline Productions, Inc.",
+            "url": "linkedin.com/in/joe-reynolds-8342194",
+            "phone": "480-345-8009 (Work)",
+            "email": "joe@skylinevideo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-22T14:12:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Joe Reynolds",
+            "time": "2018-02-22T15:07:00.000Z",
+            "message": "You bet! Would love to find out more about what you do. Being in the video industry everyday is different for us\n"
+        },
+        {
+            "from": "Me",
+            "time": "2018-02-22T15:09:00.000Z",
+            "message": "That's awesome! I am a software developer. Every day has been pretty different for me too. Working on a meditation site and a web app for students to learn to study.\n"
+        },
+        {
+            "from": "Joe Reynolds",
+            "time": "2018-02-23T18:05:00.000Z",
+            "message": "Very cool\n"
+        },
+        {
+            "from": "Joe Reynolds",
+            "time": "2017-03-08T14:15:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-08T18:39:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6204099641361997824/",
+    "participants": [
+        {
+            "name": "Kimberley Zell",
+            "title": "Aspiring Software Developer at Ada Developers Academy",
+            "url": "linkedin.com/in/kimberley-zell",
+            "phone": null,
+            "email": "kimberley.zell@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-11-15T01:17:00.000Z"
+        }
+    ]
+}

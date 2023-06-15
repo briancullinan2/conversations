@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6214459366570020865/",
+    "participants": [
+        {
+            "name": "Jeffrey Simon",
+            "title": "CEO at Purevivo",
+            "url": "linkedin.com/in/mridoctor",
+            "phone": null,
+            "email": "jsimon@purevivo.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-13T15:22:00.000Z"
+        }
+    ]
+}

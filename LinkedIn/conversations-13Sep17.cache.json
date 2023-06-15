@@ -1,0 +1,28 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "13Sep17",
+    "participants": "Brian Cullinan | wizard > Alec McKinley | Software Engineering Recruitment",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Alec McKinley",
+        "url": "linkedin.com/in/aemckinley",
+        "title": "Software Engineering Recruitment"
+      }
+    ],
+    "message": "I am totally serious. Here is a riddle: I am science. I will spend my entire life trying to prove that there is no such thing as coincidence. Who am I and how would I reveal myself?",
+    "time": "2017-09-13T01:42:00.000Z",
+    "title": "wizard"
+  }
+]

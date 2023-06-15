@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6214460623623897088/",
+    "participants": [
+        {
+            "name": "Brian Stoll",
+            "title": "CFO at Fox Restaurant Concepts",
+            "url": "linkedin.com/in/brian-stoll-b325826",
+            "phone": null,
+            "email": "brianstoll@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-13T15:27:00.000Z"
+        }
+    ]
+}

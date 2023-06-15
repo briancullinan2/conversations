@@ -1,0 +1,28 @@
+<session type="start" time="1130302647" medium="AIM" to="Qtbabe417" from="BrianJCullinan"/>
+<status type="" time="1130302683" medium="AIM" from="Qtbabe417"/>
+<message type="information_standard" time="1130302683" medium="AIM" text="%22Meg%20Marini%22%20signed%20off%20at%20Tue%20Oct%2025%2021%3A58%3A03%202005%2E"/>
+<session type="stop" time="1130302693" medium="AIM" to="Qtbabe417" from="BrianJCullinan"/>
+<session type="start" time="1130303377" medium="AIM" to="Qtbabe417" from="BrianJCullinan"/>
+<message type="outgoing_privateMessage" time="1130303380" medium="AIM" to="Qtbabe417" from="BrianJCullinan" from_display="Me" text="hi"/>
+<session type="stop" time="1130303416" medium="AIM" to="Qtbabe417" from="BrianJCullinan"/>
+<session type="start" time="1130303510" medium="AIM" to="Qtbabe417" from="BrianJCullinan"/>
+<message type="incoming_privateMessage" time="1130303510" medium="AIM" to="BrianJCullinan" from="Qtbabe417" from_display="Meg%20Marini" text="hey%20who%20is%20this%20"/>
+<message type="information_standard" time="1130303510" medium="AIM" text="Auto%2Dresponse%20sent%20to%20Meg%20Marini%3A%20I%20am%20currently%20away%20from%20the%20computer%2E"/>
+<message type="outgoing_privateMessage" time="1130303520" medium="AIM" to="Qtbabe417" from="BrianJCullinan" from_display="Me" text="your%20friend%20from%20115"/>
+<message type="incoming_privateMessage" time="1130303531" medium="AIM" to="BrianJCullinan" from="Qtbabe417" from_display="Meg%20Marini" text="oh%20hey%20how%20are%20you%20"/>
+<message type="outgoing_privateMessage" time="1130303543" medium="AIM" to="Qtbabe417" from="BrianJCullinan" from_display="Me" text="good"/>
+<message type="incoming_privateMessage" time="1130303584" medium="AIM" to="BrianJCullinan" from="Qtbabe417" from_display="Meg%20Marini" text="good%20%2C%20well%20hey%20im%20gunna%20go%20and%20watch%20the%20rest%20of%20my%20movie%2C%20but%20it%20was%20good%20talkin%20to%20you%20"/>
+<message type="outgoing_privateMessage" time="1130303665" medium="AIM" to="Qtbabe417" from="BrianJCullinan" from_display="Me" text="yeah%20talking"/>
+<message type="outgoing_privateMessage" time="1130303674" medium="AIM" to="Qtbabe417" from="BrianJCullinan" from_display="Me" text="if%20that%27s%20what%20you%27d%20like%20to%20call%20it"/>
+<message type="incoming_privateMessage" time="1130303705" medium="AIM" to="BrianJCullinan" from="Qtbabe417" from_display="Meg%20Marini" text="ya"/>
+<message type="outgoing_privateMessage" time="1130303724" medium="AIM" to="Qtbabe417" from="BrianJCullinan" from_display="Me" text="ttyl"/>
+<message type="incoming_privateMessage" time="1130303742" medium="AIM" to="BrianJCullinan" from="Qtbabe417" from_display="Meg%20Marini" text="ok%20later"/>
+<session type="stop" time="1130303819" medium="AIM" to="Qtbabe417" from="BrianJCullinan"/>
+<session type="start" time="1130312447" medium="AIM" to="Qtbabe417" from="BrianJCullinan"/>
+<message type="outgoing_privateMessage" time="1130312449" medium="AIM" to="Qtbabe417" from="BrianJCullinan" from_display="Me" text="hi"/>
+<message type="incoming_privateMessage" time="1130312453" medium="AIM" to="BrianJCullinan" from="Qtbabe417" from_display="Meg%20Marini" text="hi"/>
+<message type="outgoing_privateMessage" time="1130312464" medium="AIM" to="Qtbabe417" from="BrianJCullinan" from_display="Me" text="how%20was%20the%20rest%20of%20the%20movie%3F"/>
+<message type="incoming_privateMessage" time="1130312474" medium="AIM" to="BrianJCullinan" from="Qtbabe417" from_display="Meg%20Marini" text="awsome%20"/>
+<message type="outgoing_privateMessage" time="1130312480" medium="AIM" to="Qtbabe417" from="BrianJCullinan" from_display="Me" text="that%27s%20good"/>
+<message type="outgoing_privateMessage" time="1130312496" medium="AIM" to="Qtbabe417" from="BrianJCullinan" from_display="Me" text="what%20movie%3F"/>
+<session type="stop" time="1130313502" medium="AIM" to="Qtbabe417" from="BrianJCullinan"/>

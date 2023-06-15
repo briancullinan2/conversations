@@ -1,0 +1,56 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "19Sep17",
+    "participants": "Abasin Anwary, CSSGB | | Project Manager | Forensics Consulting Solutions | > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Abasin Anwary, CSSGB",
+        "url": "linkedin.com/in/abasinanwary",
+        "email": "aa26686@gmail.com",
+        "title": "| Project Manager | Forensics Consulting Solutions |"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Thanks for endorsing me for Databases!",
+    "time": "2017-09-19T05:11:00.000Z",
+    "title": "| Project Manager | Forensics Consulting Solutions |"
+  },
+  {
+    "type": "conversations",
+    "conversations": "19Sep17",
+    "participants": "Kenneth Sager | Information Security Analyst, Int. at Northern Arizona University > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Kenneth Sager",
+        "url": "linkedin.com/in/kenneth-sager-2aa7b8125",
+        "email": "catatonicprime@gmail.com",
+        "title": "Information Security Analyst, Int. at Northern Arizona University"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Brian,\n\nI’d like to add you to my professional network on LinkedIn.\n\n- Kenneth",
+    "time": "2017-09-19T17:04:00.000Z",
+    "title": "Information Security Analyst, Int. at Northern Arizona University"
+  }
+]

@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6222183514368995328/",
+    "participants": [
+        {
+            "name": "Jeff Sutherland",
+            "title": "CEO at Scrum, Inc.",
+            "url": "linkedin.com/in/jeffsutherland",
+            "phone": "+1 617 606 3652 (Work)",
+            "email": "jeff.sutherland@scruminc.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-03T22:55:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Is there any process better than scrum?\n",
+            "time": "2018-01-04T02:07:00.000Z"
+        }
+    ]
+}

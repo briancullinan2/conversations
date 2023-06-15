@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6212692506186964992/",
+    "participants": [
+        {
+            "name": "Darian Lane",
+            "title": "Writer | Director | Producer",
+            "url": "linkedin.com/in/darianlane",
+            "phone": null,
+            "email": "darian@90265Films.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-08T18:21:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Dude how do you surround yourself with beautiful women all the time?\n",
+            "time": "2018-01-31T21:20:00.000Z"
+        }
+    ]
+}

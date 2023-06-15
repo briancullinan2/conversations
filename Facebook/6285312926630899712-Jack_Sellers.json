@@ -1,0 +1,39 @@
+{
+    "thread": "/messaging/thread/6285312926630899712/",
+    "participants": [
+        {
+            "name": "Jack Sellers",
+            "title": "Former Chandler Vice Mayor",
+            "url": "linkedin.com/in/jack-sellers-6843a620",
+            "phone": "",
+            "email": "jack.sellers@cox.net"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-06-27T03:49:00.000Z",
+            "message": "Where do I report a missing street sign at the intersection of 32nd and Camelback?\n"
+        },
+        {
+            "from": "Jack Sellers",
+            "time": "2017-06-27T03:51:00.000Z",
+            "message": "City of Phoenix.\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-27T04:02:00.000Z",
+            "message": "I did that for a yellow light that is too short and didn't get a response. California gave up 6 mil in tickets for longer yellows http://www.laweekly.com/news/yay-longer-yellow-traffic-light-phases-now-required-by-caltrans-5275044\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-27T04:02:00.000Z",
+            "message": "Thank you!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-27T04:02:00.000Z",
+            "message": "I want to serve.\n"
+        }
+    ]
+}

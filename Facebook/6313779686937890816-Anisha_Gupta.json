@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6313779686937890816/",
+    "participants": [
+        {
+            "name": "Anisha Gupta",
+            "title": "Tech Advocate. Community Builder. Product Owner.",
+            "url": "linkedin.com/in/ani6gup",
+            "phone": null,
+            "email": "ani6gup@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "I can't delete my history on GitHub! Help!",
+            "time": "2017-09-13T17:06:00.000Z"
+        },
+        {
+            "from": "Anisha Gupta",
+            "message": "GitHub.com",
+            "time": "2017-09-14T07:03:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I did , they couldn't help. Do you know any of the engineers?",
+            "time": "2017-10-12T11:47:00.000Z"
+        }
+    ]
+}

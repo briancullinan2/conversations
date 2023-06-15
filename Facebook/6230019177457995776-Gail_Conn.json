@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6230019177457995776/",
+    "participants": [
+        {
+            "name": "Gail Conn",
+            "title": "CEO at Phi Power Communications",
+            "url": "linkedin.com/in/gailconn",
+            "phone": "212 355-2341 (Work)",
+            "email": "gail@phipower.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-01-25T13:52:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "Gail Conn",
+            "time": "2017-03-08T15:28:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-08T18:39:00.000Z",
+            "message": "Thank you!\n"
+        }
+    ]
+}

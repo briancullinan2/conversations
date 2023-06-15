@@ -1,0 +1,57 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "7Nov17",
+    "participants": "Brian Cullinan | wizard > Christopher Shatswell | Talent Acquisition Specialist at EBSCO Information Services",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Christopher Shatswell",
+        "url": "linkedin.com/in/christopher-shatswell-1b215622",
+        "phone": "978-356-6500 ext.3244 (Work)",
+        "email": "cshatswell@ebsco.com",
+        "title": "Talent Acquisition Specialist at EBSCO Information Services"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-11-07T15:48:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "7Nov17",
+    "participants": "Brian Cullinan | wizard > Stephanie Tate | Talent Acquisition and People Development at Atlas Informatics",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Stephanie Tate",
+        "url": "linkedin.com/in/stephanie-tate-a86115",
+        "email": "stephanie_tate7@yahoo.com",
+        "title": "Talent Acquisition and People Development at Atlas Informatics"
+      }
+    ],
+    "message": "You people are geniuses. This is exactly what I needed.",
+    "time": "2017-11-07T00:49:00.000Z",
+    "title": "wizard"
+  }
+]

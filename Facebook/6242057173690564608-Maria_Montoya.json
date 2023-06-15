@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6242057173690564608/",
+    "participants": [
+        {
+            "name": "Maria Montoya",
+            "title": "Career Services & Partner Relations Manager | Career Existentialist | Professional Development Nerd",
+            "url": "linkedin.com/in/mariamontoya",
+            "phone": "602-350-6497 (Home)",
+            "email": "maria.montoya@galvanize.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2017-02-27T19:06:00.000Z",
+            "message": "Congrats on the new job!\n"
+        },
+        {
+            "from": "Maria Montoya",
+            "time": "2017-02-28T23:24:00.000Z",
+            "message": "Thanks. I'm incredibly excited to be with a great organization, helping people pursue their dreams!\n"
+        }
+    ]
+}

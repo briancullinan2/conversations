@@ -1,0 +1,806 @@
+[
+    {
+        "resourceName": "people/c1480049089008847558",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "148a30ce08834ac6"
+                    }
+                },
+                "displayName": "Adam Adams",
+                "familyName": "Adams",
+                "givenName": "Adam",
+                "displayNameLastFirst": "Adams, Adam"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "102631166020198714593"
+                    }
+                },
+                "displayName": "Adam Adams",
+                "familyName": "Adams",
+                "givenName": "Adam",
+                "displayNameLastFirst": "Adams, Adam"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "148a30ce08834ac6"
+                    }
+                },
+                "value": "ajadams10@gmail.com"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "7 Mutual Connections",
+                "You and Adam both know Keith Rezendes, Daniel Cheetham, and 5 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Software Engineer",
+                "Company Name",
+                "Plexuss.com",
+                "Dates Employed",
+                "Dec 2014 – Present",
+                "Employment Duration",
+                "2 yrs 11 mos",
+                "Location",
+                "Walnut Creek",
+                "• Leading the migration of legacy codebase to React/Redux for a more robust and scalable front-end architecture.• Employing React Native to exploit web development skills to build a native mobile application.• Applying several front-end optimization tools and techniques to improve landing page response time from 12s to 3s. • Developed an article generator during off-hours to learn React and now the project is a live feature.• Works closely with Design, Product, Quality Assurance, & other Engineers to deploy quality, user-friendly features.",
+                "Media (1)",
+                "This position has 1 media",
+                "College Network | College Recruiting Academic Network I Plexuss.com",
+                "College Network | College Recruiting Academic Network I Plexuss.com",
+                "This media is a link"
+            ],
+            [
+                "Quality Assurance Engineer",
+                "Company Name",
+                "Cognizant Technology Solutions",
+                "Dates Employed",
+                "Jun 2014 – Dec 2014",
+                "Employment Duration",
+                "7 mos",
+                "Location",
+                "Hartford, Connecticut Area",
+                "Developed a Web Services and HTTP/HTML protocol script, applying logic, correlation, and parameterization concepts to emulate dynamic user actions, in LoadRunner and jMeter.Generated virtual users using ALM PC to run scenarios to test user load on an existing application by uploading scripts with an assigned controller and load generator and applying proper run-time settings based on workload model.Knowledge of the Performance Testing Life Cycle which encapsulates the collection of the nonfunctional requirements, test plan, test script development, test execution, and analysis.Developed a Performance Test Plan Document to outline the scope, goal, and risks of the test to be performed. Experience using LoadRunner Analysis to analyze results of the test execution in order to make sound judgement on performance enhancements to the existing application."
+            ],
+            [
+                "Intern",
+                "Company Name",
+                "GEICO",
+                "Dates Employed",
+                "Jun 2013 – Jul 2013",
+                "Employment Duration",
+                "2 mos",
+                "Location",
+                "Tucson, Arizona Area",
+                "· Participated in the company-wide Marketing Strategy Meeting, conducted by the Chief Marketing Officer, and learned about the company’s budget, advertising expansion plans, and exposure expectations for the upcoming year· Researched several databases for upcoming sponsorship opportunities that were within our marketing requirements to obtain new leads· Acquired and manipulated data using MS Excel to solve First Call Resolution issue and discovered Sales associates failed to properly disclose coverage descriptions"
+            ],
+            [
+                "Residence Hall Desk Assistant",
+                "Company Name",
+                "Arizona State University",
+                "Dates Employed",
+                "Aug 2009 – May 2010",
+                "Employment Duration",
+                "10 mos",
+                "Location",
+                "Phoenix, Arizona Area",
+                "Maintained security by inputting student information to verify the validity of the studentUpdated activities-log program when student check-outs occurred to monitor spare key inventoryCreated informational flyers about events encouraging students to get involvedHandled incoming calls with professionalism and reported urgent calls to manager"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Computer Information Systems",
+                "Dates attended or expected graduation",
+                "2009 – 2014",
+                "Activities and Societies:",
+                "Department of Information Systems Club"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer",
+                "Company Name",
+                "All Saints Catholic Newman Center",
+                "Cause",
+                "Poverty Alleviation",
+                "Reorganized library by alphabetizing and categorizing donated books to optimize searchRestored equipment, furniture, and foundation enhancing church’s appealFashioned together care packages consisting of food and drinks to distribute to the homeless"
+            ],
+            [
+                "Volunteer",
+                "Company Name",
+                "All Saints Catholic Newman Center",
+                "Cause",
+                "Poverty Alleviation",
+                "Reorganized library by alphabetizing and categorizing donated books to optimize searchRestored equipment, furniture, and foundation enhancing church’s appealFashioned together care packages consisting of food and drinks to distribute to the homeless"
+            ],
+            [
+                "Application Development Tutor",
+                "Company Name",
+                "Microsoft",
+                "Dates volunteered",
+                "Sep 2013 – Sep 2013",
+                "Volunteer duration",
+                "1 mo",
+                "Cause",
+                "Education",
+                "-Lead volunteer at Microsoft teaching students how to create simple Windows Phone applications through the new template-based online platform, Window Phone App Studio. - Taught self ow to develop an app, fix bugs, and submit the app to Windows Store in order to provide helpful knowledge to the students.- Managed and organized 2000 students into several categorized rooms and devised efficient ideas to help a wide array of students with common issues.- Worked in teams to solve unique and unfamiliar platform issues through a process of trial and error testing."
+            ],
+            [
+                "Application Development Tutor",
+                "Company Name",
+                "Microsoft",
+                "Dates volunteered",
+                "Sep 2013 – Sep 2013",
+                "Volunteer duration",
+                "1 mo",
+                "Cause",
+                "Education",
+                "-Lead volunteer at Microsoft teaching students how to create simple Windows Phone applications through the new template-based online platform, Window Phone App Studio. - Taught self ow to develop an app, fix bugs, and submit the app to Windows Store in order to provide helpful knowledge to the students.- Managed and organized 2000 students into several categorized rooms and devised efficient ideas to help a wide array of students with common issues.- Worked in teams to solve unique and unfamiliar platform issues through a process of trial and error testing."
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Apple",
+                "3,660,792 followers"
+            ],
+            [
+                "Arizona State University",
+                "420,381 followers"
+            ],
+            [
+                "Brad SmithBrad Smith is a LinkedIn Influencer",
+                "Chairman & Chief Executive Officer, Intuit",
+                "462,160 followers"
+            ],
+            [
+                "JavaScript",
+                "136,128 members"
+            ],
+            [
+                "Microsoft",
+                "3,998,889 followers"
+            ],
+            [
+                "Ginger Labs",
+                "100 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Apple",
+                "3,660,792 followers"
+            ],
+            [
+                "Apple",
+                "3,660,792 followers"
+            ],
+            [
+                "Arizona State University",
+                "420,381 followers"
+            ],
+            [
+                "Arizona State University",
+                "420,381 followers"
+            ],
+            [
+                "Brad SmithBrad Smith is a LinkedIn Influencer",
+                "Chairman & Chief Executive Officer, Intuit",
+                "462,160 followers"
+            ],
+            [
+                "Brad SmithBrad Smith is a LinkedIn Influencer",
+                "Chairman & Chief Executive Officer, Intuit",
+                "462,160 followers"
+            ],
+            [
+                "Brad Smith is a LinkedIn Influencer"
+            ],
+            [
+                "JavaScript",
+                "136,128 members"
+            ],
+            [
+                "JavaScript",
+                "136,128 members"
+            ],
+            [
+                "Microsoft",
+                "3,998,889 followers"
+            ],
+            [
+                "Microsoft",
+                "3,998,889 followers"
+            ],
+            [
+                "Ginger Labs",
+                "100 followers"
+            ],
+            [
+                "Ginger Labs",
+                "100 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Ratan Milind Kadam",
+                "UI Engineer at Cisco",
+                "September 1, 2016, Ratan Milind worked with Adam in the same group",
+                "I worked with Ratan for a short time at Plexuss, but in that short time he did a lot of work researching the architecture of how our mobile app should be designed and developed, as well as contributing to the website. He was introduced a few new frameworks used at Plexuss, but Ratan was quick to pick them up and run with them. In return, I learned a lot from him as well. It was a pleasure working with Ratan."
+            ],
+            [
+                "Ratan Milind Kadam",
+                "UI Engineer at Cisco",
+                "September 1, 2016, Ratan Milind worked with Adam in the same group"
+            ],
+            [
+                "Ratan Milind Kadam",
+                "UI Engineer at Cisco",
+                "September 1, 2016, Ratan Milind worked with Adam in the same group"
+            ],
+            [
+                "Ratan Milind Kadam",
+                "UI Engineer at Cisco",
+                "September 1, 2016, Ratan Milind worked with Adam in the same group"
+            ],
+            "UI Engineer at Cisco",
+            [
+                "I worked with Ratan for a short time at Plexuss, but in that short time he did a lot of work researching the architecture of how our mobile app should be designed and developed, as well as contributing to the website. He was introduced a few new frameworks used at Plexuss, but Ratan was quick to pick them up and run with them. In return, I learned a lot from him as well. It was a pleasure working with Ratan."
+            ],
+            [
+                "I worked with Ratan for a short time at Plexuss, but in that short time he did a lot of work researching the architecture of how our mobile app should be designed and developed, as well as contributing to the website. He was introduced a few new frameworks used at Plexuss, but Ratan was quick to pick them up and run with them. In return, I learned a lot from him as well. It was a pleasure working with Ratan."
+            ]
+        ],
+        "skills": [
+            [
+                "Teamwork",
+                "See 18 endorsements for Teamwork",
+                "18",
+                "Teamwork",
+                "Endorse",
+                "Endorsed by 4 of Adam’s colleagues at Plexuss.com"
+            ],
+            [
+                "Teamwork",
+                "See 18 endorsements for Teamwork",
+                "18"
+            ],
+            [
+                "Leadership",
+                "See 15 endorsements for Leadership",
+                "15",
+                "Leadership",
+                "Endorse",
+                "Endorsed by 3 of Adam’s colleagues at Plexuss.com"
+            ],
+            [
+                "Leadership",
+                "See 15 endorsements for Leadership",
+                "15"
+            ],
+            [
+                "Project Management",
+                "See 12 endorsements for Project Management",
+                "12",
+                "Project Management",
+                "Endorse",
+                "Endorsed by 3 of Adam’s colleagues at Plexuss.com"
+            ],
+            [
+                "Project Management",
+                "See 12 endorsements for Project Management",
+                "12"
+            ],
+            [
+                "Microsoft Office",
+                "See 18 endorsements for Microsoft Office",
+                "18",
+                "Microsoft Office",
+                "Endorse"
+            ],
+            [
+                "Microsoft Office",
+                "See 18 endorsements for Microsoft Office",
+                "18"
+            ],
+            [
+                "Visio",
+                "See 9 endorsements for Visio",
+                "9",
+                "Visio",
+                "Endorse"
+            ],
+            [
+                "Visio",
+                "See 9 endorsements for Visio",
+                "9"
+            ],
+            [
+                "SQL",
+                "See 8 endorsements for SQL",
+                "8",
+                "SQL",
+                "Endorse"
+            ],
+            [
+                "SQL",
+                "See 8 endorsements for SQL",
+                "8"
+            ],
+            [
+                "HTML 5",
+                "See 4 endorsements for HTML 5",
+                "4",
+                "HTML 5",
+                "Endorse"
+            ],
+            [
+                "HTML 5",
+                "See 4 endorsements for HTML 5",
+                "4"
+            ],
+            [
+                "CSS3",
+                "See 4 endorsements for CSS3",
+                "4",
+                "CSS3",
+                "Endorse"
+            ],
+            [
+                "CSS3",
+                "See 4 endorsements for CSS3",
+                "4"
+            ],
+            [
+                "jQuery",
+                "See 4 endorsements for jQuery",
+                "4",
+                "jQuery",
+                "Endorse"
+            ],
+            [
+                "jQuery",
+                "See 4 endorsements for jQuery",
+                "4"
+            ],
+            [
+                "Bootstrap",
+                "See 2 endorsements for Bootstrap",
+                "2",
+                "Bootstrap",
+                "Endorse"
+            ],
+            [
+                "Bootstrap",
+                "See 2 endorsements for Bootstrap",
+                "2"
+            ],
+            [
+                "JavaScript",
+                "See 9 endorsements for JavaScript",
+                "9",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 9 endorsements for JavaScript",
+                "9"
+            ],
+            [
+                "C#",
+                "See 4 endorsements for C#",
+                "4",
+                "C#",
+                "Endorse"
+            ],
+            [
+                "C#",
+                "See 4 endorsements for C#",
+                "4"
+            ],
+            [
+                "Visual Studio",
+                "See 3 endorsements for Visual Studio",
+                "3",
+                "Visual Studio",
+                "Endorse"
+            ],
+            [
+                "Visual Studio",
+                "See 3 endorsements for Visual Studio",
+                "3"
+            ],
+            [
+                "Ruby on Rails",
+                "See 2 endorsements for Ruby on Rails",
+                "2",
+                "Ruby on Rails",
+                "Endorse"
+            ],
+            [
+                "Ruby on Rails",
+                "See 2 endorsements for Ruby on Rails",
+                "2"
+            ],
+            [
+                "Information Systems",
+                "See 1 endorsement for Information Systems",
+                "1",
+                "Information Systems",
+                "Endorse"
+            ],
+            [
+                "Information Systems",
+                "See 1 endorsement for Information Systems",
+                "1"
+            ],
+            [
+                "iOS",
+                "See 2 endorsements for iOS",
+                "2",
+                "iOS",
+                "Endorse"
+            ],
+            [
+                "iOS",
+                "See 2 endorsements for iOS",
+                "2"
+            ],
+            [
+                "SDLC Modeling",
+                "See 2 endorsements for SDLC Modeling",
+                "2",
+                "SDLC Modeling",
+                "Endorse"
+            ],
+            [
+                "SDLC Modeling",
+                "See 2 endorsements for SDLC Modeling",
+                "2"
+            ],
+            [
+                "Database Design",
+                "See 2 endorsements for Database Design",
+                "2",
+                "Database Design",
+                "Endorse"
+            ],
+            [
+                "Database Design",
+                "See 2 endorsements for Database Design",
+                "2"
+            ],
+            [
+                "Database Modeling",
+                "See 2 endorsements for Database Modeling",
+                "2",
+                "Database Modeling",
+                "Endorse"
+            ],
+            [
+                "Database Modeling",
+                "See 2 endorsements for Database Modeling",
+                "2"
+            ],
+            [
+                "Agile & Waterfall Methodologies",
+                "See 1 endorsement for Agile & Waterfall Methodologies",
+                "1",
+                "Agile & Waterfall Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile & Waterfall Methodologies",
+                "See 1 endorsement for Agile & Waterfall Methodologies",
+                "1"
+            ],
+            [
+                "Windows 7",
+                "See 2 endorsements for Windows 7",
+                "2",
+                "Windows 7",
+                "Endorse"
+            ],
+            [
+                "Windows 7",
+                "See 2 endorsements for Windows 7",
+                "2"
+            ],
+            [
+                "Windows 8",
+                "See 1 endorsement for Windows 8",
+                "1",
+                "Windows 8",
+                "Endorse"
+            ],
+            [
+                "Windows 8",
+                "See 1 endorsement for Windows 8",
+                "1"
+            ],
+            [
+                "PHP",
+                "See 6 endorsements for PHP",
+                "6",
+                "PHP",
+                "Endorse"
+            ],
+            [
+                "PHP",
+                "See 6 endorsements for PHP",
+                "6"
+            ],
+            [
+                "phpMyAdmin",
+                "See 2 endorsements for phpMyAdmin",
+                "2",
+                "phpMyAdmin",
+                "Endorse"
+            ],
+            [
+                "phpMyAdmin",
+                "See 2 endorsements for phpMyAdmin",
+                "2"
+            ],
+            [
+                "Scrum",
+                "See 2 endorsements for Scrum",
+                "2",
+                "Scrum",
+                "Endorse"
+            ],
+            [
+                "Scrum",
+                "See 2 endorsements for Scrum",
+                "2"
+            ],
+            [
+                "Eclipse",
+                "See 2 endorsements for Eclipse",
+                "2",
+                "Eclipse",
+                "Endorse"
+            ],
+            [
+                "Eclipse",
+                "See 2 endorsements for Eclipse",
+                "2"
+            ],
+            [
+                "Android Development",
+                "See 2 endorsements for Android Development",
+                "2",
+                "Android Development",
+                "Endorse"
+            ],
+            [
+                "Android Development",
+                "See 2 endorsements for Android Development",
+                "2"
+            ],
+            [
+                "Function Point Analysis",
+                "See 1 endorsement for Function Point Analysis",
+                "1",
+                "Function Point Analysis",
+                "Endorse"
+            ],
+            [
+                "Function Point Analysis",
+                "See 1 endorsement for Function Point Analysis",
+                "1"
+            ],
+            [
+                "iOS development",
+                "See 2 endorsements for iOS development",
+                "2",
+                "iOS development",
+                "Endorse"
+            ],
+            [
+                "iOS development",
+                "See 2 endorsements for iOS development",
+                "2"
+            ],
+            [
+                "MS Project",
+                "See 1 endorsement for MS Project",
+                "1",
+                "MS Project",
+                "Endorse"
+            ],
+            [
+                "MS Project",
+                "See 1 endorsement for MS Project",
+                "1"
+            ],
+            [
+                "CSS",
+                "See 7 endorsements for CSS",
+                "7",
+                "CSS",
+                "Endorse"
+            ],
+            [
+                "CSS",
+                "See 7 endorsements for CSS",
+                "7"
+            ],
+            [
+                "Foundation Zurb",
+                "See 1 endorsement for Foundation Zurb",
+                "1",
+                "Foundation Zurb",
+                "Endorse"
+            ],
+            [
+                "Foundation Zurb",
+                "See 1 endorsement for Foundation Zurb",
+                "1"
+            ],
+            [
+                "WAMP",
+                "See 2 endorsements for WAMP",
+                "2",
+                "WAMP",
+                "Endorse"
+            ],
+            [
+                "WAMP",
+                "See 2 endorsements for WAMP",
+                "2"
+            ],
+            [
+                "React JS",
+                "See 1 endorsement for React JS",
+                "1",
+                "React JS",
+                "Endorse"
+            ],
+            [
+                "React JS",
+                "See 1 endorsement for React JS",
+                "1"
+            ],
+            [
+                "Redux",
+                "See 1 endorsement for Redux",
+                "1",
+                "Redux",
+                "Endorse"
+            ],
+            [
+                "Redux",
+                "See 1 endorsement for Redux",
+                "1"
+            ],
+            [
+                "Gulp.js",
+                "See 1 endorsement for Gulp.js",
+                "1",
+                "Gulp.js",
+                "Endorse"
+            ],
+            [
+                "Gulp.js",
+                "See 1 endorsement for Gulp.js",
+                "1"
+            ],
+            [
+                "Webpack",
+                "Webpack",
+                "Endorse"
+            ],
+            [
+                "Webpack"
+            ],
+            [
+                "React Native",
+                "See 1 endorsement for React Native",
+                "1",
+                "React Native",
+                "Endorse"
+            ],
+            [
+                "React Native",
+                "See 1 endorsement for React Native",
+                "1"
+            ],
+            [
+                "SASS",
+                "See 1 endorsement for SASS",
+                "1",
+                "SASS",
+                "Endorse"
+            ],
+            [
+                "SASS",
+                "See 1 endorsement for SASS",
+                "1"
+            ],
+            [
+                "Node.js",
+                "Node.js",
+                "Endorse"
+            ],
+            [
+                "Node.js"
+            ],
+            [
+                "Socket.io",
+                "Socket.io",
+                "Endorse"
+            ],
+            [
+                "Socket.io"
+            ],
+            [
+                "Redis",
+                "Redis",
+                "Endorse"
+            ],
+            [
+                "Redis"
+            ],
+            [
+                "MongoDB",
+                "MongoDB",
+                "Endorse"
+            ],
+            [
+                "MongoDB"
+            ]
+        ],
+        "summary": "",
+        "name": "Adam Adams",
+        "title": "Web Developer at Plexuss.com",
+        "url": "linkedin.com/in/adamadams10",
+        "phone": "925-216-4606 (Mobile)",
+        "email": "ajadams10@gmail.com"
+    }
+]

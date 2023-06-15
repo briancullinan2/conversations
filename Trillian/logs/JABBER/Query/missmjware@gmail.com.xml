@@ -1,0 +1,5 @@
+<session type="Start" time="1209443661" medium="JABBER" from="bjcullinan@gmail.com" to="missmjware@gmail.com"/>
+<session type="start" time="1209443661" medium="JABBER" to="missmjware%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>
+<message type="outgoing_privateMessage" time="1209443664" medium="JABBER" to="missmjware%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom" from_display="bjcullinan" text="Hey"/>
+<status type="Offline" time="1209443674" medium="JABBER" from="missmjware%40gmail%2Ecom"/>
+<session type="stop" time="1209445640" medium="JABBER" to="missmjware%40gmail%2Ecom" from="bjcullinan%40gmail%2Ecom"/>

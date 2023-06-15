@@ -1,0 +1,679 @@
+[
+    {
+        "resourceName": "people/c1623586539561139913",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMOE9lQWkrWkNjYms9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "1688235b08a5bec9"
+                    }
+                },
+                "displayName": "Mawulom Nenonene",
+                "familyName": "Nenonene",
+                "givenName": "Mawulom",
+                "displayNameLastFirst": "Nenonene, Mawulom"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "1688235b08a5bec9"
+                    }
+                },
+                "value": "rcr-mnenonene@thumbtack.com"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "1688235b08a5bec9"
+                    }
+                },
+                "value": "mawulomnenonene@thumbtack.com",
+                "type": "Obsolete",
+                "formattedType": "Obsolete"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "4 Mutual Connections",
+                "You and Mawulom both know Wayne Sutton, Jeremy Roberts, and 2 others"
+            ],
+            [
+                "Medallia Scores 100% On Human Rights Campaign Corporate Equality Index - Medallia",
+                "Mawulom liked"
+            ],
+            [
+                "Thumbtack Small Business Friendliness Survey",
+                "Mawulom liked"
+            ],
+            [
+                "Closing the Design Tools Gap – Rey Benoit – Medium",
+                "Mawulom replied to a comment"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Founder & CEO",
+                "Company Name",
+                "Akpe",
+                "Dates Employed",
+                "Apr 2017 – Present",
+                "Employment Duration",
+                "8 mos",
+                "Active Engagements:-Patreon-NavaCompleted Engagements:-Thumbtack: April 2017 - October 2017 (7 months)"
+            ],
+            [
+                "Sr Technical Recruiter",
+                "Company Name",
+                "Thumbtack",
+                "Dates Employed",
+                "Aug 2015 – Apr 2017",
+                "Employment Duration",
+                "1 yr 9 mos",
+                "Location",
+                "San Francisco Bay Area",
+                "At Thumbtack I led a pod of 2 recruiters and 6 sourcers focused on hiring senior level front-end engineers while working on multiple D&I projects. To create an inclusive environments and grow our teams."
+            ],
+            [
+                "Sr Technical Recruiter",
+                "Company Name",
+                "LinkedIn",
+                "Dates Employed",
+                "Apr 2015 – Aug 2015",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "Mountain View Ca",
+                "During my time at LinkedIn I was tasked with finding senior level engineering talent."
+            ],
+            [
+                "Channels Specialist - Technical Diversity Sourcer",
+                "Company Name",
+                "Google",
+                "Dates Employed",
+                "Oct 2013 – Apr 2015",
+                "Employment Duration",
+                "1 yr 7 mos",
+                "Location",
+                "Mountain View CA",
+                "At Google I partnered with recruiting teams and hiring managers to generate ideas, leverage resources, and share information to facilitate an effective search for unique passive candidates. I also acted as a search expert for a functional area by understanding hiring needs, position specifications, and investigated new ideas to create innovative sourcing strategies. Sourcing passive candidates through complex boolean searches, networking, x-raying, tangent sourcing, open source contributions and research. Once sourced, I conducted preliminary phone interviews, assessing technical strengths to ensure qualifications are well matched with the position and Google’s hiring bar. I discovered and sought out the most talented software engineers, test engineers, and site reliability engineers in the world from hard-to-reach places, thus meeting or far exceeding quarterly targets.To conclude I provided an exceptional and unyielding candidate experience while delivering consistently high and measurable results.",
+                "Media (1)",
+                "This position has 1 media",
+                "Diversity at Google",
+                "Diversity at Google",
+                "This media is a link"
+            ],
+            [
+                "Mechanical Product Assurance Engineer",
+                "Company Name",
+                "United States Department of Defense",
+                "Dates Employed",
+                "May 2008 – Oct 2013",
+                "Employment Duration",
+                "5 yrs 6 mos",
+                "Supported the Army's efforts to ensure Soldier survivability by providing Quality Engineering support for the U.S. Army Armament Research, Development and Engineering Center (ARDEC). Developed and maintained an open line of communication with 8A small business vendors and subcontractors, to successfully manage quality on a multi-million dollar contract.  Acted as a QA SME by providing policy interpretations and procedural guidance to develop standard processes and implement best practices. Assembled and led several Integrated Product Teams (IPT) tasked with identifying critical defects in contract manufacturing facilities."
+            ],
+            [
+                "Collateral Duty EEO Counselor - Tech Recruiter",
+                "Company Name",
+                "United States Department of Defense",
+                "Dates Employed",
+                "May 2008 – Oct 2013",
+                "Employment Duration",
+                "5 yrs 6 mos",
+                "Promoted diversity and inclusion in the federal government by serving as an Equal Employment Opportunity (EEO) counselor while working with a team to facilitate inclusion training. I served as a technical recruiter, evangelizing the benefits of working for DoD at university events, and national diversity conventions."
+            ],
+            [
+                "Mechanical Quality Engineer",
+                "Company Name",
+                "United States Department of Defense",
+                "Dates Employed",
+                "Mar 2007 – Apr 2008",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "USA",
+                "Worked as a Quality Engineer for the U.S. Army Armament Research, Development and Engineering Center (ARDEC). During which I collaborated with cross-functional Improvised Product Teams (IPT) to meet schedules, conduct periodic visits to contractors at ISO 9001 compliant manufacturing facilities, and ensured compliance with specification requirements."
+            ],
+            [
+                "R&D CO-OP Knee Product Development Research and Development",
+                "Company Name",
+                "Stryker",
+                "Dates Employed",
+                "Sep 2006 – Dec 2006",
+                "Employment Duration",
+                "4 mos",
+                "Location",
+                "NJ/ USA"
+            ],
+            [
+                "Engineering Intern",
+                "Company Name",
+                "Cardinal Health",
+                "Dates Employed",
+                "May 2006 – Aug 2006",
+                "Employment Duration",
+                "4 mos",
+                "Location",
+                "St Petersburg, Florida"
+            ],
+            [
+                "Engineering Pilot Plant Intern",
+                "Company Name",
+                "Cardinal Health",
+                "Dates Employed",
+                "May 2004 – Sep 2004",
+                "Employment Duration",
+                "5 mos",
+                "Location",
+                "Somerset, New Jersey"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "New Jersey Institute of Technology, Newark, NJ",
+                "Degree Name",
+                "Bachelor of Science (B.S.)",
+                "Field Of Study",
+                "Biomedical Engineering / Biomechanics",
+                "Dates attended or expected graduation",
+                "2002 – 2006",
+                "Activities and Societies:",
+                "National Residence Hall Honorary, American Society of Quality Engineers, Equal Employment Opportunity Volunteer, Education Opportunity Program Student Organization, National Society of Black Engineers (NSBE), Biomedical Engineers Society, NJIT Ambassadors, National Deans List"
+            ],
+            [
+                "New Jersey Institute of Technology, Newark, NJ",
+                "Degree Name",
+                "Bachelor of Science (B.S.)",
+                "Field Of Study",
+                "Biomedical Engineering / Biomechanics",
+                "Dates attended or expected graduation",
+                "2002 – 2006",
+                "Activities and Societies:",
+                "National Residence Hall Honorary, American Society of Quality Engineers, Equal Employment Opportunity Volunteer, Education Opportunity Program Student Organization, National Society of Black Engineers (NSBE), Biomedical Engineers Society, NJIT Ambassadors, National Deans List"
+            ],
+            [
+                "One Spirit Learning Alliance",
+                "Degree Name",
+                "Seminary",
+                "Field Of Study",
+                "Interfaith Seminary",
+                "Dates attended or expected graduation",
+                "2010 – 2012"
+            ],
+            [
+                "One Spirit Learning Alliance",
+                "Degree Name",
+                "Seminary",
+                "Field Of Study",
+                "Interfaith Seminary",
+                "Dates attended or expected graduation",
+                "2010 – 2012"
+            ],
+            [
+                "Florida Institute of Technology",
+                "Degree Name",
+                "Master of Science (MS)",
+                "Field Of Study",
+                "Engineering/Industrial Management",
+                "Dates attended or expected graduation",
+                "2007 – 2010",
+                "Activities and Societies:",
+                "Degree program incomplete with 3 remaining courses - Living out other dreams :-)"
+            ],
+            [
+                "Florida Institute of Technology",
+                "Degree Name",
+                "Master of Science (MS)",
+                "Field Of Study",
+                "Engineering/Industrial Management",
+                "Dates attended or expected graduation",
+                "2007 – 2010",
+                "Activities and Societies:",
+                "Degree program incomplete with 3 remaining courses - Living out other dreams :-)"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Coach",
+                "Company Name",
+                "The Future Project",
+                "Cause",
+                "Economic Empowerment",
+                "Served as a mentor for high school students in Henry Street School (NYC). Supported teams to complete projects that positively impacted their community."
+            ],
+            [
+                "Coach",
+                "Company Name",
+                "The Future Project",
+                "Cause",
+                "Economic Empowerment",
+                "Served as a mentor for high school students in Henry Street School (NYC). Supported teams to complete projects that positively impacted their community."
+            ],
+            [
+                "Highlander Alumni Recruiting Team (HART)",
+                "Company Name",
+                "New Jersey Institute of Technology",
+                "Cause",
+                "Science and Technology",
+                "Worked with NJIT's admissions office to recruit the best and brightest students for enrollment."
+            ],
+            [
+                "Highlander Alumni Recruiting Team (HART)",
+                "Company Name",
+                "New Jersey Institute of Technology",
+                "Cause",
+                "Science and Technology",
+                "Worked with NJIT's admissions office to recruit the best and brightest students for enrollment."
+            ],
+            [
+                "Presenter/Speaker",
+                "Company Name",
+                "The Future Scientist Program",
+                "Promoted engineering by performing hands on experiments in local elementary schools and high-schools thereby cultivating an early interest in the sciences within students."
+            ],
+            [
+                "Presenter/Speaker",
+                "Company Name",
+                "The Future Scientist Program",
+                "Promoted engineering by performing hands on experiments in local elementary schools and high-schools thereby cultivating an early interest in the sciences within students."
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See 23 more skills"
+            ],
+            "Recommendations",
+            [
+                "NSBE Chicago Professionals",
+                "460 members"
+            ],
+            [
+                "Hispanic Professionals",
+                "27,422 members"
+            ],
+            [
+                "Florida Institute of Technology",
+                "59,096 followers"
+            ],
+            [
+                "Kofi AnnanKofi Annan is a LinkedIn Influencer",
+                "Former UN Secretary-General, Chair of the Kofi Annan Foundation",
+                "720,184 followers"
+            ],
+            [
+                "Netflix",
+                "507,881 followers"
+            ],
+            [
+                "PuraCap Pharmaceutical, LLC",
+                "6,822 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "NSBE Chicago Professionals",
+                "460 members"
+            ],
+            [
+                "NSBE Chicago Professionals",
+                "460 members"
+            ],
+            [
+                "Hispanic Professionals",
+                "27,422 members"
+            ],
+            [
+                "Hispanic Professionals",
+                "27,422 members"
+            ],
+            [
+                "Florida Institute of Technology",
+                "59,096 followers"
+            ],
+            [
+                "Florida Institute of Technology",
+                "59,096 followers"
+            ],
+            [
+                "Kofi AnnanKofi Annan is a LinkedIn Influencer",
+                "Former UN Secretary-General, Chair of the Kofi Annan Foundation",
+                "720,184 followers"
+            ],
+            [
+                "Kofi AnnanKofi Annan is a LinkedIn Influencer",
+                "Former UN Secretary-General, Chair of the Kofi Annan Foundation",
+                "720,184 followers"
+            ],
+            [
+                "Kofi Annan is a LinkedIn Influencer"
+            ],
+            [
+                "Netflix",
+                "507,881 followers"
+            ],
+            [
+                "Netflix",
+                "507,881 followers"
+            ],
+            [
+                "PuraCap Pharmaceutical, LLC",
+                "6,822 followers"
+            ],
+            [
+                "PuraCap Pharmaceutical, LLC",
+                "6,822 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Gitika (Gia) Sharda",
+                "Engineering Staffing Lead, Google Cloud Platform (GCP)",
+                "***WE ARE HIRING!!!!***",
+                "May 20, 2015, Gitika (Gia) was senior to Mawulom but didn’t manage directly",
+                "Mawulom and I worked together during his tenure at Google.  He stood out in multiple ways. His biggest strength is his ability to establish relationships not only with his candidates or engineers but recruiters and the people he works with.  He is very positive and always does what's right not only for his candidates but for the business he supports.  He has the maturity  of what it takes and knowledge for a recruiter to be successful.   He was an absolute pleasure to work with."
+            ],
+            [
+                "Gitika (Gia) Sharda",
+                "Engineering Staffing Lead, Google Cloud Platform (GCP)",
+                "***WE ARE HIRING!!!!***",
+                "May 20, 2015, Gitika (Gia) was senior to Mawulom but didn’t manage directly"
+            ],
+            [
+                "Gitika (Gia) Sharda",
+                "Engineering Staffing Lead, Google Cloud Platform (GCP)",
+                "***WE ARE HIRING!!!!***",
+                "May 20, 2015, Gitika (Gia) was senior to Mawulom but didn’t manage directly"
+            ],
+            [
+                "Gitika (Gia) Sharda",
+                "Engineering Staffing Lead, Google Cloud Platform (GCP)",
+                "***WE ARE HIRING!!!!***",
+                "May 20, 2015, Gitika (Gia) was senior to Mawulom but didn’t manage directly"
+            ],
+            "Engineering Staffing Lead, Google Cloud Platform (GCP)\n***WE ARE HIRING!!!!***",
+            [
+                "Mawulom and I worked together during his tenure at Google.  He stood out in multiple ways. His biggest strength is his ability to establish relationships not only with his candidates or engineers but recruiters and the people he works with.  He is very positive and always does what's right not only for his candidates but for the business he supports.  He has the maturity  of what it takes and knowledge for a recruiter to be successful.   He was an absolute pleasure to work with."
+            ],
+            [
+                "Mawulom and I worked together during his tenure at Google.  He stood out in multiple ways. His biggest strength is his ability to establish relationships not only with his candidates or engineers but recruiters and the people he works with.  He is very positive and always does what's right not only for his candidates but for the business he supports.  He has the maturity  of what it takes and knowledge for a recruiter to be successful.   He was an absolute pleasure to work with."
+            ],
+            [
+                "Jose Carpintero",
+                "Systems Engineer and Acquisitions Agent",
+                "May 6, 2015, Mawulom worked with Jose in the same group",
+                "Mawulom has the innate ability to cultivate strong relationships. I worked with Mawulom in both an engineering capacity as well as in a recruiting capacity. In both roles his ability to communicate, share, and build trust within moments has always astounded me. His interpersonal skills play a critical role in his success, his team's success, and in the success of the various programs/projects he has supported."
+            ],
+            [
+                "Jose Carpintero",
+                "Systems Engineer and Acquisitions Agent",
+                "May 6, 2015, Mawulom worked with Jose in the same group"
+            ],
+            [
+                "Jose Carpintero",
+                "Systems Engineer and Acquisitions Agent",
+                "May 6, 2015, Mawulom worked with Jose in the same group"
+            ],
+            [
+                "Jose Carpintero",
+                "Systems Engineer and Acquisitions Agent",
+                "May 6, 2015, Mawulom worked with Jose in the same group"
+            ],
+            "Systems Engineer and Acquisitions Agent",
+            [
+                "Mawulom has the innate ability to cultivate strong relationships. I worked with Mawulom in both an engineering capacity as well as in a recruiting capacity. In both roles his ability to communicate, share, and build trust within moments has always astounded me. His interpersonal skills play a critical role in his success, his team's success, and in the success of the various programs/projects he has supported."
+            ],
+            [
+                "Mawulom has the innate ability to cultivate strong relationships. I worked with Mawulom in both an engineering capacity as well as in a recruiting capacity. In both roles his ability to communicate, share, and build trust within moments has always astounded me. His interpersonal skills play a critical role in his success, his team's success, and in the success of the various programs/projects he has supported."
+            ],
+            [
+                "Jacky Goodwin",
+                "Staffing Lead at Google",
+                "April 23, 2015, Jacky worked with Mawulom in different groups",
+                "Mawulom is an incredible recruiter.  I have had the opportunity to partner with him on a number of candidates and projects.  He is responsive, professional, and easy to work with.  You can count on him to get things done efficiently and effectively.  In addition to being a great coworker, he is an all-around awesome person and tremendously fun to work with."
+            ],
+            [
+                "Jacky Goodwin",
+                "Staffing Lead at Google",
+                "April 23, 2015, Jacky worked with Mawulom in different groups"
+            ],
+            [
+                "Jacky Goodwin",
+                "Staffing Lead at Google",
+                "April 23, 2015, Jacky worked with Mawulom in different groups"
+            ],
+            [
+                "Jacky Goodwin",
+                "Staffing Lead at Google",
+                "April 23, 2015, Jacky worked with Mawulom in different groups"
+            ],
+            "Staffing Lead at Google",
+            [
+                "Mawulom is an incredible recruiter.  I have had the opportunity to partner with him on a number of candidates and projects.  He is responsive, professional, and easy to work with.  You can count on him to get things done efficiently and effectively.  In addition to being a great coworker, he is an all-around awesome person and tremendously fun to work with."
+            ],
+            [
+                "Mawulom is an incredible recruiter.  I have had the opportunity to partner with him on a number of candidates and projects.  He is responsive, professional, and easy to work with.  You can count on him to get things done efficiently and effectively.  In addition to being a great coworker, he is an all-around awesome person and tremendously fun to work with."
+            ],
+            [
+                "Kevin Aveson",
+                "Manager, Talent Acquisition",
+                "December 29, 2014, Kevin worked with Mawulom in different groups",
+                "I have worked with Mawulom for the past 1+ year and am happy to recommend him. We worked closely together on many hires for Google and he is an extraordinary Recruiter. He is very diligent, organized, hardworking and cares about the people he works with. I hope to continue working with him for a long time."
+            ],
+            [
+                "Kevin Aveson",
+                "Manager, Talent Acquisition",
+                "December 29, 2014, Kevin worked with Mawulom in different groups"
+            ],
+            [
+                "Kevin Aveson",
+                "Manager, Talent Acquisition",
+                "December 29, 2014, Kevin worked with Mawulom in different groups"
+            ],
+            [
+                "Kevin Aveson",
+                "Manager, Talent Acquisition",
+                "December 29, 2014, Kevin worked with Mawulom in different groups"
+            ],
+            "Manager, Talent Acquisition",
+            [
+                "I have worked with Mawulom for the past 1+ year and am happy to recommend him. We worked closely together on many hires for Google and he is an extraordinary Recruiter. He is very diligent, organized, hardworking and cares about the people he works with. I hope to continue working with him for a long time."
+            ],
+            [
+                "I have worked with Mawulom for the past 1+ year and am happy to recommend him. We worked closely together on many hires for Google and he is an extraordinary Recruiter. He is very diligent, organized, hardworking and cares about the people he works with. I hope to continue working with him for a long time."
+            ],
+            [
+                "Jayhea S. Mathews, MBA",
+                "Recruiter at Google",
+                "December 22, 2014, Mawulom worked with Jayhea S. in the same group",
+                "Mawulom has the ability to establish strong partnerships within a very short time frame. He learns very quickly and has very strong communication skills. Mawulom takes pride in what he does and you can expect that he will succeed because he has the drive to do so. I highly recommend Mawulom for recruiting. He is a great partner and a great team player. You can always count on him!"
+            ],
+            [
+                "Jayhea S. Mathews, MBA",
+                "Recruiter at Google",
+                "December 22, 2014, Mawulom worked with Jayhea S. in the same group"
+            ],
+            [
+                "Jayhea S. Mathews, MBA",
+                "Recruiter at Google",
+                "December 22, 2014, Mawulom worked with Jayhea S. in the same group"
+            ],
+            [
+                "Jayhea S. Mathews, MBA",
+                "Recruiter at Google",
+                "December 22, 2014, Mawulom worked with Jayhea S. in the same group"
+            ],
+            "Recruiter at Google",
+            [
+                "Mawulom has the ability to establish strong partnerships within a very short time frame. He learns very quickly and has very strong communication skills. Mawulom takes pride in what he does and you can expect that he will succeed because he has the drive to do so. I highly recommend Mawulom for recruiting. He is a great partner and a great team player. You can always count on him!"
+            ],
+            [
+                "Mawulom has the ability to establish strong partnerships within a very short time frame. He learns very quickly and has very strong communication skills. Mawulom takes pride in what he does and you can expect that he will succeed because he has the drive to do so. I highly recommend Mawulom for recruiting. He is a great partner and a great team player. You can always count on him!"
+            ],
+            [
+                "Amanda Adderley",
+                "Senior HR Specialist at National Instruments",
+                "October 1, 2014, Amanda worked with Mawulom in different groups",
+                "Over the time I have worked with Mawulom he has always exceeded my expectations. He is very professional, personable, intelligent and kind. He is organized and goes above and beyond to create a positive experience for his candidates and all he works with. Mawulom had been a great asset to our Google Recruiting efforts, will rise to any challenge and exceed your expectations."
+            ],
+            [
+                "Amanda Adderley",
+                "Senior HR Specialist at National Instruments",
+                "October 1, 2014, Amanda worked with Mawulom in different groups"
+            ],
+            [
+                "Amanda Adderley",
+                "Senior HR Specialist at National Instruments",
+                "October 1, 2014, Amanda worked with Mawulom in different groups"
+            ],
+            [
+                "Amanda Adderley",
+                "Senior HR Specialist at National Instruments",
+                "October 1, 2014, Amanda worked with Mawulom in different groups"
+            ],
+            "Senior HR Specialist at National Instruments",
+            [
+                "Over the time I have worked with Mawulom he has always exceeded my expectations. He is very professional, personable, intelligent and kind. He is organized and goes above and beyond to create a positive experience for his candidates and all he works with. Mawulom had been a great asset to our Google Recruiting efforts, will rise to any challenge and exceed your expectations."
+            ],
+            [
+                "Over the time I have worked with Mawulom he has always exceeded my expectations. He is very professional, personable, intelligent and kind. He is organized and goes above and beyond to create a positive experience for his candidates and all he works with. Mawulom had been a great asset to our Google Recruiting efforts, will rise to any challenge and exceed your expectations."
+            ],
+            [
+                "Brandy H.",
+                "Senior Strategic Operations Manager; Head of Sourcing Operations",
+                "October 31, 2017, Brandy worked with Mawulom in the same group",
+                "Brandy has a strong work ethic and high levels of integrity. The effects of her leadership and time she took in strengthening the relationships around her team were felt throughout the Org. She's diligent, detail oriented and has a positive mental outlook. Particularly in her role as sourcing lead for the SLC team. She's a great and resourceful recruitment partner. Brandy's positive disposition, welcoming manner, and business acumen are impactful and make her a valued team member."
+            ],
+            [
+                "Brandy H.",
+                "Senior Strategic Operations Manager; Head of Sourcing Operations",
+                "October 31, 2017, Brandy worked with Mawulom in the same group"
+            ],
+            [
+                "Brandy H.",
+                "Senior Strategic Operations Manager; Head of Sourcing Operations",
+                "October 31, 2017, Brandy worked with Mawulom in the same group"
+            ],
+            [
+                "Brandy H.",
+                "Senior Strategic Operations Manager; Head of Sourcing Operations",
+                "October 31, 2017, Brandy worked with Mawulom in the same group"
+            ],
+            "Senior Strategic Operations Manager; Head of Sourcing Operations",
+            [
+                "Brandy has a strong work ethic and high levels of integrity. The effects of her leadership and time she took in strengthening the relationships around her team were felt throughout the Org. She's diligent, detail oriented and has a positive mental outlook. Particularly in her role as sourcing lead for the SLC team. She's a great and resourceful recruitment partner. Brandy's positive disposition, welcoming manner, and business acumen are impactful and make her a valued team member."
+            ],
+            [
+                "Brandy has a strong work ethic and high levels of integrity. The effects of her leadership and time she took in strengthening the relationships around her team were felt throughout the Org. She's diligent, detail oriented and has a positive mental outlook. Particularly in her role as sourcing lead for the SLC team. She's a great and resourceful recruitment partner. Brandy's positive disposition, welcoming manner, and business acumen are impactful and make her a valued team member."
+            ],
+            [
+                "Steven Pollock",
+                "Technical Recruiting at Thumbtack, Musician",
+                "July 5, 2017, Mawulom was senior to Steven but didn’t manage directly",
+                "Steven is one of the best technical sourcers I've worked with. For over a year in a half, I've watched and benefited from his erudition. He is creative, dependable, detail-oriented, responsive, thoughtful, and has a positive mental outlook. Constantly looking for opportunities to refine his craft. Due to his thoroughness, one of his biggest strength is his ability to write thoughtful compelling messages. He is praised by his teammates for identifying the right candidate's profiles and provides insights on sourcing strategy. Steven takes best practices and operationalizes them for messaging and uses a hands-on approach when coaching his colleagues. He has been a phenomenal sourcing partner to our team. His dedication and result-driven nature cause him to always pull through with extra effort as needed. During my tenure at Thumbtack Steven was not only a part of this team, but he was a top performer.P.S. Outside of recruiting, Steven is also a passionate musician"
+            ],
+            [
+                "Steven Pollock",
+                "Technical Recruiting at Thumbtack, Musician",
+                "July 5, 2017, Mawulom was senior to Steven but didn’t manage directly"
+            ],
+            [
+                "Steven Pollock",
+                "Technical Recruiting at Thumbtack, Musician",
+                "July 5, 2017, Mawulom was senior to Steven but didn’t manage directly"
+            ],
+            [
+                "Steven Pollock",
+                "Technical Recruiting at Thumbtack, Musician",
+                "July 5, 2017, Mawulom was senior to Steven but didn’t manage directly"
+            ],
+            "Technical Recruiting at Thumbtack, Musician",
+            [
+                "Steven is one of the best technical sourcers I've worked with. For over a year in a half, I've watched and benefited from his erudition. He is creative, dependable, detail-oriented, responsive, thoughtful, and has a positive mental outlook. Constantly looking for opportunities to refine his craft. Due to his thoroughness, one of his biggest strength is his ability to write thoughtful compelling messages. He is praised by his teammates for identifying the right candidate's profiles and provides insights on sourcing strategy. Steven takes best practices and operationalizes them for messaging and uses a hands-on approach when coaching his colleagues. He has been a phenomenal sourcing partner to our team. His dedication and result-driven nature cause him to always pull through with extra effort as needed. During my tenure at Thumbtack Steven was not only a part of this team, but he was a top performer.P.S. Outside of recruiting, Steven is also a passionate musician"
+            ],
+            [
+                "Steven is one of the best technical sourcers I've worked with. For over a year in a half, I've watched and benefited from his erudition. He is creative, dependable, detail-oriented, responsive, thoughtful, and has a positive mental outlook. Constantly looking for opportunities to refine his craft. Due to his thoroughness, one of his biggest strength is his ability to write thoughtful compelling messages. He is praised by his teammates for identifying the right candidate's profiles and provides insights on sourcing strategy. Steven takes best practices and operationalizes them for messaging and uses a hands-on approach when coaching his colleagues. He has been a phenomenal sourcing partner to our team. His dedication and result-driven nature cause him to always pull through with extra effort as needed. During my tenure at Thumbtack Steven was not only a part of this team, but he was a top performer.P.S. Outside of recruiting, Steven is also a passionate musician"
+            ]
+        ],
+        "skills": [
+            [
+                "Program Management",
+                "See 87 endorsements for Program Management",
+                "87",
+                "Program Management",
+                "Endorse",
+                "Endorsed by Daniel J. Thompson, MBA, PMP, ITIL, who is highly skilled at this",
+                "Endorsed by 3 of Mawulom’s colleagues at LinkedIn"
+            ],
+            [
+                "Program Management",
+                "See 87 endorsements for Program Management",
+                "87"
+            ],
+            [
+                "Recruiting",
+                "See 62 endorsements for Recruiting",
+                "62",
+                "Recruiting",
+                "Endorse",
+                "Endorsed by Robert Merrill and 7 others who are highly skilled at this",
+                "Endorsed by 13 of Mawulom’s colleagues at Thumbtack"
+            ],
+            [
+                "Recruiting",
+                "See 62 endorsements for Recruiting",
+                "62"
+            ],
+            [
+                "Project Management",
+                "See 55 endorsements for Project Management",
+                "55",
+                "Project Management",
+                "Endorse",
+                "Endorsed by 3 of Mawulom’s colleagues at LinkedIn"
+            ],
+            [
+                "Project Management",
+                "See 55 endorsements for Project Management",
+                "55"
+            ]
+        ],
+        "summary": "  [Who I am]  I’m an adventurer at heart, that thrives by adding value to the world. I’m hands-on, result-oriented with recruiting, engineering, leadership, and EEO experience. [What I do]  Build inclusive teams & share what I learn. \n  \n  \n",
+        "name": "Mawulom Nenonene",
+        "title": "Talent Acquisition Advisor | D&I Consultant",
+        "url": "linkedin.com/in/mawulomnenonene",
+        "phone": "",
+        "email": "mawulom@akpe.us"
+    }
+]

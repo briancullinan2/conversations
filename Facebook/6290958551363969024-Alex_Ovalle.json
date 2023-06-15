@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6290958551363969024/",
+    "participants": [
+        {
+            "name": "Alex Ovalle",
+            "title": "Recruiter / US Division Projects manager at Intertec International",
+            "url": "linkedin.com/in/alex-ovalle-18b8b120",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Alex Ovalle",
+            "time": "2017-07-12T12:00:00.000Z",
+            "message": "Python opportunity\n\nHi Brian, \n\nWe currently have a small 1 moth to 7 week assignment for a Python developer in Mesa. I wanted to find out if you might be open to engage this assignment or if you might know of anybody interested in this temporary opportunity. The main skills we look for are:\n\nThis would be a Python developer that has experience in the following areas:\n\n•\tFTP server/client on Python\n•\tUDP server/client support on Python\n•\tWhat Python Wheels will we be using to accomplish our business goals / how updates occur\n•\tThreading, interprocess communication, \n•\tResource contention management/testing (particularly on the Cradlepoint Python “carveout” execution environment)\n•\tException/Error handling (particularly on the Cradlepoint Python “carveout” execution environment)\n•\tRelational storage (particularly on the Cradlepoint Python “carveout” execution environment)\n•\tDevelopment Environment (Use of Visual Studio IDE, other tooling, Windows vs Linux)\n•\tUnit & Integration testing – Frameworks, approaches, limitations\n•\tPerformance testing in general\n•\tDeployment strategy/tactics (Particularly with Cradlepoint EMC in the mix)\nPlease let me know if you would be interested in this and if so, what would your rate be.\nThanks,\n\nAlex Ovalle\nRecruiter at Intertec International\nalex.ovalle@intertecintl.com\n"
+        }
+    ]
+}

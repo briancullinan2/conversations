@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6215658417256751104/",
+    "participants": [
+        {
+            "name": "David Beckemeyer",
+            "title": "CTO",
+            "url": "linkedin.com/in/davidbeckemeyer",
+            "phone": null,
+            "email": "david@bdt.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-16T22:47:00.000Z"
+        }
+    ]
+}

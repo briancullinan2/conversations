@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6237379520563863552/",
+    "participants": [
+        {
+            "name": "JJ Chalupnik",
+            "title": "CG Generalist at Encore VFX / Deluxe Entertainment",
+            "url": "linkedin.com/in/jjchalupnik",
+            "phone": "480.495.7530 (Home)",
+            "email": "jjchalupnik@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "time": "2018-02-14T21:19:00.000Z",
+            "message": "Thank you for connecting!\n"
+        },
+        {
+            "from": "JJ Chalupnik",
+            "time": "2018-02-14T23:23:00.000Z",
+            "message": "Sure! No problem.\n"
+        }
+    ]
+}

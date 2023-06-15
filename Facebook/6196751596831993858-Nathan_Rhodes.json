@@ -1,0 +1,99 @@
+{
+    "thread": "/messaging/thread/6196751596831993858/",
+    "participants": [
+        {
+            "name": "Nathan Rhodes",
+            "title": "Talent @ Square",
+            "url": "linkedin.com/in/nathanrhodes",
+            "phone": "",
+            "email": "rhodes@squareup.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "",
+            "message": "Thanks you for connecting!",
+            "time": "2017-10-30T18:38:00.000Z"
+        },
+        {
+            "from": "Nathan Rhodes",
+            "message": "Of course! How's your day going?",
+            "time": "2017-10-30T18:41:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Super. Been interviewing and I have a project proposal to write later. How about yourself?",
+            "time": "2017-10-30T18:50:00.000Z"
+        },
+        {
+            "from": "Nathan Rhodes",
+            "message": "Just returned after a week out of the office. A lot to catch up on!",
+            "time": "2017-10-30T19:05:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Lucky you!",
+            "time": "2017-10-30T19:05:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "New office in Scottsdale?",
+            "time": "2017-10-30T19:08:00.000Z"
+        },
+        {
+            "from": "Nathan Rhodes",
+            "message": "Not new, I want to say 3 years old at this point.",
+            "time": "2017-10-30T19:08:00.000Z"
+        },
+        {
+            "from": "Nathan Rhodes",
+            "message": "It's where our Customer service is based.",
+            "time": "2017-10-30T19:59:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Cool.  I thought I saw a bunch of construction in Old Town Scottsdale, any use for a techie like me?  I am on the job hunt.",
+            "time": "2017-10-30T01:46:00.000Z"
+        },
+        {
+            "from": "Nathan Rhodes",
+            "message": "How are your backend PHP chops? Our tech stack is JS, CSS, html, PHP, MySQL.",
+            "time": "2017-10-30T18:29:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "I've been using those for 8+ years. I can do back end. Any specific framework?",
+            "time": "2017-10-30T18:30:00.000Z"
+        },
+        {
+            "from": "Nathan Rhodes",
+            "message": "That's great. I wanted to double check as I believe I saw you applied for a Front end role here and this would easily be full-stack (maybe even focused a little bit on the backend....I'm unsure still). We've been known to use Laravel from what I understand. Is there a time tomorrow or Friday you could possible chat for 20-30 minutes?",
+            "time": "2017-10-30T19:22:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Friday at 1 or 3 work?",
+            "time": "2017-10-30T19:30:00.000Z"
+        },
+        {
+            "from": "Nathan Rhodes",
+            "message": "Let's do 3 pm. Best number to reach you with (I'm sure I have it in the system...but doesn't hurt to confirm)?",
+            "time": "2017-10-30T20:08:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "4804660856",
+            "time": "2017-10-30T20:09:00.000Z"
+        },
+        {
+            "from": "Nathan Rhodes",
+            "message": "Is that 3pm PST?",
+            "time": "2017-10-30T21:07:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Yeah Arizona time I think it's the same now. DST is weird here.",
+            "time": "2017-10-30T21:15:00.000Z"
+        }
+    ]
+}

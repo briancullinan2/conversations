@@ -1,0 +1,29 @@
+{
+    "thread": "/messaging/thread/6341295825674731520/",
+    "participants": [
+        {
+            "name": "Troy Oltmanns",
+            "title": "☁ Software Architecture and Engineering Specialist - Small Business Owner",
+            "url": "linkedin.com/in/troyoltmanns",
+            "phone": "480 382 SITE (7483) (Work)",
+            "email": "toltmanns@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Troy Oltmanns",
+            "message": "",
+            "time": "2017-11-28T15:25:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-11-29T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "",
+            "time": "2017-11-30T19:57:00.000Z"
+        }
+    ]
+}

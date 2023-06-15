@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6280478688714776576/",
+    "participants": [
+        {
+            "name": "Jimmy Doan",
+            "title": "Technical Recruiter at Atrilogy Solutions Group",
+            "url": "linkedin.com/in/jimmycdoan",
+            "phone": "",
+            "email": ""
+        }
+    ],
+    "messages": [
+        {
+            "from": "Jimmy Doan",
+            "time": "2017-06-13T12:00:00.000Z",
+            "message": "quick question...\n\nHi Brian, \n\nI've noticed a lot of movement (in the Phoenix, Scottsdale, and East valley market) in hiring full stack .NET Software Engineers with your skills and experience. At the moment, I'm partnered with over 4 different well-known companies who are looking for developers with experience in Microsoft .NET (MVC, ASP.NET, C#, SQL Server).\n\nIf an amazing opportunity came along, would you be open to hearing more about it?\n\nI'd like to send you details on available positions based on your initial requirements: please complete below and include your email/contact number- I'll only reach out to you on opportunities that meet or exceed your expectations. \n\nWhat's your Ideal location?:\nDo you prefer Contract, Contract-to-Hire, or Direct Hire?:\nAre you open to other positions outside of Arizona? If so, where?: \nMinimum hourly pay or salary requirements?: \n\n\nAll the Best,\n\nJimmy Doan\nTechnical Recruiter at Atrilogy Solutions Group\n602.888.0396 | jdoan@atrilogy.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-06-13T19:41:00.000Z",
+            "message": "I would be open to hearing about it.\n"
+        }
+    ]
+}

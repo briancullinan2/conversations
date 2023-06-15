@@ -1,0 +1,30 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "3Jul09",
+    "participants": "Leah (Dahmer) Shanker | Winemaker at Aridus Wine Company > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Leah (Dahmer) Shanker",
+        "url": "linkedin.com/in/leahshanker",
+        "phone": "206-743-7103 (Mobile)",
+        "email": "leah.shanker@gmail.com",
+        "title": "Winemaker at Aridus Wine Company"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Dear Brian,\nyou can has recz! \nSorry, I meant to send this out before when you asked but instead kept this draft in a textfile for a month because I lost connectivity right before sending it.\n\nDetails of the Recommendation: \"Brian is a highly detail-oriented applications developer with a particular gift for seeking out difficult program bugs and eradicating them. He prides himself on valuing “function over fashion” in regards to the software development process. I can tell you, though, as his team leader in a collaborative User Interface Design project: He has an intuition for usable design. I've been notified by our professor, Dr. Eck Doerry, that our group's Final Usability Analysis Project is handed out to future students as a prime example of creative design, effective analysis and good old-fashioned follow-through. It's been a pleasure working with him.\"",
+    "time": "2009-07-03T12:28:00.000Z",
+    "title": "Winemaker at Aridus Wine Company"
+  }
+]

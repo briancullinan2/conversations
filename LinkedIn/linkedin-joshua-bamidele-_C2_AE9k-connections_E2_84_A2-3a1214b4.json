@@ -1,0 +1,355 @@
+[
+    {
+        "resourceName": "people/c2963796000938289077",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMakp2WG1rZHpLdGc9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "292184c28ea667b5"
+                    }
+                },
+                "displayName": "Chris Huie",
+                "familyName": "Huie",
+                "givenName": "Chris",
+                "displayNameLastFirst": "Huie, Chris"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "292184c28ea667b5"
+                    }
+                },
+                "value": "+1 602-750-6878",
+                "canonicalForm": "+16027506878",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "188 Mutual Connections",
+                "You and Chris both know Kyle Burnett, Ed Nusbaum, and 186 others"
+            ],
+            [
+                "Hey Phoenix locals! Happen to know anyone looking to learn JavaScript or is interested in learning web development?",
+                "Galvanize Inc Phoenix now has a FREE online JavaScript Fundamentals course!! Oh wait, it gets better! Every Tuesday they will be hosting in-person studio sessions with the Galvanize Instructors to go over questions from that week.",
+                "ALL FOR FREEEE!",
+                "Feel free to tag anyone who may be interested & click the link in the comments to sign up and get on the list.",
+                "And for question, reach out to Chris Huie!",
+                "Chris liked a comment"
+            ],
+            [
+                "My quest to be the 2018 EVO Street Fighter 5 champion of the world starts today! 🕹",
+                "#DreamBigSoYouSleepLess",
+                "Chris liked a comment"
+            ],
+            [
+                "Drew Bronnenkant slam that energy drink and meet me at HackerNest. It's on.",
+                "Tonette Maiphuong Pham",
+                "Joy Kimaru/ Gwenvel",
+                "Andrew Antila",
+                "Joshua Bahr",
+                "Travis Hoyle",
+                "#DoStuff #WanderDragon",
+                "Chris liked"
+            ],
+            [
+                "Free JavaScript Fundamentals Online Course at Galvanize Phoenix",
+                "Chris liked a comment"
+            ],
+            [
+                "Free JavaScript Fundamentals Online Course at Galvanize Austin",
+                "Chris liked"
+            ],
+            [
+                "Cloud Series at Phoenix DevOps Meetup",
+                "Chris liked"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Developer Evangelist",
+                "Company Name",
+                "Galvanize Inc",
+                "Dates Employed",
+                "Nov 2016 – Present",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "Phoenix, Arizona Area",
+                "I build communities around technology and start-up culture"
+            ],
+            [
+                "Senior Financial Analyst",
+                "Company Name",
+                "SheKnows Media",
+                "Dates Employed",
+                "Jan 2016 – Nov 2016",
+                "Employment Duration",
+                "11 mos",
+                "Location",
+                "Scottsdale,AZ",
+                "-Take on key roles and project leadership on both Business Intelligence and Finance teams.-Built FP&A tools with technologies such as SQL, Excel, Amazon Redshift, and Python that were integrated with vendor APIs such as Netsuite and Salesforce.-Built and prepare monthly variance explanations and accompanying package.-Prepare rolling monthly forecasts and model alternative business scenarios."
+            ],
+            [
+                "Business Intelligence Analyst",
+                "Company Name",
+                "Northcentral University",
+                "Dates Employed",
+                "Nov 2015 – Feb 2016",
+                "Employment Duration",
+                "4 mos",
+                "Location",
+                "Scottsdale,Az",
+                "-Built in month prediction algorithms using natural exponential decay and multiple regression analysis utilizing Python and ultimately implemented in Excel PowerPivot with connection strings directly to our internal SQL Server."
+            ],
+            [
+                "Financial Analyst",
+                "Company Name",
+                "Northcentral University",
+                "Dates Employed",
+                "Feb 2015 – Nov 2015",
+                "Employment Duration",
+                "10 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "-Modeled future and expected growth rates by building a fully automated application with SQL, VBA, PowerPivot, and PowerQuery. -Automated third party data flows using JavaScript, VBA, Selenium, and SSIS.-Created applications to calculate key revenue and COGS drivers.-Detailed multiple customer personas to more effectively segment and target marketing efforts around this concept. -Built real-time dashboard applications in Excel that tracks highly detailed information, while being designed in a way that is easily digestible for higher level executives who need a broad scope."
+            ],
+            [
+                "Customer & Supplier Systems Analyst",
+                "Company Name",
+                "US Foods",
+                "Dates Employed",
+                "Aug 2013 – Feb 2015",
+                "Employment Duration",
+                "1 yr 7 mos",
+                "Location",
+                "Tempe, Arizona"
+            ],
+            [
+                "Accounting & Marketing Consultant",
+                "Company Name",
+                "Big Mac & Little Lu's Seafood Market",
+                "Dates Employed",
+                "Apr 2013 – May 2014",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "Location",
+                "Denver, CO"
+            ],
+            [
+                "Staff Accountant",
+                "Company Name",
+                "Zona Hotel & Suites Scottsdale",
+                "Dates Employed",
+                "Apr 2010 – Apr 2013",
+                "Employment Duration",
+                "3 yrs 1 mo",
+                "Location",
+                "Scottsdale, AZ"
+            ],
+            [
+                "Bartender",
+                "Company Name",
+                "Various Bars & Restaurants",
+                "Dates Employed",
+                "Jul 2005 – Apr 2011",
+                "Employment Duration",
+                "5 yrs 10 mos",
+                "Location",
+                "Phoenix, Arizona Area"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Finance",
+                "Dates attended or expected graduation",
+                "2004 – 2009",
+                "Activities and Societies:",
+                "Young Entrepreneurs",
+                "Found a passion for market movements and the concepts of financial markets. My coursework reflected this path and passion"
+            ],
+            [
+                "Arizona State University",
+                "Degree Name",
+                "Bachelor of Science (BS)",
+                "Field Of Study",
+                "Finance",
+                "Dates attended or expected graduation",
+                "2004 – 2009",
+                "Activities and Societies:",
+                "Young Entrepreneurs",
+                "Found a passion for market movements and the concepts of financial markets. My coursework reflected this path and passion"
+            ],
+            [
+                "Galvanize - Phoenix, AZ"
+            ],
+            [
+                "Galvanize - Phoenix, AZ"
+            ],
+            "Recommendations",
+            [
+                "Pattern Recognition, Data Mining, Machine Intelligence and Learning",
+                "44,634 members"
+            ],
+            [
+                "Ben HorowitzBen Horowitz is a LinkedIn Influencer",
+                "Horowitz at Andreessen Horowitz",
+                "225,930 followers"
+            ],
+            [
+                "Headfarmer, LLC",
+                "3,113 followers"
+            ],
+            [
+                "Michael MoritzMichael Moritz is a LinkedIn Influencer",
+                "Partner, Sequoia Capital",
+                "589,301 followers"
+            ],
+            [
+                "Vue.js Developers",
+                "555 followers"
+            ],
+            [
+                "Charles BestCharles Best is a LinkedIn Influencer",
+                "Founder, DonorsChoose.org",
+                "222,412 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Pattern Recognition, Data Mining, Machine Intelligence and Learning",
+                "44,634 members"
+            ],
+            [
+                "Pattern Recognition, Data Mining, Machine Intelligence and Learning",
+                "44,634 members"
+            ],
+            [
+                "Ben HorowitzBen Horowitz is a LinkedIn Influencer",
+                "Horowitz at Andreessen Horowitz",
+                "225,930 followers"
+            ],
+            [
+                "Ben HorowitzBen Horowitz is a LinkedIn Influencer",
+                "Horowitz at Andreessen Horowitz",
+                "225,930 followers"
+            ],
+            [
+                "Ben Horowitz is a LinkedIn Influencer"
+            ],
+            [
+                "Headfarmer, LLC",
+                "3,113 followers"
+            ],
+            [
+                "Headfarmer, LLC",
+                "3,113 followers"
+            ],
+            [
+                "Michael MoritzMichael Moritz is a LinkedIn Influencer",
+                "Partner, Sequoia Capital",
+                "589,301 followers"
+            ],
+            [
+                "Michael MoritzMichael Moritz is a LinkedIn Influencer",
+                "Partner, Sequoia Capital",
+                "589,301 followers"
+            ],
+            [
+                "Michael Moritz is a LinkedIn Influencer"
+            ],
+            [
+                "Vue.js Developers",
+                "555 followers"
+            ],
+            [
+                "Vue.js Developers",
+                "555 followers"
+            ],
+            [
+                "Charles BestCharles Best is a LinkedIn Influencer",
+                "Founder, DonorsChoose.org",
+                "222,412 followers"
+            ],
+            [
+                "Charles BestCharles Best is a LinkedIn Influencer",
+                "Founder, DonorsChoose.org",
+                "222,412 followers"
+            ],
+            [
+                "Charles Best is a LinkedIn Influencer"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Lonny Miller",
+                "⭐️ Direct Hire Recruiter⭐️ Accounting & Finance Industry ⭐️ lonny.miller@roberthalf.com ⭐️ 602-224-0551",
+                "June 27, 2015, Chris was a client of Lonny’s",
+                "Lonny is a great person to work with and truly works night and day for you. On top of all aspects of the recruitment process and fully screens all relationships he cultivates. So happy to work with Lonny and would love to in the future."
+            ],
+            [
+                "Lonny Miller",
+                "⭐️ Direct Hire Recruiter⭐️ Accounting & Finance Industry ⭐️ lonny.miller@roberthalf.com ⭐️ 602-224-0551",
+                "June 27, 2015, Chris was a client of Lonny’s"
+            ],
+            [
+                "Lonny Miller",
+                "⭐️ Direct Hire Recruiter⭐️ Accounting & Finance Industry ⭐️ lonny.miller@roberthalf.com ⭐️ 602-224-0551",
+                "June 27, 2015, Chris was a client of Lonny’s"
+            ],
+            [
+                "Lonny Miller",
+                "⭐️ Direct Hire Recruiter⭐️ Accounting & Finance Industry ⭐️ lonny.miller@roberthalf.com ⭐️ 602-224-0551",
+                "June 27, 2015, Chris was a client of Lonny’s"
+            ],
+            "⭐️ Direct Hire Recruiter⭐️ Accounting & Finance Industry ⭐️ lonny.miller@roberthalf.com ⭐️ 602-224-0551",
+            [
+                "Lonny is a great person to work with and truly works night and day for you. On top of all aspects of the recruitment process and fully screens all relationships he cultivates. So happy to work with Lonny and would love to in the future."
+            ],
+            [
+                "Lonny is a great person to work with and truly works night and day for you. On top of all aspects of the recruitment process and fully screens all relationships he cultivates. So happy to work with Lonny and would love to in the future."
+            ]
+        ],
+        "skills": [],
+        "summary": "  I support the Phoenix Dev Community like a boss... Subscribe to my weekly newsletter here ~> http://eepurl.com/c4LaWf \n  \n  \n",
+        "name": "Chris Huie",
+        "title": "Developer Evangelist at Galvanize Inc",
+        "url": "",
+        "phone": "",
+        "email": ""
+    }
+]

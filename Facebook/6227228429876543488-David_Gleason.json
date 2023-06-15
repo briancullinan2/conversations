@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6227228429876543488/",
+    "participants": [
+        {
+            "name": "David Gleason",
+            "title": "Independent consultant.",
+            "url": "linkedin.com/in/dagleason",
+            "phone": null,
+            "email": "davidovich@mac.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-17T21:02:00.000Z"
+        }
+    ]
+}

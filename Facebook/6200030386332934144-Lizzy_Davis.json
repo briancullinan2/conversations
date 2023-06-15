@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6200030386332934144/",
+    "participants": [
+        {
+            "name": "Lizzy Davis",
+            "title": "National Recruiter - Network Infrastructure Services",
+            "url": "linkedin.com/in/elizabethdavis1",
+            "phone": null,
+            "email": "edavis@teksystems.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Lizzy Davis",
+            "message": "Cloud Engineer Networking (San Diego with full relo package)\nedavis@teksystems.com",
+            "time": "2016-11-03T12:00:00.000Z"
+        },
+        {
+            "from": "",
+            "message": "Thank you, just responded over email",
+            "time": "2017-10-04T19:52:00.000Z"
+        }
+    ]
+}

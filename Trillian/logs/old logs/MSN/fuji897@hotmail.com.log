@@ -1,0 +1,122 @@
+﻿Session Start (b.cullinan@cox.net:fuji897@hotmail.com): Fri Apr 21 15:56:55 2006
+[04/21/2006 03:56 PM] fuji897@hotmail.com: hippo11
+[04/21/2006 03:56 PM] fuji897@hotmail.com: can u see that image?
+[04/21/2006 03:57 PM] b.cullinan@cox.net: no
+[04/21/2006 03:57 PM] fuji897@hotmail.com: see
+[04/21/2006 03:57 PM] fuji897@hotmail.com: trillian doesnt display these msn emoticons
+[04/21/2006 03:57 PM] b.cullinan@cox.net: oh
+[04/21/2006 03:57 PM] fuji897@hotmail.com: boob11
+[04/21/2006 03:57 PM] fuji897@hotmail.com: you're missing out, i have some killer ones
+[04/21/2006 03:57 PM] b.cullinan@cox.net: nope
+[04/21/2006 03:57 PM] fuji897@hotmail.com: that's why i am still using normal MSN
+[04/21/2006 03:57 PM] fuji897@hotmail.com: but my MSN has been hacked, so it doesn't have any crappy ads
+[04/21/2006 03:58 PM] b.cullinan@cox.net: oh sweet
+Session Close (fuji897@hotmail.com): Fri Apr 21 16:06:39 2006
+
+
+Session Start (b.cullinan@cox.net:fuji897@hotmail.com): Sun Apr 23 21:37:28 2006
+[04/23/2006 09:37 PM] fuji897@hotmail.com: you around?
+[04/23/2006 09:38 PM] b.cullinan@cox.net: kinda
+[04/23/2006 09:38 PM] b.cullinan@cox.net: whats up?
+[04/23/2006 09:38 PM] fuji897@hotmail.com: how did u get proj9 working?
+[04/23/2006 09:38 PM] b.cullinan@cox.net: uhhh
+[04/23/2006 09:38 PM] b.cullinan@cox.net: it didn't work in the browser
+[04/23/2006 09:38 PM] b.cullinan@cox.net: what exception are you getting again?
+[04/23/2006 09:38 PM] fuji897@hotmail.com: (Link: http://bjcullinan.mine.nu/my_documents/My%20Misc/Proj9)http://bjcullinan.mine.nu/my_documents/My%20Misc/Proj9
+[04/23/2006 09:38 PM] fuji897@hotmail.com: it seems to be working
+[04/23/2006 09:38 PM] b.cullinan@cox.net: yeah on mine it works
+[04/23/2006 09:39 PM] b.cullinan@cox.net: on his it fucking sucks
+[04/23/2006 09:39 PM] b.cullinan@cox.net: how did you get that address?
+[04/23/2006 09:39 PM] fuji897@hotmail.com: i'm the masta
+[04/23/2006 09:39 PM] b.cullinan@cox.net: your a security whore
+[04/23/2006 09:39 PM] fuji897@hotmail.com: that too
+[04/23/2006 09:40 PM] fuji897@hotmail.com: but how did u get that shit to work?
+[04/23/2006 09:40 PM] b.cullinan@cox.net: iimport java.io.*;
+ import java.awt.*;
+ import java.awt.image.*;
+ import java.awt.event.*;
+ import javax.swing.*;
+ import java.net.URL;
+ import java.awt.event.ActionEvent;
+ import java.awt.event.ActionListener;
+ 
+[04/23/2006 09:40 PM] b.cullinan@cox.net: those are your imports make sure you have import java.awt.event.ActionEvent;
+ import java.awt.event.ActionListener;
+ 
+[04/23/2006 09:41 PM] fuji897@hotmail.com: yeah i had those
+[04/23/2006 09:41 PM] b.cullinan@cox.net: what error are you getting again
+[04/23/2006 09:42 PM] fuji897@hotmail.com: just an error when i visit it in a browser
+[04/23/2006 09:42 PM] b.cullinan@cox.net: does your text work ok?
+[04/23/2006 09:42 PM] fuji897@hotmail.com: yea
+[04/23/2006 09:42 PM] fuji897@hotmail.com: didnt you use my code to write your program?
+[04/23/2006 09:43 PM] b.cullinan@cox.net: not really
+[04/23/2006 09:43 PM] b.cullinan@cox.net: some but now i can't remember what i changed
+[04/23/2006 09:43 PM] fuji897@hotmail.com: alright
+[04/23/2006 09:43 PM] b.cullinan@cox.net: i'll send you mine
+[04/23/2006 09:43 PM] b.cullinan@cox.net: i still get warnings when i compile on unix
+[04/23/2006 09:44 PM] fuji897@hotmail.com: yeah, the warnings are fine
+[04/23/2006 09:44 PM] b.cullinan@cox.net: just download mine from the proj folder
+[04/23/2006 09:44 PM] b.cullinan@cox.net: type in BlackjackApplet.java
+[04/23/2006 09:46 PM] b.cullinan@cox.net: got it?
+[04/23/2006 09:46 PM] fuji897@hotmail.com: yeah
+[04/23/2006 09:46 PM] fuji897@hotmail.com: looks like the only real changes are the img path
+[04/23/2006 09:48 PM] b.cullinan@cox.net: yeah
+[04/23/2006 09:48 PM] b.cullinan@cox.net: but there was something small
+[04/23/2006 09:48 PM] b.cullinan@cox.net: that took my a while
+[04/23/2006 09:48 PM] b.cullinan@cox.net: keep comparing
+[04/23/2006 09:49 PM] b.cullinan@cox.net: has something to do with the init function where it makes the controls
+[04/23/2006 09:53 PM] fuji897@hotmail.com: weird, mine would compile, but it still displays with that error when i view it
+[04/23/2006 09:53 PM] b.cullinan@cox.net: darnit
+[04/23/2006 09:53 PM] b.cullinan@cox.net: what line?
+[04/23/2006 09:53 PM] fuji897@hotmail.com: doesnt really say
+[04/23/2006 09:53 PM] b.cullinan@cox.net: it should give you clues
+[04/23/2006 09:53 PM] b.cullinan@cox.net: whats the error?
+[04/23/2006 09:53 PM] b.cullinan@cox.net: ??????
+[04/23/2006 09:53 PM] fuji897@hotmail.com: (Link: http://www.mrbobswebdesign.com/java/proj9/)http://www.mrbobswebdesign.com/java/proj9/
+[04/23/2006 09:54 PM] fuji897@hotmail.com: java.lang.NullPointerException 
+at BlackjackApplet$CardCanvas.<init>(BlackjackApplet.java:56) 
+at BlackjackApplet.init(BlackjackApplet.java:149) 
+at sun.applet.AppletPanel.run(Unknown Source) 
+at java.lang.Thread.run(Unknown Source) 
+Exception in thread "thread applet-BlackjackApplet.class" java.lang.NullPointerException 
+at sun.plugin.util.GrayBoxPainter.showLoadingError(Unknown Source) 
+at sun.pl
+[04/23/2006 09:55 PM] b.cullinan@cox.net: i remember getting that
+[04/23/2006 09:55 PM] b.cullinan@cox.net: isn't it called Canvas, not CardCanvas
+[04/23/2006 09:55 PM] b.cullinan@cox.net: check the init function and the declaration above
+[04/23/2006 09:56 PM] fuji897@hotmail.com: sorry, BlackjackApplet.java  isn't up
+[04/23/2006 09:56 PM] fuji897@hotmail.com: lol
+[04/23/2006 09:56 PM] fuji897@hotmail.com: you can keep trying to access it tho if u want
+[04/23/2006 09:56 PM] fuji897@hotmail.com: hmmm, i uploaded your class  files and it still didnt work
+[04/23/2006 09:57 PM] fuji897@hotmail.com: just replaced your blackjackapplet class file
+[04/23/2006 09:57 PM] b.cullinan@cox.net: hmmm
+[04/23/2006 09:57 PM] b.cullinan@cox.net: what is on line 56 and 149?
+[04/23/2006 09:57 PM] b.cullinan@cox.net: give me the exact code
+[04/23/2006 09:58 PM] fuji897@hotmail.com: int num_of_suits = 4;
+[04/23/2006 09:58 PM] fuji897@hotmail.com: public void init()
+[04/23/2006 09:58 PM] b.cullinan@cox.net: public static void init()
+[04/23/2006 09:59 PM] fuji897@hotmail.com: does this work for you? (Link: http://www.mrbobswebdesign.com/java/proj9/)http://www.mrbobswebdesign.com/java/proj9/
+[04/23/2006 09:59 PM] fuji897@hotmail.com: ah nevermind
+[04/23/2006 09:59 PM] fuji897@hotmail.com: (Link: http://72.34.41.120/~java/)http://72.34.41.120/~java/
+[04/23/2006 09:59 PM] fuji897@hotmail.com: that's weird
+[04/23/2006 10:00 PM] fuji897@hotmail.com: crazy
+[04/23/2006 10:00 PM] b.cullinan@cox.net: what?
+[04/23/2006 10:00 PM] b.cullinan@cox.net: it froze
+[04/23/2006 10:00 PM] fuji897@hotmail.com: it was going to a weird IP
+[04/23/2006 10:00 PM] fuji897@hotmail.com: an old site
+[04/23/2006 10:01 PM] b.cullinan@cox.net: hmmm
+[04/23/2006 10:01 PM] fuji897@hotmail.com: o well
+[04/23/2006 10:01 PM] fuji897@hotmail.com: at least i can see it up now
+[04/23/2006 10:01 PM] fuji897@hotmail.com: did u have any time to look into the botnick stuff?
+[04/23/2006 10:01 PM] b.cullinan@cox.net: yeah i don't know why it won't display that list in the login page
+[04/23/2006 10:02 PM] b.cullinan@cox.net: but remove action=login from your links
+[04/23/2006 10:02 PM] b.cullinan@cox.net: i don't know where you keep that stuff
+[04/23/2006 10:03 PM] fuji897@hotmail.com: those were just in an include file
+[04/23/2006 10:03 PM] fuji897@hotmail.com: taken care of now
+[04/23/2006 10:06 PM] b.cullinan@cox.net: whats my address again isn't it (Link: ftp://brian:brian@r-ps.com)ftp://brian:brian@r-ps.com
+[04/23/2006 10:06 PM] b.cullinan@cox.net: ?
+[04/23/2006 10:08 PM] b.cullinan@cox.net: nvm got it
+[04/23/2006 10:37 PM] b.cullinan@cox.net: you ruined it
+Session Close (fuji897@hotmail.com): Sun Apr 23 23:07:04 2006
+
+

@@ -1,0 +1,512 @@
+[
+    {
+        "resourceName": "people/c6016234858788949060",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw2Tk1EZGZxOENMcz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "537df5ba8b700c44"
+                    }
+                },
+                "displayName": "Aneesh Karve (Quilt Data)",
+                "familyName": "Data)",
+                "givenName": "Aneesh Karve",
+                "middleName": "(Quilt",
+                "displayNameLastFirst": "Data), Aneesh Karve (Quilt"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "537df5ba8b700c44"
+                    }
+                },
+                "value": "(650) 960-5762",
+                "canonicalForm": "+16509605762",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "14 Mutual Connections",
+                "You and Aneesh both know Dr. Ernie Prabhakar, Dan Nienhauser, and 12 others"
+            ],
+            [
+                "Aneesh can introduce you to 9 people at Apple",
+                "You are following Apple"
+            ],
+            [
+                "Only in India. A broken down autorickshaw in front is being pushed by the driver of the rear rickshaw with his foot!",
+                "Aneesh liked"
+            ],
+            [
+                "Today LinkedIn announced GetAccept on stage.",
+                "We are proud to be the featured eSignature solution at LinkedIn Executive Sales Forum.",
+                "GetAccept integrates with LinkedIn to enhance the eSigning experience by gaining access to additional insights on your counter-party.",
+                "Check out all the cool stuff at: https://lnkd.in/gqVGBgi",
+                "Aneesh liked"
+            ],
+            [
+                "On logical data warehousing, teams, and tradeoffs",
+                "Aneesh liked"
+            ],
+            [
+                "NVIDIA Announces World's First AI Computer to Make Robotaxis a Reality",
+                "Aneesh liked"
+            ],
+            [
+                "DevOpsDays Phoenix Speakers & Sessions",
+                "Aneesh liked"
+            ],
+            [
+                "Visiting our Cloudera office in Austin, Texas where \"big\" is always redundant :)",
+                "Aneesh liked"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Chief Technology Officer",
+                "Company Name",
+                "Quilt Data, Inc.",
+                "Dates Employed",
+                "Aug 2015 – Present",
+                "Employment Duration",
+                "2 yrs 3 mos",
+                "Location",
+                "Mountain View, CA",
+                "https://quiltdata.comData scientists lose 79% of their time to data plumbing. Quilt handles the data plumbing so that data scientists can focus on generating insights.Quilt lets you manage data like code; with compilation, packages and versioning.",
+                "Media (6)",
+                "This position has 6 media",
+                "Previous",
+                "Next",
+                "Visualization without guesswork",
+                "Visualization without guesswork",
+                "This media is a video",
+                "On logical data warehousing, teams, and tradeoffs",
+                "On logical data warehousing, teams, and tradeoffs",
+                "This media is a video",
+                "A Tour of Artificial Intelligence and It's Limitations by Aneesh Karve",
+                "A Tour of Artificial Intelligence and It's Limitations by Aneesh Karve",
+                "This media is a video",
+                "PLOTCON 2017: Aneesh Karve, Visualization without Guesswork",
+                "PLOTCON 2017: Aneesh Karve, Visualization without Guesswork",
+                "This media is a video",
+                "Visualization is distortion: how to lie less",
+                "Visualization is distortion: how to lie less",
+                "This media is a video",
+                "Quilt is a data package manager",
+                "Quilt is a data package manager",
+                "This media is a link"
+            ],
+            [
+                "Alumnus",
+                "Company Name",
+                "Y Combinator",
+                "Dates Employed",
+                "May 2017 – Aug 2017",
+                "Employment Duration",
+                "4 mos"
+            ],
+            [
+                "Director of Product Management",
+                "Company Name",
+                "Matterport: 3D for the Real World",
+                "Dates Employed",
+                "Oct 2014 – Oct 2015",
+                "Employment Duration",
+                "1 yr 1 mo",
+                "Location",
+                "Mountain View",
+                "Product owner for 3D Showcase (WebGL player for 3D spaces), Capture (iOS app which runs the Matterport Pro Cam), Analytics (end user metrics for all product lines), and Firmware Update Service.* 500% growth in views for 3D Showcase in 10 months* Launch global content delivery network (CDN) and Fast Start features for 3D Showcase, increasing conversion rates up by up to 60%* Launch 3D Showcase 2.0 Beta at Inman 2015, including industry-leading 3D camera animation and an interactive \"highlight reel\"​ (see video)* Launch 3D Showcase Multi-Floor Feature (see video)* Launch User Help for 3D Showcase, yielding a 15% increase in panorama engagement* Author and launch User Guide to 3D Photography, part of Matterport's Capture app (iOS), used an average of twice per user per day session* Launch Firmware Update Service to deliver over-the-air updates to Matterport Pro cameras (cross-functional initiative involving Camera hardware, iOS software, server-side endpoints)* Define and launch end user analytics across all Matterport products",
+                "Media (2)",
+                "This position has 2 media",
+                "Matterport New Features Announcement",
+                "Matterport New Features Announcement",
+                "This media is a video",
+                "3D Showcase Multi-floor",
+                "3D Showcase Multi-floor",
+                "This media is a video"
+            ],
+            [
+                "Technical Product Manager, General Manager, PULSE 3D",
+                "Company Name",
+                "Amobee",
+                "Dates Employed",
+                "May 2012 – Nov 2013",
+                "Employment Duration",
+                "1 yr 7 mos",
+                "Location",
+                "Redwood Shores, CA",
+                "Envision and deliver a new generation of display ads that are fast, highly interactive, and beautiful. Lead design, engineering, and creative production for PULSE 3D, a platform to create, measure, and publish interactive rich media. Evangelize PULSE 3D to press, potential clients, and suppliers. Create Amobee’s digital-out-of-home product for giant, interactive display advertisements.* Develop and drive product roadmaps for display advertising, from mobile devices to gesture-driven digital out of home displays* Pioneer realtime rendering and programmable graphics shaders in display advertising, bringing new levels of realism and engagement to mobile advertisements* Hybridize HTML5 and native software to achieve scale and performance* Direct engineering and design teams* Make interactive adertisements easy to create via a declarative access to 3D scenes and GPU effects* Demonstrate products and platform to press* Drive publisher SDK integrations* Serve as Creative Director and Technical Producer for award-winning 3D advertisements including the BMW i Series and Nokia LUMIA 800 campaignshttp://amobee.com/3d"
+            ],
+            [
+                "Product Manager",
+                "Company Name",
+                "Cooliris",
+                "Dates Employed",
+                "Aug 2011 – May 2012",
+                "Employment Duration",
+                "10 mos",
+                "Location",
+                "Palo Alto, CA",
+                "Plan platform features, coordinate software delivery, direct creative execution, and evangelize AdJitsu to business partners.AdJitsu exists to invigorate mobile advertising with gorgeous touch-and-feel ads, visual ad creation tools, and deep analytics."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of Wisconsin-Madison",
+                "Degree Name",
+                "MS",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2005 – 2007"
+            ],
+            [
+                "University of Wisconsin-Madison",
+                "Degree Name",
+                "MS",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2005 – 2007"
+            ],
+            [
+                "University of South Florida",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2000 – 2002"
+            ],
+            [
+                "University of South Florida",
+                "Degree Name",
+                "BS",
+                "Field Of Study",
+                "Computer Science",
+                "Dates attended or expected graduation",
+                "2000 – 2002"
+            ],
+            [
+                "University of South Florida",
+                "Degree Name",
+                "BA",
+                "Field Of Study",
+                "Mathematics",
+                "Dates attended or expected graduation",
+                "2000 – 2002",
+                "Activities and Societies:",
+                "Pi Mu Epsilon"
+            ],
+            [
+                "University of South Florida",
+                "Degree Name",
+                "BA",
+                "Field Of Study",
+                "Mathematics",
+                "Dates attended or expected graduation",
+                "2000 – 2002",
+                "Activities and Societies:",
+                "Pi Mu Epsilon"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "President",
+                "Company Name",
+                "USF Chapter of Amnesty International",
+                "Dates volunteered",
+                "Aug 2002 – May 2003",
+                "Volunteer duration",
+                "10 mos",
+                "Cause",
+                "Human Rights",
+                "Coordinated grassroots efforts in pursuit of a world free from torture, political killings, and other violations of human rights."
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See 25 more skills"
+            ],
+            "Recommendations",
+            [
+                "Multicore & Parallel Computing",
+                "15,755 members"
+            ],
+            [
+                "Florida Atlantic University",
+                "114,159 followers"
+            ],
+            [
+                "HTML5 Technologies",
+                "30,393 members"
+            ],
+            [
+                "Satya NadellaSatya Nadella is a LinkedIn Influencer",
+                "CEO at Microsoft",
+                "2,452,756 followers"
+            ],
+            [
+                "University of Wisconsin-Madison",
+                "302,451 followers"
+            ],
+            [
+                "Google",
+                "5,246,516 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Multicore & Parallel Computing",
+                "15,755 members"
+            ],
+            [
+                "Multicore & Parallel Computing",
+                "15,755 members"
+            ],
+            [
+                "Florida Atlantic University",
+                "114,159 followers"
+            ],
+            [
+                "Florida Atlantic University",
+                "114,159 followers"
+            ],
+            [
+                "HTML5 Technologies",
+                "30,393 members"
+            ],
+            [
+                "HTML5 Technologies",
+                "30,393 members"
+            ],
+            [
+                "Satya NadellaSatya Nadella is a LinkedIn Influencer",
+                "CEO at Microsoft",
+                "2,452,756 followers"
+            ],
+            [
+                "Satya NadellaSatya Nadella is a LinkedIn Influencer",
+                "CEO at Microsoft",
+                "2,452,756 followers"
+            ],
+            [
+                "Satya Nadella is a LinkedIn Influencer"
+            ],
+            [
+                "University of Wisconsin-Madison",
+                "302,451 followers"
+            ],
+            [
+                "University of Wisconsin-Madison",
+                "302,451 followers"
+            ],
+            [
+                "Google",
+                "5,246,516 followers"
+            ],
+            [
+                "Google",
+                "5,246,516 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Dr. Ernie Prabhakar",
+                "Organizational Therapist",
+                "November 26, 2015, Dr. Ernie managed Aneesh directly",
+                "Aneesh is a uniquely passionate, brilliant and curious Product Manager who is 100% devoted to delivering the best possible user experience.  He is a tireless worker and voracious learner who is a fantastic asset to any team pursuing excellence. His tenure at Matterport with me was one of the high points of my career, and I can't wait to see what he does next!"
+            ],
+            [
+                "Dr. Ernie Prabhakar",
+                "Organizational Therapist",
+                "November 26, 2015, Dr. Ernie managed Aneesh directly"
+            ],
+            [
+                "Dr. Ernie Prabhakar",
+                "Organizational Therapist",
+                "November 26, 2015, Dr. Ernie managed Aneesh directly"
+            ],
+            [
+                "Dr. Ernie Prabhakar",
+                "Organizational Therapist",
+                "November 26, 2015, Dr. Ernie managed Aneesh directly"
+            ],
+            "Organizational Therapist",
+            [
+                "Aneesh is a uniquely passionate, brilliant and curious Product Manager who is 100% devoted to delivering the best possible user experience.  He is a tireless worker and voracious learner who is a fantastic asset to any team pursuing excellence. His tenure at Matterport with me was one of the high points of my career, and I can't wait to see what he does next!"
+            ],
+            [
+                "Aneesh is a uniquely passionate, brilliant and curious Product Manager who is 100% devoted to delivering the best possible user experience.  He is a tireless worker and voracious learner who is a fantastic asset to any team pursuing excellence. His tenure at Matterport with me was one of the high points of my career, and I can't wait to see what he does next!"
+            ],
+            [
+                "Mark Wang",
+                "Engineer and Inventor",
+                "July 19, 2014, Aneesh worked with Mark in the same group",
+                "Aneesh is a man of many hats, and brings an uncanny intuition for both design and technical perfection.  He was crucial in managing the development of Adjitsu and later PULSE 3D, as well as evangelizing to both internal and external stakeholders, and we wouldn't have pulled it off if it weren't for him.  He's also a rare person who works well and has empathy for the disparate disciplines of engineering, design and marketing; able to unite and build teams cross-functionally, while not being afraid to dive hands on when needed.He has my highest recommendation."
+            ],
+            [
+                "Mark Wang",
+                "Engineer and Inventor",
+                "July 19, 2014, Aneesh worked with Mark in the same group"
+            ],
+            [
+                "Mark Wang",
+                "Engineer and Inventor",
+                "July 19, 2014, Aneesh worked with Mark in the same group"
+            ],
+            [
+                "Mark Wang",
+                "Engineer and Inventor",
+                "July 19, 2014, Aneesh worked with Mark in the same group"
+            ],
+            "Engineer and Inventor",
+            [
+                "Aneesh is a man of many hats, and brings an uncanny intuition for both design and technical perfection.  He was crucial in managing the development of Adjitsu and later PULSE 3D, as well as evangelizing to both internal and external stakeholders, and we wouldn't have pulled it off if it weren't for him.  He's also a rare person who works well and has empathy for the disparate disciplines of engineering, design and marketing; able to unite and build teams cross-functionally, while not being afraid to dive hands on when needed.He has my highest recommendation."
+            ],
+            [
+                "Aneesh is a man of many hats, and brings an uncanny intuition for both design and technical perfection.  He was crucial in managing the development of Adjitsu and later PULSE 3D, as well as evangelizing to both internal and external stakeholders, and we wouldn't have pulled it off if it weren't for him.  He's also a rare person who works well and has empathy for the disparate disciplines of engineering, design and marketing; able to unite and build teams cross-functionally, while not being afraid to dive hands on when needed.He has my highest recommendation."
+            ],
+            [
+                "Meghan Athavale",
+                "CEO at Lumo Interactive",
+                "April 27, 2017, Aneesh was a client of Meghan’s",
+                "Meg defies gravity to deliver interactive experiences. We hired her team at Amobee to build a bespoke digital-out-of-home experience. She worked tirelessly to deliver the project--overseas no less--on an aggressive timeline. The result? Real-time rendered sportscars that transform and, through a Kinect module, dance with the viewer. Need I say more? I would work with Meg again without hesitation."
+            ],
+            [
+                "Meghan Athavale",
+                "CEO at Lumo Interactive",
+                "April 27, 2017, Aneesh was a client of Meghan’s"
+            ],
+            [
+                "Meghan Athavale",
+                "CEO at Lumo Interactive",
+                "April 27, 2017, Aneesh was a client of Meghan’s"
+            ],
+            [
+                "Meghan Athavale",
+                "CEO at Lumo Interactive",
+                "April 27, 2017, Aneesh was a client of Meghan’s"
+            ],
+            "CEO at Lumo Interactive",
+            [
+                "Meg defies gravity to deliver interactive experiences. We hired her team at Amobee to build a bespoke digital-out-of-home experience. She worked tirelessly to deliver the project--overseas no less--on an aggressive timeline. The result? Real-time rendered sportscars that transform and, through a Kinect module, dance with the viewer. Need I say more? I would work with Meg again without hesitation."
+            ],
+            [
+                "Meg defies gravity to deliver interactive experiences. We hired her team at Amobee to build a bespoke digital-out-of-home experience. She worked tirelessly to deliver the project--overseas no less--on an aggressive timeline. The result? Real-time rendered sportscars that transform and, through a Kinect module, dance with the viewer. Need I say more? I would work with Meg again without hesitation."
+            ],
+            [
+                "Melanie Wilhelm",
+                "Executive Assistant at BMW i Ventures",
+                "August 6, 2016, Aneesh was senior to Melanie but didn’t manage directly",
+                "Professional, punctual, and genial. Melanie juggles schedules and dependencies with ease. I have seen her manage executive schedules and drive projects to completion."
+            ],
+            [
+                "Melanie Wilhelm",
+                "Executive Assistant at BMW i Ventures",
+                "August 6, 2016, Aneesh was senior to Melanie but didn’t manage directly"
+            ],
+            [
+                "Melanie Wilhelm",
+                "Executive Assistant at BMW i Ventures",
+                "August 6, 2016, Aneesh was senior to Melanie but didn’t manage directly"
+            ],
+            [
+                "Melanie Wilhelm",
+                "Executive Assistant at BMW i Ventures",
+                "August 6, 2016, Aneesh was senior to Melanie but didn’t manage directly"
+            ],
+            "Executive Assistant at BMW i Ventures",
+            [
+                "Professional, punctual, and genial. Melanie juggles schedules and dependencies with ease. I have seen her manage executive schedules and drive projects to completion."
+            ],
+            [
+                "Professional, punctual, and genial. Melanie juggles schedules and dependencies with ease. I have seen her manage executive schedules and drive projects to completion."
+            ]
+        ],
+        "skills": [
+            [
+                "User Experience",
+                "See 47 endorsements for User Experience",
+                "47",
+                "User Experience",
+                "Remove Endorsement",
+                "Endorsed by Wayne Greenwood and 1 other who is highly skilled at this",
+                "Endorsed by Dr. Ernie Prabhakar (mutual connection)"
+            ],
+            [
+                "User Experience",
+                "See 47 endorsements for User Experience",
+                "47"
+            ],
+            [
+                "Mobile Applications",
+                "See 29 endorsements for Mobile Applications",
+                "29",
+                "Mobile Applications",
+                "Remove Endorsement",
+                "Endorsed by Wayne Greenwood, who is highly skilled at this",
+                "Endorsed by Dr. Ernie Prabhakar (mutual connection)"
+            ],
+            [
+                "Mobile Applications",
+                "See 29 endorsements for Mobile Applications",
+                "29"
+            ],
+            [
+                "User Interface",
+                "See 27 endorsements for User Interface",
+                "27",
+                "User Interface",
+                "Remove Endorsement",
+                "Endorsed by Wayne Greenwood, who is highly skilled at this",
+                "Endorsed by Dr. Ernie Prabhakar (mutual connection)"
+            ],
+            [
+                "User Interface",
+                "See 27 endorsements for User Interface",
+                "27"
+            ]
+        ],
+        "summary": "    Aneesh leads engineering, design, and research to create humane technology that feels like magic to the user. He specializes in big data and visualization.Aneesh's research background spans machine learning, abstract algebra, and information visualization.http://www.aneeshkarve.com/\n  \n  \n",
+        "name": "Aneesh Karve",
+        "title": "Docker for data @ quiltdata.com",
+        "url": "linkedin.com/in/aneeshkarve",
+        "phone": "765-360-9348 (Mobile)",
+        "email": "aneesh.karve@gmail.com"
+    }
+]

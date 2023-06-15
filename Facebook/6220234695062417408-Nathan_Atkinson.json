@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6220234695062417408/",
+    "participants": [
+        {
+            "name": "Nathan Atkinson",
+            "title": "Software Engineer at BIG YAM, The Parsons Agency",
+            "url": "linkedin.com/in/nathan-a-245298a7",
+            "phone": null,
+            "email": "nathanatkinson2006@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2017-12-29T13:51:00.000Z"
+        }
+    ]
+}

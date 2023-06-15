@@ -1,0 +1,471 @@
+[
+    {
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "5 Mutual Connections",
+                "You and Paul both know Siobhan Neilland, Matthew Shanker, and 3 others"
+            ],
+            [
+                "Paul can introduce you to 5 people at Apple",
+                "You are following Apple"
+            ],
+            [
+                "Show more highlights"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Principal Cloud Engineering Developer",
+                "Company Name",
+                "Epic Games",
+                "Dates Employed",
+                "Oct 2017 – Present",
+                "Employment Duration",
+                "2 mos",
+                "Location",
+                "Bellevue, WA",
+                "Designing and building the cloud infrastructure hosting Epic's games and other services."
+            ],
+            [
+                "Sr. Software Engineer",
+                "Company Name",
+                "Twitter",
+                "Dates Employed",
+                "Jul 2013 – Oct 2017",
+                "Employment Duration",
+                "4 yrs 4 mos",
+                "Location",
+                "Greater Seattle Area",
+                "I was a tech lead for the Service Diagnostics team, which manages and develops the services for Twitter's metrics and monitoring, logging, tracing, as well as deployment tracking and artifact storage. In particular, my focus was on the metrics backend services (Cuckoo, Nuthatch), the Lucene-based distributed log indexing service (LogLens), the tracing service (Zipkin), the service that tracks deployed SHAs (DeployDB), and Twitter’s artifact storage service (Packer).Responsibilities included service architecture, roadmap planning, mentorship, as well as day-to-day operations and development work. Previous to Service Diagnostics, I was the tech lead for the Continuous Integration team in Twitter's Engineering Effectiveness org. Responsible for the Jenkins infrastructure, as well as the existing distributed unit test execution service. Designed and prototyped multiple versions of its replacement, including a Jenkins-on-Mesos solution, and a Go-based distributed service capable of running unit tests and other build tasks.Previous to EE, I was in the SRE organization where I lead a cross-team group working on a custom, Ansible-based automation framework for handling complex workflows (such as kernel upgrades) across the fleet. I was also a founding member of the Tools & Automation team, responsible for the direction of software projects as well as development standards within the SRE org."
+            ],
+            [
+                "Software Development Engineer",
+                "Company Name",
+                "Amazon Web Services",
+                "Dates Employed",
+                "Mar 2010 – Jun 2013",
+                "Employment Duration",
+                "3 yrs 4 mos",
+                "Location",
+                "Greater Seattle Area",
+                "Was one of the founding members of the Elastic Beanstalk team and helped design and launch the service. In particular, I created the agent that was launched with each managed instance to interoperate with the control plane to perform deployments, config updates and more. I also helped design the protocols involved and the request flow in general.After Beanstalk, I worked on S3 where I created large scale automation frameworks and tooling to manage S3's massive infrastructure, including a service that could securely execute, in parallel, an approved command across an entire fleet.Post-S3, I was one of the founding members of the AWS Lambda team, where I helped design the request flow and designed+created the early prototypes of the container that customer code ran in."
+            ],
+            [
+                "Software Development Engineer",
+                "Company Name",
+                "Amazon.com",
+                "Dates Employed",
+                "Feb 2006 – Mar 2010",
+                "Employment Duration",
+                "4 yrs 2 mos",
+                "Location",
+                "Greater Seattle Area",
+                "Helped design and implement a service that would process customer service workflows in large batches to perform operations like \"cancel order and email the customer\"​.Helped design and implement a SIP-based communication routing service that replaced Amazon's legacy PBX and email infrastructure at its call centers. The patents listed here are related to this project."
+            ],
+            [
+                "Sr. Network/Systems Architect",
+                "Company Name",
+                "PalmSource, Inc.",
+                "Dates Employed",
+                "Mar 2004 – Feb 2006",
+                "Employment Duration",
+                "2 yrs",
+                "Location",
+                "San Francisco Bay Area",
+                "Responsible for design and refinement of PalmSource's global network, telecom, UNIX and other systems infrastructures.  Strategic planning, IT trends research, project management and training as well."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "University of Rochester",
+                "Field Of Study",
+                "Media Studies, Computer Science",
+                "Dates attended or expected graduation",
+                "1996 – 2000"
+            ],
+            [
+                "University of Rochester",
+                "Field Of Study",
+                "Media Studies, Computer Science",
+                "Dates attended or expected graduation",
+                "1996 – 2000"
+            ],
+            [
+                "Boston University"
+            ],
+            [
+                "Boston University"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Amazon Web Services Users",
+                "16,306 members"
+            ],
+            [
+                "Ruby on Rails",
+                "87,935 members"
+            ],
+            [
+                "University of Rochester",
+                "65,517 followers"
+            ],
+            [
+                "Amazon Web Services Community Network",
+                "83,967 members"
+            ],
+            [
+                "NoSQL",
+                "22,648 members"
+            ],
+            [
+                "KnowNow Alumni",
+                "23 members"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (500+)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Amazon Web Services Users",
+                "16,306 members"
+            ],
+            [
+                "Amazon Web Services Users",
+                "16,306 members"
+            ],
+            [
+                "Ruby on Rails",
+                "87,935 members"
+            ],
+            [
+                "Ruby on Rails",
+                "87,935 members"
+            ],
+            [
+                "University of Rochester",
+                "65,517 followers"
+            ],
+            [
+                "University of Rochester",
+                "65,517 followers"
+            ],
+            [
+                "Amazon Web Services Community Network",
+                "83,967 members"
+            ],
+            [
+                "Amazon Web Services Community Network",
+                "83,967 members"
+            ],
+            [
+                "NoSQL",
+                "22,648 members"
+            ],
+            [
+                "NoSQL",
+                "22,648 members"
+            ],
+            [
+                "KnowNow Alumni",
+                "23 members"
+            ],
+            [
+                "KnowNow Alumni",
+                "23 members"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Distributed Systems",
+                "See 28 endorsements for Distributed Systems",
+                "28",
+                "Distributed Systems",
+                "Endorse",
+                "Endorsed by Tim Wagner and 6 others who are highly skilled at this",
+                "Endorsed by Leah Shanker (mutual connection)"
+            ],
+            [
+                "Distributed Systems",
+                "See 28 endorsements for Distributed Systems",
+                "28"
+            ],
+            [
+                "Python",
+                "See 19 endorsements for Python",
+                "19",
+                "Python",
+                "Endorse",
+                "Endorsed by Elijah Flesher and 1 other who is highly skilled at this",
+                "Endorsed by Matthew Shanker and 1 other mutual connection"
+            ],
+            [
+                "Python",
+                "See 19 endorsements for Python",
+                "19"
+            ],
+            [
+                "Linux",
+                "See 17 endorsements for Linux",
+                "17",
+                "Linux",
+                "Endorse",
+                "Endorsed by Alan Robertson and 2 others who are highly skilled at this",
+                "Endorsed by Matthew Shanker and 1 other mutual connection"
+            ],
+            [
+                "Linux",
+                "See 17 endorsements for Linux",
+                "17"
+            ],
+            [
+                "Web Services",
+                "See 16 endorsements for Web Services",
+                "16",
+                "Web Services",
+                "Endorse"
+            ],
+            [
+                "Web Services",
+                "See 16 endorsements for Web Services",
+                "16"
+            ],
+            [
+                "Software Development",
+                "See 13 endorsements for Software Development",
+                "13",
+                "Software Development",
+                "Endorse"
+            ],
+            [
+                "Software Development",
+                "See 13 endorsements for Software Development",
+                "13"
+            ],
+            [
+                "Ruby",
+                "See 12 endorsements for Ruby",
+                "12",
+                "Ruby",
+                "Endorse"
+            ],
+            [
+                "Ruby",
+                "See 12 endorsements for Ruby",
+                "12"
+            ],
+            [
+                "Java",
+                "See 11 endorsements for Java",
+                "11",
+                "Java",
+                "Endorse"
+            ],
+            [
+                "Java",
+                "See 11 endorsements for Java",
+                "11"
+            ],
+            [
+                "Software Engineering",
+                "See 8 endorsements for Software Engineering",
+                "8",
+                "Software Engineering",
+                "Endorse"
+            ],
+            [
+                "Software Engineering",
+                "See 8 endorsements for Software Engineering",
+                "8"
+            ],
+            [
+                "Web Applications",
+                "See 8 endorsements for Web Applications",
+                "8",
+                "Web Applications",
+                "Endorse"
+            ],
+            [
+                "Web Applications",
+                "See 8 endorsements for Web Applications",
+                "8"
+            ],
+            [
+                "Unix",
+                "See 6 endorsements for Unix",
+                "6",
+                "Unix",
+                "Endorse"
+            ],
+            [
+                "Unix",
+                "See 6 endorsements for Unix",
+                "6"
+            ],
+            [
+                "Scalability",
+                "See 5 endorsements for Scalability",
+                "5",
+                "Scalability",
+                "Endorse"
+            ],
+            [
+                "Scalability",
+                "See 5 endorsements for Scalability",
+                "5"
+            ],
+            [
+                "Agile Methodologies",
+                "See 5 endorsements for Agile Methodologies",
+                "5",
+                "Agile Methodologies",
+                "Endorse"
+            ],
+            [
+                "Agile Methodologies",
+                "See 5 endorsements for Agile Methodologies",
+                "5"
+            ],
+            [
+                "JavaScript",
+                "See 5 endorsements for JavaScript",
+                "5",
+                "JavaScript",
+                "Endorse"
+            ],
+            [
+                "JavaScript",
+                "See 5 endorsements for JavaScript",
+                "5"
+            ],
+            [
+                "SOA",
+                "See 4 endorsements for SOA",
+                "4",
+                "SOA",
+                "Endorse"
+            ],
+            [
+                "SOA",
+                "See 4 endorsements for SOA",
+                "4"
+            ],
+            [
+                "Perl",
+                "See 4 endorsements for Perl",
+                "4",
+                "Perl",
+                "Endorse"
+            ],
+            [
+                "Perl",
+                "See 4 endorsements for Perl",
+                "4"
+            ],
+            [
+                "Software Design",
+                "See 4 endorsements for Software Design",
+                "4",
+                "Software Design",
+                "Endorse"
+            ],
+            [
+                "Software Design",
+                "See 4 endorsements for Software Design",
+                "4"
+            ],
+            [
+                "Amazon Web Services (AWS)",
+                "See 2 endorsements for Amazon Web Services (AWS)",
+                "2",
+                "Amazon Web Services (AWS)",
+                "Endorse"
+            ],
+            [
+                "Amazon Web Services (AWS)",
+                "See 2 endorsements for Amazon Web Services (AWS)",
+                "2"
+            ],
+            [
+                "Architecture",
+                "See 1 endorsement for Architecture",
+                "1",
+                "Architecture",
+                "Endorse"
+            ],
+            [
+                "Architecture",
+                "See 1 endorsement for Architecture",
+                "1"
+            ],
+            [
+                "REST",
+                "See 1 endorsement for REST",
+                "1",
+                "REST",
+                "Endorse"
+            ],
+            [
+                "REST",
+                "See 1 endorsement for REST",
+                "1"
+            ],
+            [
+                "Object Oriented Design",
+                "See 1 endorsement for Object Oriented Design",
+                "1",
+                "Object Oriented Design",
+                "Endorse"
+            ],
+            [
+                "Object Oriented Design",
+                "See 1 endorsement for Object Oriented Design",
+                "1"
+            ],
+            [
+                "Git",
+                "See 1 endorsement for Git",
+                "1",
+                "Git",
+                "Endorse"
+            ],
+            [
+                "Git",
+                "See 1 endorsement for Git",
+                "1"
+            ]
+        ],
+        "summary": "    Systems and software architecture, focusing particularly on large scale distributed computing and automation. Specialties: Linux, distributed computing, web services, automation, systems programmingLanguages: Go, Python, Java, Scala, C, C++, Ruby, JavaScript\n  \n  \n",
+        "name": "Paul Sharpe",
+        "title": "Principal Cloud Engineering Developer at Epic Games",
+        "url": "linkedin.com/in/paul-sharpe-b50",
+        "phone": "",
+        "email": "paul@paulsharpe.org"
+    }
+]

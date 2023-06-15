@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6222095969593413632/",
+    "participants": [
+        {
+            "name": "William King",
+            "title": "Operations Architect at TBConsulting",
+            "url": "linkedin.com/in/william-king-b631607a",
+            "phone": null,
+            "email": "deathscythe.eng@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-03T17:08:00.000Z"
+        }
+    ]
+}

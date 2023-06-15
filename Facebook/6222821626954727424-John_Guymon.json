@@ -1,0 +1,19 @@
+{
+    "thread": "/messaging/thread/6222821626954727424/",
+    "participants": [
+        {
+            "name": "John Guymon",
+            "title": "Founder and President at Numetric",
+            "url": "linkedin.com/in/john-guymon-54ab9248",
+            "phone": null,
+            "email": "jguymonchy@gmail.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "Thank you for connecting!\n",
+            "time": "2018-01-05T17:11:00.000Z"
+        }
+    ]
+}

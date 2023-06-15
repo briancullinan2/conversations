@@ -1,0 +1,337 @@
+﻿Session Start (BrianJCullinan:SpectreTop): Mon Feb 20 18:04:25 2006
+[02/20/2006 06:04 PM] SpectreTop: Hey Brian have you looked at the negative class of the CS homework?
+[02/20/2006 06:24 PM] Me: who is this?
+[02/20/2006 06:25 PM] Me: i finished the stupid CS homework
+[02/20/2006 06:32 PM] Me: who is this?
+Session Close (SpectreTop): Mon Feb 20 18:45:20 2006
+
+
+Session Start (BrianJCullinan:SpectreTop): Mon Feb 20 20:17:18 2006
+[02/20/2006 08:17 PM] SpectreTop: Yeah sorry about that this is forrest. For the Negative Class can you just take the Multiply class and set one of the sides to always be -1?
+[02/20/2006 08:17 PM] Me: i set it to 0
+[02/20/2006 08:17 PM] Me: but yes, only use the left side
+[02/20/2006 08:20 PM] SpectreTop: why would you set it to be 0 if you wanted it to be a negative number
+[02/20/2006 08:26 PM] Me: no
+[02/20/2006 08:26 PM] Me: i'll just send you mine
+[02/20/2006 08:26 PM] SpectreTop: uh ok
+[02/20/2006 08:26 PM] Me: i guess that would work
+[02/20/2006 08:26 PM] Me: actually i see what you are doing
+[02/20/2006 08:27 PM] Me: that's probably a better way to do it
+[02/20/2006 08:27 PM] Me: set left to the value and right to -1 and multiple left by right
+[02/20/2006 08:27 PM] Me: i get it
+[02/20/2006 08:27 PM] SpectreTop: yeah
+[02/20/2006 08:27 PM] Me: i'm copying that
+[02/20/2006 08:27 PM] SpectreTop: how would I set right to always = -1 ?
+[02/20/2006 08:28 PM] SpectreTop: would I do that right below the super?
+[02/20/2006 08:28 PM] Me: let me change mine and i'll send it
+[02/20/2006 08:28 PM] Me: no right in super
+[02/20/2006 08:28 PM] SpectreTop: ok
+[02/20/2006 08:28 PM] Me: super (lhs, Num(-1) )
+[02/20/2006 08:28 PM] SpectreTop: oh ok
+[02/20/2006 08:28 PM] SpectreTop: I see
+[02/20/2006 08:29 PM] Me: no because then you have weird toString stuff to do
+[02/20/2006 08:29 PM] Me: use this way
+[02/20/2006 08:29 PM] SpectreTop: why?
+[02/20/2006 08:29 PM] SpectreTop: how does that make toString strange?
+[02/20/2006 08:29 PM] Me: well i guess it doesn't matter
+[02/20/2006 08:29 PM] SpectreTop: send me your way and then I will try both and see which I like better
+[02/20/2006 08:34 PM] Me:      1  //================================================ 
+      2  //  Negative by Brian Cullinan 
+      3  //================================================ 
+      4  public class Negative extends BinaryOp 
+      5  { 
+      6    public Negative( Term lhs ) 
+      7    { 
+      8      super( lhs, new Num(-1) ); 
+      9    } 
+     10    public double evaluate() 
+     11    { 
+     12      return left.evaluate() * right.evaluate(); 
+     13    } 
+     14    public String toString() 
+     15    { 
+     16      return "-" + left; 
+     17    } 
+     18    public String toPrefixString() { return "(- " + left.toPrefixString() + ")"; } 
+     19    public String toPostfixString() { return "(" + left.toPostfixString() + " -)"; } 
+     20  }
+[02/20/2006 08:59 PM] SpectreTop: in the end does Negative even need to be an extension of Binary Op? 
+[02/20/2006 09:00 PM] Me: not really
+[02/20/2006 09:00 PM] Me: but do it anyways
+[02/20/2006 09:00 PM] SpectreTop: why?
+[02/20/2006 09:01 PM] SpectreTop: couldnt it just be a term since it only has stuff on one side, the -1 is defined within the class?
+[02/20/2006 09:02 PM] Me: yeah i guess
+[02/20/2006 09:02 PM] Me: how do you spell your last name
+[02/20/2006 09:02 PM] SpectreTop: I think I might try that
+[02/20/2006 09:02 PM] SpectreTop: schwyn
+[02/20/2006 09:02 PM] *** "SpectreTop" signed on at Mon Feb 20 21:02:56 2006.
+Session Close (Forest Schwyn): Mon Feb 20 21:03:17 2006
+
+
+Session Start (BrianJCullinan:Forest Schwyn): Mon Feb 20 21:15:16 2006
+[02/20/2006 09:15 PM] Forest Schwyn: why does he return "TODO"
+[02/20/2006 09:15 PM] Me: because he didn't want to give it to you
+[02/20/2006 09:15 PM] Forest Schwyn: ahh I see
+[02/20/2006 09:16 PM] Forest Schwyn: so it should be so for negative should it be something similar to return "(- " + number.toPrefixString() + ")"; depending on how I wrote my class?
+[02/20/2006 09:16 PM] Me: yes
+[02/20/2006 09:17 PM] Forest Schwyn: ok good
+[02/20/2006 09:25 PM] *** "Forest Schwyn" signed off at Mon Feb 20 21:25:28 2006.
+[02/20/2006 09:27 PM] *** "Forest Schwyn" signed on at Mon Feb 20 21:27:27 2006.
+[02/20/2006 09:53 PM] *** "Forest Schwyn" signed off at Mon Feb 20 21:53:04 2006.
+Session Close (Forest Schwyn): Mon Feb 20 21:56:11 2006
+
+
+Session Start (BrianJCullinan:Forest Schwyn): Tue Feb 21 23:57:30 2006
+[02/21/2006 11:57 PM] Forest Schwyn: did you get the CS homework done yet?
+[02/21/2006 11:57 PM] Forest Schwyn: the Homework homework, not the project?
+[02/22/2006 12:01 AM] Me: both yes
+[02/22/2006 12:02 AM] Forest Schwyn: what exactly is it asking for in question 2 and 3
+[02/22/2006 12:02 AM] Forest Schwyn: what does he mean what method?
+[02/22/2006 12:03 AM] Forest Schwyn: does he want something other than the definition?
+[02/22/2006 12:07 AM] Forest Schwyn: and the answer to #2 is java.lang.Object correct?
+[02/22/2006 12:08 AM] Me: i just gave the definition
+[02/22/2006 12:08 AM] Me: is it?
+[02/22/2006 12:09 AM] Forest Schwyn: i didnt know exactly what he wanted for questions 3 and 4, I did find the defintions though
+[02/22/2006 12:10 AM] Me: neither did i
+[02/22/2006 12:10 AM] Forest Schwyn: im pretty sure the answer to 2 is java.lang.Object
+[02/22/2006 12:10 AM] Me: k we will see
+[02/22/2006 12:11 AM] Me: i g2g hooka
+[02/22/2006 12:11 AM] Forest Schwyn: ok, later
+Session Close (Forest Schwyn): Wed Feb 22 00:12:03 2006
+
+
+Session Start (BrianJCullinan:Forest Schwyn): Wed Feb 22 12:06:45 2006
+[02/22/2006 12:06 PM] Forest Schwyn: I only have the shareware version of doom, somewhere or another I have full Doom2, I also have all of the starwars doom like game Dark Forces
+[02/22/2006 12:07 PM] Me: dark forces? when was that made? is it idSoftware?
+[02/22/2006 12:07 PM] Forest Schwyn: no it was lucas arts
+[02/22/2006 12:07 PM] Me: oh that makes sense
+[02/22/2006 12:07 PM] Me: i could burn my entire idSoftware directory on one DVD
+[02/22/2006 12:07 PM] Me: to bad i am out of DVDs
+[02/22/2006 12:08 PM] Forest Schwyn: I have a few left, but only about 30
+[02/22/2006 12:08 PM] Forest Schwyn: ill bring one on friday
+[02/22/2006 12:08 PM] Me: ok cool
+[02/22/2006 12:08 PM] Me: hes still not teaching anything interesting
+[02/22/2006 12:08 PM] Forest Schwyn: have you seen the cdoom mod for Doom3?
+[02/22/2006 12:08 PM] Me: huh uh, what is that?
+[02/22/2006 12:09 PM] Forest Schwyn: someone redid all the levels available in the shareware doom, in the Doom 3 engine
+[02/22/2006 12:09 PM] Forest Schwyn: its pretty cool acutally
+[02/22/2006 12:09 PM] Me: holy crap that would be amazing
+[02/22/2006 12:09 PM] Me: the shareware is the entire first episode
+[02/22/2006 12:10 PM] Forest Schwyn: I know
+[02/22/2006 12:10 PM] Forest Schwyn: (Link: http://cdoom.d3files.com/index.php?page=news)http://cdoom.d3files.com/index.php?page=news
+[02/22/2006 12:10 PM] Forest Schwyn: I havnt had doom 3 installed in a very long time so the last time I played the mod was at like .2 alpha which was just he first level but it was still really cool
+[02/22/2006 12:11 PM] Me: cool i will have to check it out
+[02/22/2006 12:11 PM] Me: i'd like to see some screen shots
+[02/22/2006 12:14 PM] Forest Schwyn: tehey did spice it up a little but it plays the same
+[02/22/2006 12:17 PM] Forest Schwyn: I know the first episode pretty well
+[02/22/2006 12:18 PM] Me: i hope they do all the episodes, the levels get pretty complex
+[02/22/2006 12:18 PM] Me: there are missing monsters
+[02/22/2006 12:18 PM] Forest Schwyn: they were a little unsure about that
+[02/22/2006 12:19 PM] Me: like the boss at the end of doom3 is similar to the bost of episode 2
+[02/22/2006 12:19 PM] Me: *boss
+[02/22/2006 12:19 PM] Me: i wonder what the boss of resurection of eveil is
+[02/22/2006 12:19 PM] Forest Schwyn: yeah only cyber knights were way more of a bitch in doom 2 than doom 3
+[02/22/2006 12:19 PM] Me: i have both doom3 and the extension and don't even play either
+[02/22/2006 12:19 PM] Me: omfg dude
+[02/22/2006 12:20 PM] Me: what i made all the original quakes in quake 4
+[02/22/2006 12:20 PM] Forest Schwyn: I found Doom 3 to be kind of boring and repetative
+[02/22/2006 12:20 PM] Forest Schwyn: part of the reason they are unsure about the next 3 episodes is becuase they thought there might be legal issues
+[02/22/2006 12:21 PM] Me: yeah
+Session Close (Forest Schwyn): Wed Feb 22 12:21:22 2006
+
+
+Session Start (BrianJCullinan:Forest Schwyn): Tue Feb 28 15:59:46 2006
+[02/28/2006 03:59 PM] Forest Schwyn: did you get your cs project working?
+[02/28/2006 04:00 PM] Me: haven't started yet
+[02/28/2006 04:00 PM] Forest Schwyn: ahh, cause im having some trouble with mine
+[02/28/2006 04:00 PM] Forest Schwyn: any idea when you are going to start on it?
+[02/28/2006 04:01 PM] Me: no
+[02/28/2006 04:01 PM] Forest Schwyn: oh
+[02/28/2006 04:01 PM] Forest Schwyn: if you get some spare time would you mind helping me get mine working?
+[02/28/2006 04:01 PM] Forest Schwyn: I think i have most of it done im just having some trouble
+Session Close (Forest Schwyn): Tue Feb 28 16:01:40 2006
+
+
+Session Start (BrianJCullinan:Forest Schwyn): Tue Feb 28 16:12:41 2006
+[02/28/2006 04:12 PM] Forest Schwyn: how do I get my Term.java to work with Complex objects instead of primatives, I think that is my problem
+[02/28/2006 04:12 PM] Me: dude i don't know i haven't started
+[02/28/2006 04:12 PM] Forest Schwyn: ok
+Session Close (Forest Schwyn): Tue Feb 28 16:13:02 2006
+
+
+Session Start (BrianJCullinan:Forest Schwyn): Wed Mar 01 11:46:25 2006
+[03/01/2006 11:46 AM] Forest Schwyn: im petty sure I have my actuall java GUI coding and the calc stuff pretty good once I get all my num and negative and stuff to work ok
+[03/01/2006 11:46 AM] Me: yeah
+[03/01/2006 12:20 PM] *** "Forest Schwyn" signed off at Wed Mar 01 12:20:32 2006.
+Session Close (Forest Schwyn): Wed Mar 01 12:50:34 2006
+
+
+Session Start (BrianJCullinan:Forest Schwyn): Fri Mar 03 11:58:25 2006
+[03/03/2006 11:58 AM] Forest Schwyn: ־\o_0/ ־  The Goggles They do Nothing!
+[03/03/2006 12:00 PM] Me: i don't understand
+[03/03/2006 12:00 PM] *** Auto-response from Forest Schwyn: ־\o_0/ ־   The Goggles They Do Nothing!
+[03/03/2006 12:01 PM] Forest Schwyn: you never watched the simpson very much did you
+[03/03/2006 12:01 PM] Me: no
+[03/03/2006 12:01 PM] Me: i watch south park
+[03/03/2006 12:01 PM] Forest Schwyn: :( you should watch both
+[03/03/2006 12:03 PM] Me: €€€€€€€€€€€€
+[03/03/2006 12:03 PM] Me: €€€€€€€€
+[03/03/2006 12:06 PM] Me: wooo!
+[03/03/2006 12:06 PM] Me: whooo!
+[03/03/2006 12:06 PM] Forest Schwyn: woo woo
+[03/03/2006 12:06 PM] Me: whooo whooo
+[03/03/2006 12:06 PM] Me: got to spell it right
+[03/03/2006 12:06 PM] Forest Schwyn: oh im sorry
+[03/03/2006 12:15 PM] Me: whatchya readin'?
+[03/03/2006 12:15 PM] Forest Schwyn: world of warcraft stuff
+[03/03/2006 12:16 PM] Me: wow sucks
+[03/03/2006 12:16 PM] Me: stupid monthly fee
+[03/03/2006 12:16 PM] Forest Schwyn: lol
+[03/03/2006 12:16 PM] Me: i would play it if i could host my own server and it was free
+[03/03/2006 12:16 PM] Forest Schwyn: you can host your own server, its just a slight pain in the ass
+[03/03/2006 12:16 PM] Forest Schwyn: and not legal
+Session Close (Forest Schwyn): Fri Mar 03 12:18:01 2006
+
+
+Session Start (BrianJCullinan:Forest Schwyn): Mon Mar 06 11:43:18 2006
+[03/06/2006 11:43 AM] Forest Schwyn: can you take control of a computer via remote desktop if the computer has XP homes?
+[03/06/2006 11:43 AM] Me: if it has the remote desktop service
+[03/06/2006 11:43 AM] *** Auto-response from Forest Schwyn: ־\o_0/ ־   The Goggles They Do Nothing!
+[03/06/2006 11:44 AM] Forest Schwyn: ahh, and I take it you have to install that speratly, or is it just the thing you turn in on hte remote tab of system properties in the contrl panel?
+[03/06/2006 11:46 AM] Me: turn it on in the remote tab if it comes with Home
+[03/06/2006 11:49 AM] Forest Schwyn: with ping disable is there anyway to get the IP of my desktop without being there in person?
+[03/06/2006 11:49 AM] Me: no
+[03/06/2006 11:49 AM] Forest Schwyn: damn
+[03/06/2006 11:49 AM] Me: and if you have a router you have to forward port 3389
+[03/06/2006 11:49 AM] Forest Schwyn: no router
+[03/06/2006 11:49 AM] Me: i could get it
+[03/06/2006 11:49 AM] Me: you can't
+[03/06/2006 11:49 AM] Forest Schwyn: lol
+[03/06/2006 11:49 AM] Me: did you turn it on?
+[03/06/2006 11:49 AM] Me: remote desktop
+[03/06/2006 11:50 AM] Forest Schwyn: yes
+[03/06/2006 11:50 AM] Forest Schwyn: I have used it before, lol, just can't rember my IP
+[03/06/2006 11:51 AM] Me: student4518.student.nau.edu
+[03/06/2006 11:54 AM] Forest Schwyn: acutally come to think of it I might have forgeot to enable Remote desktop since I reformatted
+Session Close (Forest Schwyn): Mon Mar 06 11:56:00 2006
+
+
+Session Start (BrianJCullinan:Forest Schwyn): Mon Mar 06 11:59:47 2006
+[03/06/2006 11:59 AM] Forest Schwyn: I relized using my desktop via remote desktop in a window will be a pain in the ass do to my desktop resolution
+[03/06/2006 12:05 PM] Forest Schwyn: just saying that when i remote desktop I will have to scroll.... a lot
+[03/06/2006 12:05 PM] Me: i don't
+[03/06/2006 12:05 PM] Forest Schwyn: yeah well your desktop resolution is probably different from mine
+[03/06/2006 12:05 PM] Me: it changes your desktop to the resolution of your laptop
+[03/06/2006 12:06 PM] Forest Schwyn: when I have used it in the past it has kept it the same resolution and I just ahve to scroll around
+[03/06/2006 12:07 PM] Me: nope
+[03/06/2006 12:09 PM] Forest Schwyn: my desktop resolution is 2960x1050
+[03/06/2006 12:09 PM] Me: wtf how?
+[03/06/2006 12:09 PM] Forest Schwyn: more than 1 monitor
+[03/06/2006 12:09 PM] Me: oh
+[03/06/2006 12:09 PM] Me: how many?
+[03/06/2006 12:09 PM] Forest Schwyn: 2
+[03/06/2006 12:09 PM] Me: oh
+[03/06/2006 12:09 PM] Me: good stuff
+[03/06/2006 12:09 PM] Forest Schwyn: or thats about my overall resoltuion, the right side is only 1024 pixels tall
+[03/06/2006 12:10 PM] Me: ok
+[03/06/2006 12:10 PM] Forest Schwyn: 1680x1050  +  1280x1024
+[03/06/2006 12:11 PM] Me: nice
+[03/06/2006 12:11 PM] Me: i am going to get another 1600x1200
+[03/06/2006 12:11 PM] Forest Schwyn: nice
+[03/06/2006 12:11 PM] Me: have 3200x1200
+[03/06/2006 12:11 PM] Forest Schwyn: CRT or big LCD?
+[03/06/2006 12:11 PM] Me: LCD
+[03/06/2006 12:12 PM] Forest Schwyn: nice thats a 21in?
+[03/06/2006 12:12 PM] Me: double jointed
+[03/06/2006 12:12 PM] Me: 20 inch
+[03/06/2006 12:12 PM] Forest Schwyn: nice
+Session Close (Forest Schwyn): Mon Mar 06 12:16:58 2006
+
+
+Session Start (BrianJCullinan:Forest Schwyn): Wed Mar 08 11:36:38 2006
+[03/08/2006 11:36 AM] Forest Schwyn: multiple desktops for the win
+Session Close (Forest Schwyn): Wed Mar 08 11:37:52 2006
+
+
+Session Start (BrianJCullinan:Forest Schwyn): Wed Mar 08 12:02:40 2006
+[03/08/2006 12:02 PM] Forest Schwyn: want me to send you the black theme?
+[03/08/2006 12:16 PM] *** "Forest Schwyn" signed off at Wed Mar 08 12:16:19 2006.
+[03/08/2006 12:16 PM] *** "Forest Schwyn" signed on at Wed Mar 08 12:16:34 2006.
+[03/08/2006 12:29 PM] *** "Forest Schwyn" signed off at Wed Mar 08 12:29:29 2006.
+Session Close (Forest Schwyn): Wed Mar 08 14:02:00 2006
+
+
+Session Start (BrianJCullinan:Forest Schwyn): Mon Mar 13 11:46:01 2006
+Session Close (Forest Schwyn): Mon Mar 13 11:46:04 2006
+
+
+Session Start (BrianJCullinan:Forest Schwyn): Mon Mar 13 11:48:06 2006
+[03/13/2006 11:48 AM] Forest Schwyn: what do you have to do when your in the office?
+[03/13/2006 11:48 AM] Me: my homework
+[03/13/2006 11:48 AM] Forest Schwyn: and its bad that you get paid to do your homework?
+[03/13/2006 11:48 AM] Me: its just boring
+[03/13/2006 11:48 AM] Me: kinda
+[03/13/2006 11:49 AM] Me: we sit around and talk
+[03/13/2006 12:01 PM] Me: i spend too much money
+[03/13/2006 12:15 PM] *** "Forest Schwyn" signed off at Mon Mar 13 12:15:04 2006.
+Session Close (Forest Schwyn): Mon Mar 13 12:15:14 2006
+
+
+Session Start (BrianJCullinan:Forest Schwyn): Wed Mar 15 12:07:11 2006
+[03/15/2006 12:07 PM] Forest Schwyn: unless your using uber l33t, ph is normally used in place of F
+[03/15/2006 12:07 PM] Forest Schwyn: as in ph34r
+Session Close (Forest Schwyn): Wed Mar 15 12:10:58 2006
+
+
+Session Start (BrianJCullinan:Forest Schwyn): Mon Apr 03 11:45:29 2006
+[04/03/2006 11:45 AM] Me: i am the eye in the sky
+[04/03/2006 11:45 AM] Me: looking at yoooooo
+[04/03/2006 11:45 AM] Me: i can read you mind
+[04/03/2006 11:45 AM] Me: i am the maker of rules
+[04/03/2006 11:45 AM] Me: i deal with fools
+[04/03/2006 11:46 AM] Me: i can cheat you blind
+[04/03/2006 11:46 AM] Me: i am the eye in the sky
+[04/03/2006 11:46 AM] Me: looking at yooooooo
+[04/03/2006 11:46 AM] Me: i can read your mind
+[04/03/2006 11:46 AM] Forest Schwyn: your eye has way to much time
+[04/03/2006 11:47 AM] Me: possible
+[04/03/2006 11:47 AM] *** Auto-response from Forest Schwyn: ־\o_0/ ־  MY EYES, The Goggles They Do Nothing!
+[04/03/2006 11:47 AM] Forest Schwyn: lol
+[04/03/2006 11:49 AM] Me: i am happy today
+[04/03/2006 11:49 AM] Me: my gf spent the night
+[04/03/2006 11:49 AM] Me: we were naughty
+[04/03/2006 11:49 AM] Forest Schwyn: lol
+[04/03/2006 11:49 AM] Forest Schwyn: I forget does she go to school here>
+[04/03/2006 11:50 AM] Me: yes
+[04/03/2006 11:50 AM] Me: she is amazing
+[04/03/2006 11:50 AM] Forest Schwyn: lol
+[04/03/2006 11:50 AM] Forest Schwyn: <-------- needs a GF
+[04/03/2006 11:50 AM] Me: si si si
+[04/03/2006 11:50 AM] Forest Schwyn: maybe my problem is I don't have enough 70's songs memorized
+[04/03/2006 11:52 AM] Me: lol guess not
+[04/03/2006 11:52 AM] Me: i am going to make christina a CD
+[04/03/2006 11:53 AM] Me: with fantabulous 70s music
+[04/03/2006 11:53 AM] Forest Schwyn: lol
+[04/03/2006 11:53 AM] Me: i can read your mind
+[04/03/2006 11:57 AM] Me: this class makes me feel stupid :-(
+[04/03/2006 11:57 AM] Me: and there are people struggling in here i feel bad
+[04/03/2006 11:57 AM] Me: almost
+[04/03/2006 11:57 AM] Forest Schwyn: lol
+[04/03/2006 11:57 AM] Forest Schwyn: hey, I struggle
+[04/03/2006 11:57 AM] Forest Schwyn: I thinks partly becuase I don't pay much attention though
+[04/03/2006 11:57 AM] Me: i know
+[04/03/2006 11:57 AM] Me: haha
+[04/03/2006 11:57 AM] Forest Schwyn: stfu
+[04/03/2006 11:58 AM] Forest Schwyn: at least I get stuff done, some people turn in most of the stuff late
+[04/03/2006 11:58 AM] Me: very true
+[04/03/2006 11:58 AM] Me: even our friends Robert over there
+[04/03/2006 11:58 AM] Forest Schwyn: lol
+[04/03/2006 12:10 PM] Forest Schwyn: chuck norris once challenged lance armstrong to a who has more balls contest. chuck norris won by 5.
+[04/03/2006 12:13 PM] Forest Schwyn: chuck norris has counted to infinity. twice.
+[04/03/2006 12:14 PM] Me: i've heard that one
+[04/03/2006 12:16 PM] Forest Schwyn: (Link: http://www.wimp.com/chuck/)http://www.wimp.com/chuck/
+[04/03/2006 12:16 PM] Forest Schwyn: chuck norris reading chuck norris facts
+[04/03/2006 12:18 PM] *** "Forest Schwyn" signed off at Mon Apr 03 12:18:45 2006.
+Session Close (Forest Schwyn): Mon Apr 03 12:20:22 2006
+
+

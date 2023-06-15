@@ -1,0 +1,54 @@
+{
+    "thread": "/messaging/thread/6230071994646347776/",
+    "participants": [
+        {
+            "name": "Alan Masters",
+            "title": "Senior Associate at TEEMA Solutions Group Inc",
+            "url": "linkedin.com/in/alan-masters-919579100",
+            "phone": null,
+            "email": "amasters@teemagroup.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Me",
+            "message": "You're a genius!\n",
+            "time": "2018-01-25T17:21:00.000Z"
+        },
+        {
+            "from": "Alan Masters",
+            "message": "You too!\n",
+            "time": "2018-01-25T17:22:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "Amazing how teema calls out to not being micro managing and this is exactly the problem I am struggling with. Coincidence? I think not. Can I have a job?\n",
+            "time": "2018-01-25T17:41:00.000Z"
+        },
+        {
+            "from": "Alan Masters",
+            "message": "Sorry for the delay, Brian. Teema is a staffing agency, we have clients that I may be able to get you an interview with....\n\nNot sure if I have anything right now? What are your strongest skills in terms of programming?\n",
+            "time": "2018-01-26T19:26:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "C# PHP JavaScript user experience. I meant a job with teema not from teema.\n",
+            "time": "2018-01-26T19:30:00.000Z"
+        },
+        {
+            "from": "Alan Masters",
+            "message": "Haha I know what you meant, we aren't hiring for anything related to IT/development at the moment :(\n",
+            "time": "2018-01-26T19:46:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": ":(\n",
+            "time": "2018-01-26T19:49:00.000Z"
+        },
+        {
+            "from": "Me",
+            "message": "I think my collar is already turning blue.\n",
+            "time": "2018-01-26T19:49:00.000Z"
+        }
+    ]
+}

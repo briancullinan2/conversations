@@ -1,0 +1,24 @@
+{
+    "thread": "/messaging/thread/6249655770598637568/",
+    "participants": [
+        {
+            "name": "Wes Page",
+            "title": "Sr. Technical Recruiter at Rapid7",
+            "url": "linkedin.com/in/wes-page-2046b25",
+            "phone": null,
+            "email": "wes_page@rapid7.com"
+        }
+    ],
+    "messages": [
+        {
+            "from": "Wes Page",
+            "time": "2017-03-20T12:00:00.000Z",
+            "message": "Scale at Brightcove...\n\nHi Brian, \n\nI found your profile and wanted to reach out to you. Brightcove is revolutionizing the way video is experienced on every screen. We are looking for a Polyglot Software Engineer to add to our team. You would work on our next generation video ingestion and delivery product in Go(lang).\n\nPlease let me know if you have a few minutes to chat about your background and what's next for you to see if this connects.\n\nBest regards,\n\nWes Page\nSr. Tech Recruiter\nBrightcove\nwpage@brightcove.com\n\nWes Page\nSr. Tech Recruiter\nBrightcove\nwpage@brightcove.com\n"
+        },
+        {
+            "from": "Me",
+            "time": "2017-03-20T18:22:00.000Z",
+            "message": "Thank you for connecting! I only have time to talk to the hiring manager.\n"
+        }
+    ]
+}

@@ -1,0 +1,913 @@
+[
+    {
+        "resourceName": "people/c3196412713838719486",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "2c5bf06d8be631fe"
+                    }
+                },
+                "displayName": "Teresa Cvach",
+                "familyName": "Cvach",
+                "givenName": "Teresa",
+                "displayNameLastFirst": "Cvach, Teresa"
+            },
+            {
+                "metadata": {
+                    "source": {
+                        "type": "PROFILE",
+                        "id": "113624373381010252815"
+                    }
+                },
+                "displayName": "Teresa Cvach",
+                "familyName": "Cvach",
+                "givenName": "Teresa",
+                "displayNameLastFirst": "Cvach, Teresa"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "2c5bf06d8be631fe"
+                    }
+                },
+                "value": "+1-480-688-0930",
+                "canonicalForm": "+14806880930",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "23 Mutual Connections",
+                "You and Teresa both know Abe Pralle, Jesse Gill, and 21 others"
+            ],
+            [
+                "You both studied at Northern Arizona University",
+                "You both studied at Northern Arizona University from 2005 to 2009"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Implementation Team Lead, CSD",
+                "Company Name",
+                "Yardi Systems",
+                "Dates Employed",
+                "Apr 2015 – Present",
+                "Employment Duration",
+                "2 yrs 7 mos",
+                "Location",
+                "Goleta, California",
+                "•Supervised the Cash Management implementation team of 9 people tasked with 200+ clients as the the team doubled in personnel and in number of implementations through the introduction of Payment Processing v2 in client SaaS environments•Fostered an environment to improve team performance to hit our goals of 80% logged and 50% billed through positive feedback and individual meetings•Showcased Yardi Payment Processing through teaching and strategic meetings with clients at the Yardi Advanced Solutions Conference and Senior Living Forum•Achieved end-user success in implementation while visiting clients on site•Custom built and modified SQL reports, stored procedures and triggers•Introduced and trained Payment Processing v2 in Toronto to begin a support team for Canada clients"
+            ],
+            [
+                "Client Support Specialist, CSD",
+                "Company Name",
+                "Yardi Systems",
+                "Dates Employed",
+                "Jul 2013 – Apr 2015",
+                "Employment Duration",
+                "1 yr 10 mos",
+                "Location",
+                "Goleta, CA",
+                "Implementation and Support for the Cash Management product.Represented Yardi by teaching classes and meeting with clients during the Yardi Advanced Solutions ConferenceTrained and served clients on site in AZ, NV and CA to provide a positive software experience"
+            ],
+            [
+                "Sales Account Specialist (In-House)",
+                "Company Name",
+                "Deckers Outdoor Corporation",
+                "Dates Employed",
+                "Aug 2011 – May 2013",
+                "Employment Duration",
+                "1 yr 10 mos",
+                "Location",
+                "Goleta, CA",
+                " Personally responsible for the successful management of footwear wholesale accounts with the goal of maintaining positive relationships while growing sales volume.  Provided in-house sales and service support to 13 independent field sales representatives including order quality review, order entry, conflict resolutions and reporting needs.  Led the customer service integration component of an RA modification improvement process with the Distribution Center Returns group.  Provided UGG Concept Store support to the Deckers Retail Dept including order review, order modification, and reporting."
+            ],
+            [
+                "Seasonal Trainer - Customer Service Representative",
+                "Company Name",
+                "Deckers Outdoor Corporation",
+                "Dates Employed",
+                "Nov 2009 – Aug 2011",
+                "Employment Duration",
+                "1 yr 10 mos",
+                " Trained 9 classes of seasonal customer service representatives to understand and utilize procedures, HSOE and related forms, and proper etiquette using phones, chat, and email on Oracle COD and CRM systems. Coached representatives on the floor and assisted in monitoring and support to supervisors  Taught UGG Australia Fall 2010 and Spring 2011 product information to the customer service center, using hands-on and visual techniques  Co-wrote the training material for the implementation of Demandware and Oracle software, including system and interface changes for the customer database, web site, and phone software, and educated call center on process  Performed supervisor duties as a supportive role in peak season and served as interim supervisor for 2 months during Summer 2011"
+            ],
+            [
+                "Sales Account Manager",
+                "Company Name",
+                "NAU TV Services",
+                "Dates Employed",
+                "Nov 2007 – Sep 2010",
+                "Employment Duration",
+                "2 yrs 11 mos",
+                "Sales, Marketing, Processing for Educational Systems Programming in TV Services"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Northern Arizona University",
+                "Degree Name",
+                "BA (with Honors)",
+                "Field Of Study",
+                "Music, Business",
+                "Dates attended or expected graduation",
+                "2005 – 2009",
+                "Activities and Societies:",
+                "Section Leader, NAU Lumberjack Marching Band",
+                "Deans List (4 years)Presidential ScholarshipSchool of Music ScholarshipHonors Scholarship"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer",
+                "Company Name",
+                "Earth Day Festival",
+                "Cause",
+                "Environment"
+            ],
+            [
+                "Volunteer",
+                "Company Name",
+                "Earth Day Festival",
+                "Cause",
+                "Environment"
+            ],
+            [
+                "Volunteer",
+                "Company Name",
+                "Santa Barbara Rescue Mission"
+            ],
+            [
+                "Volunteer",
+                "Company Name",
+                "Santa Barbara Rescue Mission"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Yardi",
+                "19,700 followers"
+            ],
+            [
+                "JHA Card Processing Solutions",
+                "203 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ],
+            [
+                "See connections (221)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Yardi",
+                "19,700 followers"
+            ],
+            [
+                "Yardi",
+                "19,700 followers"
+            ],
+            [
+                "JHA Card Processing Solutions",
+                "203 followers"
+            ],
+            [
+                "JHA Card Processing Solutions",
+                "203 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "100,806 followers"
+            ]
+        ],
+        "recommendations": [
+            [
+                "Brian So",
+                "Technical Account Manager at Yardi Systems, Inc.",
+                "May 5, 2016, Brian reported directly to Teresa",
+                "What can I say, she joined Yardi a couple months after I did, excelled and became my boss as Team Lead.  That's the drive and dedication you want!  She asked the right questions, found the solutions, and managed to teach along the way.  She's highly knowledgeable about Payment Processing, online leasing, general ledger accounting, and property management best practices.  She went from having a curiosity about SQL to being a SQL whiz.  I highly recommend Teresa as a colleague, supervisor, and friend!"
+            ],
+            [
+                "Brian So",
+                "Technical Account Manager at Yardi Systems, Inc.",
+                "May 5, 2016, Brian reported directly to Teresa"
+            ],
+            [
+                "Brian So",
+                "Technical Account Manager at Yardi Systems, Inc.",
+                "May 5, 2016, Brian reported directly to Teresa"
+            ],
+            [
+                "Brian So",
+                "Technical Account Manager at Yardi Systems, Inc.",
+                "May 5, 2016, Brian reported directly to Teresa"
+            ],
+            "Technical Account Manager at Yardi Systems, Inc.",
+            [
+                "What can I say, she joined Yardi a couple months after I did, excelled and became my boss as Team Lead.  That's the drive and dedication you want!  She asked the right questions, found the solutions, and managed to teach along the way.  She's highly knowledgeable about Payment Processing, online leasing, general ledger accounting, and property management best practices.  She went from having a curiosity about SQL to being a SQL whiz.  I highly recommend Teresa as a colleague, supervisor, and friend!"
+            ],
+            [
+                "What can I say, she joined Yardi a couple months after I did, excelled and became my boss as Team Lead.  That's the drive and dedication you want!  She asked the right questions, found the solutions, and managed to teach along the way.  She's highly knowledgeable about Payment Processing, online leasing, general ledger accounting, and property management best practices.  She went from having a curiosity about SQL to being a SQL whiz.  I highly recommend Teresa as a colleague, supervisor, and friend!"
+            ],
+            [
+                "Josh Berry",
+                "Technical Account Manager, Consulting Practices, RENTCafe",
+                "May 1, 2016, Josh worked with Teresa in different groups",
+                "Dependable is the phrase that comes to mind when I think about Teresa. I’ve had the pleasure of working with Teresa for a year, during which I have worked with her and her team. She leads by example and works to get the job done with precision and efficiency."
+            ],
+            [
+                "Josh Berry",
+                "Technical Account Manager, Consulting Practices, RENTCafe",
+                "May 1, 2016, Josh worked with Teresa in different groups"
+            ],
+            [
+                "Josh Berry",
+                "Technical Account Manager, Consulting Practices, RENTCafe",
+                "May 1, 2016, Josh worked with Teresa in different groups"
+            ],
+            [
+                "Josh Berry",
+                "Technical Account Manager, Consulting Practices, RENTCafe",
+                "May 1, 2016, Josh worked with Teresa in different groups"
+            ],
+            "Technical Account Manager, Consulting Practices, RENTCafe",
+            [
+                "Dependable is the phrase that comes to mind when I think about Teresa. I’ve had the pleasure of working with Teresa for a year, during which I have worked with her and her team. She leads by example and works to get the job done with precision and efficiency."
+            ],
+            [
+                "Dependable is the phrase that comes to mind when I think about Teresa. I’ve had the pleasure of working with Teresa for a year, during which I have worked with her and her team. She leads by example and works to get the job done with precision and efficiency."
+            ],
+            [
+                "Jim Lyons",
+                "Senior Account Executive at Yardi",
+                "April 29, 2016, Jim worked with Teresa in different groups",
+                "Teresa is dependable, thorough, and a pleasure to work with.  When my clients work with Teresa or her team, I know that they receive clear and informed guidance, direction, and service.  She is a wonderful teammate!"
+            ],
+            [
+                "Jim Lyons",
+                "Senior Account Executive at Yardi",
+                "April 29, 2016, Jim worked with Teresa in different groups"
+            ],
+            [
+                "Jim Lyons",
+                "Senior Account Executive at Yardi",
+                "April 29, 2016, Jim worked with Teresa in different groups"
+            ],
+            [
+                "Jim Lyons",
+                "Senior Account Executive at Yardi",
+                "April 29, 2016, Jim worked with Teresa in different groups"
+            ],
+            "Senior Account Executive at Yardi",
+            [
+                "Teresa is dependable, thorough, and a pleasure to work with.  When my clients work with Teresa or her team, I know that they receive clear and informed guidance, direction, and service.  She is a wonderful teammate!"
+            ],
+            [
+                "Teresa is dependable, thorough, and a pleasure to work with.  When my clients work with Teresa or her team, I know that they receive clear and informed guidance, direction, and service.  She is a wonderful teammate!"
+            ],
+            [
+                "Xiangmiao Yuan",
+                "Product Engineer",
+                "July 14, 2011, Xiangmiao and Teresa were students together",
+                "Teresa is a passionate person, both in work and in life. She is one of the most inspiring people I have ever met. Her natural integrity and responsibility make her a person I can always rely on. She is knowledgeable technically and also socially. Teresa is precise and serious when it comes to business, but at the same time she is easy and enjoyable to work with. She was always able to thoroughly answer my questions and easily resolve problems or concerns I had. I wholeheartedly recommend Teresa Cvach"
+            ],
+            [
+                "Xiangmiao Yuan",
+                "Product Engineer",
+                "July 14, 2011, Xiangmiao and Teresa were students together"
+            ],
+            [
+                "Xiangmiao Yuan",
+                "Product Engineer",
+                "July 14, 2011, Xiangmiao and Teresa were students together"
+            ],
+            [
+                "Xiangmiao Yuan",
+                "Product Engineer",
+                "July 14, 2011, Xiangmiao and Teresa were students together"
+            ],
+            "Product Engineer",
+            [
+                "Teresa is a passionate person, both in work and in life. She is one of the most inspiring people I have ever met. Her natural integrity and responsibility make her a person I can always rely on. She is knowledgeable technically and also socially. Teresa is precise and serious when it comes to business, but at the same time she is easy and enjoyable to work with. She was always able to thoroughly answer my questions and easily resolve problems or concerns I had. I wholeheartedly recommend Teresa Cvach"
+            ],
+            [
+                "Teresa is a passionate person, both in work and in life. She is one of the most inspiring people I have ever met. Her natural integrity and responsibility make her a person I can always rely on. She is knowledgeable technically and also socially. Teresa is precise and serious when it comes to business, but at the same time she is easy and enjoyable to work with. She was always able to thoroughly answer my questions and easily resolve problems or concerns I had. I wholeheartedly recommend Teresa Cvach"
+            ],
+            [
+                "Nicolas Beuzeboc",
+                "Database Analyst at Norchem",
+                "July 9, 2011, Teresa worked with Nicolas in the same group",
+                "Teresa makes sure that new hires receive an excellent training, she follows up with constructive feedback and enforces company policies."
+            ],
+            [
+                "Nicolas Beuzeboc",
+                "Database Analyst at Norchem",
+                "July 9, 2011, Teresa worked with Nicolas in the same group"
+            ],
+            [
+                "Nicolas Beuzeboc",
+                "Database Analyst at Norchem",
+                "July 9, 2011, Teresa worked with Nicolas in the same group"
+            ],
+            [
+                "Nicolas Beuzeboc",
+                "Database Analyst at Norchem",
+                "July 9, 2011, Teresa worked with Nicolas in the same group"
+            ],
+            "Database Analyst at Norchem",
+            [
+                "Teresa makes sure that new hires receive an excellent training, she follows up with constructive feedback and enforces company policies."
+            ],
+            [
+                "Teresa makes sure that new hires receive an excellent training, she follows up with constructive feedback and enforces company policies."
+            ],
+            [
+                "Dietrich Sauer - PHR",
+                "Executive Director of Human Resources",
+                "February 9, 2011, Dietrich was senior to Teresa but didn’t manage directly",
+                "Teresa is someone that strives to grow within the organization. She is consistently willing to take on additional responsibilities and learn something new.  She has a very positive demeanor and is very receptive to feedback.  Teresa has the ability to put others at ease, regardless of the situation and is someone you should consider for your organization."
+            ],
+            [
+                "Dietrich Sauer - PHR",
+                "Executive Director of Human Resources",
+                "February 9, 2011, Dietrich was senior to Teresa but didn’t manage directly"
+            ],
+            [
+                "Dietrich Sauer - PHR",
+                "Executive Director of Human Resources",
+                "February 9, 2011, Dietrich was senior to Teresa but didn’t manage directly"
+            ],
+            [
+                "Dietrich Sauer - PHR",
+                "Executive Director of Human Resources",
+                "February 9, 2011, Dietrich was senior to Teresa but didn’t manage directly"
+            ],
+            "Executive Director of Human Resources",
+            [
+                "Teresa is someone that strives to grow within the organization. She is consistently willing to take on additional responsibilities and learn something new.  She has a very positive demeanor and is very receptive to feedback.  Teresa has the ability to put others at ease, regardless of the situation and is someone you should consider for your organization."
+            ],
+            [
+                "Teresa is someone that strives to grow within the organization. She is consistently willing to take on additional responsibilities and learn something new.  She has a very positive demeanor and is very receptive to feedback.  Teresa has the ability to put others at ease, regardless of the situation and is someone you should consider for your organization."
+            ],
+            [
+                "Steve Cvach",
+                "Commercial Sales Manager at Ford",
+                "September 20, 2009, Steve and Teresa were students together",
+                "Dilligent and conscientious worker."
+            ],
+            [
+                "Steve Cvach",
+                "Commercial Sales Manager at Ford",
+                "September 20, 2009, Steve and Teresa were students together"
+            ],
+            [
+                "Steve Cvach",
+                "Commercial Sales Manager at Ford",
+                "September 20, 2009, Steve and Teresa were students together"
+            ],
+            [
+                "Steve Cvach",
+                "Commercial Sales Manager at Ford",
+                "September 20, 2009, Steve and Teresa were students together"
+            ],
+            "Commercial Sales Manager at Ford",
+            [
+                "Dilligent and conscientious worker."
+            ],
+            [
+                "Dilligent and conscientious worker."
+            ],
+            [
+                "Brian So",
+                "Technical Account Manager at Yardi Systems, Inc.",
+                "April 29, 2016, Teresa managed Brian directly",
+                "Brian brings a vast knowledge of property management to the table from his experience at Wolfe and at Yardi. He is key in developing positive relationships with clients, in which while I was his Team Lead, I knew that I could assign him some of our more strategic implementations."
+            ],
+            [
+                "Brian So",
+                "Technical Account Manager at Yardi Systems, Inc.",
+                "April 29, 2016, Teresa managed Brian directly"
+            ],
+            [
+                "Brian So",
+                "Technical Account Manager at Yardi Systems, Inc.",
+                "April 29, 2016, Teresa managed Brian directly"
+            ],
+            [
+                "Brian So",
+                "Technical Account Manager at Yardi Systems, Inc.",
+                "April 29, 2016, Teresa managed Brian directly"
+            ],
+            "Technical Account Manager at Yardi Systems, Inc.",
+            [
+                "Brian brings a vast knowledge of property management to the table from his experience at Wolfe and at Yardi. He is key in developing positive relationships with clients, in which while I was his Team Lead, I knew that I could assign him some of our more strategic implementations."
+            ],
+            [
+                "Brian brings a vast knowledge of property management to the table from his experience at Wolfe and at Yardi. He is key in developing positive relationships with clients, in which while I was his Team Lead, I knew that I could assign him some of our more strategic implementations."
+            ],
+            [
+                "Taylor Burt",
+                "Director of Resident Operations",
+                "April 29, 2016, Taylor was a client of Teresa’s",
+                "Taylor and I continuously work together with the implementation of Yardi Payment Processing for American Homes 4 Rent. While I have conducted many implementations and now manage a team of implementation specialists, American Homes 4 Rent remains one of my favorite clients, in part due to Taylor. Taylor is very business minded and yet friendly and logical. His willingness to work with and understanding of Yardi's ability allowed us to have a successful implementation for a large portfolio of Single Family Homes."
+            ],
+            [
+                "Taylor Burt",
+                "Director of Resident Operations",
+                "April 29, 2016, Taylor was a client of Teresa’s"
+            ],
+            [
+                "Taylor Burt",
+                "Director of Resident Operations",
+                "April 29, 2016, Taylor was a client of Teresa’s"
+            ],
+            [
+                "Taylor Burt",
+                "Director of Resident Operations",
+                "April 29, 2016, Taylor was a client of Teresa’s"
+            ],
+            "Director of Resident Operations",
+            [
+                "Taylor and I continuously work together with the implementation of Yardi Payment Processing for American Homes 4 Rent. While I have conducted many implementations and now manage a team of implementation specialists, American Homes 4 Rent remains one of my favorite clients, in part due to Taylor. Taylor is very business minded and yet friendly and logical. His willingness to work with and understanding of Yardi's ability allowed us to have a successful implementation for a large portfolio of Single Family Homes."
+            ],
+            [
+                "Taylor and I continuously work together with the implementation of Yardi Payment Processing for American Homes 4 Rent. While I have conducted many implementations and now manage a team of implementation specialists, American Homes 4 Rent remains one of my favorite clients, in part due to Taylor. Taylor is very business minded and yet friendly and logical. His willingness to work with and understanding of Yardi's ability allowed us to have a successful implementation for a large portfolio of Single Family Homes."
+            ]
+        ],
+        "skills": [
+            [
+                "Customer Service",
+                "See 25 endorsements for Customer Service",
+                "25",
+                "Customer Service",
+                "Endorse",
+                "Endorsed by Kat Loftus and 2 others who are highly skilled at this",
+                "Endorsed by Samuel Opp and 1 other mutual connection"
+            ],
+            [
+                "Customer Service",
+                "See 25 endorsements for Customer Service",
+                "25"
+            ],
+            [
+                "Marketing",
+                "See 17 endorsements for Marketing",
+                "17",
+                "Marketing",
+                "Remove Endorsement",
+                "Endorsed by Abe Pralle and 1 other mutual connection",
+                "Endorsed by 2 of Teresa’s colleagues at Yardi"
+            ],
+            [
+                "Marketing",
+                "See 17 endorsements for Marketing",
+                "17"
+            ],
+            [
+                "E-commerce",
+                "See 17 endorsements for E-commerce",
+                "17",
+                "E-commerce",
+                "Remove Endorsement",
+                "Endorsed by Xiangmiao Yuan and 2 other mutual connections",
+                "Endorsed by 2 of Teresa’s colleagues at Yardi"
+            ],
+            [
+                "E-commerce",
+                "See 17 endorsements for E-commerce",
+                "17"
+            ],
+            [
+                "Training",
+                "See 15 endorsements for Training",
+                "15",
+                "Training",
+                "Endorse"
+            ],
+            [
+                "Training",
+                "See 15 endorsements for Training",
+                "15"
+            ],
+            [
+                "Team Leadership",
+                "See 15 endorsements for Team Leadership",
+                "15",
+                "Team Leadership",
+                "Remove Endorsement"
+            ],
+            [
+                "Team Leadership",
+                "See 15 endorsements for Team Leadership",
+                "15"
+            ],
+            [
+                "Sales",
+                "See 11 endorsements for Sales",
+                "11",
+                "Sales",
+                "Endorse"
+            ],
+            [
+                "Sales",
+                "See 11 endorsements for Sales",
+                "11"
+            ],
+            [
+                "Customer Satisfaction",
+                "See 11 endorsements for Customer Satisfaction",
+                "11",
+                "Customer Satisfaction",
+                "Remove Endorsement"
+            ],
+            [
+                "Customer Satisfaction",
+                "See 11 endorsements for Customer Satisfaction",
+                "11"
+            ],
+            [
+                "Microsoft Excel",
+                "See 10 endorsements for Microsoft Excel",
+                "10",
+                "Microsoft Excel",
+                "Endorse"
+            ],
+            [
+                "Microsoft Excel",
+                "See 10 endorsements for Microsoft Excel",
+                "10"
+            ],
+            [
+                "Microsoft Office",
+                "See 10 endorsements for Microsoft Office",
+                "10",
+                "Microsoft Office",
+                "Endorse"
+            ],
+            [
+                "Microsoft Office",
+                "See 10 endorsements for Microsoft Office",
+                "10"
+            ],
+            [
+                "Project Management",
+                "See 9 endorsements for Project Management",
+                "9",
+                "Project Management",
+                "Endorse"
+            ],
+            [
+                "Project Management",
+                "See 9 endorsements for Project Management",
+                "9"
+            ],
+            [
+                "Forecasting",
+                "See 7 endorsements for Forecasting",
+                "7",
+                "Forecasting",
+                "Remove Endorsement"
+            ],
+            [
+                "Forecasting",
+                "See 7 endorsements for Forecasting",
+                "7"
+            ],
+            [
+                "Microsoft Word",
+                "See 4 endorsements for Microsoft Word",
+                "4",
+                "Microsoft Word",
+                "Endorse"
+            ],
+            [
+                "Microsoft Word",
+                "See 4 endorsements for Microsoft Word",
+                "4"
+            ],
+            [
+                "Yardi Voyager",
+                "See 4 endorsements for Yardi Voyager",
+                "4",
+                "Yardi Voyager",
+                "Endorse"
+            ],
+            [
+                "Yardi Voyager",
+                "See 4 endorsements for Yardi Voyager",
+                "4"
+            ],
+            [
+                "PowerPoint",
+                "See 3 endorsements for PowerPoint",
+                "3",
+                "PowerPoint",
+                "Endorse"
+            ],
+            [
+                "PowerPoint",
+                "See 3 endorsements for PowerPoint",
+                "3"
+            ],
+            [
+                "Data Analysis",
+                "See 3 endorsements for Data Analysis",
+                "3",
+                "Data Analysis",
+                "Endorse"
+            ],
+            [
+                "Data Analysis",
+                "See 3 endorsements for Data Analysis",
+                "3"
+            ],
+            [
+                "Yardi",
+                "See 3 endorsements for Yardi",
+                "3",
+                "Yardi",
+                "Endorse"
+            ],
+            [
+                "Yardi",
+                "See 3 endorsements for Yardi",
+                "3"
+            ],
+            [
+                "Software Implementation",
+                "See 3 endorsements for Software Implementation",
+                "3",
+                "Software Implementation",
+                "Endorse"
+            ],
+            [
+                "Software Implementation",
+                "See 3 endorsements for Software Implementation",
+                "3"
+            ],
+            [
+                "Business Analysis",
+                "See 2 endorsements for Business Analysis",
+                "2",
+                "Business Analysis",
+                "Endorse"
+            ],
+            [
+                "Business Analysis",
+                "See 2 endorsements for Business Analysis",
+                "2"
+            ],
+            [
+                "Management",
+                "See 2 endorsements for Management",
+                "2",
+                "Management",
+                "Endorse"
+            ],
+            [
+                "Management",
+                "See 2 endorsements for Management",
+                "2"
+            ],
+            [
+                "Customer Relationship Management (CRM)",
+                "See 2 endorsements for Customer Relationship Management (CRM)",
+                "2",
+                "Customer Relationship Management (CRM)",
+                "Endorse"
+            ],
+            [
+                "Customer Relationship Management (CRM)",
+                "See 2 endorsements for Customer Relationship Management (CRM)",
+                "2"
+            ],
+            [
+                "Cross-functional Team Leadership",
+                "See 1 endorsement for Cross-functional Team Leadership",
+                "1",
+                "Cross-functional Team Leadership",
+                "Endorse"
+            ],
+            [
+                "Cross-functional Team Leadership",
+                "See 1 endorsement for Cross-functional Team Leadership",
+                "1"
+            ],
+            [
+                "Facebook",
+                "See 1 endorsement for Facebook",
+                "1",
+                "Facebook",
+                "Endorse"
+            ],
+            [
+                "Facebook",
+                "See 1 endorsement for Facebook",
+                "1"
+            ],
+            [
+                "Accountability",
+                "See 1 endorsement for Accountability",
+                "1",
+                "Accountability",
+                "Endorse"
+            ],
+            [
+                "Accountability",
+                "See 1 endorsement for Accountability",
+                "1"
+            ],
+            [
+                "Property Management",
+                "See 1 endorsement for Property Management",
+                "1",
+                "Property Management",
+                "Endorse"
+            ],
+            [
+                "Property Management",
+                "See 1 endorsement for Property Management",
+                "1"
+            ],
+            [
+                "Team Management",
+                "See 1 endorsement for Team Management",
+                "1",
+                "Team Management",
+                "Endorse"
+            ],
+            [
+                "Team Management",
+                "See 1 endorsement for Team Management",
+                "1"
+            ],
+            [
+                "Account Management",
+                "See 1 endorsement for Account Management",
+                "1",
+                "Account Management",
+                "Endorse"
+            ],
+            [
+                "Account Management",
+                "See 1 endorsement for Account Management",
+                "1"
+            ],
+            [
+                "Leadership",
+                "See 1 endorsement for Leadership",
+                "1",
+                "Leadership",
+                "Endorse"
+            ],
+            [
+                "Leadership",
+                "See 1 endorsement for Leadership",
+                "1"
+            ],
+            [
+                "SAP",
+                "SAP",
+                "Endorse"
+            ],
+            [
+                "SAP"
+            ],
+            [
+                "Continuous Improvement",
+                "Continuous Improvement",
+                "Endorse"
+            ],
+            [
+                "Continuous Improvement"
+            ],
+            [
+                "Spanish",
+                "Spanish",
+                "Endorse"
+            ],
+            [
+                "Spanish"
+            ],
+            [
+                "Appointment Scheduling",
+                "Appointment Scheduling",
+                "Endorse"
+            ],
+            [
+                "Appointment Scheduling"
+            ],
+            [
+                "ScheduALL",
+                "ScheduALL",
+                "Endorse"
+            ],
+            [
+                "ScheduALL"
+            ],
+            [
+                "On-site Services",
+                "On-site Services",
+                "Endorse"
+            ],
+            [
+                "On-site Services"
+            ],
+            [
+                "Remote Desktop",
+                "Remote Desktop",
+                "Endorse"
+            ],
+            [
+                "Remote Desktop"
+            ],
+            [
+                "Conference Speaking",
+                "Conference Speaking",
+                "Endorse"
+            ],
+            [
+                "Conference Speaking"
+            ],
+            [
+                "Long-term Customer Relationships",
+                "Long-term Customer Relationships",
+                "Endorse"
+            ],
+            [
+                "Long-term Customer Relationships"
+            ],
+            [
+                "CRM",
+                "CRM",
+                "Endorse"
+            ],
+            [
+                "CRM"
+            ],
+            [
+                "SQL",
+                "SQL",
+                "Endorse"
+            ],
+            [
+                "SQL"
+            ]
+        ],
+        "summary": "    Experienced Implementation Team Lead with a demonstrated history of working in the computer software industry. Strong information technology professional skilled in Account Management, Client Services, Sales, Customer Relationship Management (CRM), SQL, and Conference Speaking.Management strengths include:•Encourage a culture of individual responsibility and empowerment•Straightforward communication•Persistence•Effectively handle tough and critical conversations with clients and employees•Positive motivation through team and individual recognition and rewards\n  \n  \n",
+        "name": "Teresa Cvach",
+        "title": "Expert in Building Customer Relationships",
+        "url": "linkedin.com/in/teresa-cvach-407b8015",
+        "phone": "480.688.0930 (Mobile)",
+        "email": "teresacvach@gmail.com"
+    }
+]

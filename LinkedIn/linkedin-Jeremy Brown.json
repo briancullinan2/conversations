@@ -1,0 +1,905 @@
+[
+    {
+        "resourceName": "people/c50572228651456077",
+        "etag": "%EgUBAgcJCxoMAQIDBAUGBwgJCgsMIgw4T2VBaStaQ2Niaz0=",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "b3ab2c8c45164d"
+                    }
+                },
+                "displayName": "Jeremy Brown",
+                "familyName": "Brown",
+                "givenName": "Jeremy",
+                "displayNameLastFirst": "Brown, Jeremy"
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "b3ab2c8c45164d"
+                    }
+                },
+                "value": "+1-480-241-6379",
+                "canonicalForm": "+14802416379",
+                "type": "mobile",
+                "formattedType": "Mobile"
+            }
+        ],
+        "experience": [
+            "Highlights",
+            [
+                "6 Mutual Connections",
+                "You and Jeremy both know Ryan Middleton, Jordan Hedges, and 4 others"
+            ],
+            [
+                "You both worked at Northern Arizona University",
+                "Jeremy worked at Northern Arizona University after you started"
+            ],
+            [
+                "Show more",
+                "Show more highlights"
+            ],
+            [
+                "In a moment of frustration, I put this together, feeling sometimes that the industry and its customers don't always see eye to eye.",
+                "Jeremy commented"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Systems Administrator - Lync/Skype for Business Administration, Sr.",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Mar 2017 – Present",
+                "Employment Duration",
+                "8 mos",
+                "Location",
+                "Flagstaff, Arizona Area",
+                "Windows Server 2008 RTM-2012R2 installation, configuration, and maintenanceLync Server 2013 installation, configuration, and maintenanceExchange 2010/2016 configuration, and maintenanceTouchpoint Call Center installation, configuration, and maintenanceInstall/Configure/Maintain Audiocodes Media Gateways, Survivable Branch Appliances, and Session Border Controllers for use with PRI and SIP trunksHyper-V Virtual Machine Manager configuration and maintenanceHigh Availability Cluster installation, configuration, and maintenance with Failover Cluster ManagerPowerShell scripting and automationIIS installation, configuration, and maintenanceData Protection Manager configuration and maintenanceSharepoint configurationDell certified technician for Poweredge servers and Powervault storage arrays"
+            ],
+            [
+                "Systems Administrator - Lync/Skype for Business Administration, Intermediate",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Sep 2014 – Mar 2017",
+                "Employment Duration",
+                "2 yrs 7 mos",
+                "Location",
+                "Flagstaff, AZ",
+                "Windows Server 2008 RTM-2012R2 installation, configuration, and maintenanceLync Server 2013/Skype for Business Server 2015 installation, configuration, and maintenanceExchange 2010/2016 configuration, and maintenanceOffice365 and Exchange Online Protection AdministratorGoogle Apps for Education AdministratorTouchpoint Call Center installation, configuration, and maintenanceInstall/Configure/Maintain Audiocodes Media GatewaysInstall/Configure/Maintain Survivable Branch AppliancesHyper-V Virtual Machine Manager configuration and maintenanceHigh Availability Cluster installation, configuration, and maintenance with Failover Cluster ManagerPowerShell scripting and automationIIS installation, configuration, and maintenanceData Protection Manager configuration and maintenanceSharepoint configurationDell certified technician for Poweredge servers and Powervault storage arrays"
+            ],
+            [
+                "End-User Computing Specialist, Senior",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Aug 2011 – Sep 2014",
+                "Employment Duration",
+                "3 yrs 2 mos",
+                "Location",
+                "Flagstaff, Arizona Area",
+                "*Windows XP/7/8 image creation for deployment at main campus*Desktop, laptop, and server hardware installation, configuration, and troubleshooting*Network connectivity troubleshooting for Ethernet and wifi including VPN, firewall, and remote desktop*Active directory maintenance and troubleshooting of user permissions, group policy, account lockout, and user/computer account creation*Administration of enterprise-wide central anti-virus console*File share administrator for PC Support related directories*Endpoint file backup and recovery using Symantec Ghost*Virus prevention and remediation*Manages and trains team of PC hardware technicians*Work with vendors to purchase and troubleshoot software and hardware products*Dell certified technician for Blade servers, Poweredge servers, Powervault storage arrays, Desktops, Laptops, and Printers"
+            ],
+            [
+                "End User Computing Specialist, Intermediate",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Nov 2009 – Aug 2011",
+                "Employment Duration",
+                "1 yr 10 mos",
+                "Location",
+                "Northern Arizona University",
+                "*Desktop, laptop, and server hardware installation, configuration, and troubleshooting*Network connectivity troubleshooting for Ethernet and wifi including VPN, firewall, and remote desktop*Active directory maintenance and troubleshooting of user permissions, group policy, account lockout, and user/computer account creation*Administration of enterprise-wide central anti-virus console*File share administrator for PC Support related directories*Endpoint file backup and recovery using Symantec Ghost*Virus prevention and remediation*Dell certified technician for Blade servers, Poweredge servers, Powervault storage arrays, Desktops, Laptops, and Printers"
+            ],
+            [
+                "PC Technician/System Administrator",
+                "Company Name",
+                "PRN Computer Services",
+                "Dates Employed",
+                "Feb 2009 – Nov 2009",
+                "Employment Duration",
+                "10 mos",
+                "Location",
+                "Flagstaff, AZ"
+            ],
+            [
+                "Student Computing Assistant",
+                "Company Name",
+                "Northern Arizona University",
+                "Dates Employed",
+                "Jan 2006 – Nov 2009",
+                "Employment Duration",
+                "3 yrs 11 mos",
+                "Location",
+                "Flagstaff, AZ"
+            ],
+            [
+                "Financial Services Representative",
+                "Company Name",
+                "First State Bank",
+                "Dates Employed",
+                "Nov 2007 – Feb 2009",
+                "Employment Duration",
+                "1 yr 4 mos",
+                "Location",
+                "Flagstaff, AZ"
+            ],
+            [
+                "Teller",
+                "Company Name",
+                "JPMorgan Chase",
+                "Dates Employed",
+                "May 2007 – Nov 2007",
+                "Employment Duration",
+                "7 mos",
+                "Location",
+                "Flagstaff, AZ"
+            ],
+            [
+                "Banquet Liaison/Front Desk Agent",
+                "Company Name",
+                "Val Vista Lakes",
+                "Dates Employed",
+                "May 2003 – Dec 2005",
+                "Employment Duration",
+                "2 yrs 8 mos",
+                "Location",
+                "Gilbert, AZ"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Ira A. Fulton Schools of Engineering at Arizona State University",
+                "Field Of Study",
+                "Computer Software Engineering",
+                "Dates attended or expected graduation",
+                "2015 – 2020",
+                "-Python-Java-C++"
+            ],
+            [
+                "Ira A. Fulton Schools of Engineering at Arizona State University",
+                "Field Of Study",
+                "Computer Software Engineering",
+                "Dates attended or expected graduation",
+                "2015 – 2020",
+                "-Python-Java-C++"
+            ],
+            [
+                "Arizona State University, W. P. Carey School of Business",
+                "Degree Name",
+                "Masters of Science",
+                "Field Of Study",
+                "Information Management",
+                "Dates attended or expected graduation",
+                "2012 – 2013",
+                "- Strategic Value of IT- IT Services and Project Management- Business Intelligence- Business Database Systems- Business Process Workflow Analysis- Enterprise Systems- Knowledge Management and Text Analysis- Information Security and Controls- Emerging Technologies in IT"
+            ],
+            [
+                "Arizona State University, W. P. Carey School of Business",
+                "Degree Name",
+                "Masters of Science",
+                "Field Of Study",
+                "Information Management",
+                "Dates attended or expected graduation",
+                "2012 – 2013",
+                "- Strategic Value of IT- IT Services and Project Management- Business Intelligence- Business Database Systems- Business Process Workflow Analysis- Enterprise Systems- Knowledge Management and Text Analysis- Information Security and Controls- Emerging Technologies in IT"
+            ],
+            [
+                "Northern Arizona University, College of Business Administration",
+                "Degree Name",
+                "Bachelor of Science",
+                "Field Of Study",
+                "Computer Information Systems",
+                "Dates attended or expected graduation",
+                "2006 – 2011",
+                "- Programming Principles (Object Oriented - C#)- Hardware and Operating Systems- Database Analysis Modeling/Design- Management Information Systems- Enterprise Database Concepts- Configuration/Management of Enterprise Systems (SAP Configuration)- Web Technology and Development- Information Assurance and Security- Network and Telecommunications- Systems Analysis and Design"
+            ],
+            [
+                "Northern Arizona University, College of Business Administration",
+                "Degree Name",
+                "Bachelor of Science",
+                "Field Of Study",
+                "Computer Information Systems",
+                "Dates attended or expected graduation",
+                "2006 – 2011",
+                "- Programming Principles (Object Oriented - C#)- Hardware and Operating Systems- Database Analysis Modeling/Design- Management Information Systems- Enterprise Database Concepts- Configuration/Management of Enterprise Systems (SAP Configuration)- Web Technology and Development- Information Assurance and Security- Network and Telecommunications- Systems Analysis and Design"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Mesa Community College",
+                "40,300 followers"
+            ],
+            [
+                "Ira A. Fulton Schools of Engineering at Arizona State University",
+                "6,733 followers"
+            ],
+            [
+                "Microsoft",
+                "3,999,251 followers"
+            ],
+            [
+                "Coconino County Community College",
+                "2,399 followers"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "5,916 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "See all",
+                "See all following"
+            ],
+            [
+                "See connections (150)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Mesa Community College",
+                "40,300 followers"
+            ],
+            [
+                "Mesa Community College",
+                "40,300 followers"
+            ],
+            [
+                "Ira A. Fulton Schools of Engineering at Arizona State University",
+                "6,733 followers"
+            ],
+            [
+                "Ira A. Fulton Schools of Engineering at Arizona State University",
+                "6,733 followers"
+            ],
+            [
+                "Microsoft",
+                "3,999,251 followers"
+            ],
+            [
+                "Microsoft",
+                "3,999,251 followers"
+            ],
+            [
+                "Coconino County Community College",
+                "2,399 followers"
+            ],
+            [
+                "Coconino County Community College",
+                "2,399 followers"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "5,916 followers"
+            ],
+            [
+                "Northern Arizona University-The W. A. Franke College of Business",
+                "5,916 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ],
+            [
+                "Northern Arizona University",
+                "93,007 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Computer Hardware",
+                "See 30 endorsements for Computer Hardware",
+                "30",
+                "Computer Hardware",
+                "Endorse",
+                "Endorsed by 17 of Jeremy’s colleagues at Northern Arizona University",
+                "Endorsed by 6 people who know Computer Hardware"
+            ],
+            [
+                "Computer Hardware",
+                "See 30 endorsements for Computer Hardware",
+                "30"
+            ],
+            [
+                "Hardware",
+                "See 28 endorsements for Hardware",
+                "28",
+                "Hardware",
+                "Endorse",
+                "Endorsed by 17 of Jeremy’s colleagues at Northern Arizona University",
+                "Endorsed by 6 people who know Hardware"
+            ],
+            [
+                "Hardware",
+                "See 28 endorsements for Hardware",
+                "28"
+            ],
+            [
+                "Troubleshooting",
+                "See 25 endorsements for Troubleshooting",
+                "25",
+                "Troubleshooting",
+                "Endorse",
+                "Endorsed by 16 of Jeremy’s colleagues at Northern Arizona University",
+                "Endorsed by 6 people who know Troubleshooting"
+            ],
+            [
+                "Troubleshooting",
+                "See 25 endorsements for Troubleshooting",
+                "25"
+            ],
+            [
+                "Active Directory",
+                "See 22 endorsements for Active Directory",
+                "22",
+                "Active Directory",
+                "Endorse"
+            ],
+            [
+                "Active Directory",
+                "See 22 endorsements for Active Directory",
+                "22"
+            ],
+            [
+                "Windows 7",
+                "See 21 endorsements for Windows 7",
+                "21",
+                "Windows 7",
+                "Endorse"
+            ],
+            [
+                "Windows 7",
+                "See 21 endorsements for Windows 7",
+                "21"
+            ],
+            [
+                "Technical Support",
+                "See 18 endorsements for Technical Support",
+                "18",
+                "Technical Support",
+                "Endorse"
+            ],
+            [
+                "Technical Support",
+                "See 18 endorsements for Technical Support",
+                "18"
+            ],
+            [
+                "Networking",
+                "See 15 endorsements for Networking",
+                "15",
+                "Networking",
+                "Endorse"
+            ],
+            [
+                "Networking",
+                "See 15 endorsements for Networking",
+                "15"
+            ],
+            [
+                "XP",
+                "See 14 endorsements for XP",
+                "14",
+                "XP",
+                "Endorse"
+            ],
+            [
+                "XP",
+                "See 14 endorsements for XP",
+                "14"
+            ],
+            [
+                "Windows Server",
+                "See 12 endorsements for Windows Server",
+                "12",
+                "Windows Server",
+                "Endorse"
+            ],
+            [
+                "Windows Server",
+                "See 12 endorsements for Windows Server",
+                "12"
+            ],
+            [
+                "OS X",
+                "See 12 endorsements for OS X",
+                "12",
+                "OS X",
+                "Endorse"
+            ],
+            [
+                "OS X",
+                "See 12 endorsements for OS X",
+                "12"
+            ],
+            [
+                "Windows",
+                "See 12 endorsements for Windows",
+                "12",
+                "Windows",
+                "Endorse"
+            ],
+            [
+                "Windows",
+                "See 12 endorsements for Windows",
+                "12"
+            ],
+            [
+                "Databases",
+                "See 12 endorsements for Databases",
+                "12",
+                "Databases",
+                "Endorse"
+            ],
+            [
+                "Databases",
+                "See 12 endorsements for Databases",
+                "12"
+            ],
+            [
+                "Laptops",
+                "See 11 endorsements for Laptops",
+                "11",
+                "Laptops",
+                "Endorse"
+            ],
+            [
+                "Laptops",
+                "See 11 endorsements for Laptops",
+                "11"
+            ],
+            [
+                "Security",
+                "See 9 endorsements for Security",
+                "9",
+                "Security",
+                "Endorse"
+            ],
+            [
+                "Security",
+                "See 9 endorsements for Security",
+                "9"
+            ],
+            [
+                "Norton Ghost",
+                "See 8 endorsements for Norton Ghost",
+                "8",
+                "Norton Ghost",
+                "Endorse"
+            ],
+            [
+                "Norton Ghost",
+                "See 8 endorsements for Norton Ghost",
+                "8"
+            ],
+            [
+                "SharePoint",
+                "See 8 endorsements for SharePoint",
+                "8",
+                "SharePoint",
+                "Endorse"
+            ],
+            [
+                "SharePoint",
+                "See 8 endorsements for SharePoint",
+                "8"
+            ],
+            [
+                "VPN",
+                "See 8 endorsements for VPN",
+                "8",
+                "VPN",
+                "Endorse"
+            ],
+            [
+                "VPN",
+                "See 8 endorsements for VPN",
+                "8"
+            ],
+            [
+                "Windows Vista",
+                "See 7 endorsements for Windows Vista",
+                "7",
+                "Windows Vista",
+                "Endorse"
+            ],
+            [
+                "Windows Vista",
+                "See 7 endorsements for Windows Vista",
+                "7"
+            ],
+            [
+                "VMware",
+                "See 7 endorsements for VMware",
+                "7",
+                "VMware",
+                "Endorse"
+            ],
+            [
+                "VMware",
+                "See 7 endorsements for VMware",
+                "7"
+            ],
+            [
+                "Windows 2000",
+                "See 4 endorsements for Windows 2000",
+                "4",
+                "Windows 2000",
+                "Endorse"
+            ],
+            [
+                "Windows 2000",
+                "See 4 endorsements for Windows 2000",
+                "4"
+            ],
+            [
+                "Linux",
+                "See 4 endorsements for Linux",
+                "4",
+                "Linux",
+                "Endorse"
+            ],
+            [
+                "Linux",
+                "See 4 endorsements for Linux",
+                "4"
+            ],
+            [
+                "IT Management",
+                "See 4 endorsements for IT Management",
+                "4",
+                "IT Management",
+                "Endorse"
+            ],
+            [
+                "IT Management",
+                "See 4 endorsements for IT Management",
+                "4"
+            ],
+            [
+                "Business Process",
+                "See 4 endorsements for Business Process",
+                "4",
+                "Business Process",
+                "Endorse"
+            ],
+            [
+                "Business Process",
+                "See 4 endorsements for Business Process",
+                "4"
+            ],
+            [
+                "Software",
+                "See 3 endorsements for Software",
+                "3",
+                "Software",
+                "Endorse"
+            ],
+            [
+                "Software",
+                "See 3 endorsements for Software",
+                "3"
+            ],
+            [
+                "Data Analysis",
+                "See 3 endorsements for Data Analysis",
+                "3",
+                "Data Analysis",
+                "Endorse"
+            ],
+            [
+                "Data Analysis",
+                "See 3 endorsements for Data Analysis",
+                "3"
+            ],
+            [
+                "Business Intelligence",
+                "See 3 endorsements for Business Intelligence",
+                "3",
+                "Business Intelligence",
+                "Endorse"
+            ],
+            [
+                "Business Intelligence",
+                "See 3 endorsements for Business Intelligence",
+                "3"
+            ],
+            [
+                "Windows Server 2003",
+                "See 2 endorsements for Windows Server 2003",
+                "2",
+                "Windows Server 2003",
+                "Endorse"
+            ],
+            [
+                "Windows Server 2003",
+                "See 2 endorsements for Windows Server 2003",
+                "2"
+            ],
+            [
+                "Windows XP Professional",
+                "See 2 endorsements for Windows XP Professional",
+                "2",
+                "Windows XP Professional",
+                "Endorse"
+            ],
+            [
+                "Windows XP Professional",
+                "See 2 endorsements for Windows XP Professional",
+                "2"
+            ],
+            [
+                "Mac OS X Server",
+                "See 2 endorsements for Mac OS X Server",
+                "2",
+                "Mac OS X Server",
+                "Endorse"
+            ],
+            [
+                "Mac OS X Server",
+                "See 2 endorsements for Mac OS X Server",
+                "2"
+            ],
+            [
+                "Acronis True Image",
+                "See 2 endorsements for Acronis True Image",
+                "2",
+                "Acronis True Image",
+                "Endorse"
+            ],
+            [
+                "Acronis True Image",
+                "See 2 endorsements for Acronis True Image",
+                "2"
+            ],
+            [
+                "Computer Software",
+                "See 2 endorsements for Computer Software",
+                "2",
+                "Computer Software",
+                "Endorse"
+            ],
+            [
+                "Computer Software",
+                "See 2 endorsements for Computer Software",
+                "2"
+            ],
+            [
+                "WDS",
+                "See 2 endorsements for WDS",
+                "2",
+                "WDS",
+                "Endorse"
+            ],
+            [
+                "WDS",
+                "See 2 endorsements for WDS",
+                "2"
+            ],
+            [
+                "Backup Exec",
+                "See 2 endorsements for Backup Exec",
+                "2",
+                "Backup Exec",
+                "Endorse"
+            ],
+            [
+                "Backup Exec",
+                "See 2 endorsements for Backup Exec",
+                "2"
+            ],
+            [
+                "Windows Server 2008",
+                "See 1 endorsement for Windows Server 2008",
+                "1",
+                "Windows Server 2008",
+                "Endorse"
+            ],
+            [
+                "Windows Server 2008",
+                "See 1 endorsement for Windows Server 2008",
+                "1"
+            ],
+            [
+                "Windows 9x",
+                "See 1 endorsement for Windows 9x",
+                "1",
+                "Windows 9x",
+                "Endorse"
+            ],
+            [
+                "Windows 9x",
+                "See 1 endorsement for Windows 9x",
+                "1"
+            ],
+            [
+                "Mac OS X",
+                "See 1 endorsement for Mac OS X",
+                "1",
+                "Mac OS X",
+                "Endorse"
+            ],
+            [
+                "Mac OS X",
+                "See 1 endorsement for Mac OS X",
+                "1"
+            ],
+            [
+                "Symantec Backup Exec",
+                "See 1 endorsement for Symantec Backup Exec",
+                "1",
+                "Symantec Backup Exec",
+                "Endorse"
+            ],
+            [
+                "Symantec Backup Exec",
+                "See 1 endorsement for Symantec Backup Exec",
+                "1"
+            ],
+            [
+                "Windows Deployment Services",
+                "See 1 endorsement for Windows Deployment Services",
+                "1",
+                "Windows Deployment Services",
+                "Endorse"
+            ],
+            [
+                "Windows Deployment Services",
+                "See 1 endorsement for Windows Deployment Services",
+                "1"
+            ],
+            [
+                "A+ Trained",
+                "A+ Trained",
+                "Endorse"
+            ],
+            [
+                "A+ Trained"
+            ],
+            [
+                "Backtrack",
+                "Backtrack",
+                "Endorse"
+            ],
+            [
+                "Backtrack"
+            ],
+            [
+                "Wireshark",
+                "Wireshark",
+                "Endorse"
+            ],
+            [
+                "Wireshark"
+            ],
+            [
+                "OS Deployment with Ghost Solution Suite",
+                "See 2 endorsements for OS Deployment with Ghost Solution Suite",
+                "2",
+                "OS Deployment with Ghost Solution Suite",
+                "Endorse"
+            ],
+            [
+                "OS Deployment with Ghost Solution Suite",
+                "See 2 endorsements for OS Deployment with Ghost Solution Suite",
+                "2"
+            ],
+            [
+                "Sophos Enterprise Console",
+                "See 2 endorsements for Sophos Enterprise Console",
+                "2",
+                "Sophos Enterprise Console",
+                "Endorse"
+            ],
+            [
+                "Sophos Enterprise Console",
+                "See 2 endorsements for Sophos Enterprise Console",
+                "2"
+            ],
+            [
+                "Dell Certified Technician",
+                "See 2 endorsements for Dell Certified Technician",
+                "2",
+                "Dell Certified Technician",
+                "Endorse"
+            ],
+            [
+                "Dell Certified Technician",
+                "See 2 endorsements for Dell Certified Technician",
+                "2"
+            ],
+            [
+                "LAN Configuration",
+                "See 1 endorsement for LAN Configuration",
+                "1",
+                "LAN Configuration",
+                "Endorse"
+            ],
+            [
+                "LAN Configuration",
+                "See 1 endorsement for LAN Configuration",
+                "1"
+            ],
+            [
+                "Wifi Network Configuration",
+                "See 1 endorsement for Wifi Network Configuration",
+                "1",
+                "Wifi Network Configuration",
+                "Endorse"
+            ],
+            [
+                "Wifi Network Configuration",
+                "See 1 endorsement for Wifi Network Configuration",
+                "1"
+            ],
+            [
+                "Network+ Trained",
+                "Network+ Trained",
+                "Endorse"
+            ],
+            [
+                "Network+ Trained"
+            ],
+            [
+                "Security+ Trained",
+                "Security+ Trained",
+                "Endorse"
+            ],
+            [
+                "Security+ Trained"
+            ],
+            [
+                "SANS SEC401 Trained",
+                "SANS SEC401 Trained",
+                "Endorse"
+            ],
+            [
+                "SANS SEC401 Trained"
+            ],
+            [
+                "Kaspersky Business Space Security",
+                "Kaspersky Business Space Security",
+                "Endorse"
+            ],
+            [
+                "Kaspersky Business Space Security"
+            ]
+        ],
+        "summary": "",
+        "name": "Jeremy Brown",
+        "title": "Systems Administrator - Lync/Skype for Business Administration, Sr. at Northern Arizona University",
+        "url": "linkedin.com/in/jeremy-brown-a0b63325",
+        "phone": null,
+        "email": "jb2286@gmail.com"
+    }
+]

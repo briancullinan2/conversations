@@ -1,0 +1,900 @@
+[
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Carey Ransom | Chief Product Officer at Experian Consumer Services",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Carey Ransom",
+        "url": "linkedin.com/in/careyransom",
+        "email": "carey@ransomholdings.com",
+        "title": "Chief Product Officer at Experian Consumer Services"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-02T19:44:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Andrew Bourne | Chief Technology Officer at Bolste™",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Andrew Bourne",
+        "url": "linkedin.com/in/andrewbourne",
+        "phone": "602 341 3075 (Work)",
+        "email": "bournea@gmail.com",
+        "title": "Chief Technology Officer at Bolste™"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-02T21:17:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Andrew Bourne | Chief Technology Officer at Bolste™ > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Andrew Bourne",
+        "url": "linkedin.com/in/andrewbourne",
+        "phone": "602 341 3075 (Work)",
+        "email": "bournea@gmail.com",
+        "title": "Chief Technology Officer at Bolste™"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Great. Are you looking for new opportunities?",
+    "time": "2017-02-02T21:19:00.000Z",
+    "title": "Chief Technology Officer at Bolste™"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Andrew Bourne | Chief Technology Officer at Bolste™",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Andrew Bourne",
+        "url": "linkedin.com/in/andrewbourne",
+        "phone": "602 341 3075 (Work)",
+        "email": "bournea@gmail.com",
+        "title": "Chief Technology Officer at Bolste™"
+      }
+    ],
+    "message": "Yeah passively.",
+    "time": "2017-02-02T21:57:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Ian McNabb | Professional Recruiter at Apex Systems",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ian McNabb",
+        "url": "linkedin.com/in/ianmcnabb",
+        "title": "Professional Recruiter at Apex Systems"
+      }
+    ],
+    "message": "Ian McNabb, thanks for reaching out. What company is this for?",
+    "time": "2017-02-02T16:47:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Ian McNabb | Professional Recruiter at Apex Systems > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ian McNabb",
+        "url": "linkedin.com/in/ianmcnabb",
+        "title": "Professional Recruiter at Apex Systems"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Wells Fargo\nRemote (work from home)\n18 month contract to hire\n \nRoR Software Engineer\n \nRequired Skills:\n \nExpert knowledge of and hands-on experience with:\n*Unix operating system including Solaris and Red Hat System implementation and production support in a large Enterprise (5,000+ servers) engineering software solutions for a large enterprise Ruby on Rails Superior script writing skills in ruby, shell, perl awk, sed, and sql\n*MySQL standard script writing procedures and follows best practices application and system performance analysis system design and build\n*Troubleshooting and Root cause analysis LDAP managing a code management repository Consulting, analysis, system/app/tool selection writing detailed test procedures adhering to engineering standards\n*Candidate must have a thorough understanding of and embrace latest web technologies.\n*Must be familiar with the tools and methodologies used for building high quality software, including TDD testing, JavaScript, SCSS.\n*Must have a working knowledge of MVC frameworks and OOP principles.\n*Candidate must have experience with gathering business requirements and providing technology solutions to address those needs.\n*Must accurately and efficiently assesses business needs, listen carefully, and ask appropriate questions.\n*Provide thorough documentation of all system design and implementation, process and procedures. Individual must be pleasant, courteous, and professional as well as a team player.\n*Education Bachelor of Science degree in an engineering/science discipline or equivalent work experience is required",
+    "time": "2017-02-02T17:02:00.000Z",
+    "title": "Professional Recruiter at Apex Systems"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Ian McNabb | Professional Recruiter at Apex Systems",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ian McNabb",
+        "url": "linkedin.com/in/ianmcnabb",
+        "title": "Professional Recruiter at Apex Systems"
+      }
+    ],
+    "message": "Wells Fargo is lying. I've already applied like 3 times with no word back. Probably a waste of your time too. ;)",
+    "time": "2017-02-02T17:42:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Ian McNabb | Professional Recruiter at Apex Systems > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ian McNabb",
+        "url": "linkedin.com/in/ianmcnabb",
+        "title": "Professional Recruiter at Apex Systems"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Ive personally filled this role for them 7 times.",
+    "time": "2017-02-02T17:44:00.000Z",
+    "title": "Professional Recruiter at Apex Systems"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Ian McNabb | Professional Recruiter at Apex Systems",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ian McNabb",
+        "url": "linkedin.com/in/ianmcnabb",
+        "title": "Professional Recruiter at Apex Systems"
+      }
+    ],
+    "message": "Must be me then. Sorry to be a bother.",
+    "time": "2017-02-02T17:46:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Ian McNabb | Professional Recruiter at Apex Systems > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ian McNabb",
+        "url": "linkedin.com/in/ianmcnabb",
+        "title": "Professional Recruiter at Apex Systems"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "No worries at all! Have you ever interviewed before with the manager? If you like I can try sending your resume over since they move quickly with our company and it just may be the internal Wells team that is at fault here.",
+    "time": "2017-02-02T17:51:00.000Z",
+    "title": "Professional Recruiter at Apex Systems"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Ian McNabb | Professional Recruiter at Apex Systems",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ian McNabb",
+        "url": "linkedin.com/in/ianmcnabb",
+        "title": "Professional Recruiter at Apex Systems"
+      }
+    ],
+    "message": "I haven't interview with the manager. I had a list of questions that one manager asked from another recruiter that they collected during another person's interview. I've answered them but my answers weren't long or detailed enough so it's sort of stalled.",
+    "time": "2017-02-02T17:53:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Ian McNabb | Professional Recruiter at Apex Systems > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ian McNabb",
+        "url": "linkedin.com/in/ianmcnabb",
+        "title": "Professional Recruiter at Apex Systems"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Got it. So were the questions you answered with another staffing firm?",
+    "time": "2017-02-02T17:57:00.000Z",
+    "title": "Professional Recruiter at Apex Systems"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Ian McNabb | Professional Recruiter at Apex Systems",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ian McNabb",
+        "url": "linkedin.com/in/ianmcnabb",
+        "title": "Professional Recruiter at Apex Systems"
+      }
+    ],
+    "message": "Signature consulting. But I think it is for a different department now that I look back at the job descriptions for each.",
+    "time": "2017-02-02T18:06:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Ian McNabb | Professional Recruiter at Apex Systems > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Ian McNabb",
+        "url": "linkedin.com/in/ianmcnabb",
+        "title": "Professional Recruiter at Apex Systems"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Let me know if you are free for a quick call today.",
+    "time": "2017-02-02T18:21:00.000Z",
+    "title": "Professional Recruiter at Apex Systems"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Mary Catellier, SHRM-SCP, SPHR | Director of Human Resources at Desert Botanical Garden",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Mary Catellier, SHRM-SCP, SPHR",
+        "url": "linkedin.com/in/mary-catellier-shrm-scp-sphr-54244a11",
+        "email": "mcatellier@dbg.org",
+        "title": "Director of Human Resources at Desert Botanical Garden"
+      }
+    ],
+    "message": "Thank you for connecting! I love the botanical gardens!",
+    "time": "2017-02-02T22:58:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > David Mussehl | David Mussehl Entrepreneur, philanthropist and former CEO and Managing Partner of Fortune 100 company",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "David Mussehl",
+        "url": "linkedin.com/in/david-mussehl-11b03454",
+        "email": "mussehl10@gmail.com",
+        "title": "David Mussehl Entrepreneur, philanthropist and former CEO and Managing Partner of Fortune 100 company"
+      }
+    ],
+    "message": "Happy birthday!",
+    "time": "2017-02-02T21:18:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Allison Ewing | Director of Recruiting at Lytro",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Allison Ewing",
+        "url": "linkedin.com/in/alliewing",
+        "phone": "650-316-8872 (Work)",
+        "email": "allison@lytro.com",
+        "title": "Director of Recruiting at Lytro"
+      }
+    ],
+    "message": "Thank you for connecting! Nice work, Lytro looks awesome. :)",
+    "time": "2017-02-02T19:44:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Allison Ewing | Director of Recruiting at Lytro > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Allison Ewing",
+        "url": "linkedin.com/in/alliewing",
+        "phone": "650-316-8872 (Work)",
+        "email": "allison@lytro.com",
+        "title": "Director of Recruiting at Lytro"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "My pleasure, I don't have many wizards in my network. Glad what we are up to sparks an interest. If any positions arise in the future here that match up with your background I'll be sure to check in and see what you think.",
+    "time": "2017-02-02T21:13:00.000Z",
+    "title": "Director of Recruiting at Lytro"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Allison Ewing | Director of Recruiting at Lytro",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Allison Ewing",
+        "url": "linkedin.com/in/alliewing",
+        "phone": "650-316-8872 (Work)",
+        "email": "allison@lytro.com",
+        "title": "Director of Recruiting at Lytro"
+      }
+    ],
+    "message": "Thank you!",
+    "time": "2017-02-02T21:17:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Steve Gershik | CEO and Principal at Koyne Marketing, the Customer Marketing Agency",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Steve Gershik",
+        "url": "linkedin.com/in/gershik",
+        "email": "sgershik@yahoo.com",
+        "title": "CEO and Principal at Koyne Marketing, the Customer Marketing Agency"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-02T20:05:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Steve Weiss | CEO MuteSix (We're Hiring!)",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Steve Weiss",
+        "url": "linkedin.com/in/stevejweiss",
+        "email": "sweiss212@gmail.com",
+        "title": "CEO MuteSix (We're Hiring!)"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-02T18:52:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Brian Hassett | President and CEO at United Way of the Greater Capital Region",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Hassett",
+        "url": "linkedin.com/in/brian-hassett-67b95a2",
+        "phone": "518-456-2200 ext.111 (Work)",
+        "email": "bhassett@unitedwaygcr.org",
+        "title": "President and CEO at United Way of the Greater Capital Region"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-02T18:31:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Greg Gudorf | CEO at Pure Flix Digital",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Greg Gudorf",
+        "url": "linkedin.com/in/greggudorf",
+        "phone": "818-468-6529 (Mobile)",
+        "email": "saasup3@outlook.com",
+        "title": "CEO at Pure Flix Digital"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-02T17:40:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Greg Gudorf | CEO at Pure Flix Digital > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Greg Gudorf",
+        "url": "linkedin.com/in/greggudorf",
+        "phone": "818-468-6529 (Mobile)",
+        "email": "saasup3@outlook.com",
+        "title": "CEO at Pure Flix Digital"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Hi Brian,\n\nI pray that you’ve been doing well. I’d like to offer you our free Fruit of the Spirit devotional, which you can download here: http://bit.ly/FamilyDevotional\n \nIn Galatians, Paul invites us to ask the Spirit to transform our lives with the gifts of love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. This devotional includes nine devotions featuring movies that demonstrate the virtues Paul instructs us to develop.\n \nAlong with a link to watch each movie, you will find thoughts on how the characters and plot can help you open your heart to the Holy Spirit and transform your life. You can enjoy the devotional in several ways, including as a personal devotional, or as a family night activity. \nI hope you find this beneficial. Cheers to wholesome entertainment!\nGod Bless,\nGreg",
+    "time": "2017-02-02T18:24:00.000Z",
+    "title": "CEO at Pure Flix Digital"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Greg Gudorf | CEO at Pure Flix Digital",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Greg Gudorf",
+        "url": "linkedin.com/in/greggudorf",
+        "phone": "818-468-6529 (Mobile)",
+        "email": "saasup3@outlook.com",
+        "title": "CEO at Pure Flix Digital"
+      }
+    ],
+    "message": "Excellent! Just curious what prompted you to send this? I am Christian but beyond that I've studied Buddhism, Hinduism, and Judaism.",
+    "time": "2017-02-02T18:31:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Kris Degioia | Forbes Top 10 Digital Marketing Strategist | Forbes Top 20 Social Media Marketer | |National Speaker |",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Kris Degioia",
+        "url": "linkedin.com/in/krisdegioia",
+        "phone": "(615) 257-6854 (Work)",
+        "email": "kris@wtfmm.com",
+        "title": "Forbes Top 10 Digital Marketing Strategist | Forbes Top 20 Social Media Marketer | |National Speaker |"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-02T18:07:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Dustin Dowdy | Resource Manager at Signature Consulting",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Dustin Dowdy",
+        "url": "linkedin.com/in/dustin-dowdy-0252a9a9",
+        "phone": "6624190091 (Home)",
+        "email": "dbdowdy@gmail.com",
+        "title": "Resource Manager at Signature Consulting"
+      }
+    ],
+    "message": "You for competition for Wells, https://www.linkedin.com/in/ianmcnabb says he filled the position 7 times.",
+    "time": "2017-02-02T17:48:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Dustin Dowdy | Resource Manager at Signature Consulting > Brian Cullinan | wizard",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Dustin Dowdy",
+        "url": "linkedin.com/in/dustin-dowdy-0252a9a9",
+        "phone": "6624190091 (Home)",
+        "email": "dbdowdy@gmail.com",
+        "title": "Resource Manager at Signature Consulting"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      }
+    ],
+    "message": "Hahaha. Give him a sucker",
+    "time": "2017-02-02T17:50:00.000Z",
+    "title": "Resource Manager at Signature Consulting"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Dustin Dowdy | Resource Manager at Signature Consulting",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Dustin Dowdy",
+        "url": "linkedin.com/in/dustin-dowdy-0252a9a9",
+        "phone": "6624190091 (Home)",
+        "email": "dbdowdy@gmail.com",
+        "title": "Resource Manager at Signature Consulting"
+      }
+    ],
+    "message": "Oh I guess it's remote Ruby on rails. Different department?",
+    "time": "2017-02-02T17:54:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Christopher Young | Agile Software Developer",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Christopher Young",
+        "url": "linkedin.com/in/chris1young",
+        "phone": "602-577-4832 (Home)",
+        "email": "beesucker@gmail.com",
+        "title": "Agile Software Developer"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-02T17:49:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Brian Kann | Design/Build Executive, Senior Project Manager of Construction (click \"See More\" for complete Construction profile)",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Kann",
+        "url": "linkedin.com/in/brian-kann-8888411a",
+        "phone": "+16308805266 (Work)",
+        "email": "briankann@icloud.com",
+        "title": "Design/Build Executive, Senior Project Manager of Construction (click \"See More\" for complete Construction profile)"
+      }
+    ],
+    "message": "What startup? Similar to people per hour?",
+    "time": "2017-02-02T17:40:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Nicholas Spencer | Permanent Placement Recruiting Manager at Robert Half Technology",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Nicholas Spencer",
+        "url": "linkedin.com/in/nicholasrecruiting",
+        "phone": "480.276.0707 (Mobile)",
+        "email": "nic.spencer@azstaffingagency.com",
+        "title": "Permanent Placement Recruiting Manager at Robert Half Technology"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-02T14:36:00.000Z",
+    "title": "wizard"
+  },
+  {
+    "type": "conversations",
+    "conversations": "2Feb17",
+    "participants": "Brian Cullinan | wizard > Randy Murray | Owner, Randy Murray Productions",
+    "contacts": [
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Brian Cullinan",
+        "url": "linkedin.com/in/megamindbrian",
+        "phone": "4804660856 (Mobile)",
+        "email": "megamindbrian@gmail.com",
+        "title": "wizard"
+      },
+      {
+        "type": "conversations",
+        "conversations": "LinkedIn",
+        "name": "Randy Murray",
+        "url": "linkedin.com/in/randy-murray-70ba656",
+        "email": "randy@randymurrayproductions.com",
+        "title": "Owner, Randy Murray Productions"
+      }
+    ],
+    "message": "Thank you for connecting!",
+    "time": "2017-02-02T13:30:00.000Z",
+    "title": "wizard"
+  }
+]

@@ -1,0 +1,746 @@
+[
+    {
+        "resourceName": "people/c1902372984966852370",
+        "etag": "%EgUBAgcJCxoNAQIDBAUGBwgJCgsMDSIMOE9lQWkrWkNjYms9",
+        "names": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "1a6696268f3faf12"
+                    }
+                },
+                "displayName": "Aaron Casillas",
+                "familyName": "Casillas",
+                "givenName": "Aaron",
+                "displayNameLastFirst": "Casillas, Aaron"
+            }
+        ],
+        "emailAddresses": [
+            {
+                "metadata": {
+                    "primary": true,
+                    "source": {
+                        "type": "CONTACT",
+                        "id": "1a6696268f3faf12"
+                    }
+                },
+                "value": "acasillas@dynamynd.com"
+            }
+        ],
+        "experience": [
+            [
+                "Highlights"
+            ],
+            [
+                "6 Mutual Connections",
+                "You and Aaron both know Jennifer Bookspan, Kathy Kolbe, and 4 others"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Experience"
+            ],
+            [
+                "Operational Efficiency Manager",
+                "Company Name",
+                "Titan Solar Power",
+                "Dates Employed",
+                "Sep 2016 – Present",
+                "Employment Duration",
+                "1 yr 3 mos",
+                "Location",
+                "Gilbert, AZ",
+                "Management of various project to increase the efficiency and profitability of internal processes."
+            ],
+            [
+                "Director Of Operations",
+                "Company Name",
+                "Cloudmaker Technologies",
+                "Dates Employed",
+                "Apr 2015 – May 2016",
+                "Employment Duration",
+                "1 yr 2 mos",
+                "\t•Lead successful marketing campaign that led to the creation of the company and successful crowd funding of initial capital.\t•Established a vendor network of over 120 businesses that were vetted for business ethics & professionalism.\t•Oversaw negotiations with international suppliers and factories to manufacture hardware products and managed supply chain.\t•Management of communication with hardware engineering teams (USA), software developers (India), and manufacturing factories (China).\t•Managed daily Scrum meetings and maintained Trello & Basecamp PM structure.     Projects Directed:\t•Website Development\t•Internal Infrastructure Systems\t•Hardware Product Development\t•Vendor On-Boarding Webinars\t\t         •Personnel Acquisition\t•Marketing & Sales Generation\t•Resource Development\t•CRM Development (Nimble)"
+            ],
+            [
+                "Project Manager",
+                "Company Name",
+                "Dynamynd Inc. / Problem Solving Systems / Kolbe Corp.",
+                "Dates Employed",
+                "Apr 2013 – Jul 2015",
+                "Employment Duration",
+                "2 yrs 4 mos",
+                "Location",
+                "Scottsdale, AZ",
+                "\t•Internal systems development at Dynamynd Inc.\t•Liaison between programming staff and C-level business executives.\t•Technical support, product recommendation, and IT solutions for management team.\t•Managed relations and sales proposals to education and healthcare clients.\t•Development of Creativity Cubes™ diagnostics- a physical testing application for non-readers to obtain instinctive nature assessment.\t•Managed agile application development of web and iOS application Instinct-ID™ used to provide results of Creativity Cubes™ diagnostics using Teamwork PM.\t•Analyzed assessment methods to ensure accurate results.\t•Successfully lead video documentary project interviewing leaders of various fields.\t•Creation of the Project Go Ahead™ marketing video.\t•Assisted the execution of Kolbe™ Certification Seminars."
+            ],
+            [
+                "Graphic Designer",
+                "Company Name",
+                "The University of Arizona",
+                "Dates Employed",
+                "Jan 2011 – Dec 2014",
+                "Employment Duration",
+                "4 yrs",
+                "\t•Led design of re-branding for the Chicano/Hispano Student Affairs Center transition to the Adalberto & Ana Guerrero Student Center.\t•Developed photographs with artistic photo editing to create themed designs for graduation convocation programs and promotional media.\t•Created 2012, 2013, and 2014 Graduation Convocation programs.\t•Executed collaborative design projects with other student centers on-campus.\t•Created fliers and media to promote events.\t•Expert with Adobe programs."
+            ],
+            [
+                "AppleCare At-Home Advisor - Technical Support",
+                "Company Name",
+                "Apple",
+                "Dates Employed",
+                "May 2012 – Apr 2013",
+                "Employment Duration",
+                "1 yr",
+                "\t•Provided full technical support and customer service for all Apple products.\t•Ranked #1 in phone sales Q4 2012 of both USA/Canada technical support and phone sales divisions."
+            ],
+            [
+                "Education"
+            ],
+            [
+                "Education"
+            ],
+            [
+                "The University of Arizona",
+                "Degree Name",
+                "Bachelors: Neuroscience & Cognitive Science",
+                "Field Of Study",
+                "Focus: Neurobiology",
+                "Dates attended or expected graduation",
+                "2011 – 2015"
+            ],
+            [
+                "The University of Arizona",
+                "Degree Name",
+                "Bachelors: Neuroscience & Cognitive Science",
+                "Field Of Study",
+                "Focus: Neurobiology",
+                "Dates attended or expected graduation",
+                "2011 – 2015"
+            ],
+            [
+                "Chandler/Gilbert Community College",
+                "Degree Name",
+                "Emergency Medical Technician",
+                "Field Of Study",
+                "Emergency Medicine",
+                "Dates attended or expected graduation",
+                "2010 – 2011"
+            ],
+            [
+                "Chandler/Gilbert Community College",
+                "Degree Name",
+                "Emergency Medical Technician",
+                "Field Of Study",
+                "Emergency Medicine",
+                "Dates attended or expected graduation",
+                "2010 – 2011"
+            ],
+            [
+                "Cisco Networking Academy",
+                "Degree Name",
+                "Comptia A+ Computer IT Certification",
+                "Dates attended or expected graduation",
+                "2010 – 2011"
+            ],
+            [
+                "Cisco Networking Academy",
+                "Degree Name",
+                "Comptia A+ Computer IT Certification",
+                "Dates attended or expected graduation",
+                "2010 – 2011"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Volunteer Experience"
+            ],
+            [
+                "Audiologist Assistant",
+                "Company Name",
+                "Tucson Medical Center",
+                "Dates volunteered",
+                "Aug 2013 – May 2014",
+                "Volunteer duration",
+                "10 mos",
+                "Worked directly with Dr. James Dean, AuD assisting with pediatric audiology patients."
+            ],
+            [
+                "Audiologist Assistant",
+                "Company Name",
+                "Tucson Medical Center",
+                "Dates volunteered",
+                "Aug 2013 – May 2014",
+                "Volunteer duration",
+                "10 mos",
+                "Worked directly with Dr. James Dean, AuD assisting with pediatric audiology patients."
+            ],
+            [
+                "Pediatrics",
+                "Company Name",
+                "Tucson Medical Center",
+                "Dates volunteered",
+                "Aug 2012 – Jan 2013",
+                "Volunteer duration",
+                "6 mos"
+            ],
+            [
+                "Pediatrics",
+                "Company Name",
+                "Tucson Medical Center",
+                "Dates volunteered",
+                "Aug 2012 – Jan 2013",
+                "Volunteer duration",
+                "6 mos"
+            ],
+            [
+                "Featured Skills & Endorsements"
+            ],
+            [
+                "See fewer skills"
+            ],
+            "Recommendations",
+            [
+                "Ezoic",
+                "2,312 followers"
+            ],
+            [
+                "University of Arizona",
+                "230,171 followers"
+            ],
+            [
+                "University of Arizona",
+                "213,944 followers"
+            ],
+            [
+                "Chandler/Gilbert Community College",
+                "11,320 followers"
+            ],
+            [
+                "Chandler/Gilbert Community College",
+                "12,951 followers"
+            ],
+            [
+                "See connections (142)"
+            ],
+            [
+                "Contact and Personal Info"
+            ],
+            "People Also Viewed"
+        ],
+        "interests": [
+            [
+                "Ezoic",
+                "2,312 followers"
+            ],
+            [
+                "Ezoic",
+                "2,312 followers"
+            ],
+            [
+                "University of Arizona",
+                "230,171 followers"
+            ],
+            [
+                "University of Arizona",
+                "230,171 followers"
+            ],
+            [
+                "University of Arizona",
+                "213,944 followers"
+            ],
+            [
+                "University of Arizona",
+                "213,944 followers"
+            ],
+            [
+                "Chandler/Gilbert Community College",
+                "11,320 followers"
+            ],
+            [
+                "Chandler/Gilbert Community College",
+                "11,320 followers"
+            ],
+            [
+                "Chandler/Gilbert Community College",
+                "12,951 followers"
+            ],
+            [
+                "Chandler/Gilbert Community College",
+                "12,951 followers"
+            ]
+        ],
+        "recommendations": [],
+        "skills": [
+            [
+                "Logo Design",
+                "See 7 endorsements for Logo Design",
+                "7",
+                "Logo Design",
+                "Endorse",
+                "Endorsed by 2 of Aaron’s colleagues at University of Arizona"
+            ],
+            [
+                "Logo Design",
+                "See 7 endorsements for Logo Design",
+                "7"
+            ],
+            [
+                "Graphic Design",
+                "See 7 endorsements for Graphic Design",
+                "7",
+                "Graphic Design",
+                "Endorse",
+                "Arthur J. McCoy Solar Analyst and 6 connections have given endorsements for this skill"
+            ],
+            [
+                "Graphic Design",
+                "See 7 endorsements for Graphic Design",
+                "7"
+            ],
+            [
+                "OS X",
+                "See 7 endorsements for OS X",
+                "7",
+                "OS X",
+                "Endorse",
+                "Arthur J. McCoy Solar Analyst and 6 connections have given endorsements for this skill"
+            ],
+            [
+                "OS X",
+                "See 7 endorsements for OS X",
+                "7"
+            ],
+            [
+                "Final Cut Pro",
+                "See 6 endorsements for Final Cut Pro",
+                "6",
+                "Final Cut Pro",
+                "Endorse"
+            ],
+            [
+                "Final Cut Pro",
+                "See 6 endorsements for Final Cut Pro",
+                "6"
+            ],
+            [
+                "Video Editing",
+                "See 5 endorsements for Video Editing",
+                "5",
+                "Video Editing",
+                "Endorse"
+            ],
+            [
+                "Video Editing",
+                "See 5 endorsements for Video Editing",
+                "5"
+            ],
+            [
+                "Photoshop",
+                "See 5 endorsements for Photoshop",
+                "5",
+                "Photoshop",
+                "Endorse"
+            ],
+            [
+                "Photoshop",
+                "See 5 endorsements for Photoshop",
+                "5"
+            ],
+            [
+                "InDesign",
+                "See 5 endorsements for InDesign",
+                "5",
+                "InDesign",
+                "Endorse"
+            ],
+            [
+                "InDesign",
+                "See 5 endorsements for InDesign",
+                "5"
+            ],
+            [
+                "Mac",
+                "See 5 endorsements for Mac",
+                "5",
+                "Mac",
+                "Endorse"
+            ],
+            [
+                "Mac",
+                "See 5 endorsements for Mac",
+                "5"
+            ],
+            [
+                "Dreamweaver",
+                "See 5 endorsements for Dreamweaver",
+                "5",
+                "Dreamweaver",
+                "Endorse"
+            ],
+            [
+                "Dreamweaver",
+                "See 5 endorsements for Dreamweaver",
+                "5"
+            ],
+            [
+                "Adobe Acrobat",
+                "See 5 endorsements for Adobe Acrobat",
+                "5",
+                "Adobe Acrobat",
+                "Endorse"
+            ],
+            [
+                "Adobe Acrobat",
+                "See 5 endorsements for Adobe Acrobat",
+                "5"
+            ],
+            [
+                "QuarkXPress",
+                "See 5 endorsements for QuarkXPress",
+                "5",
+                "QuarkXPress",
+                "Endorse"
+            ],
+            [
+                "QuarkXPress",
+                "See 5 endorsements for QuarkXPress",
+                "5"
+            ],
+            [
+                "Adobe Creative Suite",
+                "See 4 endorsements for Adobe Creative Suite",
+                "4",
+                "Adobe Creative Suite",
+                "Endorse"
+            ],
+            [
+                "Adobe Creative Suite",
+                "See 4 endorsements for Adobe Creative Suite",
+                "4"
+            ],
+            [
+                "Microsoft Excel",
+                "See 4 endorsements for Microsoft Excel",
+                "4",
+                "Microsoft Excel",
+                "Endorse"
+            ],
+            [
+                "Microsoft Excel",
+                "See 4 endorsements for Microsoft Excel",
+                "4"
+            ],
+            [
+                "Microsoft Office",
+                "See 4 endorsements for Microsoft Office",
+                "4",
+                "Microsoft Office",
+                "Endorse"
+            ],
+            [
+                "Microsoft Office",
+                "See 4 endorsements for Microsoft Office",
+                "4"
+            ],
+            [
+                "Leadership",
+                "See 4 endorsements for Leadership",
+                "4",
+                "Leadership",
+                "Endorse"
+            ],
+            [
+                "Leadership",
+                "See 4 endorsements for Leadership",
+                "4"
+            ],
+            [
+                "Website Development",
+                "See 3 endorsements for Website Development",
+                "3",
+                "Website Development",
+                "Endorse"
+            ],
+            [
+                "Website Development",
+                "See 3 endorsements for Website Development",
+                "3"
+            ],
+            [
+                "Social Media",
+                "See 3 endorsements for Social Media",
+                "3",
+                "Social Media",
+                "Endorse"
+            ],
+            [
+                "Social Media",
+                "See 3 endorsements for Social Media",
+                "3"
+            ],
+            [
+                "Team Leadership",
+                "See 3 endorsements for Team Leadership",
+                "3",
+                "Team Leadership",
+                "Endorse"
+            ],
+            [
+                "Team Leadership",
+                "See 3 endorsements for Team Leadership",
+                "3"
+            ],
+            [
+                "Microsoft Word",
+                "See 3 endorsements for Microsoft Word",
+                "3",
+                "Microsoft Word",
+                "Endorse"
+            ],
+            [
+                "Microsoft Word",
+                "See 3 endorsements for Microsoft Word",
+                "3"
+            ],
+            [
+                "Public Speaking",
+                "See 3 endorsements for Public Speaking",
+                "3",
+                "Public Speaking",
+                "Endorse"
+            ],
+            [
+                "Public Speaking",
+                "See 3 endorsements for Public Speaking",
+                "3"
+            ],
+            [
+                "Customer Service",
+                "See 3 endorsements for Customer Service",
+                "3",
+                "Customer Service",
+                "Endorse"
+            ],
+            [
+                "Customer Service",
+                "See 3 endorsements for Customer Service",
+                "3"
+            ],
+            [
+                "Strategic Planning",
+                "See 3 endorsements for Strategic Planning",
+                "3",
+                "Strategic Planning",
+                "Endorse"
+            ],
+            [
+                "Strategic Planning",
+                "See 3 endorsements for Strategic Planning",
+                "3"
+            ],
+            [
+                "PowerPoint",
+                "See 3 endorsements for PowerPoint",
+                "3",
+                "PowerPoint",
+                "Endorse"
+            ],
+            [
+                "PowerPoint",
+                "See 3 endorsements for PowerPoint",
+                "3"
+            ],
+            [
+                "Emergency Medicine",
+                "See 2 endorsements for Emergency Medicine",
+                "2",
+                "Emergency Medicine",
+                "Endorse"
+            ],
+            [
+                "Emergency Medicine",
+                "See 2 endorsements for Emergency Medicine",
+                "2"
+            ],
+            [
+                "Illustrator",
+                "See 2 endorsements for Illustrator",
+                "2",
+                "Illustrator",
+                "Endorse"
+            ],
+            [
+                "Illustrator",
+                "See 2 endorsements for Illustrator",
+                "2"
+            ],
+            [
+                "Networking",
+                "See 2 endorsements for Networking",
+                "2",
+                "Networking",
+                "Endorse"
+            ],
+            [
+                "Networking",
+                "See 2 endorsements for Networking",
+                "2"
+            ],
+            [
+                "Information Technology",
+                "See 2 endorsements for Information Technology",
+                "2",
+                "Information Technology",
+                "Endorse"
+            ],
+            [
+                "Information Technology",
+                "See 2 endorsements for Information Technology",
+                "2"
+            ],
+            [
+                "Computer Repair",
+                "See 2 endorsements for Computer Repair",
+                "2",
+                "Computer Repair",
+                "Endorse"
+            ],
+            [
+                "Computer Repair",
+                "See 2 endorsements for Computer Repair",
+                "2"
+            ],
+            [
+                "iOS",
+                "See 2 endorsements for iOS",
+                "2",
+                "iOS",
+                "Endorse"
+            ],
+            [
+                "iOS",
+                "See 2 endorsements for iOS",
+                "2"
+            ],
+            [
+                "Management",
+                "See 2 endorsements for Management",
+                "2",
+                "Management",
+                "Endorse"
+            ],
+            [
+                "Management",
+                "See 2 endorsements for Management",
+                "2"
+            ],
+            [
+                "Research",
+                "See 2 endorsements for Research",
+                "2",
+                "Research",
+                "Endorse"
+            ],
+            [
+                "Research",
+                "See 2 endorsements for Research",
+                "2"
+            ],
+            [
+                "Leadership Development",
+                "See 2 endorsements for Leadership Development",
+                "2",
+                "Leadership Development",
+                "Endorse"
+            ],
+            [
+                "Leadership Development",
+                "See 2 endorsements for Leadership Development",
+                "2"
+            ],
+            [
+                "Project Management",
+                "See 1 endorsement for Project Management",
+                "1",
+                "Project Management",
+                "Endorse"
+            ],
+            [
+                "Project Management",
+                "See 1 endorsement for Project Management",
+                "1"
+            ],
+            [
+                "Product Development",
+                "See 1 endorsement for Product Development",
+                "1",
+                "Product Development",
+                "Endorse"
+            ],
+            [
+                "Product Development",
+                "See 1 endorsement for Product Development",
+                "1"
+            ],
+            [
+                "Product Management",
+                "See 1 endorsement for Product Management",
+                "1",
+                "Product Management",
+                "Endorse"
+            ],
+            [
+                "Product Management",
+                "See 1 endorsement for Product Management",
+                "1"
+            ],
+            [
+                "Business Process Improvement",
+                "See 1 endorsement for Business Process Improvement",
+                "1",
+                "Business Process Improvement",
+                "Endorse"
+            ],
+            [
+                "Business Process Improvement",
+                "See 1 endorsement for Business Process Improvement",
+                "1"
+            ],
+            [
+                "Apple",
+                "See 2 endorsements for Apple",
+                "2",
+                "Apple",
+                "Endorse"
+            ],
+            [
+                "Apple",
+                "See 2 endorsements for Apple",
+                "2"
+            ],
+            [
+                "Kolbe Certified",
+                "See 2 endorsements for Kolbe Certified",
+                "2",
+                "Kolbe Certified",
+                "Endorse"
+            ],
+            [
+                "Kolbe Certified",
+                "See 2 endorsements for Kolbe Certified",
+                "2"
+            ]
+        ],
+        "summary": "    Experienced professional with increasing responsibility in leadership roles with a proven ability to effectively operate in competitive and changing environments. Notable management experience includes global operations management, project management in hardware and software, successful marketing and crowd-funding campaigns, and organizational infrastructure development.\n  \n  \n",
+        "name": "Aaron Casillas",
+        "title": "Operational Efficiency Manager",
+        "url": "linkedin.com/in/aaron-casillas-99889473",
+        "phone": "",
+        "email": "aaroncasillas@icloud.com"
+    }
+]
