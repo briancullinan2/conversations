@@ -11,6 +11,10 @@ I am sure there is discussion of crimes committed, not that anyone cares about j
 My mind is compromised by my own government, this should explain to any onlooker how it happened.
 
 ## Development
-Pull requests welcome. I am starting a company like The Circle to compete with Google and Facebook for transparency of social behaviors. It's no longer a game, I've already won and lost like the cat inside Schrodinger's box.
+Pull requests welcome.
+
+Some of the .txt files at the top level are terms I've already extracted. Expressions of love, hate, fear. I'm gifting unfettered access to my thoughts to the future of AI.
+
+I am starting a company like The Circle to compete with Google and Facebook for transparency of social behaviors. It's no longer a game, I've already won and lost like the cat inside Schrodinger's box.
 
 
